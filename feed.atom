@@ -2,10 +2,120 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://lvytwjw.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-05-21T07:31:01.423Z</updated>
+    <updated>2021-05-21T08:09:55.673Z</updated>
     <generator>osmosfeed 1.7.2</generator>
     <link rel="alternate" href="https://lvytwjw.github.io/rss/index.html"/>
     <link rel="self" href="https://lvytwjw.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[罗永浩质押合同案一审宣判：对锤子数码所欠债务承担赔偿责任]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1130881.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1130881.htm"/>
+        <updated>2021-05-21T08:07:45.000Z</updated>
+        <summary type="html"><![CDATA[5月21日消息，天眼查App显示，近日，北京腾信创新网络营销技术股份有限公司与罗永浩质押合同纠纷一审民事判决书公开，裁判结果为，罗永浩对锤子数码所欠北京腾信创新网络营销技术股份有限公司的债务承担赔偿责任，赔偿责任以罗永浩持有的锤子科技（北京）股份有限公司177378股股票价值为限等。
+ 阅读全文]]></summary>
+        <author>
+            <name>vivian</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[最好不要办 办了也不看：约6成日本人赞成取消东京奥运]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1130879.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1130879.htm"/>
+        <updated>2021-05-21T08:06:27.000Z</updated>
+        <summary type="html"><![CDATA[萨马兰奇体育频道5月21日报道 日媒称，约6成日本人同意取消东京奥运会。日本《读卖新闻》5月7至9日进行的全国舆论调查结果显示，约60%的日本人认为应该取消在东京举行的奥运会和残奥会。
+ 阅读全文]]></summary>
+        <author>
+            <name>vivian</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[马斯克上周造访英国 传闻特斯拉将在英国建厂]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1130877.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1130877.htm"/>
+        <updated>2021-05-21T08:04:55.000Z</updated>
+        <summary type="html"><![CDATA[根据传闻，特斯拉CEO埃隆·马斯克可能正在研究在英国建新的超级工厂的可能性。这些传闻是基于马斯克在过去一年内多次造访英国，并且在当地停留数天的背景下而诞生的。
+ 阅读全文]]></summary>
+        <author>
+            <name>study875</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[科学家用蜡烛中常见的有机化合物 大幅改善了液流电池能量密度]]></title>
+        <id>https://www.cnbeta.com/articles/science/1130875.htm</id>
+        <link href="https://www.cnbeta.com/articles/science/1130875.htm"/>
+        <updated>2021-05-21T07:57:12.000Z</updated>
+        <summary type="html"><![CDATA[随着世界向风能和太阳能等可再生能源转型，科学家们已将氧化还原液流电池装置，视作可满足未来能源存储需求的解决方案的一部分。不过要在性能和可持续性方面得到更大的改善，还有许多前置工作要先完成。好消息是，来自美国太平洋西北实验室（PNNL）的一支研究团队，刚刚证实了蜡烛中广泛使用的一种化合物，可被用于缓解现代能源储存的挑战。
+ 阅读全文]]></summary>
+        <author>
+            <name>raymon725</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[今年一季度黑客利用微软和谷歌等服务发送了5200万条恶意信息]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1130873.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1130873.htm"/>
+        <updated>2021-05-21T07:56:14.000Z</updated>
+        <summary type="html"><![CDATA[2021 年第 1 季度，网络犯罪分子利用 Office 365、Azure、OneDrive、SharePoint、G-Suite 和 Firebase 等存储服务发送了 5200 万条恶意信息。在疫情期间在企业加速推进云端迁移的过程中，犯罪分子将钓鱼电子邮件隐藏到微软和Google的各项服务中，来达到窃取用户数据、勒索用户等目的。
+ 阅读全文]]></summary>
+        <author>
+            <name>study875</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[荷兰一法庭判日产前董事长戈恩退还500万欧元薪酬]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1130871.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1130871.htm"/>
+        <updated>2021-05-21T07:53:42.000Z</updated>
+        <summary type="html"><![CDATA[荷兰阿姆斯特丹一家法庭20日裁定，日本日产汽车公司前董事长卡洛斯·戈恩应退还从日产与日本三菱汽车合资的子公司领取的近500万欧元（约合3925万元人民币）薪酬。
+ 阅读全文]]></summary>
+        <author>
+            <name>vivian</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[左晖确诊肺癌7年去世，“非常规治疗手段”细胞疗法再引关注]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1130869.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1130869.htm"/>
+        <updated>2021-05-21T07:41:47.000Z</updated>
+        <summary type="html"><![CDATA[5月20日，贝壳找房发布讣告，公司创始人兼董事长左晖因疾病意外恶化去世。从网络流出的一份链家项目投资计划书来看，左晖患肺癌已经有7年，在切除三分之一的肺后进行了化疗和细胞疗法进行治疗。据21世纪经济报道等多家媒体证实，左晖于2013年9月被诊断为肺癌，后曾赴美治疗，经过化疗和细胞治疗后回国边休养边工作。
+ 阅读全文]]></summary>
+        <author>
+            <name>study875</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[有关斑马鱼的新研究表明诱导冬眠可能有助于限制太空旅行风险]]></title>
+        <id>https://www.cnbeta.com/articles/science/1130867.htm</id>
+        <link href="https://www.cnbeta.com/articles/science/1130867.htm"/>
+        <updated>2021-05-21T07:37:24.000Z</updated>
+        <summary type="html"><![CDATA[据外媒New Atlas报道，将人类安全地送上火星这样的地方将带来各种科学挑战，其中一个特别紧迫的挑战是人类健康这一相当重要的问题。宇航员在太空中长期生存可能会面临肠道微生物组的变化、休眠病毒的重新激活、白血病和线粒体功能失调等危险。但是一项有关斑马鱼的新研究表明诱导冬眠可能有助于限制风险。
+ 阅读全文]]></summary>
+        <author>
+            <name>vivian</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[研发支出差距巨大 AMD无法挑战英伟达]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1130865.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1130865.htm"/>
+        <updated>2021-05-21T07:35:16.000Z</updated>
+        <summary type="html"><![CDATA[据报道，AMD公司新推出的Radeon 6000系列显卡似乎并没有被伤害到竞争对手NVIDIA  。迄今为止，NVIDIA的股票表现都超过了纳斯达克综合指数和AMD。实际上，在撰写本文时，NVIDIA的股票上涨了6％，而AMD的股票下跌了19％以上。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[荣耀50系列将全球首发搭载骁龙778G移动平台]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1130863.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1130863.htm"/>
+        <updated>2021-05-21T07:30:58.000Z</updated>
+        <summary type="html"><![CDATA[今日，2021高通技术与合作峰会在北京正式举行。大会上，除了再次回顾骁龙888外，还提到了最新发布的骁龙778G芯片。值得一提的是，本次峰会上唯一现场演讲的手机代表，荣耀CEO赵明作为嘉宾压轴登场。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[北京夜查电动车违规停放充电 24家物业单位不作为被处罚]]></title>
         <id>https://www.cnbeta.com/articles/tech/1130861.htm</id>
