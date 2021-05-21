@@ -103,6 +103,24 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=340825",
+          "author": "Adam Rackis",
+          "description": "This post is an accelerated introduction to Svelte from the point of view of someone with solid experience with React. I’ll provide a quick introduction, and then shift focus to things like state management and DOM interoperability, among other things. …\nThe post Svelte for the Experienced React Dev appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/svelte-for-the-experienced-react-dev/",
+          "publishedOn": "2021-05-21T14:30:59.000Z",
+          "wordCount": 3071,
+          "title": "Svelte for the Experienced React Dev"
+        },
+        {
+          "id": "https://css-tricks.com/?p=340919",
+          "author": "Chris Coyier",
+          "description": "Collection of common CSS mistakes, and how to fix them\nFrom Stefánia Péter. \nClever idea for a site! Some of them are little mind-twisters that could bite you, and some of them are honing in on best practices that …\nThe post CSS Hell appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://csshell.dev/",
+          "publishedOn": "2021-05-21T14:29:16.000Z",
+          "wordCount": 295,
+          "title": "CSS Hell"
+        },
+        {
           "id": "https://css-tricks.com/?p=340599",
           "author": "Chris Coyier",
           "description": "Jonathan Neal tweeted a heck of a little CSS trick the other day, putting JSON inside CSS and plucking it out with JavaScript. Valid values for custom properties are quite liberal! So this looks for a CSS rule (e.g. a …\nThe post JSON in CSS appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
@@ -486,6 +504,15 @@
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
         {
+          "id": "6098ce302cd0545b5e944d0b",
+          "author": "",
+          "description": "In programming, an array is a collection of elements or items. Arrays store data as elements and retrieve them back when you need them.  The array data structure is widely used in all programming languages that support it. In this handbook, I'll teach you all about arrays in JavaScript. You'll",
+          "link": "https://www.freecodecamp.org/news/the-javascript-array-handbook/",
+          "publishedOn": "2021-05-21T15:33:45.000Z",
+          "wordCount": 4309,
+          "title": "The JavaScript Array Handbook – JS Array Methods Explained with Examples"
+        },
+        {
           "id": "60a6b3ab906c5207e3a7f5fa",
           "author": "",
           "description": "Angular is one of the most popular web frameworks. We just released a course on the freeCodeCamp.org YouTube channel that will teach you how to create an Angular 11 project from scratch. It uses a public API to create a game database website. You will gain a great foundation",
@@ -582,6 +609,24 @@
       "feedUrl": "https://www.cnbeta.com/backend.php",
       "siteUrl": "https://www.cnbeta.com",
       "articles": [
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1131009.htm",
+          "author": "maomao",
+          "description": "大多数YouTube频道没有为他们的视频上传字幕，因此，自愿提供高质量字幕供其他观众阅读就成了问题。然而，在去年9月，YouTube取消了允许观众提交字幕的功能，理由是\"使用率低\"和\"滥用\"。创作者不得不开始自己制作字幕。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1131009.htm",
+          "publishedOn": "2021-05-21T16:11:09.000Z",
+          "wordCount": 196,
+          "title": "YouTube取消社区上传字幕功能 现在更多创作者正在自己制作字幕"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1131007.htm",
+          "author": "maomao",
+          "description": "微软预测，视频会议的未来是你的脸在更大的显示屏上栩栩如生，空间音频让你在房间里有一个更明确的位置，而且即使在新冠疫情大流行的情况下，混合工作场所也会成为一种现状获得认可。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1131007.htm",
+          "publishedOn": "2021-05-21T15:51:03.000Z",
+          "wordCount": 201,
+          "title": "微软CEO谈论混合办公室愿景 涉及大脸显示和疫苗验证"
+        },
         {
           "id": "https://www.cnbeta.com/articles/tech/1131005.htm",
           "author": "maomao",
