@@ -2,10 +2,174 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://lvytwjw.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-05-21T11:07:13.558Z</updated>
+    <updated>2021-05-21T12:11:53.931Z</updated>
     <generator>osmosfeed 1.7.2</generator>
     <link rel="alternate" href="https://lvytwjw.github.io/rss/index.html"/>
     <link rel="self" href="https://lvytwjw.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[NVIDIA会在线上Computex宣布RTX 3070 Ti/3080 Ti吗？看起来有可能]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1130967.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1130967.htm"/>
+        <updated>2021-05-21T12:07:59.000Z</updated>
+        <summary type="html"><![CDATA[我们离2021年的Computex（线上举办的台北电脑展）只有一个多星期了。今年的活动在5月31日星期一至6月6日星期日之间举行，开幕式当天，NVIDIA将发表主题演讲。当然，大家心中的问题是，我们是否会看到传闻已久的RTX 3080 Ti和RTX 3070 Ti的确认？
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[麻省理工学院新算法帮助机器人协作完成工作]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1130965.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1130965.htm"/>
+        <updated>2021-05-21T12:02:43.000Z</updated>
+        <summary type="html"><![CDATA[想要完成复杂的任务，有时候光靠一台机器人是不够的。算法使机器人团队能够完成任务，如测绘或搜索和救援，并将浪费的精力降到最低。考虑一下寻找在森林中迷路的徒步旅行者的搜救任务，救援人员可能希望部署一队轮式机器人在森林中漫游，或许还可以借助无人机从高空搜寻现场，机器人团队的好处是显而易见的。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[三星为其互动显示器产品系列增加75英寸机型]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1130963.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1130963.htm"/>
+        <updated>2021-05-21T11:57:08.000Z</updated>
+        <summary type="html"><![CDATA[在COVID-19大流行中，三星为满足混合学习和在家工作的市场要求，去年首次推出了其巨大的协作显示器。85英寸交互式显示器只是一个不断增长的产品系列的一部分，现在这个产品系列又多了一个更实惠的新成员。三星今天宣布推出Interactive Flip 3，配备75寸4K显示屏，改进的安全协议，笔到纸的书写模式以及更多。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Freenode IRC工作者集体请辞 以表达对新管理层的不满]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1130961.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1130961.htm"/>
+        <updated>2021-05-21T11:53:07.000Z</updated>
+        <summary type="html"><![CDATA[作为一个开源互联网中继聊天（IRC）网络，Freenode 项目的大多数志愿者工作可追溯到 1995 年。其长期致力于充当免费和开源软件项目的实时通信渠道，目前拥有约 7.6 万用户和 4.2 万个聊天室。然而为了表达对敌意收购的新管理的不满，Freenode IRC 工作人员已经集体辞职，且不少人都推出了取而代之的 Libera Chat 服务。
+ 阅读全文]]></summary>
+        <author>
+            <name>raymon725</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[重温经典！《盖亚奥特曼》数码修复版登陆B站]]></title>
+        <id>https://hot.cnbeta.com/articles/comic/1130959.htm</id>
+        <link href="https://hot.cnbeta.com/articles/comic/1130959.htm"/>
+        <updated>2021-05-21T11:50:12.000Z</updated>
+        <summary type="html"><![CDATA[5月21日消息，哔哩哔哩番剧官方微博宣布，《盖亚奥特曼》中日双语高清数码修复版将于5月22日0点在B站上线。资料显示，《盖亚奥特曼》是日本圆谷公司1998年拍摄的特摄电视剧，这部特摄剧引入了两位主角：盖亚奥特曼和阿古茹奥特曼。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[朱海舟上手新款iPad Pro：续航真不太行 亮屏时间不到5小时]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1130957.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1130957.htm"/>
+        <updated>2021-05-21T11:49:36.000Z</updated>
+        <summary type="html"><![CDATA[5月21日消息，坚果手机产品经理朱海舟分享了12.9英寸iPad Pro使用心得。朱海舟表示，iPad Pro 12.9英寸续航真不太行，满打满算开屏时间不到五小时。根据苹果官网公布的信息，12.9英寸iPad Pro内置40.88瓦时聚合物充电电池，使用无线局域网浏览网页或观看视频，使用时间最长可达10小时。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AMD RX 6600 XT谍照曝光：核心/显存容量确认]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1130955.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1130955.htm"/>
+        <updated>2021-05-21T11:48:50.000Z</updated>
+        <summary type="html"><![CDATA[纸面爆料许久后，AMD Radeon RX 6600 XT显卡谍照曝光。图中应是一张公版卡，标签显示核心为Navi 23 XT，8GB GDDR6显存，接口提供一个DP和三个HDMI。按照此前消息，其它未显示的规格信息还有2048颗六处理器、128bit显存位宽，带宽16Gbps，GPU频率1692/2684 MHz，热设计功耗130瓦。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[特斯拉最新OTA推送2021.4.18软件版本 升级速度限制等]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1130953.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1130953.htm"/>
+        <updated>2021-05-21T11:48:06.000Z</updated>
+        <summary type="html"><![CDATA[5月21日，@特斯拉客户支持宣布，将正式推送2021.4.18软件版本。此次OTA推送主要针对4个方面进行升级，包括语音识别、速度限制、Aptopilot自动辅助驾驶等。具体来看，语音识别方面，整体体提升了准确率和响应速度,并媳妇了一些识别错误。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[科学研究表明健康饮食可以通过计算机分析设计]]></title>
+        <id>https://www.cnbeta.com/articles/science/1130951.htm</id>
+        <link href="https://www.cnbeta.com/articles/science/1130951.htm"/>
+        <updated>2021-05-21T11:46:46.000Z</updated>
+        <summary type="html"><![CDATA[最近，瑞典查尔默斯理工大学（（Chalmers University of Technology））发表在《PNAS》杂志上的研究表明，用于肠道中细菌相互作用的新数学模型可帮助设计新的益生菌和饮食来预防疾病。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[赵明：荣耀目前搭载Android 鸿蒙做得好或考虑采用]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1130949.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1130949.htm"/>
+        <updated>2021-05-21T11:37:10.000Z</updated>
+        <summary type="html"><![CDATA[5月21日消息，今天荣耀终端有限公司CEO赵明参加了高通技术与合作峰会，并宣布了与高通的合作。在会后赵明接受了网易科技等媒体采访。对于芯片供应问题，赵明表示今年下半年荣耀将不存在芯片供应危机。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[你的智能手环等读数准确吗？看看现代“度量衡”的高科技]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1130947.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1130947.htm"/>
+        <updated>2021-05-21T11:35:52.000Z</updated>
+        <summary type="html"><![CDATA[从买菜购物、水电气表，到时下流行的智能手环、心率带等智能穿戴设备……计量与人们的生活息息相关、无处不在。5月20日是第22个“世界计量日”。在历史上，计量被称为“度量衡”。现代计量包括热学、力学、光学、声学、化学、生物、电磁、时间频率、电离辐射等领域的测量。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[重庆车主开特斯拉撞墙后维权 官方终于回应了]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1130945.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1130945.htm"/>
+        <updated>2021-05-21T11:33:56.000Z</updated>
+        <summary type="html"><![CDATA[5月10日晚间，“重庆特斯拉维权车主”头条号发布了一条《致特斯拉高管的一封公开信》。该维权车主在公开信中表示，“我是重庆驾驶特斯拉在车库突然加速刹不住车然后撞上墙壁特斯拉车子的购买者，这次我购买的特斯拉在车库莫名其妙突然加速，从10公里左右速度在不到10米的距离撞上墙。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Building A Rich Text Editor (WYSIWYG) From Scratch]]></title>
+        <id>https://smashingmagazine.com/2021/05/building-wysiwyg-editor-javascript-slatejs/</id>
+        <link href="https://smashingmagazine.com/2021/05/building-wysiwyg-editor-javascript-slatejs/"/>
+        <updated>2021-05-21T11:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Let’s build a rich text, WYSIWYG-editor that supports rich text, images, links and some nuanced features from word processing apps. We will use SlateJS to build the shell of the editor and then add a toolbar and custom configurations.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Shalabh Vyas)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[北京四部门联合发文：学科类校外培训机构预收费有了新规范]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1130943.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1130943.htm"/>
+        <updated>2021-05-21T11:25:58.000Z</updated>
+        <summary type="html"><![CDATA[近日，北京市教育委员会、北京市地方金融监督管理局、中国人民银行营业管理部、北京银保监局四部门联合发布《北京市学科类校外培训机构预收费管理办法（试行）》，办法对学科类校外培训机构预收学费及存管有了明确的要求。全文如下：
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[不是石墨烯：科学家发现一种新型非苯类碳同素异形体]]></title>
+        <id>https://www.cnbeta.com/articles/science/1130941.htm</id>
+        <link href="https://www.cnbeta.com/articles/science/1130941.htm"/>
+        <updated>2021-05-21T11:24:26.000Z</updated>
+        <summary type="html"><![CDATA[只有一层原子厚度的石墨烯，因其难以置信的强度、柔韧性、以及相当轻巧的结构，而受到了研究人员的广泛关注。不过来自欧洲的一支研究团队，刚刚开发出了一种全新的非苯类碳同素异形体。虽然与神奇的石墨烯具有一定的相似之处，但两者的区别也不少。
+ 阅读全文]]></summary>
+        <author>
+            <name>raymon725</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[新网银木马Bizarro正在欧洲和南美地区肆虐]]></title>
         <id>https://www.cnbeta.com/articles/tech/1130939.htm</id>
