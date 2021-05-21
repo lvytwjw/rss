@@ -574,6 +574,87 @@
       "siteUrl": "https://www.cnbeta.com",
       "articles": [
         {
+          "id": "https://www.cnbeta.com/articles/tech/1130899.htm",
+          "author": "ugmbbc",
+          "description": "当前，全球汽车产业缺芯，已经成为了汽车产业的标志性“难题”。在此情况下，也有车企展开了积极的自救行为。5月21日消息，有媒体报道，华为将扩大与长安汽车的合作范围，以研发芯片。知情人数透露，华为正在扩大与重庆长安汽车有限公司的智能汽车合作伙伴关系，包括汽车用半导体的设计和开发。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1130899.htm",
+          "publishedOn": "2021-05-21T09:07:18.000Z",
+          "wordCount": 195,
+          "title": "联合华为合作开发芯片 长安汽车回应"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1130897.htm",
+          "author": "study875",
+          "description": "本月早些时候，微软开始在全球范围内向生产设备推广 Windows 10 May 2021（21H1）功能更新。微软表示整个升级推进工作是分阶段的，原因自然是尽可能早的发现钱在问题，防止破坏 Windows 10 设备生态系统。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1130897.htm",
+          "publishedOn": "2021-05-21T08:52:49.000Z",
+          "wordCount": 309,
+          "title": "微软更新多媒体创建工具 可升级安装Windows 10 21H1功能更新"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1130895.htm",
+          "author": "raymon725",
+          "description": "由 Reddit 和 Twitter 等社交平台上的用户报告可知，苹果已在 iOS 14.7 Beta 版本更新中，将天气预报中的空气质量指数功能扩展到了更多的市场区域。9to5Mac 指出，在之前的 iOS 14.3 和 iPadOS 14.3 中，苹果已为 iPhone 和 iPad 扩展过该功能。本次更新后，它有新增覆盖了荷兰、法国、意大利、西班牙、加拿大等市场区域。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1130895.htm",
+          "publishedOn": "2021-05-21T08:49:34.000Z",
+          "wordCount": 245,
+          "title": "苹果更新iOS 14.7 Beta 将空气质量指数功能拓展到更多市场"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1130893.htm",
+          "author": "ugmbbc",
+          "description": "5月21日消息，有消息称，NVIDIA RTX 3080 Ti显卡将于6月3日上市销售，RTX 3070 Ti紧随其后，日子定在6月10日。至于发布时间，大概率就是已经官宣的北京时间6月1日下午13点的台北电脑展2021专题活动了。出席此次发布会的并非老黄，而是GeFroce高级副总裁Jeff Fisher。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1130893.htm",
+          "publishedOn": "2021-05-21T08:41:01.000Z",
+          "wordCount": 237,
+          "title": "RTX 3080 Ti曝光：6月3日发售、首发价预计7999元"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1130891.htm",
+          "author": "study875",
+          "description": "在对 Colonial Pipeline 发起勒索软件攻击，引发美国全国性公众恐慌和天然气价格暴涨之后，该事件的主导者 DarkSide 宣布投降，并同意为所有勒索软件目标提供解密器。虽然该集团投降的消息令人振奋，但使用其勒索软件的不良分子所构成的威胁并没有消除。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1130891.htm",
+          "publishedOn": "2021-05-21T08:38:57.000Z",
+          "wordCount": 259,
+          "title": "攻击美国石油管道的DarkSide虽已投降 但相关威胁并未因此消除"
+        },
+        {
+          "id": "https://hot.cnbeta.com/articles/movie/1130889.htm",
+          "author": "ugmbbc",
+          "description": "今天《速度与激情9》正式上映，豆瓣评分也新鲜出炉，目前6分。同时在猫眼电影和淘票票上《速度与激情9》分别收获了8.1分和8分的评价。观众们大多评价本片依然充满了天马行空的想象力和刺激紧张感，够速度够激情，是一部为肾上腺素准备的“爽片”。\n 阅读全文",
+          "link": "https://hot.cnbeta.com/articles/movie/1130889.htm",
+          "publishedOn": "2021-05-21T08:35:19.000Z",
+          "wordCount": 194,
+          "title": "《速度与激情9》豆瓣6分：牛顿棺材都盖不住的爽片"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1130887.htm",
+          "author": "raymon725",
+          "description": "知名芯片热成像人士 Fritzchens Fritz，刚刚在一段视频中介绍了英特尔 11 代酷睿 i5-11400 芯片的无风扇运行状况。虽然存在着一定的风险，但他还是顺利地让这枚 Rocket Lake 台式处理器在撞到温度墙的情况下维持运行，即便英特尔在设计之初并没有专门为这种情况设置所谓的低功耗模式。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1130887.htm",
+          "publishedOn": "2021-05-21T08:24:34.000Z",
+          "wordCount": 243,
+          "title": "热成像揭示裸奔的酷睿i5-11400台式处理器是如何调度内核的"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1130885.htm",
+          "author": "study875",
+          "description": "援引 ETimes 报道，三星电子计划在德克萨斯州奥斯汀建造一座新的尖端半导体工厂。韩国总统文在寅和美国总统拜登今天晚些时候在华盛顿特区举行首次首脑会谈，届时将正式宣布这一消息。据悉，该工厂将为第三方厂商代工生产 5 纳米 EUV 工艺的半导体芯片。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1130885.htm",
+          "publishedOn": "2021-05-21T08:23:12.000Z",
+          "wordCount": 223,
+          "title": "三星将投资180亿美元在德州奥斯汀设厂  生产5nm EUV工艺芯片"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1130883.htm",
+          "author": "study875",
+          "description": "群联（Phison）和网络安全公司 Cigent 合作，共同开发了全新的固态硬盘平台。该平台使用直接内置于固态硬盘固件的机制来防御勒索软件和数据盗窃。在受到攻击的情况下，硬盘会自动加密并屏蔽数据访问。据 Tom's Hardware Report 报道，今年所有人都将能够访问这些自我防御硬盘。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1130883.htm",
+          "publishedOn": "2021-05-21T08:14:57.000Z",
+          "wordCount": 231,
+          "title": "群联和Cigent推出防勒索固态硬盘 提供硬件级数据保护"
+        },
+        {
           "id": "https://www.cnbeta.com/articles/tech/1130881.htm",
           "author": "vivian",
           "description": "5月21日消息，天眼查App显示，近日，北京腾信创新网络营销技术股份有限公司与罗永浩质押合同纠纷一审民事判决书公开，裁判结果为，罗永浩对锤子数码所欠北京腾信创新网络营销技术股份有限公司的债务承担赔偿责任，赔偿责任以罗永浩持有的锤子科技（北京）股份有限公司177378股股票价值为限等。\n 阅读全文",
