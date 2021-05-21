@@ -610,6 +610,24 @@
       "siteUrl": "https://www.cnbeta.com",
       "articles": [
         {
+          "id": "https://www.cnbeta.com/articles/science/1131037.htm",
+          "author": "ugmbbc",
+          "description": "牛津大学的一项新研究发现，当涉及到大脑健康时，没有什么酒精摄入量安全的。这项研究加入了越来越多关于酒精及其对健康的不同方面的潜在影响的研究，其中一些研究表明，酒精摄入量指南可能需要被重新审视。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/science/1131037.htm",
+          "publishedOn": "2021-05-21T19:28:03.000Z",
+          "wordCount": 194,
+          "title": "在对大脑的影像方面 任何剂量的酒精都谈不上安全"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/science/1131035.htm",
+          "author": "ugmbbc",
+          "description": "和它的兄弟姐妹“毅力”号探测器一样，“好奇”号探测器的个头和一辆汽车差不多。与广袤的火星景观相比，这是非常微小的，但美国宇航局的火星勘测轨道器仍然设法捕捉到了好奇号在火星扮演“山丘之王”的令人印象深刻的镜头。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/science/1131035.htm",
+          "publishedOn": "2021-05-21T19:24:37.000Z",
+          "wordCount": 191,
+          "title": "NASA轨道探测器拍下了远处“好奇”号火星车的惊人图像"
+        },
+        {
           "id": "https://www.cnbeta.com/articles/tech/1131033.htm",
           "author": "ugmbbc",
           "description": "由史蒂夫·乔布斯在2011年3月推出的第二代iPad在全球范围内正式被标记为过时产品。在原版iPad推出不到一年的时间里，第二代iPad的发布标志着该产品线的突破，并为未来几年的iPad市场腾飞奠定了基础。\n 阅读全文",
