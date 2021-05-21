@@ -2,10 +2,186 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://lvytwjw.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-05-21T09:08:58.678Z</updated>
+    <updated>2021-05-21T10:09:22.702Z</updated>
     <generator>osmosfeed 1.7.2</generator>
     <link rel="alternate" href="https://lvytwjw.github.io/rss/index.html"/>
     <link rel="self" href="https://lvytwjw.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[亚马逊将于年底关闭Prime Now服务 服务将被整合到主线]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1130931.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1130931.htm"/>
+        <updated>2021-05-21T09:45:39.000Z</updated>
+        <summary type="html"><![CDATA[亚马逊周五宣布，将于年底关闭其独立的Prime Now平台，并让希望继续享受食品杂货和其他商品快速送货服务的用户通过亚马逊app或网站订购。该公司表示，Prime Now应用程序和网站将于今年年底在全球范围内退役。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[余承东卖车，纠结与调和]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1130929.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1130929.htm"/>
+        <updated>2021-05-21T09:44:36.000Z</updated>
+        <summary type="html"><![CDATA[“卖车和造车不应该发生冲突，它们要带着对方一起往前跑” - 在一个月卖出1万辆赛力斯汽车之后，余承东的身份又有了变化。5月18日，华为内部发文称，余承东将担任智能汽车解决方案BU CEO，这是一个新增职位。他同时继续为消费者BG CEO，不再担任华为云CEO。智能汽车解决方案 BU掌舵手王军依旧为该BU总裁。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[软银集团调整董事会：孙正义副手、ARM CEO退出]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1130927.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1130927.htm"/>
+        <updated>2021-05-21T09:43:54.000Z</updated>
+        <summary type="html"><![CDATA[北京时间5月21日消息，软银集团周五宣布，CEO孙正义(Masayoshi Son)的长期副手罗恩·费舍尔(Ron Fisher)、芯片设计公司ARM CEO西蒙·希格斯(Simon Segars)将从董事会卸任。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[V神：加密货币正处于泡沫中 而比特币或因为功耗而“滞后”]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1130925.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1130925.htm"/>
+        <updated>2021-05-21T09:43:18.000Z</updated>
+        <summary type="html"><![CDATA[以太坊创始人Vitalik Buterin周二接受采访时称，他认为加密技术处于泡沫之中，并围绕比特币挖矿的能源争论认为它必须进行技术变革。另外他还暗示未来以太坊将有可能取代比特币。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[特斯拉股价今年前5个月表现不佳：年初至今累计下跌约20%]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1130923.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1130923.htm"/>
+        <updated>2021-05-21T09:41:41.000Z</updated>
+        <summary type="html"><![CDATA[2020年，特斯拉的股价累计上涨了超过700%，这是因为该公司CEO埃隆·马斯克（Elon Musk）带领该公司走出了所谓的“生产地狱”，并大幅提高了电动汽车的销量。进入2021年，特斯拉的股价表现并不是太好。从2021年年初到目前为止，该公司股价累计下降了约20%。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[肮脏的比特币：挖矿耗电量为什么比一个国家还高？]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1130921.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1130921.htm"/>
+        <updated>2021-05-21T09:41:04.000Z</updated>
+        <summary type="html"><![CDATA[今年以来，数字货币势如破竹。尽管偶有动荡崩盘，但整体价格依旧保持在较高的水平。在这背后，人们肉眼可见的是，比特币矿工疯狂扫货，显卡价高物稀，挖矿所消耗的电力也是水涨船高。比特币为什么成了“电老虎”？挖矿到底有多耗电？究竟发生了什么？
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2021款理想ONE提前曝光：售价涨至40万]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1130919.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1130919.htm"/>
+        <updated>2021-05-21T09:39:30.000Z</updated>
+        <summary type="html"><![CDATA[2021款理想ONE已经官宣，定于5月25日发布。目前官方披露的唯一信息是，2021款将搭载双“征程3”芯片量产首发。据悉，征程3车规芯片由地平线公司研发，台积电16nm工艺制造，典型功耗2.5瓦，等效5 AI TOPS算力，可实现高级别辅助驾驶（ADAS），驾驶员监控（DMS），及自动泊车辅助（APA）等功能。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[多种约会软件正在鼓励用户接种疫苗 并承诺对免疫者提供更多的匹配]]></title>
+        <id>https://www.cnbeta.com/articles/science/1130917.htm</id>
+        <link href="https://www.cnbeta.com/articles/science/1130917.htm"/>
+        <updated>2021-05-21T09:38:42.000Z</updated>
+        <summary type="html"><![CDATA[一系列美国人最常用的约会应用程序正在鼓励用户接种疫苗，新的功能将包括让用户显示他们的疫苗接种状态的徽章，为接种疫苗的用户提供免费的高级功能，以及疫苗接种资源的链接，如Vaccines.gov网站。参加该计划的应用程序包括Match集团的Tinder、Hinge、Match、OKCupid、BLK、Chispa、Plenty of Fish以及Bumble和Badoo。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[微软终结IE浏览器 但仍有太多的人在使用它]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1130915.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1130915.htm"/>
+        <updated>2021-05-21T09:36:32.000Z</updated>
+        <summary type="html"><![CDATA[微软最近宣布其决定在明年结束IE浏览器的使命，这是所有人都预见到的事情，尤其是考虑到对Microsoft Edge的巨大投入。但另一方面，这并不意味着世界已经为这一时刻做好了准备，因为统计数据显示大量电脑仍在使用IE浏览器（或基于IE浏览器内核的应用程序）。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[华为注册麒麟处理器商标：曝内部正研发3nm芯片]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1130913.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1130913.htm"/>
+        <updated>2021-05-21T09:31:40.000Z</updated>
+        <summary type="html"><![CDATA[华为近几年因各方面业务迅速扩张，令美国政府十分忌惮，所以他们在去年颁布了一项“华为禁令”，禁止台积电为华为代工芯片。此举也令华为无法生产自家的芯片产品，华为手机等各项业务严重受损，不过华为并未就此直接放弃芯片研发。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[马斯克：正考虑在俄罗斯建设欧洲的第二家Gigafactory工厂]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1130911.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1130911.htm"/>
+        <updated>2021-05-21T09:28:59.000Z</updated>
+        <summary type="html"><![CDATA[据报道，特斯拉CEO埃隆·马斯克（Elon Musk）今日表示，特斯拉即将在俄罗斯建立业务，并正在考虑是否可以在那里开设工厂。马斯克在一次活动上称，特斯拉在中国和美国已经拥有生产基地，目前正考虑在世界其他地区开设工厂。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[人类导致的惊人生物多样性破坏需要几百万年的恢复期]]></title>
+        <id>https://www.cnbeta.com/articles/science/1130909.htm</id>
+        <link href="https://www.cnbeta.com/articles/science/1130909.htm"/>
+        <updated>2021-05-21T09:26:54.000Z</updated>
+        <summary type="html"><![CDATA[一项新的研究表明，目前淡水生态系统中生物多样性下降的速度超过了白垩纪末期杀死恐龙的大灭绝的速度：现在几十年到几百年的损害可能需要数百万年才能消除。目前的生物多样性危机，通常被称为第六次大规模灭绝，是我们在21世纪面临的关键挑战之一。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[金原子上的绿光：意外发现可聚集光线的金属纳米天线]]></title>
+        <id>https://www.cnbeta.com/articles/science/1130907.htm</id>
+        <link href="https://www.cnbeta.com/articles/science/1130907.htm"/>
+        <updated>2021-05-21T09:22:17.000Z</updated>
+        <summary type="html"><![CDATA[由于单个原子或分子比可见光的波长小100到1000倍，因此收集有关其动态的信息是出了名的困难，特别是当它们被嵌入更大的结构中时。为了规避这一限制，研究人员正在设计金属纳米天线，他们将光线集中到一个微小的体积中，以极大地增强来自同一纳米级区域的任何信号。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[新型机器人辅助无损检测宽频成像仪成为迈向先进制造技术的垫脚石]]></title>
+        <id>https://www.cnbeta.com/articles/science/1130905.htm</id>
+        <link href="https://www.cnbeta.com/articles/science/1130905.htm"/>
+        <updated>2021-05-21T09:19:54.000Z</updated>
+        <summary type="html"><![CDATA[今天，学术和工业研究的一个关键方面是无损成像，这是一种对物体或样品进行成像（使用光）而不对其造成任何损害的技术。通常情况下，这种成像技术对确保工业产品的安全和质量至关重要，业内对具有任意结构和位置的物体的高性能成像需求不断增加。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[苹果iPhone 12系列在今年一季度销售额和市场份额上都占主导地位]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1130903.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1130903.htm"/>
+        <updated>2021-05-21T09:15:16.000Z</updated>
+        <summary type="html"><![CDATA[苹果的iPhone 12相当有说服力地主导了2021年第一季度，苹果旗舰家族的各种型号在收入和数量份额上都占据了最畅销型号的首位。根据Counterpoint Research的数据，按收入和数量份额计算，iPhone 12 Pro Max、iPhone 12 Pro和iPhone 12稳居2021年第一季度最畅销智能手机前三名。以下是市场表现细节：
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[上海一老人和100多只老鼠同吃同住 成网红打卡地 居民拍视频留念]]></title>
+        <id>https://hot.cnbeta.com/articles/funny/1130901.htm</id>
+        <link href="https://hot.cnbeta.com/articles/funny/1130901.htm"/>
+        <updated>2021-05-21T09:10:15.000Z</updated>
+        <summary type="html"><![CDATA[每天傍晚时分，老鼠成群结队爬上阳台，在晾衣架上来回跳蹿，犹如开会。“散会”后，老鼠们集体回到了房间。这种毛骨悚然的场面，并非闹鼠患的澳大利亚，也并非恐怖游戏中的场景，而是上海一个居民家中。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[联合华为合作开发芯片 长安汽车回应]]></title>
         <id>https://www.cnbeta.com/articles/tech/1130899.htm</id>
