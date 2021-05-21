@@ -2,10 +2,54 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://lvytwjw.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-05-21T10:09:22.702Z</updated>
+    <updated>2021-05-21T11:07:13.558Z</updated>
     <generator>osmosfeed 1.7.2</generator>
     <link rel="alternate" href="https://lvytwjw.github.io/rss/index.html"/>
     <link rel="self" href="https://lvytwjw.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[新网银木马Bizarro正在欧洲和南美地区肆虐]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1130939.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1130939.htm"/>
+        <updated>2021-05-21T10:55:38.000Z</updated>
+        <summary type="html"><![CDATA[卡巴斯基警告称：一款被叫做 Bizarro 的新网银木马，正在窃取欧洲和南美地区数十家银行客户的详细财务信息和加密货币钱包。就算你此前从未中招，也请务必小心提防此类恶意软件攻击。尽管最初起源于南美（据说来自有多个木马家族正在泛滥的巴西），但现在它已波及到包括阿根廷、智利、德国、西班牙、葡萄牙、法国和意大利等地的 70 多家不同的银行客户。
+ 阅读全文]]></summary>
+        <author>
+            <name>raymon725</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[高通宣布315 5G IoT芯片方案：主打工业机器人等应用]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1130937.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1130937.htm"/>
+        <updated>2021-05-21T10:16:35.000Z</updated>
+        <summary type="html"><![CDATA[得益于高通公司新推出的 315 5G IoT 无线芯片，5G 或很快出现在工厂机器人、智能载具、以及自助结账通道等领域。这家芯片制造商周四表示，率先上市的 315 5G IoT 调制解调器，致力于融合物联网设备和超快速的 5G 网络应用。除了工农业，它还适用于自动化、制造、建筑、能源、矿业、公共服务、以及零售等场景。
+ 阅读全文]]></summary>
+        <author>
+            <name>raymon725</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SpaceX计划在未来两年半里发射至少6个商业月球着陆器]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1130935.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1130935.htm"/>
+        <updated>2021-05-21T10:15:56.000Z</updated>
+        <summary type="html"><![CDATA[在获得火箭初创公司Firefly Aerospace的一份合同后，美国太空探索技术公司SpaceX的“猎鹰9号”和猎鹰重型火箭现在计划在未来两年半里发射至少6个商业月球着陆器。当地时间周四，Firefly Aerospace宣布，它已与SpaceX签订了发射合同，使用后者的“猎鹰9号”火箭来发射其首个Blue Ghost月球着陆器，这是SpaceX在月球任务方面赢得的一系列合同中的最新一项。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[被曝骚扰网友 大V林小清被医院解聘 事发后曾 “甩锅”给助理]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1130933.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1130933.htm"/>
+        <updated>2021-05-21T10:15:24.000Z</updated>
+        <summary type="html"><![CDATA[医疗大V被曝“性骚扰女网友”一事，备受网友的关注，现在事情也有了最新进展。5月21日，从林小清所在医院总院——福建医科大学附属第一医院宣传部获悉，林小清已被医院正式解聘。据此前报道，5月6日晚一网友自称当日凌晨遭到微博大V“皮肤科医生林小清”的言语骚扰。从聊天截图来看，“皮肤科医生林小清”聊天提问多为两性问题，内容露骨。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[亚马逊将于年底关闭Prime Now服务 服务将被整合到主线]]></title>
         <id>https://www.cnbeta.com/articles/tech/1130931.htm</id>
