@@ -495,15 +495,6 @@
           "publishedOn": "2021-04-23T08:30:00.000Z",
           "wordCount": 2430,
           "title": "A Guide To Newly Supported, Modern CSS Pseudo-Class Selectors"
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/04/web-design-done-well-part1/",
-          "author": "hello@smashingmagazine.com (Frederick O’Brien)",
-          "description": "Sometimes it’s the little things in web life that make us look twice. From carousels to documentation to cookie disclaimers, here are some sites taking the mundane and sprinkling in a little magic.",
-          "link": "https://smashingmagazine.com/2021/04/web-design-done-well-part1/",
-          "publishedOn": "2021-04-22T14:00:00.000Z",
-          "wordCount": 1764,
-          "title": "Web Design Done Well: The Ordinary Made Extraordinary (Part 1)"
         }
       ]
     },
@@ -618,6 +609,150 @@
       "feedUrl": "https://www.cnbeta.com/backend.php",
       "siteUrl": "https://www.cnbeta.com",
       "articles": [
+        {
+          "id": "https://www.cnbeta.com/articles/science/1131123.htm",
+          "author": "vivian",
+          "description": "据外媒New Atlas报道，新加坡的Maxeon太阳能技术公司认为，它已经找到了一种在商业建筑屋顶上安装光伏板的方法，这些建筑可能无法支持传统的设置。该公司已经创建了无框架、薄而轻的太阳能电池板，可以直接安装在屋顶上。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/science/1131123.htm",
+          "publishedOn": "2021-05-22T02:02:05.000Z",
+          "wordCount": 201,
+          "title": "Maxeon公司开发无框太阳能电池板  可直接安装在屋顶上"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1131121.htm",
+          "author": "raymon725",
+          "description": "据报道，苹果公司CEOTim Cook（Tim Cook）昨晚针对“Epic Games起诉苹果一案”出庭作证，法官伊冯·冈萨雷斯·罗杰斯（Yvonne Gonzalez Rogers）对库克提出了一些尖锐的问题。这些问题让我们对罗杰斯针对本案的一些想法有了大概的了解。去年，苹果和Epic Games卷入一场诉讼大战。原因是Epic Games试图通过一个服务器软件更新，绕过苹果应用商店App Store的支付系统，从而规避苹果30%的营收分成。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1131121.htm",
+          "publishedOn": "2021-05-22T02:01:58.000Z",
+          "wordCount": 227,
+          "title": "库克为Epic诉讼案出庭作证：苹果没有主导智能手机市场"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1131119.htm",
+          "author": "raymon725",
+          "description": "天下没有免费的午餐，朴素的道理人人都懂。然而，面对“随手抓涨停”“砖家带你飞”的诱惑，很多股民难过荐股关，一次次跌入“股市黑嘴”和市场操纵者精心编织的陷阱。近日，证监会会同公安机关查获一起利用“股市黑嘴”操纵市场的重大案件——“嘉美包装”操纵案，揭开了投资者如何被一步步引诱进入危机四伏埋伏圈的黑幕，也释放出对操纵市场类案件从严打击的信号。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1131119.htm",
+          "publishedOn": "2021-05-22T01:57:22.000Z",
+          "wordCount": 193,
+          "title": "新华社：随手抓涨停？“砖家”带你飞？你正掉入血本无归的陷阱"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/science/1131117.htm",
+          "author": "vivian",
+          "description": "草履虫和某些其他微生物通过来回甩动被称为纤毛的附属物在液体中移动。科学家们现在已经开发出一种新型的合成纤毛，可用于微型机器人等。纤毛从微生物的身体中伸出来，通过反复向前伸出然后向后扫动来推动它在液体环境中移动。它们不是齐头并进，而是开始分别移动，一个接一个，形成“波浪”，沿着微生物的长度方向移动。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/science/1131117.htm",
+          "publishedOn": "2021-05-22T01:48:45.000Z",
+          "wordCount": 192,
+          "title": "科学家开发新型合成纤毛  使微型软体机器人能够在液体中移动"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1131115.htm",
+          "author": "vivian",
+          "description": "5月22日消息，美国当地时间周五，苹果公司首席执行官蒂姆·库克（Tim Cook）首次在Epic Games诉苹果垄断案庭审中出庭作证。库克在庭审中受到主审法官的尖锐质询，但他回避了许多关键问题。庭审当天，库克在接受苹果律师询问时表示，苹果的使命是“制造世界上最好的产品，真正丰富人们的生活”，并指出苹果在研究、隐私和安全方面的投资高达数百亿美元。他补充道：“我们非常关心用户。”\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1131115.htm",
+          "publishedOn": "2021-05-22T01:45:48.000Z",
+          "wordCount": 216,
+          "title": "库克：苹果投百亿美元研发，收取30%佣金是理所应当"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1131113.htm",
+          "author": "vivian",
+          "description": "据美国媒体21日报道，美国过去7天新增确诊病例的日平均值为2.91万例，这是2020年6月22日以来该数据首次低于3万例。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1131113.htm",
+          "publishedOn": "2021-05-22T01:44:31.000Z",
+          "wordCount": 193,
+          "title": "美国新增新冠确诊病例降至近一年来最低水平"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/science/1131111.htm",
+          "author": "vivian",
+          "description": "据外媒报道，海洋微塑料污染问题正在稳步恶化，因此监测目前世界海洋中存在的此类塑料垃圾的数量至关重要。根据一项新研究，一种简单的海洋生物可能会让科学家更好地做到这一点。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/science/1131111.htm",
+          "publishedOn": "2021-05-22T01:29:57.000Z",
+          "wordCount": 192,
+          "title": "研究表明海鞘可被用于追踪海洋中的微塑料"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/science/1131109.htm",
+          "author": "vivian",
+          "description": "据外媒报道，由加州大学尔湾分校和加州大学圣迭戈分校医学院的一个跨学科研究小组收集的药物使用模式记录显示了加州大学健康中心的临床医生在2020年治疗COVID-19患者时的思考、护理和科学严谨性。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/science/1131109.htm",
+          "publishedOn": "2021-05-22T01:15:10.000Z",
+          "wordCount": 197,
+          "title": "研究人员在新冠大流行期间追踪COVID-19治疗药物的使用情况"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1131107.htm",
+          "author": "vivian",
+          "description": "据外媒The Verge报道，电动汽车初创公司Fisker公司表示，它将利用其即将推出的 Ocean SUV的改进版，制造第一辆全电动教皇巡礼车（popemobile）。汽车设计师Henrik Fisker 和 Geeta Gupta-Fisker（他的妻子和Fisker公司的联合创始人）周四在梵蒂冈的一次会议上向教皇方济各展示了拟议设计的图片。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1131107.htm",
+          "publishedOn": "2021-05-22T00:59:57.000Z",
+          "wordCount": 208,
+          "title": "电动汽车创企Fisker正计划制造一辆教皇巡礼车"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1131105.htm",
+          "author": "vivian",
+          "description": "据外媒报道，语音识别是科技巨头的人工智能“机器中的一个重要齿轮”。这项技术为我们手机上的数字语音助理、汽车上的数字助理和家里的智能音箱提供动力。但是，尽管它无处不在，语音识别仍然是一项进展中的工作。Facebook在训练这些系统学习新语言的方式上预示着一项重大突破。该公司周五表示，它已经开发出一种建立不需要转录数据的语音识别工具的方法。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1131105.htm",
+          "publishedOn": "2021-05-22T00:43:31.000Z",
+          "wordCount": 197,
+          "title": "Facebook的最新人工智能可以在没有人类转录的情况下学习语音"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1131103.htm",
+          "author": "ugmbbc",
+          "description": "虚拟货币将迎来更有力的整治。在金融三协会发布公告重申虚拟货币有关业务涉嫌犯罪、内蒙古设立虚拟货币挖矿企业举报平台3天后，国务院金融委提出打击比特币挖矿和交易行为。5月21日，国务院金融稳定发展委员会（以下简称金融委）召开第五十一次会议，会议要求要坚决防控金融风险，打击比特币挖矿和交易行为，坚决防范个体风险向社会领域传递。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1131103.htm",
+          "publishedOn": "2021-05-22T00:37:58.000Z",
+          "wordCount": 194,
+          "title": "金融委要求打击比特币挖矿和交易行为释放了什么信号？"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1131101.htm",
+          "author": "ugmbbc",
+          "description": "氢能源作为世界上公认的清洁能源。由于氢燃料电池反应产生水，驱动电机的同时中间没有任何的碳排放，一直被视为未来汽车的终极解决方案，但是远在沃尔夫斯堡的大众CEO却是坚实的氢能源汽车反对者。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1131101.htm",
+          "publishedOn": "2021-05-22T00:37:06.000Z",
+          "wordCount": 209,
+          "title": "大众CEO再发推反对转向氢能源 称燃料电池车并非未来"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1131099.htm",
+          "author": "vivian",
+          "description": "“我130万，我不要钱，我要它”。据国内媒体报道，近日，安徽芜湖交警接到市民赵某的报警，称自己因驾驶操作不当，将小车开下路基没入水中。一名女子称驾驶员赵某是自己的弟弟，掉入水中的车是自己的，价值130万。所幸，此次事故并没有造成人员伤亡。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1131099.htm",
+          "publishedOn": "2021-05-22T00:35:29.000Z",
+          "wordCount": 200,
+          "title": "弟弟将姐姐豪车开进水塘 姐姐崩溃：价值130万 只因低头看手机"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1131097.htm",
+          "author": "ugmbbc",
+          "description": "5月22日消息，当地时间周五微软首席执行官萨蒂亚·纳德拉(Satya Nadella)就有关公司创始人比尔·盖茨(Bill Gates)婚后和女员工存在不当关系的报道作出回应，称现在的微软与二十年前不可同日而语，现在更为关注多样性和包容性。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1131097.htm",
+          "publishedOn": "2021-05-22T00:34:20.000Z",
+          "wordCount": 196,
+          "title": "为何翻20年前旧账？微软CEO回应盖茨与员工绯闻"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1131095.htm",
+          "author": "ugmbbc",
+          "description": "5月22日消息，5月21日晚，云南大理漾濞连续发生多次2.8级至6.4级地震，22日凌晨，青海省果洛藏族自治州玛多县又发生7.4级地震。中国地震台网中心研究员孙士鋐接受媒体采访时分析称，这两地发生的地震与近期印度板块比较活跃有关。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1131095.htm",
+          "publishedOn": "2021-05-22T00:33:36.000Z",
+          "wordCount": 194,
+          "title": "云南、青海发生多次地震 专家认为与印度板块活跃有关"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1131093.htm",
+          "author": "ugmbbc",
+          "description": "Windows 10 2021年5月更新即版本21H1在本周早些时候发布，同时供用户通过Windows Update及直接通过ISO文件进行安装。随后，微软发布了Windows 10 21H1 Build 19043.1023 (KB5003214)，供Beta通道和发布预览通道的内部人员测试累积更新，该更新将在下个月的补丁星期二交付给公众。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1131093.htm",
+          "publishedOn": "2021-05-22T00:32:37.000Z",
+          "wordCount": 241,
+          "title": "Windows 10 v21H1发布后的首个更新上线 包含大量的修复内容"
+        },
         {
           "id": "https://www.cnbeta.com/articles/science/1131091.htm",
           "author": "vivian",
