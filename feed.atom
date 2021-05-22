@@ -2,10 +2,76 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://lvytwjw.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-05-22T17:39:35.169Z</updated>
+    <updated>2021-05-22T18:25:26.189Z</updated>
     <generator>osmosfeed 1.7.2</generator>
     <link rel="alternate" href="https://lvytwjw.github.io/rss/index.html"/>
     <link rel="self" href="https://lvytwjw.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[三星Galaxy F42 5G的发布近在眼前 确认不支持Wi-Fi 6]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1131317.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1131317.htm"/>
+        <updated>2021-05-22T17:57:16.000Z</updated>
+        <summary type="html"><![CDATA[认证文件描述了一款具有5G新无线电功能的中档智能手机，但它缺乏近距离通信的方式，这意味着新机不支持Wi-Fi 6。Galaxy F42 5G的Wi-Fi联盟列表中并不包括其主要规格，但认证机构证实，这款型号为SM-E426B/DS的智能手机将支持2.4GHz和5GHz Wi-Fi连接。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[维珍银河公司太空飞机VSS Unity完成两年多来首次成功飞行]]></title>
+        <id>https://www.cnbeta.com/articles/science/1131315.htm</id>
+        <link href="https://www.cnbeta.com/articles/science/1131315.htm"/>
+        <updated>2021-05-22T17:51:43.000Z</updated>
+        <summary type="html"><![CDATA[维珍银河公司周六完成了两年多来首次成功的太空飞行，其载人的VSS Unity航天器被带到超过44000英尺的高空，然后安全滑行返回地球。维珍公司的VMS Eve运载飞机于美国东部时间上午10:35左右从新墨西哥州的美国太空港起飞，船上载有Unity航天器。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SpaceX被选中将萤火虫宇航公司的“蓝色幽灵”着陆器送上月球]]></title>
+        <id>https://www.cnbeta.com/articles/science/1131313.htm</id>
+        <link href="https://www.cnbeta.com/articles/science/1131313.htm"/>
+        <updated>2021-05-22T17:48:26.000Z</updated>
+        <summary type="html"><![CDATA[今年2月，美国宇航局授予萤火虫宇航公司9330万美元的资金，用于开发月球任务技术。该资金的一部分是将登陆器放在月球上，萤火虫公司宣布，它已选择SpaceX为NASA发射第一个登陆器任务。这份新合同又让SpaceX大出风头，因为它俨然已是将空间任务装置送入太空的首选。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ULA正准备首次向其火神（Vulcan）火箭装载燃料]]></title>
+        <id>https://www.cnbeta.com/articles/science/1131311.htm</id>
+        <link href="https://www.cnbeta.com/articles/science/1131311.htm"/>
+        <updated>2021-05-22T17:45:13.000Z</updated>
+        <summary type="html"><![CDATA[ULA（联合发射联盟）的目标是在未来几周内开始在其大型火神火箭上装载低温燃料，该火箭使用低温甲烷和液氧作为推进剂。本次测试过程对于在未来几年将共享同一发射场的阿特拉斯5号火箭的飞行之间开发下一代火箭至关重要。目前，ULA使用的是卡纳维拉尔角空军基地的41号平台。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[联合国发文缅怀袁隆平：国士无双 消除贫困造福民生]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1131309.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1131309.htm"/>
+        <updated>2021-05-22T17:41:16.000Z</updated>
+        <summary type="html"><![CDATA[“杂交水稻之父”、中国工程院院士、“共和国勋章”获得者袁隆平，5月22日13点07分在湖南长沙逝世，享年91岁。联合国官微今天发文缅怀袁隆平。文中称：“袁隆平院士为推进粮食安全、消除贫困、造福民生做出了杰出贡献！国士无双，一路走好！”
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[女子被骗22万后 假装“网恋”8个月将骗子骗回国]]></title>
+        <id>https://hot.cnbeta.com/articles/funny/1131307.htm</id>
+        <link href="https://hot.cnbeta.com/articles/funny/1131307.htm"/>
+        <updated>2021-05-22T17:40:24.000Z</updated>
+        <summary type="html"><![CDATA[如今，电信网络诈骗花样百出，不少人上当损失惨重。江苏常熟的王女士就在去年遭遇一次诈骗，损失22万。接下来，她用了8个月时间，做了一件令人不可思议的事情，竟在事后继续跟骗子聊天，让这个骗子慢慢爱上了自己。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[去年因打架受伤的秦岭大熊猫放归栖息地：半年胖了48斤]]></title>
         <id>https://hot.cnbeta.com/articles/funny/1131305.htm</id>
