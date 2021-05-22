@@ -2,10 +2,54 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://lvytwjw.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-05-22T18:25:26.189Z</updated>
+    <updated>2021-05-22T19:20:34.764Z</updated>
     <generator>osmosfeed 1.7.2</generator>
     <link rel="alternate" href="https://lvytwjw.github.io/rss/index.html"/>
     <link rel="self" href="https://lvytwjw.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[生物学家“穿越时空”超30亿年 破解细胞蛋白质合成机制的重要部分]]></title>
+        <id>https://www.cnbeta.com/articles/science/1131325.htm</id>
+        <link href="https://www.cnbeta.com/articles/science/1131325.htm"/>
+        <updated>2021-05-22T19:15:20.000Z</updated>
+        <summary type="html"><![CDATA[乌普萨拉大学的一个研究小组成功地研究了 "翻译因子"--细胞蛋白质合成机制的重要组成部分，这种机制已持续了几十亿年。通过研究这些古老的 "复活"因子，研究人员能够确定它们比现在的、更专业的对应物具有更广泛的特性。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[新研究显示口罩很大程度上能有效限制COVID-19的传播]]></title>
+        <id>https://www.cnbeta.com/articles/science/1131323.htm</id>
+        <link href="https://www.cnbeta.com/articles/science/1131323.htm"/>
+        <updated>2021-05-22T19:07:06.000Z</updated>
+        <summary type="html"><![CDATA["不要忘记口罩"--尽管现在大多数人都遵循这一建议，但专业人士对口罩的有效性表达了自己的意见。由德国美因茨的马克斯·普朗克化学研究所的研究人员领导的一个国际团队使用观察数据和模型计算来回答开放性问题。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Expedia董事长抨击苹果：30%佣金比例“令人恶心”]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1131321.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1131321.htm"/>
+        <updated>2021-05-22T18:59:13.000Z</updated>
+        <summary type="html"><![CDATA[IAC和Expedia的董事长Barry Diller周五对苹果公司的App Store收费现状进行了抨击，他指责这家iPhone制造商以30%的App Store佣金比例压榨企业。这两家公司的董事长Diller在周五的采访中发表了攻击苹果及其政策的言论。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BTS可能创造了另一个YouTube流媒体首发作品浏览量纪录]]></title>
+        <id>https://hot.cnbeta.com/articles/music/1131319.htm</id>
+        <link href="https://hot.cnbeta.com/articles/music/1131319.htm"/>
+        <updated>2021-05-22T18:52:44.000Z</updated>
+        <summary type="html"><![CDATA[韩国男团BTS很可能创造了另一个YouTube纪录，新一期线上首发歌曲在24小时内的最多浏览量超越了自身之前的热门单曲《Dynamite》。BTS的新歌 《Butter》在YouTube上的第一天就获得了近1.13亿次浏览量，超过了前首支流媒体歌曲《Dynamite》上线24小时内1.01亿次的浏览量。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[三星Galaxy F42 5G的发布近在眼前 确认不支持Wi-Fi 6]]></title>
         <id>https://www.cnbeta.com/articles/tech/1131317.htm</id>
