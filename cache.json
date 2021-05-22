@@ -610,6 +610,78 @@
       "siteUrl": "https://www.cnbeta.com",
       "articles": [
         {
+          "id": "https://www.cnbeta.com/articles/tech/1131139.htm",
+          "author": "raymon725",
+          "description": "根据英伟达近日公布的面向数据中心客户的驱动程序支持路线图，可知该公司已计划停止支持 Kepler 系列 GPU 。定于 2021 年发布的 R470 版本，将作为 Kepler 架构的最终驱动程序更新。自 2021 年首次亮相以来，英伟达已针对该架构提供了长达 9 年的支持。作为参考，针对 Fermi 这代 GPU 的支持，也止步于 R390 版本。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1131139.htm",
+          "publishedOn": "2021-05-22T03:11:14.000Z",
+          "wordCount": 249,
+          "title": "发布9年后 英伟达终于放弃了对Kepler显卡产品线的支持"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1131137.htm",
+          "author": "raymon725",
+          "description": "尽管生产成本和潜在问题都比普通智能机要多，比如电池续航相对较弱，但三星仍在坚定地推出更多折叠屏新机。对于即将到来的 Galaxy Z Fold 3 和 Galaxy Z Flip 3 产品线，这家韩国电子巨头已定下了一个相当宏伟的目标，预期交付数量在 600~700 万部左右。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1131137.htm",
+          "publishedOn": "2021-05-22T03:01:16.000Z",
+          "wordCount": 264,
+          "title": "三星预期销售600万部Galaxy Z Fold 3和Galaxy Z Flip 3折叠屏新机"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/science/1131135.htm",
+          "author": "vivian",
+          "description": "据外媒报道，葡萄酒和食用葡萄的存在要归功于一种罕见的基因交换，在过去的600万年里，这种情况在自然界只发生过两次。自从8000年前葡萄被栽培以来，育种一直是一场赌博。当今天的种植者培育新品种时--试图培育出味道更好、更抗病的葡萄--育种者需要两到四年的时间来了解他们是否拥有“完美之花”的遗传成分。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/science/1131135.htm",
+          "publishedOn": "2021-05-22T02:50:58.000Z",
+          "wordCount": 192,
+          "title": "葡萄遗传学研究中发现的DNA标记揭示是什么造就了“完美之花”"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1131133.htm",
+          "author": "raymon725",
+          "description": "三星有望于 7 月发布 Galaxy Z Fold 3 折叠屏新机，而网络上的爆料也开始接踵而至。比如今日，荷兰科技博客 LetsGoDigital 就发现了三星于 2020 年 11 月向世界知识产权组织（WIPO）提交的一项“可折叠电子设备”专利。从 2021 年 5 月 20 日正式向外界公布的信息可知，这份专利文档中描述了具有某种手势功能、旨在取代实体按键的交互方案。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1131133.htm",
+          "publishedOn": "2021-05-22T02:50:34.000Z",
+          "wordCount": 258,
+          "title": "三星或为Galaxy Z Fold 3引入新的手势操控方案"
+        },
+        {
+          "id": "https://hot.cnbeta.com/articles/game/1131131.htm",
+          "author": "raymon725",
+          "description": "在 2006 年推出了 Xbox 360 之前，微软还曾于 2001 年 11 月推出了初代 Xbox 游戏主机，且其达成了超过 2400 万台的全球销量。然而 20 年过后，仍有人偶然地从中挖掘出了一些不为人知的秘密。近日，一位曾经的从业者匿名联系了 Kotaku，并分享了初代 Xbox 主机上存在的一个彩蛋。\n 阅读全文",
+          "link": "https://hot.cnbeta.com/articles/game/1131131.htm",
+          "publishedOn": "2021-05-22T02:35:41.000Z",
+          "wordCount": 249,
+          "title": "微软初代Xbox主机上存在一个隐藏了长达20年的彩蛋"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/science/1131129.htm",
+          "author": "vivian",
+          "description": "据外媒BGR报道，在1938年，当一群渔民在马达加斯加海岸拉起渔网时，他们捕获了一条腔棘鱼，直到那一刻，没有人知道这种鱼还存在，而这种巨大的鱼曾经在地球的海洋中出现过的唯一证据是数百万年前的化石。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/science/1131129.htm",
+          "publishedOn": "2021-05-22T02:33:26.000Z",
+          "wordCount": 190,
+          "title": "研究称一度被认为已经灭绝的腔棘鱼种群实际上可能正在蓬勃发展"
+        },
+        {
+          "id": "https://hot.cnbeta.com/articles/game/1131127.htm",
+          "author": "raymon725",
+          "description": "随着次世代主机的到来，玩家们也重新燃起了对游戏的热爱。回顾上一代产品，索尼 PlayStation 4 已轻而易举地击败过微软 Xbox One 。所以在 PlayStation 5 身上，许多人也期待着它能够再次给 Xbox Series X / S 上一课。虽然很难从微软这边获得确切的销售数字，但 Ampere Analysis 分享的一项数据分析报告，还是让我们对 2021 年 1 季度的主机市场有了深入的了解。\n 阅读全文",
+          "link": "https://hot.cnbeta.com/articles/game/1131127.htm",
+          "publishedOn": "2021-05-22T02:20:03.000Z",
+          "wordCount": 293,
+          "title": "2021年1季度主机销量对比：PS5几乎是Xbox两倍 Switch仍遥遥领先"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/science/1131125.htm",
+          "author": "vivian",
+          "description": "尽管我们已经听说过一些植物模仿腐肉或粪便的气味，以吸引传播花粉的食腐肉的昆虫，但植物学家现在发现，某种植物真正注重这一概念--它模仿死去甲虫的气味，以吸引一种特定类型的苍蝇。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/science/1131125.htm",
+          "publishedOn": "2021-05-22T02:17:58.000Z",
+          "wordCount": 201,
+          "title": "科学家发现一种花卉可模仿死亡甲虫的气味 以吸引传播花粉的苍蝇"
+        },
+        {
           "id": "https://www.cnbeta.com/articles/science/1131123.htm",
           "author": "vivian",
           "description": "据外媒New Atlas报道，新加坡的Maxeon太阳能技术公司认为，它已经找到了一种在商业建筑屋顶上安装光伏板的方法，这些建筑可能无法支持传统的设置。该公司已经创建了无框架、薄而轻的太阳能电池板，可以直接安装在屋顶上。\n 阅读全文",
