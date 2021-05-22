@@ -610,6 +610,24 @@
       "siteUrl": "https://www.cnbeta.com",
       "articles": [
         {
+          "id": "https://www.cnbeta.com/articles/science/1131329.htm",
+          "author": "ugmbbc",
+          "description": "美国国家航空航天局（NASA）于5月20日进行了今年的第四次RS-25单引擎热火测试，这是一个由七部分组成的测试系列的继续，以支持该机构的太空发射系统（SLS）火箭在未来登月任务中的引擎开发和生产。该发动机在圣路易斯湾附近的斯坦尼斯航天中心的A-1试验台上点火超过8分钟（500秒），与RS-25发动机发射SLS火箭所需的时间相同。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/science/1131329.htm",
+          "publishedOn": "2021-05-22T19:52:45.000Z",
+          "wordCount": 195,
+          "title": "NASA点燃巨大的RS-25火箭发动机 为未来的Artemis登月任务进行测试"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/science/1131327.htm",
+          "author": "ugmbbc",
+          "description": "如果你是一个人类--如果你不是，你怎么会读到这个？- 你可能已经接受了这样的事实：你是问题的一部分。地球正在走向悬崖，研究我们星球的绝大多数非常聪明的人都说，这是因为我们不能停止把事情搞糟。我们用塑料填满海洋，烧掉化石来保持我们的房子温暖和让我们的汽车行驶，改变整个大陆的景观，同时假装我们的行为不会有任何后果。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/science/1131327.htm",
+          "publishedOn": "2021-05-22T19:21:16.000Z",
+          "wordCount": 193,
+          "title": "研究发现人类比我们自己想象的还要糟糕"
+        },
+        {
           "id": "https://www.cnbeta.com/articles/science/1131325.htm",
           "author": "ugmbbc",
           "description": "乌普萨拉大学的一个研究小组成功地研究了 \"翻译因子\"--细胞蛋白质合成机制的重要组成部分，这种机制已持续了几十亿年。通过研究这些古老的 \"复活\"因子，研究人员能够确定它们比现在的、更专业的对应物具有更广泛的特性。\n 阅读全文",
