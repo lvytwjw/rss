@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://lvytwjw.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-05-22T13:22:05.486Z</updated>
+    <updated>2021-05-22T14:06:44.062Z</updated>
     <generator>osmosfeed 1.7.2</generator>
     <link rel="alternate" href="https://lvytwjw.github.io/rss/index.html"/>
     <link rel="self" href="https://lvytwjw.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[牛油果中的一种化合物可能指向更好的白血病治疗方法]]></title>
+        <id>https://www.cnbeta.com/articles/science/1131291.htm</id>
+        <link href="https://www.cnbeta.com/articles/science/1131291.htm"/>
+        <updated>2021-05-22T13:20:56.000Z</updated>
+        <summary type="html"><![CDATA[圭尔夫大学的一项新研究说，牛油果中的一种化合物最终可能为更好地治疗白血病提供一条途径。食品科学系的Paul Spagnuolo博士说，这种化合物以一种酶为目标，科学家首次发现这种酶对癌细胞的生长至关重要。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[云南青海今晚8点再发地震：震源深度均为10千米]]></title>
         <id>https://www.cnbeta.com/articles/tech/1131289.htm</id>
