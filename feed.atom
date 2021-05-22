@@ -2,10 +2,197 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://lvytwjw.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-05-22T06:09:50.311Z</updated>
+    <updated>2021-05-22T07:16:00.437Z</updated>
     <generator>osmosfeed 1.7.2</generator>
     <link rel="alternate" href="https://lvytwjw.github.io/rss/index.html"/>
     <link rel="self" href="https://lvytwjw.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[苹果：HomePod/HomePod Mini未来通过软件更新支持无损音乐]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1131209.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1131209.htm"/>
+        <updated>2021-05-22T07:11:24.000Z</updated>
+        <summary type="html"><![CDATA[在最新更新的苹果支持文档中，HomePod 和 HomePod Mini 未来可通过软件更新的方式播放 Apple Music 的无损音乐。在 Apple Music 刚宣布推出无损音乐的时候，苹果表示 HomePod 和 HomePod Mini 并不支持无损音乐，但是支持杜比全景声（Dolby Atmos）。
+ 阅读全文]]></summary>
+        <author>
+            <name>study875</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[1nm以下制程获得重大突破 摩尔定律的“续命丹”来了？]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1131207.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1131207.htm"/>
+        <updated>2021-05-22T07:08:52.000Z</updated>
+        <summary type="html"><![CDATA[虽然“摩尔定律接近尾声”的声音不绝于耳，但IC业界对于更先进工艺制程的研究突破却持续在为其“续命”。继IBM宣称试产2nm芯片还没“上头条”太久，台积电便联合台大、麻省理工宣布研发出一种新型半导体材料——半金属铋，在1nm以下制程获得重大突破。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[高福院士等人《科学》发文：新致病性H5N8禽流感病毒是严重的公共卫生问题]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1131205.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1131205.htm"/>
+        <updated>2021-05-22T07:07:56.000Z</updated>
+        <summary type="html"><![CDATA[去年有7名俄罗斯农场工人感染了一种交叉流感病毒后，来自中国的两名病毒研究人员建议采取安全措施。5月21日，山东第一医科大学教授史卫峰和中科院院士高福发表在《科学》视角（Science Perspective）文章中指出，鉴于H5N8型禽流感病毒的构成和历史，有可能导致另一场大流行。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[周小川谈数字人民币：银行、第三方支付机构等都在一条船上]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1131203.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1131203.htm"/>
+        <updated>2021-05-22T07:06:46.000Z</updated>
+        <summary type="html"><![CDATA[正在推进试点的数字人民币，是否会替代美元的地位？是否与人民币国际化密切挂钩？与第三方支付是何关系？中国金融学会会长，清华大学五道口金融学院名誉院长周小川在5月22日举行的2021清华五道口全球金融论坛上对数字人民币的相关争议进行了澄清和详解。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[比特币又崩了 这只是风险资产狂欢结束的开始？]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1131201.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1131201.htm"/>
+        <updated>2021-05-22T07:04:12.000Z</updated>
+        <summary type="html"><![CDATA[5月21日周五，在中国、美国、俄罗斯等多个国家或地区对数字货币资产监管态度趋严的重压下，以比特币和以太币为首的数字货币再度两位数大跌。其中，在中国三大机构对数字货币重拳出击，以及国务院金融稳定发展委员会提出对比特币挖矿和交易严监管后，比特币暴跌。而在美国也在讨论针对比特币大额交易的报税问题。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[缅怀！袁隆平——世界杂交水稻之父]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1131199.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1131199.htm"/>
+        <updated>2021-05-22T07:03:57.000Z</updated>
+        <summary type="html"><![CDATA[记者从中南大学湘雅医院获悉，“杂交水稻之父”、中国工程院院士、“共和国勋章”获得者袁隆平 ，5 月 22 日 13 点 07 分在湖南长沙逝世，享年 91 岁。
+ 阅读全文]]></summary>
+        <author>
+            <name>study875</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BOSS直聘拟赴美上市：获客效率提升 洗脑广告风险几何？]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1131197.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1131197.htm"/>
+        <updated>2021-05-22T07:01:59.000Z</updated>
+        <summary type="html"><![CDATA[北京时间5月22日凌晨，在线求职服务提供商BOSS直聘向美国证券交易委员会（以下称SEC）递交了招股书，拟申请于纳斯达克上市，股票代码为“BZ”。BOSS直聘表示，此次募资将用于加大在求职招聘科技基础设施与研究上的投入，升级人工智能等有关招聘服务的技术能力；增加对新产品、新服务的投入，服务更多地区与类型用户等方面。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[日本新干线司机上厕所时 列车无人驾驶开了3分钟……]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1131195.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1131195.htm"/>
+        <updated>2021-05-22T07:01:42.000Z</updated>
+        <summary type="html"><![CDATA[时速150千米的日本新干线载着乘客呼啸而过，谁又能想到该列车正处于“无人驾驶”的危险状态？起因是全车唯一的驾驶员去上了厕所，更离谱的是，驾驶员始终未上报该事，理由是“上报说上厕所很羞耻”……
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[工程师解释M1 iPad为何无缘macOS且11英寸机型未采用mini-LED屏]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1131193.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1131193.htm"/>
+        <updated>2021-05-22T06:48:20.000Z</updated>
+        <summary type="html"><![CDATA[自苹果推出首款自研 Apple Silicon 芯片以来，外界就对该公司的产品规划充满了好奇。随着苹果开始提供采用 M1 处理器和 Liquid Retina XDR 的新款 iPad Pro 平板电脑，两名苹果员工也于近日接受了外媒的采访。期间他们谈论了 M1 iPad Pro 的背后决策、工程挑战，以及为何 11 英寸机型无缘 mini-LED 屏、且无缘 macOS 操作系统。
+ 阅读全文]]></summary>
+        <author>
+            <name>raymon725</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[揭秘“祝融号”火星车：形似蝴蝶 设计寿命90个火星日]]></title>
+        <id>https://www.cnbeta.com/articles/science/1131191.htm</id>
+        <link href="https://www.cnbeta.com/articles/science/1131191.htm"/>
+        <updated>2021-05-22T06:44:13.000Z</updated>
+        <summary type="html"><![CDATA[5月22日，中国第一辆火星车“祝融号”安全驶离着陆平台，到达火星表面，开始巡视探测。“祝融号”火星车长啥样？如何在恶劣的火星环境下开展科研探测？记者采访航天专家，一探究竟。
+ 阅读全文]]></summary>
+        <author>
+            <name>study875</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[市场份额已恢复至8% 赵明：重新拿回市场对荣耀根本不是问题]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1131189.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1131189.htm"/>
+        <updated>2021-05-22T06:43:18.000Z</updated>
+        <summary type="html"><![CDATA[在5月21日举行的高通技术与合作峰会上，荣耀CEO赵明作为唯一手机中高端厂商代表出席，峰会中，赵明宣布荣耀正式与高通达成战略合作，未来荣耀全系产品将采用高通平台，荣耀50系列还将全球首发搭载骁龙778G移动平台。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[中石化科普直行待行区 掌握不好容易被罚款200分记6分]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1131187.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1131187.htm"/>
+        <updated>2021-05-22T06:42:27.000Z</updated>
+        <summary type="html"><![CDATA[为了提高通行效率，路长常出现待转区，例如我们经常遇到的左转待转区，但是你听说过直行待行吗？今日，中国石化公众号进行了科普。顾名思义，“直行待行区”简单来说就是，在路口直行车道前端，施划一条或多条伸入路口内的直行待行车道，作为直行机动车等候区。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[奔驰因MBUX黑屏召回34.2万辆汽车]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1131185.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1131185.htm"/>
+        <updated>2021-05-22T06:41:30.000Z</updated>
+        <summary type="html"><![CDATA[现在车子可以说越来越智能了，车里的很多实体键已经逐渐取消，取而代之的则是液晶大屏，但最近这大半年以来，我们已经看到过很多起因为智能车机突然死机黑屏导致整辆车无法驾驶的故障。尤其是最近特斯拉频现黑屏，智能车死机的问题日益引发关注。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[中国厂商发布无线充单芯片：支持15W EPP和一芯双快充]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1131183.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1131183.htm"/>
+        <updated>2021-05-22T06:35:14.000Z</updated>
+        <summary type="html"><![CDATA[iPhone12的发布，苹果开始为了环保而不再附送充电器，还有苹果推出的Airpods等无线耳机开始支持无线充电，很多人开始选择无线充电为手机和耳机充电盒充电。免去有线充电插线的繁琐，享受无线充电带来的便捷。多功能的无线充电器纷纷进入市场，为我们的生活带来方便。
+ 阅读全文]]></summary>
+        <author>
+            <name>study875</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[技巧]Chrome 90在Windows 10上各种崩溃？这里有临时缓解的方案]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1131181.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1131181.htm"/>
+        <updated>2021-05-22T06:21:01.000Z</updated>
+        <summary type="html"><![CDATA[作为世界上最受欢迎的 Web 浏览器，Google Chrome 拥有庞大的用户基数。但这也意味着即使是相对较小的问题，也可能对成千上万的用户造成影响。Windows Latest 指出，最近许多使用 Windows 10 操作系统的 Chrome 90 浏览器用户，都遇到了让人头疼的崩溃错误。与此同时，macOS 和 Linux 平台上的 Chrome 90，似乎并未受到影响。
+ 阅读全文]]></summary>
+        <author>
+            <name>raymon725</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“祝融号”火星车成功驶上火星表面]]></title>
+        <id>https://www.cnbeta.com/articles/science/1131179.htm</id>
+        <link href="https://www.cnbeta.com/articles/science/1131179.htm"/>
+        <updated>2021-05-22T06:18:26.000Z</updated>
+        <summary type="html"><![CDATA[记者从国家航天局获悉，根据遥测数据判断，“祝融号”火星车已安全驶离着陆平台，到达火星表面，开始巡视探测。天问一号任务的科学目标是研究火星形貌与地质构造特征、火星表面土壤特征与水冰分布、火星表面物质组成、火星大气电离层及表面气候与环境特征、火星物理场与内部结构等。
+ 阅读全文]]></summary>
+        <author>
+            <name>study875</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[图]新款iPod Touch有望秋季发布 采用iPhone 12设计语言]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1131177.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1131177.htm"/>
+        <updated>2021-05-22T06:15:57.000Z</updated>
+        <summary type="html"><![CDATA[援引外媒 MacRumors 报道，苹果计划在今年晚些时候推出新款 iPod Touch。报道中指出即将推出的 iPod 在外观上会比较接近于 iPhone 12，有望随 iPhone 13 在今年秋季的硬件发布会上推出。
+ 阅读全文]]></summary>
+        <author>
+            <name>study875</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[苹果向开发者发布iOS/iPadOS 14.6第二个RC版]]></title>
         <id>https://www.cnbeta.com/articles/tech/1131175.htm</id>
