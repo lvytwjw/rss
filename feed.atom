@@ -2,10 +2,43 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://lvytwjw.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-05-22T12:10:55.847Z</updated>
+    <updated>2021-05-22T13:22:05.486Z</updated>
     <generator>osmosfeed 1.7.2</generator>
     <link rel="alternate" href="https://lvytwjw.github.io/rss/index.html"/>
     <link rel="self" href="https://lvytwjw.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[云南青海今晚8点再发地震：震源深度均为10千米]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1131289.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1131289.htm"/>
+        <updated>2021-05-22T13:15:21.000Z</updated>
+        <summary type="html"><![CDATA[5月21日晚，云南大理漾濞连续发生多次2.8级至6.4级地震。5月22日凌晨，青海省果洛藏族自治州玛多县又发生7.4级地震。此次地震是我国自2008年汶川地震后的最强地震，已造成两高速公路大桥塌陷，国省干线严重受损、变形、隆起。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[《速度与激情9》国内票房超5亿 豆瓣评分跌至仅5.6分]]></title>
+        <id>https://hot.cnbeta.com/articles/movie/1131287.htm</id>
+        <link href="https://hot.cnbeta.com/articles/movie/1131287.htm"/>
+        <updated>2021-05-22T13:13:21.000Z</updated>
+        <summary type="html"><![CDATA[今天中午环球影业发布消息，昨日上映的《速度与激情9》电影，在中国内地的票房超过了5亿。然而影片的口碑似乎没有赶上急剧增长的票房。截止到目前，《速度与激情9》在豆瓣上的评分仅5.6分。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[印度新冠并发毛霉菌病例激增]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1131285.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1131285.htm"/>
+        <updated>2021-05-22T13:12:19.000Z</updated>
+        <summary type="html"><![CDATA[据印度斯坦时报当地时间21日报道，印度各地最近报告至少7251例新冠患者并发感染毛霉菌病病例，并导致至少219人死亡。据统计，报告毛霉菌病病例较多的有马哈拉施特拉邦1500例，其中死亡90例；古吉拉特邦1163例，死亡61例；中央邦575例，死亡31例。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[美联储主席暗示加强对加密货币的监管]]></title>
         <id>https://www.cnbeta.com/articles/tech/1131283.htm</id>
