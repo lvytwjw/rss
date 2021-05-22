@@ -610,6 +610,33 @@
       "siteUrl": "https://www.cnbeta.com",
       "articles": [
         {
+          "id": "https://www.cnbeta.com/articles/tech/1131283.htm",
+          "author": "ugmbbc",
+          "description": "美国联邦储备系统主席杰罗姆·鲍威尔周四加大了对加密货币的抨击力度，称它们对金融稳定构成风险，并暗示可能有理由对日益受欢迎的电子货币加强监管。与此同时，美国财政部表示担心富人可能会利用这个基本上不受监管的行业逃避纳税，并表示希望加密货币资产的大额转移须向当局报告。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1131283.htm",
+          "publishedOn": "2021-05-22T11:31:08.000Z",
+          "wordCount": 194,
+          "title": "美联储主席暗示加强对加密货币的监管"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1131281.htm",
+          "author": "ugmbbc",
+          "description": "据路透社布鲁塞尔5月20日报道，欧盟最高贸易官员周四称，欧盟和美国正在致力于解决围绕飞机制造商补贴的争端，该争端应能在7月前得到解决。这一表态成为跨大西洋贸易关系正在改善的又一迹象。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1131281.htm",
+          "publishedOn": "2021-05-22T11:29:56.000Z",
+          "wordCount": 198,
+          "title": "美欧航空补贴争端有望在7月前得到解决"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1131279.htm",
+          "author": "ugmbbc",
+          "description": "西蒙弗雷泽大学的研究人员已经验证了一种更快、更便宜的COVID-19测试，它可以随时随地开始更广泛的快速测试，研究结果已发表在《分子诊断学杂志》上。由于其易于使用和便携性，该测试可以部署在偏远地区、诊所和机场。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1131279.htm",
+          "publishedOn": "2021-05-22T11:16:13.000Z",
+          "wordCount": 199,
+          "title": "更快、更便宜的COVID-19检测试剂盒通过有效性验证"
+        },
+        {
           "id": "https://www.cnbeta.com/articles/tech/1131277.htm",
           "author": "ugmbbc",
           "description": "微软已经更新了Edge浏览器中的防御密码泄露功能，同时增加了关于密码健壮程度的信息，该功能目前在Edge Canary 92.0.895.0中通过有控制的推广提供，并非所有用户升级到该版本后一开始就能看到它。微软Edge团队对新的密码健康功能描述如下：\n 阅读全文",

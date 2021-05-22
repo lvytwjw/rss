@@ -2,10 +2,43 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://lvytwjw.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-05-22T11:07:09.592Z</updated>
+    <updated>2021-05-22T12:10:55.847Z</updated>
     <generator>osmosfeed 1.7.2</generator>
     <link rel="alternate" href="https://lvytwjw.github.io/rss/index.html"/>
     <link rel="self" href="https://lvytwjw.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[美联储主席暗示加强对加密货币的监管]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1131283.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1131283.htm"/>
+        <updated>2021-05-22T11:31:08.000Z</updated>
+        <summary type="html"><![CDATA[美国联邦储备系统主席杰罗姆·鲍威尔周四加大了对加密货币的抨击力度，称它们对金融稳定构成风险，并暗示可能有理由对日益受欢迎的电子货币加强监管。与此同时，美国财政部表示担心富人可能会利用这个基本上不受监管的行业逃避纳税，并表示希望加密货币资产的大额转移须向当局报告。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美欧航空补贴争端有望在7月前得到解决]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1131281.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1131281.htm"/>
+        <updated>2021-05-22T11:29:56.000Z</updated>
+        <summary type="html"><![CDATA[据路透社布鲁塞尔5月20日报道，欧盟最高贸易官员周四称，欧盟和美国正在致力于解决围绕飞机制造商补贴的争端，该争端应能在7月前得到解决。这一表态成为跨大西洋贸易关系正在改善的又一迹象。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[更快、更便宜的COVID-19检测试剂盒通过有效性验证]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1131279.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1131279.htm"/>
+        <updated>2021-05-22T11:16:13.000Z</updated>
+        <summary type="html"><![CDATA[西蒙弗雷泽大学的研究人员已经验证了一种更快、更便宜的COVID-19测试，它可以随时随地开始更广泛的快速测试，研究结果已发表在《分子诊断学杂志》上。由于其易于使用和便携性，该测试可以部署在偏远地区、诊所和机场。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[微软Edge浏览器Canary通道新增改进后的密码健康特性]]></title>
         <id>https://www.cnbeta.com/articles/tech/1131277.htm</id>
