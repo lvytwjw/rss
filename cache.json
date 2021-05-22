@@ -610,6 +610,96 @@
       "siteUrl": "https://www.cnbeta.com",
       "articles": [
         {
+          "id": "https://hot.cnbeta.com/articles/game/1131229.htm",
+          "author": "study875",
+          "description": "暴雪正经历一个艰难的过渡期。在 BlizzCon 2019 上宣布的《暗黑破坏神4》和《守望先锋2》两款主打游戏，目前进展都不太顺利。而且近期包括《守望先锋》总监杰夫·卡普兰（Jeff Kaplan）在内，诸多高层创作者相继离开公司。IGN 的编辑 Kat Bailey 近日撰文，详细报告了暴雪工作室目前面临的诸多问题。\n 阅读全文",
+          "link": "https://hot.cnbeta.com/articles/game/1131229.htm",
+          "publishedOn": "2021-05-22T08:08:23.000Z",
+          "wordCount": 210,
+          "title": "除《暗黑破坏神4》和《守望先锋2》外 暴雪正打造多款神秘游戏"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1131227.htm",
+          "author": "study875",
+          "description": "相比较传统的机械硬盘（HDD），固态硬盘（SSD）存在性能、尺寸和可靠性等诸多优势。但在过去很长一段时间内，HDD 在容量、性能和成本方面拥有更好的平衡，这也是为何它们的销量会高于 SSD 的重要原因。不过这种情况在 2021 年第 1 季度有了改变，在该季度销售的新电脑中六成以上都使用了 SSD 而不是 HDD。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1131227.htm",
+          "publishedOn": "2021-05-22T07:56:06.000Z",
+          "wordCount": 294,
+          "title": "2021Q1硬盘报告：六成新电脑使用SSD 按销量/容量计算三星都是王者"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1131225.htm",
+          "author": "ugmbbc",
+          "description": "下午3点饮杯茶，晚上7点收工下班，是很多“打工人”的梦想。那么，全球“打工人”的加班情况，到底有多严重呢？来自世界卫生组织（WHO）的一份最新研究报告显示：一年之内，全球就有74.5万人因长时间工作导致死亡（过劳死）！\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1131225.htm",
+          "publishedOn": "2021-05-22T07:51:44.000Z",
+          "wordCount": 197,
+          "title": "30+岁的中年打工人加班最狠 全球一年74.5万人“过劳死”"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1131223.htm",
+          "author": "ugmbbc",
+          "description": "苹果CEO蒂姆·库克（Tim Cook）周五在加州奥克兰市的法庭出庭作证。游戏公司Epic Games诉讼苹果垄断案的开庭审理已经持续了整整三周时间，并将于下周一告一段落。该案涉及苹果是否利用其垄断地位以及从Epic Games获得的平台分成利润是否合理，有望颠覆苹果公司通过生态平台盈利的商业模式。目前苹果设备的全球装机量已经超过10亿。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1131223.htm",
+          "publishedOn": "2021-05-22T07:48:10.000Z",
+          "wordCount": 234,
+          "title": "法官称苹果获游戏开发商佣金“高得不成比例”"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1131221.htm",
+          "author": "ugmbbc",
+          "description": "苹果首席执行官蒂姆·库克周五在Epic Games诉苹果案的庭审中，面临法官Yvonne Gonzalez Rogers关于苹果应用商店业务模式的尖锐质疑。该质疑主要针对是否允许用户在iPhone上安装替代应用商店并避免App Store的应用内购扣除30%的“苹果税”。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1131221.htm",
+          "publishedOn": "2021-05-22T07:46:43.000Z",
+          "wordCount": 229,
+          "title": "“对决”Epic占下风 苹果若输了意味着什么？"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1131219.htm",
+          "author": "ugmbbc",
+          "description": "据报道，曾经，比尔·盖茨（Bill Gates）只是美国一位和蔼可亲的亿万富翁、技术型慈善家，直到有关他的离婚、可疑的工作场所行为和与杰弗里·爱泼斯坦（Jeffrey Epstein）的关系等种种事迹曝光。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1131219.htm",
+          "publishedOn": "2021-05-22T07:45:50.000Z",
+          "wordCount": 213,
+          "title": "宣布离婚这两周以来 比尔·盖茨悉心维护的人设正逐渐崩塌"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1131217.htm",
+          "author": "raymon725",
+          "description": "来自哈佛大学法学院的一支研究团队，刚刚对《纽约时报》网站上的文章链接展开了一番调查。结果发现，将近 1/4 文章中的深层链接都已失效。在追溯到 1996 年的老文章目录的时候，更是有半数以上的链接已经“腐烂”，毫无疑问地揭示了相关背景资料（上下文）在网络时代维持生存的困难程度。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1131217.htm",
+          "publishedOn": "2021-05-22T07:32:13.000Z",
+          "wordCount": 232,
+          "title": "新研究揭示《纽约时报》文章网页存在严重的深层链接失效问题"
+        },
+        {
+          "id": "https://hot.cnbeta.com/articles/game/1131215.htm",
+          "author": "ugmbbc",
+          "description": "暴雪公布了《守望先锋2》的部分实机演示视频。这段由Gamespot发布的演示视频展示了在新地图“纽约市”里5v5的游戏玩法。这也是第一段5v5的演示视频，采用的是《守望先锋》玩家很熟悉的游戏模式。\n 阅读全文",
+          "link": "https://hot.cnbeta.com/articles/game/1131215.htm",
+          "publishedOn": "2021-05-22T07:23:13.000Z",
+          "wordCount": 196,
+          "title": "《守望先锋2》实机演示介绍全新5V5游戏玩法"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1131213.htm",
+          "author": "study875",
+          "description": "据湖南日报讯，北京时间 5 月 22 日上午，“共和国”勋章获得者、中国工程院院士、国家杂交水稻工程技术研究中心主任、湖南省政协原副主席袁隆平，因多器官功能衰竭，于 2021 年 5 月 22 日 13 时 07 分在长沙逝世，享年 91 岁。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1131213.htm",
+          "publishedOn": "2021-05-22T07:20:43.000Z",
+          "wordCount": 300,
+          "title": "饶毅 ：55 年前，袁隆平发表论文的意义"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1131211.htm",
+          "author": "study875",
+          "description": "2021 年 5 月 22 日 13 时 07 分，天空间断放晴了一阵子的长沙，又下起了细雨。我国著名科学家、“共和国勋章”获得者、中国工程院院士袁隆平，因多器官功能衰竭，在湖南长沙，与世长辞。享年 91 岁。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1131211.htm",
+          "publishedOn": "2021-05-22T07:18:44.000Z",
+          "wordCount": 255,
+          "title": "这一生，袁隆平先生为世界留下了什么？"
+        },
+        {
           "id": "https://www.cnbeta.com/articles/tech/1131209.htm",
           "author": "study875",
           "description": "在最新更新的苹果支持文档中，HomePod 和 HomePod Mini 未来可通过软件更新的方式播放 Apple Music 的无损音乐。在 Apple Music 刚宣布推出无损音乐的时候，苹果表示 HomePod 和 HomePod Mini 并不支持无损音乐，但是支持杜比全景声（Dolby Atmos）。\n 阅读全文",
