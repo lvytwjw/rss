@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://lvytwjw.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-05-22T04:18:33.398Z</updated>
+    <updated>2021-05-22T05:19:41.458Z</updated>
     <generator>osmosfeed 1.7.2</generator>
     <link rel="alternate" href="https://lvytwjw.github.io/rss/index.html"/>
     <link rel="self" href="https://lvytwjw.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[[图]苹果美国官网上架索尼PS5 DualSense手柄 售价69.95美元]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1131163.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1131163.htm"/>
+        <updated>2021-05-22T05:03:44.000Z</updated>
+        <summary type="html"><![CDATA[在今年 4 月的 iOS 系统更新中添加了对索尼 PlayStation 5 DualSense 游戏手柄的支持，而自本周开始苹果美国在线商城已经开始销售这款手柄，国内苹果官网并未上架。目前在苹果官网上，这款 DualSense 手柄的零售价格为 69.95 美元，现在库存充足，不过现阶段不支持 Pickup 服务，只能线上下单。
+ 阅读全文]]></summary>
+        <author>
+            <name>study875</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[M1 iPad Pro雷电3性能实测：较MacBook Pro略逊一筹]]></title>
         <id>https://www.cnbeta.com/articles/tech/1131161.htm</id>
