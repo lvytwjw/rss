@@ -610,6 +610,105 @@
       "siteUrl": "https://www.cnbeta.com",
       "articles": [
         {
+          "id": "https://www.cnbeta.com/articles/tech/1131161.htm",
+          "author": "raymon725",
+          "description": "在今年 4 月的 Spring Loaded 春季硬件发布会上，苹果推出了采用 M1 芯片的 2021 款 M1 iPad Pro 。除了屏幕等方面的改进，大家还对 M1 iPad Pro 新支持的雷电 3 协议感到激动不已。为了深入了解该机的雷电 3 性能，Created Tech 特地对 M1 iPad Pro 展开了一番实测，结果确实给我们留下了深刻的印象。尽管与 MacBook Pro 相比，该平板还是略逊一筹。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1131161.htm",
+          "publishedOn": "2021-05-22T04:14:52.000Z",
+          "wordCount": 326,
+          "title": "M1 iPad Pro雷电3性能实测：较MacBook Pro略逊一筹"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1131159.htm",
+          "author": "ugmbbc",
+          "description": "5月21日深夜10点刚过，比特币突然暴跌，短短20分钟时间，从41789.4美元跌至36695.20美元。以太坊、狗狗币等加密货币走势如出一辙。当晚10点，中国政府网站公布国务院金融委召开会议研究部署下一阶段金融领域重点工作。其中指出，强化平台企业金融活动监管，打击比特币挖矿和交易行为。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1131159.htm",
+          "publishedOn": "2021-05-22T03:54:34.000Z",
+          "wordCount": 223,
+          "title": "金融委定调打击比特币挖矿和交易 币圈财富泡沫要破灭？"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1131157.htm",
+          "author": "raymon725",
+          "description": "知名 PC 游戏外设制造商雷蛇（Razer），刚刚在旗下炼狱蝰蛇（DeathAdder）产品线中迎来了一位特殊的新成员。作为 DeathAdder V2 的衍生版本，本次推出的特别版（Special Edition）游戏鼠标主要改进了带有蛇纹的 SpeedFlex 尼龙编织线缆，且鼠标本体也少不了经典配色的点缀。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1131157.htm",
+          "publishedOn": "2021-05-22T03:49:40.000Z",
+          "wordCount": 230,
+          "title": "Razer推出DeathAdder V2特别版有线游戏鼠标 售69.99美元"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1131155.htm",
+          "author": "raymon725",
+          "description": "随着以 SSD 为代表的固态存储的普及，消费级市场已越来越少见到传统机械硬盘（HDD）的身影。即便如此，传统硬盘制造商仍未停下创新的脚步。比如近日，希捷就分享了酝酿已久的 Mach.2 双执行器技术的更多细节。在银河（Exos）2X14 产品线上，这项技术有助于显著提升 HDD 的性能，每秒可执行的输入 / 输出操作数（IOPS）也能够轻松翻番。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1131155.htm",
+          "publishedOn": "2021-05-22T03:39:13.000Z",
+          "wordCount": 250,
+          "title": "希捷分享基于Mach.2双执行器技术的Exos 2X14硬盘的更多信息"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1131153.htm",
+          "author": "ugmbbc",
+          "description": "据英国媒体当地时间21日报道，英国英格兰公共卫生局正在调查一种新的变异新冠病毒。目前已经有49例病例感染了此变异病毒，感染病例主要在约克郡和亨伯地区。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1131153.htm",
+          "publishedOn": "2021-05-22T03:35:46.000Z",
+          "wordCount": 196,
+          "title": "英国正在调查一种新的变异新冠病毒 已有49人感染"
+        },
+        {
+          "id": "https://hot.cnbeta.com/articles/game/1131151.htm",
+          "author": "ugmbbc",
+          "description": "《荒野大镖客》初代在2010年发售的时候，受到了大量游戏玩家的喜爱。Rockstar工作室打造了一个精美的开放世界，将西部元素与《侠盗猎车》风格融合到了一起。十年之后，这款PS3和Xbox 360平台的老游戏又掀起了讨论热潮，时至今日，这款游戏的画面看起来依然精良。\n 阅读全文",
+          "link": "https://hot.cnbeta.com/articles/game/1131151.htm",
+          "publishedOn": "2021-05-22T03:31:57.000Z",
+          "wordCount": 197,
+          "title": "十多年后，《荒野大镖客》初代画面仍然惊艳"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1131149.htm",
+          "author": "ugmbbc",
+          "description": "当地时间5月20日，南美洲足球联合会确认，哥伦比亚政府已于当日决定，放弃2021年美洲杯举办国资格，因此本届美洲杯的全部比赛将在另一原定举办国阿根廷举行。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1131149.htm",
+          "publishedOn": "2021-05-22T03:30:43.000Z",
+          "wordCount": 195,
+          "title": "哥伦比亚宣布放弃承办本届美洲杯 全部比赛改在阿根廷举行"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/science/1131147.htm",
+          "author": "vivian",
+          "description": "好奇是人类天性。地球容不下的不止马斯克，还有各位航天发烧友。他们中的一些成了火箭科学家、工程师，心心念念，致力于制造出一枚枚高推力火箭，将人类的足迹扩展到外空间。据测算，一枚3408吨推力的“土星五号”运载火箭，可以将45吨的载人宇宙飞船送上月球（美国，20世纪中叶）；一枚2940吨推力的“能源号”重型火箭，可以将27吨载荷送到火星和金星（俄罗斯，1987年）；一枚4000吨推力的“长征九号”重型火箭，则可以将37吨载荷轻松送至火星（中国，正在研制中）。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/science/1131147.htm",
+          "publishedOn": "2021-05-22T03:27:03.000Z",
+          "wordCount": 203,
+          "title": "等离子体火箭，充电就能轻松去火星"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/science/1131145.htm",
+          "author": "vivian",
+          "description": "随着印度疫情震慑全球，印度的三重变异毒株声名远播，让人觉得蛊王已经诞生。然而，B.1.620——一种包含许多重点突变的19重变异毒株，横空出世，引起Nature和Science两大顶刊双双跟进报导，让人觉得这场变异毒株争霸赛可能还未到白热化阶段……\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/science/1131145.htm",
+          "publishedOn": "2021-05-22T03:24:23.000Z",
+          "wordCount": 248,
+          "title": "欧洲发现新冠新病毒株  毒力远超印度“三重变异株”"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1131143.htm",
+          "author": "vivian",
+          "description": "5月22日消息，2021清华五道口全球金融论坛今日召开，会议主题为“新格局 新发展 新金融”。中国金融学会会长，清华大学五道口金融学院名誉院长周小川出席并发表主旨演讲。周小川表示，数字货币（DC）和电子支付系统（EP）有很多概念需要进一步明确，中国已经进入了DC/EP的试点和研发的阶段。但是对于在研发和试点的具体问题，外界存在一些误解。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1131143.htm",
+          "publishedOn": "2021-05-22T03:22:53.000Z",
+          "wordCount": 199,
+          "title": "周小川：数字人民币不是想取代第三方支付 也不是要取代美元主导地位"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1131141.htm",
+          "author": "ugmbbc",
+          "description": "媒体报道袁隆平院士已逝世，袁隆平秘书：没有，正在准备辟谣\n5月22日上午，澎湃新闻从袁隆平秘书杨耀松处获悉，网上的消息是假消息，袁隆平目前在医院，身体状况不太好。“我们目前正在医院”。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1131141.htm",
+          "publishedOn": "2021-05-22T03:15:41.000Z",
+          "wordCount": 200,
+          "title": "袁隆平秘书辟谣：袁隆平目前在医院 身体状况不太好"
+        },
+        {
           "id": "https://www.cnbeta.com/articles/tech/1131139.htm",
           "author": "raymon725",
           "description": "根据英伟达近日公布的面向数据中心客户的驱动程序支持路线图，可知该公司已计划停止支持 Kepler 系列 GPU 。定于 2021 年发布的 R470 版本，将作为 Kepler 架构的最终驱动程序更新。自 2021 年首次亮相以来，英伟达已针对该架构提供了长达 9 年的支持。作为参考，针对 Fermi 这代 GPU 的支持，也止步于 R390 版本。\n 阅读全文",
