@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://lvytwjw.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-05-23T13:23:49.475Z</updated>
+    <updated>2021-05-23T14:07:20.841Z</updated>
     <generator>osmosfeed 1.8.1</generator>
     <link rel="alternate" href="https://lvytwjw.github.io/rss/index.html"/>
     <link rel="self" href="https://lvytwjw.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[云南、青海深夜大地震：中国民营卫星提前10天发现异常]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1131537.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1131537.htm"/>
+        <updated>2021-05-23T13:32:47.000Z</updated>
+        <summary type="html"><![CDATA[近日，云南大理州漾濞县、青海果洛藏族自治州玛多县先后发生6.4级地震、7.4级大地震，分别造成3死32伤、8人轻伤。地震发生后，成都国星宇航科技公司的“地灾之眼”卫星互联网平台快速发布了“地震震前异常及震后快速评估结果”。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[放羊大叔朱克铭连救6名白银山地越野赛选手]]></title>
         <id>https://www.cnbeta.com/articles/tech/1131535.htm</id>
