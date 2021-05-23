@@ -619,6 +619,33 @@
       "siteUrl": "https://www.cnbeta.com",
       "articles": [
         {
+          "id": "https://www.cnbeta.com/articles/tech/1131543.htm",
+          "author": "ugmbbc",
+          "description": "近日，网上流出了一组特斯拉“提车培训”的照片，培训内容也被曝光，其中包括刹车系统介绍，以及教你如何刹车。有消息称，特斯拉车主课堂目前已经在部分特斯拉交付网点试行，特斯拉会安排专人对产品细节、驾驶模式、实用Tips等内容进行全面讲解。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1131543.htm",
+          "publishedOn": "2021-05-23T14:43:42.000Z",
+          "wordCount": 198,
+          "title": "特斯拉“提车培训”内容曝光 教车主如何正确踩刹车"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/science/1131541.htm",
+          "author": "ugmbbc",
+          "description": "当查尔斯`达尔文在150年前出版《人类的后裔》时，他启动了对人类起源和进化的科学调查。上周，不同但相关学科的三位顶尖科学家在《科学》杂志上发表了题为\"达尔文的《人类的后裔》所预示的现代人类进化理论\"的文章，其中他们从达尔文关于人类进化的著作中找出了现代科学所强化的三个见解。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/science/1131541.htm",
+          "publishedOn": "2021-05-23T14:10:21.000Z",
+          "wordCount": 189,
+          "title": "达尔文的《人类的后裔》预示了现代科学理论的发展"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1131539.htm",
+          "author": "ugmbbc",
+          "description": "据《今日印度》22日报道，印度政府向所有社交媒体平台发布了一项建议，要求其清除所有涉及或暗示所谓“印度变种”的内容。据报道，在一封致社交媒体平台的信中，印度电子和信息技术部介绍说，在世界卫生组织把变异株B.1.617列为“全球关切变种”之后，社交媒体上的许多内容都把它称为所谓“印度变种”。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1131539.htm",
+          "publishedOn": "2021-05-23T14:07:49.000Z",
+          "wordCount": 190,
+          "title": "印度政府促删除“印度变种”说法：病毒命名不应与国家挂钩"
+        },
+        {
           "id": "https://www.cnbeta.com/articles/tech/1131537.htm",
           "author": "ugmbbc",
           "description": "近日，云南大理州漾濞县、青海果洛藏族自治州玛多县先后发生6.4级地震、7.4级大地震，分别造成3死32伤、8人轻伤。地震发生后，成都国星宇航科技公司的“地灾之眼”卫星互联网平台快速发布了“地震震前异常及震后快速评估结果”。\n 阅读全文",

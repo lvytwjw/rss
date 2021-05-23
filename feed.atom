@@ -2,10 +2,43 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://lvytwjw.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-05-23T14:07:20.841Z</updated>
+    <updated>2021-05-23T15:07:40.261Z</updated>
     <generator>osmosfeed 1.8.1</generator>
     <link rel="alternate" href="https://lvytwjw.github.io/rss/index.html"/>
     <link rel="self" href="https://lvytwjw.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[特斯拉“提车培训”内容曝光 教车主如何正确踩刹车]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1131543.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1131543.htm"/>
+        <updated>2021-05-23T14:43:42.000Z</updated>
+        <summary type="html"><![CDATA[近日，网上流出了一组特斯拉“提车培训”的照片，培训内容也被曝光，其中包括刹车系统介绍，以及教你如何刹车。有消息称，特斯拉车主课堂目前已经在部分特斯拉交付网点试行，特斯拉会安排专人对产品细节、驾驶模式、实用Tips等内容进行全面讲解。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[达尔文的《人类的后裔》预示了现代科学理论的发展]]></title>
+        <id>https://www.cnbeta.com/articles/science/1131541.htm</id>
+        <link href="https://www.cnbeta.com/articles/science/1131541.htm"/>
+        <updated>2021-05-23T14:10:21.000Z</updated>
+        <summary type="html"><![CDATA[当查尔斯`达尔文在150年前出版《人类的后裔》时，他启动了对人类起源和进化的科学调查。上周，不同但相关学科的三位顶尖科学家在《科学》杂志上发表了题为"达尔文的《人类的后裔》所预示的现代人类进化理论"的文章，其中他们从达尔文关于人类进化的著作中找出了现代科学所强化的三个见解。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[印度政府促删除“印度变种”说法：病毒命名不应与国家挂钩]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1131539.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1131539.htm"/>
+        <updated>2021-05-23T14:07:49.000Z</updated>
+        <summary type="html"><![CDATA[据《今日印度》22日报道，印度政府向所有社交媒体平台发布了一项建议，要求其清除所有涉及或暗示所谓“印度变种”的内容。据报道，在一封致社交媒体平台的信中，印度电子和信息技术部介绍说，在世界卫生组织把变异株B.1.617列为“全球关切变种”之后，社交媒体上的许多内容都把它称为所谓“印度变种”。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[云南、青海深夜大地震：中国民营卫星提前10天发现异常]]></title>
         <id>https://www.cnbeta.com/articles/tech/1131537.htm</id>
