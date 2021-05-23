@@ -2,10 +2,76 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://lvytwjw.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-05-23T11:06:44.021Z</updated>
+    <updated>2021-05-23T12:10:57.652Z</updated>
     <generator>osmosfeed 1.8.1</generator>
     <link rel="alternate" href="https://lvytwjw.github.io/rss/index.html"/>
     <link rel="self" href="https://lvytwjw.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[一加手表赛博朋克2077限定版公布 炫酷宣传片上线]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1131513.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1131513.htm"/>
+        <updated>2021-05-23T11:33:10.000Z</updated>
+        <summary type="html"><![CDATA[一加科技在去年推出了一加8T赛博朋克2077联名限定款，如今联名活动将继续进行下去。今日，一加手机官微宣布，将推出一加手表赛博朋克2077限定版以及强尼·银手表托，新品将于5月24日在欢太商城、京东平台开启预售，目前这款手表的售价暂未公布。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“祝融号”火星车开将进行约92个地球日的巡视探测任务]]></title>
+        <id>https://www.cnbeta.com/articles/science/1131511.htm</id>
+        <link href="https://www.cnbeta.com/articles/science/1131511.htm"/>
+        <updated>2021-05-23T11:30:14.000Z</updated>
+        <summary type="html"><![CDATA[国家航天局消息，根据遥测数据判断，昨天（5月22日）上午10时40分，“祝融号”火星车已安全驶离着陆平台，到达火星表面，开始巡视探测。“祝融号”眼中的火星长什么样？我们一起来看看它在踏上火星过程中拍下的影像。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[高盛：比特币终将失去它的“王冠” 取而代之的是以太坊]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1131509.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1131509.htm"/>
+        <updated>2021-05-23T11:28:54.000Z</updated>
+        <summary type="html"><![CDATA[高盛认为，考虑到真实用途、用户基数、技术迭代速度等多方因素，以太坊很有可能取代比特币成为主流的加密货币。在市场走势方面，高盛强调目前加密货币市场与2017—2018年牛市之间关键的区别在于机构投资者的加入。但随着机构投资者近期参与度放缓（加密货币ETF流入资金减少）、替代币层出不穷，市场再度被散户所主导。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[当索尼停产单反：好产品是怎么被时代“消融”的？]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1131507.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1131507.htm"/>
+        <updated>2021-05-23T11:25:02.000Z</updated>
+        <summary type="html"><![CDATA[近日有外媒报道索尼悄悄停产了旗下所有单反，曾经是行业头部厂商的索尼，或许将成为第一个全面放弃单反相机的厂商。索尼不仅从网站上删除了其所有的 A 卡口相机，第三方零售商如 B&H 现在也将这些相机列为“不再提供”。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[黑龙江漠河：五月飞雪，大雪压青松]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1131505.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1131505.htm"/>
+        <updated>2021-05-23T11:22:59.000Z</updated>
+        <summary type="html"><![CDATA[受冷空气影响，5月22日下午开始，黑龙江漠河迎来了一场降雪，飘飘洒洒的雪花从天而降，把祖国最北边陲装扮的银装素裹、分外妖娆，碧绿的草地和松枝嫩芽上被厚厚的积雪覆盖，原始森林里颇有大雪压青松的唯美，晶莹剔透的冰雪让正在盛开的兴安杜鹃花显得更加艳丽。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[最新日本游戏群体调查 Switch游戏依然是小学生们的最爱]]></title>
+        <id>https://hot.cnbeta.com/articles/game/1131503.htm</id>
+        <link href="https://hot.cnbeta.com/articles/game/1131503.htm"/>
+        <updated>2021-05-23T11:14:29.000Z</updated>
+        <summary type="html"><![CDATA[任天堂的Switch主机虽然也有不太多的游戏大作，不过给外界的印象整体风格更多还是低龄向，近日日本数据站发布小学生们玩的最多的游戏调查，再次验证了这个话题，Switch游戏毫无疑问仍然是小学生们的最爱。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[疫情加剧“数码眼”疲劳]]></title>
         <id>https://www.cnbeta.com/articles/science/1131501.htm</id>
