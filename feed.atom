@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://lvytwjw.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-05-23T06:10:24.012Z</updated>
+    <updated>2021-05-23T07:15:52.782Z</updated>
     <generator>osmosfeed 1.8.1</generator>
     <link rel="alternate" href="https://lvytwjw.github.io/rss/index.html"/>
     <link rel="self" href="https://lvytwjw.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[欧洲研究团队开发出可提前2年预测太阳射电活动的RESONANCE软件]]></title>
+        <id>https://www.cnbeta.com/articles/science/1131449.htm</id>
+        <link href="https://www.cnbeta.com/articles/science/1131449.htm"/>
+        <updated>2021-05-23T06:54:25.000Z</updated>
+        <summary type="html"><![CDATA[来自斯科尔科沃科学技术学院（Skoltech）、格拉茨大学、奥地利坎泽尔霍河天文台、以及欧洲航天局空间运行中心的研究人员们，刚刚开发出了一套名为 RESONANCE 的软件方案。其特点是能够提前 1~24 个月预测太阳射电活动的通量，从而改善在轨卫星的运行要求、重入大气服务、空间碎片演化的建模、以及采取机动规避碰撞等工作。
+ 阅读全文]]></summary>
+        <author>
+            <name>raymon725</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[与今天相比，古罗马帝国时期生产的大理石板材废料更少]]></title>
         <id>https://www.cnbeta.com/articles/science/1131447.htm</id>
