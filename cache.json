@@ -6,6 +6,15 @@
       "siteUrl": "https://github.com/osmoscraft/osmosfeed/releases",
       "articles": [
         {
+          "id": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.8.1",
+          "author": null,
+          "description": "Fixed: UnhandledPromiseRejectionWarning: Error: At least one option must be a string",
+          "link": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.8.1",
+          "publishedOn": "2021-05-23T05:40:12.000Z",
+          "wordCount": 282,
+          "title": "v1.8.1"
+        },
+        {
           "id": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.8.0",
           "author": null,
           "description": "Changed: Smart summary truncation. When there is no dedicated summary (only Atom feed has it, and many sites don't use it) from the source, we check if the content/description (Both Atom and RSS) field is long enough to be full text. If so, it will be truncated into a \"pseudo\" summary. If not, we assume the source used the content field as summary, and it will be displayed in full length.\nThank you: @LooperXX.",
@@ -609,6 +618,24 @@
       "feedUrl": "https://www.cnbeta.com/backend.php",
       "siteUrl": "https://www.cnbeta.com",
       "articles": [
+        {
+          "id": "https://www.cnbeta.com/articles/science/1131447.htm",
+          "author": "raymon725",
+          "description": "在谈到古罗马帝国时期的建筑时，许多人会联想到白色的大理石雕像、圆柱和平地。有趣的是，尽管当时许多建筑物和广场都采用了大理石装饰，但却普遍并未采用纯白的版本，而是色彩更加斑斓的那种。比如从希腊 Euboea 岛上开采的、具有绿色脉络的 Cipollino Verde 。由于大理石非常昂贵，装运时通常会将它放在其它较便宜的石头上层、并加以适当的板面防护。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/science/1131447.htm",
+          "publishedOn": "2021-05-23T06:03:46.000Z",
+          "wordCount": 228,
+          "title": "与今天相比，古罗马帝国时期生产的大理石板材废料更少"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/science/1131445.htm",
+          "author": "raymon725",
+          "description": "大约 25 亿年前，我们所在的星球经历了史上最大的变化。由地质记录可知，分子氧突然变成了可在任何地方自由使用。比如在含有氧化铁的带状铁地层中，大氧合事件（GOE）的证据就清晰可见，并在后续推动了耗氧生物的不断进化。不过对于爱较真的研究人员来说，还是想知道这种转变是突然发生，亦或更早就有生物体在较低水平的游离氧环境中生存。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/science/1131445.htm",
+          "publishedOn": "2021-05-23T05:34:37.000Z",
+          "wordCount": 240,
+          "title": "酶进化研究揭示了生物圈早期的氧合作用"
+        },
         {
           "id": "https://www.cnbeta.com/articles/science/1131443.htm",
           "author": "ugmbbc",
@@ -4113,5 +4140,5 @@
       ]
     }
   ],
-  "cliVersion": "1.8.0"
+  "cliVersion": "1.8.1"
 }
