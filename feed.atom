@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://lvytwjw.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-05-23T19:18:41.755Z</updated>
+    <updated>2021-05-23T20:08:21.458Z</updated>
     <generator>osmosfeed 1.8.1</generator>
     <link rel="alternate" href="https://lvytwjw.github.io/rss/index.html"/>
     <link rel="self" href="https://lvytwjw.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[比特币较今年峰值已腰斩 数据表明市场处于“极度恐惧”]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1131575.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1131575.htm"/>
+        <updated>2021-05-23T19:43:33.000Z</updated>
+        <summary type="html"><![CDATA[周日，比特币价格再次直线下跌，这个世界第一加密货币的价格从4月中旬前后的峰值下跌了50%以上，数字资产领域又出现了一轮动荡。据最新数据显示，比特币下跌18.01%，为32400美元，当日下跌16%，此前曾触及24小时低点31179美元，较4月中旬的高点64829.14美元减少了一半。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[具有潜在危险性的4000年周期彗星将给地球带来大量流星]]></title>
         <id>https://www.cnbeta.com/articles/science/1131573.htm</id>
