@@ -2,10 +2,43 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://lvytwjw.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-05-23T04:23:57.346Z</updated>
-    <generator>osmosfeed 1.7.2</generator>
+    <updated>2021-05-23T05:22:18.815Z</updated>
+    <generator>osmosfeed 1.8.0</generator>
     <link rel="alternate" href="https://lvytwjw.github.io/rss/index.html"/>
     <link rel="self" href="https://lvytwjw.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[v1.8.0]]></title>
+        <id>https://github.com/osmoscraft/osmosfeed/releases/tag/v1.8.0</id>
+        <link href="https://github.com/osmoscraft/osmosfeed/releases/tag/v1.8.0"/>
+        <updated>2021-05-23T05:12:08.000Z</updated>
+        <summary type="html"><![CDATA[Changed: Smart summary truncation. When there is no dedicated summary (only Atom feed has it, and many sites don't use it) from the source, we check if the content/description (Both Atom and RSS) field is long enough to be full text. If so, it will be truncated into a "pseudo" summary. If not, we assume the source used the content field as summary, and it will be displayed in full length.
+Thank you: @LooperXX.]]></summary>
+        <author>
+            <name>Release notes from osmosfeed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[KiNET-X实验：NASA发射火箭寻找来自极光的答案]]></title>
+        <id>https://www.cnbeta.com/articles/science/1131443.htm</id>
+        <link href="https://www.cnbeta.com/articles/science/1131443.htm"/>
+        <updated>2021-05-23T04:42:04.000Z</updated>
+        <summary type="html"><![CDATA[美国宇航局周日从东海岸的一个航天设施中发射了其最大的探空火箭之一，这是一项由阿拉斯加大学费尔班克斯地球物理研究所空间物理学教授领导的实验。东部时间晚上8点44分，携带主要研究人员Peter Delamere的KiNET-X实验的四级Black Brant XII火箭从美国宇航局位于弗吉尼亚的Wallops飞行设施升空。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[疫苗奏效：美国新增确诊病例2.8万人 11个月来首次低于3万]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1131441.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1131441.htm"/>
+        <updated>2021-05-23T04:38:31.000Z</updated>
+        <summary type="html"><![CDATA[最近印度的疫情成为全球最严重的，每日新增确诊病例一度达到40万人，现在降至30万以内。美国去年也达到了日增30万确诊，不过这几个月来的疫苗策略有效了，新增病例降下来。美国5月21日新增的确诊病例为2.8万人，这也是去年6月份以来首次跌破3万新增，11个月来的新低，高峰期美国一度创下了全球最多的日增30多万确诊病例，现在只有当时的1/10。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[科学家们开发了新的基因编辑方法来纠正致病的突变]]></title>
         <id>https://www.cnbeta.com/articles/science/1131439.htm</id>

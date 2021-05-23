@@ -6,6 +6,15 @@
       "siteUrl": "https://github.com/osmoscraft/osmosfeed/releases",
       "articles": [
         {
+          "id": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.8.0",
+          "author": null,
+          "description": "Changed: Smart summary truncation. When there is no dedicated summary (only Atom feed has it, and many sites don't use it) from the source, we check if the content/description (Both Atom and RSS) field is long enough to be full text. If so, it will be truncated into a \"pseudo\" summary. If not, we assume the source used the content field as summary, and it will be displayed in full length.\nThank you: @LooperXX.",
+          "link": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.8.0",
+          "publishedOn": "2021-05-23T05:12:08.000Z",
+          "wordCount": 337,
+          "title": "v1.8.0"
+        },
+        {
           "id": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.7.2",
           "author": null,
           "description": "⚠ Deprecated: To accommodate the monorepo setup, the node version in all templates/demos/examples has changed from 14 to 16. This is not a breaking change as our compile target is still node 14, and node 16 is backward compatible. We still recommend you start using node-version: \"16\" in your .github/workflows/update-feed.yaml today to get the performance/security improvements from the newer node. See example\nChore: Reorganize to monorepo with npm workspace.",
@@ -600,6 +609,24 @@
       "feedUrl": "https://www.cnbeta.com/backend.php",
       "siteUrl": "https://www.cnbeta.com",
       "articles": [
+        {
+          "id": "https://www.cnbeta.com/articles/science/1131443.htm",
+          "author": "ugmbbc",
+          "description": "美国宇航局周日从东海岸的一个航天设施中发射了其最大的探空火箭之一，这是一项由阿拉斯加大学费尔班克斯地球物理研究所空间物理学教授领导的实验。东部时间晚上8点44分，携带主要研究人员Peter Delamere的KiNET-X实验的四级Black Brant XII火箭从美国宇航局位于弗吉尼亚的Wallops飞行设施升空。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/science/1131443.htm",
+          "publishedOn": "2021-05-23T04:42:04.000Z",
+          "wordCount": 193,
+          "title": "KiNET-X实验：NASA发射火箭寻找来自极光的答案"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1131441.htm",
+          "author": "ugmbbc",
+          "description": "最近印度的疫情成为全球最严重的，每日新增确诊病例一度达到40万人，现在降至30万以内。美国去年也达到了日增30万确诊，不过这几个月来的疫苗策略有效了，新增病例降下来。美国5月21日新增的确诊病例为2.8万人，这也是去年6月份以来首次跌破3万新增，11个月来的新低，高峰期美国一度创下了全球最多的日增30多万确诊病例，现在只有当时的1/10。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1131441.htm",
+          "publishedOn": "2021-05-23T04:38:31.000Z",
+          "wordCount": 194,
+          "title": "疫苗奏效：美国新增确诊病例2.8万人 11个月来首次低于3万"
+        },
         {
           "id": "https://www.cnbeta.com/articles/science/1131439.htm",
           "author": "ugmbbc",
@@ -4086,5 +4113,5 @@
       ]
     }
   ],
-  "cliVersion": "1.7.2"
+  "cliVersion": "1.8.0"
 }
