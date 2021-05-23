@@ -601,6 +601,42 @@
       "siteUrl": "https://www.cnbeta.com",
       "articles": [
         {
+          "id": "https://www.cnbeta.com/articles/tech/1131337.htm",
+          "author": "raymon725",
+          "description": "近日，有人在 Geekbench 5 基准测试数据库中发现了一款具有 14 核心 / 20 线程的英特尔 Alder Lake 台式处理器。有趣的是，这枚基础频率仅 1.40 GHz 的早期工程样品，还搭配了 64GB 的 GDDR5 系统内存。由此前披露的资料可知，这款 CPU 采用了 6+8 的大小核设计，其中包括 6C / 12T 的 Golden Cove 高性能核心、以及 8C / 8T 的 Goldmont 低功耗小核心。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1131337.htm",
+          "publishedOn": "2021-05-23T02:09:10.000Z",
+          "wordCount": 309,
+          "title": "14C/20T：Geekbench曝光又一款英特尔Alder Lake ES处理器"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1131335.htm",
+          "author": "raymon725",
+          "description": "Reddit 网友 WeAreDormin 爆料称，蓝宝石（Sapphire）刚刚推出了 AMD Radeon RX 6900 XT NITRO+ 特别版显卡，并在特殊的散热器下方隐藏了一个大惊喜。据说该卡使用了与毒药终极版（TOXIC Extreme）相同的 PCB 设计，意味着在此前发布的 NITRO+ 型号的基础上，新款旗舰显卡将具有更大的超频潜力。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1131335.htm",
+          "publishedOn": "2021-05-23T01:31:50.000Z",
+          "wordCount": 302,
+          "title": "蓝宝石推出Radeon RX 6900 XT NITRO+特别版显卡"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1131333.htm",
+          "author": "raymon725",
+          "description": "知名爆料人 @Kopite7Kimi，刚刚在 Twitter 上分享了一连串有关英伟达下一代 Ada Lovelace“GeForce RTX”与 AMD RNDA 3“Radeon RX”新 GPU 的更多细节。其援引消息人士的话称，两家公司的显卡新品，都将迎来将近翻倍的性能提升。不过由于距离新一代产品上市仍有一年多的时间，我们对其性能预估还是持保留态度。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1131333.htm",
+          "publishedOn": "2021-05-23T00:57:05.000Z",
+          "wordCount": 312,
+          "title": "爆料称英伟达Ada Lovelace与AMD RDNA 3新显卡性能都将翻番"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1131331.htm",
+          "author": "raymon725",
+          "description": "WCCFTech 报道称，AMD 首席执行官苏姿丰博士获得了大约 7.32 亿张投票，以支持她留任该公司的董事会职务。作为 AMD 年度股东大会的一部分，这项工作已于本周三完成。除董事会选举之外，其它议程还包括高管薪酬的审批、以及指定该公司的会计师事务所。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1131331.htm",
+          "publishedOn": "2021-05-23T00:34:00.000Z",
+          "wordCount": 266,
+          "title": "7.3亿票：苏姿丰以压倒性优势留任AMD董事会"
+        },
+        {
           "id": "https://www.cnbeta.com/articles/science/1131329.htm",
           "author": "ugmbbc",
           "description": "美国国家航空航天局（NASA）于5月20日进行了今年的第四次RS-25单引擎热火测试，这是一个由七部分组成的测试系列的继续，以支持该机构的太空发射系统（SLS）火箭在未来登月任务中的引擎开发和生产。该发动机在圣路易斯湾附近的斯坦尼斯航天中心的A-1试验台上点火超过8分钟（500秒），与RS-25发动机发射SLS火箭所需的时间相同。\n 阅读全文",
