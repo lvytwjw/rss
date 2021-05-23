@@ -619,6 +619,87 @@
       "siteUrl": "https://www.cnbeta.com",
       "articles": [
         {
+          "id": "https://www.cnbeta.com/articles/tech/1131491.htm",
+          "author": "ugmbbc",
+          "description": "本周，在2021年信息显示学会（SID）上，LG Display展示了其最新的显示技术，这其中包含不同尺寸的可滚动、可弯曲和透明的OLED面板。这些屏幕部件可用于各种产品，从笔记本电脑、电视再到汽车显示屏。来自韩国商标局的一组新的商标申请显示，LG Display有更多新的OLED技术正在开发中，可能这涉及到一种特殊的面板。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1131491.htm",
+          "publishedOn": "2021-05-23T09:04:08.000Z",
+          "wordCount": 231,
+          "title": "LG Display注册了OLED Plate、One Cord等与面板有关的商标"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/science/1131489.htm",
+          "author": "ugmbbc",
+          "description": "疏散星团是研究恒星形成和演化的理想实验室，也是银河系重要组成部分。在疏散星团演化的研究中，其形态演化是重要的物理过程，既可以追溯疏散星团的形成，也可以预测疏散星团未来命运。如年老星团具有严重的拉伸形态结构，未来可能会以星流形式存在。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/science/1131489.htm",
+          "publishedOn": "2021-05-23T08:39:06.000Z",
+          "wordCount": 190,
+          "title": "科学家利用形态研究疏散星团演化"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1131487.htm",
+          "author": "ugmbbc",
+          "description": "韦应物《长安道》诗：“宝马横来下建章，香车却转避驰道。”古人用“香车宝马”来指代考究的车骑，字面意思就是“华丽的车子，珍贵的宝马。”古代的车子有多华丽呢？近日，“马家塬出土战国马车特展”在甘肃省博物馆开展，马家塬墓地出土的华丽战国车乘在展览现场亮相。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1131487.htm",
+          "publishedOn": "2021-05-23T08:26:58.000Z",
+          "wordCount": 194,
+          "title": "战国时期的豪车到底有多壕？行走的“金银珠宝”"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1131485.htm",
+          "author": "ugmbbc",
+          "description": "近日，LG上架了一款31.5英寸OLED显示器LG UltraFine OLED Pro，4K分辨率，售价34999元，目前已在京东自营开启预售，定金500可抵3500元。据了解，这款专业显示器采用31.5英寸的OLED面板，是迄今为止最小的电脑显示器OLED面板，面板覆盖99%的DCI-P3 和99%的Adobe RGB色域。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1131485.htm",
+          "publishedOn": "2021-05-23T08:25:24.000Z",
+          "wordCount": 223,
+          "title": "LG上架31.5英寸4K OLED显示器：超10亿色 售价35000元"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1131483.htm",
+          "author": "ugmbbc",
+          "description": "近日，深圳赛格大厦发生晃动引发网友担忧，自5月21日零时起，该大厦已暂停所有业主、商户、租户进出赛格大厦写字楼和电子市场，待相关检测工作完成后再有序开放。据“深圳发布”消息，5月23日，专业机构对赛格大厦的房屋沉降、倾斜率、加速度等情况持续进行实时监测。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1131483.htm",
+          "publishedOn": "2021-05-23T08:22:15.000Z",
+          "wordCount": 194,
+          "title": "赛格大厦实时监测情况：数据正常 沉降、倾斜均在允许范围"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1131481.htm",
+          "author": "ugmbbc",
+          "description": "据日本《读卖新闻》22日报道，福岛第一核电站用地内发现了附着高浓度的放射性物质的凝胶块。20日，东京电力公司表示，有分析认为受到雨水的影响，含有放射性物质的水流入排水管，但是港湾内海水的放射性物质浓度没有太大的变化，“对环境没有影响”。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1131481.htm",
+          "publishedOn": "2021-05-23T08:16:38.000Z",
+          "wordCount": 193,
+          "title": "日本东京电力公司回应福岛核电站中放射性物质泄漏一事"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/science/1131479.htm",
+          "author": "ugmbbc",
+          "description": "仰韶文化人群的母系遗传结构如何？其对现代汉族人群的母系遗传多样性有何贡献？为解开这些谜团，中国科学院古脊椎动物与古人类研究所付巧妹等人组成的研究团队进行了一次大规模的线粒体全基因组研究。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/science/1131479.htm",
+          "publishedOn": "2021-05-23T08:15:44.000Z",
+          "wordCount": 203,
+          "title": "仰韶文化人群最大规模线粒体全基因组研究：揭示母系遗传结构"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1131477.htm",
+          "author": "ugmbbc",
+          "description": "今年上海车展上最出风头的不是造车新势力，而是想成为Tier 1的科技巨头们。这边，无人机之王大疆一口气就推出了智能驾驶D80/D80等三款解决方案；那边，采用华为技术的赛力斯华为智选SF5、北汽极狐阿尔法S华为HI版等车型组团亮相；还有滴滴也不甘寂寞，亮出全新自动驾驶硬件平台“滴滴双子星”，生生把车展变成了ICT展。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1131477.htm",
+          "publishedOn": "2021-05-23T08:14:56.000Z",
+          "wordCount": 203,
+          "title": "通往电动汽车Tier 1的路上 华为比大疆们多了一张底牌"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1131475.htm",
+          "author": "ugmbbc",
+          "description": "一场越野马拉松赛事因为一场突如其来的天气剧变演变成国内最大的赛事意外，甘肃白银越野马拉松赛的遇难人数已经达到了21人。是什么导致了这个悲剧的发生？从外部因素来看，短时内的恶劣天气是意外发生的起因。赛事在20公里到31公里处突遭灾害天气，冰雹、冻雨并伴有大风，气温骤降，这让不少选手快速失温。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1131475.htm",
+          "publishedOn": "2021-05-23T08:13:19.000Z",
+          "wordCount": 193,
+          "title": "失温是户外运动大敌 回家才是真正的完赛"
+        },
+        {
           "id": "https://www.cnbeta.com/articles/tech/1131473.htm",
           "author": "ugmbbc",
           "description": "王健林已经基本清仓了其海外的资产。5月23日早间，大连万达集团在其官网发布消息，公司已全部退出了AMC Entertainment Holdings Inc.(NYSE:AMC)董事会，仅保留少数股权，累计回笼资金14.76亿美元。\n 阅读全文",
