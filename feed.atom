@@ -2,10 +2,65 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://lvytwjw.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-05-23T09:07:50.210Z</updated>
+    <updated>2021-05-23T10:08:19.069Z</updated>
     <generator>osmosfeed 1.8.1</generator>
     <link rel="alternate" href="https://lvytwjw.github.io/rss/index.html"/>
     <link rel="self" href="https://lvytwjw.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[疫情加剧“数码眼”疲劳]]></title>
+        <id>https://www.cnbeta.com/articles/science/1131501.htm</id>
+        <link href="https://www.cnbeta.com/articles/science/1131501.htm"/>
+        <updated>2021-05-23T09:50:54.000Z</updated>
+        <summary type="html"><![CDATA[据美国“地方21”新闻网4月27日报道，人们对新冠疫情大流行的关注正逐渐从短期影响转向长期影响，包括对视力的影响。研究显示，在疫情期间，人们的视力下降，防蓝光眼镜销量激增，这一切都表明过去一年有非常多的人在网上工作。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[研究发现格陵兰冰盖濒临重大临界点]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1131499.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1131499.htm"/>
+        <updated>2021-05-23T09:49:19.000Z</updated>
+        <summary type="html"><![CDATA[据英国《卫报》网站5月17日报道，一项最新研究显示，格陵兰岛冰盖的很大一部分濒临重大临界点。在跨越临界点后，即使全球停止变暖，冰盖也将不可避免地加速融化。报道称，气候危机引发的气温上升已导致格陵兰岛数万亿吨融冰流入海洋。如果格陵兰岛冰原彻底融化，全球海平面最终将上升7米。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[D-Wave CEO专访：畅想实用型量子计算机的现在与将来]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1131497.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1131497.htm"/>
+        <updated>2021-05-23T09:36:53.000Z</updated>
+        <summary type="html"><![CDATA[在神秘的量子力学的加持下，量子计算机也被人寄予了厚望。虽然技术仍处于起步阶段，但世界各地的诸多研究团推，都在试图利用量子计算机来找到搞定传统计算机上难以解决的问题的潜在方法。与此同时，总部位于加拿大的 D-Wave 公司，也致力于将量子计算推向实际商业应用。近日，该公司 CEO Alan Baratz 接受了外媒 Neowin 的专访，期间谈论了大家感兴趣的许多话题。
+ 阅读全文]]></summary>
+        <author>
+            <name>raymon725</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[亨利·卡维尔将主演80年代《高地人》重启版电影]]></title>
+        <id>https://hot.cnbeta.com/articles/movie/1131495.htm</id>
+        <link href="https://hot.cnbeta.com/articles/movie/1131495.htm"/>
+        <updated>2021-05-23T09:12:41.000Z</updated>
+        <summary type="html"><![CDATA[狮门影业正在投拍新版《高地人》电影，由亨利·卡维尔主演，《疾速追杀》导演查德·斯塔尔斯基执导本片。卡维尔本人今日证实了这一消息。根据媒体报道，这部电影是上世纪80年代同名奇幻动作冒险电影《高地人》的重启版。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“吃豆人”迎来41岁生日 万代南梦宫制作MV庆贺]]></title>
+        <id>https://hot.cnbeta.com/articles/game/1131493.htm</id>
+        <link href="https://hot.cnbeta.com/articles/game/1131493.htm"/>
+        <updated>2021-05-23T09:12:20.000Z</updated>
+        <summary type="html"><![CDATA[经典的电子游戏形象“吃豆人”今年已经迎来41岁生日了，虽然规模不像40周年纪念那么大，但万代南梦宫还是决定庆祝一下。今年，厂商决定用一系列活动和合作设计的方式来进行庆祝，另外还推出了超现实主义主题歌，以及由WEiRDCORE制作的MV。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[LG Display注册了OLED Plate、One Cord等与面板有关的商标]]></title>
         <id>https://www.cnbeta.com/articles/tech/1131491.htm</id>
