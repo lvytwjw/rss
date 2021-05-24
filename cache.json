@@ -540,6 +540,15 @@
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
         {
+          "id": "60aa161211ffb70827ef5f2c",
+          "author": null,
+          "description": "Software testing is an important part of the software development process. You run tests at different stages of the software development life cycle, and you'll want to make sure that you have good test coverage.  Here are some key reasons for writing software tests:  Testing prevents you from introducing breaking",
+          "link": "https://www.freecodecamp.org/news/how-to-generate-code-coverage-report-with-codecov-and-github-actions/",
+          "publishedOn": "2021-05-24T19:40:36.000Z",
+          "wordCount": 2263,
+          "title": "How to Generate a Code Coverage Report with CodeCov and GitHub Actions"
+        },
+        {
           "id": "60a5248c906c5207e3a7e54b",
           "author": null,
           "description": "No-code tools let people across the world build different products and applications without writing code.   Before no-code tools, building simple websites or mobile applications took weeks or months and only experienced software developers could do it.  But that's not the case anymore. Now, you can spin up blogs, websites, and",
@@ -654,6 +663,15 @@
       "feedUrl": "https://www.cnbeta.com/backend.php",
       "siteUrl": "https://www.cnbeta.com",
       "articles": [
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1132031.htm",
+          "author": "ugmbbc",
+          "description": "当地时间24日，世卫组织总干事谭德塞在第74届世界卫生大会上表示，“新冠肺炎疫苗实施计划”已为125个国家和经济体送去了7200万剂疫苗，但这些剂量仅能覆盖这些国家和经济体总人口的1%，“新冠肺炎疫苗实施计划”获得的疫苗剂量仍远远不够。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1132031.htm",
+          "publishedOn": "2021-05-24T19:58:07.000Z",
+          "wordCount": 204,
+          "title": "世卫组织：各国应在9月前为至少10%的人口接种新冠疫苗"
+        },
         {
           "id": "https://www.cnbeta.com/articles/tech/1132029.htm",
           "author": "ugmbbc",

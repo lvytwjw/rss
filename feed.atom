@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://lvytwjw.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-05-24T19:28:23.088Z</updated>
+    <updated>2021-05-24T20:09:49.112Z</updated>
     <generator>osmosfeed 1.8.1</generator>
     <link rel="alternate" href="https://lvytwjw.github.io/rss/index.html"/>
     <link rel="self" href="https://lvytwjw.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[世卫组织：各国应在9月前为至少10%的人口接种新冠疫苗]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1132031.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1132031.htm"/>
+        <updated>2021-05-24T19:58:07.000Z</updated>
+        <summary type="html"><![CDATA[当地时间24日，世卫组织总干事谭德塞在第74届世界卫生大会上表示，“新冠肺炎疫苗实施计划”已为125个国家和经济体送去了7200万剂疫苗，但这些剂量仅能覆盖这些国家和经济体总人口的1%，“新冠肺炎疫苗实施计划”获得的疫苗剂量仍远远不够。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Generate a Code Coverage Report with CodeCov and GitHub Actions]]></title>
+        <id>60aa161211ffb70827ef5f2c</id>
+        <link href="https://www.freecodecamp.org/news/how-to-generate-code-coverage-report-with-codecov-and-github-actions/"/>
+        <updated>2021-05-24T19:40:36.000Z</updated>
+        <summary type="html"><![CDATA[Software testing is an important part of the software development process. You run tests at different stages of the software development life cycle, and you'll want to make sure that you have good test coverage.  Here are some key reasons for writing software tests:  Testing prevents you from introducing breaking]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[proxy-www]]></title>
         <id>https://css-tricks.com/?p=341153</id>
