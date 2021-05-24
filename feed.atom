@@ -2,10 +2,98 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://lvytwjw.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-05-24T09:10:24.090Z</updated>
+    <updated>2021-05-24T10:12:25.334Z</updated>
     <generator>osmosfeed 1.8.1</generator>
     <link rel="alternate" href="https://lvytwjw.github.io/rss/index.html"/>
     <link rel="self" href="https://lvytwjw.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[温州特斯拉车主回应把油门当刹车：为了理赔 求检测机构写的]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1131889.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1131889.htm"/>
+        <updated>2021-05-24T09:58:36.000Z</updated>
+        <summary type="html"><![CDATA[去年8月，浙江温州发生了一起涉及特斯拉Model 3车型的严重交通事故。据此前报道，8月12日22点55分左右，一辆特斯拉Model 3以超高的速度，冲撞了停车场的拦截杆，随后猛烈撞上了停车场内的车辆，腾空数米翻转360度后砸向地面，画面非常惨烈。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[有人用比特币投机 却也有人用它生活]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1131887.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1131887.htm"/>
+        <updated>2021-05-24T09:48:00.000Z</updated>
+        <summary type="html"><![CDATA[比特币可以扮演多种角色，包括作为货币的功能。最近，非洲区块链公司Bitnob首席执行官，尼日利亚人Bernard Parah在Twitter上详细描述了比特币如何帮助他克服了一系列货币困难。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Raspberry Pi发布新一代以太网供电（PoE）HAT模块 售价20美元]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1131885.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1131885.htm"/>
+        <updated>2021-05-24T09:31:35.000Z</updated>
+        <summary type="html"><![CDATA[加入Raspberry Pi家族的最新产品是一个新的Raspberry Pi PoE+ HAT，这个版本功能更强，运行时温度更低，并首次兼容802.11at PoE+标准，这意味着它可以向联网设备提供高达25W的功率。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[疯狂的电话推销机器人：一天拨号上千次 未婚被推销孩子辅导班]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1131883.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1131883.htm"/>
+        <updated>2021-05-24T09:28:27.000Z</updated>
+        <summary type="html"><![CDATA[“某辅导机构给我打了无数次电话，每次都说让我带着孩子去免费试听。我说我都没结婚，哪来的孩子？！别再来打扰我了！结果电话那头很客气地说，您的问题我已经记录下来了，我们都能帮您解决。”
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[动图]三星放出短视频：为何选Galaxy S21 Ultra而非iPhone]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1131881.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1131881.htm"/>
+        <updated>2021-05-24T09:24:13.000Z</updated>
+        <summary type="html"><![CDATA[三星和苹果两家公司在良性竞争的基础上，时不时的会互相调侃对方。作为各自的看家旗舰，Galaxy S21 Ultra 和 iPhone 12 Pro Max 可谓是智能手机圈内的巅峰之作。近日三星美国公司放出了三段只有 15 秒的视频，告诉大家为何应该选择 Galaxy S21 Ultra 而不是 iPhone 12 Pro Max。
+ 阅读全文]]></summary>
+        <author>
+            <name>study875</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[氮元素的激增使马尾藻形成了历史上危害最大的藻华]]></title>
+        <id>https://www.cnbeta.com/articles/science/1131879.htm</id>
+        <link href="https://www.cnbeta.com/articles/science/1131879.htm"/>
+        <updated>2021-05-24T09:23:21.000Z</updated>
+        <summary type="html"><![CDATA[研究表明，由于来自陆地径流、大气输入以及可能的其他自然来源（如固氮）的环境氮供应的相对大量增加，令磷作为限制性营养物的作用正在加强。1983-1989年和最近的2010-2019年期间，研究人员在北大西洋盆地的各种研究项目和巡航中共收集了488个马尾藻组织样本。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[全球登革热病毒威力远超COVID-19 而新的发现可助力疫苗开发]]></title>
+        <id>https://www.cnbeta.com/articles/science/1131877.htm</id>
+        <link href="https://www.cnbeta.com/articles/science/1131877.htm"/>
+        <updated>2021-05-24T09:16:39.000Z</updated>
+        <summary type="html"><![CDATA[尽管迄今为止全球SARS-CoV-2感染病例超过1.3亿，令人望而生畏，但另一种全球病原体 - 伊蚊传播的登革热病毒在2019年出现了超过4亿病例的记录。但由于需要对所有四种登革热毒株进行同等保护，疫苗开发一直具有挑战性。今天（2021年5月24日）发表在《自然·通讯》上的预测登革热病毒感染的临床和免疫反应的新的可能生物标志物的发现，对于为未来的疫苗提供信息至关重要。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[有缺陷的基因使脑细胞迁移速度减慢 加大罹患自闭症的风险]]></title>
+        <id>https://www.cnbeta.com/articles/science/1131875.htm</id>
+        <link href="https://www.cnbeta.com/articles/science/1131875.htm"/>
+        <updated>2021-05-24T09:11:57.000Z</updated>
+        <summary type="html"><![CDATA[仅在欧盟，就有大约300万人受到自闭症谱系障碍（ASD）的影响。有些人只是受到轻微的影响，可以独立生活，其他人则有严重的残疾。不同形式的自闭症的共同点是社会互动和沟通困难，以及重复-刻板的行为。有几百个基因的突变与ASD有关，其中一个叫做Cullin 3，它是一个高风险基因。这个基因的突变几乎肯定会导致疾病的发生，但是这个基因究竟是如何影响大脑的呢？
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Intel 12代酷睿“缩水”：变薄了近1毫米]]></title>
         <id>https://www.cnbeta.com/articles/tech/1131873.htm</id>
