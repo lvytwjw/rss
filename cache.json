@@ -121,6 +121,15 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=340626",
+          "author": "Raymond Camden",
+          "description": "By our last estimate, there are now more PDFs in the world than atoms in the universe (not verified by outside sources) so chances are, from time to time, you’re going to run into a PDF document or two. Browsers …\nThe post Wrangling Control Over PDFs with the Adobe PDF Embed API appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/wrangling-control-over-pdfs-with-the-adobe-pdf-embed-api/",
+          "publishedOn": "2021-05-24T13:57:21.000Z",
+          "wordCount": 2789,
+          "title": "Wrangling Control Over PDFs with the Adobe PDF Embed API"
+        },
+        {
           "id": "https://css-tricks.com/?p=340991",
           "author": "Chris Coyier",
           "description": "Stefan Judis, two days before I mouthed off about using (X, X, X, X) for talking about specificity, has a great blog post not only using that format, but advocating that browser DevTools should show us that value by …\nThe post Should DevTools teach the CSS cascade? appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
@@ -627,6 +636,42 @@
       "feedUrl": "https://www.cnbeta.com/backend.php",
       "siteUrl": "https://www.cnbeta.com",
       "articles": [
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1131991.htm",
+          "author": "ugmbbc",
+          "description": "到目前为止，传统资产正在抵御加密货币风暴带来的风险。彭博银河加密指数经历了近40%的暴跌，这是自去年三月大流行以来最严重的暴跌。相比之下，摩根士利丹国际公司的全球股票指数却有所上升，美国国债和美元也基本保持在稳定状态。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1131991.htm",
+          "publishedOn": "2021-05-24T14:51:53.000Z",
+          "wordCount": 221,
+          "title": "虚拟货币市值下跌1万亿美元 业内分析师如何看待产生影响？"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/science/1131989.htm",
+          "author": "ugmbbc",
+          "description": "利用开创性的植物技术，病毒感染周期中的一个关键过程首次被动态地揭示出来。研究中揭示的有关病毒成熟过程的证据可以帮助我们开发治疗病毒感染的新方法。成熟过程对所有动物和细菌病毒都起着关键作用，它是产生传染性病毒或颗粒的必要条件。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/science/1131989.htm",
+          "publishedOn": "2021-05-24T14:36:28.000Z",
+          "wordCount": 202,
+          "title": "研究人员以动态细节揭示病毒对植物的感染周期"
+        },
+        {
+          "id": "https://hot.cnbeta.com/articles/movie/1131987.htm",
+          "author": "ugmbbc",
+          "description": "由庄文强执导及编剧，梁朝伟、刘德华、任达华、蔡卓妍等人主演的电影《金手指》宣布杀青，进入后期制作阶段！近日杨受成到片场探班，主演梁朝伟、刘德华、蔡卓妍、任达华的角色造型也首次在合影中曝光。刘德华西装革履头发花白，佩戴ICAC工牌，梁朝伟也身穿正装，影片故事仍未透露。\n 阅读全文",
+          "link": "https://hot.cnbeta.com/articles/movie/1131987.htm",
+          "publishedOn": "2021-05-24T14:16:15.000Z",
+          "wordCount": 200,
+          "title": "梁朝伟、刘德华主演电影《金手指》宣布杀青"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1131985.htm",
+          "author": "ugmbbc",
+          "description": "比特币从周末的过山车走势中反弹，并有望创出三个多月来最大涨幅。截至纽约时间上午7：37，这种全球最大的加密货币上涨了12%，约为37800美元。在过去的两周中，数字货币一直饱受剧烈波动的困扰，其中比特币价格在周日暴跌了18%。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1131985.htm",
+          "publishedOn": "2021-05-24T14:14:19.000Z",
+          "wordCount": 216,
+          "title": "比特币在周末暴跌后反弹至37000美元上方 行业盛会将拉开帷幕"
+        },
         {
           "id": "https://www.cnbeta.com/articles/tech/1131983.htm",
           "author": "maomao",
