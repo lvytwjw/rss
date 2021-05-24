@@ -619,6 +619,177 @@
       "siteUrl": "https://www.cnbeta.com",
       "articles": [
         {
+          "id": "https://www.cnbeta.com/articles/tech/1131783.htm",
+          "author": "raymon725",
+          "description": "自 2019 年在印度市场启动了智能电视产品线之后，许多人都期待着该公司将更多型号推向中、美、欧等更多市场。有趣的是，在即将向印度市场推出 OnePlus TV 40Y1 新机的同时，荷兰科技博客又发现了一项有趣的摄像头专利。此前，一加已透露正在打造一款与现有智能电视兼容的网络摄像头配件，但新专利暗示了该公司还在打造一款内置了弹出式可旋转摄像头的新机型。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1131783.htm",
+          "publishedOn": "2021-05-24T06:11:03.000Z",
+          "wordCount": 245,
+          "title": "一加智能电视新专利曝光 配备弹出式可旋转摄像头"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/science/1131781.htm",
+          "author": "study875",
+          "description": "根据一项最新的研究表明，经过训练的狗识别新冠感染者的准确率高达 90%，这也适用于那些无症状患者。来自伦敦卫生与热带医学院的科研团队开展了这项研究，点击这里可以阅读预印版本。而在该研究报告发布的 7 天前，法国的一项研究也发现狗能以 97% 的准确率识别新冠。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/science/1131781.htm",
+          "publishedOn": "2021-05-24T06:09:37.000Z",
+          "wordCount": 224,
+          "title": "无症状患者也能识别 经过训练的狗识别新冠感染者准确率高达90%"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1131779.htm",
+          "author": "raymon725",
+          "description": "币圈大神、全球最大数字货币资管公司灰度投资公司的创始人巴里-希尔伯特（Barry Silbert）认为，加密货币未来几周的走势将完全取决于股市。希尔伯特发表此番言论之际，比特币、以太坊和狗狗币等另类资产正处于一个动荡的周末交易中，这三种加密货币在周日的低点均较近期峰值下跌了至少50%。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1131779.htm",
+          "publishedOn": "2021-05-24T05:58:02.000Z",
+          "wordCount": 206,
+          "title": "比特币还会跌吗？灰度创始人：那要看股市"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/science/1131777.htm",
+          "author": "raymon725",
+          "description": "5月24日上午，“杂交水稻之父”“共和国勋章”获得者、“改革先锋”称号获得者、中国工程院院士袁隆平遗体送别仪式在长沙市明阳山殡仪馆举行。袁隆平同志家属在告别仪式后以书面形式致答谢辞。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/science/1131777.htm",
+          "publishedOn": "2021-05-24T05:54:31.000Z",
+          "wordCount": 209,
+          "title": "袁隆平同志遗体送别仪式举行 家属以书面形式致答谢辞"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1131775.htm",
+          "author": "ugmbbc",
+          "description": "最近，美国科罗拉多州一名母亲，前往六旗游乐园 (Six Flags) 时被保安拦下，原因竟是热裤太短，甚至被列入黑名单禁止入园5年。自称有自闭症的贝里 (Bailey Breedlove)，在脸书分享她与家人出游去俄克拉何马州六旗游乐园的经历，控诉“身体羞辱（bodyshamed）”毁了她的假日，“我当时很怕，我就要因为短裤太短被抓去了。”\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1131775.htm",
+          "publishedOn": "2021-05-24T05:54:04.000Z",
+          "wordCount": 205,
+          "title": "美国辣妈因身穿短裤被赶出游乐园 5年内禁止再进"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/science/1131773.htm",
+          "author": "ugmbbc",
+          "description": "新的研究表明，某些抗癌疗法可能会加速细胞老化，患者的DNA变化可能会导致更大的炎症和疲劳。这些发现由Wiley早期在线发表在美国癌症协会的同行评审杂志《癌症》上。基因活动在生活中经常通过表观遗传学变化进行调整，或对DNA进行物理修改，但不涉及改变基础DNA序列。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/science/1131773.htm",
+          "publishedOn": "2021-05-24T05:53:07.000Z",
+          "wordCount": 199,
+          "title": "癌症治疗过程可能加速细胞老化 DNA变化与更明显的炎症和疲劳有关"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1131771.htm",
+          "author": "ugmbbc",
+          "description": "经过一轮翻江倒海后，华尔街策略师在试图分析比特币和其他代币前景时几乎面临着不可能完成的任务。即便如此，他们仍在尝试，并且有些人看到了更多麻烦将至的风险。由Nikolaos Panigirtzoglou带领的一个摩根大通团队认为，判断比特币跌势结束为时过早。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1131771.htm",
+          "publishedOn": "2021-05-24T05:48:52.000Z",
+          "wordCount": 220,
+          "title": "比特币周末巨震 华尔街试图弄清真相探究前景"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1131769.htm",
+          "author": "ugmbbc",
+          "description": "韩国央行周一表示，将选择一家技术供应商来建立数字货币试点平台，向创建央行支持的数字货币又迈进了一步。韩国央行表示，正通过公开招标程序寻找合作伙伴，以研究在测试环境中推出央行数字货币（CBDC）的可行性。这是该行首次进行此类研究。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1131769.htm",
+          "publishedOn": "2021-05-24T05:48:36.000Z",
+          "wordCount": 200,
+          "title": "韩国央行将于下半年进行数字货币试验"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1131767.htm",
+          "author": "study875",
+          "description": "5 月 24 日下午消息，天眼查 App 显示，近日，深圳市丰巢科技有限公司新增一条行政处罚，决定文书号：深交罚决第 ZD101796 号，处罚结果为罚款 5 万元，处罚单位为深圳市交通运输局。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1131767.htm",
+          "publishedOn": "2021-05-24T05:48:22.000Z",
+          "wordCount": 217,
+          "title": "丰巢被深圳市交通运输局行政处罚5万"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1131765.htm",
+          "author": "study875",
+          "description": "有媒体报道称，温州市汽车工程学会就去年 8 月温州特斯拉连环撞车事故的调查结果显示，系车主踩错了踏板，把油门踏板当刹车踩。报道称，数据显示看到的情况是车主在发生碰撞前，脚没有踩制动踏板，而是踩在加速踏板。车子是处于持续加速的状态，而且速度还是比较快的。温州陈先生事故发生时，特斯拉撞击时速高达 120 公里。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1131765.htm",
+          "publishedOn": "2021-05-24T05:47:09.000Z",
+          "wordCount": 218,
+          "title": "特斯拉车主回应汽车工程学会调查结果：为赔邻居求鉴定成错踩油门"
+        },
+        {
+          "id": "https://hot.cnbeta.com/articles/game/1131763.htm",
+          "author": "ugmbbc",
+          "description": "外国MMORPG数据统计网站MMO Population发布了最新榜单，该榜单为127个目前市面上活跃玩家数量最多的MMO网游排行榜。根据该榜单显示，《最终幻想14：重生之境》的活跃玩家数量已经击败经典游戏《魔兽世界》，荣登排行榜榜首。\n 阅读全文",
+          "link": "https://hot.cnbeta.com/articles/game/1131763.htm",
+          "publishedOn": "2021-05-24T05:45:10.000Z",
+          "wordCount": 206,
+          "title": "MMO Population网站活跃玩家数据统计 《最终幻想14》击败《魔兽世界》登顶"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1131761.htm",
+          "author": "ugmbbc",
+          "description": "昨晚夜间，虚拟货币再次集体崩盘，其中比特币一度跌超16%，莱特币一度跌超30%，以太币一度跌超20%。连日来，虚拟货币的大幅波动仍在继续。值得注意的是，大幅波动再次造成大量的资金损失。据比特币最新数据显示，最近24小时，共有242175人爆仓，96.46亿元资金灰飞烟灭。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1131761.htm",
+          "publishedOn": "2021-05-24T05:44:45.000Z",
+          "wordCount": 207,
+          "title": "昨夜币圈大地震 政府已开始对代币监管收紧"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1131759.htm",
+          "author": "ugmbbc",
+          "description": "5月24日消息，美国当地时间周日，Google及其母公司Alphabet首席执行官桑达尔·皮查伊（Sundar Pichai）接受专访时表示，打击虚假信息是“我们所做一切事情的核心”，并称搜索仍是“终极登月项目”。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1131759.htm",
+          "publishedOn": "2021-05-24T05:43:34.000Z",
+          "wordCount": 209,
+          "title": "皮查伊：打击虚假信息是Google核心任务 对搜索业务仍不满意"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1131757.htm",
+          "author": "ugmbbc",
+          "description": "近日，高德软件有限公司发生工商变更，马云、侯军、成从武等股东退出，新增股东阿里巴巴文化娱乐有限公司。企查查信息显示，该公司成立于2001年，法定代表人为董振宁，实缴资本8000万元人民币。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1131757.htm",
+          "publishedOn": "2021-05-24T05:43:05.000Z",
+          "wordCount": 205,
+          "title": "马云等退出高德软件有限公司 新增股东阿里大文娱"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1131755.htm",
+          "author": "ugmbbc",
+          "description": "出门你可能忘记带车钥匙，但你肯定不会忘了带手机。在智能生态普及的今天，越来越多汽车厂商开始使用手机解锁方案。5月24日，OPPO宣布已与蔚来完成基于CCC 2.0版本的数字车钥匙联合开发和测试工作，很快将在OPPO手机和手表的钱包App内上线相关功能。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1131755.htm",
+          "publishedOn": "2021-05-24T05:41:24.000Z",
+          "wordCount": 211,
+          "title": "OPPO与蔚来完成CCC2.0标准数字车钥匙开发"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1131753.htm",
+          "author": "ugmbbc",
+          "description": "近日，全球最具影响力的显示领域专业盛会“国际显示周”（2021 Display Week）通过线上方式举行，该活动由国际信息显示学会（Society for Information Display，简称SID）主办，来自全世界顶尖的前沿显示技术、产品及科研成果纷纷亮相。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1131753.htm",
+          "publishedOn": "2021-05-24T05:41:07.000Z",
+          "wordCount": 211,
+          "title": "橡皮筋一样伸缩自如 柔宇科技展示Micro-LED弹力柔性屏技术"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1131751.htm",
+          "author": "ugmbbc",
+          "description": "去年底，全国餐饮行业根据发改委的《关于进一步加强塑料污染治理的意见》，全面取消了不可降解的一次性塑料吸管和塑料袋。于是，各种餐饮企业便开始使用纸吸管，但虽然比塑料吸管环保一些，且带来了十分糟糕的体验，前段时间微博还有一条 “纸吸管真的很环保 在我嘴里就降解了” 的热搜出现。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1131751.htm",
+          "publishedOn": "2021-05-24T05:40:22.000Z",
+          "wordCount": 200,
+          "title": "网友称吸入了玻璃吸管碎渣 专家建议不必过度焦虑"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1131749.htm",
+          "author": "ugmbbc",
+          "description": "5月24日消息，今日，在鸿蒙开发者创新大赛颁奖典礼上，华为消费者业务软件部总裁王成录表示鸿蒙即将开源系统，并在武汉大学等15个学校开展harmonyOS课程。在前不久的华为鸿蒙伙伴峰会上，华为消费者业务AI与智慧全场景业务部副总裁杨海松在接受采访时表示，鸿蒙系统完全开源开放，今年会按照既定计划做到128MB-4GB的设备全栈系统开源开放。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1131749.htm",
+          "publishedOn": "2021-05-24T05:38:12.000Z",
+          "wordCount": 204,
+          "title": "华为王成录：鸿蒙即将开源 并在15个学校开展HarmonyOS课程"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1131747.htm",
+          "author": "ugmbbc",
+          "description": "作为丰田旗下的一款“越野老炮”，兰德酷路泽一直有着结实耐造的口碑。日前，全新一代丰田兰德酷路泽的信息在发布之前被曝光，新车将基于TNGA-F平台打造，并首次用上了10AT变速箱，预计将于8月1日发布。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1131747.htm",
+          "publishedOn": "2021-05-24T05:37:07.000Z",
+          "wordCount": 198,
+          "title": "全新丰田兰德酷路泽曝光 首搭10AT"
+        },
+        {
           "id": "https://www.cnbeta.com/articles/tech/1131745.htm",
           "author": "raymon725",
           "description": "尽管大多数智能手机制造商都已经放弃了机械弹出或可翻转的摄像头方案，但华硕新推出的 ZenFone 8 Flip 机型还是再次上演了这样的剧情。油管科技频道 PBKreviews 的拆解视频表明，与三星 Galaxy A80 类似，ZenFone 8 Flip 的内部结构设计，也较普通智能机要复杂不少。\n 阅读全文",
