@@ -540,6 +540,15 @@
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
         {
+          "id": "60ac07ec11ffb70827ef66e4",
+          "author": null,
+          "description": "CSS Media Queries allow you to create responsive websites that look good on all screen sizes, from desktop to mobile. We just released a course on the freeCodeCamp channel that will teach you how to create CSS Media Queries. After learning the basics, you will learn how to use media",
+          "link": "https://www.freecodecamp.org/news/how-to-use-css-media-queries-to-create-responsive-websites/",
+          "publishedOn": "2021-05-24T20:36:07.000Z",
+          "wordCount": 319,
+          "title": "How to Use CSS Media Queries to Create Responsive Websites"
+        },
+        {
           "id": "60aa161211ffb70827ef5f2c",
           "author": null,
           "description": "Software testing is an important part of the software development process. You run tests at different stages of the software development life cycle, and you'll want to make sure that you have good test coverage.  Here are some key reasons for writing software tests:  Testing prevents you from introducing breaking",
