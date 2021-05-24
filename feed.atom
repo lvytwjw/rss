@@ -2,10 +2,92 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://lvytwjw.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-05-24T18:30:12.398Z</updated>
+    <updated>2021-05-24T19:28:23.088Z</updated>
     <generator>osmosfeed 1.8.1</generator>
     <link rel="alternate" href="https://lvytwjw.github.io/rss/index.html"/>
     <link rel="self" href="https://lvytwjw.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[proxy-www]]></title>
+        <id>https://css-tricks.com/?p=341153</id>
+        <link href="https://github.com/justjavac/proxy-www"/>
+        <updated>2021-05-24T19:09:59.000Z</updated>
+        <summary type="html"><![CDATA[I like a good trick. What if… a URL was…  a promise… that fetched said URL?
+www.codepen.io.then((response) ={
+  console.log(response);
+});
+That’s what @justjavac did with JavaScript Proxys. A clever trick, that. Don’t @ me about the practicality. Trick…
+The post proxy-www appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美国疾控中心加大监控B.1.617变异毒株 专家对疫苗接种率低的州发出警告]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1132029.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1132029.htm"/>
+        <updated>2021-05-24T18:59:51.000Z</updated>
+        <summary type="html"><![CDATA[美国疾病控制与预防中心（CDC）正加大力度监控首先在印度发现的新冠病毒变异毒株。有专家警告称，美国疫苗接种不够的区域可能成为该毒株高发区。美国目前感染印度发现的B.1.617变异毒株的病例占比不到1%，但因样本量小，增长速度仍不清楚。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“空中海盗”行径引发欧美关切 默克尔呼吁禁止飞越白俄罗斯领空]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1132027.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1132027.htm"/>
+        <updated>2021-05-24T18:58:00.000Z</updated>
+        <summary type="html"><![CDATA[在前一天白俄罗斯要求瑞安航空（Ryanair）一架航班紧急降落并逮捕了机上一名记者后，欧盟国家领导人将开始讨论对白俄罗斯的潜在制裁措施。27国领导人从布鲁塞尔时间晚上7点开始为期两天的会议，他们将考虑对白俄罗斯总统卢卡申科实施进一步制裁。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“末日博士”：比特币既不是货币也不是金融资产 看起来确实像泡沫]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1132025.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1132025.htm"/>
+        <updated>2021-05-24T18:56:46.000Z</updated>
+        <summary type="html"><![CDATA[曾准确预测2008年金融海啸、有“末日博士”之称的经济学家努里尔-鲁比尼（Nouriel Roubini）反对将比特币和其他加密货币作为对冲通胀的替代工具。实际上，鲁比尼认为，加密货币根本就不是货币或金融资产。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[亚马逊接近90亿美元收购米高梅 将成该公司有史以来第二大收购]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1132023.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1132023.htm"/>
+        <updated>2021-05-24T18:56:13.000Z</updated>
+        <summary type="html"><![CDATA[据报道，亚马逊接近达成收购美国经典电影制片公司米高梅（MGM）的协议，交易价值大约90亿美元。报道称，这笔交易最快可能在本周达成。这将是亚马逊有史以来的第二大收购，仅次于全食超市137亿美元的交易。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[新能源积分交易价格最高涨9倍 造车新势力卖分创收]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1132021.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1132021.htm"/>
+        <updated>2021-05-24T18:55:30.000Z</updated>
+        <summary type="html"><![CDATA[一场新能源汽车积分达标的“战役”，正在国内传统乘用车制造企业中全面打响。日前，2020年度中国乘用车企业平均燃料消耗量与新能源汽车积分“成绩单”出炉，对138家车企“双积分”进行公示。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[比特币挖矿与“碳达峰”目标背道而驰]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1132019.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1132019.htm"/>
+        <updated>2021-05-24T18:53:50.000Z</updated>
+        <summary type="html"><![CDATA[虚拟货币行业正迎来监管风暴。继中国互联网金融协会等三协会联合发布关于防范虚拟货币交易炒作风险后，5月21日，金融委会议明确提出，打击比特币挖矿和交易行为，坚决防范个体风险向社会领域传递。消息发布后，虚拟货币市场集体大跌。值得注意的是，虽然此前协会曾多次提及虚拟货币交易风险，但比特币挖矿被高层会议明确予以打击，尚属首次。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[印度警方突袭Twitter办公室 要求其解释推文“被操纵”标注]]></title>
         <id>https://www.cnbeta.com/articles/tech/1132017.htm</id>
