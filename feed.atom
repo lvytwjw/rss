@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://lvytwjw.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-05-24T04:22:30.577Z</updated>
+    <updated>2021-05-24T05:22:57.150Z</updated>
     <generator>osmosfeed 1.8.1</generator>
     <link rel="alternate" href="https://lvytwjw.github.io/rss/index.html"/>
     <link rel="self" href="https://lvytwjw.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[华硕ZenFone 8 Flip简单拆解：翻转摄像头略复杂 模块化设计有加分]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1131745.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1131745.htm"/>
+        <updated>2021-05-24T05:02:52.000Z</updated>
+        <summary type="html"><![CDATA[尽管大多数智能手机制造商都已经放弃了机械弹出或可翻转的摄像头方案，但华硕新推出的 ZenFone 8 Flip 机型还是再次上演了这样的剧情。油管科技频道 PBKreviews 的拆解视频表明，与三星 Galaxy A80 类似，ZenFone 8 Flip 的内部结构设计，也较普通智能机要复杂不少。
+ 阅读全文]]></summary>
+        <author>
+            <name>raymon725</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[特斯拉回应柳州倒车失控：驾驶员未踩刹车踏板]]></title>
         <id>https://www.cnbeta.com/articles/tech/1131743.htm</id>
