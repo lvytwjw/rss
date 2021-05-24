@@ -628,6 +628,213 @@
       "siteUrl": "https://www.cnbeta.com",
       "articles": [
         {
+          "id": "https://www.cnbeta.com/articles/science/1131967.htm",
+          "author": "maomao",
+          "description": "来自维也纳大学的一个研究小组与美国的研究机构一起发现了一种令人惊讶的量子临界形式，这可能会带来一种新的材料设计理念。在日常生活中，相变通常与温度变化有关，例如，当一个冰块变热并融化成水等等。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/science/1131967.htm",
+          "publishedOn": "2021-05-24T13:25:37.000Z",
+          "wordCount": 209,
+          "title": "维也纳大学和美国研究机构发现全新令人惊讶的量子临界形式"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/science/1131965.htm",
+          "author": "ugmbbc",
+          "description": "南加州大学凯克医学院的研究人员发现了一个新的目标和一种潜在的新疗法，可以为对抗COVID-19及其背后的一些病毒变种提供额外的治疗方法。疫苗的迅速发展为打击致命的SARS-CoV-2病毒的传播提供了一个重要的工具，但是新的变异体的出现和免疫抑制者在接种疫苗后无法产生有效的免疫反应所带来的群体免疫挑战表明，需要额外的解决方案来最大化保护。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/science/1131965.htm",
+          "publishedOn": "2021-05-24T13:18:46.000Z",
+          "wordCount": 205,
+          "title": "科学家在对抗COVID-19的斗争中发现了新的潜在治疗目标"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1131963.htm",
+          "author": "ugmbbc",
+          "description": "5月20日，经上海市静安区人民检察院以侵犯著作权罪对上海斯干网络科技有限公司（以下简称“斯干公司”）及王某等28人提起公诉，普陀区人民法院作出一审判决，以侵犯著作权罪判处斯干公司罚金人民币130万元，判处王某有期徒刑三年缓刑四年，并处罚金人民币24万元，\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1131963.htm",
+          "publishedOn": "2021-05-24T13:12:44.000Z",
+          "wordCount": 203,
+          "title": "“第一弹”App创始人等27人因发布侵权视频获刑"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1131961.htm",
+          "author": "ugmbbc",
+          "description": "北京时间5月24日消息，据国外媒体报道，全球芯片短缺继续给汽车业带来巨大的冲击，而底特律三巨头受到的影响尤为严重。来自行业研究机构AutoForecast Solutions 5月18日发布的最新数据显示，底特律三巨头到目前为止损失的产量合计超过85万辆。与此同时，在北美所有受芯片短缺而减产的车型排名中，底特律三巨头包揽了前十的位置。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1131961.htm",
+          "publishedOn": "2021-05-24T13:11:52.000Z",
+          "wordCount": 221,
+          "title": "损失逾85万辆汽车生产 芯片危机给底特律三巨头造成沉重打击"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1131959.htm",
+          "author": "maomao",
+          "description": "气候变化正在重塑地球，导致海平面上升，北极冰融化，全球气温升高。根据NASA的数据，全球平均海平面在过去100年里上升了7英寸。北极夏季海冰已经缩减到有记录以来的最低水平，自2000年以来，全球平均温度上升了2.1华氏度，对地球生命构成威胁。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1131959.htm",
+          "publishedOn": "2021-05-24T13:09:40.000Z",
+          "wordCount": 202,
+          "title": "美国加州公司研发无人驾驶帆船 应对地球气候变化威胁"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1131957.htm",
+          "author": "ugmbbc",
+          "description": "搭载M1芯片的的iPad Pro被称史上最强，mini LED 加持的 Liquid 视网膜 XDR 屏幕，支持 P3 广色域、原彩显示和 ProMotion 自适应刷新率登显示技术......不少网友在发布会上就已经期待满满，目前已经有网友收到最新的iPad Pro。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1131957.htm",
+          "publishedOn": "2021-05-24T13:07:55.000Z",
+          "wordCount": 260,
+          "title": "史上最强iPad Pro翻车了？mini LED屏幕被曝存在绿屏及漏光问题"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1131955.htm",
+          "author": "ugmbbc",
+          "description": "眼看5月将过，2021年快一半的时间就要结束了，在下半年，还有相当多的重磅新机将要登场，包括苹果、华为、小米、三星等。日前，LeaksApplePro给出了一批iPhone 13 Pro最新渲染图，号称是苹果已经敲定的最终方案。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1131955.htm",
+          "publishedOn": "2021-05-24T13:07:24.000Z",
+          "wordCount": 223,
+          "title": "传iPhone 13 Pro外形已敲定：终极渲染图曝光"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1131953.htm",
+          "author": "ugmbbc",
+          "description": "作为刘慈欣（“大刘”）最富盛名的科幻小说，《三体》最终篇《三体3：死神永生》即将在5月25日也就是明天在日本市场发售。有十一区网民分享称，不少卖场、书店等都做好了宣传版面、各种海报、彩页等，卖力宣传。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1131953.htm",
+          "publishedOn": "2021-05-24T13:06:40.000Z",
+          "wordCount": 199,
+          "title": "《三体3》明日日本发售：书商卖力宣传完结篇"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/science/1131951.htm",
+          "author": "ugmbbc",
+          "description": "美国宇航局、欧空局和日本宇宙航空研究开发机构宣布，他们将举办一场黑客马拉松以研究COVID-19的环境影响。这次黑客马拉松将从6月23日持续到6月29日，正式名称是“地球观测仪表板黑客马拉松”。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/science/1131951.htm",
+          "publishedOn": "2021-05-24T13:00:27.000Z",
+          "wordCount": 206,
+          "title": "NASA和合作空间机构将于6月举办黑客马拉松活动"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1131949.htm",
+          "author": "ugmbbc",
+          "description": "要让世界各地的司机完全换用电动车必须克服许多挑战。最大的挑战之一是充电基础设施。我们必须建立足够的充电器，以支持每个人拥有电动汽车，并提高充电速度。但是目前，一些电动汽车充满电需要几个小时。许多汽车制造商和研究人员看到了未来电动汽车的另一种潜力，那就是可以为电动汽车在行驶过程中充电的高速公路。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1131949.htm",
+          "publishedOn": "2021-05-24T12:54:28.000Z",
+          "wordCount": 206,
+          "title": "世界上第一条电动汽车充电高速公路将在意大利通车"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1131947.htm",
+          "author": "maomao",
+          "description": "福特之前承诺推出4万美元的全电动皮卡。福特今天公布了产品照片，它是2022款F-150 Lightning Pro，福特将其电动卡车技术带给普通客户和商业客户。在新车型中，这款工作用的电动卡车是最实惠的，它保留了其消费者XLT、Lariat和Platinum产品的一些特点技术，但与乙烯座椅和标准的全尺寸备胎等配置搭配。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1131947.htm",
+          "publishedOn": "2021-05-24T12:44:42.000Z",
+          "wordCount": 235,
+          "title": "福特公布售价4万美元全电动皮卡照片 将提供给零售和商业客户"
+        },
+        {
+          "id": "https://hot.cnbeta.com/articles/movie/1131945.htm",
+          "author": "ugmbbc",
+          "description": "日本交互工程师“キヨ”制作了一款能展现出类似《功夫》中“如来神掌”效果的AR应用程序，并发布了一段演示视频。从演示中可以看出，程序将相同手势的凹陷印在墙面上去如同使用者使出“如来神掌”招式一般十分酷炫。该软件是使用了Unity的AR框架AR Foundation制作。\n 阅读全文",
+          "link": "https://hot.cnbeta.com/articles/movie/1131945.htm",
+          "publishedOn": "2021-05-24T12:43:40.000Z",
+          "wordCount": 216,
+          "title": "日本交互工程师制作“如来神掌”效果AR程序 致敬周星驰电影《功夫》"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1131943.htm",
+          "author": "ugmbbc",
+          "description": "下个月初，NVIDIA将连续发布RTX 3080 Ti、RTX 3070 Ti两款高端显卡，而在天猫雷蛇旗舰店，预装这两块卡的整机居然偷跑开卖了，只是很快就被下架。RTX 3080 Ti整机有两款，处理器都是锐龙9 5900X，主板分别是B550、X570，其他配置也略有不同，价格分别要22999元、24999元。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1131943.htm",
+          "publishedOn": "2021-05-24T12:42:28.000Z",
+          "wordCount": 231,
+          "title": "RTX 3080Ti/3070Ti国内偷跑开卖 但全都是PC整机"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1131941.htm",
+          "author": "ugmbbc",
+          "description": "AMD的Zen4、Zen5架构都在研发中，此前官方已经确认Zen4将升级到5nm工艺。同时按照AMD全球副总裁Rick Bergman的说法，Zen4在缓存、分支预测、执行流水线单元等方面对架构的打磨完全不逊于Zen3。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1131941.htm",
+          "publishedOn": "2021-05-24T12:40:37.000Z",
+          "wordCount": 219,
+          "title": "AMD Zen4曝光：同频性能提升29%"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1131939.htm",
+          "author": "ugmbbc",
+          "description": "据俄罗斯《消息报》网站5月20日报道，德国巴登-符滕堡州前州长京特·厄廷格认为，第三次世界大战将没有坦克和大炮的参与——而是在网络空间进行。厄廷格20日在德国《商报》上撰文称：“可以肯定的是：第三次世界大战不会是‘水陆空’作战，而是会在没有坦克和炮击声的网络空间进行。”\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1131939.htm",
+          "publishedOn": "2021-05-24T12:38:31.000Z",
+          "wordCount": 201,
+          "title": "德国政治家：第三次世界大战将是网络战"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/science/1131937.htm",
+          "author": "ugmbbc",
+          "description": "据美国趣味科学网站5月21日报道，一个在日本海岸附近工作的研究团队刚刚在太平洋海底钻了一个洞，这个洞比之前任意一处海洋中的任意一个洞都更深。一项声明称，5月14日，日本“海明”号研究船上的科学家将一个又长又细、被称为“巨型活塞取芯器”的钻头送入太平洋海面下近5英里（约合8000米）处。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/science/1131937.htm",
+          "publishedOn": "2021-05-24T12:37:22.000Z",
+          "wordCount": 206,
+          "title": "美媒：科学家挖出史上最深海洋洞"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1131935.htm",
+          "author": "ugmbbc",
+          "description": "5月24日，蔚来汽车发布公告称，公司已和江淮汽车或江来先进制造技术（安徽）有限公司（以下简称“江来制造”）签订了联合制造生产协议。公告显示，根据联合生产安排，从2021年5月至2024年5月，江淮汽车将继续生产ES8、ES6、EC6、ET7和其他可能的蔚来车型。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1131935.htm",
+          "publishedOn": "2021-05-24T12:35:35.000Z",
+          "wordCount": 213,
+          "title": "蔚来与江淮续签“代工”协议 年生产能力将扩大到24万辆"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1131933.htm",
+          "author": "ugmbbc",
+          "description": "“我现在正在制定旅行计划，我不想再错过一个夏天了。”居住在巴黎的法国人鲁莱特（Antoine Roulet）对第一财经记者说道。7~8月是欧洲的传统旅游旺季，一般法国人都会开始3周的旅行。去年，由于新冠肺炎疫情，他无奈地取消了这一计划。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1131933.htm",
+          "publishedOn": "2021-05-24T12:29:45.000Z",
+          "wordCount": 209,
+          "title": "欧洲多国放宽旅行限制 今夏能否重启“度假模式”？"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1131931.htm",
+          "author": "maomao",
+          "description": "十年前，空中客车公司为其A320飞机家族增加了更多的燃油效率发动机，使其已经很畅销机型获得了巨大的需求提升。现在，这家欧洲公司正在寻求重复这一成功，这次准备用一套新的机翼来吸引更多客户。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1131931.htm",
+          "publishedOn": "2021-05-24T12:26:31.000Z",
+          "wordCount": 202,
+          "title": "空中客车公司研发新款复合材料机翼来吸引更多客户"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1131929.htm",
+          "author": "ugmbbc",
+          "description": "在今日举行首届HarmonyOS开发者创新大赛颁奖典礼，华为正式宣布启动HarmonyOS高校人才培育计划，将推动超过15款HarmonyOS课程走入高校。“从主机时代、PC时代一直到移动互联网时代，开发者引领信息化革命的每一步。即将到来的万物互联时代，则为开发者带来了又一次引领时代的机会。”\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1131929.htm",
+          "publishedOn": "2021-05-24T12:19:53.000Z",
+          "wordCount": 225,
+          "title": "华为启动鸿蒙OS高校人才培育计划 将推动超15款鸿蒙课程走入高校"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1131927.htm",
+          "author": "ugmbbc",
+          "description": "挪威一法庭今日裁定，特斯拉通过软件更新来限制充电速度和电池容量。除非上诉，否则特斯拉将不得不向挪威数千名受影响的车主每人支付1.6万美元。此外，其他国家也在进行类似的法律诉讼，这意味着特斯拉可能为此付出更高的代价。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1131927.htm",
+          "publishedOn": "2021-05-24T12:19:21.000Z",
+          "wordCount": 214,
+          "title": "挪威法庭裁定特斯拉通过软件更新限制电池容量 赔偿上亿美元"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1131925.htm",
+          "author": "ugmbbc",
+          "description": "5月24日晚间消息，据贝壳找房官方微信公众号，5月24日，经贝壳找房公司董事会决定，任命彭永东（S）接任贝壳董事长一职，并任命徐万刚（阿甘）担任贝壳执行董事。同时，公司宣布左晖为公司“永远的荣誉董事长”，以此纪念其作出的巨大贡献和留下的宝贵精神遗产。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1131925.htm",
+          "publishedOn": "2021-05-24T12:18:12.000Z",
+          "wordCount": 208,
+          "title": "贝壳宣布左晖为“永远的荣誉董事长” 彭永东担任董事长兼CEO"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1131923.htm",
+          "author": "ugmbbc",
+          "description": "去年11月，荣耀品牌正式从华为独立，而在蛰伏了半年之后，荣耀即将回到舞台，对于自己的野心也丝毫没有藏着掖着，荣耀CEO赵明在接受媒体采访时就毫不讳言：除了中国市场第一，没有别的目标！\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1131923.htm",
+          "publishedOn": "2021-05-24T12:12:25.000Z",
+          "wordCount": 209,
+          "title": "荣耀赵明：除了中国市场第一 没有其他目标"
+        },
+        {
           "id": "https://www.cnbeta.com/articles/tech/1131921.htm",
           "author": "ugmbbc",
           "description": "4月27日晚，我国经历了一场超级月亮天文奇观，而在两天后的5月26日，超级月亮将再度上演，而且这次还有日全食(红月亮)一起组CP，不容错过。据介绍，26日9时50分，月球运行到距离地球的最近点，距离只有357311千米，满月视直径达到33.5角分，全年最大。\n 阅读全文",
