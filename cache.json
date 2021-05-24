@@ -628,6 +628,78 @@
       "siteUrl": "https://www.cnbeta.com",
       "articles": [
         {
+          "id": "https://www.cnbeta.com/articles/tech/1131983.htm",
+          "author": "maomao",
+          "description": "新西兰怀卡托医院正面临着第二周中断，因为在一次大规模网络攻击之后，它正在努力修复其计算机基础设施。随着电脑下线和电话断线，攻击者仍然不明。据怀卡托地区卫生局首席执行官Kevin Snee称，这次针对医院的攻击可能是新西兰历史上最大的网络攻击。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1131983.htm",
+          "publishedOn": "2021-05-24T14:08:01.000Z",
+          "wordCount": 205,
+          "title": "奥克兰南部医疗系统遭遇新西兰历史上最大的网络攻击"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1131981.htm",
+          "author": "ugmbbc",
+          "description": "据报道，虽然特斯拉CEO埃隆·马斯克（Elon Musk）曾对激光雷达（LiDAR）不屑一顾，但近日却有人发现，一辆Model Y电动汽车正在测试LiDAR技术。马斯克不久前曾表示，激光雷达是一件“徒劳无益的事情”。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1131981.htm",
+          "publishedOn": "2021-05-24T14:06:38.000Z",
+          "wordCount": 218,
+          "title": "马斯克食言？Model Y电动汽车被曝正在测试激光雷达技术"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/science/1131979.htm",
+          "author": "ugmbbc",
+          "description": "法兰克福歌德大学的理论物理学家分析了来自黑洞M87的数据，作为事件地平线望远镜（EHT）合作的一部分，以检验爱因斯坦的广义相对论。根据测试，来自M87*的阴影的大小与来自广义相对论中的黑洞的大小非常一致，但对其他理论中的黑洞的属性有所不同。2019年，EHT合作组织公布了位于M87星系中心的黑洞的第一张图像。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/science/1131979.htm",
+          "publishedOn": "2021-05-24T13:51:23.000Z",
+          "wordCount": 208,
+          "title": "不是所有的理论都能解释M87超大质量黑洞"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1131977.htm",
+          "author": "ugmbbc",
+          "description": "奥迪是众多努力推动其整个车队转换为电动车的汽车制造商之一。奥迪打算在2025年之前拥有超过20个全电动车型的系列。在其2021年新推出的车型中，有一半以上是电气化的。随着越来越多的汽车买家从传统汽车过渡到电动汽车，充电基础设施至关重要。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1131977.htm",
+          "publishedOn": "2021-05-24T13:46:17.000Z",
+          "wordCount": 206,
+          "title": "奥迪的电动汽车大容量快速充电中心将深入电网可能无法到达的地方"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1131975.htm",
+          "author": "ugmbbc",
+          "description": "刚果（金）东北部尼拉贡戈火山22日晚上喷发，当地政府部门最新消息称，此次火山喷发已造成至少15人死亡、超500栋房屋被毁、数万人逃离家园。综合美联社、《非洲时报》报道，刚果政府部门发布消息称，该国东北部北基伍省境内尼拉贡戈火山喷发已致15人死亡。另外，火山喷发还造成当地500多栋房屋毁于一旦，2.5万逃亡西北部避难。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1131975.htm",
+          "publishedOn": "2021-05-24T13:39:58.000Z",
+          "wordCount": 203,
+          "title": "刚果(金)尼拉贡戈火山喷发已致15人死亡"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/science/1131973.htm",
+          "author": "ugmbbc",
+          "description": "早期结果显示，一种新的联合药物疗法对无法通过手术切除肿瘤的患者的晚期皮肤癌是安全和有效的。研究人员说，这种药物组合是第一批证明活的普通感冒病毒（一种柯萨奇病毒）感染和杀死癌细胞的潜在价值。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/science/1131973.htm",
+          "publishedOn": "2021-05-24T13:35:33.000Z",
+          "wordCount": 200,
+          "title": "新的杀癌病毒疗法对无法手术切除的皮肤癌显示出对抗能力"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1131971.htm",
+          "author": "ugmbbc",
+          "description": "社交音频应用Clubhouse在Android平台上全球发布仅几天后，其在Google应用商店的下载量就突破了一百万。该应用于5月10日作为测试版首次出现在该平台上，但一开始只有居住在美国的用户才能访问。Clubhouse最初于2020年3月推出，是一款仅限邀请的iOS社交媒体应用，用户在语音聊天室中交流，最高可容纳5000人的团体。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1131971.htm",
+          "publishedOn": "2021-05-24T13:28:39.000Z",
+          "wordCount": 207,
+          "title": "Clubhouse一周内在Android系统上突破了100万次下载大关"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1131969.htm",
+          "author": "ugmbbc",
+          "description": "线上Apple Store已经暂时停止在美国销售爱马仕AirTag，这可能是对潜在质量问题的一种预防措施。周一，在线版Apple Store的访问者无法购买任何AirTag爱马仕产品，所有三件商品都被列为 \"目前无法购买\"。这包括349美元的钥匙圈，299美元的拎包挂件，以及449美元的行李牌型号。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1131969.htm",
+          "publishedOn": "2021-05-24T13:26:42.000Z",
+          "wordCount": 220,
+          "title": "苹果停止在多国线上销售爱马仕AirTag配件 可能是由于质量问题"
+        },
+        {
           "id": "https://www.cnbeta.com/articles/science/1131967.htm",
           "author": "maomao",
           "description": "来自维也纳大学的一个研究小组与美国的研究机构一起发现了一种令人惊讶的量子临界形式，这可能会带来一种新的材料设计理念。在日常生活中，相变通常与温度变化有关，例如，当一个冰块变热并融化成水等等。\n 阅读全文",
