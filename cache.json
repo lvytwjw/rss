@@ -619,6 +619,159 @@
       "siteUrl": "https://www.cnbeta.com",
       "articles": [
         {
+          "id": "https://www.cnbeta.com/articles/tech/1131873.htm",
+          "author": "ugmbbc",
+          "description": "因为要支持DDR5内存，AMD Zen4架构锐龙处理器会将封装接口从AM4变成AM5，并首次从PGA针脚式改为LGA触点式，Intel Alder Lake 12代酷睿则会从LGA1200(Socket H5)变成LGA1700，又名Socket V(同时也支持PCIe 5.0)。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1131873.htm",
+          "publishedOn": "2021-05-24T09:05:49.000Z",
+          "wordCount": 228,
+          "title": "Intel 12代酷睿“缩水”：变薄了近1毫米"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1131871.htm",
+          "author": "study875",
+          "description": "5月24日消息，美国《汽车与司机》杂志最近对特斯拉长续航Plus版Model S进行了高速公路燃油经济性测试。结果显示，在以时速120公里的速度行驶了515公里后，这款车的经济燃油性达到可与燃油车相媲美的水平。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1131871.htm",
+          "publishedOn": "2021-05-24T09:00:16.000Z",
+          "wordCount": 227,
+          "title": "时速120公里行驶515公里 特斯拉Model S燃油经济性已可媲美燃油车"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1131869.htm",
+          "author": "raymon725",
+          "description": "香港《南华早报》5月23日发表题为《中国采取行动，以敏锐眼光对待加密货币》的社论，全文摘编如下：在中国，加密货币作为交易媒介没有未来。在其他国家政府犹豫不决并采取观望态度之际，北京为金融稳定、主权数字货币和环境保护制定了路线。加密货币极具破坏性，因此不能在这一路线中作为替代性法定货币来发挥功能。这是最前后一致、最符合逻辑的政策规划。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1131869.htm",
+          "publishedOn": "2021-05-24T08:59:33.000Z",
+          "wordCount": 204,
+          "title": "港媒社论：中国对待加密货币目光敏锐"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1131867.htm",
+          "author": "study875",
+          "description": "北京时间 5 月 24 日下午消息，蔚来汽车 （NYSE:NIO） 今日宣布，已与江淮汽车 （JAC） 和江来先进制造技术（安徽）有限公司，就联合制造蔚来汽车和相关费用安排达成了协议。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1131867.htm",
+          "publishedOn": "2021-05-24T08:57:45.000Z",
+          "wordCount": 247,
+          "title": "蔚来汽车与江淮汽车续约：年产能提高至 24 万辆"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1131865.htm",
+          "author": "raymon725",
+          "description": "据国外媒体报道，区块链分析公司Elliptic的一份新报告显示，伊朗挖矿活动可能带来超过10亿美元的年收入，并帮助该国规避美国施加的经济制裁。研究表明，伊朗目前占全球比特币挖矿业务总额的4.5%，为其带来了数千亿美元的收入，资金尤其被用于规避石油禁运。美国对伊朗实施了几乎全面的经济禁运措施，面对这些制裁，伊朗转向了比特币挖矿。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1131865.htm",
+          "publishedOn": "2021-05-24T08:54:44.000Z",
+          "wordCount": 205,
+          "title": "Elliptic：伊朗比特币挖矿年收入可能超过10亿美元 规避石油制裁"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1131863.htm",
+          "author": "ugmbbc",
+          "description": "今年以来，由比特币带头的虚拟货币一路大涨，比特币甚至一度暴涨至63000美元/枚，令许多企业和投资者分外眼红。此次比特币暴涨的始作俑者马斯克也收益颇丰，特斯拉早在几个月前就宣布大笔买进了比特币作为投资，甚至收益一度超过了2020年全年的卖车利润。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1131863.htm",
+          "publishedOn": "2021-05-24T08:53:00.000Z",
+          "wordCount": 205,
+          "title": "比特币一天跌去4000美元：美图炒币已亏损1300万 最初赚了1亿多"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1131861.htm",
+          "author": "raymon725",
+          "description": "据国外媒体报道，日本相亲应用Omiai最近遭黑客攻击，约170多万用户个人数据遭泄露。Omiai母公司Net Marketing表示，其服务器4月份遭到未经授权访问。遭泄露的数据包括用户身份证、驾照、保险卡和护照信息，但用户信用卡信息未泄露。婚恋交友网站用户数据的泄露，这并非首次。2015年，婚外情网站AshleyMadison.com遭黑客攻击，曾导致3700万用户数据泄露。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1131861.htm",
+          "publishedOn": "2021-05-24T08:51:13.000Z",
+          "wordCount": 212,
+          "title": "日本婚介应用Omiai遭黑客攻击 170万用户数据泄露"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1131859.htm",
+          "author": "study875",
+          "description": "Google自研芯片的传闻由来已久，之前在 2020 年Google电话会议上 ，Alphabet CEO（ Google母公司）皮查伊也提到将会在硬件方向进行一些更深入的投资，业界猜测这是其自研芯片 Whitechapel 将要发布的信号。5 月 24 日消息，爆料人 Max Weinbach 爆料称Google Pixel 6 搭载自研芯片 Whitechapel。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1131859.htm",
+          "publishedOn": "2021-05-24T08:50:52.000Z",
+          "wordCount": 272,
+          "title": "曝谷歌 Pixel 6 用自研 SoC：5nm、 性能不及骁龙 888"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1131857.htm",
+          "author": "ugmbbc",
+          "description": "根据卫健委官方消息，目前全国疫苗产能正在加速释放，日接种量可超过2000万剂次。此前中国疾控中心研究员、科研攻关组疫苗研发专班专家组成员邵一鸣曾表示，随着我们到年中，特别是下半年，产能巨大增加之后，我们再把接种速度增加上去，相信在年内是一定可以实现我们制定的建立群体免疫屏障的目标。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1131857.htm",
+          "publishedOn": "2021-05-24T08:43:49.000Z",
+          "wordCount": 202,
+          "title": "我国新冠疫苗接种超5亿剂次：年底或实现群体免疫"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1131855.htm",
+          "author": "ugmbbc",
+          "description": "作为国产皮卡的领军人物，长城汽车在2021上海车展期间带来了坦克700、坦克800等在内多款新车，其中最亮眼的莫过于甄子丹代言的全尺寸皮卡——X炮（命名未定），该车也是中国首款全尺寸皮卡。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1131855.htm",
+          "publishedOn": "2021-05-24T08:43:00.000Z",
+          "wordCount": 207,
+          "title": "甄子丹代言 长城首款全尺寸皮卡“X炮”实拍"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1131853.htm",
+          "author": "study875",
+          "description": "据国外媒体报道，近年来，电动汽车制造商特斯拉多次被其电动汽车车主和其员工起诉，特斯拉前员工林恩·汤普森 （Lynn Thompson） 日前对特斯拉提起诉讼是其中最新一例。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1131853.htm",
+          "publishedOn": "2021-05-24T08:41:20.000Z",
+          "wordCount": 220,
+          "title": "特斯拉被一名前员工起诉 后者声称因报告铜被盗而被解雇"
+        },
+        {
+          "id": "https://hot.cnbeta.com/articles/comic/1131851.htm",
+          "author": "study875",
+          "description": "动画业界巨头吉卜力工作室 5 月 24 日今天晒出了编辑部轶事，一部用了 N 年的描图机坏了因为没有配件而决定退役，引来包括宫崎骏等名人亲笔签名留念，引发网友热议。\n 阅读全文",
+          "link": "https://hot.cnbeta.com/articles/comic/1131851.htm",
+          "publishedOn": "2021-05-24T08:33:59.000Z",
+          "wordCount": 216,
+          "title": "吉卜力工作室古董描图机终于退役 宫崎骏亲笔签名留念"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1131849.htm",
+          "author": "study875",
+          "description": "今日，汽车之家报道称 ，2021 年 5 月 24 日下午，北京市建国门内大街发生一起车祸，从现场情况来看，一辆蔚来 ES8 将道路中央隔离带撞毁，车辆前部损毁严重。针对该起事故，蔚来汽车方面回应称 ，“5 月 24 日下午，北京建国门内大街发生一起交通事故，交警已经处理，交通恢复。服务人员已经到达现场，现场没有人员受伤。具体事故原因以交管部门口径为准。”并称“安全驾驶是第一要务”。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1131849.htm",
+          "publishedOn": "2021-05-24T08:33:11.000Z",
+          "wordCount": 219,
+          "title": "蔚来汽车回应建国门车祸：现场没有人员受伤"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1131847.htm",
+          "author": "study875",
+          "description": "5 月 24 日，清华大学成立量子信息班，由图灵奖得主、中国科学院院士、清华大学交叉信息研究院院长姚期智担任首席教授。据悉，这是清华大学首个量子信息方向的本科人才培养项目，也是继计算机科学实验班、人工智能班之后，姚期智在清华创办的第三个拔尖创新人才培养项目。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1131847.htm",
+          "publishedOn": "2021-05-24T08:31:51.000Z",
+          "wordCount": 208,
+          "title": "清华成立量子信息班 图灵奖得主姚期智院士领衔"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1131845.htm",
+          "author": "study875",
+          "description": "美国疫苗制造商 Moderna 首席执行官斯蒂芬·班塞尔 （St é phane Bancel） 在接受法国媒体采访时敦促，应从今年夏季末开始接种新冠第三剂加强疫苗，他同时称，疫苗专利豁免将是重大的战略错误，会让投资人“望而却步”。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1131845.htm",
+          "publishedOn": "2021-05-24T08:31:00.000Z",
+          "wordCount": 309,
+          "title": "美国疫苗厂商计划秋季推出加强疫苗 反对专利豁免"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1131843.htm",
+          "author": "study875",
+          "description": "macOS 和 Windows 10 系统虽然存在很多相似之处，但在实际体验方面也存在很多的差异。一年前，知名设计师 Kamer Kaan Avdan 分享了一段概念视频，展示了如果由苹果设计打磨 Windows 10 系统，会变成什么样子。时隔一年，Avdan 再次带来新作，如果 macOS 交由微软来设计打磨，会变成什么样子呢？\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1131843.htm",
+          "publishedOn": "2021-05-24T08:27:50.000Z",
+          "wordCount": 225,
+          "title": "[视频]如果macOS交由微软来设计打磨，会变成什么样子？"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1131841.htm",
+          "author": "study875",
+          "description": "澳大利亚部分地区老鼠成灾，所见景象正在变得日益恐怖，有关老鼠同类相食以及农场陷入混乱的报道随处可见。在位于澳大利亚东部的新南威尔士州和昆士兰州，数以百万计的老鼠在学校、家庭和医院四处乱窜，在造成严重破坏的同时，弥漫在空中的挥之不去的刺鼻气味也令人感到窒息。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1131841.htm",
+          "publishedOn": "2021-05-24T08:10:13.000Z",
+          "wordCount": 211,
+          "title": "澳大利亚鼠害成灾 家庭和农场正在受到严重威胁"
+        },
+        {
           "id": "https://www.cnbeta.com/articles/tech/1131839.htm",
           "author": "raymon725",
           "description": "WCCFTech 报道称，华为出售荣耀（Honor）子品牌的努力并未白费，因为有最新消息称，即将推出的荣耀 50 系列智能机将重新拥抱谷歌移动服务（简称 GMS）。在回答一位 Twitter 网友的提问时，荣耀德国市场官方账号 @HonorGermany 已证实了此事。此外，该公司还确认 Honor 50 新机将预装新版 Magic UI 。\n 阅读全文",
