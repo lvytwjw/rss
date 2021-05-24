@@ -531,6 +531,15 @@
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
         {
+          "id": "60a5248c906c5207e3a7e54b",
+          "author": null,
+          "description": "No-code tools let people across the world build different products and applications without writing code.   Before no-code tools, building simple websites or mobile applications took weeks or months and only experienced software developers could do it.  But that's not the case anymore. Now, you can spin up blogs, websites, and",
+          "link": "https://www.freecodecamp.org/news/best-no-code-tools-for-developers/",
+          "publishedOn": "2021-05-24T14:54:42.000Z",
+          "wordCount": 2493,
+          "title": "The Best No-Code Tools for Developers in 2021"
+        },
+        {
           "id": "6098ce302cd0545b5e944d0b",
           "author": "",
           "description": "In programming, an array is a collection of elements or items. Arrays store data as elements and retrieve them back when you need them.  The array data structure is widely used in all programming languages that support it. In this handbook, I'll teach you all about arrays in JavaScript. You'll",
@@ -636,6 +645,42 @@
       "feedUrl": "https://www.cnbeta.com/backend.php",
       "siteUrl": "https://www.cnbeta.com",
       "articles": [
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1131999.htm",
+          "author": "ugmbbc",
+          "description": "比特币从周末的过山车走势中反弹，并有望创出三个多月来最大涨幅。截至纽约时间上午10：58，这种全球最大的加密货币上涨了12%，约为37655美元，并一度涨至38683美元。在过去的两周中，数字货币一直饱受剧烈波动的困扰，其中比特币价格在周日暴跌了18%。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1131999.htm",
+          "publishedOn": "2021-05-24T16:21:54.000Z",
+          "wordCount": 213,
+          "title": "比特币在周末暴跌后反弹至38000美元上方 行业盛会拉开帷幕"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1131997.htm",
+          "author": "ugmbbc",
+          "description": "高通公司已经正式发布了骁龙7c第二代计算平台，这是一个新的预算友好型解决方案，为计划过渡到具有数周待机电池寿命的终端提供动力。然而，这种始终在线的Windows PC将依然是定位入门级的设备，高通公司解释说，在该平台上运行的第一批PC应该在今年夏天登陆。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1131997.htm",
+          "publishedOn": "2021-05-24T16:12:13.000Z",
+          "wordCount": 215,
+          "title": "高通公司发布骁龙7c第二代  面向入门级PC和Chromebook开发"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1131995.htm",
+          "author": "ugmbbc",
+          "description": "抽成或者说佣金，一直是大平台商家的痛点，也存在诸多质疑和争议，比如滴滴，比如美团……今天，美团外卖发布公告，披露了在抽成方面的最新进展。过去一年，美团外卖围绕抽成问题举办了208场商户沟通会，并从今年5月起，推行费率透明化试点，改变原来粗放的收费方式。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1131995.htm",
+          "publishedOn": "2021-05-24T15:48:12.000Z",
+          "wordCount": 210,
+          "title": "美团：外卖属于微利业务 直接降低抽成无法持续"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1131993.htm",
+          "author": "ugmbbc",
+          "description": "特斯拉Model S Plaid Plus的订单系统出现了问题。在周末的某个时间点，特斯拉禁止购物者对这款超级快速的电动豪华轿车下订单，该车的选项现在在汽车制造商的网站上是灰色的，尽管它仍然可见。上周的一条消息显示该轿车的目标是在2022年中期推出。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1131993.htm",
+          "publishedOn": "2021-05-24T15:44:07.000Z",
+          "wordCount": 227,
+          "title": "特斯拉Model S Plaid Plus疑似停止销售 网站已经无法下订单"
+        },
         {
           "id": "https://www.cnbeta.com/articles/tech/1131991.htm",
           "author": "ugmbbc",
