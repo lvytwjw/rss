@@ -727,6 +727,42 @@
       "siteUrl": "https://www.cnbeta.com",
       "articles": [
         {
+          "id": "https://www.cnbeta.com/articles/tech/1132401.htm",
+          "author": "ugmbbc",
+          "description": "由于疫情影响，孩子们在家上网课，有了更多接触手机的机会，部分青少年也新注册了自己的微信、抖音、快手等账号。令人担忧的是，网络上的色情、暴力等信息也直接“袒露”在他们面前。针对此，各个包含视频内容的热门APP纷纷推出了“青少年模式“。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1132401.htm",
+          "publishedOn": "2021-05-25T11:13:19.000Z",
+          "wordCount": 211,
+          "title": "8款热门App“青少年模式”对比： 微信视频号、QQ设置不明显"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1132399.htm",
+          "author": "ugmbbc",
+          "description": "比特币周二下跌，马斯克努力提升比特币的环保形象，一度使比特币出现逾10%的涨幅。截至纽约时间上午6：21，这个最大数字货币下跌4%，至37，500美元，周一上涨了16%。由于包括以太币在内的加密货币也回落，彭博Galaxy加密货币指数也下跌。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1132399.htm",
+          "publishedOn": "2021-05-25T11:12:21.000Z",
+          "wordCount": 224,
+          "title": "比特币跌破38000美元 马斯克先前针对矿商的推文一度让其大涨16%"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1132397.htm",
+          "author": "ugmbbc",
+          "description": "据报道，德国反垄断机构“联邦卡特尔局”（FCO）今日宣布，已对谷歌德国公司（Google Germany）、谷歌爱尔兰公司（Google Ireland）和谷歌母公司Alphabet展开反垄断调查。一直以来，德国反垄断部门就密切关注谷歌的市场力量，以及对用户数据的控制。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1132397.htm",
+          "publishedOn": "2021-05-25T11:11:45.000Z",
+          "wordCount": 216,
+          "title": "德国对谷歌展开两项反垄断调查 涉及用户数据收集"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/science/1132393.htm",
+          "author": "raymon725",
+          "description": "美国宇航局（NASA）正准备发射一枚亚轨道探测火箭，以研究地球电离层逃逸的无线电波是如何影响轨道上的卫星的。5 月 26 日，NASA 将从瓦勒普斯岛基地发射“VLF 跨电离层传播实验火箭”（简称 VIPER），以测量这些逃逸的无线电波与如何与范艾伦辐射带中的电子相互作用的。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/science/1132393.htm",
+          "publishedOn": "2021-05-25T10:16:33.000Z",
+          "wordCount": 249,
+          "title": "NASA确定周三发射VIPER探空火箭 旨在研究甚低频无线电波的逃逸"
+        },
+        {
           "id": "https://www.cnbeta.com/articles/tech/1132391.htm",
           "author": "ugmbbc",
           "description": "NVIDIA宣布400亿美元收购ARM后，交易正在监管机构审查中。据媒体报道，ARM已经冻结了研发部门工程岗位的招聘，直到预期明年4月NVIDIA完成收购后才再度放开。与此同时，ARM还取消了一项年度津贴福利政策，在英国大约是4500磅，在其它地区大约是8500美元。\n 阅读全文",
