@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://lvytwjw.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-05-25T20:11:11.399Z</updated>
+    <updated>2021-05-25T21:07:08.486Z</updated>
     <generator>osmosfeed 1.8.1</generator>
     <link rel="alternate" href="https://lvytwjw.github.io/rss/index.html"/>
     <link rel="self" href="https://lvytwjw.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to Use React-Hook-Form to Build Beautiful Forms with Chakra UI]]></title>
+        <id>60a93b0011ffb70827ef5b0d</id>
+        <link href="https://www.freecodecamp.org/news/how-to-use-react-hook-form-with-chakra-ui/"/>
+        <updated>2021-05-25T20:26:38.000Z</updated>
+        <summary type="html"><![CDATA[In HTML, it’s the default behavior for forms to redirect to a new page whenever they're submitted. So in order to provide dynamic functionality, React uses a strategy called controlled components. If you have recently gone through a React course, you probably didn't like this part, because there are]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[安全研究人员发现恶意软件利用一个从未见过的macOS漏洞发动攻击]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1132521.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1132521.htm"/>
+        <updated>2021-05-25T20:15:00.000Z</updated>
+        <summary type="html"><![CDATA[上个月，安全研究人员透露，一个臭名昭著的恶意软件家族利用了一个从未见过的macOS漏洞。该漏洞让这些恶意软件绕过macOS安全防御系统，所以它们的运行不受阻碍。有迹象表明，macOS在未来可能再次成为目标。
+ 阅读全文]]></summary>
+        <author>
+            <name>maomao</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[华硕发布新款Chromebook 起价低于350美元 采用联发科处理器]]></title>
         <id>https://www.cnbeta.com/articles/tech/1132519.htm</id>
