@@ -754,6 +754,24 @@
       "siteUrl": "https://www.cnbeta.com",
       "articles": [
         {
+          "id": "https://www.cnbeta.com/articles/tech/1132519.htm",
+          "author": "maomao",
+          "description": "华硕发布了Chromebook新产品，包括Chromebook Flip CM3和Chromebook Detachable CM3，它们在涉及到折叠、旋转时有两种选择。两者都采用了联发科处理器，以帮助将价格降至350美元以下。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1132519.htm",
+          "publishedOn": "2021-05-25T19:47:26.000Z",
+          "wordCount": 256,
+          "title": "华硕发布新款Chromebook 起价低于350美元 采用联发科处理器"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1132517.htm",
+          "author": "maomao",
+          "description": "SteelSeries之前宣布与电竞选手一起设计高性能游戏配件，现在它带来了新的Prime系列产品，其中有四个新设备，包括有线Arctis Prime耳机和三个不同的Prime鼠标，它们的价格似乎都很合理。它们的一个共同点是相当简单的设计，把易用性放在前面，而不是捆绑许多功能。这些新产品从今天开始发售。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1132517.htm",
+          "publishedOn": "2021-05-25T19:33:01.000Z",
+          "wordCount": 222,
+          "title": "SteelSeries发布四款Prime新品 精简设计针对高水平游戏用户"
+        },
+        {
           "id": "https://www.cnbeta.com/articles/tech/1132515.htm",
           "author": "maomao",
           "description": "尽管3D打印建筑仍处于相对起步阶段，但Icon已经在墨西哥建造了经济适用房，在美国建造了豪华住宅。该公司现在与著名的Lake|Flato建筑事务所合作，使用Icon公司的下一代3D打印机，在德克萨斯州奥斯汀建造另一个新的3D打印房屋。\n 阅读全文",
