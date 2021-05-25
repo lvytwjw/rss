@@ -549,6 +549,24 @@
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
         {
+          "id": "60abc6d011ffb70827ef630f",
+          "author": null,
+          "description": "Environment variables are variables that are set outside of a program, often through a cloud provider or operating system.  In Node, environment variables are a great way to securely and conveniently configure things that don't change often, like URLs, authentication keys, and passwords. How to Create Environment VariablesEnvironment variables are",
+          "link": "https://www.freecodecamp.org/news/how-to-use-node-environment-variables-with-a-dotenv-file-for-node-js-and-npm/",
+          "publishedOn": "2021-05-25T00:48:45.000Z",
+          "wordCount": 710,
+          "title": "How to Use Node Environment Variables with a DotEnv File for Node.js and npm"
+        },
+        {
+          "id": "60626dc29618b008528a9589",
+          "author": null,
+          "description": "Walkthrough for Hack The Box Nibbles machine",
+          "link": "https://www.freecodecamp.org/news/keep-calm-and-hack-the-box-nibbles/",
+          "publishedOn": "2021-05-25T00:20:22.000Z",
+          "wordCount": 1905,
+          "title": "Keep Calm and Hack The Box – Nibbles"
+        },
+        {
           "id": "60626dc29618b008528a9589",
           "author": null,
           "description": "Walkthrough for Hack The Box Nibbles machine",
@@ -699,6 +717,357 @@
       "feedUrl": "https://www.cnbeta.com/backend.php",
       "siteUrl": "https://www.cnbeta.com",
       "articles": [
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1132183.htm",
+          "author": "teikaei",
+          "description": "据外媒neowin报道，俄罗斯互联网委员会Roskomnadzor周一要求Google在24小时内删除被禁和非法内容。该机构警告称，如果不这样做，它将会对姑姑服务进行罚款处罚。罚款金额从80万卢布到400万卢布不等，最高可达公司年营业额的10%。另外它还要求Google解禁其国营的Sputnik France发布的一段YouTube视频。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1132183.htm",
+          "publishedOn": "2021-05-25T02:14:04.000Z",
+          "wordCount": 210,
+          "title": "俄罗斯要求谷歌在24小时内删除非法内容，否则将面临罚款处罚"
+        },
+        {
+          "id": "https://hot.cnbeta.com/articles/game/1132181.htm",
+          "author": "study875",
+          "description": "5 月 22 日，“竞世界·圳当年 ”2021 英雄联盟全球总决赛（以下简称为 S11) 冠军赛官方宣布，2021 英雄联盟全球总决赛冠军赛将于 11 月 6 日落地深圳大运中心。11 月，大运中心有约 ！5 月 22 日，“竞世界·圳当年 ”2021 英雄联盟全球总决赛冠军赛官方宣布 ，2021 英雄联盟全球总决赛冠军赛将于 11 月 6 日落地深圳大运中心，这项全球顶级电竞赛事新的十年由此正式开启。\n 阅读全文",
+          "link": "https://hot.cnbeta.com/articles/game/1132181.htm",
+          "publishedOn": "2021-05-25T02:08:54.000Z",
+          "wordCount": 255,
+          "title": "2021英雄联盟全球总决赛落地深圳 11月相约大运中心"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/science/1132179.htm",
+          "author": "vivian",
+          "description": "据外媒报道，周一发表的第一个与银河系大体相似的星系的详细截面显示，我们的星系是逐渐演变的。这一发现使银河系的起源故事受到了怀疑。这个被称为UGC 10738的星系，原来有明显的 “厚”和“薄 ”盘，与银河系的星系盘相似。这表明，与之前的理论相反，这种结构并不是很久以前与一个较小的星系发生的罕见碰撞的结果。它们似乎是更温和的变化的产物。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/science/1132179.htm",
+          "publishedOn": "2021-05-25T02:04:01.000Z",
+          "wordCount": 225,
+          "title": "另一个星系的详细截面揭示了与银河系的惊人相似之处"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1132177.htm",
+          "author": "raymon725",
+          "description": "早些时候，Google 宣布了谷歌相册将于 6 月 1 日告别不限量的高品质云照片和视频存储，意味着后续上传的内容将被计入个人账号的 15GB 免费云存储范围内。现在，该公司又推出了一款工具，以帮助用户更轻松地清理 Google Photo 中的低质量照片。有趣的是，此举也被外媒视作其不再假装云端压缩的 Google Photos 照片为“高质量”。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1132177.htm",
+          "publishedOn": "2021-05-25T02:02:11.000Z",
+          "wordCount": 259,
+          "title": "6月告别不限量云存储：谷歌相册推出云端照片清理小工具"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1132175.htm",
+          "author": "study875",
+          "description": "当你在使用Google服务和产品的时候，例如 Android 手机、支持 Google Assistant 的智能音箱甚至是 Chrome，你的所有活动历史都会存储在公司的服务器上，并能通过“我的 Google 活动记录”进行查看。现在Google增加了额外的安全层，确保只有你本人能够访问它。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1132175.htm",
+          "publishedOn": "2021-05-25T02:01:23.000Z",
+          "wordCount": 225,
+          "title": "[图]谷歌为“我的活动记录”新增额外保护 确保只有本人能访问"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1132173.htm",
+          "author": "vivian",
+          "description": "北京时间5月25日上午消息，据报道，随着全球旅游业复苏，民宿巨头Airbnb将采取一系列措施避免出房源短缺。为此，该公司推出了一些新的工具来鼓励更多房东在其网站上挂出自己的房源，其中包括人工智能驱动的列表管理工具。该公司周一表示，这个短租平台拥有大约400万活跃房东，但活跃房源数量过去6个月却未见增长，因为许多人仍在他们原本可能出租的房源里生活和工作。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1132173.htm",
+          "publishedOn": "2021-05-25T02:00:46.000Z",
+          "wordCount": 214,
+          "title": "旅游旺季或至  Airbnb拟通过人工智能工具吸引房东增加房源"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/science/1132171.htm",
+          "author": "teikaei",
+          "description": "据外媒报道，一种实验性流感疫苗由数十亿个携带抗感染蛋白质的微小球状囊组成，其在临床前研究中已被证明有效。当地时间5月24日发表在《Proceedings of the National Academy of Sciences》上的一项研究称，这种疫苗有可能：\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/science/1132171.htm",
+          "publishedOn": "2021-05-25T02:00:06.000Z",
+          "wordCount": 213,
+          "title": "或能成流感斗士：基于纳米颗粒的新疫苗在临床前研究中被证明有效"
+        },
+        {
+          "id": "https://hot.cnbeta.com/articles/game/1132169.htm",
+          "author": "vivian",
+          "description": "据外媒报道，尽管各种小工具的家长控制应用程序已变得普遍和容易获得，但对儿童或青少年应该在数字世界中花费多少时间仍有争议。罗格斯大学的一项新研究提供了一个答案，至少当涉及到青少年时：在上学的日子里，每天不超过一个小时，除非你想让他们的教育表现面临风险。\n 阅读全文",
+          "link": "https://hot.cnbeta.com/articles/game/1132169.htm",
+          "publishedOn": "2021-05-25T01:46:02.000Z",
+          "wordCount": 205,
+          "title": "研究发现有充分的理由限制青少年每天只玩一小时游戏"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1132167.htm",
+          "author": "teikaei",
+          "description": "《华尔街日报》的一份报道称，苹果正在积极研究汽车工程和制造的各个方面，有工程师透露苹果公司已经出现在一些汽车供应链中。凯捷工程德国公司技术与创新总监彼得·芬特尔（Peter Fintl）在接受《华尔街日报》采访时解释说，苹果在汽车供应链中的发展举足轻重。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1132167.htm",
+          "publishedOn": "2021-05-25T01:46:01.000Z",
+          "wordCount": 217,
+          "title": "消息称苹果公司出现在汽车供应链中"
+        },
+        {
+          "id": "https://hot.cnbeta.com/articles/movie/1132165.htm",
+          "author": "ugmbbc",
+          "description": "近日巨石强森在Instagram上放出了DC新片《黑亚当》的黑袍造型照，可以看到强森身披黑斗蓬，底下似乎是黑亚当战袍。强森表示黑亚当失去妻儿远离家乡，他积攒了几千年怒火准备复仇。他不是一个超级英雄，但他保护着弱者，他是DC电影宇宙中势不可挡的力量。\n 阅读全文",
+          "link": "https://hot.cnbeta.com/articles/movie/1132165.htm",
+          "publishedOn": "2021-05-25T01:44:41.000Z",
+          "wordCount": 209,
+          "title": "巨石强森晒《黑亚当》造型和片场照 身披黑斗蓬很酷"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1132163.htm",
+          "author": "study875",
+          "description": "今年 4 月发布的 Windows 10 预览版更新中，微软表示上传到 Timeline 的活动将不再跨设备同步；而在随后发布的版本更新中，微软停止了对 Windows Timeline 活动历史的支持。而根据最新文档，Windows 10 October 2020 功能更新将于今年 7 月停止对该功能的支持。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1132163.htm",
+          "publishedOn": "2021-05-25T01:44:12.000Z",
+          "wordCount": 268,
+          "title": "微软：Windows 10 20H2将于7月停止支持Timeline功能"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1132161.htm",
+          "author": "teikaei",
+          "description": "北京时间5月25日早间消息，据报道，美国移动支付公司Square的技术已经颠覆了小企业接受银行卡支付的方式，他们现在又准备为这些客户提供支票和储蓄账户，有意直接向摩根大通等行业巨头发起挑战。受此消息影响，Square股价周一在纽交所大涨5.47%，报收于210.95美元。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1132161.htm",
+          "publishedOn": "2021-05-25T01:43:36.000Z",
+          "wordCount": 212,
+          "title": "美国支付平台Square拟推支票和储蓄账户：挑战摩根大通等行业巨头"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/science/1132159.htm",
+          "author": "vivian",
+          "description": "中科院国家天文台网站5月24日消息，近日，国家天文台李广伟副研究员在LAMOST光谱数据中筛选出209颗O型星，其中135颗是最新发现的。这是迄今为止利用单一光谱数据库，一次性新发现银河系O型星数量最多的研究工作。在这之前，最大的具有光谱信息的银河系O型星星表（Galactic O-Star Catalog; GOSC），仅有590颗O型星，且这些O型星是人类近百年来累积发现的总和。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/science/1132159.htm",
+          "publishedOn": "2021-05-25T01:42:35.000Z",
+          "wordCount": 204,
+          "title": "中国天文学家新发现135颗O型星"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1132157.htm",
+          "author": "teikaei",
+          "description": "5月25日消息，针对“辽宁一电瓶车街头爆燃”一事，阜新宣传公众号发布情况通报。据辽宁省阜新市应急局消息，5月24日14时20分左右，阜新市中华路东段靠近人民广场东侧，一辆由东向西行驶中的两轮机动车突然发生爆炸，造成驾驶人当场死亡，邻近的两辆小轿车不同程度受损，车内和附近其他人员5 人送医，经医院检查为轻伤。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1132157.htm",
+          "publishedOn": "2021-05-25T01:41:52.000Z",
+          "wordCount": 211,
+          "title": "辽宁一电瓶车街头爆燃 官方通报"
+        },
+        {
+          "id": "https://hot.cnbeta.com/articles/movie/1132155.htm",
+          "author": "vivian",
+          "description": "迪士尼公司周一表示，计划今年关闭100个国际电视频道，以朝着以Disney+等流媒体服务为中心的未来前进。迪士尼CEO鲍勃-查佩克（Bob Chapek）表示，该公司去年已关闭了30个国际网络。\n 阅读全文",
+          "link": "https://hot.cnbeta.com/articles/movie/1132155.htm",
+          "publishedOn": "2021-05-25T01:39:50.000Z",
+          "wordCount": 208,
+          "title": "迪士尼拟今年关闭100个国际频道 加速转向流媒体"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1132153.htm",
+          "author": "raymon725",
+          "description": "Anker 刚刚推出了 Nano II 系列氮化镓（GaN）USB-C 充电器新品，在小巧外形的基础上，它还提供了 30W、45W 和 65W 三档功率的版本。在充电器内部，Anker 表示 Nano II 系列 USB-C 氮化镓充电器改进了芯片和布局，以提升效率和减少发热，且 30W 版本的大小仅为 30.4×31.5×38 毫米（英标插脚导致各向都膨胀了约 1.5 毫米）。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1132153.htm",
+          "publishedOn": "2021-05-25T01:39:11.000Z",
+          "wordCount": 274,
+          "title": "小身材大功率：Anker推出Nano II系列USB-C氮化镓充电器"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/science/1132151.htm",
+          "author": "vivian",
+          "description": "北京时间5月25日消息，新的数据表明，地球表面在32亿年前发生了破裂，而这一发现或许将有助于阐明板块构造如何推动复杂生命的演化。2016年，地球化学家乔纳斯·图什和卡斯滕·蒙克从澳大利亚内陆敲打、采集了1000磅的岩石，并将其空运回德国科隆。经过5年的切割、破碎、溶解和分析，他们从这些岩石中发现了一个隐藏了数十亿年的秘密：板块构造运动开始的年代。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/science/1132151.htm",
+          "publishedOn": "2021-05-25T01:38:38.000Z",
+          "wordCount": 200,
+          "title": "科学家确定板块构造形成时间：推动复杂生命的演化"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/science/1132149.htm",
+          "author": "teikaei",
+          "description": "北京时间5月25日消息，“来自火星的蜘蛛”并不仅是上世纪70年代著名歌手大卫·鲍伊的背景乐队的名字，事实上火星表面也存在着类似蜘蛛结构的神秘构造，目前，科学家最新研究揭晓了该构造的形成原因。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/science/1132149.htm",
+          "publishedOn": "2021-05-25T01:36:46.000Z",
+          "wordCount": 200,
+          "title": "“火星蜘蛛”是如何形成的？"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/science/1132147.htm",
+          "author": "teikaei",
+          "description": "据外媒报道，虽然月球跟地球相比是很小的，但它还是足够大，因为即便是现在我们人类对它的探索也只是触及它的表面。曾经人们认为月球不过是一块苍白的、布满灰尘的、被环形山覆盖着的岩石，但研究人员逐渐揭示，月球实际上是一个非常特殊的地方。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/science/1132147.htm",
+          "publishedOn": "2021-05-25T01:34:27.000Z",
+          "wordCount": 209,
+          "title": "NASA 2023年将发射VIPER任务以在月球上寻找水资源"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1132145.htm",
+          "author": "ugmbbc",
+          "description": "总部位于美国加州的Faraday Future （FF） 今天宣布， 首个FF未来主义者体验中心于当地时间5月24日落户美国纽约曼哈顿，地址为纽约市上东区东59街5号。随着今天FF 未来主义者体验中心的开幕，公众可以首次在纽约见到和体验FF 91。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1132145.htm",
+          "publishedOn": "2021-05-25T01:33:54.000Z",
+          "wordCount": 217,
+          "title": "首个Faraday Future线下体验中心落户纽约曼哈顿上东区"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1132143.htm",
+          "author": "study875",
+          "description": "21 条生命猝然逝去——甘肃省景泰县的一场马拉松越野赛惨剧，给全社会敲响了警钟。近年来，国内马拉松、越野跑运动飞速发展。中国田径协会公布的数据显示，全国马拉松及相关路跑赛事从 2014 年的 51 场增长到 2019 年的 1828 场 ，5 年时间数量增长超过 30 倍。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1132143.htm",
+          "publishedOn": "2021-05-25T01:28:51.000Z",
+          "wordCount": 348,
+          "title": "5 年增长 30 多倍 “一路狂奔”的马拉松赛乱象透视"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/science/1132141.htm",
+          "author": "vivian",
+          "description": "据外媒报道，在美国和全球范围内，集体主义程度高的文化倾向于在大流行期间鼓励使用口罩。在世界各地，在COVID-19大流行期间戴口罩的人的比例有很大的不同。是什么原因造成了这种情况？一项由麻省理工学院教师共同撰写的新研究发现，公众的“集体主义”（collectivism）意识清楚地预测了口罩的使用，为这个问题增加了文化和心理学的视角。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/science/1132141.htm",
+          "publishedOn": "2021-05-25T01:25:32.000Z",
+          "wordCount": 205,
+          "title": "文化影响口罩的佩戴：集体主义预示着COVID-19期间的口罩使用情况"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1132139.htm",
+          "author": "ugmbbc",
+          "description": "昨日，《王者荣耀》发布5月25日全服不停机更新公告，公告指出，官方将于2021年5月25日8:30-9:30对全服进行不停机更新。另外，新一批支持游戏高帧率模式的机型名单也随之而来，除了包括三星 Galaxy系列部分手机、平板，以及努比亚、iQOO、黑鲨、摩托罗拉等机型外。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1132139.htm",
+          "publishedOn": "2021-05-25T01:25:00.000Z",
+          "wordCount": 215,
+          "title": "《王者荣耀》公布高帧适配名单：华为神秘机型MatePad 11曝光"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1132137.htm",
+          "author": "ugmbbc",
+          "description": "根据国家卫健委24日下午公布的最新数据，截至5月23日，全国累计报告接种新冠病毒疫苗51085.8万剂次。在安徽和辽宁新一轮局部疫情之后，中国疫苗接种明显提速。55月19日之前的8天时间，中国累计共实现了1亿剂次的疫苗接种。之后以日均1000万剂次以上的接种速度推进至累计接种突破5亿剂次大关。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1132137.htm",
+          "publishedOn": "2021-05-25T01:23:57.000Z",
+          "wordCount": 206,
+          "title": "中国疫苗接种剂次已超5亿：累计接种量稳居全球第一"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1132135.htm",
+          "author": "ugmbbc",
+          "description": "今日，华为官方宣布，即日起，华为EMUI官方微博正式更名HarmonyOS。此举也标志着华为手机正式从安卓向鸿蒙系统切换。与此同时，@HarmonyOS 官微发布了一段新系统开机视频，附文：“鸿”鹄志远，一举千里。承“蒙”厚爱，不负期待。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1132135.htm",
+          "publishedOn": "2021-05-25T01:22:08.000Z",
+          "wordCount": 215,
+          "title": "鸿蒙系统将正式搭载到智能手机 华为公布HarmonyOS开机动画"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1132133.htm",
+          "author": "study875",
+          "description": "22 年前，时任科技部部长徐冠华曾直言道，“中国信息产业缺芯少魂！”。其中的“芯”指芯片，“魂”则是操作系统。22 年间，中国科研及企业在这条路上前仆后继，进展虽曲折，但阶段成果显著，此举为国产芯片和操作系统的发展奠定了基石。新时代中，麒麟、澎湃、鸿蒙等“芯魂”纷纷崛起——防守反击，拉开帷幕。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1132133.htm",
+          "publishedOn": "2021-05-25T01:18:31.000Z",
+          "wordCount": 398,
+          "title": "鸿蒙手机将亮相 能成为第三大操作系统吗？"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1132131.htm",
+          "author": "ugmbbc",
+          "description": "自动驾驶战场，也是雷达等传感器的战场。一般使用在汽车上的雷达有分为几种，除了激光雷达，毫米波与超声波雷达也已经普遍应用。近日，据媒体报道，华域汽车电子分公司最新研发的4D成像毫米波雷达预计在今年四季度具备量产能力。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1132131.htm",
+          "publishedOn": "2021-05-25T01:17:58.000Z",
+          "wordCount": 211,
+          "title": "能探测180米外的易拉罐 华域汽车4D成像毫米波雷达即将量产"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1132129.htm",
+          "author": "ugmbbc",
+          "description": "对于华为来说，安卓已经被取代，而接任者就是HarmonyOS。今天早些时候，华为方面宣布，华为EMUI微博正式更名为HarmonyOS。据新华社报道，华为将在6月2日晚8时举行线上发布会，正式公布可以覆盖手机等移动终端的鸿蒙操作系统。这也是继2019年“官宣”鸿蒙操作系统后，该系统正式搭载到智能手机。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1132129.htm",
+          "publishedOn": "2021-05-25T01:16:31.000Z",
+          "wordCount": 210,
+          "title": "华为EMUI微博更名HarmonyOS"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1132127.htm",
+          "author": "study875",
+          "description": "援引 IOL 报道，微软现已加入苹果和谷歌的阵营中，反对《Right to Repair》（维修权）法案落地生效。在这些公司的积极游说下，目前美国有超过 27 个州搁置了这项提案。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1132127.htm",
+          "publishedOn": "2021-05-25T01:13:08.000Z",
+          "wordCount": 222,
+          "title": "微软加入苹果谷歌阵营 反对《维修权》法案落地生效"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1132125.htm",
+          "author": "raymon725",
+          "description": "微软原计划通过充满雄心壮志的 Windows Longhorn 项目来取代 Windows XP 操作系统，但遗憾最终还是折戟沉沙。虽然该公司后续推出了相对简洁的 Windows Vista，但它似乎依然有些生不逢时。有趣的是，由 Stephen Chapman 运营的 Beta Collector 账号，刚又为我们揭示了微软曾酝酿在 Windows Longhorn 操作系统中的集成的 Longhorn Live 服务。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1132125.htm",
+          "publishedOn": "2021-05-25T01:10:46.000Z",
+          "wordCount": 258,
+          "title": "早于MySpace：微软曾设想在Windows Longhron中集成社交网络服务"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/science/1132123.htm",
+          "author": "vivian",
+          "description": "据外媒CNET报道，期待已久的Brood X周期蝉现在正在美国东部出现，这些蝉在地下蛰伏了17年。为了成功地完成它们的生育工作，它们需要避免被动物吞噬，但它们也可能不得不与一种奇怪的寄生真菌作斗争，这种真菌“控制着它们的思想”，迫使它们疯狂地交配以感染其他昆虫。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/science/1132123.htm",
+          "publishedOn": "2021-05-25T01:08:55.000Z",
+          "wordCount": 215,
+          "title": "周期蝉面临可怕的“死亡僵尸真菌”  使它们身体的一部分脱落"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1132121.htm",
+          "author": "study875",
+          "description": "美国国际贸易委员会（USITC）已同意展开调查，以确定 Apple Watch 所用技术是否侵犯了健康科技公司 AliveCor 持有的相关技术专利。本周一，USITC 表示经过投票后决定对专利侵权行为进行调查。这次投票是在 AliveCor 于 4 月提出正式申请后进行的。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1132121.htm",
+          "publishedOn": "2021-05-25T00:58:09.000Z",
+          "wordCount": 257,
+          "title": "ITC已同意展开调查 以确定Apple Watch ECG功能是否侵犯AliveCor专利"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/science/1132119.htm",
+          "author": "vivian",
+          "description": "据外媒CNET报道，地球和火星看起来非常不同。火星是一个干燥的尘土飞扬的红色星球，而地球看起来是蓝色和绿色的，有旋转的白色云层。然而欧空局宇航员Thomas Pesquet本月从国际空间站拍下了一张地球看起来很像火星的照片，他不得不怀疑自己在太阳系的什么地方。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/science/1132119.htm",
+          "publishedOn": "2021-05-25T00:55:29.000Z",
+          "wordCount": 205,
+          "title": "宇航员从国际空间站拍下一张地球看起来像火星的照片"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1132117.htm",
+          "author": "teikaei",
+          "description": "据外媒报道，在美国乔治亚州的一个县，被称为Brood X的周期性蝉正在大量涌入，这里有一个请求：请不要因为这种昆虫而拨打911。在距亚特兰大北部约两小时车程的Union县，紧急服务部门接到了多个报警电话。然而“这些“报警”很可能根本不是警报，而只是关于一种昆虫--Brood X。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1132117.htm",
+          "publishedOn": "2021-05-25T00:51:35.000Z",
+          "wordCount": 209,
+          "title": "美急救人员恳求民众不要因为蝉声太大而拨打911"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1132115.htm",
+          "author": "raymon725",
+          "description": "国外的专业拆解网站iFixit近期对新款iMac下手了，这让我们可以更好地了解计算机的内部部件：基本就是一块主板，上面焊接了所有东西。新iMac的X光片揭示了有关该机器的一些有趣细节。在前几代的iMac中，苹果公司在其计算机上使用Apple的logo作为Wi-Fi和蓝牙连接的天线，但今年情况有所不同。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1132115.htm",
+          "publishedOn": "2021-05-25T00:50:06.000Z",
+          "wordCount": 219,
+          "title": "新iMac拆解：主要部件全在下巴上 高集成度几乎不可能维修"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1132113.htm",
+          "author": "study875",
+          "description": "针对 Xbox Game Pass 游戏玩家，Surface Duo 即将迎来一项重大的功能改进。自今天开始，用户能够在这款双屏设备上玩到支持触控的游戏，在顶部屏幕显示游戏画面，而在底部屏幕中显示游戏控制选项。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1132113.htm",
+          "publishedOn": "2021-05-25T00:45:56.000Z",
+          "wordCount": 257,
+          "title": "[视频]微软引入新功能 让Surface Duo变身Xbox游戏掌机"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1132111.htm",
+          "author": "vivian",
+          "description": "据外媒Protocol报道，Epic诉苹果案于当地时间周一落下帷幕，一系列有争议的来回辩论取代了传统的结案陈词。法官Yvonne Gonzalez Rogers 希望两家公司说明相关市场应该是什么--是手游、整个游戏市场，还是整个iOS应用生态系统--以及什么样的补救措施可能是合适的。苹果应该向其他应用商店开放iOS系统，还是应该强迫它仅仅允许其他支付系统，或者更狭义地说，仅仅允许在 App Store之外宣传更便宜的支付系统？\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1132111.htm",
+          "publishedOn": "2021-05-25T00:39:25.000Z",
+          "wordCount": 234,
+          "title": "苹果和Epic在诉讼案审理的最后一天将一切摆在台面上"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/science/1132109.htm",
+          "author": "teikaei",
+          "description": "据外媒报道，在地球上，螺旋星系对我们非常重要。我们的太阳系位于银河系的一个螺旋臂上。现在螺旋星系的历史书有了一个新的序幕，这要感谢智利的阿塔卡玛毫米/亚毫米波阵列望远镜，即ALMA望远镜。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/science/1132109.htm",
+          "publishedOn": "2021-05-25T00:33:22.000Z",
+          "wordCount": 206,
+          "title": "科学家发现迄今观测到的最古老螺旋星系"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1132107.htm",
+          "author": "study875",
+          "description": "近日，俄罗斯闪电击中电缆下起电光雨的视频在网络上疯传。据媒体报道，当地时间 19 日，圣彼得堡市遭遇雷雨天气，一道闪电意外击中无轨电车电缆。电缆被劈断，因为还通着电又接触到雨水，瞬间火花四散。道路也被瞬间照亮，下起了“电光雨”。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1132107.htm",
+          "publishedOn": "2021-05-25T00:30:03.000Z",
+          "wordCount": 223,
+          "title": "俄罗斯一道闪电击中电缆 道路瞬间下起“电光雨”"
+        },
         {
           "id": "https://www.cnbeta.com/articles/tech/1132105.htm",
           "author": "study875",
