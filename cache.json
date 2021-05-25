@@ -576,6 +576,15 @@
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
         {
+          "id": "608706aedd38b9088c2c012c",
+          "author": null,
+          "description": "If you're a beginner developer, it can be difficult to find ways to use your limited knowledge to support yourself. And at the same time, you won't be able to hone your skills if you aren't using them full time.  It's a precarious spot that I remember being in when",
+          "link": "https://www.freecodecamp.org/news/web-design-best-practices-for-new-developers/",
+          "publishedOn": "2021-05-25T16:51:37.000Z",
+          "wordCount": 1940,
+          "title": "Web Design Best Practices for New Developers – How to Create Portfolio-Worthy Work"
+        },
+        {
           "id": "60abc6d011ffb70827ef630f",
           "author": null,
           "description": "Environment variables are variables that are set outside of a program, often through a cloud provider or operating system.  In Node, environment variables are a great way to securely and conveniently configure things that don't change often, like URLs, authentication keys, and passwords. How to Create Environment VariablesEnvironment variables are",
@@ -744,6 +753,60 @@
       "feedUrl": "https://www.cnbeta.com/backend.php",
       "siteUrl": "https://www.cnbeta.com",
       "articles": [
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1132505.htm",
+          "author": "maomao",
+          "description": "像iPhone这样的智能手机和其他移动设备在显示屏前面使用玻璃面板。它的主要工作是保护脆弱的屏幕免受冲击和划伤。 苹果公司正在研究通过在边缘使用同样由玻璃制成的特殊支撑结构，使iPhone或iPad正面的玻璃更坚固、更薄。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1132505.htm",
+          "publishedOn": "2021-05-25T17:57:06.000Z",
+          "wordCount": 216,
+          "title": "新专利显示苹果研究让iPhone显示屏玻璃更薄更坚固"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1132503.htm",
+          "author": "ugmbbc",
+          "description": "微软没有在本周的Build 2021大会上谈论其下一代Windows的发布计划，这是因为该公司正准备单独详述其PC操作系统的下一代。微软首席执行官萨蒂亚·纳德拉在今天上午的Build主题演讲中预告了这一消息，透露他近几个月一直在测试 \"下一代Windows\"。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1132503.htm",
+          "publishedOn": "2021-05-25T17:41:11.000Z",
+          "wordCount": 225,
+          "title": "微软预告：下一代Windows将很快宣布"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1132501.htm",
+          "author": "maomao",
+          "description": "欧洲人权法院大法庭裁定，英国间谍机构GCHQ大量截获在线通信的方法侵犯了隐私权，收集数据的制度是非法的。申请人之一的“自由组织”描述这项裁决具有里程碑意义。在审理过程中，法官们还发现批量拦截制度违反了言论自由权，并且对机密新闻材料的保护不足，但他们表示，实施批量拦截制度的决定本身并没有违反欧洲人权公约。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1132501.htm",
+          "publishedOn": "2021-05-25T17:40:25.000Z",
+          "wordCount": 203,
+          "title": "欧洲人权法院裁定英国情报部门大规模数据拦截侵犯隐私权"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1132499.htm",
+          "author": "maomao",
+          "description": "据可靠的小道消息人士Ice Universe称，为了更好地完善其可折叠手机生态系统，三星可能会在其未来的Galaxy设备上添加一种名为 \"Split UI\"全新可适应界面。新的用户界面将能够根据显示屏的尺寸、长宽比和方向进行调整。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1132499.htm",
+          "publishedOn": "2021-05-25T16:55:13.000Z",
+          "wordCount": 235,
+          "title": "未来Galaxy设备可能采用全新可适应界面 以完善可折叠手机生态系统"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1132497.htm",
+          "author": "maomao",
+          "description": "对于使用假肢设备的人来说，即使是未来先进的心智控制假肢，也不会有正常人的触觉可以依靠。来自匹兹堡大学康复和神经工程实验室的研究人员展示了一种新的方法，描述了添加大脑刺激可以提供触觉，使脑控机械臂的操作者更容易操纵假肢。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1132497.htm",
+          "publishedOn": "2021-05-25T16:49:31.000Z",
+          "wordCount": 202,
+          "title": "研究人员通过在使用者脑内植入微小电极为假肢带来触感"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1132495.htm",
+          "author": "ugmbbc",
+          "description": "周二，华盛顿特区总检察长卡尔·拉辛以反垄断为由起诉亚马逊，指责这家电子商务巨头对第三方卖家在公司平台之外的行为设置严格的条件，从而压制了竞争。\"亚马逊的政策阻止了竞争平台，包括卖家自己的网站，在价格上进行竞争并获得市场份额，\"拉辛在接受电话采访时中说。\"竞争的丧失导致了创新的减少\"。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1132495.htm",
+          "publishedOn": "2021-05-25T16:26:47.000Z",
+          "wordCount": 210,
+          "title": "华盛顿特区总检察长对亚马逊发起反垄断诉讼"
+        },
         {
           "id": "https://www.cnbeta.com/articles/tech/1132493.htm",
           "author": "ugmbbc",
