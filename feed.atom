@@ -2,10 +2,427 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://lvytwjw.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-05-24T23:07:28.150Z</updated>
+    <updated>2021-05-25T00:29:37.076Z</updated>
     <generator>osmosfeed 1.8.1</generator>
     <link rel="alternate" href="https://lvytwjw.github.io/rss/index.html"/>
     <link rel="self" href="https://lvytwjw.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[6月2日见 华为将正式发布鸿蒙手机操作系统]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1132105.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1132105.htm"/>
+        <updated>2021-05-25T00:26:38.000Z</updated>
+        <summary type="html"><![CDATA[记者从华为技术有限公司获悉，华为将在 6 月 2 日晚 8 时举行线上发布会，正式公布可以覆盖手机等移动终端的鸿蒙操作系统。这也是继 2019 年“官宣”鸿蒙操作系统后，该系统正式搭载到智能手机。目前业界对鸿蒙操作系统寄予厚望。
+ 阅读全文]]></summary>
+        <author>
+            <name>study875</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[币圈网红用TikTok教年轻人炒币，但骗局和误导不少]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1132103.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1132103.htm"/>
+        <updated>2021-05-25T00:24:28.000Z</updated>
+        <summary type="html"><![CDATA[不少币圈网红通过TikTok视频吸引年轻用户投资自加密货币。据一些人说，其中不乏骗局和误导。2020 年 3 月 22 日，乔尔·戴维斯 (Joel Davies) 随众加入了热门短视频平台 TikTok。
+ 阅读全文]]></summary>
+        <author>
+            <name>study875</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Keep Calm and Hack The Box – Nibbles]]></title>
+        <id>60626dc29618b008528a9589</id>
+        <link href="https://www.freecodecamp.org/news/keep-calm-and-hack-the-box-nibbles-2/"/>
+        <updated>2021-05-25T00:20:22.000Z</updated>
+        <summary type="html"><![CDATA[Walkthrough for Hack The Box Nibbles machine]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[阿联酋“希望号”火星探测器完成设备测试 正式开始环火星观测]]></title>
+        <id>https://www.cnbeta.com/articles/science/1132101.htm</id>
+        <link href="https://www.cnbeta.com/articles/science/1132101.htm"/>
+        <updated>2021-05-25T00:19:45.000Z</updated>
+        <summary type="html"><![CDATA[当地时间5月24日，阿联酋“希望号”火星任务项目经理奥姆兰·沙拉夫（Omran Sharaf）表示：“在‘希望号’火星探测器成功抵达火星，近乎完美地进入火星轨道，并从捕获轨道过渡到科学轨道之后，我们已经完成了调试、校准和测试阶段。我很高兴能够报告‘希望号’火星探测器已经准备好开始其为期两年的科学（探测）任务。”
+ 阅读全文]]></summary>
+        <author>
+            <name>teikaei</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[太阳耀斑大爆发可能在本周引发明亮的极光]]></title>
+        <id>https://www.cnbeta.com/articles/science/1132099.htm</id>
+        <link href="https://www.cnbeta.com/articles/science/1132099.htm"/>
+        <updated>2021-05-25T00:19:11.000Z</updated>
+        <summary type="html"><![CDATA[据外媒CNET报道，本周太阳将释放一系列的太阳耀斑和日冕物质抛射。据SpaceWeather.com的天文学家Tony Phillips说，一个名为AR2824的太阳黑子在5月22日释放了一系列快速发射的太阳耀斑，“这与我们多年来所看到的任何东西都不同”。
+ 阅读全文]]></summary>
+        <author>
+            <name>vivian</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Epic诉苹果一案完成最终陈词：双方激辩，裁决日期未定]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1132097.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1132097.htm"/>
+        <updated>2021-05-25T00:19:03.000Z</updated>
+        <summary type="html"><![CDATA[北京时间5月25日早间消息，本周一，在与苹果的诉讼中，知名游戏开发商Epic Games向联邦法官进行了最后陈词，要求限制苹果App Store的市场力量，而苹果则希望App Store中的200万应用不受此次诉讼影响。本周一，美国地方法官伊冯娜·冈萨雷斯·罗杰斯（Yvonne Gonzalez Rogers）听取了Epic与苹果律师的结案陈词。
+ 阅读全文]]></summary>
+        <author>
+            <name>teikaei</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[英国警方通过毒贩在网上分享的奶酪照将其抓获并送进监狱]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1132095.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1132095.htm"/>
+        <updated>2021-05-25T00:17:41.000Z</updated>
+        <summary type="html"><![CDATA[据外媒报道，通常情况下，对自己在网上分享的照片小心一些绝对是个好主意。比如分享疫苗接种卡的照片就有暴露全名和出生日期的风险，而这将使得你的身份信息有可能被盗窃。不过在某些情况下，这种行为可能对执法人员带来巨大的帮助。近日，英国默西赛德郡警察局就通过毒贩在网上分享的照片将其抓获。
+ 阅读全文]]></summary>
+        <author>
+            <name>teikaei</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[没有成为疫情的牺牲品 美国废品回收行业正蓬勃发展]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1132093.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1132093.htm"/>
+        <updated>2021-05-25T00:17:17.000Z</updated>
+        <summary type="html"><![CDATA[美国废品回收行业远没有成为疫情下的牺牲品，其正在大幅反弹。有些人曾判断，美国的废品回收利用已经“死亡”。如果它没死，那就是“坏了”、“不起作用了”、“在垃圾桶里”、“失败了”。
+ 阅读全文]]></summary>
+        <author>
+            <name>study875</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[华为 HarmonyOS 开源倒计时 它能成为谷歌生态的最强对手吗？]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1132091.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1132091.htm"/>
+        <updated>2021-05-25T00:14:52.000Z</updated>
+        <summary type="html"><![CDATA[5 月 24 日，在鸿蒙开发者创新大赛颁奖典礼上，华为消费者业务软件部总裁王成录在演讲中表示 ，HarmonyOS 即将开源。“在南向我们会有更多的芯片及模组的对接，也有 SDK， 马上会全量开源系统，开源基金会也会正式公布，可能在非常近的时间就会面向所有开发者全量开源。”王成录说。
+ 阅读全文]]></summary>
+        <author>
+            <name>study875</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[视频]新款Siri遥控器上手：做工更精细 也存在一些缺点]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1132089.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1132089.htm"/>
+        <updated>2021-05-25T00:12:39.000Z</updated>
+        <summary type="html"><![CDATA[在推出第二代 Apple TV 4K 的同时，苹果还带来了重新设计的 Siri Remote 遥控器。该遥控器随新款 Apple TV 订单附赠，如果初代 Siri 遥控器想要升级的话，需要额外支付 60 美元的费用。外媒 MacRumors 近日对新款 Siri Remote 遥控器进行了上手测试，表示虽有升级，但也存在一些缺点。
+ 阅读全文]]></summary>
+        <author>
+            <name>study875</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[巴塞罗那MWC21下月如期而至：GSMA称将有3.5万至5万人到场]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1132087.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1132087.htm"/>
+        <updated>2021-05-25T00:04:39.000Z</updated>
+        <summary type="html"><![CDATA[全球移动通信系统协会（GSMA）首席执行官洪曜庄（John Hoffman）宣称该组织将成为产业的先驱，因为它准备在下个月的巴塞罗那2021年世界移动大会（MWC21）上接待至少3.5万名与会者，同时他还披露了向当地的新冠病毒（Covid-19）恢复工作捐赠30万欧元的计划。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[佛罗里达州州长签署新法：将限制对政治言论的“大型科技审查”]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1132085.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1132085.htm"/>
+        <updated>2021-05-25T00:03:01.000Z</updated>
+        <summary type="html"><![CDATA[据外媒报道，佛罗里达州州长Ron DeSantis上签署了一项旨在反对“大型科技审查”的法案，该法案旨在将社交网络上对政治言论的压制降至最低。据悉，这场活动在Twitter和Facebook上直播。DeSantis于当地时间周一签署了SB 7072法案，该法案颁布了影响社交网络政治言论的新规定。
+ 阅读全文]]></summary>
+        <author>
+            <name>teikaei</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[图]2021年Google涂鸦大赛决赛选手揭晓]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1132083.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1132083.htm"/>
+        <updated>2021-05-25T00:02:53.000Z</updated>
+        <summary type="html"><![CDATA[据外媒CNET报道，五位年轻的艺术家离他们的涂鸦作品在Google主页上展示一天的目标又近了一步。或许是为了反映人们都不得不克服的困难的一年，在其第13届年度Google涂鸦大赛中，Google选择了这个主题： "我很坚强，因为......" （I am strong because...）。从幼儿园到12年级的学生被邀请使用任何材料或媒介，只要它可以被拍照或以二维格式显示。他们还被要求写下他们如何创造涂鸦的过程以及如何代表他们的内在力量。
+ 阅读全文]]></summary>
+        <author>
+            <name>vivian</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[印度或将遭遇第三轮疫情 新德里等地死亡率成倍上升]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1132081.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1132081.htm"/>
+        <updated>2021-05-24T23:52:07.000Z</updated>
+        <summary type="html"><![CDATA[据印度卫生部24日公布的新冠疫情数据，印度累计新冠肺炎死亡病例达到303720例，成为继美国、巴西后第三个累计死亡病例数超30万例的国家。据印度媒体报道，5月份前三周，新德里和马哈拉施特拉邦等地新冠肺炎死亡率成倍上升，疫情令人担忧。
+ 阅读全文]]></summary>
+        <author>
+            <name>teikaei</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Jon Prosser透露：苹果将在WWDC上宣布全新设计的MacBook Pro]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1132079.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1132079.htm"/>
+        <updated>2021-05-24T23:51:44.000Z</updated>
+        <summary type="html"><![CDATA[根据爆料者 Jon Prosser 透露，苹果将会在今年的 WWDC 开发者大会上推出新款 MacBook Pro，不过他并没有透露更多的消息。不过此前有消息称苹果正在开发 14/16 英寸的 MacBook Pro，并且会迎来自 2016 年以来的重大设计升级。
+ 阅读全文]]></summary>
+        <author>
+            <name>study875</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美团抽佣变局：商家、骑手赚了吗？]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1132077.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1132077.htm"/>
+        <updated>2021-05-24T23:50:37.000Z</updated>
+        <summary type="html"><![CDATA[外卖骑手，一个近两年反复被热议的职业。他们风里来雨里去，在本地生活市场捡着“钢镚儿”，人身安全和福利保障却似乎难以得到有效保障。去年九月，一篇《外卖骑手，困在系统里》的报道引发全网讨论。文章描述了外卖骑手在系统算法的驱使下疲于奔命，为了避免因配送不及时被罚款，外卖骑手甚至时常违反交规，还面临着交通意外发生的风险。
+ 阅读全文]]></summary>
+        <author>
+            <name>teikaei</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Netflix下月将举办一场为期一周的虚拟活动]]></title>
+        <id>https://hot.cnbeta.com/articles/movie/1132075.htm</id>
+        <link href="https://hot.cnbeta.com/articles/movie/1132075.htm"/>
+        <updated>2021-05-24T23:48:44.000Z</updated>
+        <summary type="html"><![CDATA[据外媒报道，Netflix宣布了一个为期一周、新的虚拟活动--Geeked Week。通过这个活动，Netflix将分享即将开播的的信息如《巫师》、《睡魔》等。在Geeked Week期间，用户可以看到“大量的独家新闻、新的预告片、现场艺术、你最喜欢的明星的来访等等。”
+ 阅读全文]]></summary>
+        <author>
+            <name>teikaei</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lyft和Uber启动为接种COVID-19疫苗的人提供免费乘车服务的计划]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1132073.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1132073.htm"/>
+        <updated>2021-05-24T23:46:45.000Z</updated>
+        <summary type="html"><![CDATA[据外媒TechCrunch报道，Uber和Lyft已经正式开始为任何前往接种COVID-19疫苗的人提供免费乘车服务，两周前这两家乘车公司宣布与白宫达成协议，提供这一计划。
+ 阅读全文]]></summary>
+        <author>
+            <name>vivian</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[苹果、Epic反垄断诉讼战庭审结束 未来几个月内宣判]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1132071.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1132071.htm"/>
+        <updated>2021-05-24T23:46:40.000Z</updated>
+        <summary type="html"><![CDATA[经过三周的举证、辩论，游戏开发商Epic起诉苹果垄断的案件在周一进入结案陈述。双方都在利用最后的机会阐述各自观点，争取赢得法官的支持。苹果辩称，Epic发起的反垄断诉讼只是为了逃避用花钱的方式接触iPhone用户。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[盖茨宣布离婚前其基金会已经抛售所有苹果、Twitter股票]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1132069.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1132069.htm"/>
+        <updated>2021-05-24T23:44:27.000Z</updated>
+        <summary type="html"><![CDATA[据报道，五月份，亿万富豪盖茨和妻子梅琳达宣布结束婚姻，而在几个星期之前,以两人名字命名的慈善基金会抛售了价值数亿美元的苹果和Twitter公司股票。据悉，“比尔和梅琳达·盖茨基金会”提交给美国证券交易委员会的报告文件显示，在三月底之前，基金会旗下的一个信托基金已经卖出了所持有的苹果和Twitter的全部股票。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[袁隆平的理论遗产：从55年前的开创性论文到杂交水稻总设计师]]></title>
+        <id>https://www.cnbeta.com/articles/science/1132067.htm</id>
+        <link href="https://www.cnbeta.com/articles/science/1132067.htm"/>
+        <updated>2021-05-24T23:40:57.000Z</updated>
+        <summary type="html"><![CDATA[5月23日，湖南杂交水稻研究中心办公楼外，哀乐阵阵，冒雨前来献花悼念的群众络绎不绝。该中心二级研究员彭既明坐在三楼办公室内，双手掩面，悲痛难当。作为袁隆平杂交水稻创新团队核心成员，彭既明跟随袁隆平21年。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[新型光整流天线收集能量效率提高百倍]]></title>
+        <id>https://www.cnbeta.com/articles/science/1132065.htm</id>
+        <link href="https://www.cnbeta.com/articles/science/1132065.htm"/>
+        <updated>2021-05-24T23:37:07.000Z</updated>
+        <summary type="html"><![CDATA[在近日出版的《自然·通讯》杂志上，介绍了一项能源研究的新进展：美国科罗拉多博尔德大学科学家利用电子神奇的“共振隧穿”效应，设计出一种能从环境中捕获多余热量并将其转化为可用电力的设备。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美国敦促民众不要前往日本旅行 东京奥运会前景面临新的疑问]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1132063.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1132063.htm"/>
+        <updated>2021-05-24T23:35:58.000Z</updated>
+        <summary type="html"><![CDATA[美国表示，鉴于日本因新冠疫情爆发而处于紧急状态，美国民众应避免前往日本旅行。此前人们对东京在不到两个月里举办奥运会的计划已经产生怀疑。美国国务院周一将其对日本的旅行警告级别提高到四级，意味着敦促美国人不要前往该国，日本也由此加入了一个涵盖从拉丁美洲到欧洲因疫情爆发而被规避的国家名单。
+ 阅读全文]]></summary>
+        <author>
+            <name>teikaei</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[国家出手规范校外培训机构管理 新东方大跌超18%]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1132061.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1132061.htm"/>
+        <updated>2021-05-24T23:35:46.000Z</updated>
+        <summary type="html"><![CDATA[北京时间5月25日消息，上周五召开的中央全面深化改革委员会第十九次会议强调要强化线上线下校外培训机构规范管理后，美股星期一常规交易中，新东方股价下跌2.03美元，跌幅为18.29%，报收于9.07美元。今年2月16日，新东方股价曾创下52周高点19.97美元。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[充满时代记忆和“谩骂”的IE浏览器 终于要说再见了]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1132059.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1132059.htm"/>
+        <updated>2021-05-24T23:34:43.000Z</updated>
+        <summary type="html"><![CDATA[微软终于决定将会在 2022 年 6 月 15 日全面停止对 IE 浏览器的支持，转而使用 Edge 浏览器。没错，那个诞生于 1995 年至今已经 26 岁的 “ 上古浏览器 ”，要正式离开我们了。当差评君看见微软官网这则公告里，IE 的图标慢慢变成 Edge 的图标，竟然有那么一个百感交集的瞬间。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[一汽大众二季度或减产30% 芯片短缺影响29款车型]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1132057.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1132057.htm"/>
+        <updated>2021-05-24T23:33:24.000Z</updated>
+        <summary type="html"><![CDATA[日前，据第一财经报道，一汽大众4月因ESP芯片短缺已减产2万辆，并因10种芯片供应问题影响了29款车型的生产。今年二季度一汽-大众原计划生产约61万辆汽车，因芯片短缺，预计二季度只能生产40万辆汽车，减产比例达到30%。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Zen3+架构“死而复生” AMD锐龙6000将升级6nm工艺]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1132055.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1132055.htm"/>
+        <updated>2021-05-24T23:32:34.000Z</updated>
+        <summary type="html"><![CDATA[AMD的5nm Zen4架构要到2022年才能问世，2021年的产品线有什么可期待的？改进版的锐龙5000 XT系列基本上可以确定，此前传闻还有个Zen3+架构的锐龙6000系列，但它也是一波三折。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[钱学森29年前写信建议发展新能源电动车]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1132053.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1132053.htm"/>
+        <updated>2021-05-24T23:30:02.000Z</updated>
+        <summary type="html"><![CDATA[钱学森是我国老一辈科学家中的典范，他不仅对中国的导弹、火箭事业贡献巨大，还提出过很多重大建议。现在有网友翻出了他1992年提出发展新能源电动车的信件，那时候就有这样的远见了。1992年，钱学森给时任任国家副总理邹家华写了一封信，谈到了电动车的重要性。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[在线旅游平台兜售套路：C位露出低价机票 悄悄配售礼包]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1132051.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1132051.htm"/>
+        <updated>2021-05-24T23:29:04.000Z</updated>
+        <summary type="html"><![CDATA[“为什么机票支付价格比显示的要贵？”在在线旅游平台上预订机票时，这个问题困扰了不少消费者。近日，消费者刘先生向观察者网反映称，他在同程旅行平台上购买了一张5月4日从南京到桂林的机票，页面显示价格为469元，刘先生却支付了562元，除了50元的机建燃油费，还多支付了43元的优享礼包。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[欧盟：将采取措施禁止来自白俄罗斯的航班进入其领空]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1132049.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1132049.htm"/>
+        <updated>2021-05-24T23:28:03.000Z</updated>
+        <summary type="html"><![CDATA[欧盟当地时间24日晚宣布，将采取必要措施禁止来自白俄罗斯的航班进入其领空，并将禁止白俄罗斯的航班使用欧盟境内的机场。欧盟同时要求欧盟所属的航空公司航班避免飞越白俄罗斯空域。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[一句话送比特币冲向4万美元 币圈“教主”马斯克酝酿规范挖矿能源披露]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1132047.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1132047.htm"/>
+        <updated>2021-05-24T23:27:15.000Z</updated>
+        <summary type="html"><![CDATA[特斯拉CEO马斯克又发推证明了“币圈教主”的威名。美东时间24日周一美股尾盘时段，马斯克在社交媒体发帖称：“和一些北美的比特币挖矿机构交谈，他们承诺，要发布当前和计划的可再生能源耗用情况，而且呼吁全球的矿工们这么做。这可能有希望。”
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Peloton拟投4亿美元在美国建首个工厂]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1132045.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1132045.htm"/>
+        <updated>2021-05-24T23:25:14.000Z</updated>
+        <summary type="html"><![CDATA[健身自行车和高端跑步机制造商Peloton周一宣布，计划投资4亿美元，在俄亥俄州建设其美国首个工厂，以加快其产品的生产和交付。该公司说，在对多个地点进行筛选之后，选择了俄亥俄州伍德县特洛伊镇（Troy Township）一处200英亩的地点，用于建造面积超过100万平方英尺的生产、办公和设施空间。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[俄罗斯宣布：将使用中国重型火箭发射本国载人登月飞船]]></title>
+        <id>https://www.cnbeta.com/articles/science/1132043.htm</id>
+        <link href="https://www.cnbeta.com/articles/science/1132043.htm"/>
+        <updated>2021-05-24T23:22:16.000Z</updated>
+        <summary type="html"><![CDATA[俄罗斯媒体报道称，俄方将使用中国研发的重型火箭发射该国的载人登月飞船，这还是第一次。据俄罗斯卫星通讯社报道，俄罗斯国家航天集团执行总监亚历山大·布洛申科日前参加斯科尔科沃创新中心的“初创村”（Startup Village）会议上表示，俄方打算用中国的超重型运载火箭发射本国登月载人飞船。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[为了证明割韭菜有多简单 我们花5分钟发了个空气币]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1132041.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1132041.htm"/>
+        <updated>2021-05-24T23:21:56.000Z</updated>
+        <summary type="html"><![CDATA[前段时间币圈炒得纷纷扬扬的屎币，相信大伙们都还有印象。那玩意儿有多离谱？如果你从首日开盘时买入 100 块，在高点卖出的话，就能拿到 30 万倍左右的投资回报，立马能和千万富翁肩并肩谈笑风生。虽然这些天来，国家对虚拟币打出了一套组合拳，各种币的价格也都应声下跌，差评君从高点入坑屎币的某位朋友，也是一脸愁容，直言被屎糊了一脸。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[汽车芯片“慌” 价格上涨10到20倍]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1132039.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1132039.htm"/>
+        <updated>2021-05-24T23:17:26.000Z</updated>
+        <summary type="html"><![CDATA[哪怕各家车企极力遮遮掩掩，芯片也毫无疑问已经成为车企们的切肤之痛。第一财经记者独家获悉，一汽-大众今年二季度计划减产30%，减产数量高达20万辆；本田在华合资公司也因芯片短缺，将夏季高温假提前到6月初。中国一家头部自主车企的高管告诉记者，该公司新一代发动机的芯片缺口达到30%；另一家自主车企高管直言“等米下锅，满世界找芯片”。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[别让直播卖货成为假冒伪劣“温床”]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1132037.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1132037.htm"/>
+        <updated>2021-05-24T23:11:25.000Z</updated>
+        <summary type="html"><![CDATA[每一种经济模式兴起的同时，往往伴随着监管缺位下的乱象频发，近来日益盛行的直播带货也不例外。作为数字经济新业态，最近一年多以来在疫情的影响下，直播带货风头正劲。中国互联网络信息中心发布的数据显示，截至2020年12月，我国电商直播用户规模达到3.88亿人，预计2021年底将达到6亿人左右。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rockstar Games宣布成立自家唱片品牌CircoLoco]]></title>
+        <id>https://hot.cnbeta.com/articles/music/1132035.htm</id>
+        <link href="https://hot.cnbeta.com/articles/music/1132035.htm"/>
+        <updated>2021-05-24T23:08:11.000Z</updated>
+        <summary type="html"><![CDATA[Rockstar 在为其游戏提供音乐许可方面有着悠久的历史，最引人注目的是《侠盗猎车》系列，但显然这对这个富有传奇色彩的开发商来说是不够的。他们想进入音乐行业，现在他们将拥有一个专门的唱片公司来帮助他们实现这一目标。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[虚拟货币监管加码：资金通道被堵 “挖矿”或将在中国成历史]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1132033.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1132033.htm"/>
+        <updated>2021-05-24T23:07:10.000Z</updated>
+        <summary type="html"><![CDATA[随着国内监管趋严，比特币等虚拟货币的“挖矿”可能会在中国成为历史，大部分“矿工”将会转移到其他国家，但仍有部分“矿工”可能从此转入地下。而有些在“韭菜盛宴”中亏损的年轻人，仍在期盼暴富神话发生在自己身上。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Links on Performance]]></title>
         <id>https://css-tricks.com/?p=340808</id>
