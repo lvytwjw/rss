@@ -718,6 +718,168 @@
       "siteUrl": "https://www.cnbeta.com",
       "articles": [
         {
+          "id": "https://www.cnbeta.com/articles/tech/1132281.htm",
+          "author": "ugmbbc",
+          "description": "5月25日，E Ink元太科技于今日宣布推出全球首个On-cell触控电子纸模块，该技术已投入量产。该技术应用于E Ink Kaleido Plus彩色印刷电子纸技术与E Ink Carta黑白电子纸模块，同时可导入于电子书阅读器与电子纸笔记本等产品。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1132281.htm",
+          "publishedOn": "2021-05-25T06:20:11.000Z",
+          "wordCount": 216,
+          "title": "E Ink推全球首个On-Cell电子纸模块：电子书彩色大幅提升"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/science/1132279.htm",
+          "author": "vivian",
+          "description": "据外媒报道，一项新技术使研究人员首次能够测量人脑中的内源性锂的浓度。为了测试这项技术，研究人员比较了有自杀倾向者和一对健康对照者的死后脑组织中的锂含量，发现了锂含量与心理健康之间的差异。锂除了是电池的一个重要组成部分外，最著名的也许是对双相情感障碍的治疗。尽管锂被证明具有稳定情绪的好处，但如果大剂量使用，它可以很快变得对人体有害。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/science/1132279.htm",
+          "publishedOn": "2021-05-25T06:17:47.000Z",
+          "wordCount": 202,
+          "title": "新技术将锂在大脑中的分布与抑郁症联系起来"
+        },
+        {
+          "id": "https://hot.cnbeta.com/articles/movie/1132277.htm",
+          "author": "teikaei",
+          "description": "近日，漫威首部亚裔超级英雄力作《尚气与十戒传奇》新剧照曝光。刘思慕扮演的尚气和奥卡菲娜扮演的凯蒂、张梦儿扮演的Xialing同框。凯蒂是尚气的朋友，Xialing是尚气的姐妹。文武是尚气的父亲，十戒帮领袖。\n 阅读全文",
+          "link": "https://hot.cnbeta.com/articles/movie/1132277.htm",
+          "publishedOn": "2021-05-25T06:16:46.000Z",
+          "wordCount": 209,
+          "title": "《尚气与十戒传奇》新剧照 尚气与凯蒂Xialing同框"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1132275.htm",
+          "author": "ugmbbc",
+          "description": "据报道，华为创始人兼CEO任正非敦促这家中国科技巨头的员工将公司变成一支主要的软件力量，以此来减轻持续制裁的影响。在路透社看到的一份内部备忘录中，任正非说，华为应该专注于软件，因为这个行业 \"不受美国控制，我们将有更大的独立性和自主权\"。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1132275.htm",
+          "publishedOn": "2021-05-25T06:16:35.000Z",
+          "wordCount": 205,
+          "title": "报道称任正非要求华为员工通过转向软件研发来争夺自主权"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/science/1132273.htm",
+          "author": "teikaei",
+          "description": "据外媒报道，科学家将基因工程病毒注入到一位58岁患有遗传性眼病视网膜色素变性的男子的眼睛，从而使其恢复了有用的视力。这名盲人已经失明了几十年，在戴上一副专门的护目镜后他能够看到装订盒、玻璃杯或笔记本等小物体。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/science/1132273.htm",
+          "publishedOn": "2021-05-25T06:14:05.000Z",
+          "wordCount": 207,
+          "title": "科学家通过突破性基因疗法恢复盲人部分视力"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/science/1132271.htm",
+          "author": "study875",
+          "description": "多伦多大学的科研人员发现，杏仁标注的卡路里和消化吸收的卡路里是不一样的，这一发现应该有助于减轻人们对杏仁会导致体重增加的担忧。虽然坚果作为蛋白质、维生素和矿物质的优质植物性来源已经得到广泛认可，但对于热量的担忧依然存在。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/science/1132271.htm",
+          "publishedOn": "2021-05-25T06:10:21.000Z",
+          "wordCount": 222,
+          "title": "研究显示杏仁标注和消化吸收的卡路里是不同的"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/science/1132269.htm",
+          "author": "ugmbbc",
+          "description": "由开放存取出版社Frontiers发表的一项新研究显示，偶然收集的标本，如搁浅的尸体对研究难以捉摸的物种很有用。研究人员使用索氏中喙鯨（Mesoplodon bidens）的皮肤、肌肉和骨骼组织的稳定同位素分析来研究它们的空间生态学。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/science/1132269.htm",
+          "publishedOn": "2021-05-25T06:09:58.000Z",
+          "wordCount": 205,
+          "title": "科学家利用搁浅鲸鱼的尸体帮助解答难以捉摸的物种之谜"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1132267.htm",
+          "author": "raymon725",
+          "description": "以迷你 PC 产品线而被玩家所熟知的 Minisforum，最近又推出了采用 AMD 锐龙 R7-4800U 处理器的 HM80 机型。与早前发布的采用英特尔 11 代酷睿 i5-1137G7 处理器的 EliteMini TL50 机型相比，HM80 最大的不同是缺少了对雷电 4 标准的支持。即便如此，HM80 还是可以通过 USB-C 端口实现丰富的连接与扩展性。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1132267.htm",
+          "publishedOn": "2021-05-25T06:03:06.000Z",
+          "wordCount": 341,
+          "title": "Minisforum推出HM80迷你PC：锐龙R7-4800U APU加持 售759美元起"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1132265.htm",
+          "author": "teikaei",
+          "description": "圣路易斯联储行长詹姆斯-布拉德周一警告称，投资者在投资加密货币时应保持谨慎，并直言大多数加密货币都“毫无价值”。布拉德承认，数字货币在促进用法定货币难以达成的交易方面还是有用的。但他说，现在的私人加密货币项目太多了，“我们有几千个这样的项目，其中大多数都是毫无价值的。”\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1132265.htm",
+          "publishedOn": "2021-05-25T06:02:50.000Z",
+          "wordCount": 206,
+          "title": "美联储高官直斥大多数加密货币“毫无价值”"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/science/1132263.htm",
+          "author": "teikaei",
+          "description": "“川建国”特朗普同志是全世界的懂王，他“懂”得略显幽默，宜喜宜嗔，略显憨态。“钢铁侠”埃隆·马斯克是最硬核的懂王，他的“懂”带着二元对立的气息，有一种文学结构的美感，虚实结合，错位打法。文字的摩天大楼矗立在0和1的排列组合之间，压顶而来气势让你不得不强撑着僵硬的颈部关节仰视真神。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/science/1132263.htm",
+          "publishedOn": "2021-05-25T05:59:32.000Z",
+          "wordCount": 212,
+          "title": "马斯克就算能征服火星也不能征服基因"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/science/1132261.htm",
+          "author": "vivian",
+          "description": "第74届世界卫生大会24日开幕。世界卫生组织总干事谭德塞在大会开幕式上谈及全球新冠疫情形势时说，截至目前，尚未出现能严重破坏现有疫苗、诊断或疗法有效性的变异新冠病毒。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/science/1132261.htm",
+          "publishedOn": "2021-05-25T05:58:35.000Z",
+          "wordCount": 204,
+          "title": "谭德塞：尚未出现对现有疫苗有实质威胁的变异新冠病毒"
+        },
+        {
+          "id": "https://hot.cnbeta.com/articles/movie/1132259.htm",
+          "author": "ugmbbc",
+          "description": "贾跃亭还是没有回来，但几经易手的乐视再次回归市场。稍早之前，因一张“我回来了”主题海报，“下周回国”的猜想再度升腾，5月18日，这最终被证实是“误会”——还是一场营销。座无虚席的发布会，登上热搜的舆论，5月18日，北京，一个被重新拾起的乐视生态故事光鲜登场，却也留下太多疑问。\n 阅读全文",
+          "link": "https://hot.cnbeta.com/articles/movie/1132259.htm",
+          "publishedOn": "2021-05-25T05:55:45.000Z",
+          "wordCount": 222,
+          "title": "乐视借贾跃亭噱头营销再建生态：电视手机油烟机都卖，谁买单？"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1132257.htm",
+          "author": "vivian",
+          "description": "5月25日上午消息，据上交所债券项目信息平台显示，今日，重庆市蚂蚁小微小额贷款有限公司80亿元ABS和重庆市蚂蚁商诚小额贷款有限公司100亿元ABS项目状态均显示为“终止”。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1132257.htm",
+          "publishedOn": "2021-05-25T05:54:39.000Z",
+          "wordCount": 211,
+          "title": "花呗、借呗共计180亿ABS项目状态“终止” 蚂蚁集团：暂不予评论"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1132255.htm",
+          "author": "teikaei",
+          "description": "5月25日午间消息，荣耀CEO赵明近日回到母校上海交通大学，在“励志讲坛”发表主题演讲。他表示，荣耀会聚焦在手机领域，做成国内和全球第一手机品牌。至于近期的造车风口，他称不会涉足。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1132255.htm",
+          "publishedOn": "2021-05-25T05:53:46.000Z",
+          "wordCount": 212,
+          "title": "荣耀赵明：聚焦手机不会涉足造车 目标国内和全球第一"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1132253.htm",
+          "author": "ugmbbc",
+          "description": "曾与中兴、华为、联想合称为“中华酷联”的国产手机厂商——酷派日前高调宣布回归。今日，号称“浴火重生，王者归来”的酷派COOL 20正式发布，提供4+64GB、4+128GB、6+128GB三种配置，售价分别为699元、899元、1099元，目前该机已开启预约，将于6月1日正式开售。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1132253.htm",
+          "publishedOn": "2021-05-25T05:49:24.000Z",
+          "wordCount": 221,
+          "title": "酷派COOL20发布：联发科高性能游戏芯加持 售价699元起"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1132251.htm",
+          "author": "teikaei",
+          "description": "2021年5月24日星期一上午10点整，袁隆平同志遗体送别仪式在长沙市明阳山殡仪馆铭德厅举行。当天，无数群众自发前往吊唁，还不愿千里乘坐飞机赶来的，只是为了能亲自送别袁老，还有些群众为袁老带来了他最喜欢的气排球、稻穗等物品作为纪念。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1132251.htm",
+          "publishedOn": "2021-05-25T05:49:01.000Z",
+          "wordCount": 204,
+          "title": "烟花公司设计出稻穗状烟花：袁爷爷专属"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1132249.htm",
+          "author": "ugmbbc",
+          "description": "据报道，三星电子的半导体业务是推动该公司高盈利能力的引擎，其承受的压力也越来越大。在最近的一个财政季度中，就该行业的营业利润率而言，该公司已被竞争对手美光科技（Micron Technology）所超越，前者的营业利润率为18％，后者的营业利润率为20％。该公司摇钱树的盈利能力下降也可能影响其在其他领域的投资能力，例如半导体合同制造和显示器。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1132249.htm",
+          "publishedOn": "2021-05-25T05:45:29.000Z",
+          "wordCount": 209,
+          "title": "美光正挑战三星内存龙头的地位"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1132247.htm",
+          "author": "ugmbbc",
+          "description": "Intel的7nm处理器进展如何了？在J.P. Morgan Global TMC Week活动中，Intel CEO帕特基辛格（Pat Gelsinger）确认，公司已经完成7nm Meteor Lake芯片的“Tape-in”。Tape-in在Tape-Out（流片）前，大概是IP模块完成设计验证阶段。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1132247.htm",
+          "publishedOn": "2021-05-25T05:42:26.000Z",
+          "wordCount": 228,
+          "title": "Intel CEO：7nm流星湖处理器已经完成设计验证、正推进流片"
+        },
+        {
           "id": "https://www.cnbeta.com/articles/tech/1132245.htm",
           "author": "raymon725",
           "description": "尽管 Mozilla Firefox 的历史比 Google Chrome 还要久远，但 Google Chrome 还是后来居上并稳稳占据了这些年的浏览器市场宝座。对于不熟悉那段历史的吃瓜群众们来说，一定很想知道 Chrome 是如何立项并杀出重围的。近日，Paytm 创始人 Vijay Shekhar Sharma 在 Twitter 上分享了一段时长不到一分钟的视频，内容是时任谷歌 CEO 埃里克·施密特（Eric Schmidt）在 2015 年的一段讲话。\n 阅读全文",
