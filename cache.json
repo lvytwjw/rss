@@ -727,6 +727,96 @@
       "siteUrl": "https://www.cnbeta.com",
       "articles": [
         {
+          "id": "https://www.cnbeta.com/articles/tech/1132449.htm",
+          "author": "ugmbbc",
+          "description": "最常见的食物中毒就是细菌性食物中毒，而弯曲杆菌食物中毒则是最常见的细菌性食物中毒。在发达国家，食用生的或未熟透的禽肉，是弯曲菌最常见的感染原因。而现在，科学家发现了另外一种奇特的感染方式。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1132449.htm",
+          "publishedOn": "2021-05-25T13:25:42.000Z",
+          "wordCount": 201,
+          "title": "食物中毒的新方式：弯曲杆菌可通过性接触传播"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1132447.htm",
+          "author": "ugmbbc",
+          "description": "Arm推出了其最新的CPU和GPU参考设计，包括其旗舰产品Cortex-X2和Cortex-A710 CPU以及Mali-G710 GPU。新的CPU和GPU设计不仅仅是Arm的最新芯片蓝图；它们也是Arm十年来首次采用新的Armv9架构的设计，这意味着性能的大幅跃升，以及新的安全和AI功能。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1132447.htm",
+          "publishedOn": "2021-05-25T13:22:38.000Z",
+          "wordCount": 225,
+          "title": "Armv9架构芯片组合公布：Cortex-X2/A710/510 CPU及Mali-G710/510/310 GPU"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1132445.htm",
+          "author": "ugmbbc",
+          "description": "Moderna说，其针对青少年的Covid-19疫苗2/3期研究的免疫原性主要终点达标。接种了两剂疫苗的受试者中未观察到Covid-19病例；首次接种后14天开始观察到，血清阴性受试者中，疫苗有效性达93%。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1132445.htm",
+          "publishedOn": "2021-05-25T12:50:11.000Z",
+          "wordCount": 202,
+          "title": "研究显示Moderna的新冠疫苗对青少年高度有效"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1132443.htm",
+          "author": "ugmbbc",
+          "description": "5月25日晚间消息，特斯拉官方微博声明称，特斯拉已经在中国建立数据中心，以实现数据存储本地化，并将陆续增加更多本地数据中心。所有在中国大陆市场销售车辆所产生的数据，都将存储在境内。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1132443.htm",
+          "publishedOn": "2021-05-25T12:49:11.000Z",
+          "wordCount": 213,
+          "title": "特斯拉：已在中国建立数据中心 中国销售车辆数据将存储境内"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1132441.htm",
+          "author": "ugmbbc",
+          "description": "5月25日，2021款理想ONE正式发布，新车电机驱动系统升级，油箱容积扩大至55L，车辆的续航里程进一步提升。价格方面，新款理想ONE标准配色车型，全国统一售价33.8万元。而选装Baby Blue、Deep Green、Tech Blue三款特别版颜色的车型，需要加价1万元，全国统一售价34.8万元。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1132441.htm",
+          "publishedOn": "2021-05-25T12:48:42.000Z",
+          "wordCount": 215,
+          "title": "新款理想ONE正式发布：配置、续航大增 售价33.8万元起"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/science/1132439.htm",
+          "author": "ugmbbc",
+          "description": "据美国费米实验室官网17日报道，大型国际科学合作项目暗能量光谱仪（DESI）正式启动，开始其为期5年的宇宙探索之旅。DESI试图通过捕获和研究来自宇宙中数千万个星系和其他遥远物体的光，创建迄今最大、最精细的星系三维图谱，以揭示暗能量的奥秘，加深我们对宇宙的理解。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/science/1132439.htm",
+          "publishedOn": "2021-05-25T12:48:03.000Z",
+          "wordCount": 202,
+          "title": "十年磨一剑 DESI暗能量光谱仪开启宇宙探索之旅"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1132437.htm",
+          "author": "ugmbbc",
+          "description": "专家认为，披露清洁能源的使用情况可以在一定程度上起到缓解能耗污染的作用，但仅仅做到披露是不够的。特斯拉CEO马斯克此前在社交媒体上表示，今后北美的挖矿企业将承诺披露清洁能源使用情况，这有望缓解挖矿产生的环境问题。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1132437.htm",
+          "publishedOn": "2021-05-25T12:24:21.000Z",
+          "wordCount": 213,
+          "title": "马斯克和北美矿企酝酿挖矿能源披露，这就能解决高能耗问题？"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1132435.htm",
+          "author": "ugmbbc",
+          "description": "5月25日，在第八届国际智能网联汽车技术年会上，北京市高级别自动驾驶示范区为首批无人配送车头部企业颁发了无人配送车车身编码，首次给予无人配送车相应路权，实现了国内自动驾驶领域新产品管理政策的又一次创新突破。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1132435.htm",
+          "publishedOn": "2021-05-25T12:21:48.000Z",
+          "wordCount": 208,
+          "title": "无人配送车合规上路首次在京实现"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1132433.htm",
+          "author": "ugmbbc",
+          "description": "OnePlus联合创始人Carl Pei（裴宇）最近推出了 \"Nothing\"品牌，并确认在今年晚些时候推出其首款TWS耳塞。在我们等待6月产品发布的时候，裴宇的Twitter账户被黑客攻击，黑客还用其进行了一场加密货币诈骗。攻击者在进入该账户后，冒充裴宇的黑客在Twitter上说：\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1132433.htm",
+          "publishedOn": "2021-05-25T12:18:53.000Z",
+          "wordCount": 210,
+          "title": "一加联合创始人Carl Pei的Twitter账户被黑并用来诈骗虚拟货币"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/science/1132431.htm",
+          "author": "ugmbbc",
+          "description": "包括纽约州立大学宾汉姆顿大学的教师在内的一个进化生物学家小组表明，一些Anolis蜥蜴（或称Anoles）已经适应了在水下使用粘附在它们鼻子上的气泡来重新呼吸呼出的空气。这种蜥蜴生活在新热带溪流沿岸，经常潜入水中避难，在水下停留长达16分钟。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/science/1132431.htm",
+          "publishedOn": "2021-05-25T12:14:01.000Z",
+          "wordCount": 207,
+          "title": "蜥蜴潜水高手Anolis可利用附着在鼻子上的气泡在水下活动长达16分钟"
+        },
+        {
           "id": "https://www.cnbeta.com/articles/tech/1132429.htm",
           "author": "ugmbbc",
           "description": "比特币、狗狗币等加密货币的价格在最近几周暴跌，虽然埃隆·马斯克（Elon Musk）并不是造成这一结局的唯一原因，但仍旧遭到了不少加密投资者的评判。据外媒报道，日前，加密货币Tether的联合创始人威廉·奎格利（William Quigley）在接受采访时表示，已经关注到了马斯克关于任何事情的评论，特别是针对加密货币领域的。\n 阅读全文",
