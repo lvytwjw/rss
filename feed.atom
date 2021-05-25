@@ -2,10 +2,43 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://lvytwjw.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-05-25T04:29:21.715Z</updated>
+    <updated>2021-05-25T05:32:47.626Z</updated>
     <generator>osmosfeed 1.8.1</generator>
     <link rel="alternate" href="https://lvytwjw.github.io/rss/index.html"/>
     <link rel="self" href="https://lvytwjw.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[2015老视频：施密特庆幸于Chrome浏览器是瞒着他开发的]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1132245.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1132245.htm"/>
+        <updated>2021-05-25T05:25:33.000Z</updated>
+        <summary type="html"><![CDATA[尽管 Mozilla Firefox 的历史比 Google Chrome 还要久远，但 Google Chrome 还是后来居上并稳稳占据了这些年的浏览器市场宝座。对于不熟悉那段历史的吃瓜群众们来说，一定很想知道 Chrome 是如何立项并杀出重围的。近日，Paytm 创始人 Vijay Shekhar Sharma 在 Twitter 上分享了一段时长不到一分钟的视频，内容是时任谷歌 CEO 埃里克·施密特（Eric Schmidt）在 2015 年的一段讲话。
+ 阅读全文]]></summary>
+        <author>
+            <name>raymon725</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[小心“衣托” 假网恋、真约会 见面就是买买买……]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1132243.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1132243.htm"/>
+        <updated>2021-05-25T04:46:59.000Z</updated>
+        <summary type="html"><![CDATA[假网恋、真约会，见面就是买买买⋯⋯与“酒托”“茶托”和“饭托”骗局类似，多起发生在武汉，以打感情牌、搞消费诈骗的“衣托”新骗局令不少受害者痛心疾首。犯罪嫌疑人在相亲网站专找有消费能力的目标男子，假装与其谈恋爱。待“感情”稳定后，诈骗团伙派出“衣托女”与目标男子“奔现”（从线上网恋转为线下真实恋爱），使用套路让受害人到指定服装店花高价购物。事后，“衣托女”再以各种理由与受害人分手。
+ 阅读全文]]></summary>
+        <author>
+            <name>study875</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[图]哪款APP最耗电最占存储空间？100款热门APP大调查]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1132241.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1132241.htm"/>
+        <updated>2021-05-25T04:45:44.000Z</updated>
+        <summary type="html"><![CDATA[智能手机已经成为各项服务的入口，用户只需要安装对应的 APP 就能享受服务。但这些 APP 在给我们的日常生活带来诸多便利的同时，也消耗着大量电力，以至于手机的电量更容易耗尽。
+ 阅读全文]]></summary>
+        <author>
+            <name>study875</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[McIntosh推出MB20蓝牙无线收发器 轻松支持双向Hi-Fi串流]]></title>
         <id>https://hot.cnbeta.com/articles/music/1132239.htm</id>
