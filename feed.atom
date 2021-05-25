@@ -2,10 +2,87 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://lvytwjw.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-05-25T03:37:10.081Z</updated>
+    <updated>2021-05-25T04:29:21.715Z</updated>
     <generator>osmosfeed 1.8.1</generator>
     <link rel="alternate" href="https://lvytwjw.github.io/rss/index.html"/>
     <link rel="self" href="https://lvytwjw.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[McIntosh推出MB20蓝牙无线收发器 轻松支持双向Hi-Fi串流]]></title>
+        <id>https://hot.cnbeta.com/articles/music/1132239.htm</id>
+        <link href="https://hot.cnbeta.com/articles/music/1132239.htm"/>
+        <updated>2021-05-25T04:18:46.000Z</updated>
+        <summary type="html"><![CDATA[想要将音乐从智能手机串流到客厅、或从 Hi-Fi 播放器传输到无线耳机上，许多音乐爱好者都会在设置过程中经历相当多的麻烦。好消息是，McIntosh Labs 推出的新款 MB20 收发器，就能够在不依赖于安装和使用第三方移动 App 的情况下化解上述烦恼。除了自家产品，MB20 也能够为其它传统 Hi-Fi 音响设备轻松带入“流媒体”时代。
+ 阅读全文]]></summary>
+        <author>
+            <name>raymon725</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Build 2021明日开幕 纳德拉将发表半小时主题演讲]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1132237.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1132237.htm"/>
+        <updated>2021-05-25T03:59:04.000Z</updated>
+        <summary type="html"><![CDATA[和苹果、Google等其他公司一样，今年的 Build 开发者大会也采用全程网络直播的形式免费向公众开放。本次活动将于北京时间 5 月 27 日 0 点开始举行，微软首席执行官纳德拉（Satya Nadella）将会在开幕活动中发表半个小时的演讲，主题是“微软如何在现代技术栈中为开发者创造新的机会”。
+ 阅读全文]]></summary>
+        <author>
+            <name>study875</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[成群的周期蝉开始“涌入”社交网络]]></title>
+        <id>https://www.cnbeta.com/articles/science/1132235.htm</id>
+        <link href="https://www.cnbeta.com/articles/science/1132235.htm"/>
+        <updated>2021-05-25T03:58:25.000Z</updated>
+        <summary type="html"><![CDATA[据外媒报道，被称为Brood X的周期性蝉17年来首次在美国东部部分地区开始从它们的地下巢穴挖洞，预计在未来几周内将有数万亿只蝉展示它们的黑色身体和红色眼睛。周期性蝉几乎整个一生都生活在地下一两英尺的地方，它们靠树根的汁液生活。
+ 阅读全文]]></summary>
+        <author>
+            <name>teikaei</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[现代汽车将为IonIq 5纯电跨界车型带来丰富的车内支付体验]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1132233.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1132233.htm"/>
+        <updated>2021-05-25T03:56:46.000Z</updated>
+        <summary type="html"><![CDATA[外媒报道称，现代汽车开发了一套车载支付系统，并将在 Ioniq 5 纯电跨界车型上首次亮相。显然，这家传统汽车制造商正在拓展创收的新路子。据说该系统能够为车主提供诸多帮助，比如寻找充电桩、餐馆、停车场，并且打通包括支付在内的全流程。
+ 阅读全文]]></summary>
+        <author>
+            <name>raymon725</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2022款现代IONIQ 5美国版规格公布：将提供两年免费充电服务]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1132231.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1132231.htm"/>
+        <updated>2021-05-25T03:49:07.000Z</updated>
+        <summary type="html"><![CDATA[据外媒报道，现代已经正式透露美国规格的IONIQ 5。今年2月，现代宣布IONIQ 5将成为该公司首批使用其新E-GMP平台的汽车之一，该车配备了反充电、AR挡风玻璃，新车主则还可享受为期两年的免费公共充电服务。
+ 阅读全文]]></summary>
+        <author>
+            <name>teikaei</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[苹果新策略：Apple Silicon Mac今后不支持从外部磁盘引导启动]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1132229.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1132229.htm"/>
+        <updated>2021-05-25T03:42:21.000Z</updated>
+        <summary type="html"><![CDATA[由于苹果正逐步淘汰外部磁盘的创建和使用，使用 Apple Silicon 的 Mac 设备今后将无法从外部移动磁盘启动。对于部分用户来说，为他们的 Mac 创建可引导的磁盘能够额外添加安全保障，防止 Mac 上的主磁盘损坏或者遇到其他问题。但伴随着苹果逐渐朝着 Apple Silicon 芯片过渡，这种可以让用户快速恢复运行的备份技术将不再获得支持。
+ 阅读全文]]></summary>
+        <author>
+            <name>study875</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[哈勃望远镜拍摄的最新图像展示了炫目的星系团“动物园”]]></title>
+        <id>https://www.cnbeta.com/articles/science/1132227.htm</id>
+        <link href="https://www.cnbeta.com/articles/science/1132227.htm"/>
+        <updated>2021-05-25T03:38:35.000Z</updated>
+        <summary type="html"><![CDATA[据外媒BGR报道，美国宇航局（NASA）在一篇新的博客文章中展示了一张由哈勃太空望远镜拍摄的照片，重点是一个名为ACO S 295的星系团。这是一个由各种形状和大小的单个星系组成的巨大集合，从壮观的螺旋形到巨大的恒星云、行星、卫星等等。
+ 阅读全文]]></summary>
+        <author>
+            <name>vivian</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[微软发布混合计划 实现员工“双地”办公]]></title>
         <id>https://www.cnbeta.com/articles/tech/1132225.htm</id>
