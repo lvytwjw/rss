@@ -2,10 +2,43 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://lvytwjw.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-05-25T17:58:23.084Z</updated>
+    <updated>2021-05-25T18:48:12.056Z</updated>
     <generator>osmosfeed 1.8.1</generator>
     <link rel="alternate" href="https://lvytwjw.github.io/rss/index.html"/>
     <link rel="self" href="https://lvytwjw.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[iFixit讲述了三星如何亲手毁掉了旧手机改造计划]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1132511.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1132511.htm"/>
+        <updated>2021-05-25T18:44:54.000Z</updated>
+        <summary type="html"><![CDATA[在上周谷歌I/O大会的喧嚣中，iFixit 的Kevin Purdy发表了一篇博文，讲述了三星如何在2017年宣布一项 "革命性"的升级改造计划，并将其推迟数年，并最终将其销毁，然后发布了一个苍白的模仿原想法的产品。iFixit实际上参与了2017年三星最初的发布大会，该维修机构表示，三星有了最初的想法，但是最终从未兑现其承诺。
+ 阅读全文]]></summary>
+        <author>
+            <name>maomao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[技嘉发布Aorus Gen4 7000s Prem NVMe SSD 配备全新散热技术]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1132509.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1132509.htm"/>
+        <updated>2021-05-25T18:40:36.000Z</updated>
+        <summary type="html"><![CDATA[PCIe 4.0固态硬盘目前在消费级存储方面提供了尖端技术，但是在持续负荷下，发热往往会成为一个问题。技嘉旨在通过全新Aorus Gen4 7000s Prem产品来解决这个问题。这款SSD特点是采用了高大厚实的纳米碳涂层散热片，称为Thermal Guard Xtreme。
+ 阅读全文]]></summary>
+        <author>
+            <name>maomao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[准备收购MGM 亚马逊的目标是成为流媒No.1？]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1132507.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1132507.htm"/>
+        <updated>2021-05-25T17:58:35.000Z</updated>
+        <summary type="html"><![CDATA[据知情人士透露，亚马逊（AMZN）正接近于以85亿至90亿美元的价格收购米高梅工作室（MGM Studio），该公司是007系列电影和其他电影及电视系列的共同拥有者。该交易预计最快将于周二宣布。透露消息的人士要求不透露姓名，因为谈判是私下进行的。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[新专利显示苹果研究让iPhone显示屏玻璃更薄更坚固]]></title>
         <id>https://www.cnbeta.com/articles/tech/1132505.htm</id>
