@@ -317,6 +317,15 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2021/05/reduce-font-loading-impact-css-descriptors/",
+          "author": "hello@smashingmagazine.com (Barry Pollard)",
+          "description": "Web fonts are often terrible for web performance and none of the font loading strategies are particularly effective to address that. Upcoming font options may finally deliver on the promise of making it easier to align fallback fonts to the final fonts.",
+          "link": "https://smashingmagazine.com/2021/05/reduce-font-loading-impact-css-descriptors/",
+          "publishedOn": "2021-05-25T09:30:00.000Z",
+          "wordCount": 1985,
+          "title": "A New Way To Reduce Font Loading Impact: CSS Font Descriptors"
+        },
+        {
           "id": "https://smashingmagazine.com/2021/05/css-container-queries-use-cases-migration-strategies/",
           "author": "hello@smashingmagazine.com (Adrian Bece)",
           "description": "CSS Container queries bring media queries closer to the target elements themselves and enables them to adapt to virtually any given container or layout. In this article, we’re going to cover CSS container query basics and how to use them today with progressive enhancement or polyfills.",
@@ -717,6 +726,123 @@
       "feedUrl": "https://www.cnbeta.com/backend.php",
       "siteUrl": "https://www.cnbeta.com",
       "articles": [
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1132391.htm",
+          "author": "ugmbbc",
+          "description": "NVIDIA宣布400亿美元收购ARM后，交易正在监管机构审查中。据媒体报道，ARM已经冻结了研发部门工程岗位的招聘，直到预期明年4月NVIDIA完成收购后才再度放开。与此同时，ARM还取消了一项年度津贴福利政策，在英国大约是4500磅，在其它地区大约是8500美元。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1132391.htm",
+          "publishedOn": "2021-05-25T10:15:50.000Z",
+          "wordCount": 210,
+          "title": "ARM冻结招聘、取消津贴 静待明年4月NVIDIA完成收购"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1132389.htm",
+          "author": "ugmbbc",
+          "description": "5月25日消息，据媒体报道，国际奥委会主席托马斯·巴赫日前申明东京奥运会将会按计划如期举办。巴赫表示，为了举办东京奥运会，我们必须做出一些牺牲，运动员的奥运梦想一定能实现。对于巴赫“牺牲”这一表述，部分日本媒体和民众表示不满。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1132389.htm",
+          "publishedOn": "2021-05-25T10:15:15.000Z",
+          "wordCount": 205,
+          "title": "国际奥委会称办奥运必须做出一定牺牲 引发日本民众不满"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/science/1132387.htm",
+          "author": "ugmbbc",
+          "description": "维也纳生物中心的研究人员设计了一个SARS-CoV-2的测试方案，可以在不到48小时内处理数万个样本。该方法被称为SARSeq，发表在《自然-通讯》杂志上，并且可适用于更多的病原体。COVID-19大流行病已经持续了一年多，并继续对我们的生活产生巨大的影响。尽管一些国家已经启动了全面疫苗接种运动，但许多国家仍在等待大规模的免疫计划和有效的抗病毒疗法--在这之前，世界迫切需要恢复正常的面貌。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/science/1132387.htm",
+          "publishedOn": "2021-05-25T10:12:54.000Z",
+          "wordCount": 214,
+          "title": "研究人员利用下一代测序技术检测SARS-CoV-2 并为下一次大流行做准备"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/science/1132385.htm",
+          "author": "ugmbbc",
+          "description": "随着设备继续在越来越小的规模上制造，科学家们正在寻求开发在原子水平上的材料工程的方法。在《自然-通讯》上发表的一项突破性的报告中，来自理化学研究所先锋研究集群和理化学研究所先进光子学中心的研究人员与合作者一起，开发了一种使用 \"干式转移技术 \"的方法，即一种不使用溶剂的技术辅以精确的方式定位光学质量的碳纳米管。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/science/1132385.htm",
+          "publishedOn": "2021-05-25T10:08:15.000Z",
+          "wordCount": 206,
+          "title": "在原子层面上实现的材料工程带来碳纳米管技术的突破"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1132383.htm",
+          "author": "ugmbbc",
+          "description": "前不久，iOS版微信更新至8.0.6版本，带来了不少全新的功能，包括在“拍一拍”基础上新增了“炸一炸”功能。用户仅需在“朋友拍了拍我______”加入会动表情，就能实现“炸一炸”的效果，能在拍一拍之后呈现出全屏的炸弹效果。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1132383.htm",
+          "publishedOn": "2021-05-25T10:01:04.000Z",
+          "wordCount": 208,
+          "title": "微信表情新彩蛋遭疯狂吐槽：竟满屏“炸屎”"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1132381.htm",
+          "author": "ugmbbc",
+          "description": "特斯拉中国一直在努力让供应链本地化，这是因为供应链本地化有很多优势，比如，降低运输成本、生产成本，缩短交付周期等。据报道，如今，特斯拉国产Model 3和Model Y的零部件中有90%以上来自国内供应商，这可能大幅降低特斯拉中国的生产成本。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1132381.htm",
+          "publishedOn": "2021-05-25T09:49:00.000Z",
+          "wordCount": 224,
+          "title": "特斯拉国产Model 3和Model Y零部件国产化超90%"
+        },
+        {
+          "id": "https://hot.cnbeta.com/articles/game/1132379.htm",
+          "author": "ugmbbc",
+          "description": "今天一位眼尖的外国网友在翻阅Github上追踪Steam数据的项目时，发现了关于先前爆料出的Steam手柄项目“海王星（Project Neptune）”代码里，带有一个全新的硬件名称“SteamPal”。\n 阅读全文",
+          "link": "https://hot.cnbeta.com/articles/game/1132379.htm",
+          "publishedOn": "2021-05-25T09:48:57.000Z",
+          "wordCount": 214,
+          "title": "Steam最新更新代码显示新硬件名 或为Steam掌机名为“SteamPal”"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1132377.htm",
+          "author": "raymon725",
+          "description": "谷歌花了许多时间从头开始研发的 Fuchsia 操作系统，现在终于可以在谷歌自己制造的设备（初代 Nest Hub）上运行了。9to5Google 报道称，与此前基于 Linux 内核的“Cast OS”一样，本次更新不会给首发于 2018 年的 Nest Hub 带来任何功能更新。主要原因是这款智能显示屏的体验是基于 Flutter 构建的，旨在将应用程序一致地带入包括 Fuchsia 在内的多个平台。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1132377.htm",
+          "publishedOn": "2021-05-25T09:48:39.000Z",
+          "wordCount": 257,
+          "title": "谷歌正式开测Fuchsia OS：初代Nest Hub用户请留意"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1132375.htm",
+          "author": "ugmbbc",
+          "description": "近日，云计算领域各厂商接连发布了2021年Q1财报，可以看到，不管是云计算巨头还是第三方厂商在回顾Q1业绩时，都是积极乐观、喜气洋洋的。然而事实真的如此吗？在这个本就马太效应明显，又被华为云搅动的市场中，到底谁在强颜欢笑，谁在坐收渔翁之利？\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1132375.htm",
+          "publishedOn": "2021-05-25T09:42:54.000Z",
+          "wordCount": 212,
+          "title": "被华为云搅动的市场中，谁掉队了？"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1132373.htm",
+          "author": "ugmbbc",
+          "description": "尽管来自各界以及日本现实疫情形势的压力巨大，东京政府依然决定7月23日举行东京奥运会，5月25日今天据日媒报道，据日本最大级别民意调查站Change.org的最新统计，民间联名反对举行东京奥运会人数已经达38万7000。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1132373.htm",
+          "publishedOn": "2021-05-25T09:40:05.000Z",
+          "wordCount": 205,
+          "title": "民间联名反对举行东京奥运会人数达38万 来自130多个国家"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/science/1132371.htm",
+          "author": "ugmbbc",
+          "description": "5月25日消息，本周一美国参议员伯尼·桑德斯(Bernie Sanders)就《无尽前沿法案》（Endless Frontier Act）提交了一项修正案，反对通过美国国家航空航天局（NASA）的登月飞船项目变相资助杰夫·贝索斯（Jeff Bezos）领导的太空公司蓝色起源。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/science/1132371.htm",
+          "publishedOn": "2021-05-25T09:39:32.000Z",
+          "wordCount": 217,
+          "title": "桑德斯反对为NASA登月飞船再拨款 称是变相资助贝索斯"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1132369.htm",
+          "author": "ugmbbc",
+          "description": "5月26日消息，以色列政府周一表示，已与亚马逊云服务部门AWS和谷歌签署价值超过10亿美元的一个项目协议，为该国公共部门和军队提供云服务建设。一个月前，AWS和谷歌击败了微软、甲骨文、IBM，赢得了该项目的竞标。以色列财政部官员表示，预计数据向云端迁移工作大约在两个月内进行。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1132369.htm",
+          "publishedOn": "2021-05-25T09:37:44.000Z",
+          "wordCount": 207,
+          "title": "亚马逊和谷歌签下以色列云服务建设合同 价值10亿美元"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1132367.htm",
+          "author": "ugmbbc",
+          "description": "业内消息人士称，高通已与芯片代工商联华电子（UMC）达成一项长期协议，后者将为高通提供6年的产能支持。联华电子成立于1980年，提供先进制程技术与晶圆制造服务，为IC产业各项主要应用产品生产芯片。目前，该公司旗下有12座晶圆代工厂，其中4座为12英寸晶圆代工厂、7座为8英寸晶圆代工商，还有一座是6英寸晶圆代工厂。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1132367.htm",
+          "publishedOn": "2021-05-25T09:33:28.000Z",
+          "wordCount": 208,
+          "title": "消息称高通已与联华电子达成一项长期协议"
+        },
         {
           "id": "https://www.cnbeta.com/articles/tech/1132365.htm",
           "author": "study875",
