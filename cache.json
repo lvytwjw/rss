@@ -317,6 +317,15 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2021/05/undoing-mistakes-git-part2/",
+          "author": "hello@smashingmagazine.com (Tobias Günther)",
+          "description": "Mistakes. These cruel villains do not even stop at the beautiful world of software development. But although we cannot avoid making mistakes, we can learn to undo them! This post will show the right tools for your daily work with Git.",
+          "link": "https://smashingmagazine.com/2021/05/undoing-mistakes-git-part2/",
+          "publishedOn": "2021-05-25T14:00:00.000Z",
+          "wordCount": 2079,
+          "title": "A Guide To Undoing Mistakes With Git (Part 2)"
+        },
+        {
           "id": "https://smashingmagazine.com/2021/05/reduce-font-loading-impact-css-descriptors/",
           "author": "hello@smashingmagazine.com (Barry Pollard)",
           "description": "Web fonts are often terrible for web performance and none of the font loading strategies are particularly effective to address that. Upcoming font options may finally deliver on the promise of making it easier to align fallback fonts to the final fonts.",
@@ -726,6 +735,33 @@
       "feedUrl": "https://www.cnbeta.com/backend.php",
       "siteUrl": "https://www.cnbeta.com",
       "articles": [
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1132465.htm",
+          "author": "ugmbbc",
+          "description": "据俄新社5月25日援引莫斯科市法院消息报道，因Google公司未删除被俄官方禁止传播的信息和内容，莫斯科市法院对其处以总计600万卢布的罚款。俄联邦消费者权益保护和公益监督局此前向Google公司发出超过2.6万份通知，要求其删除有关互联网平台上的非法信息。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1132465.htm",
+          "publishedOn": "2021-05-25T15:00:37.000Z",
+          "wordCount": 207,
+          "title": "莫斯科市法院：Google公司将被罚款600万卢布"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1132463.htm",
+          "author": "ugmbbc",
+          "description": "去年冬天的时候，车东西开着宝马的纯电SUV iX3（全名为创新BMW纯电动iX3）发起了一项限时挑战赛，在30个小时之内将它从北京开到了杭州。这次活动证明了宝马的这台纯电车型可以实现近似于燃油车的长途驾驶体验，实力很强。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1132463.htm",
+          "publishedOn": "2021-05-25T14:16:30.000Z",
+          "wordCount": 222,
+          "title": "充一次电能用十天 宝马这台电动车太顶了！"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1132461.htm",
+          "author": "ugmbbc",
+          "description": "几家芯片制造商和无晶圆厂设计公司正在芯片工艺制程上互相竞争，开发 3nm和2nm的下一个逻辑节点工艺与芯片，但将这些技术投入批量生产既昂贵又困难。巨头之间的竞争提出新的问题，这些新节点投入量产究竟需要多长时间，为什么需要这些新的节点工艺。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1132461.htm",
+          "publishedOn": "2021-05-25T14:15:37.000Z",
+          "wordCount": 251,
+          "title": "三巨头间的3nm/2nm“大乱斗”"
+        },
         {
           "id": "https://www.cnbeta.com/articles/tech/1132459.htm",
           "author": "ugmbbc",
