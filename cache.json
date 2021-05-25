@@ -558,15 +558,6 @@
           "publishedOn": "2021-04-27T12:00:00.000Z",
           "wordCount": 2623,
           "title": "Understanding Easing Functions For CSS Animations And Transitions"
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/04/bake-layers-accessibility-testing-process/",
-          "author": "hello@smashingmagazine.com (Kate Kalcevich & Mike Gifford)",
-          "description": "Accessibility experts Kate Kalcevich and Mike Gifford introduce readers to \"layered accessibility testing”, a practice of using a variety of tools and approaches at different stages in the digital product lifecycle to catch accessibility issues early — when it’s easier and cheaper to fix them.",
-          "link": "https://smashingmagazine.com/2021/04/bake-layers-accessibility-testing-process/",
-          "publishedOn": "2021-04-26T11:00:00.000Z",
-          "wordCount": 3279,
-          "title": "How To Bake Layers Of Accessibility Testing Into Your Process"
         }
       ]
     },
@@ -575,6 +566,15 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
+        {
+          "id": "60ac3a2711ffb70827ef6aec",
+          "author": null,
+          "description": "Walkthrough for Hack The Box Valentine machine",
+          "link": "https://www.freecodecamp.org/news/keep-calm-and-hack-the-box-valentine/",
+          "publishedOn": "2021-05-25T22:43:11.000Z",
+          "wordCount": 1664,
+          "title": "Keep Calm and Hack The Box – Valentine"
+        },
         {
           "id": "60a93b0011ffb70827ef5b0d",
           "author": null,
@@ -762,6 +762,15 @@
       "feedUrl": "https://www.cnbeta.com/backend.php",
       "siteUrl": "https://www.cnbeta.com",
       "articles": [
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1132523.htm",
+          "author": "study875",
+          "description": "在今天凌晨开幕的 Build 2021 开发者大会上，微软首席执行官纳德拉（Satya Nadella）向粉丝发出预告：2021 年 Windows 10 将有非常多值得期待的“新东西”。在 30 分钟的主题演讲中，纳德拉强调下个 Windows 功能更新是“极其重要的”。这个代号为 Sun Valley 的 Windows 10 21H2 功能更新将于今天秋季上线发布。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1132523.htm",
+          "publishedOn": "2021-05-25T23:09:05.000Z",
+          "wordCount": 264,
+          "title": "纳德拉预热：Windows 10 21H2有非常多值得期待的“新东西”"
+        },
         {
           "id": "https://www.cnbeta.com/articles/tech/1132521.htm",
           "author": "maomao",
