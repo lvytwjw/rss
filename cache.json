@@ -867,6 +867,24 @@
       "siteUrl": "https://www.cnbeta.com",
       "articles": [
         {
+          "id": "https://www.cnbeta.com/articles/tech/1133037.htm",
+          "author": "ugmbbc",
+          "description": "近一段时间，微信的新版本几乎都是苹果系统首发，有时还直接来个三连更。相比之下，Android这边倒显得十分清静，就连版本号也落后人家很多。近日微信for iOS 8.0.6版正式发布，Android这边也由之前的8.0.3直接升至8.0.6（内测版）。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1133037.htm",
+          "publishedOn": "2021-05-26T23:11:08.000Z",
+          "wordCount": 211,
+          "title": "新玩法太魔性 微信Android内测版抢先体验"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1133035.htm",
+          "author": "ugmbbc",
+          "description": "群联的PCIe 4.0主控性能现在刷新了世界纪录，结合176层3D闪存，实测速度达到了7488MB/s，成为全球最速度最快的PCIe 4.0主控。2019年群联在AMD锐龙平台首发了PCIe 4.0主控PS5016-E16，将SSD速度推向了5000MB/s，去年底推出了第二代PCIe 4.0主控PS5018-E18，持续读取性能达到了7.4GB/s，持续写入性能也有7GB/s。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1133035.htm",
+          "publishedOn": "2021-05-26T23:08:08.000Z",
+          "wordCount": 233,
+          "title": "群联PCIe 4.0主控刷新世界纪录：速度狂飙7488MB/s"
+        },
+        {
           "id": "https://www.cnbeta.com/articles/tech/1133033.htm",
           "author": "ugmbbc",
           "description": "因官方报告首次明确“电子烟不安全”，电子烟相关上市公司股价大跌。5月26日，电子烟巨头思摩尔国际（06969.HK）尾盘跳水，股价收盘下跌17.10%。华宝国际（00336.HK）跌7.69%，中国波顿（03318.HK）跌17.94%。美股电子烟概念盘前也大跌，雾芯科技（RLX.NYSE）盘中一度跌近15%。\n 阅读全文",

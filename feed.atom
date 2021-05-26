@@ -2,10 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://lvytwjw.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-05-26T22:13:56.501Z</updated>
+    <updated>2021-05-26T23:15:31.280Z</updated>
     <generator>osmosfeed 1.9.0</generator>
     <link rel="alternate" href="https://lvytwjw.github.io/rss/index.html"/>
     <link rel="self" href="https://lvytwjw.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[新玩法太魔性 微信Android内测版抢先体验]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1133037.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1133037.htm"/>
+        <updated>2021-05-26T23:11:08.000Z</updated>
+        <summary type="html"><![CDATA[近一段时间，微信的新版本几乎都是苹果系统首发，有时还直接来个三连更。相比之下，Android这边倒显得十分清静，就连版本号也落后人家很多。近日微信for iOS 8.0.6版正式发布，Android这边也由之前的8.0.3直接升至8.0.6（内测版）。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[群联PCIe 4.0主控刷新世界纪录：速度狂飙7488MB/s]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1133035.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1133035.htm"/>
+        <updated>2021-05-26T23:08:08.000Z</updated>
+        <summary type="html"><![CDATA[群联的PCIe 4.0主控性能现在刷新了世界纪录，结合176层3D闪存，实测速度达到了7488MB/s，成为全球最速度最快的PCIe 4.0主控。2019年群联在AMD锐龙平台首发了PCIe 4.0主控PS5016-E16，将SSD速度推向了5000MB/s，去年底推出了第二代PCIe 4.0主控PS5018-E18，持续读取性能达到了7.4GB/s，持续写入性能也有7GB/s。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Giphy API Tutorial – How to Generate Animated Text GIFs with ReactJS]]></title>
         <id>60a44b9f906c5207e3a7e098</id>
