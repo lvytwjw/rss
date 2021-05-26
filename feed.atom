@@ -2,10 +2,164 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://lvytwjw.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-05-26T12:15:24.291Z</updated>
+    <updated>2021-05-26T13:38:27.915Z</updated>
     <generator>osmosfeed 1.9.0</generator>
     <link rel="alternate" href="https://lvytwjw.github.io/rss/index.html"/>
     <link rel="self" href="https://lvytwjw.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ARM处理器季度出货73亿颗 历史总计1900亿颗]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1132957.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1132957.htm"/>
+        <updated>2021-05-26T13:20:19.000Z</updated>
+        <summary type="html"><![CDATA[今天，ARM一口气发布了全套计算方案，包括64位的Cortex-X2、A710、A510 CPU处理器，Mali-G710、G610、G510、G310 GPU图形核心，和相关的互连、网络技术。同时，ARM给出最新数据，2020年第四季度，ARM芯片合作伙伴共出货了73亿颗ARM架构的芯片，同比增长22％，创下历史新高，相当于每秒900多颗、每天7000万颗。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[丰田章男发博称赞氢能源 氢汽车完成24小时耐力赛]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1132955.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1132955.htm"/>
+        <updated>2021-05-26T13:20:06.000Z</updated>
+        <summary type="html"><![CDATA[日前，丰田汽车社长丰田章男，在微博发消息称赞氢燃料汽车。丰田章男表示，上周末，他们驾驶搭载氢燃料发动机的赛车参加了NAPAC富士SUPER TEC 24小时耐力赛的第三场赛事。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[比传统闪存快5000倍的新技术面世]]></title>
+        <id>https://www.cnbeta.com/articles/science/1132953.htm</id>
+        <link href="https://www.cnbeta.com/articles/science/1132953.htm"/>
+        <updated>2021-05-26T13:19:35.000Z</updated>
+        <summary type="html"><![CDATA[一项新的研究发现，闪存的2D“表亲”不仅速度快了大约5,000倍，而且可以存储多个数据位，而不仅仅是零和一。闪存驱动器，硬盘，磁带和其他形式的非易失性存储器即使在断电后也可以帮助存储数据。这些设备的主要缺点之一是它们通常很慢，通常至少需要数百微秒才能写入数据，比易失性设备要长几个数量级。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NASA打算解决长期存在的网络安全管理问题]]></title>
+        <id>https://www.cnbeta.com/articles/science/1132951.htm</id>
+        <link href="https://www.cnbeta.com/articles/science/1132951.htm"/>
+        <updated>2021-05-26T13:17:34.000Z</updated>
+        <summary type="html"><![CDATA[根据NASA监察长发布的一份报告，"对NASA网络的攻击并不是一个新现象，尽管窃取关键信息的企图在复杂性和严重性方面都在增加"。"我们发现，美国宇航局预防、检测和缓解网络攻击的能力因架构的混乱方法而受到限制"。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[亚马逊将以84.5亿美元收购米高梅 将拥有4000多部电影的庞大目录收入囊中]]></title>
+        <id>https://hot.cnbeta.com/articles/movie/1132949.htm</id>
+        <link href="https://hot.cnbeta.com/articles/movie/1132949.htm"/>
+        <updated>2021-05-26T13:14:27.000Z</updated>
+        <summary type="html"><![CDATA[亚马逊今天宣布，它将以84.5亿美元收购米高梅。米高梅有一个庞大的影视目录，涵盖4000多部电影和17000部电视节目。米高梅还有一些新电影，包括《古驰家族》（House of Gucci）、《无暇赴死》（No Time to Die）、《灵魂新生》（Respect）、《亚当斯一家2》（The Addams Family 2）以及正在筹备中的未命名的保罗-托马斯-安德森电影。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[杨振宁先生捐赠清华大学“杨振宁资料室”]]></title>
+        <id>https://www.cnbeta.com/articles/science/1132947.htm</id>
+        <link href="https://www.cnbeta.com/articles/science/1132947.htm"/>
+        <updated>2021-05-26T13:08:56.000Z</updated>
+        <summary type="html"><![CDATA[“我希望将来留在清华大学档案馆里的，不只是我的科学工作，还能够保留‘杨振宁’这个人到底是怎么样的形象。”——杨振宁五月的校园风和日煦、芳草未歇，刚刚度过110岁生日的清华迎来了一份厚重的礼物。5月14日，杨振宁先生捐赠清华大学暨“杨振宁资料室”揭牌仪式在图书馆北馆举行。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[机构预计三星今年向苹果iPhone供应1.1亿块OLED屏幕]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1132945.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1132945.htm"/>
+        <updated>2021-05-26T13:04:21.000Z</updated>
+        <summary type="html"><![CDATA[机构的数据显示，在下半年将推出的iPhone 13系列的推动下，今年苹果iPhone对OLED屏幕的需求，将同比增加近50%，达到1.69亿块，苹果也将取代三星，成为今年全球智能手机OLED屏幕的第一大买家。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[研究认为木卫二的洋底可能有活火山]]></title>
+        <id>https://www.cnbeta.com/articles/science/1132943.htm</id>
+        <link href="https://www.cnbeta.com/articles/science/1132943.htm"/>
+        <updated>2021-05-26T13:01:31.000Z</updated>
+        <summary type="html"><![CDATA[当涉及到寻找潜在的地外生命时，太阳系中更有趣的物体之一是木星的卫星欧罗巴（木卫二）。在表面上，木卫二看起来像一个巨大的冰冻眼球，上面布满了血管。很难想象在那冰冻的表面下会有什么活动，但科学家们认为，那冰冻的表面下的岩石层可能热到足以融化，形成海底火山。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[真实数据显示：尽管有COVID-19疫苗仍需要进行社会疏导]]></title>
+        <id>https://www.cnbeta.com/articles/science/1132941.htm</id>
+        <link href="https://www.cnbeta.com/articles/science/1132941.htm"/>
+        <updated>2021-05-26T12:58:12.000Z</updated>
+        <summary type="html"><![CDATA[来自雷克雅未克大学、里昂大学、南丹麦大学和那不勒斯联邦第二大学的科学家进行的一项研究显示，仅靠目前的疫苗接种计划对阻止美国第二波COVID-19疫情的效果有限，该研究今天（2021年5月24日）发表在自然集团杂志《科学报告》上。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[新款Apple TV 4K用户报告4K内容被错误地标记为高清内容]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1132939.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1132939.htm"/>
+        <updated>2021-05-26T12:52:23.000Z</updated>
+        <summary type="html"><![CDATA[一些新款Apple TV 4K用户报告说，一些应用程序中的电视节目和电影被列为高清，而不是预期的4K分辨率。这个问题在iTunes电影和电视节目App访问的原生苹果内容的时候出现，第三方服务如HBO Max和Netflix的视频也受到影响。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[意大利罗马的苹果Via del Corso新零售店5月27日开业]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1132937.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1132937.htm"/>
+        <updated>2021-05-26T12:49:20.000Z</updated>
+        <summary type="html"><![CDATA[苹果公司今天对外披露了Apple Via del Corso直营店的开店信息，这是它在意大利罗马的一个充满活力的中心区域的最新一个店铺。该店保留了宏伟的Palazzo Marignoli折衷主义建筑风格，以向罗马丰富的艺术和文化历史致敬，并投入资金使之成为该公司最重要的古迹修复项目之一。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[消息称欧盟数日内对Facebook展开正式的反垄断调查]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1132935.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1132935.htm"/>
+        <updated>2021-05-26T12:32:39.000Z</updated>
+        <summary type="html"><![CDATA[据报道，欧盟委员会将对Facebook展开正式的反垄断调查，评估Facebook是否破坏了在线分类广告市场的公平竞争。报道称，欧盟官员已向Facebook及其竞争对手发出调查问卷，询问Facebook是否通过向其20亿用户免费推广Marketplace服务（允许用户在Facebook上购买和销售物品），破坏了在线分类广告业务。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WhatsApp已在德里高等法院对莫迪政府提出法律诉讼]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1132933.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1132933.htm"/>
+        <updated>2021-05-26T12:25:14.000Z</updated>
+        <summary type="html"><![CDATA[印度政府被告了。据路透社26日独家报道，消息人士称，脸书旗下即时通讯软件WhatsApp已在德里高等法院对莫迪政府提出法律诉讼，以寻求阻止其此前颁布的数据传输新规生效。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[网易云音乐赴港递交招股书：月活1.81亿 在线音乐付费用户1600万]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1132931.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1132931.htm"/>
+        <updated>2021-05-26T12:21:27.000Z</updated>
+        <summary type="html"><![CDATA[网易云音乐正式向香港联交所递交招股书，迈出IPO关键一步，向“全球音乐社区第一股”冲刺。招股书首次披露网易云音乐大量核心运营数据。其中，2020年平台营收49亿元；在线音乐服务MAU（月活）1.81亿；在线音乐付费用户1600万。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[放归澳大利亚的袋獾已孕育出首批本土新生命]]></title>
         <id>https://www.cnbeta.com/articles/science/1132929.htm</id>
