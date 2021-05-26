@@ -2,10 +2,109 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://lvytwjw.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-05-26T07:35:26.769Z</updated>
+    <updated>2021-05-26T08:22:38.032Z</updated>
     <generator>osmosfeed 1.9.0</generator>
     <link rel="alternate" href="https://lvytwjw.github.io/rss/index.html"/>
     <link rel="self" href="https://lvytwjw.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Capture the Atlas公布最新年度银河摄影大赛作品]]></title>
+        <id>https://www.cnbeta.com/articles/science/1132841.htm</id>
+        <link href="https://www.cnbeta.com/articles/science/1132841.htm"/>
+        <updated>2021-05-26T08:16:01.000Z</updated>
+        <summary type="html"><![CDATA[远离城市的灯光，最好的事情之一就是将你的目光和相机投向壮丽的银河。旅行博客Capture the Atlas日前发布了最新一期的年度银河摄影师系列，其展示了我们所生活的家园星系令人难以置信的景象。
+ 阅读全文]]></summary>
+        <author>
+            <name>teikaei</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GE设计巨型浮动涡轮机 捕获深海区的风能]]></title>
+        <id>https://www.cnbeta.com/articles/science/1132839.htm</id>
+        <link href="https://www.cnbeta.com/articles/science/1132839.htm"/>
+        <updated>2021-05-26T08:09:39.000Z</updated>
+        <summary type="html"><![CDATA[2018 年，通用旗下子公司 GE 可再生能源（GE Renewable Energy）重磅推出了巨型风力涡轮机计划，展示了 12 兆瓦的巨型海上风电机组 Haliade-X。这个 853 英尺（260 米）高的庞然大物拥有三个有史以来最长的海上叶片，据称比市场上的任何其他产品多捕获约 45% 的能量。而最新消息称，该公司目前正在开发更强大的 14 兆瓦的 Haliade-X 版本。
+ 阅读全文]]></summary>
+        <author>
+            <name>study875</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“做辣条的要造车，我也不惊讶了”]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1132837.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1132837.htm"/>
+        <updated>2021-05-26T07:58:49.000Z</updated>
+        <summary type="html"><![CDATA[百度和小米之后，你永远想不到下一个造车的会是谁。5月17日，美的集团在其官方公众号发文，预告将发布新能源车相关新品，并配有一张若隐若现的汽车宣传海报。此举一下激起市场猜测：难道美的也要造车了？而在美的之前，创维已经宣布造车，周鸿祎也官宣造车，表示“雷军能做，我为什么不能做？”
+ 阅读全文]]></summary>
+        <author>
+            <name>teikaei</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RedmiBook Pro锐龙版发布：首发4299元起]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1132835.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1132835.htm"/>
+        <updated>2021-05-26T07:55:50.000Z</updated>
+        <summary type="html"><![CDATA[今年2月25日，Redmi发布了新一代的RedmiBook Pro笔记本，搭载了Intel 11代酷睿标压处理器，提供14及15.6英寸两个尺寸，首发价4499元起。两个月之后，今天RedmiBook Pro锐龙版正式发布，同样提供14及15.6英寸两个尺寸，首发4299元起。
+ 阅读全文]]></summary>
+        <author>
+            <name>teikaei</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[分析师：现在应当毫无顾忌地卖出或做空比特币]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1132833.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1132833.htm"/>
+        <updated>2021-05-26T07:54:55.000Z</updated>
+        <summary type="html"><![CDATA[马斯克的态度大转变、华尔街持续看跌、各国政府监管攻击等因素，致使比特币泡沫破灭，比特币自过去的6.5万美金峰值已经暴跌约50%。华尔街分析师称，对比特币的目标价看跌到1.5-2万美金，目前投资者应该考虑清空与比特币任何有关的头寸，或者做空比特币。
+ 阅读全文]]></summary>
+        <author>
+            <name>teikaei</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[波音今年已获得超过250架737 MAX飞机订单 杰富瑞重申“买入”评级]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1132831.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1132831.htm"/>
+        <updated>2021-05-26T07:52:04.000Z</updated>
+        <summary type="html"><![CDATA[近日，波音获得了SMBC Aviation Capital 的14 架波音737 MAX喷气式飞机订单 。 除了SMBC的订单外，波音公司已经收到了来自阿拉斯加航空、西南航空和联合大陆航空的订单。波音今年已经获得超过250架737 MAX飞机的订单。
+ 阅读全文]]></summary>
+        <author>
+            <name>teikaei</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[研究：小丑鱼白色条纹形成速度跟海葵宿主有关]]></title>
+        <id>https://www.cnbeta.com/articles/science/1132829.htm</id>
+        <link href="https://www.cnbeta.com/articles/science/1132829.htm"/>
+        <updated>2021-05-26T07:50:41.000Z</updated>
+        <summary type="html"><![CDATA[据外媒报道，《PNAS》的一项研究发现，小丑鱼身上独特的白色条纹以不同的速度形成取决于它们所宿主的海葵。研究指出：小丑鱼在变态过程中会生长出它们特有的白色条纹；白色条纹形成的速度不同，具体取决于小丑鱼所生活的海葵；
+ 阅读全文]]></summary>
+        <author>
+            <name>teikaei</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[细心推特网友发现奥林匹克官方纪录片片头使用EVA主题曲]]></title>
+        <id>https://hot.cnbeta.com/articles/movie/1132827.htm</id>
+        <link href="https://hot.cnbeta.com/articles/movie/1132827.htm"/>
+        <updated>2021-05-26T07:48:03.000Z</updated>
+        <summary type="html"><![CDATA[近日一位细心的Twitter网友发现，奥林匹克一部讲述捷克曲棍球历史的官方纪录片《The Nagano Tapes》片头，竟使用了著名日本动画《新世纪福音战士（EVA）》的经典主题曲 ——《残酷天使的行动纲领纲领》。该纪录片主要讲述的是捷克在1948年动荡时期，曲棍球成为了国家的代表运动，并最终在1998年第一届有着NHL专业球员参赛的冬季奥运会上拿下金牌的激动人心的故事。
+ 阅读全文]]></summary>
+        <author>
+            <name>raymon725</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fedora Cloud 35发行版本将默认使用Btrfs文件系统]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1132825.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1132825.htm"/>
+        <updated>2021-05-26T07:47:09.000Z</updated>
+        <summary type="html"><![CDATA[自 Fedora 33 以来，Fedora Workstation 一直默认为 Btrfs 文件系统，而 Fedora 的其他版本则默认采用 EXT4 文件系统。不过在即将到来的 Fedora Cloud 35 中，这个云端的分支发行版本也将迁移到 Btrfs 文件系统。
+ 阅读全文]]></summary>
+        <author>
+            <name>study875</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[从一车难求到低调离场 公共自行车怎么了]]></title>
         <id>https://www.cnbeta.com/articles/tech/1132823.htm</id>
