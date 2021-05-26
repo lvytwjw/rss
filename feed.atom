@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://lvytwjw.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-05-26T14:24:28.837Z</updated>
+    <updated>2021-05-26T15:11:32.392Z</updated>
     <generator>osmosfeed 1.9.0</generator>
     <link rel="alternate" href="https://lvytwjw.github.io/rss/index.html"/>
     <link rel="self" href="https://lvytwjw.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[俄罗斯要求Facebook和Twitter在7月1日前在其境内存储用户数据]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1132971.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1132971.htm"/>
+        <updated>2021-05-26T14:33:49.000Z</updated>
+        <summary type="html"><![CDATA[昨天，我们报道了俄罗斯对Google的最后通牒，政府威胁Google删除被俄罗斯互联网委员会Roskomnadzor认为是非法的材料，这最终可能导致罚款或中止其服务，就像今年早些时候对Twitter所做的那样。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[研究认为星体的形成是由太空中的气体云的碰撞引发的]]></title>
         <id>https://www.cnbeta.com/articles/science/1132969.htm</id>

@@ -813,6 +813,15 @@
       "siteUrl": "https://www.cnbeta.com",
       "articles": [
         {
+          "id": "https://www.cnbeta.com/articles/tech/1132971.htm",
+          "author": "ugmbbc",
+          "description": "昨天，我们报道了俄罗斯对Google的最后通牒，政府威胁Google删除被俄罗斯互联网委员会Roskomnadzor认为是非法的材料，这最终可能导致罚款或中止其服务，就像今年早些时候对Twitter所做的那样。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1132971.htm",
+          "publishedOn": "2021-05-26T14:33:49.000Z",
+          "wordCount": 202,
+          "title": "俄罗斯要求Facebook和Twitter在7月1日前在其境内存储用户数据"
+        },
+        {
           "id": "https://www.cnbeta.com/articles/science/1132969.htm",
           "author": "ugmbbc",
           "description": "日本研究人员发现，盘旋在太空中的气体云的碰撞带来了星团的诞生。恒星是由太空中的气体云的引力收缩形成的，可以有各种质量。大质量的恒星与许多其他的恒星一起，可能会形成一个巨大的星团（通常是由超过10000颗恒星组成的团体）。\n 阅读全文",
