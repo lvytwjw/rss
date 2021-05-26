@@ -2,10 +2,109 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://lvytwjw.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-05-26T11:19:08.541Z</updated>
+    <updated>2021-05-26T12:15:24.291Z</updated>
     <generator>osmosfeed 1.9.0</generator>
     <link rel="alternate" href="https://lvytwjw.github.io/rss/index.html"/>
     <link rel="self" href="https://lvytwjw.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[放归澳大利亚的袋獾已孕育出首批本土新生命]]></title>
+        <id>https://www.cnbeta.com/articles/science/1132929.htm</id>
+        <link href="https://www.cnbeta.com/articles/science/1132929.htm"/>
+        <updated>2021-05-26T12:06:21.000Z</updated>
+        <summary type="html"><![CDATA[去年 9 月，漫威“雷神”扮演者 Chris Hemsworth 与妻子 Elsa Pataky 协助野生动物保护组织 Aussie Ark（澳大利亚方舟），将 11 只旨在改善当地生态的袋獾（Tasmanian devil）投放到了位于新南威尔士州的巴灵顿山顶国家公园。时隔 3000 年后，该物种终于在悉尼以北约 300 公里（124 英里）的 1000 英亩（404.6 公顷）保护区内重新迎来了“本土繁衍”的机会。
+ 阅读全文]]></summary>
+        <author>
+            <name>raymon725</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[全国已发现660多种外来入侵物种：最危险之一是红火蚁]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1132927.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1132927.htm"/>
+        <updated>2021-05-26T11:44:10.000Z</updated>
+        <summary type="html"><![CDATA[5月26日，生态环境部召开了一场新闻发布会，其中介绍了中国存在的动植物情况。数据显示，目前中国已知物种及种下单元数122280种。其中，动物界54359种，植物界37793种，细菌界463种，色素界1970种，真菌界12506种，原生动物界2485种，病毒655种。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[谷歌披露新型Rowhammer攻击 可突破访问多行内存地址上的内容]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1132925.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1132925.htm"/>
+        <updated>2021-05-26T11:43:03.000Z</updated>
+        <summary type="html"><![CDATA[早在 2014 年，就有许多研究人员讨论过影响当时主流的 DDR3 内存的 Rowhammer 漏洞。2015 年的时候，谷歌发布了一个可利用该漏洞的利用程序。可知通过对一个内存地址的多次访问请求，将使得攻击者能够篡改其它内存地址中存储的内容。更糟糕的是，由于该漏洞源于硅芯片中的电耦合现象，所以相关漏洞攻击将能够绕过基于软件和硬件层面的防护。
+ 阅读全文]]></summary>
+        <author>
+            <name>raymon725</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Intel守住半导体一哥宝座：AMD名次突进7位进入TOP15]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1132923.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1132923.htm"/>
+        <updated>2021-05-26T11:42:53.000Z</updated>
+        <summary type="html"><![CDATA[统计机构IC Insights发布了2021年一季度全球半导体企业的最新座次表，此次依据的是销售收入。可以看到，前五名的座次和去年一季度相比，并未发生变化，依次是Intel、三星、台积电、SK海力士和美光。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[华为：首台HI版极狐阿尔法S生产线验证样车下线]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1132921.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1132921.htm"/>
+        <updated>2021-05-26T11:35:33.000Z</updated>
+        <summary type="html"><![CDATA[5月26日，华为智能汽车解决方案公众号宣布，ARCFOX极狐与华为合作打造的高阶自动驾驶量产车—ARCFOX极狐阿尔法S · HI(Huawei Inside)版产线验证车在北汽蓝谷麦格纳镇江工厂正式下线。战略合作伙伴华为、宁德时代、麦格纳在场共同见证。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[滴滴孙枢：推动司机账单透明化 杜绝极端抽成]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1132919.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1132919.htm"/>
+        <updated>2021-05-26T11:33:29.000Z</updated>
+        <summary type="html"><![CDATA[滴滴网约车CEO孙枢今日发布写给司机师傅的一封信。他表示，将继续推动司机账单的透明化。孙枢表示，未来在账单上给师傅们汇报每一单的收入和占比，以及滴滴到底拿到多少。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[日媒：东京电力公司拟转移3万吨核污染水 为排放入海做准备]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1132917.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1132917.htm"/>
+        <updated>2021-05-26T11:24:12.000Z</updated>
+        <summary type="html"><![CDATA[据共同社消息，该社当地时间26日采访相关人士获悉，东京电力公司考虑把福岛第一核电站储水罐内约137万吨的核污染水中的大约3万吨转移出来，以检测其中的放射性物质含量，为核污染水排放入海做准备。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[拼多多第一季度营收221.67亿元 同比增长239%]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1132915.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1132915.htm"/>
+        <updated>2021-05-26T11:20:02.000Z</updated>
+        <summary type="html"><![CDATA[拼多多（Nasdaq:PDD）今日发布了截至3月31日的2021年第一季度财报，总营收为人民币221.671亿元（约33.834亿美元），与上年同期的人民币65.411亿元相比增长239%。归属于拼多多普通股股东的净亏损为人民币29.054亿元（约合4.435亿美元），而上年同期净亏损人民币41.193亿元。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[高管透露英特尔7nm Meteor Lake处理器研发工作已抵达重要里程碑]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1132913.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1132913.htm"/>
+        <updated>2021-05-26T11:18:29.000Z</updated>
+        <summary type="html"><![CDATA[由英特尔执行副总裁兼客户计算部门总经理 Gregory M Bryant 在 Twitter 上分享的消息可知，该公司已经在 7nm Meteor Lake CPU 和计算块（Compute Tile）的开发上达到了关键的里程碑。据悉，7nm Meteor Lake 将接替 10nm 的 Alder Lake 和 Raptor Lake，并且为新一代酷睿处理器引入一项重大的设计变更。
+ 阅读全文]]></summary>
+        <author>
+            <name>raymon725</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Microsoft Teams即将迎来PowerPoint Live“虚拟激光笔”功能]]></title>
         <id>https://www.cnbeta.com/articles/tech/1132911.htm</id>
