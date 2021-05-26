@@ -2,10 +2,236 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://lvytwjw.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-05-26T05:40:51.369Z</updated>
-    <generator>osmosfeed 1.8.1</generator>
+    <updated>2021-05-26T06:28:43.673Z</updated>
+    <generator>osmosfeed 1.9.0</generator>
     <link rel="alternate" href="https://lvytwjw.github.io/rss/index.html"/>
     <link rel="self" href="https://lvytwjw.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[研究：在Rio Grande Rise中发现的微生物或许是金属形成的一大源头]]></title>
+        <id>https://www.cnbeta.com/articles/science/1132787.htm</id>
+        <link href="https://www.cnbeta.com/articles/science/1132787.htm"/>
+        <updated>2021-05-26T06:26:35.000Z</updated>
+        <summary type="html"><![CDATA[据外媒报道，Rio Grande Rise位于大西洋深处，距离巴西海岸约1500公里，其丰富的生物和矿物多样性可能在很大程度上是由于鲜为人知的微生物。来自圣保罗大学的海洋研究所(IO-USP)的研究人员通过跟英国国家海洋学中心的同事合作调查了生活在海底山锰铁壳上的微生物，他们得出的结论是，细菌和古细菌除了参与形成地壳中金属的生物矿化过程之外还可能对维持丰富的当地生命负有责任。
+ 阅读全文]]></summary>
+        <author>
+            <name>teikaei</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AMD霄龙Milan-X处理器或采用X3D封装与Zen 3小芯片堆栈]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1132785.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1132785.htm"/>
+        <updated>2021-05-26T06:24:05.000Z</updated>
+        <summary type="html"><![CDATA[有消息称，AMD 将在第三代霄龙（EPYC）Milan CPU 堆栈中使用全新的 X3D MCM 方案，这点与该公司此前的做法大不相同。作为向下一代封装技术演进的下一步，新款处理器或被称作 Milan-X 。早些时候，有传闻称 AMD 正在酝酿基于 Zen 3 的 EPYC Refresh 处理器，但目前所知甚少。
+ 阅读全文]]></summary>
+        <author>
+            <name>raymon725</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[员工拒绝钉钉打卡遭开除后索赔 公司被判支付员工 4 万元]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1132781.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1132781.htm"/>
+        <updated>2021-05-26T06:12:17.000Z</updated>
+        <summary type="html"><![CDATA[5 月 26 日消息，据媒体报道，上海一家公司因员工拒绝钉钉打卡开除了这名员工，随后被员工申诉至法院要求索赔。据悉，任某原先任职于上海合科科技有限公司 ，2019 年 7 月 19 日，合科公司规定销售人员使用钉钉考勤打卡。无故未打卡也未向上级领导报备，且未办理相关请假手续的按旷工一天处理。
+ 阅读全文]]></summary>
+        <author>
+            <name>study875</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[分析称大型机构投资人可能在从比特币转向黄金]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1132775.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1132775.htm"/>
+        <updated>2021-05-26T06:03:48.000Z</updated>
+        <summary type="html"><![CDATA[半个月前，特斯拉首席执行官埃隆·马斯克在推特上宣布，将暂停使用比特币购买汽车。随后投资者从比特币投资产品中撤资9800万美元，这是有记录以来最高的一次。据美国《福布斯》双周刊网站5月25日报道，上周出现了戏剧性的跌价抛售。截至19日，比特币已从4月中旬约6.4万美元的历史最高点下跌40%以上。市场份额跌至40%，为3年来最低。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[石墨烯增强的混凝土首次在现实世界中完成部署]]></title>
+        <id>https://www.cnbeta.com/articles/science/1132773.htm</id>
+        <link href="https://www.cnbeta.com/articles/science/1132773.htm"/>
+        <updated>2021-05-26T06:03:05.000Z</updated>
+        <summary type="html"><![CDATA[作为全球使用最为广泛的建筑材料，混凝土存在非常大的碳足迹，而科学家们正在努力以各种方式消除它。相关的研究表明神奇材料--石墨烯能够在这方面发挥作用。而这项技术首次成功在现实世界中部署，工程团队使用增强版“混凝土”来给新体育馆打造地基。
+ 阅读全文]]></summary>
+        <author>
+            <name>study875</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[v1.9.0]]></title>
+        <id>https://github.com/osmoscraft/osmosfeed/releases/tag/v1.9.0</id>
+        <link href="https://github.com/osmoscraft/osmosfeed/releases/tag/v1.9.0"/>
+        <updated>2021-05-26T06:02:55.000Z</updated>
+        <summary type="html"><![CDATA[Added: experimental support for iTunes podcast feed: Demo | Source. With this new release, you can render an audio control to play the mp3 file and display iTunes episode duration. It is "experimental" due to these caveats:
+
+This feature is currently only available through custom template.
+iTunes has no strict format requirement for duration. The unit is most likely seconds but can be "hh:mm:ss" or "mm:ss" for some sources. A future version may expose a human readable string to the template.
+No image support yet. Some shows might have disabled CORS or use a relative URL for image, which forces osmosfeed to download the image during build. A future version may support it.
+You can't republish the podcast in the feed output. Supporting this goes beyond the scope of the project at the moment.
+Fixed: the articles in template data were not sorted.
+Thank you @Zenigata]]></summary>
+        <author>
+            <name>Release notes from osmosfeed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[打击虚拟货币“挖矿”从内蒙古开始，大型矿场可能关停]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1132771.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1132771.htm"/>
+        <updated>2021-05-26T05:58:04.000Z</updated>
+        <summary type="html"><![CDATA[中国监管层对于加密货币以及“挖矿”的监管措施不断升级。5月26日，内蒙古自治区出台打击惩戒虚拟货币“挖矿”行为八项措施。八项措施中提到，对通讯企业、互联网企业等主体存在虚拟货币“挖矿”行为的，依据《中华人民共和国电信条例》相关规定，由主管部门依法吊销增值电信业务许可证，严肃追究责任。
+ 阅读全文]]></summary>
+        <author>
+            <name>teikaei</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[史艾发布22年前游戏《古墓丽影4》真人宣传片 或有新动向]]></title>
+        <id>https://hot.cnbeta.com/articles/game/1132769.htm</id>
+        <link href="https://hot.cnbeta.com/articles/game/1132769.htm"/>
+        <updated>2021-05-26T05:53:47.000Z</updated>
+        <summary type="html"><![CDATA[5月26日今天，史艾与Crystal Dynamics联合发布了最新宣传片，来自22年前的经典游戏《古墓丽影4：最后的启示》的真人版，令玩家们浮想联翩，猜测或许很快就有新作动向。
+ 阅读全文]]></summary>
+        <author>
+            <name>vivian</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[全球半导体 15 强，华为海思被迫出局]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1132767.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1132767.htm"/>
+        <updated>2021-05-26T05:48:47.000Z</updated>
+        <summary type="html"><![CDATA[昨日，知名分析机构 ICinsights 发布了全球前 15 大半导体公司在 2021 年第一季度的表现状况。根据报告，全球排名前 15 的半导体 （IC 和 OSD 光电，传感器和分立器件）厂商在一季度营收同比实现了 21% 的增长。如果按地区划分，美国依然是全球最强，有八家总部位于当地的厂商入围这个榜单。除此之外，韩国，中国台湾和欧洲都分别有两家入榜。
+ 阅读全文]]></summary>
+        <author>
+            <name>study875</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[湖南发现全球新物种]]></title>
+        <id>https://www.cnbeta.com/articles/science/1132765.htm</id>
+        <link href="https://www.cnbeta.com/articles/science/1132765.htm"/>
+        <updated>2021-05-26T05:48:46.000Z</updated>
+        <summary type="html"><![CDATA[据湖南省政府网站消息，5月23日，湖南南山国家公园管理局对外发布消息，在辖区发现全球新物种直颚突蛉蛾(Neopseustis rectagnatha Liao, Chen & Huang)。至此，世界蛉蛾科蛉蛾属的记录物种由7种升至8种。
+ 阅读全文]]></summary>
+        <author>
+            <name>teikaei</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[《民航行业塑料污染治理工作计划（2021-2025年）》正式印发]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1132763.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1132763.htm"/>
+        <updated>2021-05-26T05:48:01.000Z</updated>
+        <summary type="html"><![CDATA[为坚决贯彻落实党中央、国务院关于加强塑料污染治理的重大决策部署，根据《关于进一步加强塑料污染治理的意见》有关要求，近日，民航局印发实施《民航行业塑料污染治理工作计划（2021-2025年）》（以下简称《工作计划》），对当前及今后一段时期加强行业塑料污染治理提出了阶段性目标，并作出具体工作安排，深入推进民航业绿色发展。
+ 阅读全文]]></summary>
+        <author>
+            <name>teikaei</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[中国卫星导航系统管理办公室：“十四五”北斗产业达万亿规模]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1132761.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1132761.htm"/>
+        <updated>2021-05-26T05:47:44.000Z</updated>
+        <summary type="html"><![CDATA[5 月 26 日，第十二届中国卫星导航年会在江西南昌开幕。中国卫星导航系统管理办公室副主任杨军表示，“十四五”时期将抓住北斗产业生态的构建，抓住北斗系统技术产品的研发、推广、应用和产业。预计到“十四五”末期，北斗产业发展将达到万亿元规模。“我们的目标是北斗产业迈向更加宽泛、水平更高、层次更高、规模更大的新阶段。”
+ 阅读全文]]></summary>
+        <author>
+            <name>study875</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[媒体评论：论文查重的锅，别让翟天临一个人背]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1132759.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1132759.htm"/>
+        <updated>2021-05-26T05:46:36.000Z</updated>
+        <summary type="html"><![CDATA[我们常常提到“商业伦理” ，而有些生意本身，就是对伦理的背离，比如论文查重的这股虚火。教育链条无小事，对于任何一位高校学子来说，论文查重的重要性与必要性不言而喻。其涉及人员之广、意义之关键，决定了它不同于其他服务的性质。论文查重本身带有极强的公共服务属性，理应具备人性化、规范、合理的标准。可如今，论文查重不仅很贵，而且很乱。
+ 阅读全文]]></summary>
+        <author>
+            <name>study875</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[印度为10万人建疫苗中心：遗憾无人接种]]></title>
+        <id>https://www.cnbeta.com/articles/science/1132757.htm</id>
+        <link href="https://www.cnbeta.com/articles/science/1132757.htm"/>
+        <updated>2021-05-26T05:45:57.000Z</updated>
+        <summary type="html"><![CDATA[5月26日消息，据媒体报道，在印度西部城镇帕尔加尔，一座为当地10万村民建立的疫苗接种中心，没有一个人来打疫苗。关于疫苗的谣言在印度农村地区散布，许多人认为不打疫苗反而更安全。有村民告诉记者：打了疫苗会手脚发痒，身体疼痛，还是不打比较好。还有村民说：许多人害怕打疫苗，他们觉得打了可能会死。
+ 阅读全文]]></summary>
+        <author>
+            <name>teikaei</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[传AM5换用LGA 1718插槽：Zen 4 Raphael台式CPU功耗可达170W]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1132755.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1132755.htm"/>
+        <updated>2021-05-26T05:45:46.000Z</updated>
+        <summary type="html"><![CDATA[ExecutableFix 刚刚在 Twitter 上分享了 AMD 下一代 Zen 4“Raphael”锐龙台式 CPU 的首个针脚渲染图，可知这家“良心企业”终于要换掉沿用多年的 AM4 接口，并换用基于 LGA 1718 触点的 AM5 插槽。与英特尔下一代 Alder Lake CPU 所采用的 LGA 1700 插槽相比，AM5 的触点还多了 18 个。
+ 阅读全文]]></summary>
+        <author>
+            <name>raymon725</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[人类登陆火星有多难？马斯克剑指2026年靠谱吗？]]></title>
+        <id>https://www.cnbeta.com/articles/science/1132753.htm</id>
+        <link href="https://www.cnbeta.com/articles/science/1132753.htm"/>
+        <updated>2021-05-26T05:43:45.000Z</updated>
+        <summary type="html"><![CDATA[在美国“毅力号”和中国“祝融号”火星车先后登陆火星后，火星探索又迎来一波热潮。然而，目前的火星探索仍停留在探测器时代，人类什么时候才能抵达火星呢？亿万富翁埃隆·马斯克(Elon Musk)的目标是最快在2026年将人类送往火星。彭博社发文称，这可能是迄今为止最危险的人类探索行动，可谓九死一生。
+ 阅读全文]]></summary>
+        <author>
+            <name>vivian</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[特斯拉为什么要在中国建立数据中心？]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1132751.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1132751.htm"/>
+        <updated>2021-05-26T05:43:31.000Z</updated>
+        <summary type="html"><![CDATA[刹车失灵的风波还未结束，特斯拉已经开始有所动作。5 月 25 日，特斯拉官方在社交媒体上发布公告称，公司已经在中国建立数据中心，以实现数据存储本地化，并将陆续增加更多本地数据中心。所有在中国大陆市场销售车辆所产生的数据，都将存储在境内。
+ 阅读全文]]></summary>
+        <author>
+            <name>teikaei</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[特斯拉Cybertruck预订量突破100万辆]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1132749.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1132749.htm"/>
+        <updated>2021-05-26T05:42:23.000Z</updated>
+        <summary type="html"><![CDATA[据外媒报道，最新的统计显示，特斯拉Cybertruck的预订量已经超过了100万辆。自发布以来，这款电动皮卡一直受到外界关注。2019年11月，特斯拉发布了Cybertruck，该公司在发布会结束后开始接受预订，并要求客户支付100美元的可退还订金。
+ 阅读全文]]></summary>
+        <author>
+            <name>teikaei</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[数据机构：全球智能市场第一季度出货收入创历史新高]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1132747.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1132747.htm"/>
+        <updated>2021-05-26T05:42:12.000Z</updated>
+        <summary type="html"><![CDATA[5月26日上午消息，市场研究机构Counterpoint近日公布2021年第一季度全球手机市场相关数据：全球智能手机出货收入首次突破1000亿美元大关，达到1130亿美元。在OPPO，vivo，小米和苹果的带动下，全球出货量同比增长20%，达到3.54亿台。
+ 阅读全文]]></summary>
+        <author>
+            <name>vivian</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[征信报告现侮辱性字眼 央行太原中心支行再约谈晋商消金]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1132745.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1132745.htm"/>
+        <updated>2021-05-26T05:41:41.000Z</updated>
+        <summary type="html"><![CDATA[据央行网站消息，针对晋商消费金融股份有限公司(以下简称“晋商消费金融公司”)“个人征信报告出现侮辱性字眼”问题，人民银行太原中心支行于4月8日约谈了晋商消费金融公司，5月25日，再次约谈晋商消费金融公司。有关情况如下：
+ 阅读全文]]></summary>
+        <author>
+            <name>teikaei</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[一名失明40年的男子通过基因治疗恢复部分视力]]></title>
         <id>https://www.cnbeta.com/articles/science/1132743.htm</id>
