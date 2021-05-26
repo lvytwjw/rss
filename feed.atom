@@ -2,10 +2,384 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://lvytwjw.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-05-25T23:12:16.314Z</updated>
+    <updated>2021-05-26T00:35:36.218Z</updated>
     <generator>osmosfeed 1.8.1</generator>
     <link rel="alternate" href="https://lvytwjw.github.io/rss/index.html"/>
     <link rel="self" href="https://lvytwjw.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[研究人员首次报告年轻成年人接种新冠疫苗后出现血栓导致中风的病例]]></title>
+        <id>https://www.cnbeta.com/articles/science/1132591.htm</id>
+        <link href="https://www.cnbeta.com/articles/science/1132591.htm"/>
+        <updated>2021-05-26T00:32:53.000Z</updated>
+        <summary type="html"><![CDATA[据外媒报道，动脉中的血块（动脉血栓）是导致中风（缺血性中风）最常见的原因之一，在《神经病学神经外科与精神病学杂志》在线发表的英国中风专家的一封信中，首次详细报告了接受牛津-阿斯利康COVID-19疫苗的年轻成年人的情况。
+ 阅读全文]]></summary>
+        <author>
+            <name>vivian</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[三星Wacom再次合作：为Galaxy Book Pro 360带来新款S Pen]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1132589.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1132589.htm"/>
+        <updated>2021-05-26T00:27:45.000Z</updated>
+        <summary type="html"><![CDATA[三星是全球最大的智能手机制造商，而 Wacom 则以数位平板而享誉业内。三星和 Wacom 的合作距今已超过 10 年了，他们共同合作推出了初代 S Pen 和 Galaxy Note。现在双方合作再次推出了适用于 Galaxy Book Pro 360 的 S Pen ，为这款二合一设备引入了 S Pen 手写支持。
+ 阅读全文]]></summary>
+        <author>
+            <name>study875</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[梅赛德斯新方式让消费者更容易购买到心仪的2022款C级轿车]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1132587.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1132587.htm"/>
+        <updated>2021-05-26T00:25:34.000Z</updated>
+        <summary type="html"><![CDATA[据外媒报道，梅赛德斯正在试图让购买一辆新2022款C级轿车变得更容易一些，它将即将推出的这款豪华轿车分成三个装饰线以简化消费者的决策过程。据悉，新C级轿车将于2022年上半年前往美国，它将有三个主要装饰选择： Premium、Exclusive和Pinnacle。
+ 阅读全文]]></summary>
+        <author>
+            <name>teikaei</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[微软CEO纳德拉：Windows即将迎来重大更新]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1132585.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1132585.htm"/>
+        <updated>2021-05-26T00:16:45.000Z</updated>
+        <summary type="html"><![CDATA[5 月 26 日消息，美国当地时间周二，微软拉开了 2021 年 Build 开发者大会的序幕，发布了 100 多项新服务和重要更新。该公司首席执行官萨蒂亚·纳德拉(Satya Nadella) 表示，其Windows操作系统将迎来重大更新，对开发者来说变得更好。
+ 阅读全文]]></summary>
+        <author>
+            <name>study875</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[图]2021Q1全球手机行业利润突破1亿美元 苹果占据42%]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1132583.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1132583.htm"/>
+        <updated>2021-05-26T00:15:10.000Z</updated>
+        <summary type="html"><![CDATA[有迹象标明全球经济正从新冠疫情的阴影中走出来开始复苏，其中一个迹象就是智能手机行业。根据市场调查机构 Counterpoint Research 公布的最新报告，全球智能手机行业在今年第 1 季度的利润突破了 1 亿美元。
+ 阅读全文]]></summary>
+        <author>
+            <name>study875</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美政府将在Colonial遭黑客攻击后发布针对燃料管道公司的网络安全法规]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1132581.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1132581.htm"/>
+        <updated>2021-05-26T00:13:24.000Z</updated>
+        <summary type="html"><![CDATA[据外媒报道，美国主要燃油、燃气管道运营商Colonial Pipeline此前遭到黑客攻击--这使东海岸的石油供应中断了近两周--这既是灾难性的，也是可以预防的。然而，美国国土安全部（DHS）的一个部门希望通过改变 Colonial公司和管道行业其他公司的网络安全和信息披露规则来纠正这一问题。
+ 阅读全文]]></summary>
+        <author>
+            <name>vivian</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[日本放弃利用手机软件追踪奥运参会者的计划]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1132579.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1132579.htm"/>
+        <updated>2021-05-26T00:12:30.000Z</updated>
+        <summary type="html"><![CDATA[日本奥运大臣丸川珠代25日表示，由于软件开发问题和出于保护隐私的考虑，日本政府将放弃利用手机软件追踪奥运参会者的计划。按照原计划，出于防疫考虑，所有进入日本参与奥运会的人，不管是代表团成员、记者还是官员，都需要下载一个追踪软件，以确保所有海外入境者都不与日本公众接触。
+ 阅读全文]]></summary>
+        <author>
+            <name>teikaei</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[主审法官质疑苹果和Epic，裁决或导致两败俱伤]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1132577.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1132577.htm"/>
+        <updated>2021-05-26T00:11:01.000Z</updated>
+        <summary type="html"><![CDATA[5月26日消息，游戏开发商Epic Games诉苹果垄断案为期三周的庭审已经结束，现在就等主审法官作出裁决。如果法官的裁决包含了她在庭审时所表达的担忧，那么苹果和Epic Games可能都无法从这场官司中得到他们想要的东西，甚至会两败俱伤。
+ 阅读全文]]></summary>
+        <author>
+            <name>teikaei</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[时速1000公里磁悬浮高速飞车试验线开建]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1132575.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1132575.htm"/>
+        <updated>2021-05-26T00:07:29.000Z</updated>
+        <summary type="html"><![CDATA[5月24日上午，山西省重点工程项目高速飞车山西省实验室挂牌暨大同（阳高）试验线工程奠基仪式成功举行。超高速低真空管道磁浮交通系统（高速飞车）项目，是山西省委以“四个面向”为引领，加强科技创新，发力抢占轨道交通科技前沿的重大决策部署。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Intel CEO表态2024年技术追平友商 服务器CPU面临激烈竞争]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1132573.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1132573.htm"/>
+        <updated>2021-05-26T00:04:54.000Z</updated>
+        <summary type="html"><![CDATA[在AMD选择了台积电的7nm代工之后，Intel在CPU工艺上已经落后了，特别是服务器市场上AMD的霄龙处理器做到了64核128线程，Intel的至强当前还停留在28核56线程上。但是Intel已经表态要跟友商开展激烈竞争了，工艺上的差距很快会追上。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[iOS 15可能会加入一个全新的健康功能：食物跟踪]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1132571.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1132571.htm"/>
+        <updated>2021-05-26T00:02:28.000Z</updated>
+        <summary type="html"><![CDATA[据外媒报道，我们离iOS 15的发布只有几周时间了，但令人惊讶的是，我们几乎没有听到关于新更新的任何期待。当iOS新版本发布时，有时会出现重大软件泄露事件，但今年却没有发生这种情况。一个未经证实的消息来源本周向Connor Jewiss透露了一些可能的新功能，这些可能是大家可以从‌iOS 15‌期待得到的功能。
+ 阅读全文]]></summary>
+        <author>
+            <name>teikaei</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[拜登政府通过海上风能开发为加州海岸提供新的就业机会和清洁能源]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1132569.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1132569.htm"/>
+        <updated>2021-05-25T23:58:14.000Z</updated>
+        <summary type="html"><![CDATA[据外媒The Verge报道，拜登政府周二宣布，它将首次为商业规模的海上可再生能源开发开放太平洋沿岸的部分地区。西海岸的地理环境给风能带来了巨大的技术挑战。但是，为迎接这些挑战，美国总统乔·拜登和加州州长加文·纽森都有很大的机会来实现他们的清洁能源目标。
+ 阅读全文]]></summary>
+        <author>
+            <name>vivian</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TagVault: Pet：一款专为狗狗打造的AirTag防水保护壳]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1132567.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1132567.htm"/>
+        <updated>2021-05-25T23:54:31.000Z</updated>
+        <summary type="html"><![CDATA[据外媒报道，ElevationLab推出了一款名为TagVault: Pet的AirTag防水保护壳，它可以连接到狗狗的项圈或背带上，用来追踪宠物。ElevationLab称，这种项圈适用于大多数项圈厚度，并适用体重超10磅的狗或猫。
+ 阅读全文]]></summary>
+        <author>
+            <name>teikaei</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CDC数据显示：50%的美国成年人已经“完全接种”COVID-19疫苗]]></title>
+        <id>https://www.cnbeta.com/articles/science/1132565.htm</id>
+        <link href="https://www.cnbeta.com/articles/science/1132565.htm"/>
+        <updated>2021-05-25T23:44:07.000Z</updated>
+        <summary type="html"><![CDATA[据外媒CNET报道，根据美国疾病控制与预防中心（CDC）公布的数据，截至5月25日，美国18岁以上的人中有50%已经“完全接种”了COVID-19疫苗。CDC的数据还显示，近62%的成年人至少接种了一剂疫苗。CNN报道称，美国25个州及华盛顿特区，已经有50%的成年人完全接种了疫苗。
+ 阅读全文]]></summary>
+        <author>
+            <name>vivian</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[疫情加速蔓延致越南多个工业园关闭 供应链和生产链受阻严重]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1132563.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1132563.htm"/>
+        <updated>2021-05-25T23:42:30.000Z</updated>
+        <summary type="html"><![CDATA[在凶猛的新一波新冠肺炎疫情的冲击下，越南也失守了。近一周以来，越南每天新冠肺炎确诊人数都在150人上下，仅从数值判断，似乎疫情仍属在可控范围，但对于越南来说，这一数字的意义却很不一样。这是2020年新冠肺炎疫情在全球暴发以来，越南首次大规模暴发疫情。目前疫情仍在越南北部地区加速蔓延。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[北京海淀多社区安装“智能阻车系统” 对电动车进电梯说不]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1132561.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1132561.htm"/>
+        <updated>2021-05-25T23:39:08.000Z</updated>
+        <summary type="html"><![CDATA[记者从海淀区获悉，北太平庄街道在多个社区试点安装“智能阻车系统”，利用安装在电梯内的高清摄像头，一旦识别到电动自行车进入电梯内部，系统会发出语音警告，控制电梯无法关门、停止运行，通过这种方式将电动自行车“拒之门外”。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[人造肉为何遭网友泼冷水？业内人士：营养口感需要精进]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1132559.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1132559.htm"/>
+        <updated>2021-05-25T23:37:29.000Z</updated>
+        <summary type="html"><![CDATA[近日，人造肉话题在社交平台备受关注。某艺人因代言人造肉被推上风口浪尖，诸多推出人造肉的餐饮品牌齐刷刷遭到网友“数落”。从网红、“黑科技”到被泼冷水，人造肉怎么突然不受待见了？“人造肉”，包括植物肉、细胞肉等一系列蛋白质来源，用于替代传统的肉类蛋白。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“集赞”拉人头“帮砍”有风险 小心“假促销”的消费陷阱]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1132557.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1132557.htm"/>
+        <updated>2021-05-25T23:36:35.000Z</updated>
+        <summary type="html"><![CDATA[“在吗？帮我砍一刀”“分享好友即可提现”“转发朋友圈集赞就能得到礼品”……部分商家为扩大宣传效果，推出集赞、砍价、返现等营销手段。由于各平台砍价规则和营销模式的差异，消费者体验良莠不齐，假促销引发消费纠纷的现象时有发生。专家表示，做好消费维权工作，坚决保障消费者权益，方能真正培育新的消费点、提升人们消费意愿。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[价格贵就一定好？测一测30款手持挂烫机哪家强]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1132555.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1132555.htm"/>
+        <updated>2021-05-25T23:34:40.000Z</updated>
+        <summary type="html"><![CDATA[夏季来临，从柜子里拿出来的衬衫、连衣裙总是皱巴巴的，为整体造型减分不少，真是买再多的衣服，都比不上一台便携、见效快的“除皱神器”——手持挂烫机。但目前市场上手持式挂烫机品牌众多、价格差异大。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[《赛博朋克2077》仍需索尼批准才能重返PlayStation商店]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1132553.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1132553.htm"/>
+        <updated>2021-05-25T23:33:37.000Z</updated>
+        <summary type="html"><![CDATA[很难相信，自从索尼史无前例地将《赛博朋克2077》从PlayStation Store下架以来，已经过去5个多月了。这确实有些不可思议，因为在所有的游戏中——尤其是3A级游戏，从来没有因为有bug而被下架——CDPR在多次补丁和修复后现在仍然没能让游戏回到PS Store。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[特斯拉宣布北美畅销车型停用雷达传感器 采用纯视觉系统]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1132551.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1132551.htm"/>
+        <updated>2021-05-25T23:31:46.000Z</updated>
+        <summary type="html"><![CDATA[特斯拉周二宣布，其北美市场畅销车型的 Autopilot 等驾驶辅助功能将停止使用雷达传感器。在一篇题为《向特斯拉视觉过渡 》（transition to Tesla Vision） 的博客文章中，该公司表示，从本月开始，为美国和加拿大客户生产的畅销车型 Model 3 和 Model Y 将采用基于摄像头的系统，以实现交通调整巡航控制或自动车道保持等 Autopilot 的功能。
+ 阅读全文]]></summary>
+        <author>
+            <name>study875</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[直播电商流量造假调查：你看到的百万人气主播 可能是买来的]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1132549.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1132549.htm"/>
+        <updated>2021-05-25T23:30:36.000Z</updated>
+        <summary type="html"><![CDATA[“6·18年中购物节”已经拉开序幕，仅5月24日开启预售第一天，各平台头部主播们的销售额已经超过50亿元。随着直播电商行业的发展，强者愈强的“马太效应”愈发凸显，少数的头部主播占据了绝大多数的市场份额。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[大众拒绝财团以75亿欧元收购兰博基尼的提议]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1132547.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1132547.htm"/>
+        <updated>2021-05-25T23:28:55.000Z</updated>
+        <summary type="html"><![CDATA[大众集团周二重申，计划保留兰博基尼（Lamborghini）的所有权，实际上拒绝了此前一个财团对该品牌提出的75亿欧元（约合92亿美元）的收购要约。大众一位发言人表示，集团保留兰博基尼品牌的立场没有任何变化。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[StarTech.com推两款USB-C转接头 可实现边听歌边充电]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1132545.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1132545.htm"/>
+        <updated>2021-05-25T23:27:20.000Z</updated>
+        <summary type="html"><![CDATA[在苹果强大的号召力下，数码行业正在加速淘汰 3.5mm 耳机端口，不少智能手机、平板和笔记本电脑新款都已经放弃了这个端口。对于那些习惯无线耳机的用户来说，这并不是什么大问题；但是对于那些喜欢有线的用户，他们就会面临听歌就无法充电的尴尬。为此 StarTech.com 公司推出了两款全新转换头，能够解决这个难题。
+ 阅读全文]]></summary>
+        <author>
+            <name>study875</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[论文查重乱象 毕业生知网账号被盗后现电商平台]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1132543.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1132543.htm"/>
+        <updated>2021-05-25T23:26:48.000Z</updated>
+        <summary type="html"><![CDATA[临近毕业季，武汉一所高校的大四学生发现，学校提供的免费中国知网账号被盗。查询后得知，其账号里附带的论文查重机会，被当作商品挂在电商平台上售卖。该校另有学生告诉新京报记者，有班级共有38人，其中被盗号的就有14个人。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[个人征信报告被填不当信息 为什么会出错？]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1132541.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1132541.htm"/>
+        <updated>2021-05-25T23:24:41.000Z</updated>
+        <summary type="html"><![CDATA[不久前，江苏南通市民房女士发现，其个人征信报告里的“工作单位”一栏竟然出现了侮辱性职业字样。经过房女士投诉，相关部门已联系到涉嫌上传不当信息的晋商消费金融股份有限公司，晋商消金已在线删除此不当信息。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[监管出手刺破泡沫 比特币频现“瀑布”行情]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1132539.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1132539.htm"/>
+        <updated>2021-05-25T23:23:37.000Z</updated>
+        <summary type="html"><![CDATA[比特币未能延续今年以来一路高歌猛进的“牛市”势头，从5月中旬开始，连续出现多次大幅下跌，在5月19日更是一度跌至单枚29000美元左右的低点，几乎等同于一夜回到年初。尽管在5月24日有反弹迹象，但距离年内最高点仍近乎腰斩。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美高校调查：看电子屏时间影响青少年成绩]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1132537.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1132537.htm"/>
+        <updated>2021-05-25T23:21:59.000Z</updated>
+        <summary type="html"><![CDATA[一项新研究表明，青少年每天看电子屏时间超过一个小时，成绩就会受到影响。英国《每日邮报》25日报道称，美国罗格斯大学研究人员对平均年龄13.5岁的1万名学生追踪调查发现，平时每天使用互联网、社交媒体或玩游戏超过60分钟的青少年，成绩明显比其他同学低。而每天使用4个小时及以上青少年的逃学概率更是其他学生的4倍。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[搜题App：搜得到答案 搜不到思考能力]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1132535.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1132535.htm"/>
+        <updated>2021-05-25T23:20:14.000Z</updated>
+        <summary type="html"><![CDATA[“数学题不会，用搜题软件拍照能够解题，跟老师讲得一模一样”“我一般要求孩子写作业时不能用手机，除非查学习资料”“但孩子一说要搜题目，又不能不给。我很担心他会依赖搜题软件，影响学习的主动性”……近日，湖南省常德市侯女士的一封读者来信，被媒体报道后引发关注。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[高喊“大数据杀人”就能帮到骑手吗？]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1132533.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1132533.htm"/>
+        <updated>2021-05-25T23:19:16.000Z</updated>
+        <summary type="html"><![CDATA[我单位所在的写字楼大门前，每到午饭时刻就会出现这样一幕：各公司的外卖骑手小哥在门口站成一团，写字楼的转门里一有人出来就齐声高喊：××的订餐。或者：尾号××××。写字楼不让他们进去，前台也不代收。除了和客户尽快交接完毕，似乎没什么更好的办法。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[稳赚不赔？虚拟货币投资群暗藏猫腻]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1132531.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1132531.htm"/>
+        <updated>2021-05-25T23:18:09.000Z</updated>
+        <summary type="html"><![CDATA[真假平台，两边倒腾，最后吸干榨光客户的投资款。5月25日，武汉经开区（汉南区）公安分局介绍，经过缜密侦查，近日成功捣毁一个以理财投资为名的电信网络诈骗窝点，15名嫌疑人被依法刑事拘留。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[小米集团：美国正式撤销投资者购买或持有本公司证券的全部限制]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1132529.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1132529.htm"/>
+        <updated>2021-05-25T23:15:39.000Z</updated>
+        <summary type="html"><![CDATA[北京时间5月26日早间消息，小米集团在港交所公告称，美国哥伦比亚特区地方法院颁发了最终判决，解除了美国国防部对于小米集团“中国军方公司”的认定，正式撤销了美国投资者购买或持有小米集团证券的全部限制。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[智能手机市场需求疲软 台湾零件厂商面临砍单危机]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1132527.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1132527.htm"/>
+        <updated>2021-05-25T23:14:35.000Z</updated>
+        <summary type="html"><![CDATA[近日台湾经济日报报道，智能手机需求下降的趋势已从4G手机蔓延至5G手机。部分手机厂商由于手机市场降温，减少手机了零件订单。零件厂商指出，零件需求不如预期，本季度收到的零件订单较Q1下滑一至三成。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[在这个豆瓣小组里 有20万人能帮你决定午饭吃什么]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1132525.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1132525.htm"/>
+        <updated>2021-05-25T23:13:07.000Z</updated>
+        <summary type="html"><![CDATA[豆瓣上面的小组千千万，虽然经常去逛豆瓣小组，但大多数只是图一乐，看个开心最重要。但是这次要介绍的小组，和以前的相比就有点不一样了，它叫做 " 请帮我选择！" 小组。点开这个小组的主页，密密麻麻的帖子全都是“该选哪个”之类的标题。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[纳德拉预热：Windows 10 21H2有非常多值得期待的“新东西”]]></title>
         <id>https://www.cnbeta.com/articles/tech/1132523.htm</id>
@@ -764,6 +1138,18 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
  阅读全文]]></summary>
         <author>
             <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Creating Powerful Websites with Serverless-Driven CMS Development]]></title>
+        <id>https://css-tricks.com/?p=341383</id>
+        <link href="https://css-tricks.com/creating-powerful-websites-with-serverless-driven-cms-development/"/>
+        <updated>2021-05-25T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Choosing the right tools to build a website for your organization is essential, but it can be tough to find the right fit. Simple site builders like Wix and Squarespace are easy for marketers to use, but severely limit developers …
+The post Creating Powerful Websites with Serverless-Driven CMS Development appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Ahmed Bouchefra</name>
         </author>
     </entry>
     <entry>
