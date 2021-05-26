@@ -2,10 +2,98 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://lvytwjw.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-05-26T04:02:34.940Z</updated>
+    <updated>2021-05-26T05:40:51.369Z</updated>
     <generator>osmosfeed 1.8.1</generator>
     <link rel="alternate" href="https://lvytwjw.github.io/rss/index.html"/>
     <link rel="self" href="https://lvytwjw.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[一名失明40年的男子通过基因治疗恢复部分视力]]></title>
+        <id>https://www.cnbeta.com/articles/science/1132743.htm</id>
+        <link href="https://www.cnbeta.com/articles/science/1132743.htm"/>
+        <updated>2021-05-26T05:39:51.000Z</updated>
+        <summary type="html"><![CDATA[据外媒报道，近日有研究人员表示，他们的实验性基因疗法能够恢复一名40年前失去大部分视力的男子的部分视力。这些发现令人兴奋，但新研究的作者警告称，他们还需要更多的研究来证实这种治疗的有效性。
+ 阅读全文]]></summary>
+        <author>
+            <name>teikaei</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[消息称台积电已开始为iPhone 13生产A15处理器：量级超去年]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1132741.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1132741.htm"/>
+        <updated>2021-05-26T05:38:10.000Z</updated>
+        <summary type="html"><![CDATA[5月26日上午消息，有业内人士向媒体爆料，台积电已经启动生产新一代iPhone处理器A15芯片。在产量规模上，A15的规模超出上一代A14，看来苹果预判iPhone 13系列的需求将在iPhone 12系列之上。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AMD CEO对ARM产品线、供应链和5G市场保持乐观]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1132739.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1132739.htm"/>
+        <updated>2021-05-26T05:18:06.000Z</updated>
+        <summary type="html"><![CDATA[昨日，AMD CEO 苏姿丰博士接受了投资银行摩根大通分析师 Harlan Sur 的采访，期间谈论了与该公司及芯片行业相关的几个重要话题。WCCFTech 指出，这也是她第三次评论芯片行业所面临的供应链限制，以及外界期待已久的 AMD 财务状况披露。早些时候，她还解释过 AMD 的多元化愿景和涉足电信领域的一些罕见细节，前提是顺利完成了对 Xilinx 收购。
+ 阅读全文]]></summary>
+        <author>
+            <name>raymon725</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[一加官网确认Nord 2新机 有望6月中旬上市]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1132737.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1132737.htm"/>
+        <updated>2021-05-26T04:30:26.000Z</updated>
+        <summary type="html"><![CDATA[OnePlus Nord 2 预估将于在今年 6 月推出，并会在未来几天内开启预热活动。一加似乎急于确认这款手机的存在，在其官网上“意外地”提及了 OnePlus Nord 2。在英国、德国和法国举行的 Stadia Premiere 版促销活动的 FAQ 部分中，该手机的名字与OnePlus 8T、OnePlus 8 Pro、OnePlus Nord和OnePlus 9一起被发现。
+ 阅读全文]]></summary>
+        <author>
+            <name>study875</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[微软发出StrRAT恶意软件警告：不要点击不信任的PDF附件]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1132735.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1132735.htm"/>
+        <updated>2021-05-26T04:25:25.000Z</updated>
+        <summary type="html"><![CDATA[请不要贸然打开电子邮件中的 PDF 附件，除非你完全确定文件的来源以及是谁发送给你的。近日，微软的安全情报团队发现了新型恶意软件攻击，通过包含恶意的 PDF 附件进行大规模传播。
+ 阅读全文]]></summary>
+        <author>
+            <name>study875</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[乔治·弗洛伊德被杀一周年，Twitter上充满了对他的悼念]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1132733.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1132733.htm"/>
+        <updated>2021-05-26T04:24:36.000Z</updated>
+        <summary type="html"><![CDATA[据外媒报道，一年前的今天，乔治·弗洛伊德在明尼阿波利斯被一名警察杀害。他的死引发了反对警察暴行的抗议活动，另外还在美国引发了一场种族公正运动。当地时间周二，许多人在社交媒体上发文悼念并呼吁通过以弗洛伊德的名字命名的警务立法。
+ 阅读全文]]></summary>
+        <author>
+            <name>teikaei</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[对血液标记物的分析揭示恢复能力的逐渐丧失  并预测人类的寿命极限]]></title>
+        <id>https://www.cnbeta.com/articles/science/1132731.htm</id>
+        <link href="https://www.cnbeta.com/articles/science/1132731.htm"/>
+        <updated>2021-05-26T04:15:27.000Z</updated>
+        <summary type="html"><![CDATA[据外媒CNET报道，新加坡生物技术公司Gero的新研究着眼于人体从疾病、事故或其他任何对其系统造成压力的事情中恢复的程度。这种基本的恢复能力随着人们年龄的增长而下降，一个80岁的老人从压力中恢复的时间平均是40岁中年人的三倍。
+ 阅读全文]]></summary>
+        <author>
+            <name>vivian</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[森林与气候变化：研究人员称“我们无法通过植树来摆脱气候危机”]]></title>
+        <id>https://www.cnbeta.com/articles/science/1132729.htm</id>
+        <link href="https://www.cnbeta.com/articles/science/1132729.htm"/>
+        <updated>2021-05-26T04:05:30.000Z</updated>
+        <summary type="html"><![CDATA[据外媒报道，一些气候活动家主张在世界各地的森林中开展大规模的植树活动，以吸收捕获热量的二氧化碳，帮助控制气候变化。但在5月21日发表在《科学》杂志上的一篇展望文章中，密歇根大学的一位气候科学家和亚利桑那大学的研究人员指出，用植树来替代直接减少温室气体排放的想法可能是一个白日梦。
+ 阅读全文]]></summary>
+        <author>
+            <name>vivian</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“反自拍”社交应用Poparazzi登上本周美区App Store免费榜第一名]]></title>
         <id>https://www.cnbeta.com/articles/tech/1132727.htm</id>
