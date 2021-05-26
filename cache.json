@@ -772,6 +772,402 @@
       "siteUrl": "https://www.cnbeta.com",
       "articles": [
         {
+          "id": "https://www.cnbeta.com/articles/science/1132679.htm",
+          "author": "vivian",
+          "description": "北京时间5月26日消息，俄罗斯莫斯科的“国家经济成就展”是一个巨大的贸易展览馆和主题公园，旨在展示苏联的各项工业和科学成就。在展览馆的入口附近，矗立着一座雄伟的雕塑——著名的太空征服者纪念碑。当年的苏联在太空竞赛中处于领先地位，用电影《猎杀红色十月》（The Hunt for Red October）中潜艇舰长的话来说，“我们的火箭声音令世界颤抖”。太空征服者纪念碑堪称一种超出这个世界范围的宇宙艺术。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/science/1132679.htm",
+          "publishedOn": "2021-05-26T02:38:50.000Z",
+          "wordCount": 206,
+          "title": "太空竞赛如何改变苏联的艺术？"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/science/1132677.htm",
+          "author": "vivian",
+          "description": "北京时间 5月26日消息，据国外媒体报道，闪电是一种令人难以置信的景象，当闪电瞬间照亮夜空会让人们记忆犹新，风暴云彼此碰撞，产生的闪电强度大约是10亿伏特，这足够对60个普通家庭提供一天的能量。人们意想不到的是，除了持续短暂几秒钟，闪电还有助于净化地球大气层，对人类生活环境十分有益。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/science/1132677.htm",
+          "publishedOn": "2021-05-26T02:37:37.000Z",
+          "wordCount": 200,
+          "title": "神秘闪电能起到“大气清洁剂”的作用"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/science/1132675.htm",
+          "author": "vivian",
+          "description": "据外媒报道，利用光操纵体内细胞中的蛋白质被称为光遗传疗法，并在21世纪初首次被开发。它的发展导致了关于人类大脑内部工作的一些重大发现，并在动物身上进行了积极研究。由于使用该技术的大部分研究都集中在动物试验上，因此使用光遗传治疗的功能改善从未在人类身上得到报道。现在，来自匹兹堡大学和世界其他机构的一组科学家发表了一篇新的论文，报告了人类的改善情况。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/science/1132675.htm",
+          "publishedOn": "2021-05-26T02:35:59.000Z",
+          "wordCount": 205,
+          "title": "研究人员使用光遗传疗法治疗失明患者  使其部分恢复视力"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1132673.htm",
+          "author": "study875",
+          "description": "蓝牙核心规范（Bluetooth Core）和蓝牙网状网络连接技术（Mesh Profile）规范近日被爆安全漏洞，可被网络犯罪分子利用进行中间人（man-in-the-middle）攻击。根据卡内基梅隆大学 CERT 协调中心的报告，“支持Bluetooth Core 和 Mesh 规范的设备存在漏洞，容易受到冒名攻击和AuthValue泄露，这可能使攻击者在配对期间冒充合法设备”。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1132673.htm",
+          "publishedOn": "2021-05-26T02:32:49.000Z",
+          "wordCount": 292,
+          "title": "蓝牙两大规范被爆安全漏洞 可被黑客利用进行中间人攻击"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/science/1132671.htm",
+          "author": "teikaei",
+          "description": "据外媒报道，研究人员通过分析阿塔卡马大型毫米波/亚毫米波阵列(ALMA)获得的数据发现了一个大爆炸后仅14亿年的螺旋状星系。这是迄今为止观测到的最古老星系。在如此早期的阶段就发现了一个螺旋结构的星系成为了解决天文学经典问题的一条重要线索：“螺旋星系是如何以及何时形成的？”\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/science/1132671.htm",
+          "publishedOn": "2021-05-26T02:26:29.000Z",
+          "wordCount": 210,
+          "title": "研究人员借助ALMA发现了迄今观测到的最古老星系"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1132669.htm",
+          "author": "raymon725",
+          "description": "SpaceX 旗下的 Starlink 星链卫星扩展部署计划可能面临新的阻碍，因为同为卫星互联网提供商的 Viasat 已恳请美国联邦通讯委员会（FCC）阻止伊隆·马斯克的这家企业无序扩张。作为竞争对手，ViaSat 指责 Starlink 将是潜在的环境噩梦，因为后者打算一口气部署 4400 多颗卫星集群网络，且地面站的天线能够自动旋转对准。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1132669.htm",
+          "publishedOn": "2021-05-26T02:23:45.000Z",
+          "wordCount": 284,
+          "title": "Viasat恳请FCC暂时叫停SpaceX的星链卫星扩展项目"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/science/1132667.htm",
+          "author": "vivian",
+          "description": "一项追踪住院的COVID-19患者的睾丸激素水平的新研究发现，男性的低水平激素与严重的疾病结果之间存在联系。这项研究提供了重要的线索，说明为什么与女性相比，男性死于新冠病毒的风险更大。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/science/1132667.htm",
+          "publishedOn": "2021-05-26T02:21:58.000Z",
+          "wordCount": 206,
+          "title": "研究发现男性的低睾丸激素水平与更严重的COVID-19病情有关"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/science/1132665.htm",
+          "author": "teikaei",
+          "description": "据外媒报道，Sub-Mesoscale Ocean Dynamics Experiment（亚中尺度海洋动力学实验，简称S-MODE）任务近日开始利用一架自行推进的海洋滑翔机和几架飞机上的科学仪器，这是其水中仪器和空中仪器的首次部署，它们将以确保仪器协同工作从而显示海面下正在发生的事情。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/science/1132665.htm",
+          "publishedOn": "2021-05-26T02:12:42.000Z",
+          "wordCount": 206,
+          "title": "NASA正在通过S-MODE研究海洋漩涡"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1132663.htm",
+          "author": "study875",
+          "description": "沃达丰（Vodafone）今天宣布，将和 Deutsche Telekom, Orange, Telef ó nica 和 Telia Company 合作，一起为智能手机和功能手机推出新的生态评级（Eco Rating）计划。该计划将于今年 6 月进入欧洲，并率先对 12 家手机供应商的环境影响进行评级。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1132663.htm",
+          "publishedOn": "2021-05-26T02:12:30.000Z",
+          "wordCount": 255,
+          "title": "Vodafone牵头推出新生态评级 小米OPPO等12家厂商率先评估"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/science/1132661.htm",
+          "author": "vivian",
+          "description": "据外媒报道，一个国际研究小组制作了一份近域宇宙内的暗物质地图，使用一个模型来推断其位置，因为它对星系有引力影响。新地图揭示了几个以前没有发现的连接星系的丝状结构。该地图由包括宾夕法尼亚州立大学天体物理学家在内的一个国际团队使用机器学习开发，它可以使人们研究暗物质的性质以及近域宇宙的历史和未来。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/science/1132661.htm",
+          "publishedOn": "2021-05-26T02:06:54.000Z",
+          "wordCount": 213,
+          "title": "新的暗物质地图揭示了星系之间“隐藏的桥梁”"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/science/1132659.htm",
+          "author": "teikaei",
+          "description": "北京时间2021年5月25日9时49分，中国科学技术大学独立研制的天问一号探测器环绕器有效载荷—火星磁强计的伸杆实施了在轨展开，遥测参数显示伸杆展开到位，返回科学数据显示产品运行正常，火星磁强计即将开启对近火空间矢量磁场的科学探测任务。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/science/1132659.htm",
+          "publishedOn": "2021-05-26T02:02:05.000Z",
+          "wordCount": 201,
+          "title": "天问一号火星磁强计伸杆成功在轨展开"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/science/1132657.htm",
+          "author": "teikaei",
+          "description": "2021年的第一次月食将在5月26日的傍晚发生，与以往不同的是，这是一次特别的月食，因为它将是超级月亮、月全食和红色血月三大天文盛况的结合。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/science/1132657.htm",
+          "publishedOn": "2021-05-26T02:00:07.000Z",
+          "wordCount": 201,
+          "title": "不要错过今晚的“超级月全食”，下一次出现要等到2033年"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1132655.htm",
+          "author": "ugmbbc",
+          "description": "5月21日，新京报记者在淘宝、百度等平台搜索“知网论文查重”，发现有大量提供论文查重服务的网站与店铺，一次查重的价格从几元到上千元不等。临近毕业季，武汉一所高校的大四学生发现，学校提供的免费中国知网账号被盗。查询后得知，其账号里附带的论文查重机会，被当作商品挂在淘宝店铺上售卖。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1132655.htm",
+          "publishedOn": "2021-05-26T01:59:20.000Z",
+          "wordCount": 214,
+          "title": "论文查重“黑市”：电商售价几元到上千 有商家还建欺诈网站"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1132653.htm",
+          "author": "teikaei",
+          "description": "据外媒报道，尽管苹果的品牌已经成为质量的代名词，但这家公司在其许多最受欢迎的产品中所使用的电线却是行业中最脆弱的部分。如果你的iPhone或iPad充电线能坚持一年而不磨损那真的是一个奇迹，这似乎跟这家公司标榜的高标准完全相悖。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1132653.htm",
+          "publishedOn": "2021-05-26T01:57:49.000Z",
+          "wordCount": 214,
+          "title": "iPhone充电线为何那么容易断？这段视频给出答案"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/science/1132651.htm",
+          "author": "vivian",
+          "description": "据外媒New Atlas报道，尽管有一些植入物能在体内特定部位逐渐释放药物，但很难控制其释放速度。然而，一种实验性的新设备可以在外部冲击波的作用下释放药物。首先，科学家们之前已经开发出了在体外触发时释放药物的植入物。也就是说，这种设备通常包含电池或其他不具生物相容性的电子器件--结果，身体的免疫系统将它们视为外来物。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/science/1132651.htm",
+          "publishedOn": "2021-05-26T01:51:53.000Z",
+          "wordCount": 206,
+          "title": "科学家开发植入式压电聚合物  受到冲击波触发时可精确释放药物"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/soft/1132649.htm",
+          "author": "ugmbbc",
+          "description": "谷歌浏览器Google Chrome正式版迎来v91首个版本发布，详细版本号为v91.0.4472.77，上一个正式版v90.0.4430.212发布于5月11日，时隔15天Google又发布了新版Chrome浏览器，本次升级主要是更新了安全修复和稳定性改进及用户体验。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/soft/1132649.htm",
+          "publishedOn": "2021-05-26T01:50:24.000Z",
+          "wordCount": 605,
+          "title": "Google Chrome v91.0.4472.77 正式版发布"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1132647.htm",
+          "author": "study875",
+          "description": "在今天发布的 Windows Terminal Preview 1.9 预览版更新中，微软引入了包括 Quake Mode 在内的诸多新功能。此外，微软今天也放出了 Windows Terminal Preview 1.8 稳定版更新，用户可以通过 Microsoft Store 或者 Github 页面进行下载。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1132647.htm",
+          "publishedOn": "2021-05-26T01:48:43.000Z",
+          "wordCount": 263,
+          "title": "Windows Terminal 1.9预览版发布：引入Quake模式 可设为默认应用"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1132645.htm",
+          "author": "teikaei",
+          "description": "5月26日消息，据北京市小客车指标调控管理办公室发布的消息，按照《北京市小客车数量调控暂行规定》实施细则（2020年修订）相关规定，5月26日配置新能源小客车指标。截至2021年3月8日24时的申请，经审核，家庭新能源小客车指标申请共有153944个有效编码，个人新能源小客车指标申请共有403129个有效编码，单位新能源小客车指标申请共有11151家。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1132645.htm",
+          "publishedOn": "2021-05-26T01:45:16.000Z",
+          "wordCount": 206,
+          "title": "超15万个家庭申请 北京新政后首期新能源小客车指标今天配置"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1132643.htm",
+          "author": "teikaei",
+          "description": "据外媒报道，苹果可能是少数几家拥有收购WarnerMedia-Discovery的资产负债表的公司之一，而且它跟这家媒体公司还有着不浅的渊源--包括过去的收购谈判。AT&T打算将华纳媒体(WarnerMedia)的资产跟探索频道(Discovery)合并，该交易的结构专门为该公司提供了灵活性。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1132643.htm",
+          "publishedOn": "2021-05-26T01:42:58.000Z",
+          "wordCount": 215,
+          "title": "苹果和时代华纳高管曾在2015年讨论过收购事宜"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1132641.htm",
+          "author": "ugmbbc",
+          "description": "正当各大电商平台预热“6·18年中购物节”之际，有着“史上最强网络直播监管”之称的新规落地。5月25日起，由国家互联网信息办公室、公安部、商务部等七部门联合发布的《网络直播营销管理办法（试行）》（以下简称《办法》）正式施行。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1132641.htm",
+          "publishedOn": "2021-05-26T01:40:21.000Z",
+          "wordCount": 210,
+          "title": "直播电商新规落地：不得营销假冒伪劣产品 主播还需承担售后责任"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1132639.htm",
+          "author": "raymon725",
+          "description": "在 iOS 14.6 RC 代码和 FCC 文件曝光了传说中的 Beats Studio Buds 之后， MySmartPrice 又分享了这款真无线耳塞的实物谍照。此前苹果已经发布过多款 Beats 品牌的无线耳机产品，但 Beats Studio Buds 的独特之处，在于它没有 Powerbeats Pro 那样独特的耳罩附件，从而能够以相对小巧的体型来吸引广大消费者。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1132639.htm",
+          "publishedOn": "2021-05-26T01:39:46.000Z",
+          "wordCount": 279,
+          "title": "外媒曝光Beats Studio Buds真无线耳机的首张实物谍照"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1132637.htm",
+          "author": "ugmbbc",
+          "description": "随着场景的逐步铺开和试点的不断深入，数字人民币正受到越来越多的关注。作为数字经济时代的一种新型支付方式，消费者和商家对数字人民币的接受度如何？对此，《证券日报》记者近日走访北京地区多家银行网点及商户，了解最新情况。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1132637.htm",
+          "publishedOn": "2021-05-26T01:39:35.000Z",
+          "wordCount": 217,
+          "title": "实探北京地区数字人民币试点：商户积极响应 银行个人客户多在内测阶段"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/science/1132635.htm",
+          "author": "vivian",
+          "description": "据外媒CNET报道，东京大学工业科学研究所的一个研究小组已经想出了如何用食物制作耐用、坚固且仍可食用的建筑材料。粉碎的卷心菜叶、海藻和香蕉皮可能不像姜饼和糕点那样令人激动，但它们可以成为可持续建筑产品配方的一部分。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/science/1132635.htm",
+          "publishedOn": "2021-05-26T01:38:27.000Z",
+          "wordCount": 207,
+          "title": "科学家试图将卷心菜变成比混凝土更坚固的建筑材料"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1132633.htm",
+          "author": "study875",
+          "description": "虽说 Windows Vista 并不是一款成功的桌面系统，但这个代号为“Longhorn”的版本在 Windows 发展历程中扮演着承上启下的重要作用。它是对 Windows XP 的大胆突破，更奠定了后来者 Windows 7 的成功。Beta Collector 近日发布了一段主打生产力的概念视频，展示了邮件中的实时用户联系，通过直观的文件共享创建一个协作的工作空间等等。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1132633.htm",
+          "publishedOn": "2021-05-26T01:38:25.000Z",
+          "wordCount": 220,
+          "title": "[视频]Windows Longhorn概念渲染：主打生产力"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1132631.htm",
+          "author": "ugmbbc",
+          "description": "随着移动互联网技术的空前发展，各种网络诈骗手段也层出不穷！“美女”主播专属定制“撩汉攻略”，涉案金额高达4700万元为新员工培训“撩汉技巧”，编写剧本定制“爱情攻势”，专门针对男性实施诈骗。近日，上海市公安局浦东分局捣毁一假扮美女主播进行诈骗的团伙。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1132631.htm",
+          "publishedOn": "2021-05-26T01:36:28.000Z",
+          "wordCount": 206,
+          "title": "“美女”主播专属定制“撩汉攻略”涉案金额高达4700万元"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1132629.htm",
+          "author": "ugmbbc",
+          "description": "据法新社报道，美国总统拜登推动各主要经济体为跨国企业全球利润设定最低15%的税率的计划受挫，爱尔兰财政部长25日对该计划可能导致的结果表示“强烈担忧”。“我们对于这个水平的全球最低税率持非常重大的保留意见，它意味着只有特定国家、特定体量的经济体才能在这个基础上获利，我们对此有着强烈担忧。”爱尔兰财政部长帕斯卡尔·多诺霍对媒体说道。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1132629.htm",
+          "publishedOn": "2021-05-26T01:32:22.000Z",
+          "wordCount": 205,
+          "title": "爱尔兰财长对全球最低企业税率15%表达强烈担忧：仅特定国家受益"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1132627.htm",
+          "author": "vivian",
+          "description": "美国财政部周二更新了对各州和地方政府如何支出数十亿美元援助资金的指导意见，这些资金包括在今年3月通过的1.9万亿美元新冠病毒救援计划中。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1132627.htm",
+          "publishedOn": "2021-05-26T01:32:19.000Z",
+          "wordCount": 207,
+          "title": "美国财政部允许使用彩票和现金等方式鼓励接种疫苗"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1132625.htm",
+          "author": "teikaei",
+          "description": "北京时间5月26日上午消息，本周，华盛顿特区总检察长卡尔·拉辛（Karl Racine）对亚马逊提起反垄断诉讼。他认为，亚马逊的行为推高了商品价格，扼杀了创新。拉辛是又一名瞄准大型科技公司垄断问题的美国州级总检察长。此次诉讼指控亚马逊滥用市场地位，要求平台上的第三方卖家确保价格与其他平台一致。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1132625.htm",
+          "publishedOn": "2021-05-26T01:32:11.000Z",
+          "wordCount": 205,
+          "title": "亚马逊遭首起美国州级反垄断诉讼意味着什么？"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/science/1132623.htm",
+          "author": "teikaei",
+          "description": "据外媒报道，美国国家海洋和大气协会(NOAA)的气候预测中心(Climate Prediction Center)在周四发布的一份报告中称，今年大西洋可能会迎来又一个严重的飓风季节。气象预报员表示--“有60%的可能性会出现高于正常水平的季节，30%的可能性会出现接近正常水平的季节，10%的可能性会出现低于正常水平的季节。”\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/science/1132623.htm",
+          "publishedOn": "2021-05-26T01:30:47.000Z",
+          "wordCount": 207,
+          "title": "NOAA预测：又一个“高于正常水平”的飓风季节将袭击大西洋"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1132621.htm",
+          "author": "vivian",
+          "description": "北京时间5月26日上午消息，据报道，由于事关数十亿美元的利益，所以如果法官的最终裁决体现了她在三周的庭审结束时表达的担忧，那么无论是苹果还是Epic Games，都无法得到他们想要的满意裁决。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1132621.htm",
+          "publishedOn": "2021-05-26T01:30:29.000Z",
+          "wordCount": 229,
+          "title": "Epic诉苹果案法官暗示做出折中裁决：不会令任何一方完全满意"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1132619.htm",
+          "author": "ugmbbc",
+          "description": "近日，瑞芯微发布了24合1视频桥接芯片RK628D，可满足多种产品的视频接口转换需求。RK628D支持三种输入接口，九种输出接口，仅一颗芯片即可实现多达24种视频传输转换接口的组合。RK628D可应用于六大场景包括多屏商显、4K大屏转接、智能投影仪、无线投屏、智能显示屏、视频采集转换类产品。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1132619.htm",
+          "publishedOn": "2021-05-26T01:30:01.000Z",
+          "wordCount": 235,
+          "title": "瑞芯微发布视频桥接24合1芯片RK628D 六大场景应用解析"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1132617.htm",
+          "author": "raymon725",
+          "description": "作为全球领先的 NAND 闪存控制器集成电路与存储解决方案提供商之一，群联电子股份有限公司今日宣布旗下 PS5018-E18 PCIe Gen4 主控已开始向制造商合作伙伴出货。结合 E18 主控与 176 层 NAND 闪存，官方宣称可达成 7400 MB/s 的顺序读取和 7000 MB/s 的顺序写入速度。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1132617.htm",
+          "publishedOn": "2021-05-26T01:27:04.000Z",
+          "wordCount": 331,
+          "title": "支持PCIe 4.0和176层NAND闪存的群联E18新主控现已出货"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1132615.htm",
+          "author": "teikaei",
+          "description": "今年夏季旅游旺季将至。尽管全球新冠疫情持续，部分地区的疫情甚至在不断加重，但考虑到目前新冠疫苗接种取得进展，疫苗生产也在不断加速，各国政府也希望能抓住时机重振旅游业。因此，人们的注意力开始转向一种新的工具：它可以证明一个人已经接种了疫苗，而拥有了这种证明的人，将有可能突破疫情大流行所带来的限制，重新获得出行的权利。这个工具即是“疫苗护照”。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1132615.htm",
+          "publishedOn": "2021-05-26T01:26:15.000Z",
+          "wordCount": 225,
+          "title": "多国即将“上线”的疫苗护照是什么？有什么用？"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1132613.htm",
+          "author": "vivian",
+          "description": "据外媒报道，一份新的报告总结了在COVID-19大流行初期对全美一线医护人员进行的全国性调查的结果，发现许多人报告了不安全的工作环境，并因向雇主表达他们的关切而遭到报复。这项调查由乔治·华盛顿大学的工作人员和学生研究人员于2020年5月发起，提供了在大流行期间为数百万美国人提供护理的一线医护人员的经验。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1132613.htm",
+          "publishedOn": "2021-05-26T01:23:18.000Z",
+          "wordCount": 209,
+          "title": "美医护人员在COVID-19大流行期间的调查中报告了不安全的工作环境"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1132611.htm",
+          "author": "ugmbbc",
+          "description": "今年上半年，全球半导体芯片产能继续吃紧，各种涨价，内存市场尤甚，即便没有现在的缺货因素，内存行业本身也进入了牛市周期，Q2大涨20%，Q3季度还会保持双位数上涨。Digitiems援引供应链人士的消息称，Q3季度内存市场价格上涨已是定局，而且增速保持双位数增长。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1132611.htm",
+          "publishedOn": "2021-05-26T01:20:49.000Z",
+          "wordCount": 208,
+          "title": "白菜价不会再有 业内预测内存价格Q3季度将双位数上涨"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1132609.htm",
+          "author": "study875",
+          "description": "因 iBeacon 技术涉嫌侵犯 BillJCo 的多项技术专利，苹果本周二再次被起诉。BillJCo 是总部位于美国德克萨斯州的一家非执业实体（Non-Practicing Entities）公司，该公司向美国德克萨斯州西区地方法院提起诉讼，称苹果在 2013 年发布的 iBeacon 侵犯了总共 6 项专利。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1132609.htm",
+          "publishedOn": "2021-05-26T01:19:22.000Z",
+          "wordCount": 264,
+          "title": "BillJCo起诉苹果：指控iBeacon技术侵犯6项专利"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1132607.htm",
+          "author": "ugmbbc",
+          "description": "中国地大物博，不同省市的地名都让人眼花缭乱，你可曾想过有一个火车站叫“高兴站”？这个是真的，而且历史悠久，50多年后它已经完成改造，能跑复兴号高铁了。中国铁路官方公众号今天就介绍了这个奇特的火车站——高兴站，它被被网友们誉为“快乐星球本部”，位于四川省华蓥市高兴镇，是襄渝铁路、兰渝铁路的交会点，始建于1975年。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1132607.htm",
+          "publishedOn": "2021-05-26T01:18:56.000Z",
+          "wordCount": 207,
+          "title": "12306介绍名叫“高兴”的火车站：已有50多年历史"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1132605.htm",
+          "author": "ugmbbc",
+          "description": "对于游戏玩家来说，想要在游戏中旗开得胜，除了需要具备过硬的技术以及出色的网络环境外，选择一款性能出色的外设也尤为重要。昨日，“灯厂”雷蛇正式发布黑寡妇蜘蛛V3迷你无线版机械键盘，产品采用紧凑式布局68键设计，提供绿轴、黄轴两款可选，售价1299元。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1132605.htm",
+          "publishedOn": "2021-05-26T01:17:34.000Z",
+          "wordCount": 218,
+          "title": "雷蛇发布黑寡妇蜘蛛V3迷你无线机械键盘 售价1299元"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1132603.htm",
+          "author": "vivian",
+          "description": "据外媒TechSpot报道，工程师Charles Marohn对明尼苏达州执照委员会提起诉讼，因为该委员会在他称自己为“专业工程师”后对其采取了报复性的纪律处分。诉讼称，该委员会侵犯了他的第一修正案的言论自由权。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1132603.htm",
+          "publishedOn": "2021-05-26T01:08:22.000Z",
+          "wordCount": 213,
+          "title": "明尼苏达州工程委员会因“工程师”一词的使用问题面临第一修正案诉讼"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1132601.htm",
+          "author": "study875",
+          "description": "日前在回答 Steam 游戏是否会登陆游戏主机的时候，G胖（Gabe Newell）给出的回答是“年底前会给出更好的答案”。而外媒 Ars Technica 的编辑 Sam Machkovech 透露，从多方渠道获悉 Valve 正在开发一款类似于 Switch 的游戏掌机。而这个掌机或许就是G胖口中的“更好的答案”。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1132601.htm",
+          "publishedOn": "2021-05-26T01:06:42.000Z",
+          "wordCount": 247,
+          "title": "G胖口中的更好答案？消息称Valve正开发类Switch的游戏掌机"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1132599.htm",
+          "author": "teikaei",
+          "description": "据外媒报道，Google终于有了第一辆捕捉街景的全电动汽车。这家科技巨头和捷豹路虎今日（当地时间5月25日）宣布，他们合作组装了一款全电动I-Pace SUV，其配备了捕捉街景图像所需的设备并已经在爱尔兰都柏林部署了这款车。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1132599.htm",
+          "publishedOn": "2021-05-26T01:01:53.000Z",
+          "wordCount": 205,
+          "title": "捷豹I-Pace成为谷歌首款电动街景车"
+        },
+        {
+          "id": "https://hot.cnbeta.com/articles/game/1132597.htm",
+          "author": "teikaei",
+          "description": "据外媒报道，我们大多数人都知道，面对一个验证码的感觉是如此令人恼火，以至于我们很多时候会选择关闭页面。如果这些将机器人跟人类分开的测试不涉及破译模糊的单词或选择包含公共汽车/消防栓/标志等的方块而是一些有趣的内容如玩《毁灭战士(Doom)》的小游戏似乎会更棒。\n 阅读全文",
+          "link": "https://hot.cnbeta.com/articles/game/1132597.htm",
+          "publishedOn": "2021-05-26T00:55:28.000Z",
+          "wordCount": 211,
+          "title": "开发人员开发出《毁灭战士》小游戏趣味验证码"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1132595.htm",
+          "author": "vivian",
+          "description": "据外媒The Verge报道，500多名亚马逊员工签署了一封致杰夫·贝索斯和安迪·贾西的内部信，呼吁该公司承认巴勒斯坦人民的困境。此举是在以色列的空袭对加沙地带的巴勒斯坦人造成打击，导致248人死亡后进行的。此后，哈马斯和以色列达成了停火协议。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1132595.htm",
+          "publishedOn": "2021-05-26T00:50:37.000Z",
+          "wordCount": 210,
+          "title": "数百名亚马逊员工呼吁贝索斯和安迪·贾西支持巴勒斯坦人"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1132593.htm",
+          "author": "study875",
+          "description": "通过 Windows Update 和 Update Catalog，今天微软面向 Windows 10 21H1/20H2/20H1 功能更新推出了 KB5003214 累积更新。如果你是 IT 管理员或者资深用户，微软也放出了该累积更新的离线安装包。离线安装程序可用于在多个设备上安装更新，或在您遇到 WU 问题时使用。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1132593.htm",
+          "publishedOn": "2021-05-26T00:43:26.000Z",
+          "wordCount": 246,
+          "title": "微软面向Windows 10 21H1/20H2/20H1发布可选更新KB5003214"
+        },
+        {
           "id": "https://www.cnbeta.com/articles/science/1132591.htm",
           "author": "vivian",
           "description": "据外媒报道，动脉中的血块（动脉血栓）是导致中风（缺血性中风）最常见的原因之一，在《神经病学神经外科与精神病学杂志》在线发表的英国中风专家的一封信中，首次详细报告了接受牛津-阿斯利康COVID-19疫苗的年轻成年人的情况。\n 阅读全文",
