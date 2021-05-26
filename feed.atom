@@ -2,10 +2,99 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://lvytwjw.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-05-26T13:38:27.915Z</updated>
+    <updated>2021-05-26T14:24:28.837Z</updated>
     <generator>osmosfeed 1.9.0</generator>
     <link rel="alternate" href="https://lvytwjw.github.io/rss/index.html"/>
     <link rel="self" href="https://lvytwjw.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[研究认为星体的形成是由太空中的气体云的碰撞引发的]]></title>
+        <id>https://www.cnbeta.com/articles/science/1132969.htm</id>
+        <link href="https://www.cnbeta.com/articles/science/1132969.htm"/>
+        <updated>2021-05-26T14:18:21.000Z</updated>
+        <summary type="html"><![CDATA[日本研究人员发现，盘旋在太空中的气体云的碰撞带来了星团的诞生。恒星是由太空中的气体云的引力收缩形成的，可以有各种质量。大质量的恒星与许多其他的恒星一起，可能会形成一个巨大的星团（通常是由超过10000颗恒星组成的团体）。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build Super Mario Bros, Zelda, and Space Invaders with Kaboom.js]]></title>
+        <id>60aced0011ffb70827ef6d96</id>
+        <link href="https://www.freecodecamp.org/news/how-to-build-mario-zelda-and-space-invaders-with-kaboom-js/"/>
+        <updated>2021-05-26T14:12:27.000Z</updated>
+        <summary type="html"><![CDATA[In this video course I show you how to build three popular games using the latest game development library for JavaScript called Kaboom.js. This course is exciting for two reasons: First of all, I am going to be introducing a new technology designed especially for game development in JavaScript.]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Thorough Analysis of CSS-in-JS]]></title>
+        <id>https://css-tricks.com/?p=340705</id>
+        <link href="https://css-tricks.com/a-thorough-analysis-of-css-in-js/"/>
+        <updated>2021-05-26T14:08:49.000Z</updated>
+        <summary type="html"><![CDATA[Wondering what’s even more challenging than choosing a JavaScript framework? You guessed it: choosing a CSS-in-JS solution. Why? Because there are more than 50 libraries out there, each of them offering a unique set of features.
+We tested 10 different …
+The post A Thorough Analysis of CSS-in-JS appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Andrei Pfeiffer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[国内首次！三家无人配送车获批在京“持证上岗”]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1132967.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1132967.htm"/>
+        <updated>2021-05-26T14:01:48.000Z</updated>
+        <summary type="html"><![CDATA[中国自动驾驶商业化进程，又向前迈进了一步。第八届国际智能网联汽车技术年会上，北京市高级别自动驾驶示范区颁发了国内首批无人配送车车辆编码，并首次给予了无人配送车相应路权。美团、京东、新石器成为首批获牌企业，车辆编码分别为MT0001、JD0001、NX0001。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[炒币亏了1300万的美图 怪不了马斯克]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1132965.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1132965.htm"/>
+        <updated>2021-05-26T14:00:16.000Z</updated>
+        <summary type="html"><![CDATA[魔幻的币圈，有人挣钱就有人亏。近日，美图秀秀因为炒币上热搜了，是因为炒币亏了1300万元。美图持有的加密货币为以太币和比特币。半个月以来，这两种加密货币都出现大幅下跌：比特币跌了近2万美元，以太币也跌了近一半。许多热衷炒币的散户直接爆仓，真是“辛辛苦苦三十年，一夜回到解放前”。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“快手”女护士1小时为60人打疫苗 令同事惊叹不已]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1132963.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1132963.htm"/>
+        <updated>2021-05-26T13:58:28.000Z</updated>
+        <summary type="html"><![CDATA[据国家卫健委数据，截至2021年5月25日，31个省（自治区、直辖市）和新疆生产建设兵团累计报告接种新冠病毒疫苗54671.4万剂次。尤其是近期安徽、辽宁出现疫情反复，广东、广西多地出现确诊、无症状感染、核酸阳性，人们接种新冠疫苗的热情越来越高。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GPT-3商业化首秀：微软让普通人秒会编程]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1132961.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1132961.htm"/>
+        <updated>2021-05-26T13:56:12.000Z</updated>
+        <summary type="html"><![CDATA[5 月 26 日消息，今日凌晨，一年一度的微软开发者盛会 Build 2021 在线上举办。这一次，微软继续带给开发者新的惊喜：继拿到超大规模 AI 模型 OpenAI GPT-3 的独家授权后，微软正式官宣首款由 GPT-3 支持的商业用例。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[京东618预售战报：751个品牌订单额同比增逾500%，联想、小米、华为排前三]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1132959.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1132959.htm"/>
+        <updated>2021-05-26T13:54:39.000Z</updated>
+        <summary type="html"><![CDATA[5月26日消息，京东大数据显示，5月24日-5月25日京东618“预售”的搜索量超150万次，预售订单额整体同比增长高达640%，参与预售的品牌数量同比增长达126%，参与预售的商品数量同比增长达437%。联想、小米、华为、海尔等品牌预售订单额迅速破亿元。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ARM处理器季度出货73亿颗 历史总计1900亿颗]]></title>
         <id>https://www.cnbeta.com/articles/tech/1132957.htm</id>
@@ -26,6 +115,16 @@
  阅读全文]]></summary>
         <author>
             <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Accessible SVGs: Perfect Patterns For Screen Reader Users]]></title>
+        <id>https://smashingmagazine.com/2021/05/accessible-svg-patterns-comparison/</id>
+        <link href="https://smashingmagazine.com/2021/05/accessible-svg-patterns-comparison/"/>
+        <updated>2021-05-26T13:20:00.000Z</updated>
+        <summary type="html"><![CDATA[Discover which SVG patterns we should avoid and which patterns are the most inclusive when comparing different combinations of OSs, browsers, and screen readers.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Carie Fisher)</name>
         </author>
     </entry>
     <entry>
