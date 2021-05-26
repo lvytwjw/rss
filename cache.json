@@ -781,6 +781,168 @@
       "siteUrl": "https://www.cnbeta.com",
       "articles": [
         {
+          "id": "https://www.cnbeta.com/articles/tech/1132823.htm",
+          "author": "vivian",
+          "description": "近期，公共自行车在北京中心城区、内蒙古呼和浩特等地停运，此前武汉、广州等也宣布车辆停运。从一车难求到低调离场，公共自行车怎么了？留给我们怎样的启示？\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1132823.htm",
+          "publishedOn": "2021-05-26T07:34:20.000Z",
+          "wordCount": 206,
+          "title": "从一车难求到低调离场 公共自行车怎么了"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1132821.htm",
+          "author": "vivian",
+          "description": "5月24日晚间，中国生物制药发布公告，一季度收入约人民币72.43亿元，较去年同期增长约16.4%；归属于母公司持有者应占盈利约人民币19.14亿元，较去年同期增长约118.5%。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1132821.htm",
+          "publishedOn": "2021-05-26T07:31:25.000Z",
+          "wordCount": 206,
+          "title": "券商测算：科兴新冠疫苗单支净利润约50元 一季度实现净利润约100亿"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1132819.htm",
+          "author": "study875",
+          "description": "今天下午举办的 Redmi Note 10 Pro 发布会上，Redmi 首款降噪耳机 AirDots 3 Pro 一同问世，售价 349 元，首发价 299 元，6 月 11 日 10 点首发！\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1132819.htm",
+          "publishedOn": "2021-05-26T07:28:38.000Z",
+          "wordCount": 281,
+          "title": "Redmi首款降噪耳机AirDots 3 Pro发布：首发价299元"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1132817.htm",
+          "author": "study875",
+          "description": "今天下午的发布会上 ，Redmi 出货量最多的系列迎来了两款新机型 ——Redmi Note 10 5G 及 Note 10 Pro 两款手机，后者使用了天玑 11000 处理器 ，120Hz 高刷电竞屏，配备“Android之光”同款的 67W 快充，售价 1499 元。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1132817.htm",
+          "publishedOn": "2021-05-26T07:27:19.000Z",
+          "wordCount": 491,
+          "title": "Redmi Note 10 Pro/Note 10 5G发布：起售价1499/999元"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1132815.htm",
+          "author": "raymon725",
+          "description": "作为年度开发者会议的一部分，PCI 特别兴趣小组（简称 PCI-SIG）还在今日的新闻发布会上介绍了 PCIe 6.0 总线标准的最新进展。据悉，PCI-SIG 已经为 PCIe 6.0 筹备了两年的时间。与 PCIe 5.0 相比，PCIe 6.0 再次实现了传输速率的翻番。目前他们正在制定 0.71 版草案，且最终版本将于 2021 年底前发布。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1132815.htm",
+          "publishedOn": "2021-05-26T07:24:44.000Z",
+          "wordCount": 285,
+          "title": "PCIe 6.0正在制定0.71版草案 最终版本将于年底发布"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1132813.htm",
+          "author": "teikaei",
+          "description": "据外媒报道，印尼政府已经封锁了其国内对一个知名网络犯罪中心Raid Forums的访问从而限制敏感数据泄露的扩散。当地时间5月12日，一名威胁者在Raid Formus上发帖称，他拥有并出售了2.79亿印尼人的个人数据。该国政府希望互联网服务供应商能实施这一禁令。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1132813.htm",
+          "publishedOn": "2021-05-26T07:18:04.000Z",
+          "wordCount": 204,
+          "title": "印尼政府在公民数据遭泄露后宣布对黑客论坛采取封锁措施"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/science/1132811.htm",
+          "author": "vivian",
+          "description": "据外媒报道，大多数人都知道闪电可以引发野火。但是野火也能引发闪电--这一现象几十年来一直困扰着科学家。现在，研究人员已经揭示了这一现象的一个关键原因：空气污染。更加污浊的空气意味着野火上方有更多的闪电--也意味着更多的雨水。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/science/1132811.htm",
+          "publishedOn": "2021-05-26T07:05:39.000Z",
+          "wordCount": 210,
+          "title": "研究称空气污染使野火燃烧期的闪电活动增加"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1132809.htm",
+          "author": "raymon725",
+          "description": "华硕似乎正在更新旗下的英伟达 GeForce RTX 30 系显卡产品线，因为该公司刚刚向欧洲经济委员会（EEC）提交了超过 100 款的显卡型号。WCCFTech 指出，提交的内容中包括了锁算力的 HLR 型号、面向加密货币挖矿的 CMP 型号、以及尚未正式发布的 RTX 3080 Ti 和 3080 Ti 。此外从 V2 系列后缀来看，这些显卡型号应该对应英伟达的低哈希算力 GPU 。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1132809.htm",
+          "publishedOn": "2021-05-26T07:02:04.000Z",
+          "wordCount": 277,
+          "title": "华硕向EEC提交新资料 涵盖百余款RTX 30系显卡型号"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/science/1132807.htm",
+          "author": "teikaei",
+          "description": "据外媒报道，高精度的稀有气体分析表明，来自原始太阳的太阳风粒子在45亿年前被包裹在地核中。来自海德堡大学地球科学研究所的研究人员得出结论，这些粒子进入上覆岩石地幔的过程已经过了数百万年。科学家们在他们研究的一块铁陨石中发现了太阳惰性气体。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/science/1132807.htm",
+          "publishedOn": "2021-05-26T07:01:16.000Z",
+          "wordCount": 203,
+          "title": "研究人员在铁陨石金属中证实太阳惰性气体的存在"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1132805.htm",
+          "author": "study875",
+          "description": "根据外媒 DigiTimes 报道，iPhone 13 系列在今年晚些时候发布之后，柔性 AMOLED 屏幕在苹果手机业务中的采用率将超过 80%，这也意味着苹果将超过三星成为全球智能手机 AMOLED 屏幕的最大买家。iPhone 12 系列全系配备柔性 AMOLED 屏幕，预估 2021 年款也会如此。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1132805.htm",
+          "publishedOn": "2021-05-26T06:59:45.000Z",
+          "wordCount": 237,
+          "title": "2021年苹果有望超越三星成为最大AMOLED屏幕买家"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1132803.htm",
+          "author": "study875",
+          "description": "国内知名 eVTOL 公司亿航智能（eHang）近日宣布了一种用于城市之间旅行的新型远程“升降巡航”飞机 VT-30。这款飞机能够在完全自主控制下携带两名乘客，设计航程为 300公里（186英里），续航时间为 100 分钟。VT-30 将与专注于城市内空中交通的 EH216 机型互相补充，扩展空中交通网络，完善未来城市空中交通 （UAM） 生态。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1132803.htm",
+          "publishedOn": "2021-05-26T06:50:03.000Z",
+          "wordCount": 229,
+          "title": "亿航智能发布长航距自动驾驶飞行器VT-30"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1132801.htm",
+          "author": "raymon725",
+          "description": "VideoCardz 刚刚分享了一组丽台（Leadtek） GeForce RTX 3080 Ti 12GB GDDR6X 显卡新品的图片，作为“WinFast Hurricane”家族的一员，其特点是采用了非公版 PCB + 专为超频而定制的三槽 / 三风扇散热器。如果一切顺利的话，我们有望在下周见到来自更多品牌的 RTX 3080 Ti 显卡型号。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1132801.htm",
+          "publishedOn": "2021-05-26T06:46:51.000Z",
+          "wordCount": 360,
+          "title": "三槽三风扇：丽台RTX 3080 Ti WinFast Hurricane非公显卡曝光"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1132799.htm",
+          "author": "teikaei",
+          "description": "5月26日消息，据国外媒体报道，美国太空探索技术公司SpaceX计划于美国东部时间5月26日下午发射下一批60颗星链互联网卫星，这距离上一批星链互联网卫星发射还不到11天。据悉，SpaceX的“猎鹰9号”火箭将于美国东部时间5月26日下午2点59分从佛罗里达州卡纳维拉尔角40号发射台发射升空，此次发射将把60颗星链互联网卫星送入近地轨道。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1132799.htm",
+          "publishedOn": "2021-05-26T06:37:53.000Z",
+          "wordCount": 203,
+          "title": "SpaceX计划5月26日下午发射下一批60颗星链互联网卫星"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1132797.htm",
+          "author": "vivian",
+          "description": "据外媒报道，在一个令人惊讶的举动中，WhatsApp已经对印度政府提出了法律诉讼，寻求阻止从5月26日即今天开始生效的法规。据消息人士称，这些法规将要求Facebook及其子公司打破隐私保护。据路透社援引熟悉此事的人士称，WhatsApp的诉讼要求高等法院将新规则标示为违反印度宪法中的隐私权，因为它需要社交媒体公司在官员要求时确定“信息的第一来源”。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1132797.htm",
+          "publishedOn": "2021-05-26T06:37:37.000Z",
+          "wordCount": 208,
+          "title": "报道称WhatsApp就新媒体法规起诉印度政府"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1132795.htm",
+          "author": "teikaei",
+          "description": "东京奥运会官方合作伙伴、日本发行量第二大的《朝日新闻》月26日发表社论，呼吁日本首相菅义伟取消东京奥运会和残奥会。《朝日新闻》在社论中表示，新冠病毒的传播并没有停止，向东京和其他城市发布的紧急声明将不可避免地再次延长；变种病毒可能会在日本乃至世界范围内传播，押注这场赛事能够顺利进行是不可原谅的；敦促首相取消奥运会： \n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1132795.htm",
+          "publishedOn": "2021-05-26T06:36:14.000Z",
+          "wordCount": 208,
+          "title": "日本第二大报纸社论：建议取消东京奥运会"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/science/1132793.htm",
+          "author": "study875",
+          "description": "关于不明飞行物 （UFO） 一直都是人们热议的话题，近日，一段 UFO 视频在网上流传并引起热议，而该视频被证实是由美国海军拍摄的。据外媒报道，美国一位名为杰里米·科贝尔 （Jeremy Corbell） 的网友在其网站分享了一段 UFO 视频，该视频显示一个球形不明飞行物不断移动，最终坠入海洋。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/science/1132793.htm",
+          "publishedOn": "2021-05-26T06:32:37.000Z",
+          "wordCount": 236,
+          "title": "美国公布最新UFO视频：球形不明飞行物不断跳动 最终坠入海洋"
+        },
+        {
+          "id": "https://hot.cnbeta.com/articles/game/1132791.htm",
+          "author": "study875",
+          "description": "据外媒报道，今年的 Xbox E3 发布会可能定于北京时间 6 月 14 日。这是 GamesBeat 记者 Jeff Grubb， 同时也是一位知名爆料人在一次 “Game Mess Show” 的直播中的发言。Grubb 说：“微软肯定会在本周告诉我们发布会的日期，而那一天将是 6 月 13 日，星期日（北京时间 6 月 14 日）。”\n 阅读全文",
+          "link": "https://hot.cnbeta.com/articles/game/1132791.htm",
+          "publishedOn": "2021-05-26T06:30:55.000Z",
+          "wordCount": 281,
+          "title": "Xbox E3发布会可能定于6月14日 将与贝塞斯达联合举办"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1132789.htm",
+          "author": "ugmbbc",
+          "description": "新浪科技讯 5月26日午间消息，抖音宣布升级未成年保护措施，14岁以下实名认证用户将在告知后直接进入青少年模式，且进入后无法退出。对14-18岁实名用户，抖音将在内容推荐、社交、搜索等方面提供更严格安全保护，如禁止对陌生人显示除头像和昵称以外的个人公开信息。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1132789.htm",
+          "publishedOn": "2021-05-26T06:28:07.000Z",
+          "wordCount": 203,
+          "title": "抖音宣布14岁以下实名用户将直接进入青少年模式"
+        },
+        {
           "id": "https://www.cnbeta.com/articles/science/1132787.htm",
           "author": "teikaei",
           "description": "据外媒报道，Rio Grande Rise位于大西洋深处，距离巴西海岸约1500公里，其丰富的生物和矿物多样性可能在很大程度上是由于鲜为人知的微生物。来自圣保罗大学的海洋研究所(IO-USP)的研究人员通过跟英国国家海洋学中心的同事合作调查了生活在海底山锰铁壳上的微生物，他们得出的结论是，细菌和古细菌除了参与形成地壳中金属的生物矿化过程之外还可能对维持丰富的当地生命负有责任。\n 阅读全文",
