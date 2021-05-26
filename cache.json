@@ -781,6 +781,42 @@
       "siteUrl": "https://www.cnbeta.com",
       "articles": [
         {
+          "id": "https://www.cnbeta.com/articles/tech/1132911.htm",
+          "author": "raymon725",
+          "description": "微软此前表示，Microsoft Teams 中的 PowerPoint Live，即将迎来“虚拟激光指示器”功能。对于参加远程视频会议的 PowerPoint Live 演示者来说，将能够在指向不同的位置或数据时突出显示对应的内容。对于观众来说，亦可更加轻松地留意到演示者想要强调的内容。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1132911.htm",
+          "publishedOn": "2021-05-26T10:49:41.000Z",
+          "wordCount": 230,
+          "title": "Microsoft Teams即将迎来PowerPoint Live“虚拟激光笔”功能"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1132909.htm",
+          "author": "ugmbbc",
+          "description": "新加坡的星展集团称，比特币的爆炸性波动，在异常交易日会加剧美股期货的波动性。星展首席经济学家Taimur Baig和宏观策略师Chang Wei Liang在一项研究中得出结论，全球最大加密货币不再属于一种边缘资产类别，比特币在一个小时内飙升或下跌10%之后，标普500指数合约往往会出现较大幅度的波动。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1132909.htm",
+          "publishedOn": "2021-05-26T10:40:19.000Z",
+          "wordCount": 206,
+          "title": "研究显示 比特币的波动性正蔓延到美国股市"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1132907.htm",
+          "author": "ugmbbc",
+          "description": "5月26日下午消息，小米发布2021年第一季度财报。财报显示，一季度小米集团总收入达到769亿元，同比增长54.7%。经调整净利润61亿元，同比增长163.8%。每股盈利0.302元，市场预期0.187元，去年同期0.089元。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1132907.htm",
+          "publishedOn": "2021-05-26T10:39:45.000Z",
+          "wordCount": 212,
+          "title": "小米2021年第一季度净利润61亿元 同比增长163.8%"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1132905.htm",
+          "author": "raymon725",
+          "description": "苹果公司的产品，以超高集成度和难以维修而出名 —— 至少对未经授权的第三方维修服务提供商们来说。不过有些时候，这家科技巨头也会偏离这个方向。比如之前的 Apple TV 机顶盒，就让 iFixit 打出了较高的可维修性评分。尴尬的是，今年新推出的 2021 款 Apple TV 4K 机顶盒…… 的 Siri Remote 遥控器，却让发烧友和技术人员再次陷入了苦恼。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1132905.htm",
+          "publishedOn": "2021-05-26T10:25:15.000Z",
+          "wordCount": 278,
+          "title": "2021款Apple TV 4K机顶盒很好拆 但Siri Remote遥控器换电池很难"
+        },
+        {
           "id": "https://www.cnbeta.com/articles/tech/1132903.htm",
           "author": "ugmbbc",
           "description": "美国加州州长加文·纽瑟姆当地时间24日推出了一项约20亿美元的防治山火计划。这项计划是他“加州复苏计划(California Comeback Plan)”的一部分。纽瑟姆当天在访问了加州消防部门后，在萨克拉门托县麦克莱伦公园召开新闻发布会。\n 阅读全文",
