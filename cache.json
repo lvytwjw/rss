@@ -130,6 +130,24 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=339759",
+          "author": "Chris Coyier",
+          "description": "In his last An Event Apart talk, Dave made a point that it’s really only just about right now that Web Components are becoming a practical choice for production web development. For example, it has only been about a year …\nThe post Awesome Standalone (Web Components) appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/awesome-standalone-web-components/",
+          "publishedOn": "2021-05-26T17:56:34.000Z",
+          "wordCount": 858,
+          "title": "Awesome Standalone (Web Components)"
+        },
+        {
+          "id": "https://css-tricks.com/?p=340901",
+          "author": "Chris Coyier",
+          "description": "How we use Web Components at GitHub — Kristján Oddsson talks about how GitHub is using web components. I remember they were very early adopters, and it says here they released a <relative-time> component in 2014! Now they’ve got a \n…\nThe post Links on Web Components appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/links-on-web-components/",
+          "publishedOn": "2021-05-26T17:56:12.000Z",
+          "wordCount": 712,
+          "title": "Links on Web Components"
+        },
+        {
           "id": "https://css-tricks.com/?p=340705",
           "author": "Andrei Pfeiffer",
           "description": "Wondering what’s even more challenging than choosing a JavaScript framework? You guessed it: choosing a CSS-in-JS solution. Why? Because there are more than 50 libraries out there, each of them offering a unique set of features.\nWe tested 10 different …\nThe post A Thorough Analysis of CSS-in-JS appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
@@ -608,6 +626,24 @@
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
         {
+          "id": "606f4f5fd5756f080ba96b65",
+          "author": null,
+          "description": "In this article, I'll give you a brief overview of the configuration syntax of Terraform.  Terraform's docs provide the most comprehensive look at its syntax. But this article should serve as a condensed quick start introduction that'll give new users a simplified overview. We'll focus on the basic structures without",
+          "link": "https://www.freecodecamp.org/news/terraform-syntax-for-beginners/",
+          "publishedOn": "2021-05-26T18:00:52.000Z",
+          "wordCount": 3782,
+          "title": "Learn Basic Terraform Syntax in 20 minutes"
+        },
+        {
+          "id": "60abc59d11ffb70827ef6304",
+          "author": null,
+          "description": "In this article, I'll walk you through how to set up your own GraphQL API using PHP and Laravel. Two years ago, I started working professionally as a backend developer. And I was very intimidated by all the technology I didn't yet know. Words like Docker, Kubernetes, and GraphQL seemed",
+          "link": "https://www.freecodecamp.org/news/build-a-graphql-api-using-laravel/",
+          "publishedOn": "2021-05-26T16:34:32.000Z",
+          "wordCount": 3054,
+          "title": "How to Build a GraphQL API Using Laravel"
+        },
+        {
           "id": "60aced0011ffb70827ef6d96",
           "author": null,
           "description": "In this video course I show you how to build three popular games using the latest game development library for JavaScript called Kaboom.js. This course is exciting for two reasons: First of all, I am going to be introducing a new technology designed especially for game development in JavaScript.",
@@ -812,6 +848,114 @@
       "feedUrl": "https://www.cnbeta.com/backend.php",
       "siteUrl": "https://www.cnbeta.com",
       "articles": [
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1133029.htm",
+          "author": "maomao",
+          "description": "尽管iPhone在美国占据了最大的市场份额，但根据美国客户满意度指数，美国消费者似乎对拥有一部iPhone并不满意。事实上，这些人通过使用三星的Galaxy智能手机体验到更多快乐。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1133029.htm",
+          "publishedOn": "2021-05-26T18:09:38.000Z",
+          "wordCount": 233,
+          "title": "调查显示美国人从三星Galaxy手机当中得到更多快乐"
+        },
+        {
+          "id": "https://hot.cnbeta.com/articles/game/1133027.htm",
+          "author": "ugmbbc",
+          "description": "就像去年一样，暴雪公司的年度玩家大会BlizzCon今年由于COVID-19大流行病而被取消。然而，该公司在星期三宣布，计划举办一个定于 \"明年年初\"的\"全球活动\"。BlizzCon的执行制作人Saralyn Smith在一份声明中说：\n 阅读全文",
+          "link": "https://hot.cnbeta.com/articles/game/1133027.htm",
+          "publishedOn": "2021-05-26T18:04:27.000Z",
+          "wordCount": 208,
+          "title": "暴雪年度玩家大会BlizzCon 2021已被取消"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1133025.htm",
+          "author": "maomao",
+          "description": "福特公司大幅增加了它计划在电动车生产研发上的支出，到2025年，这一数字将达到300多亿美元。之前福特发布了全新F-150 Lightning纯电动皮卡，现在它的预定达到了另一个里程碑。该公司预测，到2030年，其全球销售车辆当中有40%将是纯电动汽车。福特这一目标将涉及对平台、电池和联网汽车技术的广泛投资。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1133025.htm",
+          "publishedOn": "2021-05-26T17:59:58.000Z",
+          "wordCount": 205,
+          "title": "福特公司大幅增加在电动车生产研发上的支出"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1133023.htm",
+          "author": "maomao",
+          "description": "经过三年多的谈判，加州圣何塞官员周二晚些时候投票批准了谷歌在市中心建造一个庞大园区的计划，其中包括数千套新住宅、数百万平方英尺的办公空间和一份价值2亿美元的社区福利协议。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1133023.htm",
+          "publishedOn": "2021-05-26T17:47:07.000Z",
+          "wordCount": 200,
+          "title": "加州圣何塞批准谷歌在市中心建造一个庞大的办公园区"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1133021.htm",
+          "author": "maomao",
+          "description": "据《黑客新闻》报道，俄罗斯Hydra暗网市场已经成为非法活动的热点，2020年吸引了价值13.7亿美元的加密货币，高于2016年的940万美元。 年度交易量疾增，意味着从2018年到2020年Hydra暗网市场同比增长高达624%。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1133021.htm",
+          "publishedOn": "2021-05-26T17:34:00.000Z",
+          "wordCount": 205,
+          "title": "俄罗斯Hydra暗网市场去年盈利超过13亿美元"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1133019.htm",
+          "author": "ugmbbc",
+          "description": "HMD全球在1-3月期间出货了200万部诺基亚智能手机。据NokiaMob援引Counterpoint Research的数据报道，这一数字同比增长（2020年第一季度为170万），但比上一季度有所下降，当时出货量达到280万。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1133019.htm",
+          "publishedOn": "2021-05-26T17:25:02.000Z",
+          "wordCount": 213,
+          "title": "HMD一季度诺基亚智能手机出货量为200万部 高于一年前的170万部"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1133017.htm",
+          "author": "ugmbbc",
+          "description": "NVIDIA正在预告5月31日的GeForce发布会活动，预计该公司将在同一天推出其新的GeForce RTX 3080 Ti显卡以及更多。公司Twitter官方号今天出现了一个神秘的11秒的预告视频，简单地透露了太平洋时间5月31日10点的开始时间。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1133017.htm",
+          "publishedOn": "2021-05-26T17:18:39.000Z",
+          "wordCount": 261,
+          "title": "NVIDIA预告GeForce RTX 3080 Ti/3070 Ti将于5月31日发布"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1133015.htm",
+          "author": "ugmbbc",
+          "description": "近日，一颗重达15.81克拉、名为“樱花”的紫粉钻石，以2亿2627万港元（约合人民币1.8亿元）的价格在香港佳士得春季拍卖会上拍出。紫粉钻石是散发着紫色调的粉色钻石，在自然界中极为罕见。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1133015.htm",
+          "publishedOn": "2021-05-26T17:12:56.000Z",
+          "wordCount": 213,
+          "title": "重达15.81克拉 史上最贵紫粉钻石拍出1.8亿元"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1133013.htm",
+          "author": "ugmbbc",
+          "description": "小米发布2021年第一季度财报。财报显示，一季度小米集团总收入达到769亿元，同比增长54.7%。经调整净利润61亿元，同比增长163.8%。每股盈利0.302元，市场预期0.187元，去年同期0.089元。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1133013.htm",
+          "publishedOn": "2021-05-26T16:58:59.000Z",
+          "wordCount": 211,
+          "title": "小米高管解读一季度财报：芯片短缺不是一个主要问题"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1133011.htm",
+          "author": "maomao",
+          "description": "在去年年开始早期测试之后，Facebook本周将开始在Facebook和Instagram上公开推出隐藏帖子上点赞的选项。该公司表示，该项目将 \"赞\"的决定权交给了该公司的全球用户群，该项目已经开发了多年，但由于COVID-19疫情和Facebook需要进行应对工作，该项目被取消了优先级。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1133011.htm",
+          "publishedOn": "2021-05-26T16:58:37.000Z",
+          "wordCount": 208,
+          "title": "Facebook和Instagram本周开始推出隐藏帖子上点赞数的选项"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1133009.htm",
+          "author": "ugmbbc",
+          "description": "潮湿的空气里弥漫着水果的味道，网红、模特摆着pose吸引着镁光灯闪耀。若不明说，很难想象这里不是年轻人的派对，而是一场电子烟展销会。一切表象展现的是风口之下业内人士对行业未来的远望。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1133009.htm",
+          "publishedOn": "2021-05-26T16:58:16.000Z",
+          "wordCount": 204,
+          "title": "国标难产 电子烟瞄准线下疯狂开店"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1133007.htm",
+          "author": "maomao",
+          "description": "应用程序开发人员和诈骗应用程序猎人Kosta Eleftheriou最近发现一款iOS应用程序，在用户于App Store给它至少3颗星评价之前拒绝运作。这款名为UPNP Xtreme的应用声称可以让用户将视频串流到他们的电视上，现在这款应用似乎已经被下架。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1133007.htm",
+          "publishedOn": "2021-05-26T16:44:08.000Z",
+          "wordCount": 224,
+          "title": "Apple Store发现诈骗应用 用户不给出好评就拒绝运行"
+        },
         {
           "id": "https://www.cnbeta.com/articles/tech/1133005.htm",
           "author": "maomao",
