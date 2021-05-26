@@ -2,10 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://lvytwjw.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-05-26T18:12:10.842Z</updated>
+    <updated>2021-05-26T19:44:46.454Z</updated>
     <generator>osmosfeed 1.9.0</generator>
     <link rel="alternate" href="https://lvytwjw.github.io/rss/index.html"/>
     <link rel="self" href="https://lvytwjw.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[官方首次明确电子烟不安全 百亿市场何去何从？]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1133033.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1133033.htm"/>
+        <updated>2021-05-26T19:04:44.000Z</updated>
+        <summary type="html"><![CDATA[因官方报告首次明确“电子烟不安全”，电子烟相关上市公司股价大跌。5月26日，电子烟巨头思摩尔国际（06969.HK）尾盘跳水，股价收盘下跌17.10%。华宝国际（00336.HK）跌7.69%，中国波顿（03318.HK）跌17.94%。美股电子烟概念盘前也大跌，雾芯科技（RLX.NYSE）盘中一度跌近15%。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Instagram推出新功能Drops 帮助用户参与在线产品销售活动]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1133031.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1133031.htm"/>
+        <updated>2021-05-26T18:19:06.000Z</updated>
+        <summary type="html"><![CDATA[Instagram今天宣布，它将增加一项新的功能Drops，以帮助在线购物者通过其应用程序连接到产品销售活动。Drops是一种较新的电子商务趋势，帮助卖家在产品上市前的几天和几周内为即将上市的产品制造话题。产品本身往往只有有限的供应量或销售很短的一段时间，从而增加需求。
+ 阅读全文]]></summary>
+        <author>
+            <name>maomao</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[调查显示美国人从三星Galaxy手机当中得到更多快乐]]></title>
         <id>https://www.cnbeta.com/articles/tech/1133029.htm</id>
