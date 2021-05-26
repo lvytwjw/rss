@@ -2,10 +2,197 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://lvytwjw.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-05-26T15:11:32.392Z</updated>
+    <updated>2021-05-26T16:31:22.648Z</updated>
     <generator>osmosfeed 1.9.0</generator>
     <link rel="alternate" href="https://lvytwjw.github.io/rss/index.html"/>
     <link rel="self" href="https://lvytwjw.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[芯片短缺迫使AMD优先出货旗舰级CPU而不是低端CPU]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1133005.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1133005.htm"/>
+        <updated>2021-05-26T16:28:00.000Z</updated>
+        <summary type="html"><![CDATA[全球半导体短缺似乎已经有了另一个受害者，即AMD的低端CPU产品。AMD公司首席执行官Lisa Su表示，这种情况正迫使AMD优先考虑更高端的商业和游戏处理器，这些处理器需求量更大。在本周早些时候一次投资者活动中，AMD公司首席执行官Lisa Su被问及如果AMD有额外的芯片制造能力，它是否会出货更多的CPU。
+ 阅读全文]]></summary>
+        <author>
+            <name>maomao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[消息称亚马逊将进军实体药房业务]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1133003.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1133003.htm"/>
+        <updated>2021-05-26T16:24:33.000Z</updated>
+        <summary type="html"><![CDATA[知情人士周三表示，电子商务巨头亚马逊正考虑在美国开设实体药房。报道称，该讨论主要是探索性的，任何实质性的实体药房的部署都可能需要一年以上的时间。知情人士称，关于将实体药房开进亚马逊旗下全食超市（Whole Foods）的讨论已经开始。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[《最终幻想7重制过渡版》多个前瞻上手视频]]></title>
+        <id>https://hot.cnbeta.com/articles/game/1133001.htm</id>
+        <link href="https://hot.cnbeta.com/articles/game/1133001.htm"/>
+        <updated>2021-05-26T16:18:55.000Z</updated>
+        <summary type="html"><![CDATA[《最终幻想7重制过渡版》前瞻上手视频解禁，以下是外媒4Gamer，电击Onlie，GamesRadar和IGN的游玩视频。《最终幻想7重制过渡版》是专门为PS5进行强化并增加新内容的版本！此新版本内大幅强化画面、玩法和系统，包括改善材质和角色模型、支援HDR的4K“图像模式”、可达到60fps流畅度的“效能模式”，以及新增可自订的“拍照模式”!
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[研究人员发现一场大地震可能引发夏威夷茂纳罗亚火山喷发]]></title>
+        <id>https://www.cnbeta.com/articles/science/1132999.htm</id>
+        <link href="https://www.cnbeta.com/articles/science/1132999.htm"/>
+        <updated>2021-05-26T16:11:58.000Z</updated>
+        <summary type="html"><![CDATA[来自迈阿密大学（UM）罗森斯蒂尔海洋和大气科学学院的科学家们分析了干涉合成孔径雷达（InSAR）卫星数据和GPS站测量的地面运动，以精确模拟岩浆侵入的位置和岩浆涌入的时间变化。研究人员发现，一场大地震可能引发夏威夷茂纳罗亚火山的喷发。
+ 阅读全文]]></summary>
+        <author>
+            <name>maomao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[虚幻引擎5体验版介绍 供前沿开发者测试用]]></title>
+        <id>https://hot.cnbeta.com/articles/game/1132997.htm</id>
+        <link href="https://hot.cnbeta.com/articles/game/1132997.htm"/>
+        <updated>2021-05-26T16:10:39.000Z</updated>
+        <summary type="html"><![CDATA[虚幻引擎5现已推出抢先体验版！据虚幻引擎官方介绍，虚幻引擎5将助力各行各业的开发者交付惊艳世人的实时内容和体验。该抢先体验版专供喜欢研究前沿技术的游戏开发者测试功能及制作游戏原型之用。虚幻引擎5体验版介绍：
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[临阵换将，丁磊首战告捷 能否走出腾讯音乐的阴影？]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1132995.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1132995.htm"/>
+        <updated>2021-05-26T16:07:12.000Z</updated>
+        <summary type="html"><![CDATA[5月26日下午，网易云音乐向香港交易所提交上市申请书，申请在主板上市。根据媒体今天的报道，网易云音乐将面向全球发售21320000股股份，占其公司总股本10%。其中2132000股为香港发售，其余19188000股面向国际发售。据报道，网易云音乐的最高发行价定为330港元，计划募资70.36亿港元（约10亿美元）。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[日本京都大学取消上海电力大学一讲师9年前已授博士学位]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1132993.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1132993.htm"/>
+        <updated>2021-05-26T16:05:46.000Z</updated>
+        <summary type="html"><![CDATA[5月26日，网传“日本京都大学首次因为学术不端而取消了一个博士的学位”。据网友爆料，被取消学位的学生金某在2012年发表的博士论文《关于日语与汉语的回归代词》系抄袭。金某在2012年发表该论文后，获得京都大学授予的博士学位，并顺利从该校毕业。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[正在制作中的PlayStation AI可模拟人类游戏玩家]]></title>
+        <id>https://hot.cnbeta.com/articles/game/1132991.htm</id>
+        <link href="https://hot.cnbeta.com/articles/game/1132991.htm"/>
+        <updated>2021-05-26T16:04:41.000Z</updated>
+        <summary type="html"><![CDATA[在索尼举行的一次会议的幕后花絮显示了一个正在进行的新项目。索尼AI正在与PlayStation合作创建 "游戏AI代理"。这是超越游戏中预制对手的下一个层次。这更像是索尼创造的人工游戏者，可以与你一起玩，或者与你对战，就像他们是真正的人，在家里用真正的PlayStation 5游戏机对战。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[阿里招募“鉴黄”体验官：日薪1000元 小姐姐优先]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1132989.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1132989.htm"/>
+        <updated>2021-05-26T16:00:40.000Z</updated>
+        <summary type="html"><![CDATA[5月26日，阿里巴巴集团安全部通过官方微博@知安局 发布了“全网不斥巨资的最强招募令”，向全网网友发起了“AI鉴黄一日体验官”的招募活动。简单来说，就是邀你去阿里巴巴杭州西溪园区（阿里巴巴集团的总部）亲自下场鉴“黄”，感受AI科技。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[越来越多的美国人相信气候变化 但放弃化石燃料的热情并不高]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1132987.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1132987.htm"/>
+        <updated>2021-05-26T15:59:48.000Z</updated>
+        <summary type="html"><![CDATA[皮尤研究中心的一项新调查显示，近三分之二的美国人现在相信气候变化是一个迫切需要解决的问题，但令人尴尬的是，他们对放弃石油和天然气的热情并不高。只有三分之一的受访者支持完全淘汰化石燃料，不到一半的受访者同意逐步淘汰新造汽油动力汽车。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google计划在圣何塞建立庞大的新园区 已获得该市政府支持]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1132985.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1132985.htm"/>
+        <updated>2021-05-26T15:56:12.000Z</updated>
+        <summary type="html"><![CDATA[周二晚上，圣何塞市政府全票通过一项决议，Google从中获得了在加州圣何塞市中心建造一个占地80英亩的混合用途园区的许可。圣何塞市长萨姆-利卡多（Sam Liccardo）在一份声明中说："Google将进行圣何塞历史上最大的私营部门投资 - 几乎可以创造任何其他城市的历史。"
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[苹果公司寻求曾从事加密货币和支付业务的经理人选]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1132983.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1132983.htm"/>
+        <updated>2021-05-26T15:53:34.000Z</updated>
+        <summary type="html"><![CDATA[苹果公司正在寻找一位专注于 "替代性支付"平台的业务发展经理，如数字钱包或加密货币，以领导其金融服务的合作。根据周三发布的招聘信息，苹果正在寻找专业人士加入其Apple Wallet、支付和商务（WPC）团队，并维护替代性支付行业的伙伴关系。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AMD CEO苏姿丰确认今年发布新卡：下一代CDNA计算架构+多芯封装]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1132981.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1132981.htm"/>
+        <updated>2021-05-26T15:23:15.000Z</updated>
+        <summary type="html"><![CDATA[AMD CEO苏姿丰博士近日接受媒体采访时确认，会在今年晚些时候推出下一代CDNA架构，自然就是CDNA2。去年11月，AMD发布了顶级加速计算卡Instinct MI100，首次采用针对HPC高性能计算、AI人工智能全新设计的CDNA架构，和游戏向的RDNA架构截然不同。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[上师大多名拟录取研究生遭取消资格 复试内容提前泄露]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1132979.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1132979.htm"/>
+        <updated>2021-05-26T15:22:16.000Z</updated>
+        <summary type="html"><![CDATA[近日，网传“上海师范大学取消多名考研生拟录取资格”的消息，引发网友热议。5月25日21点48分，上海师范大学发布《关于取消相关考生英语笔译硕士专业学位研究生拟录取资格的情况说明》，其中称，该校外国语学院公布拟录取名单后，学校接到举报材料，反映该专业复试结束前，有考生在QQ群中泄露复试相关内容。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[索尼谈论未来基于第一方PlayStation移动游戏IP的发行计划]]></title>
+        <id>https://hot.cnbeta.com/articles/game/1132977.htm</id>
+        <link href="https://hot.cnbeta.com/articles/game/1132977.htm"/>
+        <updated>2021-05-26T15:20:18.000Z</updated>
+        <summary type="html"><![CDATA[索尼的PlayStation部门业绩多年来一直在上升，其成功的很大一部分可以归功于PlayStation游戏机的独家游戏。现在，索尼似乎正在寻求将这些游戏带到移动平台上，在战略会议上，索尼互动娱乐公司总裁兼首席执行官吉姆·瑞安如下表示：
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[填补仙三外至仙一的断代史 官方新作《仙剑·缘起》宣布]]></title>
+        <id>https://hot.cnbeta.com/articles/game/1132975.htm</id>
+        <link href="https://hot.cnbeta.com/articles/game/1132975.htm"/>
+        <updated>2021-05-26T15:14:07.000Z</updated>
+        <summary type="html"><![CDATA[5月26日，《仙剑·缘起》内容企划正式启动！这是仙剑首次公开的大型内容企划，由姚仙、软星科技以及缘起制作组发起，将填补仙剑三外到仙剑一之间的断代史。《仙剑·缘起》团队表示，双方的共识是，沉下心来，用更充分的时间和投入，力求剧情和人设做到承先启后，和前后原著紧密相连，将原著的空白历史良好发挥和填补，让仙剑系列的整体故事更加丰满和完善的呈现。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[超级红月亮“邂逅”月全食：海量美图 一次看个够]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1132973.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1132973.htm"/>
+        <updated>2021-05-26T15:11:24.000Z</updated>
+        <summary type="html"><![CDATA[5月26月晚间，超级月亮、红月亮、月全食在夜空中上演了一场美丽的“邂逅”。17点45分，月全食开始，19点19分达到食甚，20点53分结束，而在早上9时50分，月球运行到距离地球的最近点，二者相距只有357311千米，满月视直径达到33.5角分，全年最大。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[俄罗斯要求Facebook和Twitter在7月1日前在其境内存储用户数据]]></title>
         <id>https://www.cnbeta.com/articles/tech/1132971.htm</id>
