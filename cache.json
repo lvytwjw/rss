@@ -872,6 +872,69 @@
       "siteUrl": "https://www.cnbeta.com",
       "articles": [
         {
+          "id": "https://www.cnbeta.com/articles/tech/1133399.htm",
+          "author": "ugmbbc",
+          "description": "印度疫情持续恶化，确诊、死亡病例都在大规模持续增加，也出现了不少奇葩的事情。据印度媒体报道，近日，印度一家银行的某员工确诊新冠，向公司申请休假，但被驳回，无奈之下只能带着氧气瓶到公司上班，但公司方面随即否认了此事。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1133399.htm",
+          "publishedOn": "2021-05-27T11:25:07.000Z",
+          "wordCount": 205,
+          "title": "印度男子确诊新冠后带氧气瓶上班 公司称其自导自演"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1133397.htm",
+          "author": "study875",
+          "description": "OPPO Reno6 系列将于今晚 18 点正式登场，目前官方已经解锁了关于该机的大量信息，基本上就等价格公布了。Reno6 的市场定位非常清晰，邀请了周冬雨、朴树和橘子海乐队和毕业生共情，希望让 Reno6 成为他们走向社会之后的第一部手机。Reno6 在进一步强化游戏属性之外，更创新的引入了“AI美妆”、“焕彩光斑人像”等摄像功能，讨好时下年轻人的使用需求。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1133397.htm",
+          "publishedOn": "2021-05-27T11:25:04.000Z",
+          "wordCount": 476,
+          "title": "[图]OPPO Reno6系列正式发布：三款机型 起售价2799元"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1133395.htm",
+          "author": "ugmbbc",
+          "description": "研究机构的数据显示，在今年一季度，三星电子仍是全球第一大NAND闪存供应商，拿下了三分之一的市场份额。从研究机构的数据来看，今年一季度，三星电子在NAND闪存市场的份额为33.5%，远高于其他厂商，市场份额第二的是由东芝闪存业务发展而来的铠侠，市场份额为18.7%，较三星电子低14.8个百分点。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1133395.htm",
+          "publishedOn": "2021-05-27T11:24:05.000Z",
+          "wordCount": 217,
+          "title": "三星Q1仍是全球第一大NAND闪存供应商 拿下三分之一市场份额"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1133393.htm",
+          "author": "ugmbbc",
+          "description": "5月27日今天，日本东京奥运会组委会委员长武藤敏郎回应了不久前日本经济界2大巨头乐天与软银的CEO都表明反对举行东奥会的意向，表示既然是从经济方面考虑，举办东京奥运会反而经济效果更好。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1133393.htm",
+          "publishedOn": "2021-05-27T11:19:49.000Z",
+          "wordCount": 202,
+          "title": "乐天软银反对举行东京奥运会 组委会长回应举办经济效果更好"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1133391.htm",
+          "author": "ugmbbc",
+          "description": "日前，上海警方成功捣毁一特大网络直播平台诈骗团伙，236名“美女主播”被抓获，涉案金额达700余万元人民币，而被害人超6成为在校学生。该犯罪团伙不仅有丰富话术，还会对所谓“美女主播”的声音进行培训。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1133391.htm",
+          "publishedOn": "2021-05-27T11:18:23.000Z",
+          "wordCount": 202,
+          "title": "上海警方捣毁直播诈骗窝点：诈骗分子萝莉御姐音秒切换"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1133389.htm",
+          "author": "ugmbbc",
+          "description": "《辞海》集字典、语文词典和百科词典的功能于一体，是我国标志性的大型综合性辞书。“对不对，查《辞海》”，曾成为广大读者的口头禅。如今，查《辞海》有了更便捷的方式。5月27日，经过半年的试运营，首次推出的《辞海》网络正式上线。读者可通过电脑网页、手机应用、微信公众号使用《辞海》。这一大部头辞书成了装在口袋里的“随身老师”。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1133389.htm",
+          "publishedOn": "2021-05-27T11:07:13.000Z",
+          "wordCount": 201,
+          "title": "《辞海》网络版正式上线 实现随时、随地、随手查"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1133385.htm",
+          "author": "raymon725",
+          "description": "除了今天早些时候讨论过的 AMD 锐龙 Strix Point 移动 APU，新泄露的路线图还曝光了 AMD Zen 5 锐龙 8000“Granite Ridge”桌面处理器。虽然目前尚不清楚更多细节，但可知它将兼容新一代 AM5（LGA 1718）平台，辅以类似 Raphael 的 RDNA 核显设计。如果一切顺利的话，AMD 最早有望于 2023 年推出 Zen 5 台式处理器。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1133385.htm",
+          "publishedOn": "2021-05-27T10:55:26.000Z",
+          "wordCount": 332,
+          "title": "泄露路线图曝光AMD Zen 5锐龙8000 Granite Ridge桌面处理器"
+        },
+        {
           "id": "https://hot.cnbeta.com/articles/game/1133383.htm",
           "author": "raymon725",
           "description": "尽管任天堂 Switch 主机具有不错的便携性，但原厂的底座还是有不少槽点。好消息是，市面上还有不少更加轻便、好用、多功能的 Switch 第三方配件。本文要为大家介绍的，就是由 JSAUX 团队打造、且目前正在 Kickstarter 上众筹的 OmniCentro 。\n 阅读全文",
