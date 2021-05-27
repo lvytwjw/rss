@@ -2,10 +2,54 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://lvytwjw.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-05-27T13:42:55.230Z</updated>
+    <updated>2021-05-27T14:29:43.805Z</updated>
     <generator>osmosfeed 1.9.0</generator>
     <link rel="alternate" href="https://lvytwjw.github.io/rss/index.html"/>
     <link rel="self" href="https://lvytwjw.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[科学家发现近视人群睡眠质量更差]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1133459.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1133459.htm"/>
+        <updated>2021-05-27T14:09:51.000Z</updated>
+        <summary type="html"><![CDATA[当今时间，随着电子设备的广泛使用，近视人群越来越多，而预防近视已经成为一项十分重要的工作。而良好的睡眠，或将有助于预防近视。据外媒报道，澳大利亚弗林德斯大学的一项新研究表明，与视力正常的人相比，近视患者昼夜节律更延迟，褪黑素（大脑分泌的负责调节夜间睡眠的激素）的分泌也较低。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[旋转的中子星揭示了对难以捉摸的连续引力波的新见解]]></title>
+        <id>https://www.cnbeta.com/articles/science/1133457.htm</id>
+        <link href="https://www.cnbeta.com/articles/science/1133457.htm"/>
+        <updated>2021-05-27T14:08:47.000Z</updated>
+        <summary type="html"><![CDATA[在首次发现引力波的五年之后，一个国际科学家团队，包括来自ARC引力波发现卓越中心（OzGrav）的科学家，正在继续寻找新的发现和对宇宙的洞察力。利用美国的超级敏感的千米级LIGO探测器和欧洲的Virgo探测器，该团队已经见证了黑洞和中子星的爆炸性碰撞。然而，最近的研究一直在寻找完全不同的东西：来自一个单独的、快速旋转的中子星的难以捉摸的信号。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[宏碁展示SpatialLabs概念笔记本电脑 屏幕可实现裸眼3D]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1133455.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1133455.htm"/>
+        <updated>2021-05-27T13:54:45.000Z</updated>
+        <summary type="html"><![CDATA[宏碁希望将立体3D技术引入笔记本电脑，其新的SpatialLabs显示屏可将图形直接从笔记本电脑的屏幕中浮现出来，而不要求用户戴上特殊的眼镜来观看。该系统结合了一个可切换的光栅屏幕和一个眼球追踪摄像头，全部安装在ConceptD笔记本的原型上。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[对话征信受辱女当事人：绝不无理索赔 只求公正合理的说法]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1133453.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1133453.htm"/>
+        <updated>2021-05-27T13:47:16.000Z</updated>
+        <summary type="html"><![CDATA[“这件事情经你们报道后之所以受到这么大的关注，就是因为征信对我们每个人太重要了。”5月26日下午，江苏南通个人征信报告出现“专业做鸡十年”侮辱字眼的当事人房女士向人民网记者表示，她绝不是为了索要赔偿，而是要寻求一个公正合理的说法，对自己和社会有个交代。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[俄罗斯法院处罚推特公司违规行为 罚款总计达2790万卢布]]></title>
         <id>https://www.cnbeta.com/articles/tech/1133451.htm</id>
@@ -15,6 +59,16 @@
  阅读全文]]></summary>
         <author>
             <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Useful VS Code Extensions For Front-End Developers]]></title>
+        <id>https://smashingmagazine.com/2021/05/useful-vs-code-extensions-web-developers/</id>
+        <link href="https://smashingmagazine.com/2021/05/useful-vs-code-extensions-web-developers/"/>
+        <updated>2021-05-27T13:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Meet useful Visual Studio Code extensions for web developers: little helpers to minimize slow-downs and frustrations, and boost developer’s workflow along the way. Recently, we’ve also covered [CSS auditing tools](https://www.smashingmagazine.com/2021/03/css-auditing-tools/), [CSS generators](https://www.smashingmagazine.com/2021/03/css-generators/) and [accessible front-end components](https://www.smashingmagazine.com/2021/03/complete-guide-accessible-front-end-components/) — you might find them useful, too.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Cosima Mielke)</name>
         </author>
     </entry>
     <entry>

@@ -371,6 +371,20 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2021/05/useful-vs-code-extensions-web-developers/",
+          "author": "hello@smashingmagazine.com (Cosima Mielke)",
+          "description": "Meet useful Visual Studio Code extensions for web developers: little helpers to minimize slow-downs and frustrations, and boost developer’s workflow along the way. Recently, we’ve also covered [CSS auditing tools](https://www.smashingmagazine.com/2021/03/css-auditing-tools/), [CSS generators](https://www.smashingmagazine.com/2021/03/css-generators/) and [accessible front-end components](https://www.smashingmagazine.com/2021/03/complete-guide-accessible-front-end-components/) — you might find them useful, too.",
+          "link": "https://smashingmagazine.com/2021/05/useful-vs-code-extensions-web-developers/",
+          "publishedOn": "2021-05-27T13:30:00.000Z",
+          "wordCount": 3447,
+          "title": "Useful VS Code Extensions For Front-End Developers",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/2c5dbb73-94e1-486f-9daa-351699faaa2d/peacock-extension.png",
+            "length": "0",
+            "type": "image/png"
+          }
+        },
+        {
           "id": "https://smashingmagazine.com/2021/05/build-launch-responsive-websites-editorx/",
           "author": "hello@smashingmagazine.com (Miroslav Bekyarov)",
           "description": "While web builders have been around for a long time, it wasn’t until recently that they became practical for professional use. Closing the gap between design and code has become the north star for many companies and we are seeing a wave of tools that deliver on this promise.",
@@ -871,6 +885,42 @@
       "feedUrl": "https://www.cnbeta.com/backend.php",
       "siteUrl": "https://www.cnbeta.com",
       "articles": [
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1133459.htm",
+          "author": "ugmbbc",
+          "description": "当今时间，随着电子设备的广泛使用，近视人群越来越多，而预防近视已经成为一项十分重要的工作。而良好的睡眠，或将有助于预防近视。据外媒报道，澳大利亚弗林德斯大学的一项新研究表明，与视力正常的人相比，近视患者昼夜节律更延迟，褪黑素（大脑分泌的负责调节夜间睡眠的激素）的分泌也较低。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1133459.htm",
+          "publishedOn": "2021-05-27T14:09:51.000Z",
+          "wordCount": 201,
+          "title": "科学家发现近视人群睡眠质量更差"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/science/1133457.htm",
+          "author": "ugmbbc",
+          "description": "在首次发现引力波的五年之后，一个国际科学家团队，包括来自ARC引力波发现卓越中心（OzGrav）的科学家，正在继续寻找新的发现和对宇宙的洞察力。利用美国的超级敏感的千米级LIGO探测器和欧洲的Virgo探测器，该团队已经见证了黑洞和中子星的爆炸性碰撞。然而，最近的研究一直在寻找完全不同的东西：来自一个单独的、快速旋转的中子星的难以捉摸的信号。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/science/1133457.htm",
+          "publishedOn": "2021-05-27T14:08:47.000Z",
+          "wordCount": 203,
+          "title": "旋转的中子星揭示了对难以捉摸的连续引力波的新见解"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1133455.htm",
+          "author": "ugmbbc",
+          "description": "宏碁希望将立体3D技术引入笔记本电脑，其新的SpatialLabs显示屏可将图形直接从笔记本电脑的屏幕中浮现出来，而不要求用户戴上特殊的眼镜来观看。该系统结合了一个可切换的光栅屏幕和一个眼球追踪摄像头，全部安装在ConceptD笔记本的原型上。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1133455.htm",
+          "publishedOn": "2021-05-27T13:54:45.000Z",
+          "wordCount": 218,
+          "title": "宏碁展示SpatialLabs概念笔记本电脑 屏幕可实现裸眼3D"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1133453.htm",
+          "author": "ugmbbc",
+          "description": "“这件事情经你们报道后之所以受到这么大的关注，就是因为征信对我们每个人太重要了。”5月26日下午，江苏南通个人征信报告出现“专业做鸡十年”侮辱字眼的当事人房女士向人民网记者表示，她绝不是为了索要赔偿，而是要寻求一个公正合理的说法，对自己和社会有个交代。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1133453.htm",
+          "publishedOn": "2021-05-27T13:47:16.000Z",
+          "wordCount": 206,
+          "title": "对话征信受辱女当事人：绝不无理索赔 只求公正合理的说法"
+        },
         {
           "id": "https://www.cnbeta.com/articles/tech/1133451.htm",
           "author": "ugmbbc",
