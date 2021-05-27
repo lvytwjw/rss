@@ -2,10 +2,175 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://lvytwjw.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-05-27T11:27:42.139Z</updated>
+    <updated>2021-05-27T12:24:41.259Z</updated>
     <generator>osmosfeed 1.9.0</generator>
     <link rel="alternate" href="https://lvytwjw.github.io/rss/index.html"/>
     <link rel="self" href="https://lvytwjw.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[迈凯伦Elva增新车型 1200万的超跑终于有前挡风玻璃了]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1133429.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1133429.htm"/>
+        <updated>2021-05-27T12:22:59.000Z</updated>
+        <summary type="html"><![CDATA[去年3月份，迈凯伦发布了一款名为Elva的超级跑车，新车售价约1200万元人民币。3秒破百，6.7秒破200的加速成绩，堪称一台性能怪兽。有趣的是，该车并没有传统意义上的前挡风玻璃，而为了应对不同地区的不同法规，推出带有前挡风玻璃的车型也是必然。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AMD Zen5架构曝光：3nm工艺、APU同时集成Zen4小核]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1133427.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1133427.htm"/>
+        <updated>2021-05-27T12:22:39.000Z</updated>
+        <summary type="html"><![CDATA[AMD Zen3+升级架构是否存在依然成谜，Zen4大概率要到一年多之后才会到来，至于之后是否真的有Zen5，曾经有AMD工程师和路线图都提及过，但从未得到AMD官方证实。根据最新曝料，Zen5架构的锐龙CPU处理器的代号为“Granite Ridge”(花岗岩山脊)，APU处理器代号则是“Strix Point”，二者都属于锐龙8000序列。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[传北京现代第一工厂将被理想汽车接盘]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1133425.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1133425.htm"/>
+        <updated>2021-05-27T12:22:20.000Z</updated>
+        <summary type="html"><![CDATA[近些年国内汽车市场竞争格局最大的变化，就是韩系、法系车的落寞，但与之相对的则是国产车的崛起。法系车如今在国内的销售份额占比已经不到1%，而韩系车也大有赶超法系车的势头，近几年现代起亚旗下的多款车型都没有进行更新换代，吃老本的营销策略，也让现代起亚的销售颓势愈加明显。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HR被曝招人时声称“看上哪个女同事可帮忙下药” 网易回应正调查]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1133423.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1133423.htm"/>
+        <updated>2021-05-27T12:22:01.000Z</updated>
+        <summary type="html"><![CDATA[5月27日晚间消息，今日有爆料称，疑似网易互娱HR徐某在朋友圈发布招人信息时用词下流猥琐。图片显示，徐某晒出团队合照，其中女孩子不少。他轻佻地写道“看上我哪个女同事可以帮忙撩，给我一份程序简历，我帮忙撩”。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[面部识别公司Clearview AI在欧洲因有争议人脸识别而遭多国投诉]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1133421.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1133421.htm"/>
+        <updated>2021-05-27T12:19:52.000Z</updated>
+        <summary type="html"><![CDATA[隐私国际（PI）和其他几个欧洲隐私和数字权利组织今天宣布，他们对颇具争议的面部识别公司Clearview AI提出法律投诉。在法国、奥地利、希腊、意大利和英国同时提出的投诉中表示，该公司记录和收集数据的方法--包括它从公共网站自动提取的人脸图像的方式违反了欧洲隐私法。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lime滑板车公司带来新的月度订阅服务：Prime]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1133419.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1133419.htm"/>
+        <updated>2021-05-27T12:11:39.000Z</updated>
+        <summary type="html"><![CDATA[Lime正在为其电动滑板车租赁服务推出一项新的月度订阅服务，该服务被称为-Lime Prime（真不是玩笑）。Lime通常收取固定费率来解锁车辆，然后按分钟收费来使用。不过现在只要每月支付5.99美元，该公司将免除Lime Prime用户的初始费用。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[太阳日冕层温度为何是光球层的数百倍？80年历史理论终得解！]]></title>
+        <id>https://www.cnbeta.com/articles/science/1133417.htm</id>
+        <link href="https://www.cnbeta.com/articles/science/1133417.htm"/>
+        <updated>2021-05-27T11:56:42.000Z</updated>
+        <summary type="html"><![CDATA[从结构来看，太阳大气从里向外主要分为光球层、色球层和日冕层。奇怪的是，在可观测的太阳表面，光球层的温度在 6000 ℃ 左右。但在距其上方仅几千公里的日冕层，温度却高出了成百上千倍，至百万摄氏度甚至更高。数十年来，天体物理学家们一直在努力解释大多数恒星都有的这种奇特现象。
+ 阅读全文]]></summary>
+        <author>
+            <name>raymon725</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sailfish OS 4.1终于拥抱64位 Android10应用支持API等级]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1133415.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1133415.htm"/>
+        <updated>2021-05-27T11:56:05.000Z</updated>
+        <summary type="html"><![CDATA[当其他移动操作系统多年来一直采用64位软件堆栈，并在逐步淘汰32位应用支持的过程中，Jolla正在庆祝Sailfish 4.1终于标志着他们第一个完全64位的Sailfish OS软件堆栈的到来，但它目前只可用于索尼Xperia 10 II智能手机。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[图]OPPO Reno6系列和Enco Free2现场真机上手]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1133413.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1133413.htm"/>
+        <updated>2021-05-27T11:52:27.000Z</updated>
+        <summary type="html"><![CDATA[在刚刚结束的新品发布会上，OPPO Reno6 系列正式登场。在这个毕业季里，OPPO Reno6 系列更加讨好年轻人，主打 AI 焕采美妆和焕采光斑人像，而且在设计上全系海景配色，升级到晶钻 3.0 工艺，在配备更大电池和线性马达的同时不增加厚度。发布会结束之后，cnBeta 前方编辑第一时间赶到体验区，为大家带来现场上手体验。
+ 阅读全文]]></summary>
+        <author>
+            <name>study875</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[微星GeForce RTX 3070 Ti SUPRIM X和Ventus 3X现身 基于GA104打造]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1133411.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1133411.htm"/>
+        <updated>2021-05-27T11:49:27.000Z</updated>
+        <summary type="html"><![CDATA[以下是即将推出的微星GeForce RTX 3070 Ti SUPRIM X和微星GeForce RTX 3070 Ti Ventus 3X显卡首次出现的媒体照片，显卡的包装盒上明确确认8GB GDDR6X是RTX 3070 Ti的内存配置。与已经发布的RTX 3070 SUPRIM X和RTX 3080 SUPRIM X进行比较，我们发现该卡看起来更接近RTX 3070 SUPRIM X。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[本田发布新一代小型公务机HondaJet Elite S]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1133409.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1133409.htm"/>
+        <updated>2021-05-27T11:35:19.000Z</updated>
+        <summary type="html"><![CDATA[提到本田，相信很多人的第一印象会是发动机，但是你知道吗？本田不仅造车还造飞机，并且还连续4年拿了个销量第一。这不，旗下的HondaJet Elite机型刚刚进行了升级。5月27日，我们从本田官方获悉，Honda的飞机事业子公司——HACI（Honda Aircraft Company）于当地时间5月26日举行首次线上发布会，发布了升级版机型——HondaJet Elite S。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[日本企业研发更长保质期食品：“Stock Pork”香肠可常温存1年]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1133407.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1133407.htm"/>
+        <updated>2021-05-27T11:34:28.000Z</updated>
+        <summary type="html"><![CDATA[你吃过保质期最长的食物是多久？据国内媒体报道，近日，日企相继推出延长保质期的食品。本来普通香肠的保质期为30天，日本火腿公司通过调整原料搭配和加压加热方法研发出可常温储存1年的香肠。其中，日本火腿（Nippon Ham）2021年春季推出的Stock Pork系列香肠可常温下保存1年。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[新型号PS5提交认证：6nm处理器版本将投产？]]></title>
+        <id>https://hot.cnbeta.com/articles/game/1133405.htm</id>
+        <link href="https://hot.cnbeta.com/articles/game/1133405.htm"/>
+        <updated>2021-05-27T11:31:01.000Z</updated>
+        <summary type="html"><![CDATA[3099元起的国行PS5已于5月15日发售，虽然比当年PS4首发贵了，但相较于水货渠道的黄牛版良心许多，目前也是一机难求。不过，网友发现，索尼悄悄在秘鲁提交注册了一款新型号PS5——CFI-1015A，匹配的无线控制器是M20DAL1。提交日期是4月26日，入册时间是5月23日。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[5月26日全国新冠疫苗接种量达2000.9万剂次 创世界纪录]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1133403.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1133403.htm"/>
+        <updated>2021-05-27T11:29:25.000Z</updated>
+        <summary type="html"><![CDATA[据国家卫生健康委官网消息，截至2021年5月26日，31个省（自治区、直辖市）和新疆生产建设兵团累计报告接种新冠病毒疫苗56672.3万剂次。5月26日，全国新冠疫苗单日接种量达2000.9万剂次。根据公开资料显示，这一数字已经创造了世界疫苗接种史上单日接种量最高纪录。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[北京地铁AED首次救人：男子突发心脏骤停 10分17秒成功抢救]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1133401.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1133401.htm"/>
+        <updated>2021-05-27T11:27:02.000Z</updated>
+        <summary type="html"><![CDATA[5月24日，一名乘客在地铁9号线北京西站昏倒，在急救阶段，车站工作人员使用站内配置的AED（自动体外除颤仪），与医护人员一起成功救助该名乘客，这是自去年10月27日北京地铁站开始配置AED后，首次使用AED成功救助乘客的案例。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[印度男子确诊新冠后带氧气瓶上班 公司称其自导自演]]></title>
         <id>https://www.cnbeta.com/articles/tech/1133399.htm</id>
