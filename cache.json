@@ -858,6 +858,150 @@
       "siteUrl": "https://www.cnbeta.com",
       "articles": [
         {
+          "id": "https://www.cnbeta.com/articles/science/1133297.htm",
+          "author": "teikaei",
+          "description": "据外媒报道，一种新型影像技术能够检测到长期新冠对患者的肺损伤情况。由于这种损伤在标准的MRI或CT扫描中是看不到的，所以检测出这种肺功能减弱将有助于临床医生了解在长期新冠患者中所看到的持续呼吸障碍。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/science/1133297.htm",
+          "publishedOn": "2021-05-27T06:33:30.000Z",
+          "wordCount": 202,
+          "title": "新成像技术可帮助发现长期新冠患者的隐性肺损伤"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1133295.htm",
+          "author": "raymon725",
+          "description": "知名爆料人 @Broly_X1 在 Twitter 上透露，AMD 下一代锐龙 Strix Point APU 将采用混合核心架构方案，以在同一封装中结合两代 Zen CPU 核心。其实早在 4 月份，我们就已经听说过有关 AMD Strix Point APU 的一些传闻。据说作为该公司基于 Zen 架构的第 7 代 APU 产品，它将结合 Zen 4 和 3nm Zen 5 CPU 核心。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1133295.htm",
+          "publishedOn": "2021-05-27T06:28:57.000Z",
+          "wordCount": 335,
+          "title": "传七代锐龙Strix Point APU将采用3nm Zen 5与Zen 4混合核心"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1133293.htm",
+          "author": "study875",
+          "description": "适用于 Windows 端的 Outlook 自 2019 年以来不断引入各种新功能，不过目前这些新功能仅以预览版形式提供，用户需要手动选择加入。现在，微软宣布这些改进都已经从预览版中“毕业”，将面向所有用户开放。升级主要围绕着日历共享，提供更顺畅和更可靠的同步体验，更快的编辑一个日历项，以及对默认行为的其他改进。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1133293.htm",
+          "publishedOn": "2021-05-27T06:25:14.000Z",
+          "wordCount": 230,
+          "title": "Windows端Outlook即将迎来性能升级 1997年以来最大改进"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1133291.htm",
+          "author": "vivian",
+          "description": "据外媒CNET报道，儿童经典绘本故事《好饿的毛毛虫》（The Very Hungry Caterpillar）的作者艾瑞·卡尔（Eric Carle）已经辞世，享年91岁。他的家人在一份声明中说：“在月光下，紧紧抓住一颗美好的星星，一个绘制彩虹的画家如今穿梭飞行在夜空之中。”\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1133291.htm",
+          "publishedOn": "2021-05-27T06:21:44.000Z",
+          "wordCount": 214,
+          "title": "《好饿的毛毛虫》作者艾瑞·卡尔辞世  享年91岁"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1133289.htm",
+          "author": "teikaei",
+          "description": "疫情打击之下，举办奥运会的两难困境又接踵而至，日本将会做出怎样的抉择？尽管日本首相菅义伟坚称东京奥运会将如期举行，但就目前的形势来看，疫情的紧急状态可能要延长至距奥运会开幕只有一个月的6月中旬。虽然日本在新冠疫情爆发的第一阶段就控制住了形势，但它现在面临着疫苗推广缓慢的危机。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1133289.htm",
+          "publishedOn": "2021-05-27T06:12:42.000Z",
+          "wordCount": 206,
+          "title": "如果放弃奥运会 日本经济可能会陷入二次衰退"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1133287.htm",
+          "author": "study875",
+          "description": "北京时间 5 月 27 日下午消息，当亚马逊公司 （Amazon.com Inc.） 宣布同意收购米高梅电影制片厂 （MGM film studio） 的时候，这家在流媒体大混战中基本上被忽视的竞争者终于受到了人们的关注。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1133287.htm",
+          "publishedOn": "2021-05-27T06:09:09.000Z",
+          "wordCount": 320,
+          "title": "拥有 《007》 的亚马逊能否击杀“流媒体之王 ”Netflix？"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1133285.htm",
+          "author": "study875",
+          "description": "联想集团公布截至 2021 年 3 月 31 日的 2020/21 财年第四财季及全年业绩。第四财季，联想集团收入 156.30 亿美元，同比增长 48%。 公司权益持有人应占溢利 2.6 亿美元，同比增长 512%。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1133285.htm",
+          "publishedOn": "2021-05-27T06:06:34.000Z",
+          "wordCount": 298,
+          "title": "联想集团第四财季净利润 2.6 亿美元 同比增长 512%"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1133283.htm",
+          "author": "study875",
+          "description": "珠海正方盛世投资有限公司 26 日披露，该公司于 25 日以 4.02 亿元挂牌价格拍下珠海巨人大厦在建工程及土地使用权，这意味着从 1997 年搁置至今的巨人大厦项目将被盘活焕新。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1133283.htm",
+          "publishedOn": "2021-05-27T06:03:54.000Z",
+          "wordCount": 221,
+          "title": "巨人大厦？是史玉柱的那个吧？！"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1133281.htm",
+          "author": "teikaei",
+          "description": "“我在Soul遇见了很多人，也错过了很多。”徐寻是一名资深的Soul用户。在她的主页里，保存着自2018年以来在Soul上留下的250个瞬间（类似于Soul朋友圈功能），平均每周发送数量在1.5条以上。数据显示，每天有接近1000万像徐寻一样的人，在Soul平台上留言、交友。这里既是他们寻找Soulmate的社交盲盒，也是倾吐不快的“树洞”。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1133281.htm",
+          "publishedOn": "2021-05-27T06:03:21.000Z",
+          "wordCount": 204,
+          "title": "从陌陌到Soul，去中心化引发的新社交战争"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1133279.htm",
+          "author": "raymon725",
+          "description": "英特尔计划很快刷新 Tiger Lake-U 移动处理器，但有关新平台的首份基准测试数据已经泄露。通常情况下，英特尔的 CPU Refresh 只能带来 5% 左右的性能提升，但许多人还是期待着该公司能够带来更大的惊喜，比如改善 10% 的性能和响应。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1133279.htm",
+          "publishedOn": "2021-05-27T06:01:39.000Z",
+          "wordCount": 299,
+          "title": "英特尔酷睿i7-1195G7 Tiger Lake-U移动处理器跑分流出"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1133277.htm",
+          "author": "teikaei",
+          "description": "5月27日消息，据国外媒体报道，福特预计，到2030年，其售出的汽车中有40%将是电动汽车。据报道，福特正在加大对电动汽车的研发力度。当地时间周三，该公司表示，到2025年，它将把其在电动汽车方面的投资增加约80亿美元，从今年2月份宣布的220亿美元增加到300亿美元。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1133277.htm",
+          "publishedOn": "2021-05-27T06:00:07.000Z",
+          "wordCount": 205,
+          "title": "福特预计到2030年电动汽车将占全球汽车销量的40%"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1133275.htm",
+          "author": "study875",
+          "description": "在今天的《勇者斗恶龙 》35 周年直播中，玩家期待已久的最新正统续作《勇者斗恶龙 12 天定 命运之炎》（暂译）公开，官方仅仅公开了主副标题，同时发出题外音：人为什么而活，关于发售日期以及故事剧情暂未公开，敬请期待后续报道。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1133275.htm",
+          "publishedOn": "2021-05-27T05:59:45.000Z",
+          "wordCount": 250,
+          "title": "DQ35 周年纪念 《勇者斗恶龙 3》2D 重制版公开"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1133273.htm",
+          "author": "teikaei",
+          "description": "5月26日，华为高级副总裁彭博（Vincent Peng）在“日经亚洲评论”撰文，呼吁拜登政府改弦更张，以积极对话的态度面对华为的合作与挑战。在文章中，彭博开篇提到：“两年前的本月，特朗普政府将华为技术公司列入黑名单，限制美国公司向我们出售制造智能手机和其他产品所需的核心技术组件。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1133273.htm",
+          "publishedOn": "2021-05-27T05:57:31.000Z",
+          "wordCount": 201,
+          "title": "华为高级副总裁彭博：期待与拜登政府展开对话"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1133271.htm",
+          "author": "vivian",
+          "description": "医保基金是群众的“救命钱”，然而不少人却把这笔钱视作“唐僧肉”。有的无中生有，仅凭一张医保卡就能虚构“影子病人”；有的擅使“病情放大镜”，把原本达不到住院标准的患者批量伪造成手术患者；有的化身“做账高手”，把非营利性的医疗服务完全做成了一门造假“生意”……半月谈记者梳理欺诈骗保典型案件并调查发现，以“假病人、假病情、假票据”为重点的“三假”骗保行为损害每位参保群众利益，尤其值得关注，必须出重拳“靶向治疗”。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1133271.htm",
+          "publishedOn": "2021-05-27T05:56:40.000Z",
+          "wordCount": 199,
+          "title": "假病人、假病情、假票据：“三假生意经”骗取医保救命钱"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1133269.htm",
+          "author": "teikaei",
+          "description": "近年来，角膜塑形镜作为青少年近视防控的解决方案之一，得到越来越多学生家长的认可。角膜塑形镜属于3类医疗器械，属于最高级别。佩戴角膜塑形镜必须到医疗机构验配，同时在医生指导下使用。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1133269.htm",
+          "publishedOn": "2021-05-27T05:55:29.000Z",
+          "wordCount": 198,
+          "title": "戴这种眼镜能治愈近视？医生专家：不能，有的甚至造成严重后果"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1133267.htm",
+          "author": "study875",
+          "description": "近日 ，Guide2Research 刚刚出炉了 2021 年世界顶尖 1000 名计算机科学家排名。美国 614 名科学家实力霸榜。吴恩达、李飞飞等入选的华人学者过百。中国科学家 53 人上榜，张宏江居中国大陆科学家之首。2021 年 TOP 1000 名计算机科学和电子领域顶尖科学家名单最新出炉了！\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1133267.htm",
+          "publishedOn": "2021-05-27T05:51:36.000Z",
+          "wordCount": 437,
+          "title": "全球Top 1000计算机科学家 h 指数公布：中国53位学者"
+        },
+        {
           "id": "https://www.cnbeta.com/articles/tech/1133265.htm",
           "author": "teikaei",
           "description": "在大家还在华为是否造车一事持续纠结时，华为就用卖车的消息又一次夺走了人们的眼球。科技公司造车已经不是一件新鲜事了，自己造车自己卖也合乎逻辑，但是华为偏偏绕了一个弯，多次重申不造车，却在自家的门店里摆上了其他品牌的汽车开始售卖。\n 阅读全文",
