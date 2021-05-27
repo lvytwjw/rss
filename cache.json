@@ -858,6 +858,60 @@
       "siteUrl": "https://www.cnbeta.com",
       "articles": [
         {
+          "id": "https://www.cnbeta.com/articles/tech/1133265.htm",
+          "author": "teikaei",
+          "description": "在大家还在华为是否造车一事持续纠结时，华为就用卖车的消息又一次夺走了人们的眼球。科技公司造车已经不是一件新鲜事了，自己造车自己卖也合乎逻辑，但是华为偏偏绕了一个弯，多次重申不造车，却在自家的门店里摆上了其他品牌的汽车开始售卖。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1133265.htm",
+          "publishedOn": "2021-05-27T05:47:48.000Z",
+          "wordCount": 332,
+          "title": "华为能把车卖好吗？"
+        },
+        {
+          "id": "https://hot.cnbeta.com/articles/game/1133263.htm",
+          "author": "study875",
+          "description": "纽约大学游戏中心学生 Fan Fang，MaiHou 创作了一款中餐烹饪游戏作品《奶奶的食谱》，目前该款游戏可免费下载，点击此处获得下载链接。\n 阅读全文",
+          "link": "https://hot.cnbeta.com/articles/game/1133263.htm",
+          "publishedOn": "2021-05-27T05:44:49.000Z",
+          "wordCount": 218,
+          "title": "纽约大学学生制作的游戏《奶奶的食谱》 教你做地道的中式家常菜"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1133261.htm",
+          "author": "teikaei",
+          "description": "近日，ZEALER联合创始人@科技小辛发现，朵唯这个已经销声匿迹的手机品牌正慢慢转移到直播带货这种模式。出于好奇，@科技小辛在某直播间下单了一台，收货后仔细测试发现这竟然是一台山寨手机。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1133261.htm",
+          "publishedOn": "2021-05-27T05:44:37.000Z",
+          "wordCount": 208,
+          "title": "网红二驴夫妻带货山寨机被数码大V曝光：快手官方启动调查"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1133259.htm",
+          "author": "teikaei",
+          "description": "5月22日上午9时，2021年（第四届）黄河石林山地马拉松百公里越野赛鸣枪开跑，但却遭遇了大风、冷空气等极端天气，21名参赛人员不幸遇难。不过，有6名选手遇上了当地的放羊大叔朱克铭，在大叔的照顾下，成功得救。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1133259.htm",
+          "publishedOn": "2021-05-27T05:44:04.000Z",
+          "wordCount": 204,
+          "title": "救6名选手牧羊人发声：最近采访很多 希望恢复正常生活"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1133257.htm",
+          "author": "ugmbbc",
+          "description": "周期蝉作为北美的独特产物，也被称为十七年蝉或十三年蝉。而今年，美国东部地区迎来了十七年蝉，大约300亿只蝉即将破土而出，给不少居民造成了困扰。据外媒报道，在美国15个州的公园里、林地等处，出现了数以万计的布鲁德X（Brood X）蝉，除了蝉叫声给人们带来的困扰，又出现了新的问题。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1133257.htm",
+          "publishedOn": "2021-05-27T05:43:07.000Z",
+          "wordCount": 205,
+          "title": "300亿只蝉席卷美国东部出现新问题：“蝉尿”就像下雨一样多"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/science/1133255.htm",
+          "author": "raymon725",
+          "description": "美国宇航局（NASA）在 2020 年 10 月首次宣布了 Artemis Accords 探月合作项目，且首批有 9 个国家宣布加入其中 —— 包括美国自己、英国、阿联酋、日本、加拿大、澳大利亚等。最新消息是，韩国刚刚与 NASA 签署了协议，从而正式成为了参与 Artemis Accords 项目的第十位成员国。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/science/1133255.htm",
+          "publishedOn": "2021-05-27T05:15:46.000Z",
+          "wordCount": 251,
+          "title": "韩国成为签署NASA Artemis Accords探月协定的第十位成员国"
+        },
+        {
           "id": "https://www.cnbeta.com/articles/tech/1133253.htm",
           "author": "raymon725",
           "description": "尽管修复程序已发布数周，但苹果尚未完成对 iOS 和 macOS 中存在的 WebKit 漏洞的修补。Apple Insider 指出，该漏洞由网络安全初创公司 Theori 研究人员首先发现，问题主要与 WebKit 中的 AudioWorklets 实现有关。除了可能引发 Safari 浏览器的崩溃，Theori 也警告它是一个可被利用的类型混淆漏洞。\n 阅读全文",
