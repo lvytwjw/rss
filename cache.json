@@ -130,6 +130,15 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=341298",
+          "author": "Chris Coyier",
+          "description": "It’s very popular to put a $ on lines that are intended to be a command in code documentation that involves the terminal (i.e. the command line).\nLike this:\n$ brew install somepackage\nThe point of that is that it …\nThe post To $ or Not to $: Displaying Terminal Code Snippets appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/to-or-not-to-displaying-terminal-code-snippets/",
+          "publishedOn": "2021-05-27T18:22:11.000Z",
+          "wordCount": 1049,
+          "title": "To $ or Not to $: Displaying Terminal Code Snippets"
+        },
+        {
           "id": "https://css-tricks.com/?p=341020",
           "author": "Robin Rendle",
           "description": "Most images on the web are superfluous. If I might be a jerk for a bit, 99% of them aren’t event that helpful at all (although there are rare exceptions). That’s because images don’t often complement the text they’re …\nThe post How to Show Images on Click appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
