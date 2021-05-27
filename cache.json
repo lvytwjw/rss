@@ -371,6 +371,20 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2021/05/build-launch-responsive-websites-editorx/",
+          "author": "hello@smashingmagazine.com (Miroslav Bekyarov)",
+          "description": "While web builders have been around for a long time, it wasn’t until recently that they became practical for professional use. Closing the gap between design and code has become the north star for many companies and we are seeing a wave of tools that deliver on this promise.",
+          "link": "https://smashingmagazine.com/2021/05/build-launch-responsive-websites-editorx/",
+          "publishedOn": "2021-05-27T09:30:00.000Z",
+          "wordCount": 2676,
+          "title": "How To Build And Launch Responsive Websites Faster With Editor X",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/e3eaf20c-08e9-4f1c-829b-f0bbd7309e0d/21-build-launch-responsive-websites-editorx.png",
+            "length": "0",
+            "type": "image/png"
+          }
+        },
+        {
           "id": "https://smashingmagazine.com/2021/05/accessible-svg-patterns-comparison/",
           "author": "hello@smashingmagazine.com (Carie Fisher)",
           "description": "Discover which SVG patterns we should avoid and which patterns are the most inclusive when comparing different combinations of OSs, browsers, and screen readers.",
@@ -857,6 +871,51 @@
       "feedUrl": "https://www.cnbeta.com/backend.php",
       "siteUrl": "https://www.cnbeta.com",
       "articles": [
+        {
+          "id": "https://hot.cnbeta.com/articles/game/1133383.htm",
+          "author": "raymon725",
+          "description": "尽管任天堂 Switch 主机具有不错的便携性，但原厂的底座还是有不少槽点。好消息是，市面上还有不少更加轻便、好用、多功能的 Switch 第三方配件。本文要为大家介绍的，就是由 JSAUX 团队打造、且目前正在 Kickstarter 上众筹的 OmniCentro 。\n 阅读全文",
+          "link": "https://hot.cnbeta.com/articles/game/1133383.htm",
+          "publishedOn": "2021-05-27T09:58:53.000Z",
+          "wordCount": 265,
+          "title": "便携式Switch扩展坞OmniCentro正在众筹 支持快充和4K输出"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/science/1133381.htm",
+          "author": "ugmbbc",
+          "description": "美国宇航局正计划通过Artemis任务让人类重新登上月球表面。在这项任务之前，航天局正在研究解决过去阿波罗任务期间出现的各种问题。其中一些阿波罗任务的最大挑战之一是处理月球表面的灰尘。美国国家航空航天局指出，月球尘埃与世界各地的家庭中聚集在书架上的那种尘埃完全不同。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/science/1133381.htm",
+          "publishedOn": "2021-05-27T09:48:48.000Z",
+          "wordCount": 205,
+          "title": "美国宇航局正在研究测量月球灰尘的方法 以帮助对抗空气污染"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1133379.htm",
+          "author": "ugmbbc",
+          "description": "最近关于AMD Zen4的消息多了起来，不过按照苏姿丰博士透露，Zen4的确要等到明年了。爆料达人Moore's Law is Dead在汇总了一些他获知的Zen4最新情报，简单整理如下：首先，Zen4 CPU核基于台积电5nm打造，不过I/O Die则是6nm工艺，相较当前的12nm明显提升。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1133379.htm",
+          "publishedOn": "2021-05-27T09:46:56.000Z",
+          "wordCount": 224,
+          "title": "AMD Zen4最新消息：IPC提升20%、桌面正测试24核"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1133377.htm",
+          "author": "ugmbbc",
+          "description": "在这个如今手游崛起的时代，暴雪出品必属精品的神话早已不再。但要说到炒冷饭和卖情怀，暴雪绝对是一把好手。就在《魔兽世界》：“燃烧的远征”TBC怀旧服即将开服之际，暴雪把魔兽世界退役刀片服务器打包成礼盒燃烧的远征纪念版出售，且价格不菲。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1133377.htm",
+          "publishedOn": "2021-05-27T09:46:46.000Z",
+          "wordCount": 202,
+          "title": "卖情怀的正确姿势：魔兽世界TBC退役服务器当纪念品出售"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1133375.htm",
+          "author": "raymon725",
+          "description": "在本周的 Build 2021 开发者大会上，微软正式推出了 Windows Package Manager 1.0 。对于希望在 Windows 10 操作系统上使用高级软件包功能的用户，便可借助这款官方工具来轻松安装、升级和导入。目前微软已经提供了超过 1400 个可供用户使用的软件包，尽管大家也可通过“添加 / 删除程序”UI 来卸载和导出软件包。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1133375.htm",
+          "publishedOn": "2021-05-27T09:25:16.000Z",
+          "wordCount": 254,
+          "title": "微软正式推出1.0版Windows软件包管理器"
+        },
         {
           "id": "https://www.cnbeta.com/articles/soft/1133375.htm",
           "author": "raymon725",
