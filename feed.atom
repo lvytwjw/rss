@@ -2,10 +2,615 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://lvytwjw.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-05-27T00:37:38.619Z</updated>
+    <updated>2021-05-27T03:04:58.352Z</updated>
     <generator>osmosfeed 1.9.0</generator>
     <link rel="alternate" href="https://lvytwjw.github.io/rss/index.html"/>
     <link rel="self" href="https://lvytwjw.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[日本学者研究：新冠病毒存在潜在ADE效应 但发生频率极低]]></title>
+        <id>https://www.cnbeta.com/articles/science/1133209.htm</id>
+        <link href="https://www.cnbeta.com/articles/science/1133209.htm"/>
+        <updated>2021-05-27T02:58:39.000Z</updated>
+        <summary type="html"><![CDATA[新冠病毒是否会引发ADE的问题始终受到各方关注，日本学者最新发布了一项相关研究。5月25日，《细胞》杂志报道了一篇来自大阪大学尚志荒濑的一篇论文，“An infectivity-enhancing site on the SARS-CoV-2 spike protein targeted by antibodies”，论文阐述了感染新冠病毒的患者可能出现抗体增强（Antibody-dependent Enhancement，ADE），存在潜在的ADE效应。
+ 阅读全文]]></summary>
+        <author>
+            <name>teikaei</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[网红被“道德绑架式表白：自称“不知情”，抖音称系恶意炒作永久封号]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1133207.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1133207.htm"/>
+        <updated>2021-05-27T02:57:38.000Z</updated>
+        <summary type="html"><![CDATA[红星新闻5月27日消息，在刚刚过去的“520”，成都春熙路街头一场“道德绑架式表白”被推上热搜，而事件女主角——在抖音拥有一百多万粉丝的网红@德善 也被推上风口浪尖，被质疑炒作。截至目前，该事件话题已超6亿阅读量……
+ 阅读全文]]></summary>
+        <author>
+            <name>teikaei</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[亚马逊prime电影《明日之战》发布最新官方预告 星爵大战外星异形]]></title>
+        <id>https://hot.cnbeta.com/articles/movie/1133205.htm</id>
+        <link href="https://hot.cnbeta.com/articles/movie/1133205.htm"/>
+        <updated>2021-05-27T02:55:49.000Z</updated>
+        <summary type="html"><![CDATA[亚马逊Prime科幻动作电影《明日之战》发布了最新官方预告片。《明日之战》讲述了在未来30年后，人类正在一场和外星人的全球战争中屡战屡败；未来人类穿越回2021年，因为人类文明生存的唯一希望就是从现在招募士兵和平民并送到未来加入战斗。而主角就是被招募的其中一员，他为了自己的女儿决心守护未来的世界。
+ 阅读全文]]></summary>
+        <author>
+            <name>teikaei</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[高通展望5G连接的未来：智能手机、PC、XR继续进化，毫米波飞速发展]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1133203.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1133203.htm"/>
+        <updated>2021-05-27T02:54:32.000Z</updated>
+        <summary type="html"><![CDATA[自2019年5G在我国正式商用以来，发展速度可谓突飞猛进。截至第一季度，我国5G基站已累计建成81.9万座，5G手机终端用户连接数已达2.85亿，已建成了全球目前最大规模的5G移动网络。已经有越来越多人体验到5G网络超高网速、超低延时、超高可靠性的优点。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[研究：亚马逊土著居民可能掌握着延缓脑萎缩的秘诀]]></title>
+        <id>https://www.cnbeta.com/articles/science/1133201.htm</id>
+        <link href="https://www.cnbeta.com/articles/science/1133201.htm"/>
+        <updated>2021-05-27T02:54:17.000Z</updated>
+        <summary type="html"><![CDATA[据外媒报道，一组国际研究人员发现，跟美国和欧洲的同龄人相比，玻利维亚亚马逊地区的提斯曼人土著居民经历的脑萎缩较少。他们的脑容量随年龄增长而减少的速度比西方人口慢70%。脑容量的加速流失可能是痴呆症的征兆。
+ 阅读全文]]></summary>
+        <author>
+            <name>teikaei</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[从星际尘埃到“暗淡蓝点”：碳元素如何来到地球？]]></title>
+        <id>https://www.cnbeta.com/articles/science/1133199.htm</id>
+        <link href="https://www.cnbeta.com/articles/science/1133199.htm"/>
+        <updated>2021-05-27T02:50:52.000Z</updated>
+        <summary type="html"><![CDATA[北京时间5月27日消息，“暗淡蓝点”（Pale Blue Dot）是一张由旅行者1号拍摄的著名地球图片，显示了地球悬浮在太阳系漆黑的背景中。有一种说法是，我们都是由星际尘埃构成的。近期的两项研究发现，这一说法可能比我们之前认为的更接近事实。
+ 阅读全文]]></summary>
+        <author>
+            <name>vivian</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[为什么人类头发比其他部位的毛发多呢？]]></title>
+        <id>https://www.cnbeta.com/articles/science/1133197.htm</id>
+        <link href="https://www.cnbeta.com/articles/science/1133197.htm"/>
+        <updated>2021-05-27T02:49:59.000Z</updated>
+        <summary type="html"><![CDATA[北京时间5月27日消息，据国外媒体报道，人类是哺乳动物中的“怪胎”，除了河马和裸鼹鼠，几乎所有其他哺乳动物身体上都有皮毛，人类除了头部毛发之外，几乎是裸体无毛发的，为什么人类除了头发之外，大多数部位都是无毛的呢？
+ 阅读全文]]></summary>
+        <author>
+            <name>vivian</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[甘肃越野赛给跑圈“拉闸”：超60场跑步赛事延期、取消]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1133195.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1133195.htm"/>
+        <updated>2021-05-27T02:38:17.000Z</updated>
+        <summary type="html"><![CDATA[5月22日上午，2021年（第四届）黄河石林山地马拉松百公里越野赛在黄河石林景区举行，共有172名人员参赛，但却遭遇了大风、冷空气等极端天气，21名参赛人员不幸遇难。该事件引发了社会一场大讨论和反思，而“马拉松”运动被推上了风口浪尖，这场“夺命越野跑”，也给跑圈按下了暂停键。
+ 阅读全文]]></summary>
+        <author>
+            <name>teikaei</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[皇家加勒比国际邮轮公司即将在美展开“禁航令”后的首次试航]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1133193.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1133193.htm"/>
+        <updated>2021-05-27T02:36:57.000Z</updated>
+        <summary type="html"><![CDATA[据外媒报道，皇家加勒比国际邮轮公司(Royal Caribbean International)将于6月进行首次经美疾控中心(CDC)批准的试航。这次试航是该邮轮公司在允许付费乘客通过美国水域之前需要采取的第一步。皇家加勒比公司CEO Michael Bayley在Facebook上分享的帖子显示，该邮轮于5月25日获得了美CDC的批准，它将从迈阿密出发。
+ 阅读全文]]></summary>
+        <author>
+            <name>teikaei</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[前银行行长创业失败当外卖骑手：把亏掉的200万赚回来]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1133191.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1133191.htm"/>
+        <updated>2021-05-27T02:34:32.000Z</updated>
+        <summary type="html"><![CDATA[【#前银行行长创业失败当外卖骑手#：把亏掉的200万赚回来】#年过半百大叔创业失败当外卖骑手# 江苏汉子姚志刚，曾是银行行长，原本能安稳退休的他选了辞职创业。从江苏到大西北再到长沙，他赔光全部积蓄200万。年过50，他重新找工作当外卖骑手，一个月跑1500多单并不觉得累，半年当上配送站长。
+ 阅读全文]]></summary>
+        <author>
+            <name>teikaei</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[爆料称Galaxy Z Fold 3仅在内屏采用了一枚UPC屏下隐藏式摄像头]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1133189.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1133189.htm"/>
+        <updated>2021-05-27T02:30:19.000Z</updated>
+        <summary type="html"><![CDATA[传闻称三星将为 Galaxy Z Fold 3 折叠屏新机引入一枚屏下隐藏式摄像头（注册商标为 UPC），而爆料人 @FrontTron 也在 Twitter 上慢慢揭示了有关该机配备的总共 5 枚摄像头的更多细节。首先，这枚 16MP 的 UPC 前摄摄像头，将让主屏告别打孔或开槽。
+ 阅读全文]]></summary>
+        <author>
+            <name>raymon725</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[央视主播评老虎连续伤人事件：不能成为连续剧]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1133187.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1133187.htm"/>
+        <updated>2021-05-27T02:29:49.000Z</updated>
+        <summary type="html"><![CDATA[5月27日消息，近日安徽、河南相继发生了老虎伤人事件。先是在安徽蚌埠市张公山动物园，一名饲养员在工作时被老虎攻击，不幸身亡。 紧接着在河南南阳市丹江孔雀谷，一位饲养员喂养老虎时被咬伤，经抢救无效死亡。两只老虎逃出笼舍，之后被击毙。
+ 阅读全文]]></summary>
+        <author>
+            <name>teikaei</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[洛克希德·马丁联合通用汽车 正为NASA打造下一代月球车]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1133185.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1133185.htm"/>
+        <updated>2021-05-27T02:29:28.000Z</updated>
+        <summary type="html"><![CDATA[洛克希德-马丁公司（Lockheed Martin）和通用汽车公司（General Motors）本周三宣布计划打造一辆类似于越野车、具备自动驾驶的月球车，以便于未来宇航员能够驾驶它在月球表面穿行。这两家公司合作设计的月球车概念已经提交给美国宇航局（NASA），为 Artemis 计划（未来十年内将各种机器人、车辆和科学基地安置在月球表面）提供扩展支持。
+ 阅读全文]]></summary>
+        <author>
+            <name>study875</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[恐音症研究发现咀嚼声会让一些人生气的原因]]></title>
+        <id>https://www.cnbeta.com/articles/science/1133183.htm</id>
+        <link href="https://www.cnbeta.com/articles/science/1133183.htm"/>
+        <updated>2021-05-27T02:28:11.000Z</updated>
+        <summary type="html"><![CDATA[据外媒报道，如果你对某些声音感到非理性的愤怒或不安，特别是当某人张嘴咀嚼时产生的声音，你可能患有恐音症(Misophonia)。尽管对这些声音的过度敏感已经流行了好几年，但对这种情况的研究仍然很有限，但纽卡斯尔大学的一项新研究正在帮助改变这种状况。
+ 阅读全文]]></summary>
+        <author>
+            <name>vivian</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[《战地 6》 首支预告片完整视频被泄露]]></title>
+        <id>https://hot.cnbeta.com/articles/game/1133181.htm</id>
+        <link href="https://hot.cnbeta.com/articles/game/1133181.htm"/>
+        <updated>2021-05-27T02:15:24.000Z</updated>
+        <summary type="html"><![CDATA[《战地 6》首支预告片此前已经泄露地差不多了，不过都是一些片段和画面，如果你想看完整版的，不妨看看 Reddit 上出现的完整版预告片。需要注意的是，此次泄露的完整版预告片来自于旧版本，因此 6 月份官方公布的首支预告片可能和今天你看到的不同。
+ 阅读全文]]></summary>
+        <author>
+            <name>study875</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[英伟达卖了1.55亿美元的加密货币专用芯片 但PC游戏仍是其最大的市场]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1133179.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1133179.htm"/>
+        <updated>2021-05-27T02:13:28.000Z</updated>
+        <summary type="html"><![CDATA[英伟达预计，该公司第二季度收入将超过分析师的预测，然而盘后该公司股价却下跌了1%，原因是英伟达无法确定其收入增长中，有多少来自于波动较大的加密货币挖矿市场所推动的。在疫情期间，由于大量人群在家中避疫，用户对电脑游戏的需求提升，从而导致对英伟达图像芯片需求的提升，这给英伟达的业务带来了快速的增长。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[西数刷新以多媒体为中心的SanDisk专业产品组合]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1133177.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1133177.htm"/>
+        <updated>2021-05-27T02:11:36.000Z</updated>
+        <summary type="html"><![CDATA[从移动固态硬盘（Portable SSD）到多机械硬盘（HDD）盘位的 RAID 机柜，西部数据旗下的 G-Technology 产品线，在多媒体创作者的圈子内得到过大量的好评。不过作为今日 Flash Perspective 活动的一部分，该公司还为以多媒体为中心的 G-Technology 产品线引入了更多“DanDisk Professional”标签。
+ 阅读全文]]></summary>
+        <author>
+            <name>raymon725</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[研究称早餐和晚餐“反”着吃可能会降低患心脏病的风险]]></title>
+        <id>https://www.cnbeta.com/articles/science/1133175.htm</id>
+        <link href="https://www.cnbeta.com/articles/science/1133175.htm"/>
+        <updated>2021-05-27T02:11:17.000Z</updated>
+        <summary type="html"><![CDATA[据外媒报道，如果你已经看到了关于植物性饮食及其相关健康益处的研究，但却不能让自己采用这种饮食，那么可能有另一个选择。根据内分泌协会发表的一项新研究，在晚餐时间吃一顿植物性食物可能足以“大大 ”降低患心脏病的风险。
+ 阅读全文]]></summary>
+        <author>
+            <name>vivian</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[防弹少年团麦当劳套餐率先在美上架：未来将陆续登陆50多个国家]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1133173.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1133173.htm"/>
+        <updated>2021-05-27T02:10:08.000Z</updated>
+        <summary type="html"><![CDATA[据外媒报道，粉丝们已经等了一个多月了，现在他们可以像他们的偶像一样大吃特吃了。日前，麦当劳跟韩国明星男子组合防弹少年团(BTS)合作在50多个国家的餐厅推出了BTS套餐，目前，该套餐已经在美国上市。
+ 阅读全文]]></summary>
+        <author>
+            <name>teikaei</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[苹果M1芯片被爆新漏洞 但普通用户完全不需要担心]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1133171.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1133171.htm"/>
+        <updated>2021-05-27T02:00:02.000Z</updated>
+        <summary type="html"><![CDATA[近日，安全专家在 M1 芯片中发现了名为“M1RACLES”漏洞，是存在芯片组设计中的一个错误。该错误允许任意两款应用程序绕过常规系统功能秘密交换数据，如果不对芯片进行修复，这个漏洞是无法修复的。不过发现这个漏洞的人--逆向工程师和开发人员 Hector Martin 表示，Mac 用户并不需要担心这个漏洞，因为它基本上无法用于任何恶意的行为。
+ 阅读全文]]></summary>
+        <author>
+            <name>study875</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[对蜜蜂形态多样性的最大规模分析为研究其复杂的社会行为提供新见解]]></title>
+        <id>https://www.cnbeta.com/articles/science/1133169.htm</id>
+        <link href="https://www.cnbeta.com/articles/science/1133169.htm"/>
+        <updated>2021-05-27T01:57:49.000Z</updated>
+        <summary type="html"><![CDATA[据外媒报道，一项新研究对蜜蜂的结构和形态的多样性进行了可能是最复杂、最详细的观察，为长期以来关于复杂的社会行为如何在蜜蜂进化树的某些分支中产生的争论提供了新的见解。
+ 阅读全文]]></summary>
+        <author>
+            <name>vivian</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Uber首次承认网约车司机工会：与英国GMB工会达成协议]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1133167.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1133167.htm"/>
+        <updated>2021-05-27T01:54:08.000Z</updated>
+        <summary type="html"><![CDATA[北京时间5月27日早间消息 据报道，Uber与英国最大的工会之一达成了一项里程碑式的协议，标志着这家硅谷公司在世界各地首次承认其网约车司机组成的工会。双方周三宣布，英国GMB工会将能够代表英国的数万名Uber司机，赋予他们集体谈判的权力。
+ 阅读全文]]></summary>
+        <author>
+            <name>teikaei</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SpaceX成功发射第29批星链卫星 连续第100次发射成功]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1133165.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1133165.htm"/>
+        <updated>2021-05-27T01:52:04.000Z</updated>
+        <summary type="html"><![CDATA[5月27日消息，美国东部时间周三，SpaceX猎鹰9号火箭将第29批星链卫星成功送入轨道，随后在海上成功着陆。至此，入轨星链卫星总数已达1737颗。当天，这枚火箭在佛罗里达州卡纳维拉尔角太空部队基地40号发射台升空，这是该公司今年执行的第16次发射任务。
+ 阅读全文]]></summary>
+        <author>
+            <name>teikaei</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[19岁网友开发推特死亡宣告功能 可以自行编辑去世后通告]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1133163.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1133163.htm"/>
+        <updated>2021-05-27T01:49:36.000Z</updated>
+        <summary type="html"><![CDATA[如今互联网高度的时代，各种SNS软件让网友有了无数羁绊和牵挂，近日有19岁日本网友活用Twitter的“bot”机能开发自动死亡宣告功能，引发网友点赞，可以让网友自动编辑“遗言”，展示给朋友们。
+ 阅读全文]]></summary>
+        <author>
+            <name>teikaei</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[滴滴出行：礼橙专车、青菜拼车分别更名为滴滴专车、滴滴拼车]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1133161.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1133161.htm"/>
+        <updated>2021-05-27T01:48:49.000Z</updated>
+        <summary type="html"><![CDATA[5月27日早间消息， 滴滴出行发布公告称，自5月27日起，滴滴出行旗下“礼橙专车”、“青菜拼车”将分别更名为“滴滴专车”、“滴滴拼车”，新名称将在滴滴出行App端和小程序端同步更新。
+ 阅读全文]]></summary>
+        <author>
+            <name>teikaei</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Twitter用户可以通过浏览器加入类Clubhouse的Spaces音频室]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1133159.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1133159.htm"/>
+        <updated>2021-05-27T01:47:33.000Z</updated>
+        <summary type="html"><![CDATA[据外媒The Verge报道，Twitter宣布，从周三开始，用户可以通过桌面和移动网络浏览器加入Twitter类似Clubhouse的Spaces，这使得该公司的社交音频室能够更容易被使用。此前，用户只能通过Twitter的iOS和Android应用加入Spaces。
+ 阅读全文]]></summary>
+        <author>
+            <name>teikaei</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[图]西数黑盘SN750 SE​发布：更亲民的PCIe Gen4 SSD]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1133157.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1133157.htm"/>
+        <updated>2021-05-27T01:46:10.000Z</updated>
+        <summary type="html"><![CDATA[在今天发布的几个公告中，西部数据（Western Digital） WD Black（西数黑盘，主要面向游戏玩家）品牌新增了一个更实惠的 PCIe Gen4 SSD 成员。最新推出的 WD Black SN750 SE 并非是现有 SN750 的升级，而是全新、不同的硬盘。SN750 SE 添加了对 PCIe Gen4 的支持，但在其他方面相比 SN750 来说就是降级，规格更接近于 WD Blue SN550。
+ 阅读全文]]></summary>
+        <author>
+            <name>study875</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[探测山火，无人机的另一种打开方式]]></title>
+        <id>https://www.cnbeta.com/articles/science/1133155.htm</id>
+        <link href="https://www.cnbeta.com/articles/science/1133155.htm"/>
+        <updated>2021-05-27T01:46:07.000Z</updated>
+        <summary type="html"><![CDATA[山火带来的破坏令人恐惧，在科技进步的同时，人们也在思考如何让火灾的探测早一些，再早一些。在与时间赛跑的危情下，探测火灾的用时对于消防管理工作至关重要，探测的速度越快，就能够越早控制其蔓延、越早疏散附近的居民。目前，偏远地区的火灾探测通常是通过卫星完成的，但这种方法可能会由于云层遮挡而受到阻碍。更重要的是，即便是最先进的卫星系统，在有能力探测到火灾时，山火的燃烧面积已经达到了 18.4 平方公里。
+ 阅读全文]]></summary>
+        <author>
+            <name>vivian</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AMD和Epic合作 虚幻5将充分利用AMD的CPU和GPU]]></title>
+        <id>https://hot.cnbeta.com/articles/game/1133153.htm</id>
+        <link href="https://hot.cnbeta.com/articles/game/1133153.htm"/>
+        <updated>2021-05-27T01:44:49.000Z</updated>
+        <summary type="html"><![CDATA[在其震撼公布大约一年后，虚幻5引擎现在进入了“抢先体验”使用阶段。AMD确认多年来他们一直和Epic公司密切合作，确保Ryzen CPU和Radeon显卡用户能在创作内容或游玩游戏时能充分利用虚幻5引擎。Epic使用了AMD线程撕裂者CPU打造了这一新引擎，更具体来说是这个新Demo——远古山谷。
+ 阅读全文]]></summary>
+        <author>
+            <name>raymon725</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[不只爱泼斯坦 盖茨的财富大管家也被曝“不良嗜好”]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1133151.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1133151.htm"/>
+        <updated>2021-05-27T01:44:33.000Z</updated>
+        <summary type="html"><![CDATA[在比尔-盖茨的“老好人”形象逐渐崩塌之际，他的又一位“圈内人”被曝出了种种“不良嗜好”。据多位知情人士透露，比尔-盖茨的财富大管家、其家族办公室Cascade Investment的负责人迈克尔-拉森（Michael Larson）曾多次对员工发表种族主义和性言论，并在这家负责增加盖茨夫妇财富的公司里培养了一种“恐惧文化”。
+ 阅读全文]]></summary>
+        <author>
+            <name>vivian</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[杰富瑞：电动汽车“隐含”大量碳排放]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1133149.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1133149.htm"/>
+        <updated>2021-05-27T01:43:23.000Z</updated>
+        <summary type="html"><![CDATA[券商杰富瑞（Jefferies）认为，电动汽车生产目前面临着一个“隐含碳排放”挑战。杰富瑞全球专题研究主管西蒙-鲍威尔（Simon Powell）表示：“为了获得政府所期望的环境红利，用户将不得不比传统内燃机车车使用的时间更长，开得更远。”他解释称，只有这样做，才能够抵消生产电动汽车使用的钢铁、铝和玻璃等材料，以及组装电动汽车的过程中所产生的“大量”碳排放。
+ 阅读全文]]></summary>
+        <author>
+            <name>vivian</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[玩家违法设计、出售“劲舞团”外挂获利近9万元，获刑一年半]]></title>
+        <id>https://hot.cnbeta.com/articles/game/1133147.htm</id>
+        <link href="https://hot.cnbeta.com/articles/game/1133147.htm"/>
+        <updated>2021-05-27T01:39:51.000Z</updated>
+        <summary type="html"><![CDATA[自动按键、自动空格、自动准备、开普通房、绕过敏感词过滤系统向其他玩家喊话……男子张某某编写了一款“劲舞团”游戏的外挂软件。5月26日，澎湃新闻记者从上海市虹口区人民检察院获悉，当日，这起设计、出售游戏外挂软件的非法经营案在上海市虹口区人民法院开庭，经检察机关提起公诉，法院以非法经营罪判处张某某有期徒刑一年六个月，并处罚金人民币10万元。
+ 阅读全文]]></summary>
+        <author>
+            <name>teikaei</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[科学家利用无线电和引力波观测来了解中子星的不同生命阶段]]></title>
+        <id>https://www.cnbeta.com/articles/science/1133145.htm</id>
+        <link href="https://www.cnbeta.com/articles/science/1133145.htm"/>
+        <updated>2021-05-27T01:38:37.000Z</updated>
+        <summary type="html"><![CDATA[据外媒报道，来自澳大利亚国立大学ARC卓越引力波发现中心（OzGrav）的科学家们描述了一种确定双中子星（除黑洞外密度最大的星体）的质量诞生分布的方法。最近发表的研究观察了这些中子星系统的不同生命阶段。
+ 阅读全文]]></summary>
+        <author>
+            <name>vivian</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[苹果、谷歌、微软联手反对维修权 这次他们打算和消费者对着干？]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1133143.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1133143.htm"/>
+        <updated>2021-05-27T01:38:28.000Z</updated>
+        <summary type="html"><![CDATA[大公司之间的对抗，或者大公司和各种政府组织之间的扯皮大家想必看的很多了。尤其是像苹果、谷歌、微软这样的巨头，一会儿和游戏厂商（ 比如 Epic ）掐架，动不动他俩还要互掐，至于被反垄断调查之类的事儿更是没停过，一天不打架，浑身难受。可是最近，这苹果、谷歌、微软三家公司却站到了同一阵线，一起对抗某个 “ 外敌 ” 。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[西数推出WD Black D30外置游戏固态硬盘盒]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1133141.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1133141.htm"/>
+        <updated>2021-05-27T01:34:51.000Z</updated>
+        <summary type="html"><![CDATA[西部数据刚刚为旗下“WD_Black”产品线带来了一款“外置游戏固态硬盘盒”新成员，它就是采用 USB 总线供电、支持高达 900MB/s 读取速度的 D30 Game Drive SSD 系列。容量方面，消费者可选 500GB 到 2TB，且该公司还提供了一个专为 Xbox 游戏主机而打造的特殊版本。
+ 阅读全文]]></summary>
+        <author>
+            <name>raymon725</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[研究：咖啡因可以让你保持清醒，但无法帮助你度过一天]]></title>
+        <id>https://www.cnbeta.com/articles/science/1133139.htm</id>
+        <link href="https://www.cnbeta.com/articles/science/1133139.htm"/>
+        <updated>2021-05-27T01:30:55.000Z</updated>
+        <summary type="html"><![CDATA[据外媒报道，一项关于人类最喜欢的兴奋剂的新研究发现，虽然咖啡因可以帮助饮用者在一夜睡眠不足后保持清醒，但它不一定能帮助你完成白天的任务。在这项研究中，约275名被剥夺了睡眠的参与者在摄入了咖啡因后完成了几项测试。
+ 阅读全文]]></summary>
+        <author>
+            <name>teikaei</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[马斯克旗下Boring公司测试地下汽车隧道：时速64公里 效果似乎一般]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1133137.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1133137.htm"/>
+        <updated>2021-05-27T01:25:45.000Z</updated>
+        <summary type="html"><![CDATA[北京时间5月27日早间消息，据报道，马斯克旗下Boring公司（Boring Company）在拉斯维加斯会议中心（Las Vegas Convention Center，简称LVCC）的地下建了两条隧道，用来运送乘客。本周隧道将会开始运送乘客，用作测试，6月全面运营。
+ 阅读全文]]></summary>
+        <author>
+            <name>teikaei</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“特斯拉迷弟”李想的新烦恼：一季度亏损，新车被质疑]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1133135.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1133135.htm"/>
+        <updated>2021-05-27T01:25:17.000Z</updated>
+        <summary type="html"><![CDATA[5月25日，理想汽车对外发布了2021款理想ONE。26日盘前，理想汽车发布了截止3月31日的2021年第一季度未经审计财报。新款车型发布后的场外争议，并没有产生太多的负面影响。发布财报后的当天交易日，理想汽车在开盘后股价一路上涨，涨幅一度超过16%，领跑新能源汽车板块。
+ 阅读全文]]></summary>
+        <author>
+            <name>teikaei</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NASA将向国际空间站发送一批可爱的鱿鱼]]></title>
+        <id>https://www.cnbeta.com/articles/science/1133133.htm</id>
+        <link href="https://www.cnbeta.com/articles/science/1133133.htm"/>
+        <updated>2021-05-27T01:24:39.000Z</updated>
+        <summary type="html"><![CDATA[据外媒报道，下月初，美国宇航局（NASA）将把一批科学实验品装入一个运往国际空间站的货运舱。其中一项实验涉及一群微小的、可爱的鱿鱼。根据该航天局的说法，这些小动物将是一项关于太空飞行对有益微生物的影响以及它们与宿主的相互作用的实验的一部分。
+ 阅读全文]]></summary>
+        <author>
+            <name>vivian</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[用户吐槽iOS 14.6导致iPhone过热和掉电太快]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1133131.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1133131.htm"/>
+        <updated>2021-05-27T01:23:46.000Z</updated>
+        <summary type="html"><![CDATA[苹果在几天前发布了 iOS 14.6 等主要更新，引入了一些深受用户欢迎的附加功能。然而一些 iPhone 用户却在抱怨，他们的设备在更新后遭遇了异常发热和电池消耗过快等问题。从社交媒体上的网友反馈来看，掉电的情况似乎有些严重。
+ 阅读全文]]></summary>
+        <author>
+            <name>raymon725</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[贝索斯最后一次主持亚马逊股东大会 他都说了些什么？]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1133129.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1133129.htm"/>
+        <updated>2021-05-27T01:21:54.000Z</updated>
+        <summary type="html"><![CDATA[据报道，亚马逊创始人杰夫·贝索斯 （Jeff Bezos） 今日最后一次以 CEO 的身份主持该公司年度股东大会。贝索斯强调了亚马逊在过去一年所取得的成功，但是也指出了公司后续所面临的挑战。
+ 阅读全文]]></summary>
+        <author>
+            <name>study875</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[视频]官方详解Lucid Air车载系统：容易上手 且具成长性]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1133127.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1133127.htm"/>
+        <updated>2021-05-27T01:18:48.000Z</updated>
+        <summary type="html"><![CDATA[在 Lucid Motors 公开展示全电动版轿车 Air 最终量产版 8 个月之后，该公司在今天发布的新闻稿中终于展示了内饰设计和车载娱乐系统。今天展示的内容包括 34 英寸的曲面屏和超大的辅助屏幕、基础软件交互、集成应用程序以及支持亚马逊 Alexa 语音助手。一旦该汽车制造商在今年下半年开始交付车辆，司机和乘客都可以使用这些技术。
+ 阅读全文]]></summary>
+        <author>
+            <name>study875</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[全球首个新冠灭活疫苗Ⅲ期临床数据正式发表]]></title>
+        <id>https://www.cnbeta.com/articles/science/1133125.htm</id>
+        <link href="https://www.cnbeta.com/articles/science/1133125.htm"/>
+        <updated>2021-05-27T01:17:37.000Z</updated>
+        <summary type="html"><![CDATA[5月26日，国际医学期刊《美国医学会杂志》（The Journal of the American Medical Association, JAMA，IF45.54）刊登了国药集团中国生物发表的《两种新型冠状病毒灭活疫苗对成人COVID-19感染的保护效力评价》（“ Effect of 2 Inactivated SARS-CoV-2 Vaccines on Symptomatic COVID-19 Infection in Adults”）。
+ 阅读全文]]></summary>
+        <author>
+            <name>teikaei</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[雅马哈推出汽车技术品牌：2000马力电驱系统史上最强]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1133123.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1133123.htm"/>
+        <updated>2021-05-27T01:15:59.000Z</updated>
+        <summary type="html"><![CDATA[提及雅马哈你会想到什么？摩托车还是电子琴？事实上，摩托车和电子琴仅仅是雅马哈众多业务中的两个，喜欢玩跨界的雅马哈，涉及的领域只有猜不到，没有它做不到。日前，雅马哈对外宣布，汽车技术概念品牌“α live”正式成立，并公布其首批产品。其中油冷式电动机单元，安装在四个车轮上时，最大输出功率为约2000马力。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[研究：粪便和尿液的气味痕迹可以促进对大象的保护]]></title>
+        <id>https://www.cnbeta.com/articles/science/1133121.htm</id>
+        <link href="https://www.cnbeta.com/articles/science/1133121.htm"/>
+        <updated>2021-05-27T01:15:56.000Z</updated>
+        <summary type="html"><![CDATA[据外媒报道，新研究表明，旅行中的大象会密切注意其他大象留下的粪便和尿液的气味痕迹。科学家们监测了这些被充分利用的路径，他们发现野生非洲大草原大象--尤其是那些独自旅行的--会“高度专注”，它们会用鼻子嗅和追踪踪迹。
+ 阅读全文]]></summary>
+        <author>
+            <name>teikaei</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[时隔四年：华为重启WATCH旗舰系列 搭载全新鸿蒙OS]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1133119.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1133119.htm"/>
+        <updated>2021-05-27T01:15:05.000Z</updated>
+        <summary type="html"><![CDATA[华为今日正式“官宣”华为WATCH 3，这是6月2日鸿蒙产品发布会首款亮相的鸿蒙新品。时隔四年，华为重启WATCH旗舰系列，搭载鸿蒙系统。健康方面，或将实现年初花粉年会发布的智能体温健康研究和冠心病筛查研究成果。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[微软官宣6月13日联合贝塞斯达举办Xbox游戏展示会]]></title>
+        <id>https://hot.cnbeta.com/articles/game/1133117.htm</id>
+        <link href="https://hot.cnbeta.com/articles/game/1133117.htm"/>
+        <updated>2021-05-27T01:13:12.000Z</updated>
+        <summary type="html"><![CDATA[在一系列爆料之后，微软终于在 Xbox 官方博客上宣布了将于美东时间 6 月 13 日（星期天）下午 1 点，携手贝塞斯达举办一场时长 90 分钟的游戏展示会。Xbox 游戏市场营销总经理 Aaron Greenberg 博客文章中称，本次活动将集中于展示 Xbox 游戏工作室、Bethesda、以及来自全球合作伙伴和创作者们打造的游戏内容。
+ 阅读全文]]></summary>
+        <author>
+            <name>raymon725</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Merlin Labs将为Dynamic的55架King Air飞机提供自动驾驶技术]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1133115.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1133115.htm"/>
+        <updated>2021-05-27T01:11:36.000Z</updated>
+        <summary type="html"><![CDATA[据外媒The Verge报道，自主飞行初创公司Merlin Labs正在“走出隐身模式”，宣布它已经从Google风投和First Round Capital筹集了2500万美元的资金。该公司还与航空服务承包商Dynamic Aviation达成了协议，开始将其无人驾驶飞机技术投入商业运营。
+ 阅读全文]]></summary>
+        <author>
+            <name>vivian</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[科学家设计出可直接从植物细胞中提取化学物质的微型采集机]]></title>
+        <id>https://www.cnbeta.com/articles/science/1133113.htm</id>
+        <link href="https://www.cnbeta.com/articles/science/1133113.htm"/>
+        <updated>2021-05-27T01:07:42.000Z</updated>
+        <summary type="html"><![CDATA[据外媒报道，想象一下，如果为了获取苹果汁，整棵树都要碾碎，然后得到的液体还必须跟其他东西分开--这就是目前治疗性植物提取物的情况，但也许不会持续太久，因为现在有了一种新的小型采集机。目前由丹麦技术大学开发的装置包括一个机器人操纵的微针和一个显微镜相机，两者都跟计算机相连。
+ 阅读全文]]></summary>
+        <author>
+            <name>teikaei</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[斯坦福大学的新算法比较不同物种的细胞 以寻找相似之处]]></title>
+        <id>https://www.cnbeta.com/articles/science/1133111.htm</id>
+        <link href="https://www.cnbeta.com/articles/science/1133111.htm"/>
+        <updated>2021-05-27T00:53:56.000Z</updated>
+        <summary type="html"><![CDATA[来自斯坦福大学的一个生物工程师小组开发了一种具有独特和专门功能的新算法。该算法被设计用来比较不同物种的细胞。无论哪个物种，该算法都能识别相似的细胞类型，并可用于包括鱼、小鼠、扁形虫和海绵等进化了数百万年的生物。
+ 阅读全文]]></summary>
+        <author>
+            <name>vivian</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[九成大公司开发者认为开源在公司未来中扮演重要角色]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1133109.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1133109.htm"/>
+        <updated>2021-05-27T00:53:47.000Z</updated>
+        <summary type="html"><![CDATA[近日，芬兰软件公司 Aiven 对 200 位来自大公司的英国开发者进行了调查，结果显示 90.5% 的开发者认为开源在公司未来中将扮演重要角色。近年来，随着企业寻找具有成本效益和创新的解决方案来推动增长，企业对开源软件的采用已经迅速增长。而新冠疫情加速了这个趋势，企业正在研究如何在经济不景气的情况下改善业务流程并保持增长。
+ 阅读全文]]></summary>
+        <author>
+            <name>study875</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[伊朗电力短缺 主因之一是加密货币“挖矿”耗电太多]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1133107.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1133107.htm"/>
+        <updated>2021-05-27T00:52:38.000Z</updated>
+        <summary type="html"><![CDATA[近期伊朗电力供应出现问题，伊朗多地已开始采取轮流断电的措施，此前还发生过无预警断电，引发伊朗民众和议会不满。对此，伊朗电力部门发言人5月24日接受伊朗媒体采访时表示，电量短缺的主要原因有天气炎热、工业繁荣导致用电量上升、干旱使得水力发电量减少、以及伊朗私人加密货币“矿场”耗电太多等等。
+ 阅读全文]]></summary>
+        <author>
+            <name>teikaei</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[科学家开发出“反向”3D打印法以更快制造骨修复支架植入物]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1133105.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1133105.htm"/>
+        <updated>2021-05-27T00:43:53.000Z</updated>
+        <summary type="html"><![CDATA[据外媒报道，有一段时间，相信大家一直有听说道支架状植入物可以促进骨组织或软骨重新生长到缺失的部位。现在，科学家已经开发出一种能以更快速、更容易的3D打印技术打印出这种植入物的方法。
+ 阅读全文]]></summary>
+        <author>
+            <name>teikaei</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[特斯拉迄今已在全球安装了20万台Powerwall]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1133103.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1133103.htm"/>
+        <updated>2021-05-27T00:39:27.000Z</updated>
+        <summary type="html"><![CDATA[据外媒TechCrunch报道，特斯拉周三发推文称，该公司已经安装了第20万台Powerwall，这是该公司的家用电池存储产品。特斯拉首席财务官Zachary Kirkhorn在4月份的第一季度财报电话会议上告诉投资者，特斯拉正在继续处理“Powerwall的多季度积压工作”，这表明未来几个月的安装量将继续飙升。
+ 阅读全文]]></summary>
+        <author>
+            <name>vivian</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[7月5日亚马逊成立27周年之际 Andrew Jassy正式接任公司CEO]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1133101.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1133101.htm"/>
+        <updated>2021-05-27T00:38:43.000Z</updated>
+        <summary type="html"><![CDATA[7 月 5 日亚马逊成立 27 周年之际，安德鲁·R·贾西（Andrew R. Jassy）正式从杰夫·贝索斯（Jeff Bezos）手中接过“全球最大电商”的接力棒。在本周三的股东大会上，Jassy 确认将于 7 月 5 日正式接任亚马逊公司的首席执行官。
+ 阅读全文]]></summary>
+        <author>
+            <name>study875</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[涨工资都招不到人 美国一麦当劳出奇招：免费送iPhone手机]]></title>
         <id>https://www.cnbeta.com/articles/tech/1133099.htm</id>
