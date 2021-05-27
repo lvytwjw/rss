@@ -130,6 +130,24 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=341020",
+          "author": "Robin Rendle",
+          "description": "Most images on the web are superfluous. If I might be a jerk for a bit, 99% of them aren’t event that helpful at all (although there are rare exceptions). That’s because images don’t often complement the text they’re …\nThe post How to Show Images on Click appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/how-to-show-images-on-click/",
+          "publishedOn": "2021-05-27T14:25:29.000Z",
+          "wordCount": 1185,
+          "title": "How to Show Images on Click"
+        },
+        {
+          "id": "https://css-tricks.com/?p=340910",
+          "author": "Michael Rispoli",
+          "description": "Serverless architectures have brought engineering teams a great number of benefits. We get simpler deployments, automatic and infinite scale, better concurrency, and a stateless API surface. It’s hard to imagine going back to the world of managed services, broken local …\nThe post Rethinking Postgres in a Post-Server World appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/rethinking-postgres-in-a-post-server-world/",
+          "publishedOn": "2021-05-27T14:23:23.000Z",
+          "wordCount": 2327,
+          "title": "Rethinking Postgres in a Post-Server World"
+        },
+        {
           "id": "https://css-tricks.com/?p=339759",
           "author": "Chris Coyier",
           "description": "In his last An Event Apart talk, Dave made a point that it’s really only just about right now that Web Components are becoming a practical choice for production web development. For example, it has only been about a year …\nThe post Awesome Standalone (Web Components) appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
@@ -645,6 +663,15 @@
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
         {
+          "id": "60a325c6906c5207e3a7da25",
+          "author": null,
+          "description": "In this article, I'll teach you how to make a basketball using materials and textures in Unity. You can extend this micro-concept to create any kind of ball like a football, tennis ball, or snooker balls.  That said, these techniques aren't just limited to creating round 3D objects like balls.",
+          "link": "https://www.freecodecamp.org/news/how-to-make-a-basketball-in-unity-with-materials-and-textures/",
+          "publishedOn": "2021-05-27T15:16:34.000Z",
+          "wordCount": 1399,
+          "title": "How to Make a Bouncing Basketball in Unity with Materials and Textures 🏀"
+        },
+        {
           "id": "60a44b9f906c5207e3a7e098",
           "author": null,
           "description": "In this tutorial you will create an app that generates dynamic animated text using Giphy's API with ReactJS. After that I'll go over some of the other API features Giphy provides that you can use to make other interesting projects. You can find the code for the tutorial here. Video",
@@ -885,6 +912,15 @@
       "feedUrl": "https://www.cnbeta.com/backend.php",
       "siteUrl": "https://www.cnbeta.com",
       "articles": [
+        {
+          "id": "https://www.cnbeta.com/articles/science/1133461.htm",
+          "author": "ugmbbc",
+          "description": "美国宇航局即将发射的南希-格雷斯-罗曼太空望远镜将看到数以千计的被称为超新星的爆炸性恒星，这些恒星横跨广阔的时间和空间。利用这些观测，天文学家旨在照亮几个宇宙之谜，为了解宇宙遥远的过去和朦胧的现在提供一个窗口。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/science/1133461.htm",
+          "publishedOn": "2021-05-27T15:05:11.000Z",
+          "wordCount": 200,
+          "title": "NASA的罗曼太空望远镜利用爆炸的恒星来解决重要的宇宙之谜"
+        },
         {
           "id": "https://www.cnbeta.com/articles/tech/1133459.htm",
           "author": "ugmbbc",

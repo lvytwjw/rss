@@ -2,10 +2,55 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://lvytwjw.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-05-27T14:29:43.805Z</updated>
+    <updated>2021-05-27T15:18:43.413Z</updated>
     <generator>osmosfeed 1.9.0</generator>
     <link rel="alternate" href="https://lvytwjw.github.io/rss/index.html"/>
     <link rel="self" href="https://lvytwjw.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to Make a Bouncing Basketball in Unity with Materials and Textures 🏀]]></title>
+        <id>60a325c6906c5207e3a7da25</id>
+        <link href="https://www.freecodecamp.org/news/how-to-make-a-basketball-in-unity-with-materials-and-textures/"/>
+        <updated>2021-05-27T15:16:34.000Z</updated>
+        <summary type="html"><![CDATA[In this article, I'll teach you how to make a basketball using materials and textures in Unity. You can extend this micro-concept to create any kind of ball like a football, tennis ball, or snooker balls.  That said, these techniques aren't just limited to creating round 3D objects like balls.]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NASA的罗曼太空望远镜利用爆炸的恒星来解决重要的宇宙之谜]]></title>
+        <id>https://www.cnbeta.com/articles/science/1133461.htm</id>
+        <link href="https://www.cnbeta.com/articles/science/1133461.htm"/>
+        <updated>2021-05-27T15:05:11.000Z</updated>
+        <summary type="html"><![CDATA[美国宇航局即将发射的南希-格雷斯-罗曼太空望远镜将看到数以千计的被称为超新星的爆炸性恒星，这些恒星横跨广阔的时间和空间。利用这些观测，天文学家旨在照亮几个宇宙之谜，为了解宇宙遥远的过去和朦胧的现在提供一个窗口。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Show Images on Click]]></title>
+        <id>https://css-tricks.com/?p=341020</id>
+        <link href="https://css-tricks.com/how-to-show-images-on-click/"/>
+        <updated>2021-05-27T14:25:29.000Z</updated>
+        <summary type="html"><![CDATA[Most images on the web are superfluous. If I might be a jerk for a bit, 99% of them aren’t event that helpful at all (although there are rare exceptions). That’s because images don’t often complement the text they’re …
+The post How to Show Images on Click appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Robin Rendle</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rethinking Postgres in a Post-Server World]]></title>
+        <id>https://css-tricks.com/?p=340910</id>
+        <link href="https://css-tricks.com/rethinking-postgres-in-a-post-server-world/"/>
+        <updated>2021-05-27T14:23:23.000Z</updated>
+        <summary type="html"><![CDATA[Serverless architectures have brought engineering teams a great number of benefits. We get simpler deployments, automatic and infinite scale, better concurrency, and a stateless API surface. It’s hard to imagine going back to the world of managed services, broken local …
+The post Rethinking Postgres in a Post-Server World appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Michael Rispoli</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[科学家发现近视人群睡眠质量更差]]></title>
         <id>https://www.cnbeta.com/articles/tech/1133459.htm</id>
