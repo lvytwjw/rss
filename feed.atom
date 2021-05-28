@@ -2,10 +2,131 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://lvytwjw.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-05-28T03:24:55.283Z</updated>
+    <updated>2021-05-28T05:22:57.896Z</updated>
     <generator>osmosfeed 1.9.0</generator>
     <link rel="alternate" href="https://lvytwjw.github.io/rss/index.html"/>
     <link rel="self" href="https://lvytwjw.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[来势汹汹：SSC为Tuatara推出两个新版本车型]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1133693.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1133693.htm"/>
+        <updated>2021-05-28T04:51:30.000Z</updated>
+        <summary type="html"><![CDATA[据外媒报道，SSC Tuatara曾是世界上最快的汽车，然后它失去了这个称号，现在它又来了--但差距很小。眼下，SSC正在充满尖叫的直道上休息一下，它将再次试图证明自己是世界上最快的汽车。不过现在，它推出了两个新的版本，它们专为曲折和转弯的赛道设计。
+ 阅读全文]]></summary>
+        <author>
+            <name>teikaei</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[奥斯卡·艾萨克将出演Disney+《月光骑士》]]></title>
+        <id>https://hot.cnbeta.com/articles/movie/1133691.htm</id>
+        <link href="https://hot.cnbeta.com/articles/movie/1133691.htm"/>
+        <updated>2021-05-28T04:47:37.000Z</updated>
+        <summary type="html"><![CDATA[月光骑士（Moon Knight）又名马克·史派克（Marc Spector），其拥有来自埃及月亮神的力量。然而这种禀赋也让他付出了一些代价，比如具有多重相互矛盾的性格，包括出租车司机、富有的花花公子、以及蒙面的守夜人。最新消息是，漫威刚刚宣布了奥斯卡·艾萨克（Oscar Issac）将加盟 Disney+《月光骑士》项目。
+ 阅读全文]]></summary>
+        <author>
+            <name>raymon725</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[视频]亚马逊Luna预告：6月将新增《如龙0》等三款游戏]]></title>
+        <id>https://hot.cnbeta.com/articles/game/1133689.htm</id>
+        <link href="https://hot.cnbeta.com/articles/game/1133689.htm"/>
+        <updated>2021-05-28T04:44:48.000Z</updated>
+        <summary type="html"><![CDATA[亚马逊今天公开了即将于下月登陆 Luna 云游戏服务的新游戏阵容。Luna+ 频道将会获得《如龙0：誓言之地》、《空战猎鹰》（The Falconeer）和《杀手皇后：黑》（Killer Queen Black）三款游戏。而在今年 5 月，Luna+ 添加了《RAD》、《Rogue Heroes: Ruins of Tasos》、《The Wonderful 101》、《The Legend of Heroes: Trails of Cold Steel IV》游戏。
+ 阅读全文]]></summary>
+        <author>
+            <name>study875</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Airbnb强调：今年夏季结束前派对禁令依然有效]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1133687.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1133687.htm"/>
+        <updated>2021-05-28T04:29:38.000Z</updated>
+        <summary type="html"><![CDATA[伴随着英国和美国等地区放宽了对 COVID-19 疫情的限制，旅游业也在快速升温。在 2020 年 8 月，Airbnb 宣布了一项全球派对禁令，并表示禁令“长期有效，直到进一步通知”。今天，Airbnb 再次强调这项禁令至少会持续到 2021 年夏季结束。
+ 阅读全文]]></summary>
+        <author>
+            <name>study875</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[苹果与内华达大学里诺分校达成合作 向每位新生赠送一台iPad Air]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1133685.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1133685.htm"/>
+        <updated>2021-05-28T04:13:57.000Z</updated>
+        <summary type="html"><![CDATA[美国内华达大学里诺分校，刚刚在官网上宣布了与苹果达成的一项名为“Digital Wolf Pake Initiative”的新合作。其旨在搭建一个通用的学习平台，并且让每位学生都有平等的技术使用权。按照计划，所有即将在 2021 年秋季入学的新生，都将免费获得一台 iPad Air 平板电脑、Apple Pencil 手写笔、以及智能键盘保护套。
+ 阅读全文]]></summary>
+        <author>
+            <name>raymon725</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rivian宣布R1T电动皮卡车7月交付 越野升级包可自行选配]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1133683.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1133683.htm"/>
+        <updated>2021-05-28T04:11:15.000Z</updated>
+        <summary type="html"><![CDATA[汽车厂商 Rivian 宣布首批 R1T 电动皮卡车将于今年 7 月开始交付，要比预期时间晚了 1 个月时间。不过那些预订 Launch Edition 型号的车主，可能要等到 2022 年了。在宣布这条消息的同时，Rivian 还宣布对 R1T 和 R1S SUV 的标准配置进行调整，不再强制 Off-Road Upgrade 配置，用户可以自行选购。
+ 阅读全文]]></summary>
+        <author>
+            <name>study875</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[三星拜耳向AI健康应用开发商Ada投资9000万美元]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1133681.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1133681.htm"/>
+        <updated>2021-05-28T03:58:03.000Z</updated>
+        <summary type="html"><![CDATA[三星、拜耳等大企业，刚刚向 Ada Health 软件开发商投资了 9000 万美元，使得该公司的融资总额达到了 1.5 亿美元。Neowin 指出，Ada 致力于同名健康 App 的开发，特点是能够借助 AI 技术来评估所描述的症状，并给出相当准确的分析结果。
+ 阅读全文]]></summary>
+        <author>
+            <name>raymon725</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[英伟达RTX 3080 Ti显卡《奇点灰烬》基准测试成绩曝光]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1133679.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1133679.htm"/>
+        <updated>2021-05-28T03:39:08.000Z</updated>
+        <summary type="html"><![CDATA[英伟达即将于 5 月 31 日正式揭开 GeForce RTX 3080 Ti 独显的神秘面纱，基准测试数据库也陆续曝出了它的跑分成绩。早些时候，Geekbench 已证实 RTX 3080 Ti 的 CUDA 性能与 RTX 3090 相当。现在，又有人在旧版《奇点灰烬》中对其 DX12 游戏性能进行了一番测试。
+ 阅读全文]]></summary>
+        <author>
+            <name>raymon725</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[苹果发布第十五份供应商责任进展报告　新增应对新冠举措]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1133677.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1133677.htm"/>
+        <updated>2021-05-28T03:29:18.000Z</updated>
+        <summary type="html"><![CDATA[5月28日消息，苹果公司于今日在其网站上发布了第十五份年度《供应商责任进展报告》，给出了过去一年中苹果在供应商责任，卫生、安全与健康，环境保护等方面的详细数据。与往年不同的是，该报告中新增了苹果应对新冠疫情的举措。
+ 阅读全文]]></summary>
+        <author>
+            <name>vivian</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[研究：每座城市有自己独特的微生物指纹]]></title>
+        <id>https://www.cnbeta.com/articles/science/1133675.htm</id>
+        <link href="https://www.cnbeta.com/articles/science/1133675.htm"/>
+        <updated>2021-05-28T03:28:59.000Z</updated>
+        <summary type="html"><![CDATA[据外媒报道，当Chris Mason的女儿还在蹒跚学步时，他好奇地看着她在纽约地铁上触摸物体表面。然后有一天，她舔了一根杆子。“这是一种明显的微生物交换，”Mason说道，“我非常想知道发生了什么事。”据悉，Mason是威尔康奈尔医学院的遗传学家。
+ 阅读全文]]></summary>
+        <author>
+            <name>teikaei</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[三星显示器公司可能会将LCD面板生产延长至2022年底]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1133673.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1133673.htm"/>
+        <updated>2021-05-28T03:28:07.000Z</updated>
+        <summary type="html"><![CDATA[据国外媒体报道，三星电子旗下的面板制造商三星显示器公司（Samsung Display）可能会将LCD面板的生产时间延长至2022年底。据悉，三星一直在韩国和中国生产LCD面板。2020年3月份，三星显示器公司表示，将在2020年年底前结束所有LCD面板的生产，其中包括韩国本土三座大尺寸LCD面板厂以及此前并未传出关厂消息的苏州8.5代线。
+ 阅读全文]]></summary>
+        <author>
+            <name>raymon725</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[宏碁刷新TravelMate P6商务本与Spin P6变形本：升级11代i7 vPro]]></title>
         <id>https://www.cnbeta.com/articles/tech/1133671.htm</id>
