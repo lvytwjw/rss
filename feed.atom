@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://lvytwjw.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-05-28T18:36:41.155Z</updated>
+    <updated>2021-05-28T20:03:54.468Z</updated>
     <generator>osmosfeed 1.9.0</generator>
     <link rel="alternate" href="https://lvytwjw.github.io/rss/index.html"/>
     <link rel="self" href="https://lvytwjw.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[三星Galaxy Tab S8系列规格、功能和定价细节泄露]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1133941.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1133941.htm"/>
+        <updated>2021-05-28T19:16:01.000Z</updated>
+        <summary type="html"><![CDATA[三星的下一个旗舰平板产品的规格和细节已经通过三星在韩国的一项调查泄露出来。三星Galaxy Tab S8系列的代号为 "Basquait"，入门级版本Basquait 1将有一个11英寸TFT 120Hz显示屏，8000mAh电池和45W充电功率，将由 "最快的下一代"处理器支持，并有8GB内存和128/256GB存储，它将配备一个双镜头相机模块，厚度为0.63厘米。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[英国警方突袭的大麻农场原来是比特币矿场 正在从电网中偷电]]></title>
         <id>https://www.cnbeta.com/articles/tech/1133939.htm</id>
