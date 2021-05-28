@@ -654,15 +654,6 @@
           "publishedOn": "2021-04-29T12:15:00.000Z",
           "wordCount": 5325,
           "title": "The Humble `<img>` Element And Core Web Vitals"
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/04/image-optimization-pre-release/",
-          "author": "hello@smashingmagazine.com (Vitaly Friedman)",
-          "description": "The cat is out! For the last year, we’ve been working with Addy Osmani on a new Smashing Book all around image optimization. And now it’s here. Meet “Image Optimization”, our practical modern guide to delivering high-quality images on the web with the best performance.",
-          "link": "https://smashingmagazine.com/2021/04/image-optimization-pre-release/",
-          "publishedOn": "2021-04-28T13:20:00.000Z",
-          "wordCount": 2130,
-          "title": "Meet Image Optimization, A New Smashing Book By Addy Osmani"
         }
       ]
     },
@@ -930,6 +921,465 @@
       "feedUrl": "https://www.cnbeta.com/backend.php",
       "siteUrl": "https://www.cnbeta.com",
       "articles": [
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1133671.htm",
+          "author": "raymon725",
+          "description": "宏碁今日发布了面向专业人士的新款 TravelMate P6 商务本和 Spin P6 变形本，特点是升级了英特尔 11 代酷睿 i7 vPro 处理器。存储方面，最高可选 32GB DDR4 内存 + 1TB PCIe 3.0 x4 SSD 。此外 Spin P6 变形本带有可 360° 调节的铰链，康宁大猩猩玻璃防护的触摸屏，以及可搭配 Windows Ink 使用的 Acer Active 手写笔。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1133671.htm",
+          "publishedOn": "2021-05-28T03:22:45.000Z",
+          "wordCount": 347,
+          "title": "宏碁刷新TravelMate P6商务本与Spin P6变形本：升级11代i7 vPro"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1133669.htm",
+          "author": "teikaei",
+          "description": "今日早间，京东物流正式登陆港交所主板，股份代号为2618。上市首日开盘价46.05港元每股，较发行价40.36港元上涨14.1%。以此计算，目前京东物流市值达到2805.2亿港元。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1133669.htm",
+          "publishedOn": "2021-05-28T03:21:16.000Z",
+          "wordCount": 205,
+          "title": "物流老二上市了，快递市场风云再起"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1133667.htm",
+          "author": "teikaei",
+          "description": "据知情人士称，韩国现代汽车将大幅削减其产品中的内燃机车型数量，以腾出资源投资于电动汽车。其中一位消息人士称，此举将导致该公司由化石燃料驱动的车型数量减少一半，并补充称，这一战略已于3月份得到现代管理层的批准。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1133667.htm",
+          "publishedOn": "2021-05-28T03:09:08.000Z",
+          "wordCount": 200,
+          "title": "消息称现代汽车拟将燃油车型削减一半"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1133665.htm",
+          "author": "vivian",
+          "description": "5月28日上午消息，在2021云峰会上，阿里云宣布：飞天操作系统正在全面兼容X86、ARM、RISC-V等多种芯片架构，实现“一云多芯”。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1133665.htm",
+          "publishedOn": "2021-05-28T03:09:02.000Z",
+          "wordCount": 203,
+          "title": "阿里云宣布全面兼容X86、ARM、RISC-V等多种芯片架构"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/science/1133663.htm",
+          "author": "vivian",
+          "description": "北京时间5月28日消息，想象你是一位海洋生物学家，此刻正遥控着深潜器探索科考船下方幽暗的海洋深渊。你的眼睛盯着屏幕，同时操纵着深潜器下降到几千米深处。一开始，深潜器在阳光充足的水体中航行，可以见到丰富的鱼类和水母，但随着光线渐暗，水体中只能见到不断“飘落”的碎屑，这些都是来自上方的生物尸体和废物。科学家将这些柔和而密集的碎屑称为“海雪”。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/science/1133663.htm",
+          "publishedOn": "2021-05-28T03:08:15.000Z",
+          "wordCount": 199,
+          "title": "地球上最大的细胞：构筑神奇的海底“花园”"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/science/1133661.htm",
+          "author": "vivian",
+          "description": "5月27日，中国科学院微生物研究所官方微信发布消息称，由中国科学院微生物研究所和智飞龙科马联合研发的新冠重组蛋白疫苗在北京落地开打。来自该疫苗研发基地中科院微生物所的部分科研工作者在海淀区的“中科院疫苗接种专场”注射了第一针。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/science/1133661.htm",
+          "publishedOn": "2021-05-28T03:07:02.000Z",
+          "wordCount": 204,
+          "title": "接种三针的新冠重组蛋白疫苗在北京落地开打"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/science/1133659.htm",
+          "author": "vivian",
+          "description": "巴西病毒学会（SBV）25日宣布，已鉴定出一种新的新冠病毒变种毒株。该变种毒株被命名为P.4，该病毒株目前正在圣保罗州内陆地区传播。现在尚不清楚新的变种毒株是否比已知变种更加危险。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/science/1133659.htm",
+          "publishedOn": "2021-05-28T03:06:06.000Z",
+          "wordCount": 201,
+          "title": "巴西又发现新冠变种新毒株  巴卫生部长：或迎来第三波疫情高峰"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1133657.htm",
+          "author": "teikaei",
+          "description": "5月28日消息，转转集团提供的数据显示，年初特别是4月份以来，转转平台“自由市场”中校外教培机构、小型补习班从业者转卖课桌椅的商品信息发布明显增多，卖家多来自北上广深以及天津、杭州、苏州、宁波、贵阳等地。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1133657.htm",
+          "publishedOn": "2021-05-28T03:04:07.000Z",
+          "wordCount": 203,
+          "title": "转转：教培机构、补习班转售闲置课桌椅信息明显增加"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1133655.htm",
+          "author": "teikaei",
+          "description": "华为卖车掀起了两股风暴：一股在汽车圈，另一股在二级市场。在种种入股车企的传闻之下，华为的一纸《关于华为不造车的声明》，让北汽蓝谷、长安汽车和小康股份等“华为造车概念股”的股价应声大跌。不过，新浪财经近日走访发现，小康股份的赛力斯SF5通过入驻华为门店销售，已经尝到了“甜头”。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1133655.htm",
+          "publishedOn": "2021-05-28T03:03:23.000Z",
+          "wordCount": 215,
+          "title": "实探华为卖车：半小时20人问询 附近特斯拉生意被抢？"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1133653.htm",
+          "author": "vivian",
+          "description": "据外媒报道，当地时间周三，荷兰一家法院命令能源巨头荷兰皇家壳牌公司在十年内将其碳排放减少45%。法院对“地球之友”（ Friends of the Earth）荷兰分部提出的诉讼作出裁决，认为荷兰皇家壳牌公司目前的减排计划与《巴黎协定》的目标不相符。壳牌公司已经宣布，它打算对这一裁定提出上诉。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1133653.htm",
+          "publishedOn": "2021-05-28T02:58:20.000Z",
+          "wordCount": 212,
+          "title": "荷兰法院命令壳牌公司在2030年前将其碳排放减少45%"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/science/1133651.htm",
+          "author": "teikaei",
+          "description": "据外媒报道，一项新建模研究显示，在应对多房间建筑内的新冠病毒颗粒水平时，剧烈和快速的空气交换可能并不总是一件好事。这项研究表明，在一个多房间建筑中，快速的空气交换可以将病毒从源室迅速传播到其他高浓度的房间。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/science/1133651.htm",
+          "publishedOn": "2021-05-28T02:57:24.000Z",
+          "wordCount": 200,
+          "title": "研究：建筑物内更快的空气交换并不总是利于应对新冠病毒水平"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1133649.htm",
+          "author": "study875",
+          "description": "根据 Counterpoint Research 发布的最新报告称，2021 年第 1 季度全球智能手表的出货量同比增长了 35%。其中，苹果继续保持领头羊位置。由于 Apple Watch Series 6 的需求增加，导致其 Apple Watch 产品线的整体同比增长了 50%。该公司本季度的市场份额也比去年同期增长了 3 个百分点，达到 33.5%。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1133649.htm",
+          "publishedOn": "2021-05-28T02:49:26.000Z",
+          "wordCount": 266,
+          "title": "2021Q1智能手表出货量同比增长35% 每3台就有1台是Apple Watch"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/science/1133647.htm",
+          "author": "vivian",
+          "description": "据外媒报道，发表在《国际肥胖症杂志》上的一项研究考察了三项大型人口研究，发现经常喝大量牛奶的人的好胆固醇和坏胆固醇水平都较低，尽管他们的BMI水平比不喝牛奶的人高。对其他大型研究的进一步分析也表明，经常喝牛奶的人患冠心病的风险要低14%。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/science/1133647.htm",
+          "publishedOn": "2021-05-28T02:45:06.000Z",
+          "wordCount": 201,
+          "title": "对近200万人的研究显示：喝牛奶和胆固醇增加之间没有联系"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1133645.htm",
+          "author": "study875",
+          "description": "日前发布的 iOS 14.6 更新虽然引入了大量改进，但也有不少用户反馈存在电池过度消耗和发热问题。而 iOS 14.5.1 版本也被曝光存在“降速门”，iPhone 11/12 升级安装之后性能甚至不如 iPhone XR。近日，油管频道 iAppleBytes 放出了一段将近 37 分钟的视频，展示了 iPhone SE、 iPhone 6s 到 iPhone 11 两个版本的性能差异。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1133645.htm",
+          "publishedOn": "2021-05-28T02:38:43.000Z",
+          "wordCount": 235,
+          "title": "[视频]iOS 14.5.1“降速门”修复了吗？和iOS 14.6速度对比"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1133643.htm",
+          "author": "raymon725",
+          "description": "宏碁（Acer）今日推出了面向创作人士的多款 ConceptD 3 / 5 / 7 系笔记本电脑新品，首先介绍 ConceptD 7 Ezel 机型：其升级到了英特尔 11 代酷睿 i7-11800H 标压处理器 + 英伟达 RTX 3080 独显。如需更高的性能，ConceptD 7 Ezel Pro 机型亦提供了至强 W-11955M 移动处理器 + 英伟达 Quadro RTX A5000 / A3000 专业显卡的选项。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1133643.htm",
+          "publishedOn": "2021-05-28T02:38:16.000Z",
+          "wordCount": 450,
+          "title": "宏碁刷新ConceptD创作者笔记本电脑产品线 升级11代酷睿标压CPU"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/science/1133641.htm",
+          "author": "vivian",
+          "description": "一项对化石花粉的全球调查发现，当今地球的植被变化至少和一万年前最后一块冰原退缩时一样快。从大约3000到4000年前开始，地球上的植物群落开始以一种加速的速度变化。今天，这一速度可以媲美或超过快速更替的速度，因为植物争先恐后地在以前冰封的土地上定居，并适应全球变暖约10华氏度的气候。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/science/1133641.htm",
+          "publishedOn": "2021-05-28T02:31:06.000Z",
+          "wordCount": 200,
+          "title": "对花粉化石的分析显示当今地球植被的变化比过去18000年的变化更快"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/science/1133639.htm",
+          "author": "teikaei",
+          "description": "据外媒报道，在一项迄今展开的规模最大的全基因组关联研究中，研究人员已经编目了178个跟重度抑郁症相关的基因变异。这项研究查看了数百万人的健康记录，希望借此开发出一种能检测出那些最容易患抑郁症的人的基因测试。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/science/1133639.htm",
+          "publishedOn": "2021-05-28T02:26:59.000Z",
+          "wordCount": 202,
+          "title": "大规模基因组研究确定178个跟抑郁症有关的基因变异"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1133637.htm",
+          "author": "study875",
+          "description": "北京时间 5 月 27 日上午消息，京东物流今日正式在香港上市，上市首日开盘价 46.05 港元每股，较发行价 40.36 港元上涨 14.1%。 以此计算，目前京东物流市值达到 2805.2 亿港元。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1133637.htm",
+          "publishedOn": "2021-05-28T02:23:46.000Z",
+          "wordCount": 265,
+          "title": "京东物流正式登陆港交所：首日开盘大涨超 14% 市值超 2800 亿港元"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/science/1133635.htm",
+          "author": "study875",
+          "description": "英国和荷兰的天文学家在一项新研究中指出，所有位于星系中心的超大质量黑洞似乎都有吞噬周围物质的时期，但它们的相似之处也仅限于此。他们利用超高灵敏度的射电望远镜对宇宙中一处已被详细研究的区域进行了观测，得出了这一结论。详细的结果发表在《天文学与天体物理学 》（Astronomy & Astrophysics） 上。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/science/1133635.htm",
+          "publishedOn": "2021-05-28T02:20:57.000Z",
+          "wordCount": 267,
+          "title": "新研究揭示黑洞吞噬周围物质的不同方式"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1133633.htm",
+          "author": "study875",
+          "description": "据报道，戴尔与惠普公布财报，虽然全球一些地区解封，但数据显示消费者与企业继续抢购电脑。尽管财报不错，但两家公司的股价却在盘后下跌。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1133633.htm",
+          "publishedOn": "2021-05-28T02:19:34.000Z",
+          "wordCount": 283,
+          "title": "戴尔、惠普PC销量增长已见顶 芯片短缺或影响消费者需求"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1133631.htm",
+          "author": "vivian",
+          "description": "据外媒CNET报道，迪士尼再次公布了有关即将到来的第五艘游轮“Disney Wish”的新细节，该游轮将容纳迪士尼在海上的第一个景点。除了 AquaMouse景点，迪士尼将在游轮上加入六个游泳池，新的高级用餐选择，一个阿拉丁音乐剧，一个完全封闭的运动场，一个为儿童设计的漫威超级英雄学院和一个为成人提供的星际大战休息室等。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1133631.htm",
+          "publishedOn": "2021-05-28T02:17:16.000Z",
+          "wordCount": 225,
+          "title": "迪士尼第五艘游轮Disney Wish已在5月27日开放预订"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1133629.htm",
+          "author": "vivian",
+          "description": "北京时间5月28日上午消息，据报道，根据美国众议院小组委员会近期讨论的一项法案，亚马逊和eBay等电商平台将对第三方卖家在其网站上出售危险的假冒产品一事，承担更多的责任。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1133629.htm",
+          "publishedOn": "2021-05-28T02:10:36.000Z",
+          "wordCount": 206,
+          "title": "美国讨论新假冒产品法案：亚马逊、eBay将承担更多责任"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1133627.htm",
+          "author": "study875",
+          "description": "目前，传感器防抖（Sensor-shift Optical Image Stabilization）仅限于 iPhone 12 Pro Max。不过援引外媒 DigiTimes 报道，今年的 iPhone 13 系列所有四款机型将全系标配传感器防抖。在报道中指出，苹果相关的供应商已收到通知要求增加产能，以满足 iPhone 的订单需求。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1133627.htm",
+          "publishedOn": "2021-05-28T02:06:57.000Z",
+          "wordCount": 239,
+          "title": "新消息称iPhone 13系列全系标配传感器防抖"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/science/1133625.htm",
+          "author": "teikaei",
+          "description": "据外媒报道，定期的补给发射会为国际空间站(ISS)上的宇航员提供相对新鲜的食物，但飞往火星的航班却不会。如果我们人类要去其他星球，我们需要一个不会在太空中损坏的冰箱--对此，普渡大学的研究人员正在努力测试一个。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/science/1133625.htm",
+          "publishedOn": "2021-05-28T02:01:35.000Z",
+          "wordCount": 200,
+          "title": "零重力太空冰箱原型机已接受测试：初步结果很有希望"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1133623.htm",
+          "author": "study875",
+          "description": "适用于 Windows 和 macOS 的 Edge 91 版本正式发布。该更新将会在未来几天或者几周内自动下载和安装，不过用户也可以随时通过设置中的检查更新来手动下载 Edge 91。Edge 91 主要在性能上有了明显的改进（包括睡眠标签、启动加速等），并引入了更丰富的主题。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1133623.htm",
+          "publishedOn": "2021-05-28T01:59:30.000Z",
+          "wordCount": 260,
+          "title": "[图]Edge 91正式发布：性能明显改进 主题更加丰富"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1133621.htm",
+          "author": "vivian",
+          "description": "据外媒CNET报道，指控Google基于性别偏见的薪酬歧视的诉讼周四获得集体诉讼资格。该诉讼于2017年在旧金山提起，指控Google违反了加州同工同酬法案，对从事与男性相同工作的女性支付过低的工资。集体诉讼认证意味着该案的原告将被允许代表10800多名声称对Google存在薪酬偏见的女性。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1133621.htm",
+          "publishedOn": "2021-05-28T01:56:36.000Z",
+          "wordCount": 204,
+          "title": "指控Google基于性别偏见的薪酬歧视诉讼获得集体诉讼资格"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1133619.htm",
+          "author": "raymon725",
+          "description": "英伟达 GeForce RTX 3080 Ti 显卡即将面世，看起来它将取代 RTX 3090 的旗舰地位，毕竟后者更接近于传统定位上的 TITAN 卡皇。近日，有关 RTX 3080 Ti 的爆料开始变得密集了起来，且 VideoCardz 也分享了来自 Geekbench 的基准测试数据，可知该卡的性能与 RTX 3090 相当。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1133619.htm",
+          "publishedOn": "2021-05-28T01:51:29.000Z",
+          "wordCount": 324,
+          "title": "RTX 3080 Ti拥有34 TFLOPS算力：CUDA性能与RTX 3090相当"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/science/1133617.htm",
+          "author": "vivian",
+          "description": "据外媒报道，银河系中心的一张令人着迷的新图像引发了关于我们银河系深处的磁场和过热气体的相互作用的新问题。新的银河系中心全景图利用了美国宇航局（NASA）钱德拉X射线天文台和南非MeerKAT射电望远镜的大量数据，其中的气体羽流在太空中涌动了数百光年。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/science/1133617.htm",
+          "publishedOn": "2021-05-28T01:40:28.000Z",
+          "wordCount": 203,
+          "title": "NASA发布新的银河系中心图像  可能显示“孕育”恒星的关键"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1133615.htm",
+          "author": "teikaei",
+          "description": "据外媒The Verge报道，彭博社报道称，四名曾在Google工作的女性在针对这家搜索引擎公司的性别平等诉讼中赢得了集体诉讼地位，她们将可以代表约10800名女性继续控告这家搜索巨头公司。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1133615.htm",
+          "publishedOn": "2021-05-28T01:39:18.000Z",
+          "wordCount": 206,
+          "title": "法院裁定Google满足最新一起性别平等集体诉讼的被告资格"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/science/1133613.htm",
+          "author": "teikaei",
+          "description": "俄罗斯量子中心科研人员首次在室温下获得了磁性超导材料。有关专家认为，借助该技术未来可创建不需要复杂和昂贵冷却装置的量子计算机。相关研究发表在《科学报告》杂志上。通常情况下，量子效应可在基本粒子中观察到，只有在非常低的温度下能够观察到宏观量子现象。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/science/1133613.htm",
+          "publishedOn": "2021-05-28T01:37:04.000Z",
+          "wordCount": 199,
+          "title": "磁性超导材料首次在室温下获得"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1133611.htm",
+          "author": "study875",
+          "description": "仍在使用已经停产 Apple Watch Series 3 的用户近期不断抱怨，几乎无法安装 watchOS 系统更新。虽然这个问题依然存在，但苹果在 iOS 14.6 系统中做出了一些优化，会自动要求用户在升级 Apple Watch Series 3 之前执行重新配对操作。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1133611.htm",
+          "publishedOn": "2021-05-28T01:34:48.000Z",
+          "wordCount": 273,
+          "title": "iOS 14.6修改提示语:Apple Watch Series 3更新前需重新配对"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1133609.htm",
+          "author": "raymon725",
+          "description": "苹果刚刚发布了 12.4 英寸的 Galaxy Tab S7 FE 5G，以及更实惠的 Galaxy Tab A7 Lite（4G LTE / Wi-Fi）平板电脑新品。Tab S7 FE 5G 的定位，介于 Tab S7+（12.4 英寸 sAMOLED @ 120Hz）和 Tab S7（11 英寸 LCD @ 120Hz）之间，60Hz LCD 屏的分辨率为 2560×1600（宽高比 16：10），且预装了基于 Android 11 定制的 One UI 3.1 软件。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1133609.htm",
+          "publishedOn": "2021-05-28T01:34:27.000Z",
+          "wordCount": 455,
+          "title": "三星发布Galaxy Tab S7 FE 5G与Galaxy Tab A7 Lite平板电脑新品"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/science/1133607.htm",
+          "author": "vivian",
+          "description": "据外媒报道，目前已经有一些地方的民众将房屋建在木桩上，以避免季节性洪水。然而，一项新研究表明，这样做也可能大大减少被携带疟疾的蚊子叮咬的风险。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/science/1133607.htm",
+          "publishedOn": "2021-05-28T01:25:04.000Z",
+          "wordCount": 202,
+          "title": "研究称“抬高”木屋可能有助于减少导致疟疾的蚊子叮咬"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1133605.htm",
+          "author": "teikaei",
+          "description": "5月28日上午消息，近日，河南温先生在网络上表示特斯拉“高速刹车失灵”、“险出事故”。对此，特斯拉客户支持微博今日回应称，目前初步远程诊断车辆报警原因为右前轮速传感器警报，并非“刹车失灵”。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1133605.htm",
+          "publishedOn": "2021-05-28T01:24:08.000Z",
+          "wordCount": 209,
+          "title": "特斯拉回应河南车主“高速刹车失灵”事件：并非“刹车失灵”"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1133603.htm",
+          "author": "teikaei",
+          "description": "据外媒报道，如果你在早上上班的路上开车经过坑洼和褪色的车道分隔线，你很可能会继续会在往后的日子里继续看到它们--直到有人向当地交通部门提出投诉。总部位于犹他州的初创公司Blyncsy希望帮助政府采取更先发制人的措施。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1133603.htm",
+          "publishedOn": "2021-05-28T01:14:44.000Z",
+          "wordCount": 206,
+          "title": "犹他州DOT将试点Blyncsy AI道路维护技术"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1133601.htm",
+          "author": "study875",
+          "description": "5 月 28 日消息，电动汽车制造商特斯拉周四宣布，该公司已经激活了 Model 3 和 Model Y 上的车载摄像头。这意味着，在高级驾驶辅助系统Autopilot启用时，该摄像头可以监控司机行为。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1133601.htm",
+          "publishedOn": "2021-05-28T01:11:34.000Z",
+          "wordCount": 285,
+          "title": "特斯拉激活车内摄像头 用于 Autopilot 启动时监控司机"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/science/1133599.htm",
+          "author": "vivian",
+          "description": "美国宇航局（NASA）正在谈论一些关于即将到来的南希·格雷斯·罗曼太空望远镜的情况。该望远镜将被用来观察分布在广阔时间和空间的数千个超新星。天文学家打算利用这些观察结果来解决几个宇宙之谜，并为天文学家提供一个了解宇宙遥远过去的窗口。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/science/1133599.htm",
+          "publishedOn": "2021-05-28T01:10:30.000Z",
+          "wordCount": 200,
+          "title": "天文学家将利用罗曼太空望远镜观察超新星 以调查暗物质"
+        },
+        {
+          "id": "https://hot.cnbeta.com/articles/game/1133597.htm",
+          "author": "study875",
+          "description": "索尼发布了新的博客，在介绍《地平线：西部禁域》故事剧情和全新游戏机制的同时还公开了一些新截图。《地平线：西部禁域》将于 2021 年发售，登陆 PS4 和 PS5。\n 阅读全文",
+          "link": "https://hot.cnbeta.com/articles/game/1133597.htm",
+          "publishedOn": "2021-05-28T01:08:38.000Z",
+          "wordCount": 234,
+          "title": "《地平线：西部禁域》新截图 前所未见的新机器新玩法"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1133595.htm",
+          "author": "teikaei",
+          "description": "网络上有这样一个提问：本金二十万是否能通过炒期货一夜暴富，并在一年内赚一个“小目标”。评论中回答几乎都是不可能，或者说只是存在理论上的可能，更多则是靠“赌”、靠“运气”。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1133595.htm",
+          "publishedOn": "2021-05-28T01:08:25.000Z",
+          "wordCount": 202,
+          "title": "52人被判刑：在微信群跟着“老师”炒期货 441人被骗逾8500万元"
+        },
+        {
+          "id": "https://hot.cnbeta.com/articles/game/1133593.htm",
+          "author": "study875",
+          "description": "近日漫威新剧《洛基》公布了新电视预告，超多新镜头出现，但时间线陷入混乱。有点好又有点坏的洛基展现真我，还被人暴揍打脸。\n 阅读全文",
+          "link": "https://hot.cnbeta.com/articles/game/1133593.htm",
+          "publishedOn": "2021-05-28T01:07:53.000Z",
+          "wordCount": 220,
+          "title": "漫威新剧《洛基》新电视预告 洛基被人暴揍打脸"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1133591.htm",
+          "author": "teikaei",
+          "description": "5月27日，有消息称宝马、戴姆勒和福特汽车已在中国建立数据中心，用来存储其本地产车辆的数据。从多方消息来看，福特称它们已于2020年上半年在中国建立了一个数据中心，并在本地存储车辆数据，看来福特还是有“先见之明”。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1133591.htm",
+          "publishedOn": "2021-05-28T01:07:08.000Z",
+          "wordCount": 203,
+          "title": "特斯拉立功？宝马、戴姆勒纷纷在中国建数据中心"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1133589.htm",
+          "author": "study875",
+          "description": "得益于全新的 Sparkplug 编译器和 short builtins 调用机制，近日更新的 Chrome 91 浏览器速度最高有 23% 的提升。全新的 Sparkplug 编译器被设计用于执行和优化 JavaScript 代码之间的空白，以获得最大的性能。此外，Google还在使用“内置调用”来优化浏览器使用生成代码的过程，以减少调用函数时的跳转。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1133589.htm",
+          "publishedOn": "2021-05-28T01:01:49.000Z",
+          "wordCount": 240,
+          "title": "得益于全新编译器和调用机制 Chrome 91速度最高提升23%"
+        },
+        {
+          "id": "https://hot.cnbeta.com/articles/game/1133587.htm",
+          "author": "raymon725",
+          "description": "国外Mod作者为《暗黑破坏神2：重制版》制作了一些有趣的Mod，其中最有趣也最具争议的两款Mod就是D2ROffline和D2RModding。但现在，暴雪已经关闭了这两款Mod。D2ROffline允许玩家在离线模式下游玩《暗黑破坏神2：重制版》技术Alpha测试版。D2RModding解锁了Alpha测试版里未开放的其他角色，让玩家们能游玩新角色，还能解锁等级等等。\n 阅读全文",
+          "link": "https://hot.cnbeta.com/articles/game/1133587.htm",
+          "publishedOn": "2021-05-28T00:59:22.000Z",
+          "wordCount": 205,
+          "title": "暴雪关闭《暗黑2重制版》离线Mod和D2RModding"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1133585.htm",
+          "author": "ugmbbc",
+          "description": "看视频赚钱、玩游戏赚钱、读新闻赚钱，甚至走路睡觉也能赚钱……面对这样的宣传，你心动了吗？近年来，一批打着“躺赚”“走赚”“玩赚”旗号的赚钱类App频频出现，凭借听起来毫不费力的收益方式，吸引大批用户下载安装。那么，使用者真的能从中赚到钱吗？\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1133585.htm",
+          "publishedOn": "2021-05-28T00:59:11.000Z",
+          "wordCount": 204,
+          "title": "当心那些“能赚钱的App” 是送福利还是挖陷阱？"
+        },
+        {
+          "id": "https://hot.cnbeta.com/articles/game/1133583.htm",
+          "author": "raymon725",
+          "description": "虽然育碧打算在5月29日凌晨1点公布《孤岛惊魂6》的演示，但看起来本作的首个演示视频已经被泄露在网上。下面是外网泄露的演示视频，演示内容超过了6分钟。通过视频，我们看到《孤岛惊魂6》整体的画面表现非常给力，玩家可使用的武器非常丰富，有弓，枪械。\n 阅读全文",
+          "link": "https://hot.cnbeta.com/articles/game/1133583.htm",
+          "publishedOn": "2021-05-28T00:58:23.000Z",
+          "wordCount": 205,
+          "title": "《孤岛惊魂6》首个演示泄露 你可以养鳄鱼攻击敌人"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/science/1133581.htm",
+          "author": "vivian",
+          "description": "据外媒CNET报道，螺旋星系是一种壮丽的天体奇观。它们的星系中心看起来特别亮，并有从该中心延伸出来的弯曲旋臂结构。我们自己的银河系就是一个螺旋星系。哈勃太空望远镜近日观察螺旋星系NGC 2276，发现它并不完全是一幅完美的画面。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/science/1133581.htm",
+          "publishedOn": "2021-05-28T00:56:01.000Z",
+          "wordCount": 203,
+          "title": "哈勃发现向一侧倾斜的“煎蛋”星系被卷入“一场拔河比赛中”"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1133579.htm",
+          "author": "vivian",
+          "description": "“如果说骂翟天临的毕业生有10000个，那么一定有9998个毕业生会拿查重费说事儿”。毕业季来临，不少高校毕业生去翟天临微博吐槽的背后，是对自己忽高忽低的论文查重率以及不菲的查重降重费用的焦虑。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1133579.htm",
+          "publishedOn": "2021-05-28T00:52:50.000Z",
+          "wordCount": 202,
+          "title": "半月谈：不能让查重异化为逐利的工具"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1133577.htm",
+          "author": "vivian",
+          "description": "北京时间5月28日早间消息，软银近期公布了与WeWork联合创始人亚当·诺依曼（Adam Neumann）分手的高昂成本，详细说明了价值数亿美元的和解协议。根据协议，诺依曼获得的现金、股票奖励和费用价值近4.5亿美元。自2019年IPO（首次公开招股）失败，诺依曼被迫辞去WeWork的CEO一职以来，这份协议一直是令人担忧的谈判主题。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1133577.htm",
+          "publishedOn": "2021-05-28T00:51:36.000Z",
+          "wordCount": 206,
+          "title": "软银与WeWork联合创始人达成近4.5亿美元和解协议：为IPO重启铺路"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1133575.htm",
+          "author": "teikaei",
+          "description": "日前，据外媒报道，日产正在与英国政府进行“高级会谈”，计划将在英国建设超级电池工厂，初期年产量6GWh，项目最终完成后年产量将达到18GWh至20GWh。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1133575.htm",
+          "publishedOn": "2021-05-28T00:49:07.000Z",
+          "wordCount": 201,
+          "title": "日产计划在英国建电池工厂：成为日本以外最大的生产中心"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1133573.htm",
+          "author": "teikaei",
+          "description": "据外媒报道，当地时间周四，波音跟美国联邦航空管理局(FAA)达成协议，该家公司被要求支付至少1700万美元的罚款，原因是此前这家总部位于芝加哥的制造商在数百架737 Max和NG飞机上安装了未经批准的传感器。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1133573.htm",
+          "publishedOn": "2021-05-28T00:46:00.000Z",
+          "wordCount": 210,
+          "title": "波音将支付1700万美元罚款以解决737 Max生产问题"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1133571.htm",
+          "author": "study875",
+          "description": "本周早些时候发布的一篇官方博文中，Google宣布 Gmail 中将引入全新的“保存到 Photos”按钮，允许用户将电子邮件中的照片附件直接保存到 Google Photos 应用中。本项功能于 5 月 26 日本周三陆续上线，拥有 Gmail 个人账号的用户，以及拥有 Google Workspace, G Suite Basic 和 G Suite Business 的用户应该能在未来 15 天内看到这项功能。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1133571.htm",
+          "publishedOn": "2021-05-28T00:44:36.000Z",
+          "wordCount": 243,
+          "title": "[图]Gmail新增“保存到Photos”按钮 一次点击轻松转存"
+        },
         {
           "id": "https://www.cnbeta.com/articles/science/1133569.htm",
           "author": "vivian",
