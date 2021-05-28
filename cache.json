@@ -945,6 +945,33 @@
       "siteUrl": "https://www.cnbeta.com",
       "articles": [
         {
+          "id": "https://hot.cnbeta.com/articles/game/1133909.htm",
+          "author": "ugmbbc",
+          "description": "传闻中的Switch Pro将有和当前机型一样的尺寸大小，但Pro版的底座稍微大一点，有着额外的功能。消息来自于西班牙媒体Vandal。Vandal称：Switch Pro和当前的基础版机型大小一样，但会有一个稍微大一点的OLED屏幕\n 阅读全文",
+          "link": "https://hot.cnbeta.com/articles/game/1133909.htm",
+          "publishedOn": "2021-05-28T14:24:20.000Z",
+          "wordCount": 222,
+          "title": "传Switch Pro底座更大 带有2个USB 3.0和1个网线接口"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1133907.htm",
+          "author": "ugmbbc",
+          "description": "NVIDIA前些天已经正式宣布推出GeForce RTX 30系列的LHR版新款GPU芯片，包括RTX 3080 LHR、3070 LHR、3060 Ti LHR，新版GPU将具有新版的加密货币挖矿限制器，5月下旬开始发货。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1133907.htm",
+          "publishedOn": "2021-05-28T14:20:13.000Z",
+          "wordCount": 283,
+          "title": "RTX 3060 LHR抢先体验：GA106-302核心现身 挖矿性能腰斩"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/science/1133905.htm",
+          "author": "ugmbbc",
+          "description": "近日，国际天文学联合会(IAU)宣布，为表彰中国嫦娥五号完成登月样本采集的历史性任务，批准中国提议在嫦娥五号降落地点附近8个月球地貌的命名申请。至此，月球上的“中国地名”已达35个。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/science/1133905.htm",
+          "publishedOn": "2021-05-28T14:17:34.000Z",
+          "wordCount": 210,
+          "title": "国际天文学联合会批准月球新增8个中国地名"
+        },
+        {
           "id": "https://www.cnbeta.com/articles/tech/1133903.htm",
           "author": "ugmbbc",
           "description": "5月28日消息，微信圈子发布公告称，因业务发展方向调整，该功能将于2021年12月28日正式停运。据悉，微信圈子的前身是“好物圈”，于2019年初上线。之后，在2019年12月，好物圈更名为微信圈子。\n 阅读全文",
