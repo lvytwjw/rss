@@ -931,6 +931,222 @@
       "siteUrl": "https://www.cnbeta.com",
       "articles": [
         {
+          "id": "https://www.cnbeta.com/articles/science/1133569.htm",
+          "author": "vivian",
+          "description": "据外媒TechCrunch报道，总部位于东京的ispace公司已被选中将加拿大和日本的月球车运送到月球表面。该公司将使用其最近披露的Hakuto-R着陆器执行这两项任务，目前计划在2022年和2023年执行。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/science/1133569.htm",
+          "publishedOn": "2021-05-28T00:38:46.000Z",
+          "wordCount": 208,
+          "title": "日本航天公司ispace旨在将月球车运送到月球表面"
+        },
+        {
+          "id": "https://hot.cnbeta.com/articles/music/1133567.htm",
+          "author": "teikaei",
+          "description": "据外媒报道，韩国人气男子组合防弹少年团(BTS)的新英文单曲《Butter》MV创下了新纪录。这首新单曲于5月21日在YouTube上以390万的同时观看人数打破了该视频首映的记录。另外，它还在发布后24小时内创下了YouTube上最多观看次数的纪录。\n 阅读全文",
+          "link": "https://hot.cnbeta.com/articles/music/1133567.htm",
+          "publishedOn": "2021-05-28T00:25:42.000Z",
+          "wordCount": 205,
+          "title": "BTS新英文单曲《Butter》在YouTube、Spotify破多项世界纪录"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1133565.htm",
+          "author": "vivian",
+          "description": "据外媒CNET报道，在康涅狄格州一个在建的亚马逊设施中，有几个地方留下了绞索，现在已经使该项目第二次陷入停顿。据多个报道，亚马逊上周关闭了该设施，让执法部门对发现的七个绞索进行调查，但在周三重新开放时但却发现了第八个绞索。随着调查的继续，该公司周三晚间再次关闭了该场所。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1133565.htm",
+          "publishedOn": "2021-05-28T00:23:43.000Z",
+          "wordCount": 204,
+          "title": "亚马逊两次停止施工 因为在建筑工地发现了绞索"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1133563.htm",
+          "author": "study875",
+          "description": "在 Red Hat Enterprise Linux 8.4 上周发行之后，各方基于 RHEL 的下游也快速跟进更新了自己的发行版本。甲骨文（Oracle）昨日宣布了适用于 x86_64 和 AArch64 的 Oracle Linux 8 Update 4，这是包含 RHEL 8.4 更新内容的 Oracle Linux 最新发行版本。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1133563.htm",
+          "publishedOn": "2021-05-28T00:21:16.000Z",
+          "wordCount": 278,
+          "title": "Oracle Linux 8 Update 4和AlmaLinux 8.4发布 基于RHEL 8.4"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/science/1133561.htm",
+          "author": "teikaei",
+          "description": "据外媒报道，病人不喜欢打针，临床医生也讨厌必须让蛋白质疫苗保持低温的繁琐工作。现在，一种新的聚合物圆片--当放置在舌下时就会溶解--可以同时解决这两个问题。首先，已经有一些药物是通过病人把药片放在舌头下面来递送的。当药片溶解时，药物通过舌下的舌下粘膜被吸收、随后进入血液。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/science/1133561.htm",
+          "publishedOn": "2021-05-28T00:16:03.000Z",
+          "wordCount": 196,
+          "title": "研究人员设计出可在室温下提供疫苗的舌下圆片"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1133559.htm",
+          "author": "vivian",
+          "description": "据外媒报道，亚马逊正在推出一个“互动亭”，让其工作压力过大的仓库员工可以暂时逃避如此艰苦的工作，许多员工说他们甚至感觉没有足够的时间上厕所。该“互动亭”被称为 \"ZenBooth \"或 \"Mindful Practice Room\"，是亚马逊5月17日宣布的WorkingWell计划的一部分。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1133559.htm",
+          "publishedOn": "2021-05-28T00:11:15.000Z",
+          "wordCount": 211,
+          "title": "亚马逊为压力过大的仓库工人推出小型“AmaZen”互动亭"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1133557.htm",
+          "author": "ugmbbc",
+          "description": "最近官方宣布严打比特币和交易，各种数字货币价格现在暴跌暴涨，游戏玩家一直在期待矿难，但挖矿的人并没有减少。不过Chia硬盘矿情况不同，几个月来硬盘容量首次下滑，这还是首次。与比特币、以太币不同，Chia奇亚币是一种硬盘矿，挖矿不靠处理器算力，主要看硬盘容量，所以这几个月来Chia挖矿的硬盘容量一直在疯狂上涨。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1133557.htm",
+          "publishedOn": "2021-05-28T00:05:43.000Z",
+          "wordCount": 201,
+          "title": "Chia硬盘矿总容量首次下滑：币价相比高点已腰斩"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1133555.htm",
+          "author": "study875",
+          "description": "基于 Chromium 的新版 Edge 浏览器正不断强化网购元素，今天再次引入了购物返现和查看历史价格两大新功能。现在用户不仅能访问戴尔等网站获得优惠券，而且在 Bing.com 网购还能获得返利优惠。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1133555.htm",
+          "publishedOn": "2021-05-28T00:04:48.000Z",
+          "wordCount": 231,
+          "title": "[图]Edge优化网购体验：新增购物返现和查看历史价格功能"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1133553.htm",
+          "author": "teikaei",
+          "description": "北京时间5月28日早间消息，据报道，当特斯拉决定在美国的Model 3和Model Y车型中取消雷达传感器时，他就必须暂时对这些车型进行功能降级。因此，《消费者报告》和美国公路安全保险协会（IIHS）也暂停了对这些汽车的安全背书。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1133553.htm",
+          "publishedOn": "2021-05-28T00:00:12.000Z",
+          "wordCount": 220,
+          "title": "特斯拉北美车型取消雷达：《消费者报告》暂停对Model 3的安全背书"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/science/1133551.htm",
+          "author": "teikaei",
+          "description": "据外媒报道，农业的挑战之一在于，当植物出现疾病或其他压力时，解决这个问题可能已经太晚了。然而一种新型马铃薯旨在通过在压力的早期阶段发出荧光来警告农民。这种试验性转基因土豆是由耶路撒冷希伯来大学的科学家开发的，该研究由Shilo Rosenwaser博士领导。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/science/1133551.htm",
+          "publishedOn": "2021-05-27T23:58:38.000Z",
+          "wordCount": 199,
+          "title": "转基因土豆植株会在遇到压力时“发光”以警告种植者"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1133549.htm",
+          "author": "vivian",
+          "description": "据外媒报道，本周两个科技贸易团体对佛罗里达州最近签署的一项旨在结束“大型科技审查”的法案提起诉讼，这项措施是在一些保守派声音在社交媒体网络上被封杀后通过的。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1133549.htm",
+          "publishedOn": "2021-05-27T23:55:53.000Z",
+          "wordCount": 210,
+          "title": "科技贸易团体对佛罗里达州的社交媒体法案提出诉讼"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1133547.htm",
+          "author": "ugmbbc",
+          "description": "上周五，国务院金融委在会议中提出“打击比特币挖矿和交易行为”。受此影响，一场矿圈整顿正在上演：多个知名矿池及有关企业正在剥离国内相关业务。火币矿池、莱比特矿池等知名矿池纷纷暂停向中国大陆境内提供矿机托管等相关服务，矿池服务商比特小鹿、火星云矿屏蔽中国大陆境内IP访问，知名矿企比特矿业则寻求布局海外挖矿，拟在美国、哈萨克斯坦再建矿场。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1133547.htm",
+          "publishedOn": "2021-05-27T23:55:46.000Z",
+          "wordCount": 202,
+          "title": "矿圈整顿潮：新疆、四川部分地区暂停向矿场供电"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1133545.htm",
+          "author": "study875",
+          "description": "今年 2 月，有消息称Google将会在 Android 12 系统中引入游戏模式，而不少厂商已经在各自的定制系统中提供了该功能。近日，网友在 Android 12 Beta 版本中发现了隐藏的游戏模式，标明这项功能即将和我们见面。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1133545.htm",
+          "publishedOn": "2021-05-27T23:55:45.000Z",
+          "wordCount": 233,
+          "title": "Android 12发现原生游戏模式 可快速截图/录屏/直播"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1133543.htm",
+          "author": "vivian",
+          "description": "北京时间5月28日早间消息，知情人士透露，谷歌母公司Alphabet因为滥用线上广告垄断权力在法国遭到调查，为了化解危机，谷歌将会妥协，双方很快会达成协议，谷歌将会支付罚款，对运营做出调整。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1133543.htm",
+          "publishedOn": "2021-05-27T23:54:15.000Z",
+          "wordCount": 208,
+          "title": "为了化解反垄断调查 谷歌将向法国妥协"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1133541.htm",
+          "author": "vivian",
+          "description": "比尔·盖茨和梅琳达·弗伦奇·盖茨正考虑对他们的基金会做出改变。该基金会CEO马克-苏兹曼（Mark Suzman）周四表示：“正如我上周告诉基金会员工的，我正在积极地与比尔和梅琳达讨论他们和沃伦（巴菲特）可能采取的措施，以加强基金会的长期可持续性和稳定性。”\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1133541.htm",
+          "publishedOn": "2021-05-27T23:53:22.000Z",
+          "wordCount": 205,
+          "title": "比尔与梅琳达盖茨基金会考虑引入外部董事"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1133539.htm",
+          "author": "ugmbbc",
+          "description": "5月28日消息，中国内地智能电动汽车（EV）行业的技术人员短缺，正成为工程师、工人乃至后勤人员的福音。这些希望在中国蓬勃发展的汽车市场中抢占更大份额的汽车制造商，正努力吸引更多人才加盟。领先电动汽车初创企业的巨额融资，以及科技巨头和传统汽车制造商大举开发新电动车型，引发了激烈的人才竞争。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1133539.htm",
+          "publishedOn": "2021-05-27T23:50:48.000Z",
+          "wordCount": 203,
+          "title": "中国电动车行业有钱却缺人：从工程师、工人到后勤全线短缺"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1133537.htm",
+          "author": "ugmbbc",
+          "description": "在5月27日举办的2021 DEMO WORLD世界创新峰会上，大众推出了与合作伙伴共同研发的众:UX原型车，此次发布的重点在于车内座舱的革新，它也代表着未来车内座舱的发展方向，大众希望将它打造成可以随意进行功能布局的生活空间。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1133537.htm",
+          "publishedOn": "2021-05-27T23:47:48.000Z",
+          "wordCount": 207,
+          "title": "未来原型座舱的定义 大众发布众:UX"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1133535.htm",
+          "author": "vivian",
+          "description": "据外媒AppleInsider报道，一项由Facebook资助的学术研究，称苹果的iOS 14应用追踪透明化功能是 “有害的”，并声称它在利用隐私作为其反竞争措施的幌子。一篇由Facebook资助的新的学术研究论文这样描述：“在保护隐私的幌子下损害竞争和消费者”。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1133535.htm",
+          "publishedOn": "2021-05-27T23:40:35.000Z",
+          "wordCount": 218,
+          "title": "Facebook资助的研究论文抨击了苹果的iOS 14.5隐私问题"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/science/1133533.htm",
+          "author": "ugmbbc",
+          "description": "在火星上的第六次飞行中，美国宇航局的Ingenuity直升机遇到了一个故障，导致它在飞行的后半段时机身前后倾倒。尽管直升机的性能因此而下降，但根据NASA的说法，Ingenuity成功地熬过了这一反常现象，最终安全地降落在火星表面。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/science/1133533.htm",
+          "publishedOn": "2021-05-27T23:39:06.000Z",
+          "wordCount": 200,
+          "title": "NASA Ingenuity无人机在第六次飞行的大故障中幸存下来"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/science/1133531.htm",
+          "author": "teikaei",
+          "description": "据外媒报道，研究人员估计，自从袋獾从澳大利亚大陆消失以来已经有3000年的历史了。现在有7只幼崽在野外出生，从而结束了这一段漫长的历史。Aussie Ark是一个旨在保护袋獾种群的非营利组织，该组织于当地时间周二在Instagram上发布了这条消息。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/science/1133531.htm",
+          "publishedOn": "2021-05-27T23:37:18.000Z",
+          "wordCount": 203,
+          "title": "袋獾3000年来首次在澳大利亚大陆出生"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1133529.htm",
+          "author": "ugmbbc",
+          "description": "据裁判文书网，2019年6月27日，电视剧《神犬小七3》开播期间，泄露了山东市民陶某手机号码，后者因此接到全国多地的观众来电，生活和工作受到干扰。陶某称，《神犬小七》第3部第13集尾部、第14集开头的台词有：“这是我爷爷的爱心卡”，爱心卡上留下的“电话是我爸爸的电话，电话号码是138××××7898”的表述。陶某正是该号码的真实机主。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1133529.htm",
+          "publishedOn": "2021-05-27T23:32:44.000Z",
+          "wordCount": 204,
+          "title": "电视剧泄露私人手机号 出品方被判赔3.5万元"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1133527.htm",
+          "author": "ugmbbc",
+          "description": "Twitter传闻中的 \"Twitter Blue\"订阅服务已经通过iOS App Store中出错的列表得到了非正式的确认。Twitter的App Store列表现在包括一个每月2.99美元的Twitter Blue级别的应用内购买。虽然该选项似乎并不存在，但研究人员Jane Manchun Wong意外地完成了订阅，并通过周四的一条推文分享了关于该服务的一些信息。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1133527.htm",
+          "publishedOn": "2021-05-27T23:25:31.000Z",
+          "wordCount": 224,
+          "title": "2.99美元的“Twitter Blue”订阅选项现身 引入色彩主题、自定义图标等功能"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1133525.htm",
+          "author": "ugmbbc",
+          "description": "日前，劳斯莱斯正式发布了专属车身定制车型“浮影”官图，新车由劳斯莱斯最新成立的专属车身定制部门根据客户需求共同打造而成，车身设计很随性，运动当中透露着奢华。新车车长近5.9米，劳斯莱斯标志性的帕特农神庙进气格栅及灯组进行了全新设计。进气格栅由整块铝坯制成，而并非采用嵌入手法，如此高自由度的设计仅在专属车身定制车型上得以呈现。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1133525.htm",
+          "publishedOn": "2021-05-27T23:20:06.000Z",
+          "wordCount": 204,
+          "title": "独一无二的劳斯莱斯定制车型“浮影”官图发布"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1133523.htm",
+          "author": "ugmbbc",
+          "description": "为了尽快让广大民众接种疫苗，美国最有钱的加州祭出大招——推出了美国史上金额最高的疫苗激励计划，提供1.165亿美元的奖金，约合7.4亿人民币。这些奖励分为多个级别，其中头奖有10个，奖金高达150万美元，6月15日大乐透开奖。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1133523.htm",
+          "publishedOn": "2021-05-27T23:19:23.000Z",
+          "wordCount": 206,
+          "title": "美国加州1.17亿美元重奖疫苗接种者 头奖堪比彩票"
+        },
+        {
           "id": "https://hot.cnbeta.com/articles/movie/1133521.htm",
           "author": "ugmbbc",
           "description": "美国最大院线运营商AMC娱乐控股公司的股价周四一度暴涨逾50%，收盘涨36%，报26.52美元，创下自2017年5月12日以来新高。这是该股连续第四个交易日上涨，本周累计上涨120%。根据金融分析公司S3 Partners的数据，做空该股的投资者本周损失约13亿美元。\n 阅读全文",
