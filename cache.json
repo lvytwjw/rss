@@ -677,6 +677,15 @@
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
         {
+          "id": "60b0de2211ffb70827ef8d7c",
+          "author": null,
+          "description": "Computer vision is being used in more and more applications.  We just released a full course on the freeCodeCamp.org YouTube channel that will help you learn advanced computer vision using Python. You will learn state of the art computer vision techniques by building five projects with libraries such as",
+          "link": "https://www.freecodecamp.org/news/advanced-computer-vision-with-python/",
+          "publishedOn": "2021-05-28T12:26:38.000Z",
+          "wordCount": 368,
+          "title": "Advanced Computer Vision with Python"
+        },
+        {
           "id": "60af931811ffb70827ef85d3",
           "author": null,
           "description": "When you training a machine learning model, you can have some features in your dataset that represent categorical values. Categorical features are types of data that you can divide into groups. There are three common categorical data types: Ordinal – a set of values in ascending or descending order. Example: rating",
@@ -935,6 +944,141 @@
       "feedUrl": "https://www.cnbeta.com/backend.php",
       "siteUrl": "https://www.cnbeta.com",
       "articles": [
+        {
+          "id": "https://www.cnbeta.com/articles/science/1133901.htm",
+          "author": "ugmbbc",
+          "description": "阿尔托大学的研究人员发现了强有力的证据，即暖冰，即温度非常接近零摄氏度的冰的断裂方式可能与通常在实验室或自然界研究的那种冰不同。发表在《冰冻圈》上的一项新研究对这一现象进行了仔细研究，该研究在阿尔托校园内世界上最大的室内冰槽中进行。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/science/1133901.htm",
+          "publishedOn": "2021-05-28T12:31:16.000Z",
+          "wordCount": 204,
+          "title": "新研究表明关于冰如何断裂的旧规则可能并不总是成立的"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1133899.htm",
+          "author": "ugmbbc",
+          "description": "在今年1月28日，特斯拉正式发布了新款Model X车型，新车外观部分没有进行太大的变化，但是内饰可以说是彻底变了。此前车型上的超大尺寸的竖屏被取消，换装为了17.0英寸的横置显示屏。同时，特斯拉还带来了“椭圆矩形”方向盘，科幻感十足。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1133899.htm",
+          "publishedOn": "2021-05-28T12:26:51.000Z",
+          "wordCount": 215,
+          "title": "新款特斯拉Model X实车内饰曝光 量产车型中首次使用“矩形方向盘”"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1133897.htm",
+          "author": "ugmbbc",
+          "description": "近日外媒报道，美国加州一名2岁的女孩成为美国门萨协会最年轻会员。这位名叫卡什·奎斯特（Kashe Quest）的女孩智商高达146，比美国平均水平高出46分。她的母亲称，“她学东西很快，在大约18个月大的时候，就已经认识了所有的字母、数字、颜色和形状”。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1133897.htm",
+          "publishedOn": "2021-05-28T12:25:56.000Z",
+          "wordCount": 205,
+          "title": "2岁女孩成美国门萨协会最年轻会员 智商高达146"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/science/1133895.htm",
+          "author": "ugmbbc",
+          "description": "5月25日、27日，清华大学连续有两篇论文在《细胞》杂志上线。第一篇由脑与认知科学研究院、自动化系戴琼海院士课题组和生命学院俞立课题组合作完成；第二篇则由俞立课题组领衔完成。两篇论文都跟中国科学家发现的一种新细胞器——迁移体有关。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/science/1133895.htm",
+          "publishedOn": "2021-05-28T12:18:43.000Z",
+          "wordCount": 199,
+          "title": "清华3天2篇CELL 都跟细胞“新大陆”有关"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1133893.htm",
+          "author": "ugmbbc",
+          "description": "快手电商针对快手主播“驴嫂平荣”直播间售卖的“朵唯12Pro”手机事件发布了最终处理结果。针对朵唯，快手电商永久清退朵唯所有产品，涉事企业永不合作。面对消费者，快手电商在此前退款不退货基础上表示将给予所有在直播间购买了“朵唯12Pro”手机的消费者9倍补偿。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1133893.htm",
+          "publishedOn": "2021-05-28T12:13:29.000Z",
+          "wordCount": 202,
+          "title": "快手电商：永久清退朵唯 9倍补偿相关消费者"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/science/1133891.htm",
+          "author": "ugmbbc",
+          "description": "看似高大上的“大数据中心”，实则为虚拟货币“矿场”，能耗“无底洞”。近年来，虚拟货币风生水起，引得不少人趋之若鹜。比特币等虚拟货币没有实物，由计算机生成的一串串复杂代码组成，需要根据算法通过计算机运算获得，俗称“挖矿”。用于挖矿的“矿机”一般功率较大，需要消耗大量电力。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/science/1133891.htm",
+          "publishedOn": "2021-05-28T12:12:56.000Z",
+          "wordCount": 196,
+          "title": "1万台“矿机”一个月能“吃”4500万度电！挖的是“币”还是“坑”？"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/science/1133889.htm",
+          "author": "maomao",
+          "description": "发表在《自然科学报告》上一项新研究发现，一种有百年历史的药物亚甲基蓝，有可能成为一种高效、广谱的紫外线辐照保护剂，吸收UVA和UVB，修复ROS和紫外线辐照引起的DNA损伤，并且对珊瑚礁是安全的。该研究表明，亚甲基蓝可以成为一种支持环境和保护人类皮肤健康的替代防晒成分。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/science/1133889.htm",
+          "publishedOn": "2021-05-28T12:11:13.000Z",
+          "wordCount": 198,
+          "title": "研究发现有百年历史的药物亚甲基蓝有望成为高效广谱的抗紫外线保护剂"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1133887.htm",
+          "author": "ugmbbc",
+          "description": "骁龙888是今年上半年安卓旗舰的标配，现在比骁龙888更强悍的手机芯片低调现身跑分网站。5月28日消息，一款名为“Qualcomm Lahaina”的神秘设备现身GeekBench跑分网站。这款设备的单核跑分、多核跑分与骁龙888机型区别不大，但是CPU主频提升到了3.0GHz。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1133887.htm",
+          "publishedOn": "2021-05-28T12:06:21.000Z",
+          "wordCount": 211,
+          "title": "骁龙888 Pro现身跑分网站：CPU提升至3.0GHz"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/science/1133885.htm",
+          "author": "ugmbbc",
+          "description": "北京时间5月22日10时40分，“祝融号”火星车已安全驶离着陆平台，到达火星表面，开始巡视探测，这也是我国首次踏上火星表面。你知道吗，其实“祝融号”火星车在火星巡航速度非常的慢，仅每小时40米，而这也是有原因的。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/science/1133885.htm",
+          "publishedOn": "2021-05-28T12:05:37.000Z",
+          "wordCount": 200,
+          "title": "祝融号火星巡航速度仅每小时40米 为啥要这么慢？"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/science/1133883.htm",
+          "author": "ugmbbc",
+          "description": "新的诊断技术可以帮助遏制COVID-19和其他病毒爆发的蔓延。由KAUST（阿卜杜拉国王科技大学）科学家开发的一种新的快速冠状病毒测试可以在15分钟内提供高度准确的结果。这种诊断方法将电化学生物传感器与工程蛋白构造结合在一起，使临床医生能够快速检测出病毒的碎片，其精确度以前只能通过较慢的基因技术来实现。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/science/1133883.htm",
+          "publishedOn": "2021-05-28T12:04:28.000Z",
+          "wordCount": 206,
+          "title": "新的生物传感器技术使冠状病毒测试变得快速而简单"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1133881.htm",
+          "author": "ugmbbc",
+          "description": "荣耀在去年年底开始了它作为一个独立公司的旅程，它在恢复其作为一个主要制造商的地位方面又迈出了一步。这家中国公司已经宣布成为GSMA的成员 - 即代表主要电信、手机制造商、设备供应商和互联网服务公司的GSM协会。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1133881.htm",
+          "publishedOn": "2021-05-28T12:01:57.000Z",
+          "wordCount": 215,
+          "title": "荣耀成为GSMA的成员 新产品有望现身巴塞罗那MWC 2021"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1133879.htm",
+          "author": "ugmbbc",
+          "description": "一份新的报告称，苹果正在努力刷新其整个AirPods产品线，AirPods的新型号很快就会出现，AirPods Pro将在2022年到来，还有可能为AirPods Max提供新的颜色。据彭博社报道，苹果正在准备新版的入门级AirPods，它们打算在2021年底前上市销售。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1133879.htm",
+          "publishedOn": "2021-05-28T11:58:04.000Z",
+          "wordCount": 225,
+          "title": "重新设计的AirPods将于2021年推出 新版AirPods Pro则要等到2022年"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1133877.htm",
+          "author": "ugmbbc",
+          "description": "2018年，一家名为Spyra的公司在众筹网站上筹集资金，以制造并向市场推出Spyra经典水枪的新版本，随后被证明确实广受欢迎。最初的型号被称为Spyra One，在越来越多国家从COVID-19缓解中解封走出家门的背景下，该公司为大孩子小孩子们推出了名为Spyra Two的新版本。第一版水枪的价格为133美元，当时以这个价格交付了大约1.1万支。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1133877.htm",
+          "publishedOn": "2021-05-28T11:52:09.000Z",
+          "wordCount": 210,
+          "title": "专为这个夏天准备的Spyra Two二代电动水枪开始众筹"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1133875.htm",
+          "author": "ugmbbc",
+          "description": "今年夏天的Linux 5.14内核将为英特尔的DG1显卡和他们未来的独立显卡产品带来一个重新设计的用户空间API（User-Space API）。对英特尔内核图形驱动的的这一改变，目前被标记为 \"broken\"，直到它被证明足以满足用户空间的需求并保持稳定，主要是为了处理设备卡上的板载显存（专用vRAM）。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1133875.htm",
+          "publishedOn": "2021-05-28T11:44:44.000Z",
+          "wordCount": 228,
+          "title": "Linux 5.14将为英特尔独立显卡带来重新设计的用户空间API"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/science/1133873.htm",
+          "author": "ugmbbc",
+          "description": "近40年前，科学家们首次预测在主要由氢和氦组成的行星内存在氦气雨，如木星和土星。然而，实现验证这一假设所需的实验条件却显示一直是不可能的 - 直到现在。在《自然》杂志2021年5月26日发表的一篇论文中，科学家们揭示了支持这一长期预测的实验证据，表明在一定范围的压力和温度条件下，氦雨是可能的，这些条件反映了预计在这些行星内发生的情况。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/science/1133873.htm",
+          "publishedOn": "2021-05-28T11:37:43.000Z",
+          "wordCount": 208,
+          "title": "实验验证了木星和土星内部存在氦气雨的可能性"
+        },
         {
           "id": "https://www.cnbeta.com/articles/tech/1133871.htm",
           "author": "ugmbbc",
