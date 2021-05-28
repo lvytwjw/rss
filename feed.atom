@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://lvytwjw.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-05-28T12:32:54.391Z</updated>
+    <updated>2021-05-28T13:51:44.931Z</updated>
     <generator>osmosfeed 1.9.0</generator>
     <link rel="alternate" href="https://lvytwjw.github.io/rss/index.html"/>
     <link rel="self" href="https://lvytwjw.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[微信圈子将于2021年12月28日正式停运]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1133903.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1133903.htm"/>
+        <updated>2021-05-28T13:44:25.000Z</updated>
+        <summary type="html"><![CDATA[5月28日消息，微信圈子发布公告称，因业务发展方向调整，该功能将于2021年12月28日正式停运。据悉，微信圈子的前身是“好物圈”，于2019年初上线。之后，在2019年12月，好物圈更名为微信圈子。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[新研究表明关于冰如何断裂的旧规则可能并不总是成立的]]></title>
         <id>https://www.cnbeta.com/articles/science/1133901.htm</id>
