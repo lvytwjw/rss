@@ -2,10 +2,109 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://lvytwjw.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-05-28T07:52:17.845Z</updated>
+    <updated>2021-05-28T08:37:51.562Z</updated>
     <generator>osmosfeed 1.9.0</generator>
     <link rel="alternate" href="https://lvytwjw.github.io/rss/index.html"/>
     <link rel="self" href="https://lvytwjw.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[FCC曝光三星Galaxy Buds 2耳机外形与主要规格]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1133817.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1133817.htm"/>
+        <updated>2021-05-28T08:33:07.000Z</updated>
+        <summary type="html"><![CDATA[近年来，三星已经陆续推出了多款真无线耳机，其中包括 Galaxy Buds、Galaxy Buds+、Galaxy Buds Pro、以及 Galaxy Buds Live 。最新消息是，这家韩国电子科技巨头也将于 2021 年 8 月前后推出 Galaxy Buds 2 。近日，有关这幅新耳机的外形和主要功能，都已经被美国联邦通讯委员会（FCC）给曝光。
+ 阅读全文]]></summary>
+        <author>
+            <name>raymon725</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[获批：美国确认拨款520亿美元，扶持芯片制造研发]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1133815.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1133815.htm"/>
+        <updated>2021-05-28T08:12:25.000Z</updated>
+        <summary type="html"><![CDATA[5月19日报道，美国参议院民主党领袖舒默在当地时间星期二晚公布了经修改的两党立法，批准拨款520亿美元，在今后5年里大力促进美国半导体芯片的生产和研究。
+ 阅读全文]]></summary>
+        <author>
+            <name>teikaei</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[薇娅方就售卖山寨Supreme联名商品道歉：可随时申请只退款不退货]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1133813.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1133813.htm"/>
+        <updated>2021-05-28T08:11:48.000Z</updated>
+        <summary type="html"><![CDATA[5月28日下午消息，针对古姿GUZI X Supreme挂脖风扇授权争议事件，薇娅方今日发布情况说明。公告指出，公司与古姿GUZI达成此次合作前，双方签署了完备的法律协议，并要求GUZI及授权方提供了相关资质及授权文件，但还是出现了授权争议问题，对此向购买了此产品的消费者诚挚道歉。
+ 阅读全文]]></summary>
+        <author>
+            <name>vivian</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CQC 新算法加速量子蒙特卡洛积分运算时间]]></title>
+        <id>https://www.cnbeta.com/articles/science/1133811.htm</id>
+        <link href="https://www.cnbeta.com/articles/science/1133811.htm"/>
+        <updated>2021-05-28T08:10:29.000Z</updated>
+        <summary type="html"><![CDATA[剑桥量子计算公司 (CQC) 日前宣布发现一种新算法，该算法可加速量子蒙特卡洛积分运算时间，缩短实现量子优势的时间，特别是其证实了量子计算对金融业的重要性。
+ 阅读全文]]></summary>
+        <author>
+            <name>study875</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[淘宝特价版宣布品牌升级：更名“淘特”]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1133809.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1133809.htm"/>
+        <updated>2021-05-28T08:05:33.000Z</updated>
+        <summary type="html"><![CDATA[5月28日，淘宝特价版宣布品牌升级，更名淘特。目前各大应用平台均已启用新的名字。据官方介绍，主打性价比购物的淘特上线一年年度购买用户已超1.5亿，未来一年将建立全品类源头直供体系，持续补贴日用消费品，打造最大性价比综合电商。
+ 阅读全文]]></summary>
+        <author>
+            <name>teikaei</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[中国航天工程师提议：海王星探测器用大功率核反应堆发电电推]]></title>
+        <id>https://www.cnbeta.com/articles/science/1133807.htm</id>
+        <link href="https://www.cnbeta.com/articles/science/1133807.htm"/>
+        <updated>2021-05-28T08:03:04.000Z</updated>
+        <summary type="html"><![CDATA[海王星包含原恒星云的状态条件和行星形成的位置信息，相关探测活动有望在宇宙起源、天体起源获得重大科学发现，同时海卫一具有轨道逆行、自转轴垂直于公转轴、“火山喷发”现象等，故国际科学界对海王星探测极其关注。
+ 阅读全文]]></summary>
+        <author>
+            <name>study875</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[朵唯再回应二驴夫妻被指带货山寨机：向销售平台及消费者致歉]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1133805.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1133805.htm"/>
+        <updated>2021-05-28T08:02:09.000Z</updated>
+        <summary type="html"><![CDATA[5 月 28 日下午消息，朵唯官网今日发布公告，针对最近主播带货事件发出声明：各媒体平台热议的“朵唯 12pro“ 手机因管理不善，摄像头、内存错配；对于这个失误给销售平台、销售主播和消费者造成的损失与困扰，我们深感抱歉。
+ 阅读全文]]></summary>
+        <author>
+            <name>study875</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[雷军到访上汽通用五菱 网友：年轻人的第一辆小米EV来了]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1133803.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1133803.htm"/>
+        <updated>2021-05-28T08:01:24.000Z</updated>
+        <summary type="html"><![CDATA[年轻人的第一辆小米电动车要来了吗？5月28日，有网友爆料称，小米创办人，董事长兼CEO雷军今天到访了上汽通用五菱新能源车间，与上汽通用五菱总经理沈阳谈合作。从拍摄的图片来看，雷军参观了上汽通用五菱新能源汽车间，以及五菱宏光MINI EV、新宝骏KiWi EV等车型，同时现场还有专业人士进行了讲解。
+ 阅读全文]]></summary>
+        <author>
+            <name>teikaei</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[迪士尼电影《黑白魔女库伊拉》国内定档 6月6日上映]]></title>
+        <id>https://hot.cnbeta.com/articles/movie/1133801.htm</id>
+        <link href="https://hot.cnbeta.com/articles/movie/1133801.htm"/>
+        <updated>2021-05-28T07:55:11.000Z</updated>
+        <summary type="html"><![CDATA[今日（5月28日），据迪士尼电影官方微博公布的消息，奥斯卡金像奖影后艾玛·斯通主演，迪士尼真人电影《黑白魔女库伊拉》确认国内定档6月6日。电影讲述经典动画《101忠狗》反派库伊拉的起源，艾玛·斯通扮演库伊拉，艾玛·汤普森、保罗·沃尔特·豪泽等也出演，《我，花样女王》导演克雷格·吉勒斯佩执导。
+ 阅读全文]]></summary>
+        <author>
+            <name>teikaei</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[传闻高通即将推出的掌上游戏机不会搭载基带]]></title>
         <id>https://www.cnbeta.com/articles/tech/1133799.htm</id>
