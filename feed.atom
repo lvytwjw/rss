@@ -2,10 +2,76 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://lvytwjw.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-05-28T16:40:00.390Z</updated>
+    <updated>2021-05-28T18:36:41.155Z</updated>
     <generator>osmosfeed 1.9.0</generator>
     <link rel="alternate" href="https://lvytwjw.github.io/rss/index.html"/>
     <link rel="self" href="https://lvytwjw.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[英国警方突袭的大麻农场原来是比特币矿场 正在从电网中偷电]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1133939.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1133939.htm"/>
+        <updated>2021-05-28T18:22:21.000Z</updated>
+        <summary type="html"><![CDATA[英国警方上周对一个可疑的大麻农场进行突击检查时，他们惊讶地发现没有大麻。他们发现这个所谓农场实际上是比特币矿场。在该地区，加密货币挖矿并不违法，但偷窃电力为其提供动力的行为是违法的。
+ 阅读全文]]></summary>
+        <author>
+            <name>maomao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[波音因737 MAX事件被美国联邦航空管理局进一步罚款1700万美元]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1133937.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1133937.htm"/>
+        <updated>2021-05-28T18:13:54.000Z</updated>
+        <summary type="html"><![CDATA[波音公司面临着美国联邦航空管理局（FAA）对737 MAX事件进一步给的1700万美元罚款，这些处罚是在787梦想飞机交付再次被推迟的传言中宣布的。这家飞机制造商737 MAX飞机在2020年末重新投入使用，此前737 MAX飞机因两起致命的坠机事件停飞了近两年时间。
+ 阅读全文]]></summary>
+        <author>
+            <name>maomao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[苹果仍在研发HomePod和Apple TV混合型产品]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1133935.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1133935.htm"/>
+        <updated>2021-05-28T17:52:04.000Z</updated>
+        <summary type="html"><![CDATA[毋庸置疑，苹果公司在研发方面花费了大量资金。此前有报道称，苹果正在研发一款HomePod和苹果电视混合产品，该产品将配备屏幕和摄像头，用于FaceTime。虽然此消息见诸报端后，我们一直没有听到更多消息，但似乎苹果的混合产品仍在开发中。
+ 阅读全文]]></summary>
+        <author>
+            <name>maomao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[分析师认为苹果眼镜也支持AssistiveTouch功能 为残疾人带来更多好处]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1133933.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1133933.htm"/>
+        <updated>2021-05-28T17:18:32.000Z</updated>
+        <summary type="html"><![CDATA[苹果公司最近宣布了Apple Watch的AssistiveTouch功能，使残障人士能够在智能手表中导航而不遇到困难。一位分析师称，苹果眼镜也可能具备同样的功能，他评论说，这家科技巨头在许多领域领先于竞争对手，而且领先数年。
+ 阅读全文]]></summary>
+        <author>
+            <name>maomao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Intel 11代酷睿B系列悄然发布：10nm意外登陆“桌面”]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1133931.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1133931.htm"/>
+        <updated>2021-05-28T17:11:39.000Z</updated>
+        <summary type="html"><![CDATA[Intel 11代酷睿家族已经布局完毕，包括10nm Tiger Lake-U/H35/H45系列移动版、14nm Rocket Lake-S系列桌面版，而现在桌面上看到10nm，要等到年底的Alder Lake 12代酷睿了……不过等等！Intel ARK数据库今天悄然上线了四款11代酷睿新品，分别是i9-11900KB、i7-11700B、i5-11500B、i3-11100B，除却末尾的“B”字母后缀，分明就是桌面版。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[敢于捋虎须的小投行：投资者是时候卖出苹果了]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1133929.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1133929.htm"/>
+        <updated>2021-05-28T17:08:16.000Z</updated>
+        <summary type="html"><![CDATA[Newstreet Research的一份报告称，苹果旗舰iPhone的销量可能会大幅下滑，投资者应该在股价大跌之前撤离。这家科技巨头公布的第二财季iPhone销售额接近480亿美元，帮助该公司的盈利和营收超过分析师预期。多位分析师都表示，iPhone12是苹果新一轮超级周期的一部分。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[三星堆新发现6个“祭祀坑”出土重要文物千余件]]></title>
         <id>https://www.cnbeta.com/articles/science/1133927.htm</id>
