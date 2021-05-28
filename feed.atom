@@ -2,10 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://lvytwjw.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-05-28T22:18:04.188Z</updated>
+    <updated>2021-05-28T23:22:59.769Z</updated>
     <generator>osmosfeed 1.9.0</generator>
     <link rel="alternate" href="https://lvytwjw.github.io/rss/index.html"/>
     <link rel="self" href="https://lvytwjw.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[《孤岛惊魂6》10月7日发行 简中预告及实机视频公布]]></title>
+        <id>https://hot.cnbeta.com/articles/game/1133951.htm</id>
+        <link href="https://hot.cnbeta.com/articles/game/1133951.htm"/>
+        <updated>2021-05-28T23:21:17.000Z</updated>
+        <summary type="html"><![CDATA[育碧宣布《孤岛惊魂6》将于10月7日发行，登陆PC和主机平台。由育碧多伦多工作室研发的《孤岛惊魂6》将玩家带到位于当代游击革命的心脏地带，时间仿佛静止的热带天堂——雅拉。总统安东·卡斯蒂约(由埃斯珀西多饰演)誓言让自己的国家恢复昔日的光彩，同时培养他的儿子迭戈(由冈萨雷斯饰演)跟随他的脚步。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[二手电子产品交易平台爱回收提交赴美IPO申请]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1133949.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1133949.htm"/>
+        <updated>2021-05-28T23:16:30.000Z</updated>
+        <summary type="html"><![CDATA[二手电子产品交易平台爱回收提交赴美IPO申请，有意按代码“RERE”在纽交所挂牌交易，承销商包括高盛、美国银行、华兴资本、国泰君安（GTJA）、里昂证券（CLSA）以及老虎证券。爱回收平台2020年GMV成交额196亿元人民币，成交量超过2300万部。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[散户逼空行情暂歇 AMC早盘暴涨38%后转为收跌]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1133947.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1133947.htm"/>
+        <updated>2021-05-28T23:15:40.000Z</updated>
+        <summary type="html"><![CDATA[处在散户逼空风口浪尖的AMC在连续四日大涨之后，周五早盘涨幅一度扩大至38%，但之后回落，最终收跌1.58%。近期表现大热的其他散户抱团股也表现疲软，黑莓和诺基亚收盘涨幅均不足2%，游戏驿站更以下跌12.58%报收。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[My Developer Journey – How I Went from Making $1,000 to $100,000 a Year]]></title>
+        <id>60acf28e11ffb70827ef6dd9</id>
+        <link href="https://www.freecodecamp.org/news/my-developer-journey-how-i-went-from-1000-a-year-to-100000-as-a-dev/"/>
+        <updated>2021-05-28T22:58:18.000Z</updated>
+        <summary type="html"><![CDATA[Hey everyone, my name is Santosh. In this article, I will tell you how I ramped up my career and ended up making $100,000 a year as a developer.  I'll share what I learned from each job along the way, how you can stand out, tips for negotiating salary,]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[希腊将于7月1日前正式启用“新冠数字绿色证书”]]></title>
         <id>https://www.cnbeta.com/articles/tech/1133945.htm</id>
