@@ -2,10 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://lvytwjw.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-05-28T20:03:54.468Z</updated>
+    <updated>2021-05-28T21:17:17.053Z</updated>
     <generator>osmosfeed 1.9.0</generator>
     <link rel="alternate" href="https://lvytwjw.github.io/rss/index.html"/>
     <link rel="self" href="https://lvytwjw.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[希腊将于7月1日前正式启用“新冠数字绿色证书”]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1133945.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1133945.htm"/>
+        <updated>2021-05-28T20:17:07.000Z</updated>
+        <summary type="html"><![CDATA[当地时间5月28日，希腊数字治理部长基里亚科斯·皮埃拉卡基斯向公众展示了“新冠数字绿色证书”的使用方法。据介绍，该证书可在所有欧盟成员国范围内通用。此外，冰岛、列支敦士登、挪威和瑞士也可使用。在欧盟的共同框架下，各成员国颁发的证书都是兼容、安全、可互相操作且可互相验证的。已经完成新冠疫苗接种，以及感染过新冠病毒并已被治愈的人群可以获得欧盟“数字绿色证书”。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[旧金山的调味烟禁令可能产生了巨大的反效果]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1133943.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1133943.htm"/>
+        <updated>2021-05-28T20:13:00.000Z</updated>
+        <summary type="html"><![CDATA[耶鲁大学的一项新研究警告说，各城市在禁止调味的烟草产品（包括含有尼古丁的有香味的电子烟液体）之前可能需要三思。这是因为，根据新的研究，旧金山2018年的调味烟草制品禁令似乎产生了与其预期相反的效果--证据表明，它并没有减少青少年尼古丁的使用，反而促使更多的青少年抽上了传统烟草。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[三星Galaxy Tab S8系列规格、功能和定价细节泄露]]></title>
         <id>https://www.cnbeta.com/articles/tech/1133941.htm</id>
