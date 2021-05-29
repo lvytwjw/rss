@@ -963,6 +963,141 @@
       "siteUrl": "https://www.cnbeta.com",
       "articles": [
         {
+          "id": "https://www.cnbeta.com/articles/tech/1134115.htm",
+          "author": "study875",
+          "description": "Google本周四承诺，在 Chrome 浏览器推进“隐私沙盒”（Privacy Sandbox）方面绝不会监守自盗。在 Chrome 浏览器逐步淘汰第三方 cookies 之际，Google承诺绝不会为自己定制单独的规则。在本周四进行的线上营销活动中，Google的广告副总裁兼总经理 Jerry Dischler 介绍了公司在“隐私沙盒”功能上的最新进展。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1134115.htm",
+          "publishedOn": "2021-05-29T07:10:06.000Z",
+          "wordCount": 236,
+          "title": "谷歌强调：Chrome“隐私沙盒”功能将不会为自己定制后门"
+        },
+        {
+          "id": "https://hot.cnbeta.com/articles/game/1134113.htm",
+          "author": "ugmbbc",
+          "description": "游戏开发商Crytek在社交媒体上发表的内容让很多玩家认为应该是在指《孤岛危机3：复刻版》。Crytek之前在推特账号上对《孤岛危机》系列的复刻进行过非常简短而又重磅的介绍，现在看来，这次介绍已经进行到了系列第三作。Crytek公布了一张“先知”的图片，站在被绿植覆盖的遗迹中间，这让人回想起了原版《孤岛危机3》的场景。\n 阅读全文",
+          "link": "https://hot.cnbeta.com/articles/game/1134113.htm",
+          "publishedOn": "2021-05-29T07:02:09.000Z",
+          "wordCount": 205,
+          "title": "Crytek推特发图 或为《孤岛危机3：复刻版》消息"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1134111.htm",
+          "author": "ugmbbc",
+          "description": "5月28日晚，在中国网络空间安全协会网络治理工作委员会主办的未成年人保护专题研讨会上，中国传媒大学新闻学院教授、中国传媒大学媒体融合与传播国家重点实验室大数据中心首席科学家沈浩团队发布了《短视频应用程序青少年保护模式核测报告》（以下简称《报告》）。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1134111.htm",
+          "publishedOn": "2021-05-29T07:00:54.000Z",
+          "wordCount": 199,
+          "title": "23款短视频应用青少年模式测评：超四成未做到交易风险提示"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1134109.htm",
+          "author": "ugmbbc",
+          "description": "当地时间周五晚上，特斯拉首席执行官埃隆·马斯克宣布，该公司的Model S Plaid将推迟到2021年6月10日而不是2021年6月3日交付。据悉，特斯拉是在2020年9月22日举办的“电池日”活动上发布Model S Plaid的。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1134109.htm",
+          "publishedOn": "2021-05-29T06:54:17.000Z",
+          "wordCount": 221,
+          "title": "马斯克：特斯拉Model S Plaid交付时间将推迟至6月10日"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1134107.htm",
+          "author": "ugmbbc",
+          "description": "5月29日，近日特斯拉宣布在北美将主动召回2018年12月至2021年3月间生产的部分Model 3车型，以及2020年1月至2021年1月间生产的部分ModelY车型，以检查刹车卡钳螺栓。对此，特斯拉中国回应关切表示，针对中国市场，目前，特斯拉已向主管部门提交以下主动召回备案，备案程序完成后将尽快启动相关召回工作。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1134107.htm",
+          "publishedOn": "2021-05-29T06:51:20.000Z",
+          "wordCount": 220,
+          "title": "特斯拉：召回不涉及国产车型 也与“刹车失灵”无关"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1134105.htm",
+          "author": "ugmbbc",
+          "description": "2021年5月28日，一汽-大众奥迪官方宣布，旗下新款奥迪Q5L正式上市，新车共推出8款车型，官方指导价为39.68-48.7万元。作为中期改款车型，新款奥迪Q5L采用了更加运动的设计语言，并且针对配置进行了一定升级。而在动力上，新车仍将提供高低功率的2.0T动力选择。此外，发布会上还宣布，作为高性能版的奥迪SQ5将在6月举行的深港澳大湾区车展上推出。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1134105.htm",
+          "publishedOn": "2021-05-29T06:50:21.000Z",
+          "wordCount": 202,
+          "title": "新款奥迪Q5L正式上市 售价39.68-48.7万元"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1134103.htm",
+          "author": "raymon725",
+          "description": "Moore's Law is Dead 刚刚曝光了英特尔 Xe-HPG DG2 显卡的 PCB 谍照，与我们在 4 月份见过的工厂样品是一个样。在英伟达 / AMD 显卡变得“虚空”的市场状况下，游戏爱好者和发烧友们对其性能也充满了期待。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1134103.htm",
+          "publishedOn": "2021-05-29T06:49:45.000Z",
+          "wordCount": 316,
+          "title": "英特尔Xe-HPG DG2显卡PCB再曝光：4096核/16GB显存 叫板RTX 3080"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1134101.htm",
+          "author": "ugmbbc",
+          "description": "自进入2021年以来，“缺芯”成为了诸多车企都绕不开的拦路石，因芯片供应不足，不少车企甚至只能通过停产或减产进行现阶段过渡。但令人意想不到的是，在芯片荒对汽车行业的影响尚未消退的如今，“电池荒”又来了！\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1134101.htm",
+          "publishedOn": "2021-05-29T06:48:01.000Z",
+          "wordCount": 200,
+          "title": "芯片短缺危机尚未解决 电动车市场又迎来电池荒"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1134099.htm",
+          "author": "ugmbbc",
+          "description": "作为大众品牌最为畅销的SUV，途观L一直凭借着自己加长的轴距、以及EA888发动机，成为了这个价位中型SUV绕不开的选择之一。日前，据媒体报道，新款大众Tiguan Allspace（国内途观L）正式在欧洲上市，新车起售价36230欧元，约合人民币23.12万元。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1134099.htm",
+          "publishedOn": "2021-05-29T06:40:42.000Z",
+          "wordCount": 206,
+          "title": "245马力EA888 新款大众途观海外开卖"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1134097.htm",
+          "author": "ugmbbc",
+          "description": "近日，一段“粉丝闯机舱追星”的视频在网上疯传。据媒体报道，5月26日，在一架杭州飞往北京的航班上，因机组前舱有男团成员，飞机滑行阶段后舱粉丝就不听劝阻，冲向前舱求合影，还叫板空姐。网传视频显示，多名乘客站在机舱过道中，举着手机拍摄。有机组人员劝阻，表示飞机还没有停稳，提醒乘客回座位坐好，并称，“真的会摔伤的！”但无人响应。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1134097.htm",
+          "publishedOn": "2021-05-29T06:40:19.000Z",
+          "wordCount": 205,
+          "title": "粉丝闯机舱追星 飞机滑行中起身有多危险？"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1134095.htm",
+          "author": "ugmbbc",
+          "description": "2021年5月20日，努比亚举行“星影相随”主题新品发布，发布了Z系列最新一代影像旗舰——努比亚Z30 Pro。除旗舰手机外，努比亚还带来了一系列充电配件新品，其中一款是业界首款多口扁平化的65W氮化镓充电器——努比亚大白65W超薄氮化镓充电器。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1134095.htm",
+          "publishedOn": "2021-05-29T06:38:27.000Z",
+          "wordCount": 211,
+          "title": "努比亚推出业界首款65W 2C扁平化氮化镓充电器"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1134093.htm",
+          "author": "study875",
+          "description": "松下公司近日参与了位于日本冲绳西南石垣岛的一个项目，主要是寻求在亚热带季风条件下种植蔬菜的方法。该项目隶属于日本政府的亚洲季风植物工厂系统（PFS）联盟，该项目旨在创造一个稳定的、不太受气候条件影响的本地农产品供应基地。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1134093.htm",
+          "publishedOn": "2021-05-29T06:24:05.000Z",
+          "wordCount": 215,
+          "title": "[图]松下参与建设IT绿房 在季风恶劣环境下生产供应蔬菜"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1134091.htm",
+          "author": "study875",
+          "description": "在适用于 Windows 10 21H1/20H2/20H1 功能更新的最新累积更新中，微软现正式开放“新闻和兴趣”功能，邀请任意使用上述 3 个累积更新的用户体验和反馈。如果你已升级到 Windows 10 Build 1904x.1023 或更高版本，那么你可以通过该功能获得更多个性化的内容。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1134091.htm",
+          "publishedOn": "2021-05-29T06:11:25.000Z",
+          "wordCount": 228,
+          "title": "微软正式开放Windows 10“新闻和兴趣”功能 默认启用悬停显示"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1134089.htm",
+          "author": "study875",
+          "description": "在给主播的公开信中，Twitch 公司表示已经收到了大量来自音乐出版商的下架请求，主要在录制的直播内容中使用存在版权的歌曲（VOD）。根据 Twitch 平台现有的政策，如果频道受到 3 次版权打击，那么就永久禁止进入该平台。因此这封公开信很可能会对已经受到过处罚的频道来说会比较敏感。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1134089.htm",
+          "publishedOn": "2021-05-29T06:03:47.000Z",
+          "wordCount": 212,
+          "title": "Twitch发出警告信 将开展新一轮版权歌曲打击活动"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1134087.htm",
+          "author": "raymon725",
+          "description": "作为传输控制协议（TCP）的继任者，快速 UDP 互联网连接（QUIC）拥有安全、可靠、低延迟等特性，并且迎合了构建更快速、更具弹性、以及更受信任的互联网的使命。工程师 Jana Iyengar 在 Fastly 网站上发布的一篇博客文章中提到，出于对这方面的热爱，他们已经在 QUIC 上投入了大量的资源和精力。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1134087.htm",
+          "publishedOn": "2021-05-29T05:53:48.000Z",
+          "wordCount": 277,
+          "title": "取代TCP：工程师宣布QUIC协议已完成RFC 9000发布"
+        },
+        {
           "id": "https://www.cnbeta.com/articles/tech/1134085.htm",
           "author": "study875",
           "description": "在多款车型推出夜光版并获得消费者的热烈欢迎之后，丰田近日为 Prius 混动车型带来了夜光版本。Prius Nightshade Edition 采用独特的装饰，包括黑色的轮毂和徽章，使这辆环保的汽车看起来很大胆。\n 阅读全文",
