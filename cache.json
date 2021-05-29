@@ -963,6 +963,141 @@
       "siteUrl": "https://www.cnbeta.com",
       "articles": [
         {
+          "id": "https://www.cnbeta.com/articles/tech/1134145.htm",
+          "author": "study875",
+          "description": "近日 ，UU 跑腿官博发布微博《关于对顺丰同城急送产品及设计团队发展的几条建议》喊话顺丰，称顺丰同城急送小程序新上线的“帮排队”功能，其名称、介绍文案、图标设计、排列布局几乎与 UU 跑腿在 2016 年上线的“帮排队”功能一模一样。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1134145.htm",
+          "publishedOn": "2021-05-29T08:48:58.000Z",
+          "wordCount": 236,
+          "title": "UU 跑腿发文斥顺丰同城“帮排队”功能抄袭"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1134143.htm",
+          "author": "ugmbbc",
+          "description": "根据应用追踪公司 App Annie 和 SensorTower 的数据显示，SHEIN 的 iOS 和Android版本 App 下载次数在美国已经超越了亚马逊。 Google Play Store 免费应用排行榜的购物类第一名也是它。而亚马逊作为世界上最大的电商平台，下载量被一个大家都没听说过的 App 给超越了，SHEIN 自然会受到大量的关注。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1134143.htm",
+          "publishedOn": "2021-05-29T08:46:55.000Z",
+          "wordCount": 369,
+          "title": "这家来自南京的电商企业App下载次数已经超过了亚马逊"
+        },
+        {
+          "id": "https://hot.cnbeta.com/articles/comic/1134141.htm",
+          "author": "study875",
+          "description": "日本宫城县一 25 岁女子近日因发邮件威胁前往制作《进击的巨人》动画的 Wit Studio 纵火而被警方逮捕。根据日本读卖新闻报道，嫌犯是在本周早些时候被抓获的。日本共同社报道称，这名女子在 5 月 7 日发送邮件声称：“从现在起一周内，我要在你们的总部放火。”\n 阅读全文",
+          "link": "https://hot.cnbeta.com/articles/comic/1134141.htm",
+          "publishedOn": "2021-05-29T08:46:37.000Z",
+          "wordCount": 217,
+          "title": "日本女子因威胁前往《进击的巨人》工作室纵火被捕"
+        },
+        {
+          "id": "https://hot.cnbeta.com/articles/game/1134139.htm",
+          "author": "study875",
+          "description": "PS5主机现在可以说是一机难求，反过来，成功抢到主机的玩家自然也是欣喜若狂。然而，最近有一些欧美玩家体验到了过山车一般的经历，明明在亚马逊上抢到了PS5数字版，却因为一个BUG而被告知商品无法送达，最终只剩下两手空空和满腔怒火。\n 阅读全文",
+          "link": "https://hot.cnbeta.com/articles/game/1134139.htm",
+          "publishedOn": "2021-05-29T08:45:52.000Z",
+          "wordCount": 195,
+          "title": "亚马逊惹怒大批玩家：PS5明明有货却买不了"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1134137.htm",
+          "author": "study875",
+          "description": "5 月 29 日消息 ，OPPO 员工因发表鸿蒙不当言论离职 。28 日晚，@芝士芒胖 发微博：我没有依据，仅凭一些所谓网络文章和挑动，就否定鸿蒙价值，不仅伤害了华为，也影响了公司。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1134137.htm",
+          "publishedOn": "2021-05-29T08:40:22.000Z",
+          "wordCount": 212,
+          "title": "OPPO员工因发表鸿蒙不当言论离职，称没将博主工作身份分清"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1134135.htm",
+          "author": "study875",
+          "description": "美国国家能源研究科学计算中心（NERSC）的劳伦斯·伯克利国家实验室（Berkeley Lab）宣布，新型超级计算机Perlmutter已正式上线。这台HPE Cray EX超算其名字Perlmutter，是为了纪念实验室的天体物理学家Saul Perlmutter，他因“透过观测遥远超新星而发现宇宙加速膨胀”而获得了2011年诺贝尔物理学奖。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1134135.htm",
+          "publishedOn": "2021-05-29T08:35:51.000Z",
+          "wordCount": 220,
+          "title": "美国新超算Perlmutter启用， 采用AMD EPYC处理器和英伟达A100加速卡"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1134133.htm",
+          "author": "study875",
+          "description": "近日，山西太原警方接到市民小王的报案，称自己曾在朋友的介绍下，做了一份“兼职”，长期利用自己的支付宝银行卡“跑分”挣钱。小王发现，这背后可能隐藏着犯罪链条。警方介入调查，破获一起境外洗钱大案。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1134133.htm",
+          "publishedOn": "2021-05-29T08:30:06.000Z",
+          "wordCount": 232,
+          "title": "兼职码农报案 警方破获案值超 20 亿元“跑分”洗钱案"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1134131.htm",
+          "author": "study875",
+          "description": "在美国政府的牵头带动下，年产值超过 350 亿美元的通信装备行业即将迎来一次较大规模的洗牌，并为美国公司提供了重新涉足该行业的机会。根据市场研究机构 Dell'Oro Group 的数据，在过去 5 年时间里，只有中国的华为、瑞典的爱立信和芬兰的诺基亚能够在通信装备市场上占据超过 20% 的份额，而没有其他任何一家公司份额能超过 10%。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1134131.htm",
+          "publishedOn": "2021-05-29T08:20:02.000Z",
+          "wordCount": 219,
+          "title": "年产值超过350亿美元的美国通信装备行业即将迎来大洗牌"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1134129.htm",
+          "author": "study875",
+          "description": "5 月 20 日，成都春熙路街头一场“道德绑架式表白”被推上热搜，大家纷纷斥责男子的这种表白行为，并称“小姐姐太可怜了”。截至目前，该事件话题已超 6 亿阅读量。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1134129.htm",
+          "publishedOn": "2021-05-29T07:53:52.000Z",
+          "wordCount": 271,
+          "title": "道德绑架式表白女网红道歉：“运营”找上门策划，真的对不起"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1134127.htm",
+          "author": "study875",
+          "description": "新冠疫情肆虐，印度一些寺庙的祭司开始供奉“新冠病毒女神”。据法新社28日报道，印度南部城市哥印拜陀的一座名为Kamatchipuri Adhinam的寺庙内，立了两尊“新冠病毒女神”像。这里的祭司每天向神像祈祷，以祈求疫情能早日被控制住。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1134127.htm",
+          "publishedOn": "2021-05-29T07:52:20.000Z",
+          "wordCount": 204,
+          "title": "疫情肆虐，印度寺庙已经开始供奉“新冠病毒女神”"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1134125.htm",
+          "author": "study875",
+          "description": "为提振投资者信心，美的近来真的很努力。对于意兴阑珊的资本市场，这家家电巨头接连打出了“回购牌”、“增持牌”以及“王炸”——进军新能源汽车产业链。但目前来看，收效甚微。截止 5 月 28 日，美的集团收盘价 82.53 元/股，距今年 2 月的最高点 108 元每股下跌超 23%， 市值蒸发超过 1700 亿元。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1134125.htm",
+          "publishedOn": "2021-05-29T07:51:24.000Z",
+          "wordCount": 357,
+          "title": "造车“二进宫” 美的再陷多元化怪圈？"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1134123.htm",
+          "author": "study875",
+          "description": "国家卫健委29日通报，全国新冠病毒疫苗接种超过6亿剂次。自3月27日超过1亿剂次以来，每亿剂次所需时间为25天、16天、9天、7天、5天，间隔不断缩短，这是#疫苗接种的中国速度#。当前多地疫情形势复杂，防控之弦切不可松，接种疫苗后也不可大意，仍需戴好口罩，做好个人防护。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1134123.htm",
+          "publishedOn": "2021-05-29T07:49:22.000Z",
+          "wordCount": 196,
+          "title": "全国新冠疫苗接种剂次超6亿"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1134121.htm",
+          "author": "study875",
+          "description": "5 月 29 日，金康赛力斯与华为深度合作的赛力斯华为智选 SF5 车型正式开始交付。新车共推出 2 款车型，补贴后售价区间为 21.68-24.68 万元。新车搭载 HUAWEI DriveONE 三合一电驱动系统，并采用华为 HiCar 车机系统等多项与华为合作的技术。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1134121.htm",
+          "publishedOn": "2021-05-29T07:48:40.000Z",
+          "wordCount": 291,
+          "title": "售21.68万元起 赛力斯华为智选SF5交付"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1134119.htm",
+          "author": "study875",
+          "description": "援引外媒 Android Central 报道，即将到来的一加 Nord CE 5G 手机将会采用高通骁龙 750G 芯片，也就是说比初代一加 Nord 所搭载的骁龙 765G 还要略低一档。在报道中还指出该机搭载 6.43 英寸的 AMOLED 屏幕，刷新率为 90Hz，和初代一加 Nord 的屏幕参数相同。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1134119.htm",
+          "publishedOn": "2021-05-29T07:47:06.000Z",
+          "wordCount": 250,
+          "title": "[图]一加Nord CE 5G规格曝光：骁龙750G+6.43吋屏幕"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1134117.htm",
+          "author": "study875",
+          "description": "面向 Windows 用户，今天微软发布了 Office Insider Preview Build 14122.20004(Beta Channel) 。新版本主要为 Outlook 添加了 Org Explorer，以便于用户进行上下文分析、可视化、探索周围同事和公司团队。新版本也修复了存在于 Word、Project、Outlook 等应用的诸多 BUG。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1134117.htm",
+          "publishedOn": "2021-05-29T07:38:28.000Z",
+          "wordCount": 237,
+          "title": "Office预览版发布：为Outlook添加组织资源管理器支持"
+        },
+        {
           "id": "https://www.cnbeta.com/articles/tech/1134115.htm",
           "author": "study875",
           "description": "Google本周四承诺，在 Chrome 浏览器推进“隐私沙盒”（Privacy Sandbox）方面绝不会监守自盗。在 Chrome 浏览器逐步淘汰第三方 cookies 之际，Google承诺绝不会为自己定制单独的规则。在本周四进行的线上营销活动中，Google的广告副总裁兼总经理 Jerry Dischler 介绍了公司在“隐私沙盒”功能上的最新进展。\n 阅读全文",
