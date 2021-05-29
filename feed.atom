@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://lvytwjw.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-05-29T18:42:34.697Z</updated>
+    <updated>2021-05-29T20:10:03.509Z</updated>
     <generator>osmosfeed 1.9.0</generator>
     <link rel="alternate" href="https://lvytwjw.github.io/rss/index.html"/>
     <link rel="self" href="https://lvytwjw.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[微软被指责多次弹窗试图诱导Edge用户转移到Bing搜索引擎]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1134219.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1134219.htm"/>
+        <updated>2021-05-29T19:41:35.000Z</updated>
+        <summary type="html"><![CDATA[微软最近发布的Microsoft Edge 91有重大改进，包括在性能方面，但这个新版本很快引发了一些争议。微软Edge现在在启动时会显示一个提示，要求用户更新他们的浏览器设置，建议切换到微软Bing作为默认搜索引擎。虽然这样的提示在更新后显示并没有什么问题，但Reddit上的一些用户声称，同样的信息一次又一次地出现，这非常恼人。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[有消息显示类似Windows 8的Charms bar功能即将来到Windows 10]]></title>
         <id>https://www.cnbeta.com/articles/tech/1134217.htm</id>

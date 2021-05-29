@@ -963,6 +963,15 @@
       "siteUrl": "https://www.cnbeta.com",
       "articles": [
         {
+          "id": "https://www.cnbeta.com/articles/tech/1134219.htm",
+          "author": "ugmbbc",
+          "description": "微软最近发布的Microsoft Edge 91有重大改进，包括在性能方面，但这个新版本很快引发了一些争议。微软Edge现在在启动时会显示一个提示，要求用户更新他们的浏览器设置，建议切换到微软Bing作为默认搜索引擎。虽然这样的提示在更新后显示并没有什么问题，但Reddit上的一些用户声称，同样的信息一次又一次地出现，这非常恼人。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1134219.htm",
+          "publishedOn": "2021-05-29T19:41:35.000Z",
+          "wordCount": 205,
+          "title": "微软被指责多次弹窗试图诱导Edge用户转移到Bing搜索引擎"
+        },
+        {
           "id": "https://www.cnbeta.com/articles/tech/1134217.htm",
           "author": "ugmbbc",
           "description": "微软的Windows 10太阳谷更新除了外观变化外，还将包括更多生产力提升方面的改进和多任务功能。现在，传闻中的消息又有了一些补充，根据一份新报告，微软正在内部测试操作系统的新部件。微软似乎正在开发一项新功能，它将类似于Windows 8的Charms Bar和活动桌面，该功能目前被称为 \"Windows Widgets\"，它将在今年晚些时候或明年推出。\n 阅读全文",
