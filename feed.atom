@@ -2,10 +2,43 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://lvytwjw.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-05-29T22:21:11.320Z</updated>
+    <updated>2021-05-29T23:22:23.348Z</updated>
     <generator>osmosfeed 1.9.0</generator>
     <link rel="alternate" href="https://lvytwjw.github.io/rss/index.html"/>
     <link rel="self" href="https://lvytwjw.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[去年扑杀埋葬今年挖出来 丹麦焚烧400万水貂尸体]]></title>
+        <id>https://www.cnbeta.com/articles/science/1134225.htm</id>
+        <link href="https://www.cnbeta.com/articles/science/1134225.htm"/>
+        <updated>2021-05-29T23:21:53.000Z</updated>
+        <summary type="html"><![CDATA[由于新冠病毒也能在动物中传染，去年为了防范疫情，丹麦下令扑杀了1700万只水貂，其中400万只埋葬土中，然而今年这些水貂又被挖出来继续焚烧处理。当地时间28日丹麦开始焚烧400万水貂尸体。六个月前，为防止水貂身上的新冠病毒突变的传播，丹麦下令扑杀1700万只水貂并进行焚烧，但由于焚烧厂运转能力有限，剩下400万只被埋在丹麦西部。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Edge 91新版正式推送 这些新功能实在太给力]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1134223.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1134223.htm"/>
+        <updated>2021-05-29T23:19:27.000Z</updated>
+        <summary type="html"><![CDATA[根据Windows Latest的报道，微软正在Windows 10和macOS上推送Edge 91浏览器，带来了诸多新功能和特性。在未来几天，该更新会自动下载和安装，用户也可以通过设置中检查版本号的方法，来手动更新到Edge 91新版。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[天舟二号货运飞船与天和核心舱完成自主快速交会对接]]></title>
+        <id>https://www.cnbeta.com/articles/science/1134221.htm</id>
+        <link href="https://www.cnbeta.com/articles/science/1134221.htm"/>
+        <updated>2021-05-29T23:17:28.000Z</updated>
+        <summary type="html"><![CDATA[据中国载人航天工程办公室消息，天舟二号货运飞船入轨后顺利完成入轨状态设置，于5月30日5时01分，采用自主快速交会对接模式精准对接于天和核心舱后向端口，整个过程历时约8小时。天舟二号携带了航天员生活物资、舱外航天服及空间站平台设备、应用载荷和推进剂等。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[微软被指责多次弹窗试图诱导Edge用户转移到Bing搜索引擎]]></title>
         <id>https://www.cnbeta.com/articles/tech/1134219.htm</id>
