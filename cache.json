@@ -963,6 +963,78 @@
       "siteUrl": "https://www.cnbeta.com",
       "articles": [
         {
+          "id": "https://www.cnbeta.com/articles/tech/1134217.htm",
+          "author": "ugmbbc",
+          "description": "微软的Windows 10太阳谷更新除了外观变化外，还将包括更多生产力提升方面的改进和多任务功能。现在，传闻中的消息又有了一些补充，根据一份新报告，微软正在内部测试操作系统的新部件。微软似乎正在开发一项新功能，它将类似于Windows 8的Charms Bar和活动桌面，该功能目前被称为 \"Windows Widgets\"，它将在今年晚些时候或明年推出。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1134217.htm",
+          "publishedOn": "2021-05-29T17:51:21.000Z",
+          "wordCount": 229,
+          "title": "有消息显示类似Windows 8的Charms bar功能即将来到Windows 10"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/science/1134215.htm",
+          "author": "ugmbbc",
+          "description": "5月29日晚，长征七号遥三运载火箭点亮中国文昌航天发射场的夜空，成功发射天舟二号货运飞船。在经历了“推迟发射”的波折后，中国人终于迎来了这份“稳稳的幸福”。5月19日21时许，中国载人航天工程办公室发布消息称，计划5月20日凌晨1时许发射天舟二号货运飞船。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/science/1134215.htm",
+          "publishedOn": "2021-05-29T17:40:14.000Z",
+          "wordCount": 197,
+          "title": "天舟二号推迟发射归零纪实：9天上演绝地反击"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1134213.htm",
+          "author": "ugmbbc",
+          "description": "连日来，15头野生亚洲象在云南一路“逛吃”北迁的消息刷屏各路媒体，5月29日消息，据媒体报道，象群当中有六头大象闯入了玉溪市峨山县城的一家汽车销售店和一户村民家中。这家汽车销售店负责人王宏伟说，所幸他当时躲得及时，没有跟大象正面相遇。这六头大象喝光了汽车销售店桶里的水后，又来到隔壁一户村民家，踩倒了菜地、撞到了包谷。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1134213.htm",
+          "publishedOn": "2021-05-29T17:39:28.000Z",
+          "wordCount": 201,
+          "title": "云南野象一路“逛吃” 几乎跨越了半个云南省"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1134211.htm",
+          "author": "ugmbbc",
+          "description": "越南卫生部长阮青龙29日宣布该国发现新的新冠病毒变异毒株，它是此前在英国和印度发现的变异毒株的混合体。阮青龙当天在越南全国新冠疫情防控视频会议上说，这种变异毒株混合体“非常危险”，传播性更强，能在空气中迅速传播。这一新发现的毒株混合体尚未命名。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1134211.htm",
+          "publishedOn": "2021-05-29T17:38:08.000Z",
+          "wordCount": 199,
+          "title": "越南宣布发现新冠病毒变异毒株混合体"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1134209.htm",
+          "author": "ugmbbc",
+          "description": "法律消息人士称，埃及法院周六推迟了苏伊士运河对3月份阻塞运河6天的集装箱船船东提起的赔偿案的听证会，让双方有更多时间进行谈判。3月23日，世界上最大的集装箱船之一“给予号”（Ever Given）在强风中堵塞了运河，导致双向交通中断，扰乱了全球贸易。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1134209.htm",
+          "publishedOn": "2021-05-29T17:32:01.000Z",
+          "wordCount": 205,
+          "title": "埃及法院推迟审理苏伊士集装箱船赔偿案"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/science/1134207.htm",
+          "author": "ugmbbc",
+          "description": "5月29日消息，据中国载人航天工程办公室消息，5月29日20时55分，搭载天舟二号货运飞船的长征七号遥三运载火箭，在我国文昌航天发射场准时点火发射。约604秒后，飞船与火箭成功分离，精确进入预定轨道，21时17分，太阳能帆板两翼顺利展开工作，发射取得圆满成功。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/science/1134207.htm",
+          "publishedOn": "2021-05-29T17:30:46.000Z",
+          "wordCount": 197,
+          "title": "神舟十二号载人飞船计划六月升空：3名航天员将“入住”天和核心舱"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1134205.htm",
+          "author": "ugmbbc",
+          "description": "过去二十年，手机一直是一门好生意，一台手机的利润，低则几十元，高则上千元。凭借着昂贵又畅销的iPhone，苹果拿走了这个行业利润的大头，从而撑起了两万亿美元市值，在被美国制裁淡出行业之前，华为超过一半的收入来自手机业务。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1134205.htm",
+          "publishedOn": "2021-05-29T17:28:55.000Z",
+          "wordCount": 206,
+          "title": "靠收旧手机年入50亿 但爱回收还是没有盈利"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/science/1134203.htm",
+          "author": "ugmbbc",
+          "description": "据中国载人航天工程办公室消息，5月29日20时55分，搭载天舟二号货运飞船的长征七号遥三运载火箭，在我国文昌航天发射场准时点火发射，约604秒后，飞船与火箭成功分离，精确进入预定轨道，9时17分，太阳能帆板两翼顺利展开工作，发射取得圆满成功。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/science/1134203.htm",
+          "publishedOn": "2021-05-29T17:27:01.000Z",
+          "wordCount": 203,
+          "title": "天舟二号货运飞船发射任务取得圆满成功：送6.8吨物资“上天”"
+        },
+        {
           "id": "https://www.cnbeta.com/articles/tech/1134201.htm",
           "author": "ugmbbc",
           "description": "你有没有使用过公共服务、金融服务、生活服务等APP平台的在线客服？有没有拨打过客服电话？体验感如何？5月28日，江苏省消保委发布《数字化背景下客户服务便利度消费调查报告》（简称《报告》）。《报告》在线征集14136人进行问卷调查；体验调查则涉及48个APP平台的在线客服和电话客服两个维度。结果显示：智能客服不“智能”反“添堵”普遍；多个客服通道间存在互相“推诿”现象。\n 阅读全文",
