@@ -668,15 +668,6 @@
           "publishedOn": "2021-04-30T09:00:00.000Z",
           "wordCount": 2139,
           "title": "May Is In The Air (2021 Wallpapers Edition)"
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/04/humble-img-element-core-web-vitals/",
-          "author": "hello@smashingmagazine.com (Addy Osmani)",
-          "description": "Images have also been a key part of the web. They communicate ideas instantly, but they are also a lot heavier than text to load. This means that it’s essential to get loading and displaying them right, if you want to give your users a fantastic first impression. An excerpt from [Addy's new book](https://www.smashingmagazine.com/2021/04/image-optimization-pre-release/) (also, check a [free PDF preview](http://provide.smashingmagazine.com/eBooks/image-optimization-sample-chapter.pdf)).",
-          "link": "https://smashingmagazine.com/2021/04/humble-img-element-core-web-vitals/",
-          "publishedOn": "2021-04-29T12:15:00.000Z",
-          "wordCount": 5325,
-          "title": "The Humble `<img>` Element And Core Web Vitals"
         }
       ]
     },
@@ -971,6 +962,231 @@
       "feedUrl": "https://www.cnbeta.com/backend.php",
       "siteUrl": "https://www.cnbeta.com",
       "articles": [
+        {
+          "id": "https://www.cnbeta.com/articles/science/1134001.htm",
+          "author": "vivian",
+          "description": "正在参加两院院士大会的中国工程院院士钟南山28日晚间接受中新网记者采访时指出，到今年年底，中国新冠病毒疫苗的覆盖率能够达到80%，当前疫苗产能仍需加强。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/science/1134001.htm",
+          "publishedOn": "2021-05-29T00:52:11.000Z",
+          "wordCount": 204,
+          "title": "钟南山：中国新冠疫苗覆盖率今年底可达80%"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1133999.htm",
+          "author": "vivian",
+          "description": "5月28日，澎湃新闻从多家链家门店获悉，近期链家已暂停签署二手房VIP房源业务。所谓VIP房源，是链家房源委托的一种体现形式，签署房屋出售VIP服务协议，主要优势在于成交周期快、房源优先展示等。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1133999.htm",
+          "publishedOn": "2021-05-29T00:50:41.000Z",
+          "wordCount": 201,
+          "title": "三部门要求自查是否强迫二选一后  链家暂停二手房VIP业务"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/science/1133997.htm",
+          "author": "vivian",
+          "description": "纺织品文物保护国家文物局重点科研基地主任周旸近日在四川广汉向记者披露了三星堆遗址祭祀坑纺织品考古工作的最新进展。继此前在4号祭祀坑的灰烬层中首次提取出丝蛋白后，3月20日以来，考古工作者通过对从1号至6号祭祀坑提取的逾百个样本进行了检测，在2号、6号祭祀坑中再次发现纺织物的遗痕。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/science/1133997.htm",
+          "publishedOn": "2021-05-29T00:48:59.000Z",
+          "wordCount": 217,
+          "title": "三星堆多个祭祀坑新发现纺织物遗痕 专家称终极目标是寻找文字"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1133995.htm",
+          "author": "ugmbbc",
+          "description": "最近，特斯拉因为在软件更新时，降低充电速度和电池容量，被挪威法庭判罚有罪，或因此需向车主们支付约9.64万人民币（约1.6万美元）罚款。早在2019年时，特斯拉通过软件升级限制部分车辆的续航里程和充电速度。部分车主在进行升级软件之后，发现续航里程出现明显下滑情况。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1133995.htm",
+          "publishedOn": "2021-05-29T00:46:11.000Z",
+          "wordCount": 228,
+          "title": "卖车亏钱，卖软件就赚钱？"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1133993.htm",
+          "author": "ugmbbc",
+          "description": "不久前微软正式宣布，Internet Explorer浏览器将于2022年6月开始停用，而在今后的新版Windows系统中也将再也找不到这个昔日的浏览器霸主。IE浏览器曾经陪伴了我们大多数人很长的一段岁月，它曾经是许多人上网冲浪的必备工具，它曾经是上网的代名词。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1133993.htm",
+          "publishedOn": "2021-05-29T00:44:48.000Z",
+          "wordCount": 346,
+          "title": "微软宣布IE进入死亡倒计时 回顾IE传奇的一生"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1133991.htm",
+          "author": "ugmbbc",
+          "description": "28日，资源三号03星在轨交付仪式在京举行，这标志着卫星正式交付中国自然资源部投入业务化运行。资源三号03星于2020年7月25日成功发射，是自然资源部作为主用户的重要自主卫星数据源。其突出优势在于三维立体测量，可有效获取高分辨率立体影像、全色多光谱影像和激光测高数据，显著提升1:5万比例尺测图及更大比例尺地理信息更新能力，为国民经济建设和社会发展提供基础性数据保障。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1133991.htm",
+          "publishedOn": "2021-05-29T00:42:56.000Z",
+          "wordCount": 201,
+          "title": "资源三号03星在轨交付投入业务化运行"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1133989.htm",
+          "author": "ugmbbc",
+          "description": "据《日本经济新闻》28日报道，日本首相菅义伟当天正式宣布对东京都、大阪府等9个都道府县延长“紧急事态宣言”实施期限，从原定的5月31日截止日期，延长到6月20日。由于冲绳县的“紧急事态宣言”实施期限也是到6月20日，所以日本至此共有10个都道府县实施紧急状态。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1133989.htm",
+          "publishedOn": "2021-05-29T00:41:59.000Z",
+          "wordCount": 199,
+          "title": "东京奥运质疑声中进入最终筹备阶段"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1133987.htm",
+          "author": "ugmbbc",
+          "description": "本已圆满完成全年生产和交付目标的特斯拉又面临新的“缺芯”挑战。本周五，DigiTimes援引业内消息称，特斯拉在接触中国台湾地区、韩国和美国的半导体集成电路供应商，寻求通过提前付款获得车用芯片的稳定供应。消息人士称，鉴于去年第四季度，IT和汽车行业供应链的生产商还在竞相扩大晶圆产能，特斯拉的上述行动可能难以取得可观的成绩。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1133987.htm",
+          "publishedOn": "2021-05-29T00:41:34.000Z",
+          "wordCount": 219,
+          "title": "“缺芯”压力山大 特斯拉据称因此部分车型弃用雷达"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/science/1133985.htm",
+          "author": "vivian",
+          "description": "据外媒报道，一张在火星悬崖峭壁上空形成的云层的戏剧性照片揭示了关于这颗红色星球的一个意想不到的细节，好奇号探测器帮助回答了一个两年前的谜题。美国宇航局（NASA）喷气推进实验室（JPL）负责管理自2012年中期以来一直在火星上的好奇号，其在一年前首次发现了不寻常的云层形成，但它的存在与我们邻近星球的天气预期相悖。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/science/1133985.htm",
+          "publishedOn": "2021-05-29T00:36:25.000Z",
+          "wordCount": 198,
+          "title": "NASA好奇号在火星上捕捉到罕见的云层景象"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/science/1133983.htm",
+          "author": "vivian",
+          "description": "据外媒CNET报道，加拿大航天局（CSA）对国际空间站最突出的贡献之一是Canadarm2，这是空间站外部一个近60英尺长（18米长）的机械臂，帮助完成维护任务并 “捕捉来访”的航天器。该机械臂最近被一块轨道碎片击中，留下了一个明显的痕迹。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/science/1133983.htm",
+          "publishedOn": "2021-05-29T00:21:38.000Z",
+          "wordCount": 206,
+          "title": "轨道碎片击中国际空间站机械臂 并留下明显痕迹"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1133981.htm",
+          "author": "ugmbbc",
+          "description": "新华社昆明5月28日消息，原本栖息在云南西双版纳的一群野生亚洲象，近日一路北迁，经普洱市墨江县、玉溪市元江县、红河州石屏县后抵达玉溪市峨山县，28日仍在峨山县境内逗留觅食。目前这群15头野象离昆明市晋宁区已不到50公里，离昆明城区仅约100公里。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1133981.htm",
+          "publishedOn": "2021-05-29T00:14:16.000Z",
+          "wordCount": 208,
+          "title": "云南15头野象一路北迁 已临近昆明"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1133979.htm",
+          "author": "ugmbbc",
+          "description": "华为此前已经宣布将在6月2日举行发布会，正式推出鸿蒙OS系统，届时也会发布多款搭载鸿蒙系统的产品，当然不少老用户最关心的还是自己的设备能不能升级到这个系统。据数码博主@菊厂影业 Fans透露的细节，华为6月2日发布会上会公布鸿蒙系统第一批升级名单，并且会在5月31号开始归档，6月2日同步升级。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1133979.htm",
+          "publishedOn": "2021-05-29T00:13:15.000Z",
+          "wordCount": 212,
+          "title": "华为鸿蒙首批支持机型名单曝光 升级工作6月2日全面启动"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1133977.htm",
+          "author": "ugmbbc",
+          "description": "在一次令人瞠目结舌的事件之后，Venmo为朋友名单增加了新的隐私控制，由于该应用程序的隐私协议泄露，媒体得以追踪到总统乔·拜登的Venmo账户和他的朋友们。应用程序研究员Jane Manchun Wong周五早些时候发现，Venmo正在进行新的隐私控制方面的改进。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1133977.htm",
+          "publishedOn": "2021-05-29T00:11:09.000Z",
+          "wordCount": 209,
+          "title": "Venmo泄露了乔·拜登的朋友 但你现在可以对你的朋友保密了"
+        },
+        {
+          "id": "https://hot.cnbeta.com/articles/movie/1133975.htm",
+          "author": "vivian",
+          "description": "据外媒CNET报道，在美国疾病控制与预防中心（CDC）最近的指导下，接种疫苗的观影者将不再需要在AMC、Cinemark和Regal影院戴口罩。\n 阅读全文",
+          "link": "https://hot.cnbeta.com/articles/movie/1133975.htm",
+          "publishedOn": "2021-05-29T00:09:12.000Z",
+          "wordCount": 199,
+          "title": "AMC、Cinemark和Regal影院不再要求已完全接种疫苗的观影者戴口罩"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1133973.htm",
+          "author": "ugmbbc",
+          "description": "据社交应用程序研究员简Jane Manchun Wong称，Twitter可能会增加一些新的表情符号，以增强其以前的星形、现在的心形 \"喜欢\"按钮。新的改变带来了更多选择，例如\"欢呼\"、\"嗯\"、\"悲伤 \"和 \"哈哈\"的表情符号反应都会加入，尽管有些目前只有一个占位的表情符号。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1133973.htm",
+          "publishedOn": "2021-05-29T00:08:55.000Z",
+          "wordCount": 210,
+          "title": "Twitter可能正在开发Facebook式的会话中表情符号“反应”功能"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1133971.htm",
+          "author": "ugmbbc",
+          "description": "WhatsApp的新隐私政策的字推出一来一直就被人为是混乱和令人困惑的，而且看起来这不会很快改变。新政策终于在5月15日推出，此前Facebook曾表示，虽然不会删除不接受新政策的账户，但这些账户最终会失去对一些功能的访问。现在，仅仅几周之后，该公司就改变了主意。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1133971.htm",
+          "publishedOn": "2021-05-29T00:00:07.000Z",
+          "wordCount": 203,
+          "title": "Facebook明确表态不会因隐私政策而限制用户对WhatsApp的使用"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/science/1133969.htm",
+          "author": "vivian",
+          "description": "据外媒报道，SpaceX首席执行官埃隆·马斯克（Elon Musk）对蓝色起源公司为其为美国宇航局（NASA）Artemis项目提供的月球登陆器进行的辩护提出质疑。蓝色起源公司、SpaceX公司和Dynetics公司去年根据该机构的“下一代空间技术探索伙伴关系”(NextSTEP)计划向NASA提交了提案，该机构上个月与SpaceX签订了一份价值近30亿美元的月球着陆器合同。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/science/1133969.htm",
+          "publishedOn": "2021-05-28T23:57:34.000Z",
+          "wordCount": 201,
+          "title": "马斯克讽刺蓝色起源为其NASA月球登陆器进行辩护"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1133967.htm",
+          "author": "ugmbbc",
+          "description": "OPPO入门级A系列中的入门级机型即将得到更新，去年我们看到了A15和A15s上市，但很快Oppo A16也将面世。到目前为止，这款即将推出的手机已经获得了一堆认证，这些认证揭示了一个事实：它采用了5000毫安时的电池，盒子里有一个10瓦功率的充电器，而且它将从一开始就运行基于Android 11的ColorOS 11.1。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1133967.htm",
+          "publishedOn": "2021-05-28T23:55:51.000Z",
+          "wordCount": 221,
+          "title": "OPPO入门机型A16即将发售 配备5000mAh电池"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1133965.htm",
+          "author": "ugmbbc",
+          "description": "Twitter的 \"验证\"标志，也就是ID旁边的蓝色的小复选标记，主要用于一些知名账户告诉世界这才是你要找的人。在上周重新开放其验证计划后，Twitter的团队显然被申请这个令人羡慕的图标的人挤爆了。周五，这家社交媒体公司表示，它暂停接受新的申请，接下来要重点处理积压的未处理的申请。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1133965.htm",
+          "publishedOn": "2021-05-28T23:53:04.000Z",
+          "wordCount": 209,
+          "title": "Twitter在收到大量请求后暂停了新的认证账户验证工作"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1133963.htm",
+          "author": "ugmbbc",
+          "description": "近日，特斯拉负面消息四起，事故、投诉、维权曝光不断。昨晚，@特斯拉客户支持 官方微博对部分网传不实消息进行辟谣，同时附有6张致歉声明。特斯拉称，这些不实信息给特斯拉以及广大车主们带来了一些困扰。为了帮助大家了解事实，我们会定期和大家分享真实情况。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1133963.htm",
+          "publishedOn": "2021-05-28T23:48:43.000Z",
+          "wordCount": 209,
+          "title": "特斯拉官方公布6则自媒体致歉声明 辟谣部分网传不实消息"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1133961.htm",
+          "author": "vivian",
+          "description": "据外媒Electrek报道，特斯拉对过去三年制造的一些Model 3和Model Y车辆进行了自愿性召回，原因是制动卡钳螺栓可能没有被正确固定。像其他汽车制造商一样，特斯拉有时会发现潜在的制造错误，并主动召回可能受影响的车辆，以确保它们符合规格。这次新的召回就属于这种类型。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1133961.htm",
+          "publishedOn": "2021-05-28T23:43:09.000Z",
+          "wordCount": 217,
+          "title": "特斯拉对部分Model 3和Model Y车辆实施自愿性召回 以检查制动卡钳螺栓"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1133959.htm",
+          "author": "ugmbbc",
+          "description": "苹果公司周五通知播客创作者，新宣布的Podcast订阅服务的推出被推迟到6月。该公司没有把延迟归咎于某一个具体的问题，在在给播客制作人的电子邮件中苹果表示正在努力为 \"创作者和听众提供最佳体验\"，订阅和频道都会受到这一变化的影响。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1133959.htm",
+          "publishedOn": "2021-05-28T23:37:06.000Z",
+          "wordCount": 213,
+          "title": "苹果公司将Podcast订阅和频道的推出时间推至6月"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1133957.htm",
+          "author": "ugmbbc",
+          "description": "没有人会认为IRC（Internet Relay Chat）这种古老的聊天系统协议会在2021年成为大新闻，因为这仅仅是小部分人童年才经历过的事情。但是对于开源社区而言，IRC依然是重要的组成部分，并且近期IRC方面的变动引发了不小的风波：Freenode IRC最近被收购，其影响让开源社区陷入了混乱。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1133957.htm",
+          "publishedOn": "2021-05-28T23:35:01.000Z",
+          "wordCount": 237,
+          "title": "Freenode被接管后 Fedora和Ubuntu Linux移至Libera Chat"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1133955.htm",
+          "author": "ugmbbc",
+          "description": "几天前，Google在其I/O 2021年主题演讲中公布了Android 12，在这个过程中证实了我们最近看到的大多数传言。新的移动操作系统得到了大规模的重新设计，被称为 \"Material You\"，将让用户轻松地定制他们的手机和平板电脑，而且不用担心安装任何主题。Android 12在重大设计改造的基础上还提供了大量的附加功能，包括改进的隐私保护和与其他设备更好的互动。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1133955.htm",
+          "publishedOn": "2021-05-28T23:28:34.000Z",
+          "wordCount": 223,
+          "title": "Android 12中隐藏着一个翻译用户界面的功能 但它可能只出现在Pixel上"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1133953.htm",
+          "author": "ugmbbc",
+          "description": "美团CEO王兴对于近期的监管、骑手福祉、商家费率等问题作出了回应。5月28日，在第一季度财报电话会议上，美团CEO王兴对于近期的监管、骑手福祉、商家费率等问题作出了回应。对于美团接受反垄断调查一事，王兴表示反垄断监管对于整个互联网行业将产生正向影响，同时表示美团有专门团队配合监管层的工作，反垄断调查不会对美团的外卖业务产生很大的负面影响。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1133953.htm",
+          "publishedOn": "2021-05-28T23:24:28.000Z",
+          "wordCount": 199,
+          "title": "美团CEO王兴回应监管调查：严格禁止任何形式的二选一"
+        },
         {
           "id": "https://hot.cnbeta.com/articles/game/1133951.htm",
           "author": "ugmbbc",
