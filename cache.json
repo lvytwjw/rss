@@ -954,6 +954,321 @@
       "siteUrl": "https://www.cnbeta.com",
       "articles": [
         {
+          "id": "https://www.cnbeta.com/articles/tech/1134347.htm",
+          "author": "ugmbbc",
+          "description": "微软正在对Windows 10和macOS上的Chromium Edge的外观进行另一项重大改变，它可能足以诱惑你离开Google Chrome浏览器，特别是如果你喜欢该浏览器标志性的垂直标签功能。去年，微软推出了从水平标签切换到垂直（左手边）的功能，这一功能被官方称为 \"垂直标签\"，其目的是减少杂乱，并改善整体多任务体验。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1134347.htm",
+          "publishedOn": "2021-05-30T03:34:42.000Z",
+          "wordCount": 218,
+          "title": "微软Edge浏览器现在允许在没有标题栏的情况下垂直堆叠标签"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/science/1134345.htm",
+          "author": "teikaei",
+          "description": "考古证据显示，冰河时期，尤其是末次盛冰期的气候变化影响了人群的迁徙和种群的大小变化，但一直缺少相关的遗传学证据和针对性研究。中国科学院古脊椎动物与古人类研究所付巧妹团队与云南大学张虎才研究组合作，对东亚北部人群的古基因组开展了研究，系统绘制出四万年来东亚北部人群的群体动态演化图谱，为探究东亚北部人群的适应性遗传变异情况及相关基因的选择机制提供了新的思路和证据。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/science/1134345.htm",
+          "publishedOn": "2021-05-30T03:32:53.000Z",
+          "wordCount": 194,
+          "title": "我科学家开展东亚时间跨度最长的古基因组研究"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/science/1134343.htm",
+          "author": "teikaei",
+          "description": "5月29日晚，天舟二号货运飞船在海南文昌航天发射场发射升空。作为首个与我国空间站进行对接的航天器，天舟二号携带了多人多天的生活物资，包括空气、食物和出舱航天服，以及大量推进剂和空间站实验设备，为空间站提供推进剂补加和轨道维持等服务，被形象地称为太空“快递小哥”。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/science/1134343.htm",
+          "publishedOn": "2021-05-30T03:30:15.000Z",
+          "wordCount": 199,
+          "title": "这位太空“快递小哥”身手不凡 专家详解天舟二号货运飞船相关技术细节"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1134341.htm",
+          "author": "ugmbbc",
+          "description": "还记得被天猫“叠猫猫”组队PK支配的“恐惧”吗？一年一度的618年中大促即将上演，各大电商平台也都相继推出618相关福利补贴政策及福利小游戏活动。今日上午，天猫发言人官微正式宣布，今年618，不PK。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1134341.htm",
+          "publishedOn": "2021-05-30T03:29:00.000Z",
+          "wordCount": 200,
+          "title": "天猫宣布6·18取消PK玩法 养猫红包可随时提现"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/science/1134339.htm",
+          "author": "teikaei",
+          "description": "记者29日从四川农业大学获悉，四川农业大学国家重点实验室、水稻研究所李仕贵与钦鹏教授团队联合中科院遗传与发育生物学研究所梁承志研究员团队分析揭示了水稻基因组中的“隐藏”变异。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/science/1134339.htm",
+          "publishedOn": "2021-05-30T03:28:00.000Z",
+          "wordCount": 196,
+          "title": "中国科研人员揭示水稻基因组中的“隐藏”变异"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1134337.htm",
+          "author": "ugmbbc",
+          "description": "大家现在都知道Chia硬盘矿对硬盘容量要求极高，同时也需要高性能SSD硬盘，但P盘会快速消耗SSD寿命。美国SSD品牌Sabrent日前首发Chia专用SSD硬盘PlotRipper系列，数据寿命可达54000TBW，是常规水平的18倍。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1134337.htm",
+          "publishedOn": "2021-05-30T03:27:13.000Z",
+          "wordCount": 207,
+          "title": "Sabrent首发超长寿命Chia专用SSD硬盘：能写54000TBW"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1134335.htm",
+          "author": "teikaei",
+          "description": "关注世界在建规模最大的水电站——白鹤滩水电站的建设进展。今天（5月29日），大坝最后一仓溢流面混凝土将浇筑完成，这标志着大坝表孔已具备过流条件。首台机组预计将于7月1日发电。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1134335.htm",
+          "publishedOn": "2021-05-30T03:26:31.000Z",
+          "wordCount": 201,
+          "title": "白鹤滩水电站创造六项世界第一 每年可节约标准煤约1968万吨"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1134333.htm",
+          "author": "ugmbbc",
+          "description": "GPU-Z最近已经更新到2.40.0版本，这个新版本对即将到来的RTX 3080 Ti和RTX 3070 Ti显卡提供全面支持。一张截图来自一个被称为Ginjfo的网站，这个法国网站展示了即将推出的RTX 3080 Ti的一些技术规格。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1134333.htm",
+          "publishedOn": "2021-05-30T03:26:16.000Z",
+          "wordCount": 257,
+          "title": "GPU-Z截图及线上验证信息泄露了定制版GeForce RTX 3080 Ti的大量细节"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1134331.htm",
+          "author": "teikaei",
+          "description": "胸前挂着一只酷似优盘的挂件，时不时取下套件，猛吸两口，随即吞云吐雾……时下，吸电子烟被一些青少年视为时尚。5月26日国家卫生健康委发布的《中国吸烟危害健康报告2020》认为，使用电子烟可能更能致人抽上卷烟，这一现象在青少年中尤为明显。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1134331.htm",
+          "publishedOn": "2021-05-30T03:25:34.000Z",
+          "wordCount": 199,
+          "title": "多重禁令之下，电子烟商家仍在“围猎”青少年"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1134329.htm",
+          "author": "teikaei",
+          "description": "我一个应届生，为何要拒了华为的Offer？看大家怎么说：01应届硕士，今年拿到了华为offer，级别很高，钱也很多。最后拒了，去了另一家大厂。不方便透露offer细节，怕被定位，在这里简单说一下我的理解。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1134329.htm",
+          "publishedOn": "2021-05-30T03:24:24.000Z",
+          "wordCount": 234,
+          "title": "应届生，我为何拒了华为的Offer？"
+        },
+        {
+          "id": "https://hot.cnbeta.com/articles/movie/1134327.htm",
+          "author": "teikaei",
+          "description": "近日，据《雷霆沙赞2：众神之怒》导演大卫·F·桑德伯格宣布第二部已经开拍，他还表示在第二部中沙赞将会穿上新的战衣。DC新片《雷霆沙赞2：众神之怒》现已在亚特兰大开拍，导演大卫·F·桑德伯格在Ins中晒出拍摄使用的新机器，制片人Peter Safran回归，第一部的编剧Henry Gayden继续操刀剧本。\n 阅读全文",
+          "link": "https://hot.cnbeta.com/articles/movie/1134327.htm",
+          "publishedOn": "2021-05-30T03:23:07.000Z",
+          "wordCount": 205,
+          "title": "《雷霆沙赞2》现已开拍 沙赞还将穿上新战衣"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/science/1134325.htm",
+          "author": "teikaei",
+          "description": "15头野象一路向北，其实早已有了苗头，只是这一次它们迁徙的“最北”——距离它们原本的栖息地西双版纳勐养子保护区400余公里，距离昆明城区约100公里，这让它们愈加接近人类聚集的城镇生活圈。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/science/1134325.htm",
+          "publishedOn": "2021-05-30T03:20:44.000Z",
+          "wordCount": 205,
+          "title": "15头野象北迁800里，该如何“劝返”？"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1134323.htm",
+          "author": "ugmbbc",
+          "description": "从2015年特斯拉装车实现量产以来，自动驾驶（也称智能辅助驾驶）在短短五六年时间内成为汽车的重要配置。目前的市场行情是，价格在十万以上的汽车，无论是传统品牌还是造车新势力，如果不能搭载足够丰富的智能辅助驾驶配置，完全没有竞争优势。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1134323.htm",
+          "publishedOn": "2021-05-30T03:20:33.000Z",
+          "wordCount": 209,
+          "title": "自动驾驶汽车领域究竟在纠结些什么？"
+        },
+        {
+          "id": "https://hot.cnbeta.com/articles/game/1134321.htm",
+          "author": "ugmbbc",
+          "description": "《命运2》开发商Bungie，他们的下一步动作似乎要进军英雄射击类FPS游戏。该公司最新的招聘广告提供了这款新竞技游戏的细节。虽然《命运2》的人气持续增长，每年都在打破记录，但Bungie已经将目光投向了下一个目标。\n 阅读全文",
+          "link": "https://hot.cnbeta.com/articles/game/1134321.htm",
+          "publishedOn": "2021-05-30T03:19:34.000Z",
+          "wordCount": 197,
+          "title": "《命运2》开发商Bungie可能在开发《守望先锋》类FPS游戏"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1134319.htm",
+          "author": "ugmbbc",
+          "description": "乐高（日本）今日宣布，旗下史上最多零件《乐高世界地图》将于6月1日正式发售，该组件拥有多达11695个零件，各种颜色像素密集，拼好并不容易。《乐高世界地图》拥有系列时尚单一商品最多零件数11695个，不但可以按照说明书真实还原显示世界，还可以自行DIY地球板块变更。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1134319.htm",
+          "publishedOn": "2021-05-30T03:19:08.000Z",
+          "wordCount": 203,
+          "title": "乐高史上最多零件世界地图公开 像素密集拼接不易"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1134317.htm",
+          "author": "teikaei",
+          "description": "加密货币的调整并没有停止的趋势，继周五跌破3.6万美元之后，周末比特币继续大幅下挫。北京时间5月30日周日上午，比特币下跌6.7%报33608美元，本月以来累计跌幅已达40%。如果这一趋势继续下去，那么比特币很有可能创下2011年9月以来最差月度表现。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1134317.htm",
+          "publishedOn": "2021-05-30T03:18:54.000Z",
+          "wordCount": 198,
+          "title": "又见周末行情：比特币跌近7%，以太坊跌破2200美元"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1134315.htm",
+          "author": "ugmbbc",
+          "description": "谷歌母公司Alphabet旗下的自动驾驶汽车部门Waymo，是目前在自动驾驶技术方面走在行业前列的厂商，但他们的高层，在今年出现了大变动，CEO约翰·科拉菲克（John Krafcik）、CFO盖尔·德怀尔(Ger Dwyer)等在内的6名重要高管，相继离职。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1134315.htm",
+          "publishedOn": "2021-05-30T03:18:06.000Z",
+          "wordCount": 202,
+          "title": "Waymo前CFO离职半月就已加盟Rivian 出任财务副总裁"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1134313.htm",
+          "author": "teikaei",
+          "description": "据美国有线电视新闻网（CNN）28日报道，美国邮政总局局长路易斯·德乔伊寻求全面改革邮政总局的财务状况，于28日提议将邮寄信函的成本提高到58美分（约合3.7元人民币）。据报道，德乔伊曾于2021年3月宣布邮政总局的十年计划，其中包括延长头等邮件投递时间、削减全美的邮局工作时间等。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1134313.htm",
+          "publishedOn": "2021-05-30T03:18:04.000Z",
+          "wordCount": 203,
+          "title": "美邮政总局陷入财务危机 局长建议提高信函邮寄费"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1134311.htm",
+          "author": "teikaei",
+          "description": "日前，据媒体报道，河南省环境保护厅副厅长焦飞在新闻发布会上表示，建议车辆尽量夜间加油，目前正在开展中石油、中石化、大桥石化以及社会加油站，开展夜间加油优惠政策的研究，预备在全省实施。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1134311.htm",
+          "publishedOn": "2021-05-30T03:16:18.000Z",
+          "wordCount": 200,
+          "title": "一箱油能便宜几十块 全国多省市推行夜间加油：原因在此"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1134309.htm",
+          "author": "ugmbbc",
+          "description": "前不久，华为官方正式宣布，将于6月2日举办鸿蒙操作系统及华为全场景新品发布会。根据官方预热信息来看，届时除了将发布鸿蒙系统正式版外，还将带来新一代华为WATCH 3以及华为MatePad Pro 2等新品。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1134309.htm",
+          "publishedOn": "2021-05-30T03:12:37.000Z",
+          "wordCount": 227,
+          "title": "华为MatePad Pro 2包装盒曝光：Powered by HarmonyOS"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1134307.htm",
+          "author": "ugmbbc",
+          "description": "记者29日从北京智能车联产业创新中心获悉，截至5月底，北京自动驾驶车辆道路测试安全行驶总里程突破300万公里，相当于绕地球赤道约75圈。目前，北京的自动驾驶开放测试道路共226条，道路总长约752.42公里，分布在北京经济技术开发区、通州区、海淀区、顺义区和房山区。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1134307.htm",
+          "publishedOn": "2021-05-30T03:12:20.000Z",
+          "wordCount": 198,
+          "title": "北京自动驾驶路测安全行驶里程突破300万公里"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1134305.htm",
+          "author": "ugmbbc",
+          "description": "上市公司副总裁的子女巨资买自家的股票，不但没赚钱，还坑了爹——被证交所发了监管函，日前这个消息在奥美医疗股民中炸锅了。5月29日，奥美医疗发布公告，称奥美医疗(0002950，SZ)董事、副总裁兼董事会秘书杜先举收到一张来自深交所的监管函。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1134305.htm",
+          "publishedOn": "2021-05-30T03:10:04.000Z",
+          "wordCount": 204,
+          "title": "副总子女165万买自家股票亏钱又坑爸 奥美医疗被发监管函"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1134303.htm",
+          "author": "ugmbbc",
+          "description": "今年的618大战开始了，大家有什么心仪好物加入购物车了吗？这次大促期间，换手机是个不错的选择，京东宣布iPhone 12系列手机特价，最高直降1400元，到手仅需5308元。根据京东手机通讯官微的消息，6月1日iPhone手机促销iPhone 12系列可享至高1000元大额优惠券，PLUS会员还可额外再叠加400元专享券！\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1134303.htm",
+          "publishedOn": "2021-05-30T03:08:27.000Z",
+          "wordCount": 218,
+          "title": "直降1400元 6·18别错过iPhone 12系列好价"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1134301.htm",
+          "author": "teikaei",
+          "description": "2019年11月份，特斯拉发布了史诗级的皮卡CyberTruck，因为过于特别的造型和风格，特斯拉皮卡受到了全球车迷朋友的关注，目前其订单量已经超过百万，为特斯拉最火爆的车型。不过在发布会现场，这辆皮卡刚亮相就在全球车迷朋友面前出丑。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1134301.htm",
+          "publishedOn": "2021-05-30T03:07:55.000Z",
+          "wordCount": 205,
+          "title": "曾在发布会全球“翻车”：特斯拉公布CyberTruck防弹玻璃专利"
+        },
+        {
+          "id": "https://hot.cnbeta.com/articles/funny/1134299.htm",
+          "author": "ugmbbc",
+          "description": "MSN-04 沙扎比，是动画机动战士高达系列中，剧场版“机动战士高达逆袭的夏亚”中登场的机体，造型鲜红搭配强大的武装，不但帅气而且也是剧中反派夏亚的专用机体，人气之高即便放到现在也是非常具有代表性。有推友“床下収纳さん@y_kasita”，制作了一架“龙虾沙扎比”，完全使用虾壳拼凑来，是看见就要跪下的程度！\n 阅读全文",
+          "link": "https://hot.cnbeta.com/articles/funny/1134299.htm",
+          "publishedOn": "2021-05-30T03:07:34.000Z",
+          "wordCount": 200,
+          "title": "手作神人用三只大龙虾 拼出1：1钢普拉沙扎比"
+        },
+        {
+          "id": "https://hot.cnbeta.com/articles/game/1134297.htm",
+          "author": "teikaei",
+          "description": "不久前，《王者荣耀》官方将与《仙剑奇侠传》携手带来一款英雄“耀-李逍遥”皮肤，消息一出，引起广大《仙剑》粉与《王者》玩家的持续关注。日前，天美游戏Timi官微宣布，三星堆博物馆将与天美工作室群开启战略合作，《王者荣耀》《QQ飞车》等游戏将与三星堆博物馆进行深度联动。\n 阅读全文",
+          "link": "https://hot.cnbeta.com/articles/game/1134297.htm",
+          "publishedOn": "2021-05-30T03:07:11.000Z",
+          "wordCount": 196,
+          "title": "联名《王者荣耀》：腾讯天美宣布与三星堆博物馆深度合作"
+        },
+        {
+          "id": "https://hot.cnbeta.com/articles/movie/1134295.htm",
+          "author": "teikaei",
+          "description": "由佐藤健主演的真人版电影《浪客剑心 最终章The Final/The Beginning》，后篇《浪客剑心 最终章The Beginning》将于6月4日上映，日前外媒带来了拍摄现场的最新剧照，一起来先睹为快。\n 阅读全文",
+          "link": "https://hot.cnbeta.com/articles/movie/1134295.htm",
+          "publishedOn": "2021-05-30T02:58:40.000Z",
+          "wordCount": 215,
+          "title": "真人电影《浪客剑心 最终章》后篇现场剧照公开 6.4日上映"
+        },
+        {
+          "id": "https://hot.cnbeta.com/articles/movie/1134293.htm",
+          "author": "teikaei",
+          "description": "5月29日，由詹姆斯·古恩导演的《X特遣队：全员集结》发布全新剧照，几位主角站在光线昏暗的酒吧中，大家熟悉的玛格特·罗比并未出现在其中。《X特遣队》是美国DC漫画旗下的反英雄团队，小队的成员多为被超级英雄逮捕的超级反派。\n 阅读全文",
+          "link": "https://hot.cnbeta.com/articles/movie/1134293.htm",
+          "publishedOn": "2021-05-30T02:57:31.000Z",
+          "wordCount": 202,
+          "title": "詹姆斯·古恩《X特遣队：全员集结》发布全新剧照"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/science/1134291.htm",
+          "author": "teikaei",
+          "description": "据外媒报道，这张由哥白尼哨兵-3拍摄的壮观照片中包括了所有的北美五大湖：苏必利尔湖、密歇根湖，休伦湖、伊利湖和安大略省湖。五大湖是一系列的深淡水湖。这些湖泊的总面积约为24.4万平方公里，是世界上最大的淡水湖泊，面积超过了英国。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/science/1134291.htm",
+          "publishedOn": "2021-05-30T02:43:50.000Z",
+          "wordCount": 197,
+          "title": "从太空探索地球：哥白尼哨兵-3展示北美五大湖壮观景色"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/science/1134289.htm",
+          "author": "teikaei",
+          "description": "据外媒报道，150年前，德米特里·门捷列夫创造了元素周期表，这是一种根据原子核的性质对原子进行分类的系统。本周，一个研究生命树的生物学家团队公布了一种新的细胞核分类系统并发现了一种将一种细胞核转化为另一种细胞核的方法。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/science/1134289.htm",
+          "publishedOn": "2021-05-30T02:26:57.000Z",
+          "wordCount": 210,
+          "title": "生物学家为细胞核创建了一个“元素周期表”"
+        },
+        {
+          "id": "https://hot.cnbeta.com/articles/game/1134287.htm",
+          "author": "teikaei",
+          "description": "据外媒报道，动视正在打击存在于其最新游戏《使命召唤》中的种族主义行为。作为这项努力的一部分，该公司表示，它已经禁止了超35万个存在不良行为（其他玩家上报）或使用种族主义名称的账号。除此之外，该公司还增加了一些新方法来发现这种行为并清除掉不需要的账号。\n 阅读全文",
+          "link": "https://hot.cnbeta.com/articles/game/1134287.htm",
+          "publishedOn": "2021-05-30T01:48:59.000Z",
+          "wordCount": 209,
+          "title": "动视禁掉35万个存在种族歧视现象的《使命召唤》帐号"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1134285.htm",
+          "author": "teikaei",
+          "description": "据外媒报道，一场针对谷歌的诉讼中的最新未经编辑的文件显示，谷歌高管和工程师们都知道，公司让智能手机用户保护自己位置数据的隐私有多么得困难。文件显示，谷歌甚至在用户关闭了各种位置共享设置后仍可以继续收集位置数据、使流行的隐私设置更难找到并且甚至还迫使LG和其他手机制造商隐藏设置。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1134285.htm",
+          "publishedOn": "2021-05-30T01:37:05.000Z",
+          "wordCount": 200,
+          "title": "谷歌职工承认公司让用户几乎不可能保护他们位置的隐私"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1134283.htm",
+          "author": "teikaei",
+          "description": "自5G技术问世以来，美国无线运营商部署5G网络的速度非常缓慢。主要原因在于5G网络可用的频谱资源有限、5G网络设备部署过程繁琐以及5G服务仍缺少杀手级应用程序。媒体经常用“快”等词来描述5G速度，但美国部署5G无线网络的速度和快根本不沾边。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1134283.htm",
+          "publishedOn": "2021-05-30T01:14:13.000Z",
+          "wordCount": 217,
+          "title": "5G手机问世已经三年 美国部署5G为啥这么慢？"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1134281.htm",
+          "author": "teikaei",
+          "description": "据外媒报道，苹果近日被一名男子起诉，据悉，该名男子多次被指控在美国东海岸的Apple Store实施了盗窃案。而实际上，这些案子都是由冒用其身份的人实施的。这起于5月28日在美国马萨诸塞州地区法院提起的诉讼起诉了苹果和Security Industry Specialists（以下简称SIS），后者是负责Apple Store安全问题的承包商。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1134281.htm",
+          "publishedOn": "2021-05-30T01:12:01.000Z",
+          "wordCount": 210,
+          "title": "苹果因对冒名顶替者在商店盗窃的不实指控被受害人提起诉讼"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1134279.htm",
+          "author": "ugmbbc",
+          "description": "“5G时代，公司与公司，产业与产业之间相互连接的重要性更加凸显。只有这样，5G的潜力才会被充分释放，助力变革千行百业。”在2021高通技术与合作峰会上，高通中国区董事长孟樸如此剖析5G变革的形式，这意味着5G并非是单个企业的私有产物，而是需要整个生态链的携手合作、共创价值。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1134279.htm",
+          "publishedOn": "2021-05-30T01:00:01.000Z",
+          "wordCount": 253,
+          "title": "高通秀出“5G朋友圈”：互联互通的未来世界长这样"
+        },
+        {
           "id": "https://www.cnbeta.com/articles/science/1134277.htm",
           "author": "teikaei",
           "description": "据外媒报道，苏塞克斯大学的科学家记录了海马体中的血氧水平并提供了实验证据以阐明为什么通常被称为“大脑记忆中心”的这一区域容易受到损伤和退化，而这正是阿尔茨海默症的先兆。\n 阅读全文",
