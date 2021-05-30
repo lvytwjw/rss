@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://lvytwjw.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-05-30T09:33:23.238Z</updated>
+    <updated>2021-05-30T10:36:06.940Z</updated>
     <generator>osmosfeed 1.9.0</generator>
     <link rel="alternate" href="https://lvytwjw.github.io/rss/index.html"/>
     <link rel="self" href="https://lvytwjw.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[PS5 DualSense手柄原型照片曝光 可在PS3上使用]]></title>
+        <id>https://hot.cnbeta.com/articles/game/1134411.htm</id>
+        <link href="https://hot.cnbeta.com/articles/game/1134411.htm"/>
+        <updated>2021-05-30T09:34:33.000Z</updated>
+        <summary type="html"><![CDATA[PS5 DualSense手柄的一款原型设计近日现身网络。在PS5主机上市之前，玩家可以从专利文件中找到DualSense手柄的原型设计图，它长这样：
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[泄露者透露三星Galaxy Z Fold 3将比Fold 2更轻一些]]></title>
         <id>https://www.cnbeta.com/articles/tech/1134409.htm</id>
