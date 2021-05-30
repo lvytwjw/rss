@@ -954,6 +954,42 @@
       "siteUrl": "https://www.cnbeta.com",
       "articles": [
         {
+          "id": "https://www.cnbeta.com/articles/tech/1134477.htm",
+          "author": "ugmbbc",
+          "description": "5月27日，日本医生工会会长植山直人说：“2021东京奥运会可能催生‘奥运新冠变异体’。”他的话立即在全世界引起了轩然大波。距离7月23日东京奥运会的召开只有1个多月了，但是日本的第四波新冠疫情高峰正在暴发，东京奥运会还能如期举行吗，应不应该举行？还是个悬念。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1134477.htm",
+          "publishedOn": "2021-05-30T19:02:41.000Z",
+          "wordCount": 202,
+          "title": "2021东京奥运会能开吗"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1134475.htm",
+          "author": "ugmbbc",
+          "description": "亚利桑那州总检察长办公室正在对谷歌提起诉讼，指控其即使在用户关闭跟踪功能的情况下仍继续收集位置信息，这表明谷歌自己的一些员工在新闻报道后对该公司的做法感到担忧详细的争议被公布。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1134475.htm",
+          "publishedOn": "2021-05-30T19:01:20.000Z",
+          "wordCount": 210,
+          "title": "亚利桑那州诉讼显示：谷歌员工对位置跟踪表示担忧"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1134473.htm",
+          "author": "ugmbbc",
+          "description": "一场始料未及的“缺芯”危机已使得越来越多的国家和地区都将芯片产业链的打造提上了议事日程。最新公布“强芯”计划的是素有“半导体芯片帝国”之称的韩国。5月中旬，韩国总统文在寅在三星电子平泽工厂出席“韩国半导体战略报告大会”时公布了韩国在芯片领域的雄心：力争在2030年成为综合半导体强国。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1134473.htm",
+          "publishedOn": "2021-05-30T18:59:51.000Z",
+          "wordCount": 201,
+          "title": "争揽全球芯片制造商 韩国“强芯”追赶台积电"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/science/1134471.htm",
+          "author": "ugmbbc",
+          "description": "今晚，如果天气允许，后院的天文学家们有机会看到国际空间站飞过天空。国际空间站应该很容易用肉眼发现，因为它是夜空中第三亮的物体，而且它会不断移动。当国际空间站从头顶经过时，它看起来就像一架飞机，但它的移动速度会快得多。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/science/1134471.htm",
+          "publishedOn": "2021-05-30T18:56:11.000Z",
+          "wordCount": 199,
+          "title": "观星者近期有机会看到国际空间站在天空中飞翔"
+        },
+        {
           "id": "https://hot.cnbeta.com/articles/game/1134469.htm",
           "author": "ugmbbc",
           "description": "上周，Epic Games宣布发布UnrealEngine虚幻5引擎的抢先体验版本。几天前，MAWIUnited分享了几段视频，展示了其桦树森林地图/生物群落场景在虚幻5引擎下基于 Nanite和Lumen技术的创建过程。\n 阅读全文",
