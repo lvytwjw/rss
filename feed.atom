@@ -2,10 +2,98 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://lvytwjw.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-05-30T08:01:54.411Z</updated>
+    <updated>2021-05-30T09:33:23.238Z</updated>
     <generator>osmosfeed 1.9.0</generator>
     <link rel="alternate" href="https://lvytwjw.github.io/rss/index.html"/>
     <link rel="self" href="https://lvytwjw.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[泄露者透露三星Galaxy Z Fold 3将比Fold 2更轻一些]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1134409.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1134409.htm"/>
+        <updated>2021-05-30T09:10:51.000Z</updated>
+        <summary type="html"><![CDATA[据报道，三星将在7月推出三星Galaxy Z Fold 3，这意味着雪崩式的泄密刚刚开始。今天我们得到有关于该设备重量的消息，由可靠的三星泄密者Ice Universe提供。他透露，三星Galaxy Z Fold 3的重量为269克。这比三星Galaxy Z Fold 2稍有进步，后者的重量为282克，而初代Fold则为276克。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[小孩观影时银幕前玩耍拍打导致损坏 家长辩称影院未告知不可触摸]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1134407.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1134407.htm"/>
+        <updated>2021-05-30T09:04:30.000Z</updated>
+        <summary type="html"><![CDATA[此前，“男童脚踢电影屏幕5次被索赔18万”事件曾一度登上热搜。现在，又有熊孩子在影院正常放映时玩耍拍打银幕近30分钟导致其损坏。据媒体报道，日前，一家电影院的工作人员通过监控发现，一个放映厅中在正常放映时，一名小孩银幕前不仅来回走动，还多次用手触碰和拍打银幕。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[最贵Steam账号价值近28万美元 游戏并非重点]]></title>
+        <id>https://hot.cnbeta.com/articles/game/1134405.htm</id>
+        <link href="https://hot.cnbeta.com/articles/game/1134405.htm"/>
+        <updated>2021-05-30T09:02:51.000Z</updated>
+        <summary type="html"><![CDATA[根据steamladder.com的数据显示，目前排名第一的Steam个人账号价值以达279114美元。Steam资料的价值并不代表着玩家在其中投入的实际资产，就像任何购买过Humble Bundle，参加过各种特惠活动的人都明白的那样，有时候花费一小部分的钱就可以购入价值数百的游戏。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SK海力士收购英特尔NAND闪存业务已获韩国公平贸易委员会批准]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1134403.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1134403.htm"/>
+        <updated>2021-05-30T09:01:07.000Z</updated>
+        <summary type="html"><![CDATA[在获得美国和欧盟的批准之后，SK海力士90亿美元收购英特尔NAND闪存业务的交易，也已获得了韩国监管机构的批准。SK海力士收购英特尔NAND闪存业务的交易获得韩国监管机构批准，是由韩国媒体报道的。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[停产一天损失1亿美元 台积电遇疫情封城真会停工？]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1134401.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1134401.htm"/>
+        <updated>2021-05-30T08:58:34.000Z</updated>
+        <summary type="html"><![CDATA[台湾地区疫情持续严峻，一步步进逼“封城”的第四级警戒。身为全球晶圆龙头的台积电近日也传出员工确诊，一旦面临封城、全面停班禁令，台积电真能停下产线？连续高涨的确诊人数，让这波社区感染至23日已累积超过2,600人染疫。全球芯片市场对台湾地区的依赖甚深，若疫情导致生产断链，后果无法想像。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[约翰逊拟斥资2亿英镑建皇家游艇展示“英国最好一面”]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1134399.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1134399.htm"/>
+        <updated>2021-05-30T08:57:50.000Z</updated>
+        <summary type="html"><![CDATA[英国首相约翰逊表示，英国政府将委托建造一艘新的皇家游艇，以取代于1997年退役的“大不列颠号”（HMY Britannia）。据英国广播公司（BBC）报道，约翰逊表示，这艘游艇将是“世界上第一艘此种类型的船只”，并将反映“英国作为一个强大、独立的海上贸易国家的蓬勃发展状况”。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[董明珠：搞不懂“内卷”“躺平” 年轻人更应该追求精神财富]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1134397.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1134397.htm"/>
+        <updated>2021-05-30T08:54:33.000Z</updated>
+        <summary type="html"><![CDATA[5月30日消息，今日，格力电器董事长兼总裁董明珠在第四届全国青年企业家峰会上表示自己搞不懂最近媒体所说的“内卷”和“躺平”这些新词，但知道年轻人在这个物质不匮乏的年代，更应该追求精神财富。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[中国开启太空旅游规划：2024年前执行首次平民太空旅游项目]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1134395.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1134395.htm"/>
+        <updated>2021-05-30T08:52:45.000Z</updated>
+        <summary type="html"><![CDATA[随着科技进步，航天技术的不断突破，像国外蓝色起源、SpaceX等些商业航空公司已开始涉足太空旅游项目。而在太空旅游热潮之下，国内的企业也看到了商机。据媒体报道，2018年，随着中国长征火箭公司正式组建成立后，也开始提出国内相关的太空旅游规划，并有望在2024年之前开启平民太空旅游项目。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[专家详解：野象“迷途”可知返？一路“象”北为哪般？]]></title>
         <id>https://www.cnbeta.com/articles/tech/1134393.htm</id>
