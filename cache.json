@@ -954,6 +954,33 @@
       "siteUrl": "https://www.cnbeta.com",
       "articles": [
         {
+          "id": "https://hot.cnbeta.com/articles/game/1134469.htm",
+          "author": "ugmbbc",
+          "description": "上周，Epic Games宣布发布UnrealEngine虚幻5引擎的抢先体验版本。几天前，MAWIUnited分享了几段视频，展示了其桦树森林地图/生物群落场景在虚幻5引擎下基于 Nanite和Lumen技术的创建过程。\n 阅读全文",
+          "link": "https://hot.cnbeta.com/articles/game/1134469.htm",
+          "publishedOn": "2021-05-30T15:38:30.000Z",
+          "wordCount": 207,
+          "title": "虚幻5引擎开发演示 展示Lumen/Nanite特效技术"
+        },
+        {
+          "id": "https://hot.cnbeta.com/articles/game/1134467.htm",
+          "author": "ugmbbc",
+          "description": "YouTube用户“SpaceQuest Historian”日前透露消息，之前业界传奇公司“雪乐山在线”的退休创始人Ken & Roberta Williams在过去6个月里一直在秘密开发一款新游戏。”这俩人都是游戏行业的传奇人物，但在他们的公司Sierra Entertainment(也被称为Sierra online, Inc)于2002年关闭后的20多年里一直不活跃，当然他们在几年前被收购后离开了公司。\n 阅读全文",
+          "link": "https://hot.cnbeta.com/articles/game/1134467.htm",
+          "publishedOn": "2021-05-30T15:37:50.000Z",
+          "wordCount": 214,
+          "title": "雪乐山创始Ken&Roberta目前正在制作新游戏"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1134465.htm",
+          "author": "ugmbbc",
+          "description": "在日本政府作出福岛核污染水排放入海决定的大约一个半月后，东京电力公司首次公布了排海计划的具体准备情况。其中提到，两年后开始排放时，稀释前的核污染水每天的平均排放量最多将达到500吨，高于目前每天大约150吨的核污染水产生量。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1134465.htm",
+          "publishedOn": "2021-05-30T15:37:00.000Z",
+          "wordCount": 197,
+          "title": "东电首次公布福岛核污染水排海计划相关信息"
+        },
+        {
           "id": "https://www.cnbeta.com/articles/tech/1134463.htm",
           "author": "ugmbbc",
           "description": "特斯拉的先发优势已所剩无几，市场正在回归常态。\n5月28日，新能源汽车销量统计网站EV Sales发布了2021年4月全欧洲新能源车型销量排名，特斯拉意外跌出前20名。4月，特斯拉Model 3在欧洲只交付了1244台，与3月28184台的交付量相比下跌95%。\n 阅读全文",

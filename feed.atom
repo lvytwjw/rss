@@ -2,10 +2,43 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://lvytwjw.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-05-30T15:15:49.401Z</updated>
+    <updated>2021-05-30T16:45:41.387Z</updated>
     <generator>osmosfeed 1.9.0</generator>
     <link rel="alternate" href="https://lvytwjw.github.io/rss/index.html"/>
     <link rel="self" href="https://lvytwjw.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[虚幻5引擎开发演示 展示Lumen/Nanite特效技术]]></title>
+        <id>https://hot.cnbeta.com/articles/game/1134469.htm</id>
+        <link href="https://hot.cnbeta.com/articles/game/1134469.htm"/>
+        <updated>2021-05-30T15:38:30.000Z</updated>
+        <summary type="html"><![CDATA[上周，Epic Games宣布发布UnrealEngine虚幻5引擎的抢先体验版本。几天前，MAWIUnited分享了几段视频，展示了其桦树森林地图/生物群落场景在虚幻5引擎下基于 Nanite和Lumen技术的创建过程。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[雪乐山创始Ken&Roberta目前正在制作新游戏]]></title>
+        <id>https://hot.cnbeta.com/articles/game/1134467.htm</id>
+        <link href="https://hot.cnbeta.com/articles/game/1134467.htm"/>
+        <updated>2021-05-30T15:37:50.000Z</updated>
+        <summary type="html"><![CDATA[YouTube用户“SpaceQuest Historian”日前透露消息，之前业界传奇公司“雪乐山在线”的退休创始人Ken & Roberta Williams在过去6个月里一直在秘密开发一款新游戏。”这俩人都是游戏行业的传奇人物，但在他们的公司Sierra Entertainment(也被称为Sierra online, Inc)于2002年关闭后的20多年里一直不活跃，当然他们在几年前被收购后离开了公司。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[东电首次公布福岛核污染水排海计划相关信息]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1134465.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1134465.htm"/>
+        <updated>2021-05-30T15:37:00.000Z</updated>
+        <summary type="html"><![CDATA[在日本政府作出福岛核污染水排放入海决定的大约一个半月后，东京电力公司首次公布了排海计划的具体准备情况。其中提到，两年后开始排放时，稀释前的核污染水每天的平均排放量最多将达到500吨，高于目前每天大约150吨的核污染水产生量。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[大众奥迪夹击，特斯拉4月欧洲销量暴跌超九成]]></title>
         <id>https://www.cnbeta.com/articles/tech/1134463.htm</id>
