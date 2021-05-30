@@ -954,6 +954,33 @@
       "siteUrl": "https://www.cnbeta.com",
       "articles": [
         {
+          "id": "https://www.cnbeta.com/articles/tech/1134433.htm",
+          "author": "ugmbbc",
+          "description": "特斯拉正在德克萨斯州建造一座工厂，以生产其部分汽车，但当它启动和运行时，在那里生产的汽车可能要经过一段迂回的旅程才能到达德克萨斯州的买家手中。由于该州法律禁止汽车公司直接向消费者销售，特斯拉可能最终将汽车从其奥斯汀工厂运往其他州，然后再送回德克萨斯州的买家手中。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1134433.htm",
+          "publishedOn": "2021-05-30T13:29:54.000Z",
+          "wordCount": 201,
+          "title": "德州制造的每一辆特斯拉汽车都可能要在德州人购买之前先离开该州"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1134431.htm",
+          "author": "ugmbbc",
+          "description": "一名男子从柏林的一条运河中救出了一部iPhone 12 Pro，但他没有跳下去，而是利用MagSafe的磁性优势捞起了这部智能手机。上周六，应用程序开发人员Frederik Riedel的一位朋友将他的iPhone 12 Pro掉进了柏林的一条运河。当时，人们认为该设备已经丢失，因为它沉入了水底的淤泥中。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1134431.htm",
+          "publishedOn": "2021-05-30T12:35:05.000Z",
+          "wordCount": 214,
+          "title": "MagSafe帮助拯救掉入运河的iPhone 12 Pro"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/science/1134429.htm",
+          "author": "ugmbbc",
+          "description": "人体有大约30000个基因，不仅决定了我们的外观，而且还决定了关键的生物过程。现在，佛罗里达州立大学和澳大利亚国立大学的一个研究小组已经发现了基因调控的一个关键方面，并最终发现这一过程是如何与癌症有关的。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/science/1134429.htm",
+          "publishedOn": "2021-05-30T12:32:51.000Z",
+          "wordCount": 204,
+          "title": "生物学家发现人类基因开启和关闭的关键 以及其对健康的影响"
+        },
+        {
           "id": "https://www.cnbeta.com/articles/science/1134427.htm",
           "author": "ugmbbc",
           "description": "UIC的研究人员证明，为细菌设计的药物也有可能作用于人类细胞。据伊利诺伊大学芝加哥分校的研究人员称，用于治疗普通细菌感染，如肺炎和鼻窦炎的抗生素，也可用于治疗人类疾病，如癌症。至少在理论上是这样。正如一项新的《自然通讯》研究中所概述的，UIC药学院团队在实验室实验中显示，真核生物核糖体可以被修改，以原核生物核糖体的方式对抗生素做出反应。\n 阅读全文",
