@@ -2,10 +2,296 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://lvytwjw.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-05-29T23:22:23.348Z</updated>
+    <updated>2021-05-30T00:57:10.683Z</updated>
     <generator>osmosfeed 1.9.0</generator>
     <link rel="alternate" href="https://lvytwjw.github.io/rss/index.html"/>
     <link rel="self" href="https://lvytwjw.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[研究：血氧水平可以解释为何失忆是一种阿尔茨海默症早期症状]]></title>
+        <id>https://www.cnbeta.com/articles/science/1134277.htm</id>
+        <link href="https://www.cnbeta.com/articles/science/1134277.htm"/>
+        <updated>2021-05-30T00:46:54.000Z</updated>
+        <summary type="html"><![CDATA[据外媒报道，苏塞克斯大学的科学家记录了海马体中的血氧水平并提供了实验证据以阐明为什么通常被称为“大脑记忆中心”的这一区域容易受到损伤和退化，而这正是阿尔茨海默症的先兆。
+ 阅读全文]]></summary>
+        <author>
+            <name>teikaei</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[华为进京卖车记]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1134275.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1134275.htm"/>
+        <updated>2021-05-30T00:46:39.000Z</updated>
+        <summary type="html"><![CDATA[“前两天赛力斯的试驾车已经到了，还没有摆上来，还要等几天。”5月26日，北京华为授权体验店Plus（北京富力广场）的工作人员，向记者透露了华为卖车业务的最新进展。华为在今年4月19日正式宣布“要卖车了”，合作的首款车型为赛力斯SF5，这是小康股份旗下一款增程式车型。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[苹果进军汽车行业早有准备？CarPlay探路取得巨大成功]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1134273.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1134273.htm"/>
+        <updated>2021-05-30T00:45:50.000Z</updated>
+        <summary type="html"><![CDATA[5月30日消息，早在2010年左右，汽车制造商及其供应商就对为汽车仪表盘开发复杂的应用程序而感到兴奋，而不再满足于其充当CD播放器和微型LED屏幕。与微软等公司合作，汽车制造商开始推出地图、音乐和驾驶辅助等服务，这些服务通常都捆绑在升级包中。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[新研究揭示促进肌肉再生和重建组织的方法]]></title>
+        <id>https://www.cnbeta.com/articles/science/1134271.htm</id>
+        <link href="https://www.cnbeta.com/articles/science/1134271.htm"/>
+        <updated>2021-05-30T00:43:20.000Z</updated>
+        <summary type="html"><![CDATA[衰老的许多影响之一是肌肉质量的损失，这导致了老年人的残疾。为了应对这种损失，索尔克研究所的科学家们正在研究加速肌肉组织再生的方法：使用干细胞研究中常用的分子化合物组合。2021年5月25日发表在《自然通讯》上的一项研究显示，使用这些化合物通过激活肌肉细胞的前体（称为生肌祖细胞），增加了小鼠肌肉细胞的再生能力。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[扎导新僵尸抢劫电影《死亡之师》成本周流媒体观看人次最多影片]]></title>
+        <id>https://hot.cnbeta.com/articles/movie/1134269.htm</id>
+        <link href="https://hot.cnbeta.com/articles/movie/1134269.htm"/>
+        <updated>2021-05-30T00:38:44.000Z</updated>
+        <summary type="html"><![CDATA[据外媒报道，Netflix最新上架的热门原创电影《死亡之师(Army of the Dead)》本周在该主流流媒体平台上观看最多的电影列表中高居榜首。这部电影剧本思路非常清晰、有很棒的玩笑、有趣的角色、夸张的动作并添加了抢劫元素等。
+ 阅读全文]]></summary>
+        <author>
+            <name>teikaei</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[专家认为AMD与Intel之间迟早要打价格战]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1134267.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1134267.htm"/>
+        <updated>2021-05-30T00:34:17.000Z</updated>
+        <summary type="html"><![CDATA[从去年底的Zen3发布到现在的11代酷睿上市，AMD与Intel两家之间的竞争愈发激烈，CPU市场上的升级换代比之前更快，可惜的是CPU价格并没有跌下来。CPU不仅没有跌价，两家厂商的主力产品甚至面临着缺货、涨价的问题，AMD的锐龙5000系列一定涨幅达到30-50%，Intel这边的酷睿i9/i7高端系列价格也很夸张。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[超声和遗传学结合可以通过刺激大脑深处的一个特定目标来控制动物行为]]></title>
+        <id>https://www.cnbeta.com/articles/science/1134265.htm</id>
+        <link href="https://www.cnbeta.com/articles/science/1134265.htm"/>
+        <updated>2021-05-30T00:33:26.000Z</updated>
+        <summary type="html"><![CDATA[帕金森病和癫痫等神经系统疾病通过深层脑刺激取得了一些治疗效果，但这些都需要手术装置的植入。圣路易斯华盛顿大学的一个多学科团队利用聚焦超声波开发了一种新的大脑刺激技术，能够开启和关闭大脑中特定类型的神经元，并精确控制运动活动，而无需植入手术设备。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[地球正在吞噬位于加利福尼亚州名叫Corcoran的小镇]]></title>
+        <id>https://www.cnbeta.com/articles/science/1134263.htm</id>
+        <link href="https://www.cnbeta.com/articles/science/1134263.htm"/>
+        <updated>2021-05-30T00:26:00.000Z</updated>
+        <summary type="html"><![CDATA[加利福尼亚州的一个小镇Corcoran（科科伦）最近几天一直是新闻头条，因为它有一个非常大的问题，这个问题导致镇上的官员对他们的未来有一种“沉沦感”，至少从字面意义上看是这样。科科伦镇的情况是这样的，它位于洛杉矶和旧金山之间，距离几乎相等，但可怕的是，大地正在吞噬它，自2007年以来，该镇几乎有12英尺沉入地下，相当于两层楼房的第一层在这段时间内消失，这是非常快的速度。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美国军事人员在网上泄漏包含核机密的抽认卡 至少还有两张可以查阅]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1134261.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1134261.htm"/>
+        <updated>2021-05-30T00:20:45.000Z</updated>
+        <summary type="html"><![CDATA[抽认卡（也被称为闪卡）是一种经过时间考验的增强记忆的方法，适用于全世界的学生。根据Bellingcat的一份报告，在美国位于欧洲的秘密核基地工作的美国士兵也用它们来记忆核安全机密。五角大楼近期从网上下线了一些充满核秘密的卡片，但不幸的是并没有全部清除，许多内容仍然在Wayback Machine上有存档。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NASA希望政府为2022财年提供248亿美元预算资金]]></title>
+        <id>https://www.cnbeta.com/articles/science/1134259.htm</id>
+        <link href="https://www.cnbeta.com/articles/science/1134259.htm"/>
+        <updated>2021-05-30T00:14:43.000Z</updated>
+        <summary type="html"><![CDATA[据外媒报道，NASA将向拜登政府申请2022财年预算的资金。该机构于28日公布了其2022财年的实际预算请求，其要求248亿美元用于支持新的和现有的任务。新的预算请求比该机构2021财年收到的预算多出15亿美元。
+ 阅读全文]]></summary>
+        <author>
+            <name>teikaei</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美国新冠确诊超3324万例，占美国人口十分之一]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1134257.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1134257.htm"/>
+        <updated>2021-05-30T00:13:38.000Z</updated>
+        <summary type="html"><![CDATA[据美国约翰斯·霍普金斯大学发布的全球新冠肺炎数据实时统计系统，截至美国东部时间2021年5月29日下午6点，全美共报告新冠肺炎确诊33249270例，死亡594254例。过去24小时，美国新增确诊13638例，新增死亡384例。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Strategy Analytics：消费者宽带互联网流量的爆炸性增长即将结束]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1134255.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1134255.htm"/>
+        <updated>2021-05-30T00:12:46.000Z</updated>
+        <summary type="html"><![CDATA[Strategy Analytics服务提供商战略（SPS）服务最新发布的研究报告《固网宽带流量增长放缓了吗？》发现消费者宽带互联网流量的爆炸性增长即将结束。预计在2018-2028年间，消费者宽带互联网流量的年增长率将下降82%。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[天王星等冰行星表面下的深处发生了什么？]]></title>
+        <id>https://www.cnbeta.com/articles/science/1134253.htm</id>
+        <link href="https://www.cnbeta.com/articles/science/1134253.htm"/>
+        <updated>2021-05-30T00:10:32.000Z</updated>
+        <summary type="html"><![CDATA[在冰行星表面之下的深处发生了什么？是否有液态水？如果有，它是如何与行星的岩石 "海底 "互动的？新的实验表明，在尺寸介于我们地球和高达六倍的水冰行星上，水有选择地从典型的岩石矿物中浸出镁。在实验室中，科学家重现了压力为十万个大气压、温度高于一千摄氏度的条件，实验还模拟了类似的行星，但比海王星和天王星小。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[日本科学家追踪受体蛋白以揭开记忆和学习行为的分子基础]]></title>
+        <id>https://www.cnbeta.com/articles/science/1134251.htm</id>
+        <link href="https://www.cnbeta.com/articles/science/1134251.htm"/>
+        <updated>2021-05-30T00:06:50.000Z</updated>
+        <summary type="html"><![CDATA[来自日本的科学家们采用了一种新颖的两步法来标记神经递质受体蛋白，以有效地追踪它们的定位。我们神经系统中的神经元通过发送和接收被称为神经递质的化学信息相互 "交谈"。这种交流是由称为受体的细胞膜蛋白促成的，受体接收神经递质并在细胞间中转。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[暗物质粒子探测器已测量出高精度的银河系宇宙射线能量谱]]></title>
+        <id>https://www.cnbeta.com/articles/science/1134249.htm</id>
+        <link href="https://www.cnbeta.com/articles/science/1134249.htm"/>
+        <updated>2021-05-30T00:04:13.000Z</updated>
+        <summary type="html"><![CDATA[暗物质粒子探测器（DAMPE）合作组织首次直接观察到氦核在约34TeV的光谱软化。这项工作是基于DAMPE记录的动能从70GeV到80TeV（每个核子17.5GeV/n到20TeV/n）的氦气光谱的测量数据。相关结果发表在《物理评论快报》上。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[一颗埃菲尔铁塔大小的小行星下月将掠过地球]]></title>
+        <id>https://www.cnbeta.com/articles/science/1134247.htm</id>
+        <link href="https://www.cnbeta.com/articles/science/1134247.htm"/>
+        <updated>2021-05-29T23:58:07.000Z</updated>
+        <summary type="html"><![CDATA[据外媒报道，下周一颗小行星将飞掠地球，据信它比埃菲尔铁塔还高。虽然NASA称这颗小行星有潜在危险，但预计它将安全通过地球。研究人员通过研究小行星的大小跟与地球的距离来确定它们是否存在潜在危险。
+ 阅读全文]]></summary>
+        <author>
+            <name>teikaei</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[银河系动力学：是否真的像旋转的陀螺一样运动？]]></title>
+        <id>https://www.cnbeta.com/articles/science/1134245.htm</id>
+        <link href="https://www.cnbeta.com/articles/science/1134245.htm"/>
+        <updated>2021-05-29T23:57:56.000Z</updated>
+        <summary type="html"><![CDATA[加那利天体物理研究所（IAC）的天体物理学家Žofia Chrobáková（IAC和拉古纳大学（ULL）的博士生）和Martín López Corredoira进行的一项调查，对近年来关于银河系动力学的最有趣的发现之一提出了质疑：之前被认为的银河系翘曲的前移或旋转轴的摇摆是不正确的，该结果刚刚发表在《天体物理学杂志》上。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“卡尔·萨根奖”获得者郑永春：移民火星在可见的未来仍比较遥远]]></title>
+        <id>https://www.cnbeta.com/articles/science/1134243.htm</id>
+        <link href="https://www.cnbeta.com/articles/science/1134243.htm"/>
+        <updated>2021-05-29T23:53:42.000Z</updated>
+        <summary type="html"><![CDATA[在“祝融号”成功登陆火星后，我国火星探测之旅的下一步将是什么？马斯克“移民火星”的梦想是否能实现？5月29日，中国科学院国家天文台研究员、“卡尔·萨根奖”获得者郑永春在第三届腾讯青少年科学小会的采访环节中解答了新京报贝壳财经记者的提问。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[儿童安全座椅首次写入全国性立法：6月1日正式实施]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1134241.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1134241.htm"/>
+        <updated>2021-05-29T23:47:25.000Z</updated>
+        <summary type="html"><![CDATA[今年6月1日，新修订的《未成年人保护法》将正式实施，儿童安全座椅的使用也首次纳入了全国性的立法。数据显示，汽车内未安装儿童安全座椅情况下，儿童交通事故的死亡率是安装了的8倍，受伤率是后者的3倍。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chia硬盘矿崛起之际 东芝率先宣布HDD硬盘涨价5%]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1134239.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1134239.htm"/>
+        <updated>2021-05-29T23:46:17.000Z</updated>
+        <summary type="html"><![CDATA[最近一段时间，Chia硬盘矿搅乱了硬盘市场，目前挖矿的需求占到了全球硬盘出货量的1%左右了，零售价已经因此涨了2-3倍，16TB硬盘差不多要4000元以上了。硬盘厂商也开始动起来了，据报道，东芝最近宣布了HDD硬盘的价格调整，首次提高了面向数据中心市场的HDD硬盘价格，涨幅5%。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Jony Ive虽在2019年就已离开苹果，但他还是帮助设计了新款iMac]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1134237.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1134237.htm"/>
+        <updated>2021-05-29T23:45:21.000Z</updated>
+        <summary type="html"><![CDATA[据外媒报道，Wired对苹果新款24英寸iMac的评论摘录指出，尽管苹果前首席设计官Jony Ive于2019年离开公司，但他帮助设计了这款设备。2019年，Ive离开苹果成立了自己的独立设计公司，而以此同时苹果成为了这家公司的客户之一。
+ 阅读全文]]></summary>
+        <author>
+            <name>teikaei</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[1型糖尿病疫苗疫苗试验成果初现]]></title>
+        <id>https://www.cnbeta.com/articles/science/1134235.htm</id>
+        <link href="https://www.cnbeta.com/articles/science/1134235.htm"/>
+        <updated>2021-05-29T23:39:11.000Z</updated>
+        <summary type="html"><![CDATA[据美国趣味科学网站5月27日报道，在一项规模较小的早期研究中，1型糖尿病疫苗有助于维持人体自然生成胰岛素的能力，至少能在一组新确诊的患者身上发挥作用。报道称，1型糖尿病患者体内的免疫系统会攻击胰腺中分泌胰岛素的β细胞，胰岛素是细胞从血液中吸收葡萄糖所必需的一种激素。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OneWeb第七批36颗卫星升空：累计在轨卫星218颗 可服务高纬度地区]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1134233.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1134233.htm"/>
+        <updated>2021-05-29T23:38:01.000Z</updated>
+        <summary type="html"><![CDATA[莫斯科时间5月28日20时38分，英国卫星通信公司OneWeb36颗卫星搭乘俄罗斯“联盟-2.1b”运载火箭从俄东方航天发射场点火升空，累计在轨卫星218颗。只需要再发射一批36颗卫星，OneWeb就有能力覆盖北纬50度以北地区的网络连接了。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[鸿蒙“补天裂”：华为能撬动苹果和谷歌的基本盘吗？]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1134231.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1134231.htm"/>
+        <updated>2021-05-29T23:36:42.000Z</updated>
+        <summary type="html"><![CDATA[5月25日，华为宣布鸿蒙2.0（HarmonyOS2.0）系统将在今年6月2日面向全球正式发布，当日，华为微博账号上发布了一段视频短片，下方有网民评论，他们期待着国产操作系统的到来。鸿蒙，是中国人对于空间和时间初始状态的想象，常被用来形容宇宙形成前的混沌状态。“自从盘古破鸿蒙，开辟从兹清浊辨”，鸿蒙初辟后，天地清浊渐次分明，典用该词命名自研的操作系统，华为的期待跃然而现。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美国航空旅行人数创疫情以来新高 客运量回升至200万]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1134229.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1134229.htm"/>
+        <updated>2021-05-29T23:31:29.000Z</updated>
+        <summary type="html"><![CDATA[周五，美国航空公司的客运量达到了近15个月来的最高水平。由于旅客限制逐渐宽松和疫苗接种范围不断扩大，阵亡将士纪念日来临之际航空旅客数量激增。美国运输安全管理局报告称，它在机场对近196万人进行了筛查，而周四的数据为185万人。这是自2020年3月7日新冠肺炎大流行初期以来客运量的最高水平。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[北京预付卡管理条例征求意见：最终解释权等霸王条款最高罚三万]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1134227.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1134227.htm"/>
+        <updated>2021-05-29T23:30:50.000Z</updated>
+        <summary type="html"><![CDATA[为加强单用途预付卡管理，保护消费者合法权益，由北京市商务局、市场监管局起草的《北京市单用途预付卡管理条例》（征求意见稿）即日起面向社会公开征求意见。很多消费者都遭遇过办卡容易退卡难的尴尬境遇，在就餐、教育培训、体育健身、美容美发美甲、洗车等生活服务行业中，单用途预付卡经营活动中的“霸王条款”、不履行合同义务、不按承诺提供服务、服务质量不达标、关门闭店退费难等问题屡有发生。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[去年扑杀埋葬今年挖出来 丹麦焚烧400万水貂尸体]]></title>
         <id>https://www.cnbeta.com/articles/science/1134225.htm</id>
