@@ -954,6 +954,213 @@
       "siteUrl": "https://www.cnbeta.com",
       "articles": [
         {
+          "id": "https://www.cnbeta.com/articles/tech/1134393.htm",
+          "author": "ugmbbc",
+          "description": "据新华社消息，原本栖息在云南西双版纳的一群野生亚洲象，近日一路逛吃、北迁，经普洱市墨江县、玉溪市元江县、红河州石屏县后抵达玉溪市峨山县，29日晚，象群继续北移已进入玉溪市红塔区境内。目前这15头野象离昆明城区已不到100公里。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1134393.htm",
+          "publishedOn": "2021-05-30T07:56:27.000Z",
+          "wordCount": 196,
+          "title": "专家详解：野象“迷途”可知返？一路“象”北为哪般？"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1134391.htm",
+          "author": "ugmbbc",
+          "description": "喜欢极限性能的发烧友们，可以翘首以盼了。最新消息称，AMD第四代线程撕裂者处理器，将于8月发布，9月上市。这呼应了4月份的一篇报道，同时也意味着在北京时间6月1日苏姿丰博士主持的台北电脑展AMD专场活动中，线程撕裂者将缺席。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1134391.htm",
+          "publishedOn": "2021-05-30T07:45:38.000Z",
+          "wordCount": 213,
+          "title": "AMD Zen3线程撕裂者曝光：8月发布、16核起跳"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1134389.htm",
+          "author": "ugmbbc",
+          "description": "不知道大家在日常生活中，会怎么定义 “ 硬核 ” 这个词。老饕客吃到一道很下功夫的菜，会赞美它是 “ 硬菜 ”；程序员碰到了一条完美的代码，会感叹写出这条代码是一个 “ 硬核大佬 ”；有人通关了宫崎英高的所有游戏，并全都拿到了白金奖杯，那他毫无疑问是一个 “ 硬核玩家 ”。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1134389.htm",
+          "publishedOn": "2021-05-30T07:33:38.000Z",
+          "wordCount": 352,
+          "title": "这届硬核网友 用一台Mac mini翻新了12年前的电脑"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1134387.htm",
+          "author": "ugmbbc",
+          "description": "近段时间，亚洲疫情出现升温迹象，除了印度，马来西亚、越南、泰国等亚洲国家也在遭受新冠疫情冲击。作为全球市场关键的生产、制造基地，这些地方的疫情持续发酵，将对全球供应链产生影响。自4月下旬以来，越南 63个地区有30区的染疫人数超过3000人。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1134387.htm",
+          "publishedOn": "2021-05-30T07:30:02.000Z",
+          "wordCount": 207,
+          "title": "越南疫情快速蔓延 苹果三星等企业供应链恐受影响"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1134385.htm",
+          "author": "ugmbbc",
+          "description": "5月30日消息，第四届全国青年企业家峰会今日在南京举行。蔚来汽车创始人、董事长、CEO李斌出席并演讲。李斌称，去年在蔚来最为危难的时候，“差点就挂掉了”，“安徽省合肥市政府在我们最关键的时候伸出援手，也创造了奇迹，六个月以内就让合肥有了很好的投资回报”。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1134385.htm",
+          "publishedOn": "2021-05-30T07:29:20.000Z",
+          "wordCount": 208,
+          "title": "李斌：蔚来去年差点挂掉 合肥关键时刻出手 投资机构没人救我们"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1134383.htm",
+          "author": "ugmbbc",
+          "description": "工作电脑主要是用于办公的，若员工用作他途，比如存放不雅视频图片遭开除，公司违法吗？来看看这则案例。据中国裁判文书网官网披露的一则民事判决书显示，黄某某于2007年7月2日进入上海研发分公司处工作，双方签订有自2016年7月2日起的无固定期限劳动合同，黄某某担任软件测试工程师，离职前12个月平均工资17232.23元（税费前）。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1134383.htm",
+          "publishedOn": "2021-05-30T07:28:46.000Z",
+          "wordCount": 200,
+          "title": "月薪1.7万工程师工作电脑私藏64G不雅视图 被开除后起诉索赔41万"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1134381.htm",
+          "author": "ugmbbc",
+          "description": "在希望彻底改革美国芯片生产的重大尝试中，美国参议院同意于周四结束对民主党参议员查克舒默提出的修正案的辩论。该修正案涵盖了从半导体供应链到航空等广泛的主题，它同意首先从美国财政部向商务部拨款，为2021年《国防授权法案》（NDAA）的“为美国生产半导体（芯片）”一节提供资金。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1134381.htm",
+          "publishedOn": "2021-05-30T07:27:31.000Z",
+          "wordCount": 283,
+          "title": "美国CHIPS法案或将被授权500亿美元 发展芯片制造和3nm研发"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1134379.htm",
+          "author": "ugmbbc",
+          "description": "上周，流媒体界敲定一项重磅收购案。亚马逊同意以84.5亿美元收购米高梅。该交易是亚马逊公司历史上第二大收购，仅次于亚马逊在2017年以137亿美元对全食超市（Whole Foods Market）的收购。亚马逊表示，希望借助米高梅电影制作的悠久历史以及高产出（超过4000部电影和17000个电视剧），来帮助打造旗下的影视部门Amazon Studios。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1134379.htm",
+          "publishedOn": "2021-05-30T07:26:03.000Z",
+          "wordCount": 208,
+          "title": "亚马逊买下米高梅之后 下一个媒体巨兽并购案是谁？"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1134377.htm",
+          "author": "ugmbbc",
+          "description": "为鼓励民众早日接种新冠肺炎疫苗，菲律宾多个城市推出激励措施，除了免费接送、上门接种、免费餐食等，一些城市甚至推出送房、送摩托车等大礼包。综合雅虎新闻网、菲龙网等媒体报道，菲律宾拉斯彬迎斯市（Las Pinas）议员卡米尔·维拉尔（Camille Villar）表示，自7月开始，只要该市市民接种新冠疫苗，无论是接种第一剂还是完成两剂，都可以参加抽奖机会，每月将有10名幸运儿获得“生计大礼包”。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1134377.htm",
+          "publishedOn": "2021-05-30T07:25:32.000Z",
+          "wordCount": 205,
+          "title": "菲律宾多地为鼓励民众接种疫苗出奇招: 送牛送车送别墅"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1134375.htm",
+          "author": "ugmbbc",
+          "description": "Have I Been Pwned是一个让你检查你的哪些登录信息被数据泄露的网站，它正在与联邦调查局合作，以扩大其数据库。这种合作关系将使该网站能够在密码泄露时获得来自执法机构的最新密码库，当然，披露的速度取决于联邦调查局目前正在调查的情况。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1134375.htm",
+          "publishedOn": "2021-05-30T07:22:03.000Z",
+          "wordCount": 214,
+          "title": "美国联邦调查局将向\"Have I Been Pwned\"提供执法中获得的已泄露密码"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/science/1134373.htm",
+          "author": "ugmbbc",
+          "description": "一个国际科学家团队说，开发新的超薄金属电极使研究人员能够创造出半透明的过氧化物太阳能电池，这种电池效率很高，可以与传统的硅电池结合，大大提升两种设备的性能。这项研究代表着向开发完全透明的太阳能电池迈出了一步。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/science/1134373.htm",
+          "publishedOn": "2021-05-30T07:16:44.000Z",
+          "wordCount": 197,
+          "title": "材料学家开发出可提高太阳能电池效率的新型透明电极"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/science/1134371.htm",
+          "author": "ugmbbc",
+          "description": "任何养过孩子或宠物的人都会知道他们的成长有多稳定，很多歌词也都会提到我们在“渐渐长大”。出差数周，当你回家的时候孩子要是长高了好几厘米，对于现代家庭来说绝对是很令人吃惊和罕见的。但远古时代的恐龙是如何长大的？他们是否也会因为不停地生长而让他们的父母感到惊讶？\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/science/1134371.htm",
+          "publishedOn": "2021-05-30T07:13:10.000Z",
+          "wordCount": 200,
+          "title": "研究发现南部非洲恐龙的生长速度极其不规则"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1134369.htm",
+          "author": "ugmbbc",
+          "description": "今日，新东方董事长俞敏洪在第四届全国青年企业家峰会发言表示，年轻人都躺平、太佛系的话，国家的未来靠谁？俞敏洪还表示自己对董明珠在台下谈论的“我们这一代的企业家还是要为激起中国的年轻人的奋斗精神做点事情的，不能鼓励年轻人天天打游戏、贷款消费，要让年轻人努力为中国多创造财富，要讲讲奋斗精神”表示赞同。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1134369.htm",
+          "publishedOn": "2021-05-30T07:07:03.000Z",
+          "wordCount": 200,
+          "title": "俞敏洪：年轻人不能躺平 否则国家的未来靠谁"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/science/1134367.htm",
+          "author": "ugmbbc",
+          "description": "伴随着三星堆遗址的考古发掘，大量珍贵文物重新和世人见面。8号坑日前出土一件青铜残片上附着的丝绸实物残留，经纬组织非常明显，表层有一层类似于涂层的附着物，尺寸为1.8×0.8厘米，是目前三星堆发现的最明显也是最大面积的丝绸残留物。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/science/1134367.htm",
+          "publishedOn": "2021-05-30T07:06:00.000Z",
+          "wordCount": 200,
+          "title": "三星堆遗址发现最明显、最大面积的丝绸残留物"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1134365.htm",
+          "author": "ugmbbc",
+          "description": "618电商大促已经提前到来，现在，微软中国官方商城加入战局，活动从29日开始，一直持续到6月20日。官方预告，Surface主机（不含翻新机）价保30天，长辈优惠（购翻新机额外9.5折），下单送微软定制礼品，指定Surface限时直降、24期免息等，\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1134365.htm",
+          "publishedOn": "2021-05-30T07:03:09.000Z",
+          "wordCount": 902,
+          "title": "微软中国商城618大促开启：Surface Go官翻机1099元起、价保30天"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1134363.htm",
+          "author": "ugmbbc",
+          "description": "新冠病毒肆虐全球一年多了，而在2003年的时候，冠状病毒中的另一个成员SARS（俗称非典）也带来了严峻考验，人类跟冠状病毒的斗争已经持续了多年。现在的新冠与18年前的非典抗疫有什么不同？经历过这两场灾难的人可能会注意了，新冠爆发时核酸检测非常频繁，但2003年的非典时就没有核酸检测这一项。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1134363.htm",
+          "publishedOn": "2021-05-30T07:01:09.000Z",
+          "wordCount": 199,
+          "title": "非典为何不做核酸检测？医学专家对比18年来变化"
+        },
+        {
+          "id": "https://hot.cnbeta.com/articles/comic/1134361.htm",
+          "author": "ugmbbc",
+          "description": "六一儿童节来临之际，《葫芦兄弟》正式入驻抖音，陪大家一起过六一儿童节。一同入驻的还有《蓝精灵》、《樱桃小丸子》。目前，“葫芦兄弟官方”账号只发布了一部视频，有超4800万人观看，拿下抖音热榜第一。\n 阅读全文",
+          "link": "https://hot.cnbeta.com/articles/comic/1134361.htm",
+          "publishedOn": "2021-05-30T06:57:04.000Z",
+          "wordCount": 200,
+          "title": "《葫芦兄弟》入驻抖音：爷爷用“葫芦手机” iPhone直呼内行"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/science/1134359.htm",
+          "author": "ugmbbc",
+          "description": "青铜顶尊人像、大型青铜面具、黄金树叶、象牙精雕……记者28日在三星堆“走进三星堆读懂中华文明”主题活动上获悉，三星堆新发现的6个“祭祀坑”，在提取一批象牙后，大量珍贵文物露出真容，此次发掘截至目前已累计出土重要文物一千余件。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/science/1134359.htm",
+          "publishedOn": "2021-05-30T06:55:56.000Z",
+          "wordCount": 198,
+          "title": "三星堆新发现6个“祭祀坑”：已出土大型青铜面具、黄金树叶等千件重要文物"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1134357.htm",
+          "author": "ugmbbc",
+          "description": "随着理想汽车近日发布 2021 年第一季度未经审计财务报告，至此，包括蔚来汽车、小鹏汽车在内的造车新势力 Q1 财报已全部出炉。在国内新能源市场蓬勃发展之下，并且特斯拉在国内增长势头放缓情况下，这三家新势力的成绩单如何？对后市影响几何？\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1134357.htm",
+          "publishedOn": "2021-05-30T06:54:27.000Z",
+          "wordCount": 565,
+          "title": "交出Q1成绩单 蔚来、理想、小鹏造车三兄弟背后的喜与忧"
+        },
+        {
+          "id": "https://hot.cnbeta.com/articles/movie/1134355.htm",
+          "author": "ugmbbc",
+          "description": "5月30日消息，今日，腾讯视频针对《斗罗大陆》第158集被短视频平台侵权，在其微信公众号发布声明进行谴责。腾讯视频称，B站、抖音、快手等平台出现大量未经授权的动画完整版、切条剪辑以及合集等内容，多达六百条以上，并表明将抵制盗版、捍卫权利，违者将依法追究责任。\n 阅读全文",
+          "link": "https://hot.cnbeta.com/articles/movie/1134355.htm",
+          "publishedOn": "2021-05-30T06:51:36.000Z",
+          "wordCount": 204,
+          "title": "腾讯视频发布声明：谴责短视频平台盗版《斗罗大陆》新剧集"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/science/1134353.htm",
+          "author": "ugmbbc",
+          "description": "在昨晚搭载天舟二号货运飞船的长征七号遥三运载火箭成功发射后，今晨5时01分，天舟二号与天和舱对接成功。据了解，天舟二号货运飞船是中国空间站关键技术验证及建造阶段首飞货运飞船。按照任务规划，天舟二号货运飞船将携带3名航天员消耗品、舱外航天服、平台物资和燃料补加，为航天员长期驻留做好准备。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/science/1134353.htm",
+          "publishedOn": "2021-05-30T06:48:03.000Z",
+          "wordCount": 195,
+          "title": "空间站上一天能看到16次日出：专家解读航天员如何作息"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1134351.htm",
+          "author": "ugmbbc",
+          "description": "第四届全国青年企业家峰会于2021年5月30日在南京举行。蔚来汽车创始人、董事长、CEO李斌出席并演讲。李斌表示与已经有百年历史的传统汽车业巨头相比，蔚来还是个一年级的学生。李斌称，蔚来创立之初与一些中国企业不一样——一上来就在全球做研发，在英国、硅谷、慕尼黑等地建立的研发体系。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1134351.htm",
+          "publishedOn": "2021-05-30T06:42:52.000Z",
+          "wordCount": 200,
+          "title": "李斌：蔚来平均售价43万比特斯拉中国贵十几万 已初步建成高端品牌"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1134349.htm",
+          "author": "ugmbbc",
+          "description": "今日，格力电器董事长兼总裁董明珠在第四届全国青年企业家峰会上谈到格力空调推出的“十年免费包修”政策，董明珠表示，“十年免费包修”政策已经推出3个多月了，没有一家企业敢跟，这是格力实力的象征，是品质追求，格力刀刃向内所取得的成果。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1134349.htm",
+          "publishedOn": "2021-05-30T06:38:57.000Z",
+          "wordCount": 203,
+          "title": "董明珠再谈“空调十年免费包修”：没有企业敢跟 是格力实力的象征"
+        },
+        {
           "id": "https://www.cnbeta.com/articles/tech/1134347.htm",
           "author": "ugmbbc",
           "description": "微软正在对Windows 10和macOS上的Chromium Edge的外观进行另一项重大改变，它可能足以诱惑你离开Google Chrome浏览器，特别是如果你喜欢该浏览器标志性的垂直标签功能。去年，微软推出了从水平标签切换到垂直（左手边）的功能，这一功能被官方称为 \"垂直标签\"，其目的是减少杂乱，并改善整体多任务体验。\n 阅读全文",
