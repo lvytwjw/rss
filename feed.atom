@@ -2,10 +2,164 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://lvytwjw.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-05-30T23:27:13.696Z</updated>
+    <updated>2021-05-31T01:05:00.854Z</updated>
     <generator>osmosfeed 1.9.0</generator>
     <link rel="alternate" href="https://lvytwjw.github.io/rss/index.html"/>
     <link rel="self" href="https://lvytwjw.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[俄罗斯航天局宣布OneWeb Launch 7发射任务顺利完成]]></title>
+        <id>https://www.cnbeta.com/articles/science/1134529.htm</id>
+        <link href="https://www.cnbeta.com/articles/science/1134529.htm"/>
+        <updated>2021-05-31T00:49:54.000Z</updated>
+        <summary type="html"><![CDATA[据外媒报道，俄罗斯航天局和Arianespace航天公司宣布，他们在推迟一天后成功发射了OneWeb  Launch 7任务。发射的延迟是为了更换联盟号火箭的电气部分，该火箭将推动卫星进入轨道。该任务于美国东部时间5月28日下午1点38分升空。
+ 阅读全文]]></summary>
+        <author>
+            <name>vivian</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[COVID-19最终会成为季节性疾病吗？科学家模拟新冠病毒可能的未来]]></title>
+        <id>https://www.cnbeta.com/articles/science/1134527.htm</id>
+        <link href="https://www.cnbeta.com/articles/science/1134527.htm"/>
+        <updated>2021-05-31T00:35:30.000Z</updated>
+        <summary type="html"><![CDATA[据外媒报道，一项研究称，在未来十年内，导致COVID-19的新型冠状病毒可能会成为一个讨厌的东西，只引起普通感冒般的咳嗽和流鼻涕。这种可能的未来是由数学模型预测的，这些模型结合了从当前大流行病中吸取的关于我们身体的免疫力如何随时间变化的教训。犹他大学的科学家们开展了这项研究，现在发表在《病毒》杂志上。
+ 阅读全文]]></summary>
+        <author>
+            <name>vivian</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[苹果败诉 要为一巴西iPhone 12用户免费提供充电器]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1134525.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1134525.htm"/>
+        <updated>2021-05-31T00:27:27.000Z</updated>
+        <summary type="html"><![CDATA[由于 iPhone 12 包装中没有提供充电器，今年 3 月苹果被巴西消费者权益保护机构 Procon-SP 罚款 1000 万雷亚尔（约合 1218.4 万人民币）。在最新审判中，来自巴西圣保罗的 Mariana Morales Oliveira 在法庭上赢得了为她的 iPhone 12 配备配件的权利。
+ 阅读全文]]></summary>
+        <author>
+            <name>study875</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美CDC报告：接种疫苗后感染COVID-19的情况非常罕见]]></title>
+        <id>https://www.cnbeta.com/articles/science/1134523.htm</id>
+        <link href="https://www.cnbeta.com/articles/science/1134523.htm"/>
+        <updated>2021-05-31T00:21:26.000Z</updated>
+        <summary type="html"><![CDATA[美国疾病控制与预防中心（CDC）的一份令人鼓舞的新报告发现，在超过1亿名完全接种疫苗的人中，需要住院治疗的COVID-19病例不到1000例。CDC它可能低估了COVID-19的阳性病例，然而，该报告有力地提醒了疫苗的现实世界的有效性。
+ 阅读全文]]></summary>
+        <author>
+            <name>vivian</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[在员工抱怨Instagram审查亲巴勒斯坦的内容后 该公司对算法进行修改]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1134521.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1134521.htm"/>
+        <updated>2021-05-31T00:06:19.000Z</updated>
+        <summary type="html"><![CDATA[据The Verge报道，在一群员工抱怨亲巴勒斯坦的内容在巴以冲突期间无法被用户看到后，Facebook旗下的Instagram对其算法进行了修改。该公司周日向The Verge证实，Instagram通常在其故事中展现原创内容，然后才是转贴内容，但现在将开始对两者给予同等权重。
+ 阅读全文]]></summary>
+        <author>
+            <name>vivian</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[图]想在电脑上体验谷歌最新发布的Fuchsia OS？试试FImage]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1134519.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1134519.htm"/>
+        <updated>2021-05-31T00:06:12.000Z</updated>
+        <summary type="html"><![CDATA[本周早些时候，Google发布了 Fuchisia OS，不过初期仅面向部分初代 Nest Hub 用户开放。现在，一群独立开发者创造了一个更简单的方法，能够在你的电脑上尝试体验 Fuchsia OS。
+ 阅读全文]]></summary>
+        <author>
+            <name>study875</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[哈勃望远镜拍摄的壮观图像显示了一个奇怪扭曲的螺旋星系]]></title>
+        <id>https://www.cnbeta.com/articles/science/1134517.htm</id>
+        <link href="https://www.cnbeta.com/articles/science/1134517.htm"/>
+        <updated>2021-05-30T23:51:55.000Z</updated>
+        <summary type="html"><![CDATA[据外媒报道，一张来自NASA/ESA哈勃太空望远镜的壮观图片显示了NGC 2276的旋臂，这是一个位于1.2亿光年外的螺旋星系，位于仙王座。乍一看，明亮的旋臂和黑暗的尘埃“通道”组成的精致轨迹与其他无数的螺旋星系相似。但仔细观测后就会发现一个由引力作用和强烈的恒星形成而导致的奇怪的向一侧倾斜的星系。
+ 阅读全文]]></summary>
+        <author>
+            <name>vivian</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[特斯拉Model 3被飞来混凝土块砸中 车主夫妇奇迹逃生]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1134515.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1134515.htm"/>
+        <updated>2021-05-30T23:48:08.000Z</updated>
+        <summary type="html"><![CDATA[5月31日消息，据外媒报道，英国诺福克郡男子尼尔·柯林斯(Neil Collins)携妻子艾莉森(Alison)驾驶特斯拉Model 3从邦韦尔（Bunwell）驱车前往霍尔汉姆(Holkham)途中发生车祸。在拐弯时，一辆快速行驶的卡车运载的混凝土块突然从侧面掉落并砸中Model 3，幸运的是车主夫妇仅受了轻伤。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[中国烟民超3亿 专家：高度警惕电子烟成为公众“第一口烟”]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1134513.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1134513.htm"/>
+        <updated>2021-05-30T23:40:53.000Z</updated>
+        <summary type="html"><![CDATA[5月31日，是第34个世界无烟日。国家卫健委与世卫组织共同发出“承诺戒烟 即刻行动”的号召。最新数据显示，我国吸烟人数超3亿，每年因吸烟死亡人数超100万，控烟形势十分严峻。党政机关作为标杆群体，已经进入2022年底实现全面控烟任务的攻坚“倒计时”。领导干部带头，是标杆更是风向。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RTX 3080 Ti非公版显卡现身零售网站 起售价1500英镑]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1134511.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1134511.htm"/>
+        <updated>2021-05-30T23:38:43.000Z</updated>
+        <summary type="html"><![CDATA[英伟达（Nvidia）的 GeForce RTX 3080 Ti 已基本浮出水面，几个非公版显卡已经现身互联网，起售价格在 1500 英镑左右。这些非公版显卡是由爆料人士@Momomo分享的，提供了包括技嘉在内的多个非公版显卡信息。
+ 阅读全文]]></summary>
+        <author>
+            <name>study875</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NASA局长：拜登政府的预算提案将使登月任务保持正常进行]]></title>
+        <id>https://www.cnbeta.com/articles/science/1134509.htm</id>
+        <link href="https://www.cnbeta.com/articles/science/1134509.htm"/>
+        <updated>2021-05-30T23:38:43.000Z</updated>
+        <summary type="html"><![CDATA[外媒最近报道称，美国宇航局（NASA）2022财年的拟议预算总额为248亿美元。尽管这个数字很庞大，但许多人想知道这是否足够让NASA的登月任务继续进行下去。上周五，NASA局长比尔·纳尔逊（Bill Nelson ）表示，248亿美元的预算提案将使该航天局有望最早在2024年将第一位女性和下一位男性宇航员送上月球。然而，纳尔逊确实有一个警告。
+ 阅读全文]]></summary>
+        <author>
+            <name>vivian</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[使用违规材质违反公约 劳斯莱斯幻影被意大利海关扣押]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1134507.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1134507.htm"/>
+        <updated>2021-05-30T23:37:55.000Z</updated>
+        <summary type="html"><![CDATA[众所周知，劳斯莱斯车辆一直有着高度定制的传统，车主可以根据自己喜好，选择经过劳斯莱斯认证的数以万计的定制材料装饰爱车。不过即便如此，市场上还是有很多第三方改装机构给劳斯莱斯提供“改装”。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[文具盲盒或使孩子成瘾 中消协：不应过分沉迷 切勿跟风与攀比]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1134505.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1134505.htm"/>
+        <updated>2021-05-30T23:36:12.000Z</updated>
+        <summary type="html"><![CDATA[针对盲盒市场出现的各种乱象，中国消费者协会发文提醒消费者，不能只抱着投机或者中彩票的心理购买盲盒，不应过分沉迷，切勿跟风与攀比，要结合自身经济能力、消费需求和兴趣爱好等，理性消费、量力而行，多一分理智和冷静，少一分盲目与冲动。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[苹果将加强零售业务 开设更多实体店]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1134503.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1134503.htm"/>
+        <updated>2021-05-30T23:30:26.000Z</updated>
+        <summary type="html"><![CDATA[苹果公司一位高管表示，该公司将加强其全球零售业务，尽管在新冠病毒大流行期间，市中心的商店正在努力应对向网上销售的加速转变。苹果目前在全球运营着约500家零售店，其中100家位于欧洲。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“直腿神器”热销 真管用还是“智商税”？]]></title>
         <id>https://www.cnbeta.com/articles/tech/1134501.htm</id>
