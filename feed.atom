@@ -2,10 +2,115 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://lvytwjw.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-05-31T17:01:53.578Z</updated>
+    <updated>2021-05-31T19:28:57.990Z</updated>
     <generator>osmosfeed 1.9.0</generator>
     <link rel="alternate" href="https://lvytwjw.github.io/rss/index.html"/>
     <link rel="self" href="https://lvytwjw.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[产业链被迫中断 印度“世界工厂”遇险]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1134903.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1134903.htm"/>
+        <updated>2021-05-31T18:47:06.000Z</updated>
+        <summary type="html"><![CDATA[疫情对印度的冲击正在深入肌理，从民生到经济，各行各业都直接或间接地深受打击。工厂停工，产业链被迫中断，“世界工厂”的地位也受到影响，为外商投资蒙上了一层阴影。在抗疫和经济之间，印度的天平难以平衡。而放眼全球，作为世界贸易的关键一环，印度的危机也影响着全球的供需链。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[配备Mini-LED的MacBook Pro型号预计在2021年Q3开始备料]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1134901.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1134901.htm"/>
+        <updated>2021-05-31T17:56:19.000Z</updated>
+        <summary type="html"><![CDATA[我们之前听说，苹果正在为今年晚些时候的重新设计的MacBook Pro机型做准备。虽然一些传言认为苹果将在2021年的WWDC大会上首次推出这些机器，但其他传言似乎指向今年下半年或2022年推出。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[京东发布6·18首份战报：iPhone 五秒破亿、小米5分钟破亿]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1134899.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1134899.htm"/>
+        <updated>2021-05-31T17:46:57.000Z</updated>
+        <summary type="html"><![CDATA[一年一度京东618的第一份战报新鲜出炉了，一片喜气洋洋。6月1日零点起，2021年“京东618，18周年庆”迎来开门红，5月24日开启预售以来积攒的剁手热情瞬间爆发。15分钟内，京东超市整体成交额同比增长超7倍，京东生鲜成交额同比增长156％。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[传闻苹果明年开始在部分iPad型号中采用OLED显示屏]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1134897.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1134897.htm"/>
+        <updated>2021-05-31T17:36:32.000Z</updated>
+        <summary type="html"><![CDATA[据韩国ETNews报道，继最近在最高端12.9英寸iPad Pro中采用mini-LED屏幕后，苹果计划明年在 "部分"iPad型号中采用OLED显示技术。该报告援引业内人士的话称，苹果将从2022年开始在一些iPad型号中使用OLED显示屏而不是LCD。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Serverless Functions: The Secret to Ultra-Productive Front-End Teams]]></title>
+        <id>https://css-tricks.com/?p=340465</id>
+        <link href="https://css-tricks.com/serverless-functions-the-secret-to-ultra-productive-front-end-teams/"/>
+        <updated>2021-05-31T17:16:22.000Z</updated>
+        <summary type="html"><![CDATA[Modern apps place high demands on front-end developers. Web apps require complex functionality, and the lion’s share of that work is falling to front-end devs:
+building modern, accessible user interfaces
+creating interactive elements and complex animations
+managing complex application state
+…
+The post Serverless Functions: The Secret to Ultra-Productive Front-End Teams appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Jason Lengstorf</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Local: Always Getting Better]]></title>
+        <id>https://css-tricks.com/?p=341482</id>
+        <link href="https://css-tricks.com/local-always-getting-better/"/>
+        <updated>2021-05-31T17:13:02.000Z</updated>
+        <summary type="html"><![CDATA[I’ve been using Local for ages. Four years ago, I wrote about how I got all my WordPress sites running locally on it. I just wanted to give it another high five because it’s still here and still great. In …
+The post Local: Always Getting Better appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[研究人员发现普通抗生素可以治疗珊瑚疾病 有效率达到95%]]></title>
+        <id>https://www.cnbeta.com/articles/science/1134895.htm</id>
+        <link href="https://www.cnbeta.com/articles/science/1134895.htm"/>
+        <updated>2021-05-31T17:12:39.000Z</updated>
+        <summary type="html"><![CDATA[疾病仍然是对珊瑚礁健康的一个主要威胁。例如，最近爆发的石珊瑚组织损失病是一种明显的水传播疾病，已知至少影响20种石珊瑚物种。这种疾病于2014年首次在迈阿密-戴德县发现，此后该疾病已蔓延到整个佛罗里达州大部分珊瑚礁，并进入加勒比多个国家和地区。佛罗里达珊瑚礁北段一些珊瑚礁活组织面积有多达60%的损失。
+ 阅读全文]]></summary>
+        <author>
+            <name>maomao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[荷兰铁路交通因通讯问题大部分中断]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1134893.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1134893.htm"/>
+        <updated>2021-05-31T17:12:01.000Z</updated>
+        <summary type="html"><![CDATA[5月31日，荷兰国家铁路当地时间14点30分（北京时间20点30分）对外宣布，由于全境铁路通讯系统出现故障，导致铁路信号系统和换轨系统出现问题，荷兰铁路大部分陷入中断。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[疫情风暴刮向东南亚：越南也扛不住 全球芯片产业链遭冲击]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1134891.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1134891.htm"/>
+        <updated>2021-05-31T17:10:13.000Z</updated>
+        <summary type="html"><![CDATA[新冠肺炎病毒诡谲多变，让“防疫楷模”越南在新一波变异病毒的大考中失去了光环。一直以来，越南被认为是世界上抗疫最成功的几个国家之一。在新冠肺炎疫情肆虐全球的2020年，越南没有暴发过大规模的疫情，单日新增病例从未超过50例。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[越南方面要求三星与苹果各代工厂确保为工人接种COVID-19疫苗]]></title>
         <id>https://www.cnbeta.com/articles/tech/1134889.htm</id>
