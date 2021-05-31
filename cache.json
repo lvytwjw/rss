@@ -407,6 +407,20 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2021/05/desktop-wallpaper-calendars-june-2021/",
+          "author": "hello@smashingmagazine.com (Cosima Mielke)",
+          "description": "What could be a better way to welcome June than with some colorful inspiration? Well, we might have something for you: wallpapers created with love by artists and designers from across the globe.",
+          "link": "https://smashingmagazine.com/2021/05/desktop-wallpaper-calendars-june-2021/",
+          "publishedOn": "2021-05-31T11:30:00.000Z",
+          "wordCount": 2484,
+          "title": "Happy June Vibes For Your Screen (2021 Desktop Wallpapers Edition)",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/374464b5-093e-4ca2-9397-6f26c83756d4/june-20-summer-coziness-preview-opt.png",
+            "length": "0",
+            "type": "image/png"
+          }
+        },
+        {
           "id": "https://smashingmagazine.com/2021/05/commenting-system-wysiwyg-editor/",
           "author": "hello@smashingmagazine.com (Shalabh Vyas)",
           "description": "In this article, we’ll be re-using the foundational WYSIWYG Editor built in the first article to build a commenting system for a WYSIWYG Editor that enables users to select text inside a document and share their comments on it. Let’s dig in!",
@@ -953,6 +967,96 @@
       "feedUrl": "https://www.cnbeta.com/backend.php",
       "siteUrl": "https://www.cnbeta.com",
       "articles": [
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1134829.htm",
+          "author": "ugmbbc",
+          "description": "360造车有了新进展。360已开启汽车团队组建，团队成员涉及感知融合算法、软件架构、信息安全、智能驾驶开发等。据悉，此次招募并不排除有早期加入公司的核心员工和高管转岗汽车业务线。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1134829.htm",
+          "publishedOn": "2021-05-31T12:37:55.000Z",
+          "wordCount": 203,
+          "title": "360造车新进展：组建汽车团队 涉及智能驾驶和感知融合等"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1134827.htm",
+          "author": "maomao",
+          "description": "据报道，微软正在开发当前Surface Duo的继任者，最近的一项专利可能让我们了解到该设备的新功能。WindowsUnited发现了这项专利，该专利于2020年11月19日申请，2021年5月27日公布，标题是\"带支架的书本式可折叠平板电脑\"。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1134827.htm",
+          "publishedOn": "2021-05-31T12:37:24.000Z",
+          "wordCount": 207,
+          "title": "微软新专利显示下一代Surface Duo可能有一个内置脚架"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1134825.htm",
+          "author": "ugmbbc",
+          "description": "还记得你当年考驾照的时候，教练车是什么车吗？“大众桑塔纳普桑、捷达、雪铁龙爱丽舍”，想必这也是不少老司机开上的第一辆车吧。不过，一些驾校可能出于宣传或者培养高端车型驾驶员的目的，直接用豪华车当起了教练车，看到这样的驾校，你有没羡慕呢？\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1134825.htm",
+          "publishedOn": "2021-05-31T12:29:03.000Z",
+          "wordCount": 196,
+          "title": "上海惊现一“土豪驾校” 教练车全是奔驰C级"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/science/1134823.htm",
+          "author": "ugmbbc",
+          "description": "“年轻”且保存完好的陨石坑有助于科学家了解地球上和太阳系其他地方的陨石坑形成过程。大多数在与地球大气层相遇后幸存下来的小行星最终都坠入水中，原因很简单，因为海洋覆盖了地球的70%。但是巨大的太空石块偶尔也会撞上陆地。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/science/1134823.htm",
+          "publishedOn": "2021-05-31T12:28:01.000Z",
+          "wordCount": 201,
+          "title": "天文学家从“年轻”且保存完好的亚利桑那州陨石坑中得到科学启示"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1134821.htm",
+          "author": "ugmbbc",
+          "description": "最近几个月，已经有很多Linux内核补丁用于提升Alder Lake S和Alder Lake P的支持度和性能表现，而最近开始，英特尔的开发人员已经在为Alder Lake M低功耗移动设备提供支持补丁。对Alder Lake M的Linux支持一直落后于ADL-S和ADL-P，但差距不大，在大多数情况下，ADL-M相当于增加了额外的PCI ID。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1134821.htm",
+          "publishedOn": "2021-05-31T12:17:03.000Z",
+          "wordCount": 250,
+          "title": "Linux 5.14 开始为Alder Lake M低功耗移动设备提供支持"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1134819.htm",
+          "author": "ugmbbc",
+          "description": "微软今天推出了首个亚太地区公共部门网络安全执行委员会，将来自政府和国家机构的政策制定者以及技术和行业领导者的联盟聚集在一起。文莱、印度尼西亚、韩国、马来西亚、菲律宾、新加坡和泰国的15位政策制定者将加入这个理事会。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1134819.htm",
+          "publishedOn": "2021-05-31T12:10:33.000Z",
+          "wordCount": 196,
+          "title": "微软成立亚太地区公共部门网络安全执行委员会以策协同应对网络攻击"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1134817.htm",
+          "author": "ugmbbc",
+          "description": "2021年618，天猫宣布20天狂补100亿。本次天猫618大促主要有2波爆发点，第一波是6.1日-6.3日开门红，第二波是6.16日-6.20日高潮爆发期，大家可以重点关注。5月31日，也就是今晚20点，天猫还将新增一场惊喜红包，面额5元起步，最高618元。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1134817.htm",
+          "publishedOn": "2021-05-31T12:08:22.000Z",
+          "wordCount": 201,
+          "title": "天猫6·18惊喜红包开抢：5元起步 最高618元"
+        },
+        {
+          "id": "https://url.cnbetacdn.com/WbwAHk",
+          "author": "ugmbbc",
+          "description": "618之际，阿里云推出年中大促活动，多款产品价格历史新低。大促活动已经于5月25日正式开启，从已开放的活动页面来看，整场大促活动由优惠券礼包限时领和爆品每日限量秒杀组成。其中5月25日-5月31日，是618优惠券礼包限时领取，有满200减20，满300减30，满500减50，满1000减100四种优惠券。\n 阅读全文",
+          "link": "https://url.cnbetacdn.com/WbwAHk",
+          "publishedOn": "2021-05-31T11:57:54.000Z",
+          "wordCount": 2,
+          "title": "阿里云开启6·18年中大促 全线产品减至历史新低"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1134813.htm",
+          "author": "ugmbbc",
+          "description": "当前，汽车智能化已经是行业趋势，并且汽车开关门的方式，也有机械式逐渐过渡到电子式，只不过相较于机械式，电子车门一旦发生故障后，甚至还会发生人员被困车内的险情。而深圳市的特斯拉Model 3车主文先生，就遭遇了这样惊魂一幕。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1134813.htm",
+          "publishedOn": "2021-05-31T11:55:56.000Z",
+          "wordCount": 203,
+          "title": "全车断电车主被困车内险窒息 特斯拉回应：电池断电所致"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1134811.htm",
+          "author": "ugmbbc",
+          "description": "英特尔正继续用特别的方式“敲打”苹果不要放弃他们，以基于英特尔的MacBook Pro的游戏性能更佳作为论点，试图证明基于Windows的英特尔核心产品比苹果的产品更好。苹果正在进行为期两年的过渡，未来可能不再使用英特尔处理器，而是在Mac中使用自己的Apple Silicon芯片，其最初发布的M1很容易证明苹果正在做正确的事情。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1134811.htm",
+          "publishedOn": "2021-05-31T11:52:29.000Z",
+          "wordCount": 236,
+          "title": "英特尔以多种奇怪的方式为其产品被M1 MacBook Pro的性能反超辩解"
+        },
         {
           "id": "https://www.cnbeta.com/articles/tech/1134809.htm",
           "author": "ugmbbc",
