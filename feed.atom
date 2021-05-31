@@ -2,10 +2,43 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://lvytwjw.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-05-31T09:50:47.528Z</updated>
+    <updated>2021-05-31T10:42:49.575Z</updated>
     <generator>osmosfeed 1.9.0</generator>
     <link rel="alternate" href="https://lvytwjw.github.io/rss/index.html"/>
     <link rel="self" href="https://lvytwjw.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Flashback系列：迈凯伦、阿斯顿·马丁和悍马的那些联名手机]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1134795.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1134795.htm"/>
+        <updated>2021-05-31T10:34:21.000Z</updated>
+        <summary type="html"><![CDATA[在智能化车载系统，以及 Android Auto/Apple CarPlay 推出之前，汽车和手机之间的交集并不太多。不过在历史上，不少知名汽车品牌都和手机品牌进行了联动，推出了限量版本。在外媒 GSMArena 的“Flashback”系列中，回顾了迈凯伦、阿斯顿·马丁和悍马的联名历史。
+ 阅读全文]]></summary>
+        <author>
+            <name>study875</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[国家卫健委：6月中下旬将集中接种第二剂次疫苗 新冠疫苗将收费是谣言]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1134793.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1134793.htm"/>
+        <updated>2021-05-31T09:54:43.000Z</updated>
+        <summary type="html"><![CDATA[5月31日消息，据央视新闻报道，国家卫健委在今天发布会上表示，6月10日至30日，将主要针对已接种过第一剂次疫苗的人群，集中开展第二剂次接种。同时，对疫情防控等有特殊需求的人群继续接种第一剂次疫苗。7月起，将继续全面推进第一剂次和第二剂次疫苗的接种。此外，新冠疫苗将收费是谣言。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[《最终幻想》制作人吉田直树：5G将终结家用游戏主机长久统治]]></title>
+        <id>https://hot.cnbeta.com/articles/game/1134791.htm</id>
+        <link href="https://hot.cnbeta.com/articles/game/1134791.htm"/>
+        <updated>2021-05-31T09:53:52.000Z</updated>
+        <summary type="html"><![CDATA[据外媒FT报道，《最终幻想》游戏的制作人，同时也是日本最著名的游戏制作人之一的吉田直树称，5G将终结家用游戏主机的长期统治的时代。吉田直树在一次采访中表示，“一旦5G成为全球通用标准，那么可以想象，在不久的未来，我们就可以将图像传输到任何设备上，玩家可以在任何设备上享受高质量的游戏体验，不受游戏硬件的束缚。”
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[LG从今天起停止生产手机 越南工厂将转型家电产品制造]]></title>
         <id>https://www.cnbeta.com/articles/tech/1134789.htm</id>
