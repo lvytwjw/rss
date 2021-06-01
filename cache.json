@@ -434,6 +434,20 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2021/06/currency-convertor-exchangeratesapi/",
+          "author": "hello@smashingmagazine.com (Leonardo Losoviz)",
+          "description": "Amazon allows visitors to display prices in their own currency. Thanks to [ExchangeRatesApi.io](https://exchangeratesapi.io/?utm_source=SmashingMagazine&utm_medium=ThirdParties&utm_content=Article-exchangerateapi), we can do the same for our online shops, providing a better experience to our customers. Let’s find out how.",
+          "link": "https://smashingmagazine.com/2021/06/currency-convertor-exchangeratesapi/",
+          "publishedOn": "2021-06-01T09:00:00.000Z",
+          "wordCount": 1354,
+          "title": "Setting Up A Currency Convertor With ExchangeRatesApi.io",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/3ce4b3b1-3ae6-4371-8aaf-d72da3b69fc5/4-exchange-rate-api-bsa.png",
+            "length": "0",
+            "type": "image/png"
+          }
+        },
+        {
           "id": "https://smashingmagazine.com/2021/05/desktop-wallpaper-calendars-june-2021/",
           "author": "hello@smashingmagazine.com (Cosima Mielke)",
           "description": "What could be a better way to welcome June than with some colorful inspiration? Well, we might have something for you: wallpapers created with love by artists and designers from across the globe.",
@@ -1003,6 +1017,150 @@
       "feedUrl": "https://www.cnbeta.com/backend.php",
       "siteUrl": "https://www.cnbeta.com",
       "articles": [
+        {
+          "id": "https://hot.cnbeta.com/articles/game/1135249.htm",
+          "author": "ugmbbc",
+          "description": "弗吉尼亚州黎巴嫩8岁男孩布莱森·克莱曼（Bryson Sliemann）先前在路边摆摊，要卖掉自己珍爱的宝可梦卡片，来治疗自己心爱的狗狗。这只狗换上了急性细小病，而治疗费用对于他们家的情况而言是一笔不小的开下，因此他决定忍痛割爱来拯救狗狗。\n 阅读全文",
+          "link": "https://hot.cnbeta.com/articles/game/1135249.htm",
+          "publishedOn": "2021-06-01T10:45:48.000Z",
+          "wordCount": 186,
+          "title": "小男孩卖宝可梦卡救爱犬后续：网友为其众筹获5千美金 还收到宝可梦员工神秘礼物"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1135247.htm",
+          "author": "ugmbbc",
+          "description": "无数消费者守着6月1日0点，涌入天猫抢购心水好物，生怕手慢就被秒光了。据不完全统计，在1小时内，1700多家品牌成交额超过去年同期的全天。“去年一整天，今年只要一小时，爆发力相当可以”，一家品牌商负责人感慨。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1135247.htm",
+          "publishedOn": "2021-06-01T10:40:12.000Z",
+          "wordCount": 205,
+          "title": "天猫6·18开门红 1700多个品牌1小时成交额超去年同期1天"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1135245.htm",
+          "author": "ugmbbc",
+          "description": "6月1日，新修订的《中华人民共和国未成年人保护法》正式施行，新增设的“网络保护专章”受到关注。该专章明确规定：网络游戏、网络直播、网络音视频、网络社交等网络服务提供者，应当针对未成年人使用其服务设置相应的时间管理、权限管理、消费管理等功能。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1135245.htm",
+          "publishedOn": "2021-06-01T10:38:09.000Z",
+          "wordCount": 188,
+          "title": "新修订《未成年人保护法》开始实施：“青少年模式”成标配 家长为何很少用？"
+        },
+        {
+          "id": "https://hot.cnbeta.com/articles/movie/1135243.htm",
+          "author": "ugmbbc",
+          "description": "美国当地时间6月3日，世界唯一的《哈利波特》旗舰店将于纽约开张，今日路透社率先带来了最新探馆演示，一起来跟随镜头抢先猎奇秘境吧。《哈利·波特》是英国作家J·K·罗琳（J. K. Rowling）于1997～2007年所著的魔幻文学系列小说，共7部。\n 阅读全文",
+          "link": "https://hot.cnbeta.com/articles/movie/1135243.htm",
+          "publishedOn": "2021-06-01T10:31:18.000Z",
+          "wordCount": 187,
+          "title": "哈利波特世界唯一纽约旗舰店6月3日开张 最新探馆猎奇"
+        },
+        {
+          "id": "https://hot.cnbeta.com/articles/game/1135241.htm",
+          "author": "ugmbbc",
+          "description": "目前现以下线的外国盗版游戏网站RomUniverse于2019年8月收到了任天堂起诉。现在，加利福尼亚州联邦法院裁定，网站所有者——一位洛杉矶居民，上传分发盗版任天堂游戏，并通过收取订阅费用从中获利，需赔偿任天堂210万美元的潜在损失。\n 阅读全文",
+          "link": "https://hot.cnbeta.com/articles/game/1135241.htm",
+          "publishedOn": "2021-06-01T10:30:50.000Z",
+          "wordCount": 196,
+          "title": "任天堂在与盗版游戏网站官司中获胜 获赔210万美金"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1135239.htm",
+          "author": "ugmbbc",
+          "description": "当前，五菱宏光MINI EV已经成为了全国销量第一高的车型，并且力压特斯拉Model 3，不过五菱宏光MINI EV的销量神话，在上海地区可能就要划上“休止符”。此前，有媒体报道，上海将对10万元以下或者车长低于4.6米的新能源车型进行限制，新购买的A0级电动汽车，无法申领上海市针对新能源汽车免费提供的专用牌照。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1135239.htm",
+          "publishedOn": "2021-06-01T09:56:17.000Z",
+          "wordCount": 202,
+          "title": "五菱造出宏光MINI EV加长版 实车曝光"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1135237.htm",
+          "author": "ugmbbc",
+          "description": "在ARMv8.x沿用10年后，今年3月，ARM推出了v9 64位指令集，前不久，基于v9的新一代公版CPU架构超大核Cortex-X2、大核Cortex-A710、小核Cortex-A510发布。在今天（6月1日）的台北电脑展活动中，ARM CEO Simon Segars透露，联发科将在年底首发ARM v9指令集产品。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1135237.htm",
+          "publishedOn": "2021-06-01T09:55:40.000Z",
+          "wordCount": 203,
+          "title": "ARM CEO：联发科年底将首发v9 64位指令集芯片"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1135235.htm",
+          "author": "ugmbbc",
+          "description": "去年随着骁龙865的力推，Wi-Fi 6快速普及，目前一两百块的无线路由都已支持Wi-Fi 6了。再往下就是Wi-Fi 7，高通、博通、联发科三大厂商已经在研发相关芯片，但问世还需要2-3年。据媒体报道，高通副总裁Rahul Patel指出，高通在WiFi6产品线过去两年已经有成熟的生产，包括手机、PC、路由器，产品线很广，WiFi6E则是自去年下半年已经生产。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1135235.htm",
+          "publishedOn": "2021-06-01T09:55:17.000Z",
+          "wordCount": 208,
+          "title": "高通、博通、联发科已开始研发Wi-Fi 7芯片 问世还需2-3年"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1135233.htm",
+          "author": "ugmbbc",
+          "description": "5月，因多家美国航空公司高管的积极陈述吸引资金流入航空板块，美股航空股表现优于运输板块以及大盘。航空ETF （U.S． Global Jets ETF， JETS.US）涨幅近3%，琼斯交通运输平均指数（．DJT.US）涨约2.6%，标普500指数仅上涨0.66%。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1135233.htm",
+          "publishedOn": "2021-06-01T09:49:28.000Z",
+          "wordCount": 199,
+          "title": "美国航空业复苏速度低于预期 分析师：预计明年航空公司将迎量价齐升"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1135231.htm",
+          "author": "ugmbbc",
+          "description": "6月1日，国家市场监督管理总局以“强化校外培训机构市场监管”为主题举办专题新闻发布会。  \n\n市场监管总局新闻宣传司新闻宣传处处长唐冀平：\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1135231.htm",
+          "publishedOn": "2021-06-01T09:47:41.000Z",
+          "wordCount": 188,
+          "title": "市场监管总局：对校外培训机构的行政处罚决定 更是规范整改的起点"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1135229.htm",
+          "author": "ugmbbc",
+          "description": "日本政府将为芯片代工商台积电位于日本的芯片研发中心提供一半的资金，该研发中心将耗资约370亿日元（约合3.4亿美元），预计将于2022年正式启动。自2020年下半年以来，芯片短缺问题就成为半导体行业的主旋律。如今，该问题已影响到包括汽车、手机、游戏机、PC在内的产业。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1135229.htm",
+          "publishedOn": "2021-06-01T09:44:28.000Z",
+          "wordCount": 188,
+          "title": "日本政府将为台积电在日芯片研发中心提供一半资金"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1135227.htm",
+          "author": "ugmbbc",
+          "description": "黑客又盯上了“新猎物”。成功勒索美国最大燃油管道运营商Colonial后，黑客又攻击了全球最大的肉类供应商JBS。当地时间5月31日，JBS向外界表示，公司服务器遭到黑客有组织的攻击，受影响的系统包括美国分部和澳大利亚分部，部分工厂暂停作业。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1135227.htm",
+          "publishedOn": "2021-06-01T09:32:27.000Z",
+          "wordCount": 192,
+          "title": "全球最大肉类供应商遭黑客攻击导致多地暂停作业 又是勒索？"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1135225.htm",
+          "author": "ugmbbc",
+          "description": "北京市教育委员会关于检查校外培训机构发现问题的通报\n6月1日，市教委印发《北京市教育委员会关于检查校外培训机构发现问题的通报》（京教函[2021]267号）。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1135225.htm",
+          "publishedOn": "2021-06-01T09:26:05.000Z",
+          "wordCount": 188,
+          "title": "北京又有19家校外培训机构违规被通报 学而思一校区在列"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1135223.htm",
+          "author": "study875",
+          "description": "援引外媒 91Mobile 报道，一款带旋转自拍摄像头的小米手机专利获批。该专利于 2020 年 11 月提交，本周被中国国家知识产权局公示收录。这款手机最大的亮点在于旋转自拍相机，有个半圆形的相机模块，可从顶部框架旋转180度。从图片来看模块正面应该配备双摄像头。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1135223.htm",
+          "publishedOn": "2021-06-01T09:23:14.000Z",
+          "wordCount": 195,
+          "title": "[图]小米新手机专利曝光：配半圆形旋转自拍摄像头模块"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1135221.htm",
+          "author": "ugmbbc",
+          "description": "微软商城的618大促活动已经拉开序幕，在价格优惠活动之上，3号之前有机会获赠官方定制电脑桌垫、官方定制内胆包、下单序号逢8的倍数赠价值50元猫眼电子券、9号之前叠享24期免息、12号有首单幸运礼等。其它优惠还有30天价保（不含翻新机）、长辈优惠（55岁及以上消费者购指定认证翻新Surface 享9.5折）等。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1135221.htm",
+          "publishedOn": "2021-06-01T09:13:19.000Z",
+          "wordCount": 902,
+          "title": "1099元起：国行Surface 6·18大促全线放价"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/science/1135219.htm",
+          "author": "ugmbbc",
+          "description": "据美国国立卫生研究院（NIH）的科学家及其合作者称，蚊子蛋白AEG12能强烈抑制引起黄热病、登革热、西尼罗河和寨卡的病毒家族，但对冠状病毒的抑制作用较弱。研究人员发现，AEG12通过破坏病毒包膜的稳定性来发挥作用，打破其保护层。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/science/1135219.htm",
+          "publishedOn": "2021-06-01T09:10:53.000Z",
+          "wordCount": 185,
+          "title": "对蚊虫体内蛋白质的研究可能带来对抗病毒的全新模式"
+        },
         {
           "id": "https://www.cnbeta.com/articles/tech/1135217.htm",
           "author": "teikaei",
