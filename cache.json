@@ -1018,6 +1018,141 @@
       "siteUrl": "https://www.cnbeta.com",
       "articles": [
         {
+          "id": "https://www.cnbeta.com/articles/science/1135279.htm",
+          "author": "ugmbbc",
+          "description": "与你的年龄相比，你的大脑有多老？根据发表在《阿尔茨海默氏症与痴呆症》上的研究结果，拉什大学医学中心的研究人员开发的一种新的大脑健康测量方法可能为识别有记忆和思维问题风险的个人提供一种新的方法。研究结果于2021年6月1日发表在《阿尔茨海默氏症与痴呆症：阿尔茨海默氏症协会杂志》。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/science/1135279.htm",
+          "publishedOn": "2021-06-01T11:39:04.000Z",
+          "wordCount": 183,
+          "title": "\"认知时钟\"--研究人员开发出衡量大脑健康的新方法"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1135277.htm",
+          "author": "ugmbbc",
+          "description": "一位泄密者称，新的MacBook Pro将在下周WWDC 2021的主旨演讲中发布。在苹果的开发者大会期间发布硬件消息，这虽然少见，但也并不罕见。揭开新MacBook Pro的面纱有几个原因。首先，2021年的升级已经备受期待，因为据说苹果计划在这一年对Mac产品线进行大规模重新设计。其次，许多专业人士使用MacBook Pro进行工作，包括参加WWDC会议开发者。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1135277.htm",
+          "publishedOn": "2021-06-01T11:31:28.000Z",
+          "wordCount": 216,
+          "title": "全新的MacBook Pro可能要到今年晚些时候才推出"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1135275.htm",
+          "author": "ugmbbc",
+          "description": "工程机械中，挖掘机是重要组成部分，央视报道称，全球权威调研机构Off-Highway Research的数据显示，2020年，三一重工挖掘机销量98705台，占据全球15%的份额，首次夺得销量冠军。排在三一之后的是美国最大的重工厂商卡特彼勒（CAT），销量为7.5万台，再之后还有日立（加上塔塔和迪尔）、久保田、徐工、沃尔沃+山东临工等，但销量均在5万台左右。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1135275.htm",
+          "publishedOn": "2021-06-01T11:07:40.000Z",
+          "wordCount": 183,
+          "title": "中国挖掘机首夺全球销量冠军：三一重工力压卡特彼勒、日立、沃尔沃"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1135273.htm",
+          "author": "ugmbbc",
+          "description": "此前，有媒体报道，上海将对10万元以下或者车长低于4.6米的新能源车型进行限制，新购买的A0级电动汽车，无法申领上海市针对新能源汽车免费提供的专用牌照。目前，上海市的“新能源牌照新政“还没有正式出台，但当地车管所，已经对不少受影响的A0级新能源汽车暂停上牌，而且宏光MINI EV在4S店处于停售状态。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1135273.htm",
+          "publishedOn": "2021-06-01T11:07:22.000Z",
+          "wordCount": 201,
+          "title": "五菱回应称“宏光MINI EV超级加长版”是车主自己改装的"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1135271.htm",
+          "author": "ugmbbc",
+          "description": "根据Canalys的新研究，第一季度西欧的PC出货量达到1610万台，同比增长48%。分析师说，尽管组件短缺，实现在家工作对个人电脑的需求量很高，但供应链的状况反而比2020年第一季度好，当时的COVID-19大流行带来的全球禁足令几乎使世界上的一切突然停滞。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1135271.htm",
+          "publishedOn": "2021-06-01T11:05:48.000Z",
+          "wordCount": 187,
+          "title": "Canalys数据表明元件短缺实际上并未减缓西欧PC出货增长速度"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1135269.htm",
+          "author": "ugmbbc",
+          "description": "今年早些时候，Raspberry Pi基金会宣布推出4美元的Raspberry Pi Pico和RP2040微控制器用于嵌入式开发。现在，RP2040芯片正在通过他们的经销商以仅1美元的价格出售，供那些想用这种树莓派芯片构建自己的电子产品的人使用。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1135269.htm",
+          "publishedOn": "2021-06-01T11:01:50.000Z",
+          "wordCount": 199,
+          "title": "Raspberry Pi开售RP2040微控制器芯片 售价1美元"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1135267.htm",
+          "author": "ugmbbc",
+          "description": "教育部6月1日召开新闻发布会。会上发布的《未成年人学校保护规定》指出，为保护学生隐私和自尊心，减少攀比、避免歧视，缓解应试压力，禁止学校、教师公开学生的考试成绩和排名，但是要求学校采取措施，便利家长知道学生的成绩等学业信息。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1135267.htm",
+          "publishedOn": "2021-06-01T10:59:20.000Z",
+          "wordCount": 185,
+          "title": "教育部：学校和教师不得公开学生考试成绩排名"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1135265.htm",
+          "author": "ugmbbc",
+          "description": "据InsideEVs报道，博主Jason Yang发布了一段航拍视频，视频记录了从2019年1月到2021年5月27日之间特斯拉上海工厂的外貌变化。视频中，这一片土地的面貌可谓是日新月异。从2019年1月开建到2019年11月实车下线，再从2020年1月开始扩建到2021年5月27日厂区面积扩展了至少一倍，建厂速度之快令人惊叹，体现了中国对于引入特斯拉、加深相关领域合作的决心。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1135265.htm",
+          "publishedOn": "2021-06-01T10:57:35.000Z",
+          "wordCount": 220,
+          "title": "特斯拉在华建厂这两年：厂区面积增数倍 Model 3年产达25万辆"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1135263.htm",
+          "author": "ugmbbc",
+          "description": "抽烟有害健康，这时候戒烟神器、无害蒸汽、没有二手烟、健康烟... ...的广告铺天盖地。近些年来，电子烟不仅受到成年烟民的追捧，可怕的是居然也受到了青少年群体的青睐。中国疾病预防控制中心发布的调查显示，初中学生卷烟使用率明显下降，但电子烟使用率显著上升。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1135263.htm",
+          "publishedOn": "2021-06-01T10:53:53.000Z",
+          "wordCount": 204,
+          "title": "当电子烟的“魔爪”伸向了小学生"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1135261.htm",
+          "author": "ugmbbc",
+          "description": "5月份以来，我国南方连续多次发生强降雨过程，而从今天（1日）开始我国又将进入主汛期。水利部介绍，受到今天（1日）至4日南方地区新一轮强降雨过程影响，湖南湘江、江西信江、福建建溪和富屯溪、广西桂江等河流可能发生超警洪水，暴雨区内部分中小河流可能发生较大洪水。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1135261.htm",
+          "publishedOn": "2021-06-01T10:52:36.000Z",
+          "wordCount": 187,
+          "title": "水利部：6月1日起我国将进入主汛期 南方多河流或将超警"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1135259.htm",
+          "author": "ugmbbc",
+          "description": "6月1日下午消息，可口可乐中国宣布首次推出含酒精饮料托帕客。据了解，托帕客（Topo Chico）是一款硬苏打气泡酒，既是可口可乐在中国的尝试，也是其推进“全品类饮料”战略的重要一环。资料显示，早在2017年，可口可乐公司收购了诞生于1895年的墨西哥气泡水品牌托帕客（Topo Chico），拓展气泡水业务。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1135259.htm",
+          "publishedOn": "2021-06-01T10:51:31.000Z",
+          "wordCount": 189,
+          "title": "可口可乐中国开售首款苏打酒精饮料“托帕客”"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1135257.htm",
+          "author": "LonelyJames",
+          "description": "在1日召开的2021北京智源大会上，北京智源人工智能研究院发布了新版超大规模智能模型“悟道2.0”，这是在今年3月20日发布的“悟道1.0”基础上更新迭代而来，具备大规模、高精度、高效率的特点。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1135257.htm",
+          "publishedOn": "2021-06-01T10:50:46.000Z",
+          "wordCount": 191,
+          "title": "超大规模智能模型“悟道2.0”发布 参数规模达GPT-3的10倍"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1135255.htm",
+          "author": "ugmbbc",
+          "description": "6月1日，ThinkBook夏季新品发布会在北京正式举办，联想ThinkBook首席产品官周秋昊、联想ThinkBook首席市场官周宝瑄、ThinkBook代言人王源联合发布了4款ThinkBook笔记本。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1135255.htm",
+          "publishedOn": "2021-06-01T10:50:19.000Z",
+          "wordCount": 225,
+          "title": "ThinkBook 14p/16p笔记本发布：满血性能 售价4999/8499元起"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1135253.htm",
+          "author": "ugmbbc",
+          "description": "除了主打满血性能的ThinkBook 14p/16p笔记本之外，联想这次还推出了ThinkBook 13x及ThinkBook Plus 2两款笔记本，前者主打轻薄，后者是墨水屏双屏笔记本，主打生产力应用。ThinkBook 13x采用了双色对撞外观设计，上色工艺从原本的5道升级为8道。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1135253.htm",
+          "publishedOn": "2021-06-01T10:49:45.000Z",
+          "wordCount": 212,
+          "title": "墨水屏双屏笔记本ThinkBook Plus 2发布：无线充电版10999元"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1135251.htm",
+          "author": "ugmbbc",
+          "description": "“有汇源才叫过年”这句广告语曾伴随着许多80、90后的成长历程，但如今一代人的“童年记忆”即将消失。2021年1月18日，香港联交所发布通告称，中国汇源果汁集团有限公司将退市。6月1日，北京破产法庭发布公告称，为尽快推动北京汇源食品饮料有限公司（以下简称“汇源食品”）重整工作，最大限度地保护债权人、债务人和其他各方当事人的合法权益。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1135251.htm",
+          "publishedOn": "2021-06-01T10:49:15.000Z",
+          "wordCount": 188,
+          "title": "汇源果汁运营方宣布破产重整：要求投资人不低于10亿资产"
+        },
+        {
           "id": "https://hot.cnbeta.com/articles/game/1135249.htm",
           "author": "ugmbbc",
           "description": "弗吉尼亚州黎巴嫩8岁男孩布莱森·克莱曼（Bryson Sliemann）先前在路边摆摊，要卖掉自己珍爱的宝可梦卡片，来治疗自己心爱的狗狗。这只狗换上了急性细小病，而治疗费用对于他们家的情况而言是一笔不小的开下，因此他决定忍痛割爱来拯救狗狗。\n 阅读全文",
