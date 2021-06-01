@@ -6,6 +6,15 @@
       "siteUrl": "https://github.com/osmoscraft/osmosfeed/releases",
       "articles": [
         {
+          "id": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.10.2",
+          "author": null,
+          "description": "Added: testing and CI/CD workflows",
+          "link": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.10.2",
+          "publishedOn": "2021-06-01T04:39:30.000Z",
+          "wordCount": 268,
+          "title": "v1.10.2"
+        },
+        {
           "id": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.9.0",
           "author": null,
           "description": "Added: experimental support for iTunes podcast feed: Demo | Source. With this new release, you can render an audio control to play the mp3 file and display iTunes episode duration. It is \"experimental\" due to these caveats:\n\nThis feature is currently only available through custom template.\niTunes has no strict format requirement for duration. The unit is most likely seconds but can be \"hh:mm:ss\" or \"mm:ss\" for some sources. A future version may expose a human readable string to the template.\nNo image support yet. Some shows might have disabled CORS or use a relative URL for image, which forces osmosfeed to download the image during build. A future version may support it.\nYou can't republish the podcast in the feed output. Supporting this goes beyond the scope of the project at the moment.\nFixed: the articles in template data were not sorted.\nThank you @Zenigata",
@@ -700,6 +709,15 @@
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
         {
+          "id": "607f5fafdd38b9088c2bd0c9",
+          "author": null,
+          "description": "When you're debating someone, you want to use all the resources at your disposal to convince them you're right. But you should be careful that you don't end up using a logical fallacy to help you make your point. What is a Logical Fallacy?A logical fallacy is an error",
+          "link": "https://www.freecodecamp.org/news/logical-fallacies-definition-fallacy-examples/",
+          "publishedOn": "2021-06-01T04:19:48.000Z",
+          "wordCount": 6170,
+          "title": "Logical Fallacies – Definition and Fallacy Examples"
+        },
+        {
           "id": "60acf28e11ffb70827ef6dd9",
           "author": null,
           "description": "Hey everyone, my name is Santosh. In this article, I will tell you how I ramped up my career and ended up making $100,000 a year as a developer.  I'll share what I learned from each job along the way, how you can stand out, tips for negotiating salary,",
@@ -985,6 +1003,537 @@
       "feedUrl": "https://www.cnbeta.com/backend.php",
       "siteUrl": "https://www.cnbeta.com",
       "articles": [
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1135103.htm",
+          "author": "raymon725",
+          "description": "在 OEM 市场销售了个把月后，AMD 终于迎合广大 DIY 爱好者的呼声，宣布了面向这一细分市场的锐龙 R7-5700G 和 R5-5600G 台式 APU 。据悉，Cezanne 系列锐龙 5000G 台式 APU 将于 8 月 5 日正式进入 DIY 市场。对于想要构建一套高性价比平台、但又苦于没有价格合理的显卡来过渡的 PC 玩家来说，这可谓是一场及时雨。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1135103.htm",
+          "publishedOn": "2021-06-01T04:15:48.000Z",
+          "wordCount": 363,
+          "title": "AMD宣布锐龙R7-5700G和R5-5600G台式APU将于8月登陆DIY市场"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1135101.htm",
+          "author": "raymon725",
+          "description": "上周，Realme 宣布了 TechLife 科技生活生态系统的子品牌 Dizo 。近日，一些基于 Dizo 品牌的新硬件也在网络上被曝光，其中就包括了智能手表和真无线耳机。对于熟悉 Realme AIoT 硬件产品线的朋友们来说，一眼就可以看出它们和 Realme 主品牌之间的关系。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1135101.htm",
+          "publishedOn": "2021-06-01T03:53:54.000Z",
+          "wordCount": 244,
+          "title": "Dizo智能手表和真无线耳机新品曝光 几乎就是Realme换个名"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1135099.htm",
+          "author": "teikaei",
+          "description": "据外媒报道，网球明星大阪直美(Naomi Osaka)以心理健康问题为由退出法网。此前，她曾因拒绝参加赛后新闻发布会而被罚款1.5万美元并受到驱逐的威胁。她在一份声明中写道:“我认为现在对锦标赛、对其他选手以及对我自己来说最好的事情就是退出，这样所有人都可以把精力集中在巴黎的网球比赛上。”\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1135099.htm",
+          "publishedOn": "2021-06-01T03:46:10.000Z",
+          "wordCount": 195,
+          "title": "因心理健康问题 大阪直美宣布退出法网"
+        },
+        {
+          "id": "https://hot.cnbeta.com/articles/game/1135097.htm",
+          "author": "raymon725",
+          "description": "CDPR 刚刚公布了截止 2021 年 3 月 31 日的季度财报，对于这家波兰开发商来说，相关数字实在是让人感到沮丧。首先，受《赛博朋克 2077》优化不力和《巫师 3》销售放缓的影响，该公司利润同比下降了 65% 。其次，CDPR 提供了一些有关《赛博朋克 2077》将于何时重返索尼 PlayStation 商店的最新消息。\n 阅读全文",
+          "link": "https://hot.cnbeta.com/articles/game/1135097.htm",
+          "publishedOn": "2021-06-01T03:42:52.000Z",
+          "wordCount": 266,
+          "title": "CDPR今年1季度利润同比下降65%《赛博朋克2077》重返PS商店仍需时日"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1135095.htm",
+          "author": "study875",
+          "description": "游族网络发布公告称，近日获悉公司原控股股东林奇先生名下的公司部分股份被证券冻结。林奇本次被冻结股份数量为 1080 万股，占其所持股份比例的 4.92%， 占公司总股本比例为 1.18%。 股份冻结原因为证券冻结，执行机关为北京金融法院。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1135095.htm",
+          "publishedOn": "2021-06-01T03:42:09.000Z",
+          "wordCount": 197,
+          "title": "游族网络：原实控人林奇名下部分股份被证券冻结"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1135093.htm",
+          "author": "study875",
+          "description": "近期日本疫情形势严峻，居家不出已经是更多日本人的不二选择，而日媒5月31日发表的最新评论显示，这或许也成为了日本漫画盗版近期达史上最恶状态的助因。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1135093.htm",
+          "publishedOn": "2021-06-01T03:41:01.000Z",
+          "wordCount": 195,
+          "title": "日本漫画盗版达史上最恶状态 或因疫情居家不出导致"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1135091.htm",
+          "author": "study875",
+          "description": "派大星正式单飞出道《海绵宝宝》的衍生动画剧《派大星秀 》（The Patrick Star Show） 发布预告，画风欢乐，并宣布 7 月开播。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1135091.htm",
+          "publishedOn": "2021-06-01T03:40:09.000Z",
+          "wordCount": 202,
+          "title": "海绵宝宝衍生动画《派大星秀》曝预告 派大星单飞全家出镜"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1135089.htm",
+          "author": "study875",
+          "description": "根据法国 Xbox Wire 博客上发表的一篇文章，杜比全景声和杜比视界将在未来两年内保持为 Xbox 主机平台的独占功能。自 2020 年 11 月发布以来 ，Xbox Series X | S 就充分利用了杜比全景声 (Dolby Atmos) 的 3D 音频功能。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1135089.htm",
+          "publishedOn": "2021-06-01T03:38:58.000Z",
+          "wordCount": 241,
+          "title": "杜比全景声和视界将为Xbox主机限时独占 为其两年"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1135087.htm",
+          "author": "study875",
+          "description": "2021 年 5 月 31 日，中共中央政治局召开会议，决定进一步优化生育政策，实施一对夫妻可以生育三个子女政策及配套支持措施。我认为，虽然三孩政策相比二孩政策是一个进步，但其实应该直接全面放开并鼓励生育，而不是仅仅放开三孩，因为中国的生育率已经远远低于更替水平了，其他国家例如日本在比中国现在的生育率还要高的时候，早已出台鼓励生育的政策。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1135087.htm",
+          "publishedOn": "2021-06-01T03:37:16.000Z",
+          "wordCount": 216,
+          "title": "梁建章解读三胎新政 新政预示生育政策的彻底逆转"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1135085.htm",
+          "author": "study875",
+          "description": "有报道称微软正计划为 Windows 10 系统开发统一的电子邮件客户端，从而替代现有的 Mail and Calendar 应用程序。这个新客户端基于 Outlook 网页应用，内部开发代号为 Monarch，其用户界面是为所有平台设计的。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1135085.htm",
+          "publishedOn": "2021-06-01T03:36:23.000Z",
+          "wordCount": 224,
+          "title": "微软欲打造统一的电子邮件客户端：新版Outlook截图已曝光"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1135083.htm",
+          "author": "ugmbbc",
+          "description": "前几天，ZEALER联合创始人@科技小辛声称自己在快手网红“二驴夫妻”直播间购买了山寨机，此事引发了广泛关注，随后快手也在第一时间介入调查。经调查后，快手表示与涉事朵唯授权经销商交涉后，确认该产品为朵唯产品并存在质量问题，宣布快手电商将永久清退朵唯所有产品，涉事企业永不合作。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1135083.htm",
+          "publishedOn": "2021-06-01T03:27:23.000Z",
+          "wordCount": 190,
+          "title": "网红带货山寨机后续：快手下架朵唯、索爱、柔宇等12手机品牌"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1135081.htm",
+          "author": "raymon725",
+          "description": "今年 1 月，摩托罗拉推出了采用高通骁龙 678 4G SoC 的 2021 款 Moto G Stylus 智能机。奇怪的是，在正式发布前几天，我们又见到了后摄模组长得完全不一样的一组泄露渲染图。时隔数月，这个谜团终于被揭开 —— 因为它就是即将登陆美国市场的 2021 款 Moto G Stylus 5G 衍生版本。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1135081.htm",
+          "publishedOn": "2021-06-01T03:16:50.000Z",
+          "wordCount": 248,
+          "title": "2021款Moto G Stylus 5G智能机新渲染图曝光"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1135079.htm",
+          "author": "study875",
+          "description": "作为 NVIDIA 深度学习超级采样（DLSS）技术的回应，AMD 终于演示了将装备在 Radeon RX 6000 RDNA 2 GPU 上的 FidelityFX Super Resolution 技术。在针对 RNDA 2 架构进行优化的官方游戏《Godfall》中，AMD 重点展示了该技术在游戏中的强悍表现。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1135079.htm",
+          "publishedOn": "2021-06-01T03:15:09.000Z",
+          "wordCount": 281,
+          "title": "[图]回应NVIDIA DLSS：AMD演示FidelityFX超级分辨率技术"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1135077.htm",
+          "author": "vivian",
+          "description": "据外媒报道，部分由于采取了相当非传统的纯音频交流形式，Clubhouse自去年以来迅速成为社交媒体中最热门的名字之一。鉴于其受欢迎程度，一些人可能会惊讶地发现，这个社交网络仍然是一个排他性的“俱乐部”，需要其他成员首先邀请你才能进入。具有讽刺意味的是，即使在iOS之外，它的扩张也很缓慢。不过从今年夏天的某个时候开始，Clubhouse将不再是一个“独家俱乐部”。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1135077.htm",
+          "publishedOn": "2021-06-01T03:15:06.000Z",
+          "wordCount": 201,
+          "title": "社交音频应用Clubhouse将很快向公众全面开放"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/science/1135075.htm",
+          "author": "teikaei",
+          "description": "据外媒报道，在包括人类在内的许多物种中，负责生殖的细胞即生殖细胞通常是高度相互联系的并且共享各自的细胞质。在雌雄同体线虫秀丽隐杆线虫中，多达500个生殖细胞在性腺内相互连接。据悉，性腺是产生卵子和精子的组织。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/science/1135075.htm",
+          "publishedOn": "2021-06-01T03:10:04.000Z",
+          "wordCount": 187,
+          "title": "研究：细胞生死决定是机械性的，且跟组织液压有关"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1135073.htm",
+          "author": "raymon725",
+          "description": "WCCFTech 报道称，AMD 刚刚隆重推出了 Radeon RX 6000M 系列移动 GPU 产品线，适用于采用 RNDA 2 图形架构的游戏笔记本电脑。对于喜欢“3A 平台”的消费者们来说，AMD 锐龙 5000 系列移动 CPU 也终于有了自家的最新一代 Radeon RX 6000M 系列移动 GPU 加持。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1135073.htm",
+          "publishedOn": "2021-06-01T03:08:04.000Z",
+          "wordCount": 440,
+          "title": "AMD正式宣布Radeon RX 6000M系列RDNA 2移动显卡"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1135071.htm",
+          "author": "teikaei",
+          "description": "近些年，随着网络购物的兴起，人们能买到自己之前完全见不到的商品，其中还包括各种各样的动植物，爬行动物则是最为广泛的一类，包括乌龟、蜥蜴、蛇类等。但因为蛇类有许多都含有剧毒，此前曾多次发生网购毒蛇，而后却被毒蛇咬伤身亡的事故，因此多家电商平台已经将“活体蛇”全体下架，但依旧有许多商家违规偷偷售卖。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1135071.htm",
+          "publishedOn": "2021-06-01T03:00:58.000Z",
+          "wordCount": 199,
+          "title": "小伙网购“无毒”眼镜蛇：同床共枕被咬险丧命 卖家称发错货了"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1135069.htm",
+          "author": "vivian",
+          "description": "据外媒New Atlas报道，尼古拉·哥白尼具有里程碑意义的科学著作《天体运行论》（De Revolutionibus Orbium Coelestium）的第一版于5月25日在苏富比科学拍卖会上以277200英镑（391767美元）的价格成交。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1135069.htm",
+          "publishedOn": "2021-06-01T02:58:47.000Z",
+          "wordCount": 204,
+          "title": "尼古拉·哥白尼的《天体运行论》第一版在拍卖会上被拍出"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1135067.htm",
+          "author": "study875",
+          "description": "AMD 今天官方确认，将会把 RDNA 2 GPU 架构引入到特斯拉的 Model S/X 自动驾驶汽车中。该架构主要为车载信息娱乐系统提供支持，提供强悍的计算性能。根据特斯拉官方表示，全新的车载系统将会基于 Tesla Gaming Arcade 平台。该平台配备分辨率为 2200*1300 的 17 英寸 Cinematic Display，还有为第二排乘客使用的副屏。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1135067.htm",
+          "publishedOn": "2021-06-01T02:55:43.000Z",
+          "wordCount": 297,
+          "title": "AMD确认将RDNA2 GPU引入特斯拉Model X/S 性能媲美PS5"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1135065.htm",
+          "author": "ugmbbc",
+          "description": "期盼已久的荣耀新一代数字系列旗舰终于要来了。今日，荣耀手机官方正式宣布，荣耀50系列将于6月16日在上海发布。本次，荣耀50系列号称“Vlog影像至美之作”，不难猜测，该系列主打卖点之一将是Vlog影像。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1135065.htm",
+          "publishedOn": "2021-06-01T02:55:10.000Z",
+          "wordCount": 196,
+          "title": "荣耀50系列定档6月16日 首发骁龙778G"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1135063.htm",
+          "author": "teikaei",
+          "description": "6月1日消息，据媒体报道，中国将进一步优化生育政策，实施一对夫妻可以生育三个子女政策及配套支持措施。在该政策宣布之后，知名导演张艺谋妻子陈婷发微博表示：已提前完成任务。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1135063.htm",
+          "publishedOn": "2021-06-01T02:49:34.000Z",
+          "wordCount": 194,
+          "title": "三孩开放 罗永浩：未来愿意多生娃的都是英雄母亲 向梁建章致敬"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/science/1135061.htm",
+          "author": "teikaei",
+          "description": "作为阿尔忒弥斯（Artemis）计划的一部分，NASA正计划于2023年底将其第一个移动机器人送往月球，以寻找月球表面和表面之下的冰和其他资源。来自极地探索月球漫游车（Volatiles Investigating Polar Exploration Rover，简称VIPER）的数据将帮助NASA绘制月球南极的资源图，这些资源有朝一日可用于人类在月球的长期探索。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/science/1135061.htm",
+          "publishedOn": "2021-06-01T02:47:16.000Z",
+          "wordCount": 195,
+          "title": "NASA漫游车将在月球上寻找水和其他资源"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1135059.htm",
+          "author": "teikaei",
+          "description": "国家市场监管总局6月1日召开新闻发布会，强化校外培训机构市场监管。市场监管总局价监竞争局局长袁喜禄介绍，总局组织地方市场监管部门迅速组建专案组，在5月初对“作业帮”“猿辅导”两家机构开展检查的基础上，对新东方、学而思、精锐教育、掌门1对1、华尔街英语、哒哒英语、卓越、威学、明师、思考乐、邦德、蓝天、纳思等13家校外培训机构重点检查。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1135059.htm",
+          "publishedOn": "2021-06-01T02:45:59.000Z",
+          "wordCount": 193,
+          "title": "13家校外培训机构被监管部门处罚 15家校外培训机构被罚款3650万元"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1135057.htm",
+          "author": "ugmbbc",
+          "description": "特斯拉又降价了，不过这款车是为小朋友打造的。6月1日消息，特斯拉官方宣布推出儿童学步车限时福利，Model Y造型的学步车售价由原本的699元降为559.2元，活动时间为2021年6月1日至6月20日\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1135057.htm",
+          "publishedOn": "2021-06-01T02:44:46.000Z",
+          "wordCount": 205,
+          "title": "小朋友的第一辆特斯拉 Model Y儿童学步车限时福利"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/science/1135055.htm",
+          "author": "teikaei",
+          "description": "北京时间6月1日消息，据国外媒体报道，你有没有梦想过一夜暴富？从铅等廉价的金属中提炼出黄金似乎是一个很诱人的主意，这也是中世纪炼金术士们试图实现的目标。于是，他们设想了一种“贤者之石”，在西方炼金术中又被称为“万能药”，能赋予食用者永生不老和治愈所有疾病的能力，并带来数不清的财富。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/science/1135055.htm",
+          "publishedOn": "2021-06-01T02:44:38.000Z",
+          "wordCount": 189,
+          "title": "我们能把铅变成金子吗？能，但是有放射性"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1135053.htm",
+          "author": "vivian",
+          "description": "特斯拉向来“自带流量”。近日，关于特斯拉的新闻又让大家围观了起来。视听行业顾问格雷森·布鲁特（Grayson Brulte）在推特上发布了特斯拉Model Y 的照片，有人指出这辆车的车顶装上了激光雷达传感器。随后彭博社表示，加州机动车辆管理局确认被拍摄车辆上的制造商牌照属于特斯拉。特斯拉的其他车型也出现了同样的牌照，包括即将推出的Cybertruck原型车。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1135053.htm",
+          "publishedOn": "2021-06-01T02:43:37.000Z",
+          "wordCount": 235,
+          "title": "坚持不用激光雷达的马斯克图啥？"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1135051.htm",
+          "author": "raymon725",
+          "description": "Realme 旗下新增的 Dizo 子品牌，据说专注于 AIoT 的智能产品线，但它显然也没有放弃传统的功能手机市场。此外 GSM Arena 发现，该品牌的真无线耳机和智能手表也有望很快与大家见面。首先是 Dizo Star 500，这款直板功能机配备了较大的屏幕和实体按键，支持双卡 2G 移动网络，内置 1830 mAh 电池和一个 microSD 卡槽。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1135051.htm",
+          "publishedOn": "2021-06-01T02:41:15.000Z",
+          "wordCount": 281,
+          "title": "Dizo Star 500/300功能机已获FCC认证 无线耳机与智能手表亦推出在即"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/science/1135049.htm",
+          "author": "study875",
+          "description": "被假寡妇蜘蛛（学名：Steatoda nobilis，英语：Noble False Widow Spider） 咬伤之后，会对人体产生什么样的威胁？在过去几年中，蜘蛛专家和健康保健专家之间争论了很长时间。而来自爱尔兰国立大学（高威）的一支科学团队提供了新的证据，表明一些被咬伤的受害者的症状与真正的黑寡妇蜘蛛非常相似，一些严重的病例需要住院治疗。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/science/1135049.htm",
+          "publishedOn": "2021-06-01T02:40:59.000Z",
+          "wordCount": 196,
+          "title": "新研究表明假寡妇蜘蛛咬伤和黑寡妇相似 严重病例需要住院"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1135047.htm",
+          "author": "teikaei",
+          "description": "北京时间6月1日上午消息，特斯拉CEO埃隆·马斯克（Elon Musk）周一在Twitter上回应称，由于整个汽车行业的供应链压力，尤其是原材料的供应问题，特斯拉汽车的价格正在上涨。马斯克在Twitter上写道：“价格上涨是因为整个行业的主要供应链出现价格压力，尤其是原材料。”\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1135047.htm",
+          "publishedOn": "2021-06-01T02:39:38.000Z",
+          "wordCount": 197,
+          "title": "马斯克称因整个汽车行业供应链压力，特斯拉价格持续上涨"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/science/1135045.htm",
+          "author": "vivian",
+          "description": "北京时间6月1日消息，据国外媒体报道，尽管有很好的技术演示，但对于日益严峻的轨道垃圾处理问题，并没有一个万能的解决方案。一场太空时代的“共同悲剧”就在我们的眼皮之下悄然发生，或者确切地讲，就在我们的头顶之上正在进行着，然而研究人员对于如何阻止它，还没有达成共识。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/science/1135045.htm",
+          "publishedOn": "2021-06-01T02:38:44.000Z",
+          "wordCount": 188,
+          "title": "近地轨道变成太空垃圾场，有通用万能的清理方案吗？"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1135043.htm",
+          "author": "vivian",
+          "description": "当你打开抖音、快手、优酷、哔哩哔哩、斗鱼、腾讯视频等App，迎接你的除了开屏广告，通常还有设置“青少年模式”的弹窗——这一模式被赋予了一种“防火墙”的角色，其存在目的是为青少年健康成长营造良好的网络空间。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1135043.htm",
+          "publishedOn": "2021-06-01T02:37:41.000Z",
+          "wordCount": 197,
+          "title": "《未保法》落地：视频号“粗俗”仍存 拿什么去保护少年的你？"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1135041.htm",
+          "author": "vivian",
+          "description": "北京时间6月1日早间消息，据报道，土耳其第二大网络购物平台已经申请在纳斯达克上市，当前投资者对土耳其新兴的初创企业的兴趣正在不断增加。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1135041.htm",
+          "publishedOn": "2021-06-01T02:35:56.000Z",
+          "wordCount": 207,
+          "title": "土耳其第二大电子商务平台在纳斯达克申请IPO"
+        },
+        {
+          "id": "https://hot.cnbeta.com/articles/movie/1135039.htm",
+          "author": "vivian",
+          "description": "中国演出行业协会网络表演（直播）分会6月1日发出倡议，网络直播平台不为未满16周岁的未成年人提供网络直播服务，为已满16周岁未满18周岁的未成年人提供网络直播服务，征得其监护人书面同意；逐步建立安全可信的大额提醒、身份验证等防止未成年人冒用成年人账号充值打赏的技术保障措施。（记者白瀛）\n 阅读全文",
+          "link": "https://hot.cnbeta.com/articles/movie/1135039.htm",
+          "publishedOn": "2021-06-01T02:35:08.000Z",
+          "wordCount": 191,
+          "title": "中国演出行业协会倡议：不为未满16周岁未成年人提供网络直播服务"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1135037.htm",
+          "author": "ugmbbc",
+          "description": "“挖矿”正处生死时刻，币圈风声鹤唳。继内蒙古严令叫停虚拟货币“挖矿”后，有“矿都”之称的四川迎来政策转折点。“用电走国网的‘矿场’，很多都停工了。”5月29日，身在四川成都的“矿主”王磊（化名）向时代周报记者透露。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1135037.htm",
+          "publishedOn": "2021-06-01T02:34:38.000Z",
+          "wordCount": 191,
+          "title": "“矿都”梦碎：虚拟货币监管加码 挖矿行业消失倒计时？"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1135035.htm",
+          "author": "ugmbbc",
+          "description": "鸿蒙操作系统及华为全场景新品发布会将于6月2日举行，备受瞩目的国产操作系统HarmonyOS 2.0正式版（下称鸿蒙2.0）届时将正式发布。据了解，6月2日的发布会上，华为将带来多款新品，均将搭载鸿蒙2.0。发布会上不会有搭载鸿蒙2.0的新手机推出，但鸿蒙操作系统面向存量手机规模推送的时间表有望明确，鸿蒙将正式开启从试水到大范围商用的新征程。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1135035.htm",
+          "publishedOn": "2021-06-01T02:33:57.000Z",
+          "wordCount": 193,
+          "title": "华为鸿蒙系统即将正式登场 全面启动生态构建"
+        },
+        {
+          "id": "https://hot.cnbeta.com/articles/game/1135033.htm",
+          "author": "raymon725",
+          "description": "尽管索尼不参加E3，但根据一份泄露出来的邮件显示，索尼可能将在6月28日举办一场PlayStation体验会，展示2021年和2022年在PS4，PS5和PSVR上发售的游戏。参与的厂商包括EA，育碧，SE，Capcom等等，当然肯定也有索尼内部工作室，像是Guerrilla Games和索尼圣莫妮卡。\n 阅读全文",
+          "link": "https://hot.cnbeta.com/articles/game/1135033.htm",
+          "publishedOn": "2021-06-01T02:33:45.000Z",
+          "wordCount": 197,
+          "title": "传索尼6月28日举办PS体验会 SE+蓝点重制新作将亮相"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1135031.htm",
+          "author": "vivian",
+          "description": "6月1日消息，微信于今日升级青少年保护模式，开启青少年模式后，Q币充值、微粒贷、理财通、信用卡功能将不可用。用户可前往“我”-“设置”-“青少年模式”设置。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1135031.htm",
+          "publishedOn": "2021-06-01T02:30:32.000Z",
+          "wordCount": 188,
+          "title": "微信青少年保护模式升级：Q币充值、信用卡等功能不可用"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1135029.htm",
+          "author": "ugmbbc",
+          "description": "“我不想去那边玩，妈妈不跟我一起去,我一个人很害怕。”一名9岁女孩一边跟半月谈记者聊天,一边回头看母亲,而家长正坐在树下玩手机,没有关注女孩的动向。为何家长对孩子如此放心?女孩展示了手上可通话、定位的电话手表。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1135029.htm",
+          "publishedOn": "2021-06-01T02:28:15.000Z",
+          "wordCount": 199,
+          "title": "半月谈：“家有一宝，要买一表” 从电话手表看“10后”社交"
+        },
+        {
+          "id": "https://hot.cnbeta.com/articles/game/1135027.htm",
+          "author": "teikaei",
+          "description": "EA已经下架了5款《极品飞车》游戏，计划在三个月内关闭这些游戏的服务器。根据发布在Reddit《极品飞车》板块上的帖子，开发团队一名成员宣布，从今天开始，以下五款《极品飞车》游戏将会从所有的数字商城下架：\n 阅读全文",
+          "link": "https://hot.cnbeta.com/articles/game/1135027.htm",
+          "publishedOn": "2021-06-01T02:26:40.000Z",
+          "wordCount": 198,
+          "title": "EA停售5款《极品飞车》游戏 Steam目前尚可购买"
+        },
+        {
+          "id": "https://hot.cnbeta.com/articles/game/1135025.htm",
+          "author": "vivian",
+          "description": "目前，任天堂官方又公开了一段由新垣结衣出演的《健身环大冒险》新CM影像，此次影像也展示了新垣结衣在家用健身环锻炼的一些场景。\n 阅读全文",
+          "link": "https://hot.cnbeta.com/articles/game/1135025.htm",
+          "publishedOn": "2021-06-01T02:26:13.000Z",
+          "wordCount": 198,
+          "title": "《健身环大冒险》新CM公布：新垣结衣参演 展示可爱形象"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1135023.htm",
+          "author": "vivian",
+          "description": "6月1日消息，据国外媒体报道，特斯拉基于Autopilot的集成式仪表盘摄像头系统TeslaCam，最近帮助警方在一系列道路安全恐吓案中抓捕了嫌疑人。此前的数周时间内，有人开车在道路上对行驶车辆窗口开枪射击，造成广大司机的恐慌，严重地危害了道路交通安全。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1135023.htm",
+          "publishedOn": "2021-06-01T02:24:02.000Z",
+          "wordCount": 198,
+          "title": "特斯拉TeslaCam立大功 帮助警方破获交通涉恐案件"
+        },
+        {
+          "id": "https://hot.cnbeta.com/articles/game/1135021.htm",
+          "author": "study875",
+          "description": "如果你喜欢《双点医院》（Two Point Hospital）关于建设和管理医院的愚蠢做法，那么该开发商的后续游戏可能会引起你的兴趣。今天早些时候，Microsoft Store 上曝光了《双点大学》（Two Point Campus）新作，表明这款游戏即将推出。\n 阅读全文",
+          "link": "https://hot.cnbeta.com/articles/game/1135021.htm",
+          "publishedOn": "2021-06-01T02:23:21.000Z",
+          "wordCount": 211,
+          "title": "《双点大学》在微软商城意外偷跑《双点医院》原班人马打造"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1135019.htm",
+          "author": "raymon725",
+          "description": "作为台北电脑展（Computex 2021）期间的公告之一，技嘉（Gigabyte）刚刚推出了基于 AMD 锐龙 5000 系列“Cezanne”APU 处理器的 2021 款 BRIX 迷你 PC 。作为一款外形外形小巧的主机，它能够为商务、办公和 HTPC 用户带来不错的性能体验。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1135019.htm",
+          "publishedOn": "2021-06-01T02:18:34.000Z",
+          "wordCount": 351,
+          "title": "技嘉推出2021款BRIX迷你PC：搭载AMD锐龙5000U系列Cezanne APU"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/science/1135017.htm",
+          "author": "teikaei",
+          "description": "综合报道，5月31日，世界卫生组织(WHO)宣布，将改用希腊字母命名变异新冠病毒，以避免对最早检测和发现变异病毒的国家造成污名化。世卫组织表示，目前被其列为“应关注变种”和“待观察变种”的变种冠状病毒都会采用新命名法。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/science/1135017.htm",
+          "publishedOn": "2021-06-01T02:17:22.000Z",
+          "wordCount": 196,
+          "title": "避免污名化 世卫改用希腊字母命名变异新冠病毒"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/science/1135013.htm",
+          "author": "teikaei",
+          "description": "新冠疫苗作用有效期短，对阻断疫情传播的作用不大？蝴蝶和蛾子翅膀上的粉末有剧毒？《5月“科学”流言榜》发布，来听听专家怎么说。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/science/1135013.htm",
+          "publishedOn": "2021-06-01T02:10:20.000Z",
+          "wordCount": 195,
+          "title": "5月“科学”流言榜发布，你中招了吗？"
+        },
+        {
+          "id": "https://hot.cnbeta.com/articles/game/1135011.htm",
+          "author": "teikaei",
+          "description": "北京时间6月1日上午消息，据外媒报道，在新冠疫情最严重的时期，许多人待在家里用电子游戏来打发时间。现在，随着各国逐步重新开放，用户行为正在转变。电子游戏制造商预警称，随着人们恢复正常生活，销售额将明显降低，用户的游戏支出可能会出现至少10年来的首次下降。\n 阅读全文",
+          "link": "https://hot.cnbeta.com/articles/game/1135011.htm",
+          "publishedOn": "2021-06-01T02:09:06.000Z",
+          "wordCount": 212,
+          "title": "疫情后游戏业务会滑坡？ 游戏开发商：行业发展会更好，将继续加大投入"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1135009.htm",
+          "author": "teikaei",
+          "description": "据外媒报道，这家拥有欧洲最漂亮汽车（经典法拉利、阿斯顿马丁等）的公司在2021年迎来了95岁的生日，为此，Carrozzeria Touring Superleggera决定打造一个生日礼物。它就是Arese RH95，这是该公司的汽车车身制造专业知识跟现代风格结合的证明。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1135009.htm",
+          "publishedOn": "2021-06-01T02:07:00.000Z",
+          "wordCount": 210,
+          "title": "Carrozzeria Touring Superleggera将为自己打造一个华丽的生日礼物"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1135007.htm",
+          "author": "ugmbbc",
+          "description": "近日，华为已经正式宣布将于6月2日召开鸿蒙操作系统及华为全场景新品发布会，届时大家期待已久的鸿蒙OS正式版将正式登场。根据官方透露的信息，此次发布会还将推出新一代的华为MatePad Pro旗舰平板电脑，该设备也将成为首发预装鸿蒙OS正式版的机型。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1135007.htm",
+          "publishedOn": "2021-06-01T02:02:34.000Z",
+          "wordCount": 213,
+          "title": "华为MatePad Pro 10.8配置全曝光 鸿蒙OS、骁龙870成关键词"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1135005.htm",
+          "author": "vivian",
+          "description": "6月1日消息，据国外媒体报道，区块链分析网站BitInfoCharts的数据显示，比特币平均交易费已经跌至7美元的低点，这是自今年1月1日以来的最低水平，远低于今年4月21日达到的62.8美元创纪录高点。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1135005.htm",
+          "publishedOn": "2021-06-01T02:02:15.000Z",
+          "wordCount": 189,
+          "title": "比特币平均交易费已降至今年1月以来最低水平"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1135003.htm",
+          "author": "study875",
+          "description": "最新发布的 Microsoft Flight Simulator 补丁大幅削减了游戏初次下载所需的容量，从超过 170GB 锐减到 83GB。在 Sim Update 4（也称 1.16.20.0 补丁）的补丁说明中，开发团队表示对 Microsoft Flight Simulator 的初始完整下载进行了优化，现在下载基础游戏包大小为 83GB，而非此前的 170GB 以上。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1135003.htm",
+          "publishedOn": "2021-06-01T01:58:35.000Z",
+          "wordCount": 233,
+          "title": "微软飞行模拟器新补丁 初始包容量从170GB降到83GB"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/soft/1135001.htm",
+          "author": "ugmbbc",
+          "description": "LNMP一键安装包 v1.8主要是增加PHP 8.0支持、增加PHP扩展组件对8.0的支持、增加Oracle Linux的支持、优化WSL支持、增加BuyPass、ZeroSSL 免费SSL证书及各种优化。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/soft/1135001.htm",
+          "publishedOn": "2021-06-01T01:51:43.000Z",
+          "wordCount": 246,
+          "title": "LNMP一键安装包 V1.8 正式版发布 一键搭建服务器环境"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1134999.htm",
+          "author": "raymon725",
+          "description": "以广告业务为重心的搜索巨头 Google，正在为自家市占率遥遥领先的 Chrome 浏览器测试一种名为“联合学习队列”（FLoC）的新颖追踪方法，但这已经引发了极大的争议。它能够根据一群用户的浏览历史来划分不同的兴趣和统计数据的组别，以令人细思极恐的方式，在无需第三方 Cookie 的情况下实现有针对性的广告投放和其它内容定位。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1134999.htm",
+          "publishedOn": "2021-06-01T01:51:15.000Z",
+          "wordCount": 235,
+          "title": "谷歌现允许用户禁用FLoC追踪 但操作起来依然很麻烦"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/science/1134997.htm",
+          "author": "vivian",
+          "description": "美国食品和药物管理局（FDA）再次对一家公司进行调查，称其将二氧化氯产品作为治疗、预防或以其他方式治愈COVID-19的方法进行宣传。该机构已向OCLO纳米技术科学公司发出警告信，称其和美国联邦贸易委员会（FTC）都审查了该公司使用的一个网站和社交媒体账户。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/science/1134997.htm",
+          "publishedOn": "2021-06-01T01:41:31.000Z",
+          "wordCount": 193,
+          "title": "FDA再次警告公众不要将饮用漂白剂当做COVID-19的治疗方法"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1134995.htm",
+          "author": "study875",
+          "description": "目前有很多非常优秀的 Linux 发行版本供用户选择。对于资深用户来说，Debian 和 Fedora 是不错的选择；对于新手来说，Ubuntu 或者 Linux Lite 可能更合适；而对于初学者或者刚刚从 Windows 平台迁移过来的用户，最佳的发行版本应该就是 Linux Mint。今天，开发团队正式敲定 Linux Mint 20.2 的名称为“Uma”。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1134995.htm",
+          "publishedOn": "2021-06-01T01:37:57.000Z",
+          "wordCount": 246,
+          "title": "Linux Mint 20.2命名“Uma” 致敬女明星Uma Thurman"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/science/1134993.htm",
+          "author": "teikaei",
+          "description": "据外媒报道，一项随机对照试验发现，对于中老年人中心性肥胖患者来说，太极拳跟传统运动在减少腰围方面的效果差不多。中央肥胖是代谢综合征的主要表现，也是这一人群的常见健康问题。研究结果发表在《Annals of Internal Medicine》上。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/science/1134993.htm",
+          "publishedOn": "2021-06-01T01:33:03.000Z",
+          "wordCount": 185,
+          "title": "研究：在减少腹部脂肪方面，太极拳和传统运动的效果相似"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1134991.htm",
+          "author": "ugmbbc",
+          "description": "人生就是不停地想要回到小时候，时间无限地多，爸爸妈妈年轻有力，隔壁桌的小女孩小男孩特别粘人，永远不会担心不知道明天要做什么。所以，到了这一天，无论任何年纪的我们都想给自己过儿童节。以下是来自Clover的儿童节系列App汇总，涵盖多种实用工具以及围绕儿童节为主题的设计，希望能帮到你：\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1134991.htm",
+          "publishedOn": "2021-06-01T01:31:40.000Z",
+          "wordCount": 203,
+          "title": "[推荐]六一节 帮您找寻童趣的5个必装实用App"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/science/1134989.htm",
+          "author": "vivian",
+          "description": "据外媒报道，阻塞性睡眠呼吸暂停是一种常见的、有可能致命的疾病，通常通过改变生活方式和使用CPAP（持续气道正压通气）呼吸机来治疗。虽然它们很有帮助，但许多人发现CPAP呼吸机太不舒服，声音太大，无法舒适地睡觉，导致他们放弃了这个可能拯救生命的机器。在这种情况下，一项新研究发现，护齿器可能是一个合适的替代品。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/science/1134989.htm",
+          "publishedOn": "2021-06-01T01:27:18.000Z",
+          "wordCount": 190,
+          "title": "研究称一些睡眠呼吸暂停患者可以将CPAP换成护齿器"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1134987.htm",
+          "author": "study875",
+          "description": "在庆祝六一儿童节之外，今天也开启了一年一度的“LGBT Pride Month”。这是从美国发起，延申到世界各地的 LGBT 群体庆祝月活动，通过游行庆典旨在反对歧视，追求多元包容的社会。今天，微软为 Edge 浏览器发布了一组傲娇月主题，可以点击下方链接进行查看。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1134987.htm",
+          "publishedOn": "2021-06-01T01:24:03.000Z",
+          "wordCount": 243,
+          "title": "[图]庆祝Pride Month 微软为Edge浏览器推出一组新主题"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1134985.htm",
+          "author": "ugmbbc",
+          "description": "苹果京东自营店今日开启大促，iPhone 12全系列好价，最高比官网便宜1491元。这次优惠有多种优惠券，其中iPhone 12 64G/128G/256G有1000元大额券叠加400元Plus会员券，最高优惠1400元。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1134985.htm",
+          "publishedOn": "2021-06-01T01:22:21.000Z",
+          "wordCount": 211,
+          "title": "6.1正式开战 京东自营iPhone 12系列手机直降1491元"
+        },
         {
           "id": "https://www.cnbeta.com/articles/tech/1134983.htm",
           "author": "ugmbbc",
@@ -20257,5 +20806,5 @@
       ]
     }
   ],
-  "cliVersion": "1.9.0"
+  "cliVersion": "1.10.2"
 }
