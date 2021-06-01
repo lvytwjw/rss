@@ -737,15 +737,6 @@
           "publishedOn": "2021-05-04T05:00:00.000Z",
           "wordCount": 6993,
           "title": "Smashing Podcast Episode 36 With Miriam Suzanne: What Is The Future Of CSS?"
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/05/evolution-jamstack/",
-          "author": "hello@smashingmagazine.com (Mathias Biilmann)",
-          "description": "Web-oriented databases, frameworks like Nuxt and Next.js, and even frameworkless approaches are evolving the Jamstack, but the core principles are more powerful than ever.",
-          "link": "https://smashingmagazine.com/2021/05/evolution-jamstack/",
-          "publishedOn": "2021-05-03T07:00:00.000Z",
-          "wordCount": 2141,
-          "title": "The Evolution Of Jamstack"
         }
       ]
     },
@@ -754,6 +745,15 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
+        {
+          "id": "60b668c0acb62507dd1d710b",
+          "author": null,
+          "description": "Next.js makes developing React applications simpler. It provides a common structure that allows you to build frontend React applications, and transparently handles server-side rendering for you. We just released a full course on the freeCodeCamp.org YouTube channel that will teach you the basics of Next.js.  Kapehe developed",
+          "link": "https://www.freecodecamp.org/news/learn-next-js/",
+          "publishedOn": "2021-06-01T17:43:56.000Z",
+          "wordCount": 407,
+          "title": "Learn Next.js and Make React Development Simpler"
+        },
         {
           "id": "60acf28e11ffb70827ef6dd9",
           "author": null,
@@ -1067,6 +1067,78 @@
       "feedUrl": "https://www.cnbeta.com/backend.php",
       "siteUrl": "https://www.cnbeta.com",
       "articles": [
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1135367.htm",
+          "author": "ugmbbc",
+          "description": "macOS 每个重大版本都有全新的代号，自 2013 年开始，新版 macOS 的代号就是加利福尼亚州的知名风景区，目前已经有 Mavericks、Yosemite、 El Capitan、 Sierra、 High Sierra、 Mojave、 Catalina 和 Big Sur。在过去 1 年中，苹果更新或放弃了一些新的商标，这也能让我们对 macOS 12 的代号进行一些猜测。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1135367.htm",
+          "publishedOn": "2021-06-01T19:57:10.000Z",
+          "wordCount": 259,
+          "title": "macOS 12 可能叫 Mammoth 或 Monterey"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/science/1135365.htm",
+          "author": "maomao",
+          "description": "在2020年6月的两个星期里，来自撒哈拉非洲的巨大尘埃羽流向西越过大西洋，覆盖了加勒比海和美国的墨西哥湾沿岸州。现在，堪萨斯大学的研究人员在《美国气象学会公报》上发表了一项新研究，解析了运送沙尘的机制。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/science/1135365.htm",
+          "publishedOn": "2021-06-01T19:51:24.000Z",
+          "wordCount": 185,
+          "title": "一项新研究揭示非洲撒哈拉尘埃如何跨大西洋到达美洲地区"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1135363.htm",
+          "author": "maomao",
+          "description": "据联邦调查局称，总部设在奥克兰的Mega.nz是大规模黑客行动使用的两个云存储平台之一，包括对新西兰对医疗系统的黑客攻击。联邦调查局在3月发布的另一个警报说，网络攻击者通过网站或直接在受害者的电脑上安装客户端应用程序，将偷来的材料上传到Mega.nz。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1135363.htm",
+          "publishedOn": "2021-06-01T19:42:54.000Z",
+          "wordCount": 190,
+          "title": "FBI称勒索软件攻击者正在利用Mega.nz云存储服务发起攻击"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1135361.htm",
+          "author": "maomao",
+          "description": "苹果公司正在研究如何让苹果眼镜或其AR设备感知并使用HomeKit自动调整佩戴者周围的环境照明。与谷歌Alexa的设备相比，HomeKit的设备仍然不多，但苹果可能正计划增加一个。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1135361.htm",
+          "publishedOn": "2021-06-01T19:29:09.000Z",
+          "wordCount": 187,
+          "title": "新专利显示苹果眼镜等AR设备可感知并使用HomeKit自动调整环境照明"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1135359.htm",
+          "author": "maomao",
+          "description": "绝大多数的车辆安全措施都围绕着在撞击的瞬间保护司机和乘客。从加固车体到安全气囊和安全带，车辆的设计是为了使车内的人不受到严重伤害。现在苹果汽车乘客在车祸中可能会更安全，不会被飞过挡风玻璃的外部物体所伤，苹果公司正在考虑用各种方法来阻止进入的碎片和其他物品击中车内的人。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1135359.htm",
+          "publishedOn": "2021-06-01T19:18:30.000Z",
+          "wordCount": 192,
+          "title": "新专利显示苹果汽车配备特殊安全气囊 可使乘客免受飞来碎片伤害"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/science/1135357.htm",
+          "author": "maomao",
+          "description": "由爱荷华大学领导的生物学家使用一种名为eDNA的特殊技术，在宾夕法尼亚州中部溪流中发现了一种入侵性小蜗牛物种，而这种蜗牛的存在一直不为人知。这种入侵的新西兰泥螺在几十年前到达美国西部后，已经蔓延到东部沿海地区。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/science/1135357.htm",
+          "publishedOn": "2021-06-01T19:05:29.000Z",
+          "wordCount": 187,
+          "title": "科学家使用新的环境DNA检测技术发现破坏性物种"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1135355.htm",
+          "author": "maomao",
+          "description": "三星Galaxy A22支持页面已经在俄罗斯三星官方网站上线，页面显示这款手机具体型号为SM-A25F/DSN，这表明三星很快就会发布Galaxy A22。这款手机被认为有4G和5G版本，也可能很快进入印度市场。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1135355.htm",
+          "publishedOn": "2021-06-01T17:45:46.000Z",
+          "wordCount": 226,
+          "title": "三星Galaxy A22 4G版本支持页面上线 预计新机即将到来"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/science/1135353.htm",
+          "author": "maomao",
+          "description": "河流、湖泊和其他水道的磷酸盐污染已经达到了危险的程度，导致藻类大量繁殖，使鱼类和水生植物缺氧。同时，全世界的农民正在接受磷酸盐肥料储备不断减少的事实，这些肥料施用于世界上一半的食物类作物。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/science/1135353.htm",
+          "publishedOn": "2021-06-01T17:23:34.000Z",
+          "wordCount": 189,
+          "title": "美国西北大学研究人员开发纳米薄膜 清除水中磷酸盐污染"
+        },
         {
           "id": "https://hot.cnbeta.com/articles/game/1135351.htm",
           "author": "ugmbbc",
