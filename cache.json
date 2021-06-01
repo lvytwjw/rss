@@ -986,6 +986,249 @@
       "siteUrl": "https://www.cnbeta.com",
       "articles": [
         {
+          "id": "https://www.cnbeta.com/articles/tech/1134983.htm",
+          "author": "ugmbbc",
+          "description": "按照华为官方的说法，6月2日他们要举行新品发布会，届时让不少用户等待许久的鸿蒙OS系统将正式推出。虽然发布会近在咫尺，但目前有不少用户已经提前发现了惊喜，那就是华为手机用户打开“我的华为”，点开“升级尝鲜”页面，可以提前看到是否升级鸿蒙系统的提示，当然你的机型要在首批升级名单中。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1134983.htm",
+          "publishedOn": "2021-06-01T01:20:01.000Z",
+          "wordCount": 197,
+          "title": "华为鸿蒙OS提前送惊喜：看看你是否能升级?"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1134981.htm",
+          "author": "ugmbbc",
+          "description": "前不久AMD CEO苏姿丰承认由于专注高端处理器市场，他们的低端处理器存在缺货、涨价的问题。好在DIY玩家现在主要的选择还是锐龙5000系列，随着供应的不断改善，锐龙5000系列越来越便宜，甚至跌破了建议价。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1134981.htm",
+          "publishedOn": "2021-06-01T01:19:30.000Z",
+          "wordCount": 205,
+          "title": "锐龙5000越来越便宜：6核锐龙5 5600X跌破建议价"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1134979.htm",
+          "author": "teikaei",
+          "description": "据彭博社报道，苹果公司试图收购音乐直播平台Verzuz，不过Verzuz最终被视频网络厂商Triller于今年3月收购，这表明这家科技巨头仍希望开发社交音乐产品。据知情人士透露，苹果公司对收购Verzuz表现出很高的兴趣，虽然苹果没有参与竞标，但它确实给出了一个价格，最终低于Triller支付的价格。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1134979.htm",
+          "publishedOn": "2021-06-01T01:15:35.000Z",
+          "wordCount": 226,
+          "title": "苹果被爆出一个失败的社交音乐产品收购案"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/science/1134977.htm",
+          "author": "vivian",
+          "description": "一项新研究表明，一个在北大西洋落水的船舶集装箱导致打印机墨盒被冲到从佛罗里达海岸到挪威北部的各个地方。它还导致了这些物品风化，形成了被一系列金属（如钛、铁和铜）污染的微塑料。泄漏被认为是在2014年1月发生在纽约以东约1500公里处，同年9月亚速尔群岛海岸线上报告了第一个搁浅的墨盒。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/science/1134977.htm",
+          "publishedOn": "2021-06-01T01:12:15.000Z",
+          "wordCount": 194,
+          "title": "科学和社交媒体显示从船舶掉落的塑料货物如何从佛罗里达州扩散到挪威"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1134975.htm",
+          "author": "teikaei",
+          "description": "6月1日消息，据报道，特斯拉、福特、大众等公司都推出了深受车主好评和喜爱的汽车，也是当前电动汽车市场上最主要的参与者。现在，韩国现代汽车公司决心向他们发起挑战，包括推出试买计划和超快充电系统。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1134975.htm",
+          "publishedOn": "2021-06-01T01:08:18.000Z",
+          "wordCount": 209,
+          "title": "现代向特斯拉和福特发起挑战 希望成为电动汽车充电领先者"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1134973.htm",
+          "author": "study875",
+          "description": "今天外媒 NeoWin 发表评论文章，认为微软应该进一步区分面向普通消费者和企业群体的 Windows 10 版本。文章中认为两个群体的需求存在较大的差异，消费者需要更丰富、更具创新的新功能、新体验，而企业需要更稳定、更具兼容性的环境，微软应该通过 Windows 10 分支的方式满足这两个群体的需求。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1134973.htm",
+          "publishedOn": "2021-06-01T01:06:29.000Z",
+          "wordCount": 314,
+          "title": "外媒：微软应进一步区分面向消费者/企业的Windows 10版本"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/science/1134971.htm",
+          "author": "teikaei",
+          "description": "据外媒报道，水氧化反应(WOR)是地球上最重要的反应之一，因为它是大气中几乎所有氧气的来源。了解其复杂性是提高反应效率的关键。然而遗憾的是，该反应机制复杂、中间体高度不稳定，因此使其分离和表征极具挑战性。为了克服这个问题，科学家们正在使用分子催化剂作为模型来理解水氧化的基本方面--特别是氧-氧成键反应。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/science/1134971.htm",
+          "publishedOn": "2021-06-01T01:01:14.000Z",
+          "wordCount": 192,
+          "title": "科学家分离出地球上最重要反应之一中一个难以得到的中间产物"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/science/1134969.htm",
+          "author": "vivian",
+          "description": "据外媒报道，根据发表在《神经科学》(JNeurosci)上的新研究，前额叶皮层的独特活动模式揭示了一个“善意的谎言”（White Lies）是否有自私的动机。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/science/1134969.htm",
+          "publishedOn": "2021-06-01T00:55:08.000Z",
+          "wordCount": 191,
+          "title": "研究发现大脑活动揭示了善意的谎言是否有自私的动机"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1134967.htm",
+          "author": "teikaei",
+          "description": "据外媒报道，即使是M1 iMac，苹果带来的唯一新改变也就是为Magic Mouse添加了新的颜色。那个让不少用户感到恼火的充电位置仍旧一样，不过这里有一些东西可能会让用户脸上露出微笑--即使它只是一个概念。可以看到，苹果Pro Mouse摒弃了现有配件的所有缺点，它为人们带来了一些新鲜的东西。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1134967.htm",
+          "publishedOn": "2021-06-01T00:46:45.000Z",
+          "wordCount": 199,
+          "title": "苹果概念鼠标Pro Mouse终于改变了充电口的位置"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/science/1134965.htm",
+          "author": "vivian",
+          "description": "虽然人们普遍认为，气候变化推动了人类在非洲的进化，但对这种气候变化的确切特征及其影响却不甚了解。冰川-间冰期循环强烈地影响着世界上许多地方的气候变化模式，并被认为在过去约100万年的人类进化的关键时期调节着非洲的环境变化。由这些冰川周期驱动的生态系统变化被认为刺激了早期人类的进化和扩散。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/science/1134965.htm",
+          "publishedOn": "2021-06-01T00:41:04.000Z",
+          "wordCount": 193,
+          "title": "科学家意外发现非洲“气候跷跷板”  重新评估人类进化的现有气候框架"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1134963.htm",
+          "author": "study875",
+          "description": "Google Photos 新存储政策于 6 月 1 日本周二正式生效，今后照片和视频等多媒体内容将不再享受无限制存储优惠。此后，用户上传的任意新照片和视频都会计入到Google账户的免费 15GB 存储空间中，不过之前上传的媒体资源并不计入其中。今天Google还发布了一个新的免费工具，帮助用户管理存储空间。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1134963.htm",
+          "publishedOn": "2021-06-01T00:25:32.000Z",
+          "wordCount": 215,
+          "title": "Google Photos新规今日生效 视频/图片上传不再享受无限量优惠"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1134961.htm",
+          "author": "teikaei",
+          "description": "据外媒报道，一家名为Venus Aerospace Corp.的公司正在研制一种高超音速太空飞机，这种飞机有可能在约一小时内把人从洛杉矶送到东京。这家公司设想中的太空飞机将能像传统飞机一样从地面起飞，但它能飞到一个很高的巡航高度。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1134961.htm",
+          "publishedOn": "2021-06-01T00:24:58.000Z",
+          "wordCount": 195,
+          "title": "Venus Aerospace打造太空飞机：一小时内将乘客带到地球任何地方"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/science/1134959.htm",
+          "author": "vivian",
+          "description": "据外媒报道，每个人对全身麻醉剂的反应都不同，这可能使正确的剂量给药变得棘手。一种新设备旨在提供帮助，在手术过程中持续监测病人血液中的麻醉剂浓度。通常情况下，麻醉师根据年龄、体重和性别等因素确定初始剂量。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/science/1134959.htm",
+          "publishedOn": "2021-06-01T00:24:46.000Z",
+          "wordCount": 197,
+          "title": "科学家开发“智能笔” 可在手术中监测病人血液中的麻醉剂浓度"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/science/1134957.htm",
+          "author": "vivian",
+          "description": "根据《自然-气候变化》杂志的一项新研究，平均而言，大约37%的高温致死事件可以归结为人类造成的气候变化。该研究考察了来自43个国家732个地方的数据，时间跨度约30年（从1991-2018年）。他们使用包括高温致死和这些地方的温度读数在内的信息来建立计算机模型，计算有多少死亡可以归因于气候变化。这些数字因地点而异，与气候变化有关的死亡人数在较温暖的国家发生的比例比在较凉爽的国家大。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/science/1134957.htm",
+          "publishedOn": "2021-06-01T00:10:27.000Z",
+          "wordCount": 189,
+          "title": "研究称气候变化导致了约三分之一的高温致死事件"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1134955.htm",
+          "author": "teikaei",
+          "description": "北京时间6月1日早间消息，据路透社援引《日本经济新闻》报道，包括电子元件制造商日本揖斐电株式会社（IBIDEN）在内的约20家日本企业将与台湾积电股份有限公司(Taiwan Semiconductor Manufacturing Co.,简称:台积电)合作，在日本开发芯片制造技术。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1134955.htm",
+          "publishedOn": "2021-06-01T00:08:55.000Z",
+          "wordCount": 194,
+          "title": "日本企业将与台积电共同开发芯片制造技术"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/science/1134953.htm",
+          "author": "teikaei",
+          "description": "6月1日消息，太空探索公司SpaceX首席执行官埃隆·马斯克（Elon Musk）证实，星际飞船所采用的超级重型助推器将比预期至少多安装一个发动机。与此同时马斯克还透露，SpaceX位于加州霍桑的工厂目前正在全速生产猛禽发动机，在这种生产速度下，猛禽发动机很可能在未来不久成为SpaceX除星链互联网卫星外数量最多的产品。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/science/1134953.htm",
+          "publishedOn": "2021-06-01T00:07:50.000Z",
+          "wordCount": 193,
+          "title": "为把星际飞船送上天 SpaceX猛造猛禽发动机"
+        },
+        {
+          "id": "https://hot.cnbeta.com/articles/movie/1134951.htm",
+          "author": "ugmbbc",
+          "description": "张柏芝在微博晒一组与自己过往经典角色同框合照，并配文“投影仪新技能”。照片中，张柏芝不仅重现了过往经典镜头，还和角色进行互动，让不少网友直呼“爷青回”。其中不少角色已经超过20年，今年41岁的张柏芝在照片中的状态十分良好，岁月并没有留下过多痕迹，仿佛遇见了平行时空的另一个自己。\n 阅读全文",
+          "link": "https://hot.cnbeta.com/articles/movie/1134951.htm",
+          "publishedOn": "2021-06-01T00:05:00.000Z",
+          "wordCount": 187,
+          "title": "张柏芝晒与自己经典角色合照：二十年过去容颜依旧"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1134949.htm",
+          "author": "study875",
+          "description": "面向印度市场，realme 近日推出全新的中端机型 X7 Max 5G。该机型的卖点包括高刷新率的 AMOLED 屏幕、6400 万像素的主摄、支持高速 5G 网络，50W 的快充等等，更重要的是该机型的价格非常有竞争力。该机共有 8GB+128GB 和 12GB+256GB 两种规格，售价分别为 26999/29999 卢比（约合 2372.60/2636.23 元）。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1134949.htm",
+          "publishedOn": "2021-06-01T00:02:52.000Z",
+          "wordCount": 242,
+          "title": "[图]realme推出X7 Max 5G：联发科天玑1200+6.4吋120Hz屏幕"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1134947.htm",
+          "author": "ugmbbc",
+          "description": "曾经一度搁置的劳斯莱斯豪华电动汽车计划近来再迎新消息。近日，有外媒报道称，劳斯莱斯确认正在量产化开发Silent Shadow，该车未来将会采用纯电驱动设计，官方表示这将是一辆“全新的劳斯莱斯”。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1134947.htm",
+          "publishedOn": "2021-06-01T00:01:17.000Z",
+          "wordCount": 197,
+          "title": "最贵新能源 劳斯莱斯确认第一款电动车正在开发中"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/science/1134945.htm",
+          "author": "teikaei",
+          "description": "据外媒报道，当一个人有皮肤问题时，受影响的皮肤通常会比正常情况下更硬或更软。现在，一种新的传感器已经被证明可以检测到这些差异，它可能让医生更快速、更容易地诊断出问题。据悉，这个机电设备是由中国香港城市大学和伊利诺斯州西北大学的科学家合作设计。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/science/1134945.htm",
+          "publishedOn": "2021-06-01T00:01:06.000Z",
+          "wordCount": 197,
+          "title": "新型传感器可迅速检测出牛皮癣和其他潜在皮肤疾病"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1134943.htm",
+          "author": "vivian",
+          "description": "据外媒CNET报道，苹果公司报告说，2020年其制造伙伴的运营行为有所改善，同时努力应对COVID-19大流行病的发生。苹果公司2021年的年度供应链责任报告关注一系列主题，包括劳工和人权、工人健康和安全以及环境等等。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1134943.htm",
+          "publishedOn": "2021-05-31T23:55:27.000Z",
+          "wordCount": 189,
+          "title": "苹果供应链报告显示2020年其供应商运营行为有所改善"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/science/1134941.htm",
+          "author": "teikaei",
+          "description": "据外媒报道，火星上的照片通常都很吸引人的眼球，但火星上的云层却很少能提供壮观的视觉效果。覆盖地面和大部分天空的锈色通常是由于风带着灰尘造成的，这在火星上经常发生，有时探测车很难捕捉到稀薄火星大气中云层的实际样子。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/science/1134941.htm",
+          "publishedOn": "2021-05-31T23:49:29.000Z",
+          "wordCount": 191,
+          "title": "令人惊叹：NASA“好奇号”拍下火星“珍珠之母”云照片"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1134939.htm",
+          "author": "vivian",
+          "description": "据外媒AppleInsider报道，一份新报告称，iPhone 12系列在2021年第一季度的活跃用户比iPhone 11在2020年同一时间点的活跃用户要多。根据其之前的报告，iPhone 12是10月份最畅销的5G智能手机，Counterpoint Research现在发布了2021年第一季度的数据。虽然苹果公司本身自2018年以来没有发布任何iPhone的销售数据，使其很难检查假设的准确性，但Counterpoint估计整体用户群在去年增加了2%。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1134939.htm",
+          "publishedOn": "2021-05-31T23:42:40.000Z",
+          "wordCount": 235,
+          "title": "报告：尽管发布时间较晚 但iPhone 12活跃用户的增长速度超iPhone 11"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1134937.htm",
+          "author": "ugmbbc",
+          "description": "据知情人士称，大众汽车前CEO文德恩（Martin Winterkorn）已同意就柴油排放丑闻向该公司支付约1000万欧元赔偿金。今年3月大众汽车表示，将就这一丑闻向文德恩索赔，试图为其有史以来最大的危机画上句号。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1134937.htm",
+          "publishedOn": "2021-05-31T23:42:08.000Z",
+          "wordCount": 195,
+          "title": "大众前CEO文德恩同意就排放丑闻赔偿公司1000万欧元"
+        },
+        {
+          "id": "https://hot.cnbeta.com/articles/game/1134935.htm",
+          "author": "ugmbbc",
+          "description": "据报道，CD Projekt公司周一发布财报称，该公司第一季度利润较去年同期骤降一半以上，主要原因是旗下游戏《赛博朋克2077》遭到索尼PlayStation Store下架。该公司高管称，此事还将继续影响其业绩。\n 阅读全文",
+          "link": "https://hot.cnbeta.com/articles/game/1134935.htm",
+          "publishedOn": "2021-05-31T23:41:13.000Z",
+          "wordCount": 202,
+          "title": "受索尼下架影响 《赛博朋克2077》开发商第一季度利润骤降65%"
+        },
+        {
+          "id": "https://hot.cnbeta.com/articles/game/1134933.htm",
+          "author": "ugmbbc",
+          "description": "CDPR发布了季度财报（截止到2021年3月31日），数据有点惨淡。由于《赛博朋克2077》和《巫师3》的销量减缓，而且需要投入人力和财力去修复《赛博2077》，因此该季度CDPR的利润相比去年同期减少了65%。\n 阅读全文",
+          "link": "https://hot.cnbeta.com/articles/game/1134933.htm",
+          "publishedOn": "2021-05-31T23:40:06.000Z",
+          "wordCount": 198,
+          "title": "《赛博朋克2077》尚未达到重返PS商城标准 2022年之前不会开发3A新作"
+        },
+        {
+          "id": "https://hot.cnbeta.com/articles/game/1134931.htm",
+          "author": "ugmbbc",
+          "description": "《黑神话：悟空》主美杨奇此前曾表示本作开发暂时还没用上虚幻5引擎。而本作模型渲染师@Wchen琛最近已经沉迷于虚幻5了，前日他又在微博上分享了更多虚幻5引擎制作的场景。在上周虚幻5引擎正式开始了测试，@Wchen琛在测试第二天就分享了不少虚幻5制作的场景。看来正如这位渲染师所言，虚幻5引擎的确是能让开发者沉迷其中。\n 阅读全文",
+          "link": "https://hot.cnbeta.com/articles/game/1134931.htm",
+          "publishedOn": "2021-05-31T23:39:09.000Z",
+          "wordCount": 203,
+          "title": "《黑神话：悟空》模型渲染师沉迷虚幻5 分享更多场景"
+        },
+        {
           "id": "https://www.cnbeta.com/articles/tech/1134929.htm",
           "author": "ugmbbc",
           "description": "关于克罗地亚超级跑车制造商锐马克旗下纯电动超跑——C_Two终于迎来了新消息。日前，锐马克发布了C_Two的最新预告片，新车将于6月1日正式亮相，并公布全新名称。锐马克在2018年日内瓦车展上发布了Rimac Concept Two概念车，作为该车的量产版车型，C_Two将全球限量生产150台。\n 阅读全文",
