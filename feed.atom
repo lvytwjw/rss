@@ -2,10 +2,318 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://lvytwjw.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-01T07:36:34.085Z</updated>
+    <updated>2021-06-01T09:08:32.901Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://lvytwjw.github.io/rss/index.html"/>
     <link rel="self" href="https://lvytwjw.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[百度造车最新进展：首款车售价超20万，下半年开启融资]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1135217.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1135217.htm"/>
+        <updated>2021-06-01T09:06:48.000Z</updated>
+        <summary type="html"><![CDATA[集度汽车成立百天，百度造车进展到了哪一步？百度造车项目又有新进展了！就在今天，集度汽车在北京举办了一场媒体沟通会，集度汽车CEO夏一平也向外界公布了更多的造车进展，车东西也受邀参加了本次沟通会。集度汽车（百度造车公司名称）从注册到现在刚好三个月时间，集度汽车的进展也引起了很多行业人士的关注。
+ 阅读全文]]></summary>
+        <author>
+            <name>teikaei</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[南大光电高端ArF光刻胶获得突破 未来可用于7nm工艺]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1135215.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1135215.htm"/>
+        <updated>2021-06-01T09:03:57.000Z</updated>
+        <summary type="html"><![CDATA[在半导体制造上，国内厂商需要突破的不只是光刻机等核心设备，光刻胶也是重要的一环。南大光电日前宣布，该公司研发的高端ArF光刻机已经获得了国内某企业的认证，用于55nm工艺制造。
+ 阅读全文]]></summary>
+        <author>
+            <name>teikaei</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[图]研究表明新冠病毒不会通过母乳喂养方式感染婴儿]]></title>
+        <id>https://www.cnbeta.com/articles/science/1135213.htm</id>
+        <link href="https://www.cnbeta.com/articles/science/1135213.htm"/>
+        <updated>2021-06-01T08:57:29.000Z</updated>
+        <summary type="html"><![CDATA[最新一项研究表明，COVID-19 新冠病毒并不会通过母乳喂养的方式从母亲感染婴儿。罗切斯特大学医学中心（URMC）的研究人员和其他几所大学合作，通过研究表明患有 COVID-19 的母乳喂养妇女不会通过乳汁传播 SARS-CoV-2 病毒，但确实会产生能够中和该病毒的乳汁抗体。
+ 阅读全文]]></summary>
+        <author>
+            <name>study875</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[一加启动Nord CE 5G新品预热：采用“光滑和流线型”设计]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1135211.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1135211.htm"/>
+        <updated>2021-06-01T08:43:08.000Z</updated>
+        <summary type="html"><![CDATA[OnePlus Nord CE 5G 计划于今年 6 月 10 日在印度市场发布，就目前掌握的信息该机会比初代 Nord 更亲民。目前，一加印度已经启动了产品预热活动，首个特性是 OnePlus Nord CE 5G 配备了“光滑和流线型”设计。
+ 阅读全文]]></summary>
+        <author>
+            <name>study875</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[苹果正重启造车计划 最终目标是造整车]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1135209.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1135209.htm"/>
+        <updated>2021-06-01T08:34:25.000Z</updated>
+        <summary type="html"><![CDATA[6月1日消息，据报道，早在2015年，苹果内部称为“泰坦计划”（Project Titan）的电动自动汽车项目就开始浮出水面。然而过去几年里，有关该项目的战略目标却多次反复，技术进展似乎也不大。现在，苹果正重启造车计划，最终目标是开发整车。
+ 阅读全文]]></summary>
+        <author>
+            <name>teikaei</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[风阻系数仅0.146 广汽埃安ENO.146将量产]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1135207.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1135207.htm"/>
+        <updated>2021-06-01T08:22:04.000Z</updated>
+        <summary type="html"><![CDATA[5月31日，广汽埃安官方宣布“全球最低风阻概念车 ”——ENO.146即将量产，新车已于2019年11月份举办的广州车展期间亮相，其命名也是因为风阻系数0.146而来。官方表示，概念车在未来的量产过程中，将尽可能的保留概念车上的特点与元素。
+ 阅读全文]]></summary>
+        <author>
+            <name>teikaei</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[新一代4G智能地震仪服务云南漾濞余震观测]]></title>
+        <id>https://www.cnbeta.com/articles/science/1135205.htm</id>
+        <link href="https://www.cnbeta.com/articles/science/1135205.htm"/>
+        <updated>2021-06-01T08:19:23.000Z</updated>
+        <summary type="html"><![CDATA[近日，中国地震局公布参与云南漾濞 6.4 级和青海玛多 7.4 级地震的科考单位，中国科大因在云南漾濞第一时间部署自行研发的新一代 4G 实时地震监测系统位列其中。
+ 阅读全文]]></summary>
+        <author>
+            <name>study875</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[鸿海欲投资中国企业持股的马来西亚晶圆厂]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1135203.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1135203.htm"/>
+        <updated>2021-06-01T08:18:19.000Z</updated>
+        <summary type="html"><![CDATA[据国外媒体报道，鸿海正在与马来西亚科技公司 DNeX 协商投资入股。业界解读，这一目的是鸿海看中了 DNeX 持有的马来西亚晶圆厂 SilTerra， 以保证半导体制造产能。
+ 阅读全文]]></summary>
+        <author>
+            <name>study875</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[支持手机无级调节色调的Dusk智能太阳镜正在众筹]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1135201.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1135201.htm"/>
+        <updated>2021-06-01T08:10:09.000Z</updated>
+        <summary type="html"><![CDATA[科技初创企业 Ampere 推出的 Dusk 智能太阳镜，具有能够通过手机 App 来调节镜片色调的独特功能。除了 App 连接，用户还可按下隐藏于 Dusk 镜腿下方的按钮来调节墨镜色调。目前该项目正在 Indiegogo 上众筹，早期支持者能够以 179 / 249 美元（约 1140 / 1586 RMB）的优惠价格，去选购基础 / 高级版本。
+ 阅读全文]]></summary>
+        <author>
+            <name>raymon725</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[四种口味 日本发明可以吃的便签：传小纸条再不怕被抓了]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1135199.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1135199.htm"/>
+        <updated>2021-06-01T08:09:23.000Z</updated>
+        <summary type="html"><![CDATA[便签纸在课堂上经常使用，无论是互传情愫、还是偷传答案，都紧张刺激，但被抓后则直接社死。对此，日本一家企业研发出了一款“可以吃的便签本”，上市后销量不错，不少消费者还开发出了独特的食用方式。
+ 阅读全文]]></summary>
+        <author>
+            <name>study875</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[新研究揭示了乳酸的抗抑郁作用]]></title>
+        <id>https://www.cnbeta.com/articles/science/1135197.htm</id>
+        <link href="https://www.cnbeta.com/articles/science/1135197.htm"/>
+        <updated>2021-06-01T08:07:36.000Z</updated>
+        <summary type="html"><![CDATA[据外媒报道，世界卫生组织认为，影响近2.64亿人的抑郁症成为全球残疾的主要原因。基于抗抑郁药和心理疗法的治疗可以帮助患有这种疾病的人。然而正如联合 Pierre Magistretti教授展开相关研究的Jean-Luc Martin所指出的那样：“约30%的抑郁症患者未对抗抑郁药做出反应。”
+ 阅读全文]]></summary>
+        <author>
+            <name>teikaei</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[坦克、军舰齐上阵 腾讯 《CFHD》6月10日上线：支持NVIDIA Reflex]]></title>
+        <id>https://hot.cnbeta.com/articles/game/1135195.htm</id>
+        <link href="https://hot.cnbeta.com/articles/game/1135195.htm"/>
+        <updated>2021-06-01T08:06:44.000Z</updated>
+        <summary type="html"><![CDATA[前不久，腾讯在 2021 游戏发布会上正式宣布，《穿越火线 HD》（CFHD） 版本将于 6 月份正式开放。据悉，该版本在游戏引擎、画面分辨率、人物场景模型等方面进行了全面的提升和优化，能为玩家带来更极致的震撼视觉感受和更真实的战场体验。5 月 31 日，《穿越火线》官方正式宣布，《穿越火线 HD》 正式定档 6 月 10 日。
+ 阅读全文]]></summary>
+        <author>
+            <name>study875</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[大众计划将电池业务分拆上市，并大力开发固态电池]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1135193.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1135193.htm"/>
+        <updated>2021-06-01T08:03:34.000Z</updated>
+        <summary type="html"><![CDATA[据报道，近日，大众首席技术官Thomas Schmall在接受采访时透露，大众正在考虑将电池业务分拆上市。Schmall还表示，大众对开发新一代固态电池寄予厚望。
+ 阅读全文]]></summary>
+        <author>
+            <name>study875</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“清华毕业生求职”保姆照疑为盗用：对他人照片的五官进行了PS而来]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1135191.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1135191.htm"/>
+        <updated>2021-06-01T07:59:44.000Z</updated>
+        <summary type="html"><![CDATA[上海佑杰家政公司日前在某平台发布“清华毕业生求职保姆阿姨管家”一事引发热议，求职者简历也被频频转发。但有媒体爆料称，求职简历上的照片很可能并不是求职者本人，而是浙江某高校大二女生。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[英伟达演示《毁灭战士：永恒》官方光追版本 将更新光追和DLSS支持]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1135189.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1135189.htm"/>
+        <updated>2021-06-01T07:58:36.000Z</updated>
+        <summary type="html"><![CDATA[今天英伟达刚刚结束的发布会上，在推出了新显卡RTX 3080 Ti的同时，为演示其强悍的性能，英伟达展示了游戏《毁灭战士：永恒》官方光追支持后的对比效果。英伟达发言人称，游戏此后将会得到RTX光追和DLSS技术支持更新。
+ 阅读全文]]></summary>
+        <author>
+            <name>teikaei</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[图]WSLg功能初探：在Windows 10上运行Linux GUI应用]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1135187.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1135187.htm"/>
+        <updated>2021-06-01T07:55:37.000Z</updated>
+        <summary type="html"><![CDATA[在 Windows 10 最新预览版中，用户可以通过最新的 Windows Subsystem for Linux GUI（WSLg） 直接在 Windows 10 桌面运行 Linux 应用程序了。在外媒 Bleeping Computer 发布的最新 WSLg 功能上手文章中，演示了几款主流的图形化 Linux 应用程序。
+ 阅读全文]]></summary>
+        <author>
+            <name>study875</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[科学家开发花粉大小的微粒产品  可保护蜜蜂免受致命杀虫剂的侵害]]></title>
+        <id>https://www.cnbeta.com/articles/science/1135185.htm</id>
+        <link href="https://www.cnbeta.com/articles/science/1135185.htm"/>
+        <updated>2021-06-01T07:53:19.000Z</updated>
+        <summary type="html"><![CDATA[据外媒报道，蜜蜂在为人类食用的许多植物授粉方面发挥着关键作用，因此是粮食安全的关键，但世界各地的蜜蜂数量仍在迅速减少。造成这种情况的因素有很多，包括栖息地的丧失和干旱等。但康奈尔大学开发的一种新的可摄取微粒产品瞄准了一个关键因素，即在致命的杀虫剂对这些重要的小动物造成伤害之前对其进行“解毒”。
+ 阅读全文]]></summary>
+        <author>
+            <name>vivian</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[戴姆勒同意向诺基亚支付专利使用费 双方同意停止诉讼]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1135183.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1135183.htm"/>
+        <updated>2021-06-01T07:52:59.000Z</updated>
+        <summary type="html"><![CDATA[北京时间6月1日下午消息，据报道，戴姆勒公司近日同意向诺基亚支付专利使用费，从而结束了一场科技公司与汽车公司之间针对关键技术使用费的纠纷。诺基亚每年的专利许可收入有17亿美元。诺基亚和汽车制造商戴姆勒这些年在德国法院不断互相起诉，法庭裁决结果各不相同。
+ 阅读全文]]></summary>
+        <author>
+            <name>teikaei</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[奥运冠军马琳在学习C＋化身编程大师？本人回应来了]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1135181.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1135181.htm"/>
+        <updated>2021-06-01T07:52:07.000Z</updated>
+        <summary type="html"><![CDATA[近日，有网友在一个专业编程网站上看到了一个熟悉的名字——马琳。不仅头像是马琳本人，而且个人简介一栏中，还写明了“奥运乒乓球男单冠军”。难道乒乓球奥运冠军摇身一变，成为编程大师了？这可是一个不小的跨越。
+ 阅读全文]]></summary>
+        <author>
+            <name>teikaei</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[多家被处罚的教育培训机构回应：诚恳接受，全面整改]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1135179.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1135179.htm"/>
+        <updated>2021-06-01T07:51:03.000Z</updated>
+        <summary type="html"><![CDATA[6月1日，在被通报进行顶格罚款之后，多家被处罚的教育培训机构发文回应。@华尔街英语官方微博 称，华尔街英语完全接受市场监管部门给予的相关行政处罚。公司已着手对不合规的价格展示及市场宣传进行全面整改，将继续完善企业内部管理，严格依法开展企业经营活动，做好产品及服务。
+ 阅读全文]]></summary>
+        <author>
+            <name>teikaei</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[又一国央行发声：加密货币不可能逃脱监管]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1135177.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1135177.htm"/>
+        <updated>2021-06-01T07:49:42.000Z</updated>
+        <summary type="html"><![CDATA[瑞典央行行长英格维斯（Stefan Ingves）周二表示，比特币和其他加密货币不太可能逃脱监管，因为监管机构正对这种现象的流行做出反应。虽然货币政策官员对比特币及其竞争对手表示了近乎普遍的怀疑，但加密货币仍在继续吸引着狂热的追随者。
+ 阅读全文]]></summary>
+        <author>
+            <name>teikaei</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[机皇重返舞台 消息称三星Galaxy Note系列旗舰明年回归]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1135175.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1135175.htm"/>
+        <updated>2021-06-01T07:46:04.000Z</updated>
+        <summary type="html"><![CDATA[6月1日消息，爆料人@FrontTron爆料，三星将于明年重启Galaxy Note系列。爆料人@FrontTron指出，三星内部正在讨论，Galaxy Note系列将在明年回归。我们知道，这一代Galaxy S21 Ultra加入了对S Pen的支持，外界认为这是三星将Galaxy S系列替代Galaxy Note系列的重要信号。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[人造3D单磁性纳米结构有望改变现代计算与存储装置]]></title>
+        <id>https://www.cnbeta.com/articles/science/1135173.htm</id>
+        <link href="https://www.cnbeta.com/articles/science/1135173.htm"/>
+        <updated>2021-06-01T07:45:36.000Z</updated>
+        <summary type="html"><![CDATA[通过打造有史以来第一个被称作“旋转冰”的材料的 3D 复制品，科学家们已经朝着利用磁荷的强大设备又更近了一步。在今日发表于《自然通讯》期刊上的一项新研究中，由卡迪夫大学科学家带领的一支研究团队，就凭借复杂的 3D 打印和处理方法，制成了世界上首个旋转冰材料的 3D 复制品。
+ 阅读全文]]></summary>
+        <author>
+            <name>raymon725</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[摩托车主举报特斯拉违法驾驶 结果自己被扣8分]]></title>
+        <id>https://hot.cnbeta.com/articles/funny/1135171.htm</id>
+        <link href="https://hot.cnbeta.com/articles/funny/1135171.htm"/>
+        <updated>2021-06-01T07:44:39.000Z</updated>
+        <summary type="html"><![CDATA[关于不文明驾驶或者开车加塞，网络上有这样的段子流传，“我开车最讨厌两种人，一种是乱加塞的，另一种是不让我加塞的”。对于违法驾驶的车辆，不少车主想必也会有这样的心理。
+ 阅读全文]]></summary>
+        <author>
+            <name>teikaei</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[云南野象群北迁距昆明约20公里：投喂“劝返”有用吗？]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1135169.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1135169.htm"/>
+        <updated>2021-06-01T07:44:22.000Z</updated>
+        <summary type="html"><![CDATA[离家跋涉数百公里，原本栖息在云南西双版纳的15头野生亚洲象“一路向北”迁徙步履不停，几乎跨越了半个云南。据“云南发布”消息，截至5月31日17：30，野象群已经迁移至玉溪市红塔区洛河乡与大营街街道交界处，距昆明市晋宁区边缘近20公里，距昆明城区已不到百公里。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“北大韦神”高中班主任：愿公众少打扰他，北大多支持]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1135167.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1135167.htm"/>
+        <updated>2021-06-01T07:44:07.000Z</updated>
+        <summary type="html"><![CDATA[“再给他五六年的时间，我相信他会在学术上有所作为，或许会在数学领域做出惊艳世界的研究成果。”5月31日，北京大学数学科学学院助理教授韦东奕手提馒头、水接受采访的视频走红网络后，澎湃新闻专访了韦东奕高中时的班主任、现任山东师范大学附属中学教师张永华。
+ 阅读全文]]></summary>
+        <author>
+            <name>teikaei</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[大众T1复古造型 比亚迪动力系统：松散SS SUMMER正式上市]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1135165.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1135165.htm"/>
+        <updated>2021-06-01T07:42:47.000Z</updated>
+        <summary type="html"><![CDATA[近日，在北京国际摩托展上，松散旗下备受关注的SS SUMMER车型正式上市，新车共推出一款车型，售价28.8万元，同此前的预售价格一致。新车最大的亮点是其复古的造型风格，定位多用途MPV，造型致敬1960年代最畅销的大众T1多用途汽车，松散根据2020新世纪的审美和安全需求，重新设计了整车造型，突出的车头设计让驾驶安全性得到质的提升。
+ 阅读全文]]></summary>
+        <author>
+            <name>teikaei</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[支付宝上线儿童节限定付款码 搜索“六一快乐”可获小红花]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1135163.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1135163.htm"/>
+        <updated>2021-06-01T07:42:35.000Z</updated>
+        <summary type="html"><![CDATA[对于大人们来说，今天是618年中大促首日，而对于小朋友来说，今天则是愉快的六一儿童节。今日午间，支付宝官微表示，在支付宝App中，搜索“六一快乐”，每个小朋友都可以“调皮”。经测试，在支付宝搜索“六一快乐”后，将可领取六一儿童节限定付款码皮肤，领取后将在付款码上增加小红花标示一枚。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[视频集锦]NVIDIA为《荒野大镖客：救赎2》等多款游戏引入RTX支持]]></title>
         <id>https://hot.cnbeta.com/articles/game/1135161.htm</id>
