@@ -1018,6 +1018,114 @@
       "siteUrl": "https://www.cnbeta.com",
       "articles": [
         {
+          "id": "https://www.cnbeta.com/articles/tech/1135303.htm",
+          "author": "ugmbbc",
+          "description": "“垃圾信息正以无孔不入的方式入侵我的iPhone。”如果不是要给朋友发几张照片，家住北京的于女士并未注意到自己的iPhone相册里，竟多了5条“共享相簿”请求。“全是给某平台点赞、涨粉的垃圾信息，半个月就收到了5条，他们怎么进来的？”于女士有些不解。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1135303.htm",
+          "publishedOn": "2021-06-01T12:44:10.000Z",
+          "wordCount": 199,
+          "title": "垃圾信息入侵iPhone相册背后：单条价格低至6分钱 日发80万条"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1135301.htm",
+          "author": "ugmbbc",
+          "description": "现在，人们一听到“王者荣耀”，第一反应肯定是腾讯旗下那款游戏。不过，贵州问渠成裕酒业有限公司（以下简称“贵州问渠成裕酒业”）却将“王者荣耀”成功注册成了酒类商标，还注册成立了贵州王者荣耀酒业有限公司。一怒之下，腾讯公司将国家知识产权局及贵州问渠成裕酒业告至法院。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1135301.htm",
+          "publishedOn": "2021-06-01T12:43:41.000Z",
+          "wordCount": 194,
+          "title": "腾讯告赢国家知识产权局 “王者荣耀”商标维权终审胜诉"
+        },
+        {
+          "id": "https://hot.cnbeta.com/articles/music/1135299.htm",
+          "author": "ugmbbc",
+          "description": "6月1日晚间消息，2021中国网络版权保护与发展大会在北京举行。大会上，网易公司CEO丁磊作发表《探索全球一流版权治理模式 加速建设数字音乐强国》主题演讲。“中国音乐市场正在进行代际的更替，现在已经有超过50%用户是90后。我们相信，未来趋势一定会更好，而不是更差。”\n 阅读全文",
+          "link": "https://hot.cnbeta.com/articles/music/1135299.htm",
+          "publishedOn": "2021-06-01T12:42:46.000Z",
+          "wordCount": 193,
+          "title": "丁磊：中国音乐市场正在进行代际更替 未来趋势一定会更好"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1135297.htm",
+          "author": "ugmbbc",
+          "description": "你前脚刚说了想去吃火锅，后脚打开手机就看到App在给你推荐附近的火锅店？究竟是巧合，还是App在偷听我们谈话？在#网络安全法实施四周年#之际，新华社记者带你走进专业测评实验室，对手机App是否存在偷听用户的情况进行实际测试。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1135297.htm",
+          "publishedOn": "2021-06-01T12:40:39.000Z",
+          "wordCount": 185,
+          "title": "新华社实测：精准广告真是手机App偷听用户来的吗？"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1135295.htm",
+          "author": "ugmbbc",
+          "description": "今日，京东618年中大促开启，第一波大促正式降临，全品类全品牌年内新低。与此同时，京东手机品类迎来狂促，不仅有5折秒杀、爆款手机至高再减618元，还有iPhone 12领券至高减1400元、抢神券满3000减2021元。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1135295.htm",
+          "publishedOn": "2021-06-01T12:36:19.000Z",
+          "wordCount": 201,
+          "title": "京东6·18手机大促：5折秒杀史低、抢2021元神券"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1135293.htm",
+          "author": "ugmbbc",
+          "description": "苹果M1又快又省电，除了跑分很高之外，实际体验上也有一种流畅感。原来除了硬件性能强大以外，软件层面也有优化技巧。一位名叫Hoakley的程序员偶然发现了其中的秘密。这老哥总之是有钱，M1和英特尔版的iMac都买了。业余时间他喜欢自己开发点实用小工具，比如压缩软件。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1135293.htm",
+          "publishedOn": "2021-06-01T12:35:26.000Z",
+          "wordCount": 193,
+          "title": "苹果M1用着舒服的原因找到了，英特尔：学到了，下次我也用"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/science/1135291.htm",
+          "author": "ugmbbc",
+          "description": "从工业革命以来，随着温室气体排放增加，导致全球气温不断升高，与之同时，也进一步提高了与高温有关的死亡人数。据媒体报道，发表在《自然气候变化》上的一项新研究指出，所有与高温有关的死亡人群中，有超三分之一的是由人为因素导致的气候变化造成的。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/science/1135291.htm",
+          "publishedOn": "2021-06-01T12:34:29.000Z",
+          "wordCount": 183,
+          "title": "研究发现超三分之一高温死亡是由人为因素导致的"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1135289.htm",
+          "author": "ugmbbc",
+          "description": "Mozilla Firefox 89 正式版今天发布，这让通常使用稳定版通道的公众得以首次看到新的Proton界面，该界面简化了浏览器的菜单，改变了标签栏呈现的方式，是Firefox史上最大的界面更新之一。这次更新还改善了与macOS的整合，并包括进一步的隐私增强。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1135289.htm",
+          "publishedOn": "2021-06-01T12:05:03.000Z",
+          "wordCount": 206,
+          "title": "Mozilla Firefox 89正式版发布 引入全新Proton界面"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1135287.htm",
+          "author": "ugmbbc",
+          "description": "进入夏季天气后，我国南方地区又迎来了雨季，而珠海则率先体验到了暴雨天气的侵袭。6月1日，珠海市发布暴雨红色预警，在今日凌晨珠海市多区，发生暴雨天气。大雨也引发了市区道路积水，除了不少车辆被淹受损之外，还有车辆被困在隧道之中，车主也差点遭遇致命险情。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1135287.htm",
+          "publishedOn": "2021-06-01T11:57:36.000Z",
+          "wordCount": 188,
+          "title": "隧道5分钟完全被水淹没 车主曝大众迈腾保命功能救他一命"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1135285.htm",
+          "author": "ugmbbc",
+          "description": "5月30日，2021国际显示技术大会在北京亦创国际会展中心正式开幕，会上许多国内外面板厂商都推出了自家的全新产品。TCL华星也在会上发布了一款可用于移动平板的10.95英寸高素质LCD屏，有爆料消息称该屏幕将会在小米平板5高配版机型上首发搭载。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1135285.htm",
+          "publishedOn": "2021-06-01T11:56:50.000Z",
+          "wordCount": 189,
+          "title": "TCL华星发布10.95 英寸2K屏：支持120Hz动态刷新率"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1135283.htm",
+          "author": "ugmbbc",
+          "description": "综合国内媒体报道，2021年6月1日，清华大学计算机系知识工程实验室迎来了中国首个原创虚拟学生—华智冰，清华大学为她办理了学生证和邮箱。据了解，华智冰师从智源研究院学术副院长、清华大学教授唐杰，并由北京智源人工智能研究院、智谱AI和小冰联合培养。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1135283.htm",
+          "publishedOn": "2021-06-01T11:55:39.000Z",
+          "wordCount": 187,
+          "title": "清华大学迎来中国首个原创虚拟学生：智商和情商双高 颜值出众"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1135281.htm",
+          "author": "ugmbbc",
+          "description": "中国人口生育政策再次进行重大调整，将实施一对夫妻可以生育三个子女政策及配套支持措施。在此之前，全国人大代表、广东国鼎律师事务所主任朱列玉，曾连续4年在全国“两会”上提议，实行全面放开三孩政策。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1135281.htm",
+          "publishedOn": "2021-06-01T11:54:48.000Z",
+          "wordCount": 182,
+          "title": "三孩开放：有代表建议女职工产假延长至3年"
+        },
+        {
           "id": "https://www.cnbeta.com/articles/science/1135279.htm",
           "author": "ugmbbc",
           "description": "与你的年龄相比，你的大脑有多老？根据发表在《阿尔茨海默氏症与痴呆症》上的研究结果，拉什大学医学中心的研究人员开发的一种新的大脑健康测量方法可能为识别有记忆和思维问题风险的个人提供一种新的方法。研究结果于2021年6月1日发表在《阿尔茨海默氏症与痴呆症：阿尔茨海默氏症协会杂志》。\n 阅读全文",
