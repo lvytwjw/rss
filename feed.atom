@@ -2,10 +2,110 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://lvytwjw.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-01T14:18:54.023Z</updated>
+    <updated>2021-06-01T15:32:09.890Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://lvytwjw.github.io/rss/index.html"/>
     <link rel="self" href="https://lvytwjw.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Coinbase加密货币借记卡现在已被Apple Pay、Google Pay所支持]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1135341.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1135341.htm"/>
+        <updated>2021-06-01T15:18:46.000Z</updated>
+        <summary type="html"><![CDATA[Coinbase宣布，其加密货币借记卡现在与Apple Pay和Google Play兼容，允许用户用虚拟货币结账，甚至还可以消费赚取加密货币形式的返点。Coinbase卡是一张Visa借记卡，允许用户将加密货币作为现金在全球范围内消费。对Apple Pay的支持将使Coinbase卡用户能够快速激活他们的卡，并在iPhone或Apple Watch上进行非接触式支付。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[特斯拉四大工厂均已配备大型压铸机 单车成本可降20%]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1135339.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1135339.htm"/>
+        <updated>2021-06-01T15:12:37.000Z</updated>
+        <summary type="html"><![CDATA[据Teslarati报道，博主Gabeincal提供的航拍录像显示特斯拉加州工厂也和德州工厂一样拥有大型压铸机，并且已经通过大型压铸机大批量生产了Model Y的前底盘件。不久前，德国一名铸造生产专家Axel Turck发布了一组Model Y前底盘件的照片。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[世卫组织将中国科兴新冠疫苗列入“紧急使用清单”]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1135337.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1135337.htm"/>
+        <updated>2021-06-01T15:06:53.000Z</updated>
+        <summary type="html"><![CDATA[当地时间6月1日，世卫组织（WHO）宣布，北京科兴中维生物技术有限公司研制的新冠灭活疫苗通过了评审，正式列入“紧急使用清单”（EUL）。由此，中国已有两家新冠灭活疫苗加入了全球供应队伍，为全球新冠疫苗的供应和接种发挥中国力量。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[一秒成年？央视起底“人脸代过”交易背后的黑产]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1135335.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1135335.htm"/>
+        <updated>2021-06-01T15:04:04.000Z</updated>
+        <summary type="html"><![CDATA[今天是六一儿童节。从今天起，新修订的未成年人保护法开始实施，其中，在新增设的“网络保护”专章中规定，家庭、学校、社会组织互相配合，采取科学、合理的方式对未成年人沉迷网络进行预防和干预。具体到网络游戏方面，规定了要从内容与技术等方面来预防未成年人沉迷网络。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[随意停放无法还车 福州6月1日起开启共享单车“道钉”监管新模式]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1135333.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1135333.htm"/>
+        <updated>2021-06-01T15:03:06.000Z</updated>
+        <summary type="html"><![CDATA[6月1日起，福州将在7个严管区、33个共享单车驿站投放“蓝牙道钉”，随意停放单车将无法锁车并继续计费。在福州台江区长汀街上，记者试图将骑行结束的共享单车随意停放在人行道上，却始终锁不上。“此处禁停，请在App指定地点还车。” 而当记者将它推行至黄色标线划定的“共享单车驿站”内，才顺利结束骑行。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[新华社体验部分网络平台青少年模式：易绕过、不良信息仍多……]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1135331.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1135331.htm"/>
+        <updated>2021-06-01T15:02:10.000Z</updated>
+        <summary type="html"><![CDATA[新修订的未成年人保护法6月1日起施行。其中部分规定与网络平台运营方设置“青少年模式”的责任相关：网络游戏、网络直播、网络音视频、网络社交等网络服务提供者应针对未成年人使用其服务设置相应的时间管理、权限管理、消费管理等功能。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AMD超分辨率技术将对PS5/XSX的4K游戏有重大影响]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1135329.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1135329.htm"/>
+        <updated>2021-06-01T14:27:44.000Z</updated>
+        <summary type="html"><![CDATA[AMD宣布FidelityFX超分辨率技术（AMD版的DLSS）将于6月22日上线。该技术也是利用低分辨率图像进行多帧合成，但和DLSS不同，不是单纯地基于AI辅助机器学习来实现。它可提供比4K原生分辨率两倍的帧率，有4挡画质可供选择。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[斯嘉丽·约翰逊谈黑寡妇之死：会让大家理解并接受]]></title>
+        <id>https://hot.cnbeta.com/articles/movie/1135327.htm</id>
+        <link href="https://hot.cnbeta.com/articles/movie/1135327.htm"/>
+        <updated>2021-06-01T14:22:53.000Z</updated>
+        <summary type="html"><![CDATA[作为备受期待的漫威超级英雄大片《黑寡妇》因疫情关系不断延档，终于7月登陆北美院线。随着影片上映的临近，主创团队相关采访也在网络上发布。在《复仇者联盟4：终局之战》中，黑寡妇为了取得灵魂宝石，选择跳崖牺牲自己，让所有英雄们相当悲痛，虐心剧情也让影迷意难平。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Front-End Testing is For Everyone]]></title>
+        <id>https://css-tricks.com/?p=341342</id>
+        <link href="https://css-tricks.com/front-end-testing-is-for-everyone/"/>
+        <updated>2021-06-01T14:17:43.000Z</updated>
+        <summary type="html"><![CDATA[Testing is one of those things that you either get super excited about or kinda close your eyes and walk away. Whichever camp you fall into, I’m here to tell you that front-end testing is for everyone. In fact, …
+The post Front-End Testing is For Everyone appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Evgeny Klimenchenko</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[泄密者称“iPhone 13”将拥有比iPhone 12系列更大的电池]]></title>
         <id>https://www.cnbeta.com/articles/tech/1135325.htm</id>
@@ -18,6 +118,18 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Jetpack Boost Handles Critical CSS For You]]></title>
+        <id>https://css-tricks.com/?p=341296</id>
+        <link href="https://css-tricks.com/jetpack-boost-handles-critical-css-for-you/"/>
+        <updated>2021-06-01T14:16:55.000Z</updated>
+        <summary type="html"><![CDATA[Critical CSS is one of those things I see in my performance reports but always seem to ignore. I know what it means. It means to put only the CSS required to render things immediately visible in a <style>…
+The post Jetpack Boost Handles Critical CSS For You appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Geoff Graham</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Moderna向FDA申请其COVID-19疫苗的完全许可]]></title>
         <id>https://www.cnbeta.com/articles/tech/1135323.htm</id>
         <link href="https://www.cnbeta.com/articles/tech/1135323.htm"/>
@@ -26,6 +138,16 @@
  阅读全文]]></summary>
         <author>
             <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Smashing Podcast Episode 38 With Ivan Akulov: Why Is My React App Slow?]]></title>
+        <id>https://smashingmagazine.com/2021/06/smashing-podcast-episode-38/</id>
+        <link href="https://smashingmagazine.com/2021/06/smashing-podcast-episode-38/"/>
+        <updated>2021-06-01T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In this episode, we’re talking about React performance. What factors slow our React apps down, and how can we fix it? Drew McLellan talks to expert Ivan Akulov to find out.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Drew McLellan)</name>
         </author>
     </entry>
     <entry>
