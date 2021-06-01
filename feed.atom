@@ -2,10 +2,87 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://lvytwjw.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-01T15:32:09.890Z</updated>
+    <updated>2021-06-01T17:20:31.421Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://lvytwjw.github.io/rss/index.html"/>
     <link rel="self" href="https://lvytwjw.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[《战地6》将于6月9日22点正式公开 还有其他新作]]></title>
+        <id>https://hot.cnbeta.com/articles/game/1135351.htm</id>
+        <link href="https://hot.cnbeta.com/articles/game/1135351.htm"/>
+        <updated>2021-06-01T16:49:01.000Z</updated>
+        <summary type="html"><![CDATA[据战地官推消息，《战地6》将于6月9日正式公布，而据视频显示，具体公开时间为6月9日22点（北京时间），除了《战地6》以外，似乎还有新作将在同一天公开。
+《战地6》预热预告：
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[《孤岛危机三部曲：复刻版》今秋发售 登陆PC和主机]]></title>
+        <id>https://hot.cnbeta.com/articles/game/1135349.htm</id>
+        <link href="https://hot.cnbeta.com/articles/game/1135349.htm"/>
+        <updated>2021-06-01T16:40:29.000Z</updated>
+        <summary type="html"><![CDATA[Crytek宣布《孤岛危机三部曲》复刻版将于今年秋季发售，登陆PS4、Xbox One、Switch和PC平台，《孤岛危机复刻版》已于去年发售。
+《孤岛危机三部曲》预告：
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[《仙剑奇侠传7》新女主角公开 形似赵灵儿]]></title>
+        <id>https://hot.cnbeta.com/articles/game/1135347.htm</id>
+        <link href="https://hot.cnbeta.com/articles/game/1135347.htm"/>
+        <updated>2021-06-01T16:39:56.000Z</updated>
+        <summary type="html"><![CDATA[在今天进行的NVIDIA AT COMPUTEX 2021直播活动中，来自《仙剑奇侠传七》新女角色登场，由于公开信息比较少，具体信息还未得知，看起来有些像赵灵儿。《仙剑奇侠传七》注重剧情和游戏性的双重体验。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[My Developer Journey – How I Got a Remote Job and Increased My Salary While Contributing to Open Source]]></title>
+        <id>60acf28e11ffb70827ef6dd9</id>
+        <link href="https://www.freecodecamp.org/news/my-developer-journey-how-i-increased-my-salary-and-got-a-remote-job/"/>
+        <updated>2021-06-01T16:35:00.000Z</updated>
+        <summary type="html"><![CDATA[Hey everyone, my name is Santosh. In this article, I will tell you how I ramped up my career and ended up increasing my salary as a developer.  I'll share what I learned from each job along the way, how you can stand out, tips for negotiating salary, and how]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Get a Cybersecurity Job in 2021]]></title>
+        <id>60aff2d711ffb70827ef8829</id>
+        <link href="https://www.freecodecamp.org/news/how-to-get-a-cybersecurity-job/"/>
+        <updated>2021-06-01T16:34:00.000Z</updated>
+        <summary type="html"><![CDATA[This informative tutorial goes deep into how to get a cybersecurity job, with insights from senior leaders and hiring managers in the field.]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[7-Eleven将在2022年底前的250个美国门店安装500个电动车充电站]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1135345.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1135345.htm"/>
+        <updated>2021-06-01T15:46:01.000Z</updated>
+        <summary type="html"><![CDATA[便利店无处不在，在美国，消费者购买的绝大部分汽油都是由它们出售的。但是，随着越来越多的美国人过渡到电动汽车，人们访问便利店的一个主要原因将消失。行业巨头7-Eleven公司正在寻求抓住这个不断增长的电动车司机市场。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[宏光MINI超长版改装车走红网络 真正车主现身]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1135343.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1135343.htm"/>
+        <updated>2021-06-01T15:41:32.000Z</updated>
+        <summary type="html"><![CDATA[今日，有网友上传的一组图片显示，一辆超级加长版的五菱宏光MINI EV实车，被拖到了拖车上，疑似为符合上海地区上牌规则的宏光MINI EV新车型。同时，此前流出的加长版车型海报，还写有“黄金上牌尺寸，符合上海新政”、“售价100,001元，上海地区额外优惠6万元”等宣传标语。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Coinbase加密货币借记卡现在已被Apple Pay、Google Pay所支持]]></title>
         <id>https://www.cnbeta.com/articles/tech/1135341.htm</id>
