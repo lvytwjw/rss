@@ -2,10 +2,329 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://lvytwjw.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-01T05:15:12.342Z</updated>
+    <updated>2021-06-01T07:36:34.085Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://lvytwjw.github.io/rss/index.html"/>
     <link rel="self" href="https://lvytwjw.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[[视频集锦]NVIDIA为《荒野大镖客：救赎2》等多款游戏引入RTX支持]]></title>
+        <id>https://hot.cnbeta.com/articles/game/1135161.htm</id>
+        <link href="https://hot.cnbeta.com/articles/game/1135161.htm"/>
+        <updated>2021-06-01T07:17:47.000Z</updated>
+        <summary type="html"><![CDATA[NVIDIA 刚刚宣布了支持光线追踪和深度学习超级采样（DLSS）技术的游戏阵容，包括《荒野大镖客：救赎2》、《彩虹六号：围攻》、《毁灭战士：永恒》和《无人深空》等游戏。此外，NVIDIA 还宣布了几款全新的 REFLEX 游戏。
+ 阅读全文]]></summary>
+        <author>
+            <name>study875</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[以色列军方对哈马斯发起“城墙卫士行动”：全球首个AI战争]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1135159.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1135159.htm"/>
+        <updated>2021-06-01T07:07:47.000Z</updated>
+        <summary type="html"><![CDATA[据外媒报道，由于极度依赖机器学习，以色列军方将“城墙卫士行动(Operation Guardian of the Walls)”称为是第一个人工智能(AI)战争。“人工智能首次成为打击敌人的关键组成部分和力量倍增器，”以色列国防军(IDF)情报团的一名高级军官说道，“这是以色列国防军的首次此类行动。我们采用了新的作战方法并使用了技术发展，这对整个IDF来说是一种力量倍增器。”
+ 阅读全文]]></summary>
+        <author>
+            <name>teikaei</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AMD介绍“Zen 3+”与3D垂直缓存技术：有望提升15%游戏性能]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1135157.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1135157.htm"/>
+        <updated>2021-06-01T07:05:29.000Z</updated>
+        <summary type="html"><![CDATA[在今天的台北电脑展（Computex 2021）主题演讲期间，AMD CEO 苏姿丰博士详细介绍了近期多次爆料过的所谓“Zen 3+”CPU 架构。虽然没有明确提及“Zen 3+”的名称，但她还是透露 AMD 与台积电合作开发了全新的 3D 芯片堆叠技术 —— 在结构硅衬底的基础上，运用了 TSV 硅通孔技术。
+ 阅读全文]]></summary>
+        <author>
+            <name>raymon725</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[洛阳一影城回应银幕被儿童损坏：监护人如不沟通赔偿，将起诉]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1135155.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1135155.htm"/>
+        <updated>2021-06-01T06:45:35.000Z</updated>
+        <summary type="html"><![CDATA[关于我影城七号厅银幕被损坏一事的声明：因该事件在网络持续发酵，我影城作出以下声明：该事件场次时间为：2021年5月29日晚20:35分 电影《我要我们在一起》。我影城值班经理在监控中发现七号厅内有儿童在拍打影厅银幕，随后进厅制止，此时银幕已经遭到损坏。
+ 阅读全文]]></summary>
+        <author>
+            <name>teikaei</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[英伟达正式发布RTX 3080 Ti 12GB与RTX 3070 Ti 8GB桌面显卡]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1135153.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1135153.htm"/>
+        <updated>2021-06-01T06:41:24.000Z</updated>
+        <summary type="html"><![CDATA[随着台北电脑展（Computex 2021）的到来，英伟达也正式揭晓了“锁算力”的 GeForce RTX 3080 Ti 12GB 和 RTX 3070 Ti 8GB 桌面显卡新品，售价分别为 1199 / 599 美元（约 7640 / 3817 RMB）。首先，正如此前爆料的那样，RTX 3080 Ti 将接替 RTX 3090 来征战高端游戏显卡市场，性能较 2080 Ti 和 1080 Ti 分别提升了 50% 和两倍。
+ 阅读全文]]></summary>
+        <author>
+            <name>raymon725</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[索尼互娱CEO：PS5预计6月开始盈利 中国市场是巨大商机]]></title>
+        <id>https://hot.cnbeta.com/articles/game/1135151.htm</id>
+        <link href="https://hot.cnbeta.com/articles/game/1135151.htm"/>
+        <updated>2021-06-01T06:38:55.000Z</updated>
+        <summary type="html"><![CDATA[众所周知PS5、Xbox Series X/S这些次世代主机都和之前一样都在亏本销售，但索软两家还是希望未来某个时间点硬件销售能实现盈利。而据索尼互娱CEO透露，PS5会很快达到盈亏平衡点，6月实现盈利，中国市场是一个重要商机。
+ 阅读全文]]></summary>
+        <author>
+            <name>vivian</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[东京奥运可能会是史上最无聊的奥运会]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1135149.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1135149.htm"/>
+        <updated>2021-06-01T06:38:11.000Z</updated>
+        <summary type="html"><![CDATA[距离东京奥运会开幕仅剩不到2个月时间，这场四年一次的盛事究竟能否顺利举办还是个未知数，但日本当局已经为观众入场观看奥运会做好了准备。据日本《读卖新闻》5月31日周一报道，日本政府已起草一份东京奥运防疫措施草案，具体内容包括：
+ 阅读全文]]></summary>
+        <author>
+            <name>teikaei</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[图]Alienware X15/17游戏本发布：厚度薄 性能强 散热足]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1135147.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1135147.htm"/>
+        <updated>2021-06-01T06:33:59.000Z</updated>
+        <summary type="html"><![CDATA[在制造超薄游戏笔记本电脑上，Alienware 和 Razer 之间会有一场苦战。Razer 最新升级的灵刃 15 Advanced 厚度只有 15.8mm，而 Alienware 最新推出的 X15 旗舰型号实际厚度仅为 15.9mm。新款 X15 游戏笔记本的厚度真的非常纤薄，特别是考虑到 Alienware 产品的主要卖点通常不是便携性。
+ 阅读全文]]></summary>
+        <author>
+            <name>study875</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[小霸王运营主体被强制执行1亿元 法定代表人被限制高消费]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1135145.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1135145.htm"/>
+        <updated>2021-06-01T06:29:10.000Z</updated>
+        <summary type="html"><![CDATA[小霸王运营主体广东益华集团投资有限公司于2021年5月因未按时履行法律义务被法院强制执行两次，涉及执行标的超1.1亿。企查查显示，目前该公司拥有8条欠税公告，欠税总金额为33.79万元，公司法定代表人陈健仁已被限制高消费。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[科学家开发新海绵材料  可反复去除和再利用受污染水域中的磷酸盐]]></title>
+        <id>https://www.cnbeta.com/articles/science/1135143.htm</id>
+        <link href="https://www.cnbeta.com/articles/science/1135143.htm"/>
+        <updated>2021-06-01T06:28:09.000Z</updated>
+        <summary type="html"><![CDATA[据外媒报道，地壳中的磷酸盐是水生植物和动物生长的关键成分，但人类活动将太多的磷酸盐冲入我们的水道。其后果之一是一些湖泊和河流表面的藻类大量繁殖，使其他海洋生物失去了生存所需的氧气。一种新型海绵材料可以帮助科学家解决这个问题，它不仅能够从水源中捕获磷酸盐，还能将其收集起来重新使用。
+ 阅读全文]]></summary>
+        <author>
+            <name>vivian</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[特斯拉股票值不值得买入？华尔街认为股价上行空间仅为3%]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1135141.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1135141.htm"/>
+        <updated>2021-06-01T06:16:43.000Z</updated>
+        <summary type="html"><![CDATA[特斯拉是市场上最具争议的股票之一。该公司拥有强大的竞争优势，是全球电动汽车的领导者，同时也是市场最大的做空目标之一。
+ 阅读全文]]></summary>
+        <author>
+            <name>teikaei</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[联合国报告：一架自主无人机在利比亚独自攻击士兵]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1135139.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1135139.htm"/>
+        <updated>2021-06-01T06:15:50.000Z</updated>
+        <summary type="html"><![CDATA[据外媒CNET报道，像埃隆·马斯克和萨姆·哈里斯这样的思想家早就声称人工智能可能对人类文明构成严重的威胁。但是，如果人们对人工智能或机器人感到恐慌，联合国的一份新报告可能会增加他们的焦虑，因为它解释说一架无人机独自攻击并可能“杀死”士兵。
+ 阅读全文]]></summary>
+        <author>
+            <name>vivian</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[给牛戴上口罩：农业巨头嘉吉将推吸收奶牛甲烷排放的可穿戴设备]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1135137.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1135137.htm"/>
+        <updated>2021-06-01T06:14:09.000Z</updated>
+        <summary type="html"><![CDATA[美国最大非上市公司、农业巨头嘉吉集团（Cargill）将开始销售奶牛使用的可穿戴设备，以吸收它们排放的甲烷气体，支持一项可帮助该行业减少温室气体排放的实验技术。这款类似口罩的设备是由英国初创公司Zelp开发的，该公司声称，它可以减少一半以上的甲烷排放。
+ 阅读全文]]></summary>
+        <author>
+            <name>teikaei</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[印度央行出人意料宣布不禁止加密货币交易]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1135135.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1135135.htm"/>
+        <updated>2021-06-01T06:13:44.000Z</updated>
+        <summary type="html"><![CDATA[印度央行当地时间周一晚间作出澄清，称加密货币交易在印度不被禁止，令印度加密货币社区松了一口气。印度央行通知各商业银行，不要以2018年的央行通知为理由来阻碍加密货币交易，因为印度最高法院已经撤销了该命令。但银行必须继续对这些交易采取其他常规尽职调查措施。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DahliaOS/FImage发布 可在个人电脑上体验Fuchsia系统了]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1135133.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1135133.htm"/>
+        <updated>2021-06-01T06:07:31.000Z</updated>
+        <summary type="html"><![CDATA[Google 在上周通过向 Nest Hub 设备推送的方式正式发布了 Fuchsia 操作系统，很快现在，一群印度开发者创造了更简单的方式可以在个人电脑上体验 Fuchsia 了。
+ 阅读全文]]></summary>
+        <author>
+            <name>study875</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[认为“王者荣耀”侵害未成年人权益 社会组织对腾讯提起诉讼]]></title>
+        <id>https://hot.cnbeta.com/articles/game/1135131.htm</id>
+        <link href="https://hot.cnbeta.com/articles/game/1135131.htm"/>
+        <updated>2021-06-01T06:04:58.000Z</updated>
+        <summary type="html"><![CDATA[6月1日消息，今日，北京青少年法律援助与研究中心认为腾讯运营的“王者荣耀”手机网络游戏侵害未成年人权益，向北京市第一中级人民法院提起未成年人保护民事公益诉讼。
+ 阅读全文]]></summary>
+        <author>
+            <name>teikaei</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[丹麦情报机构被曝秘密协助美国NSA监视德国总理和其他欧盟官员]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1135129.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1135129.htm"/>
+        <updated>2021-06-01T06:04:24.000Z</updated>
+        <summary type="html"><![CDATA[外媒援引《德国之声》的报道称，周日公布的一项欧洲媒体调查表明 —— 丹麦情报机构曾秘密协助美国国家安全局（NSA）对身居高位的欧盟政客实施了大规模的监听，其中就包括了德国总理安吉拉·默克尔和总统弗兰克-瓦尔特·施泰因迈尔。其实早在 2013 年，美国对其盟友开展间谍活动的爆料就已经首次浮出水面。但直到现在，才有记者披露了丹麦国防情报局（FE）为美国打下手的消息。
+ 阅读全文]]></summary>
+        <author>
+            <name>raymon725</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[谣言称5G试验会传播病毒 印度旁遮普邦民众破坏20余座信号塔]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1135127.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1135127.htm"/>
+        <updated>2021-06-01T05:59:14.000Z</updated>
+        <summary type="html"><![CDATA[随着印度疫情益发严重，逐渐有失控之态，网络上也出现各种谣言。在印度社交媒体上流传最广的是电信网络和 5G 试验会传播病毒。据悉在过去三周内，印度旁遮普邦有超过 20 多座5G信号塔遭到破坏。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HarmonyOS发布在即 华为“鸿蒙”商标确认已获转让]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1135125.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1135125.htm"/>
+        <updated>2021-06-01T05:57:45.000Z</updated>
+        <summary type="html"><![CDATA[明日，华为将正式发布鸿蒙OS正式版，而曾引发网友热议的鸿蒙商标归属权也终于尘埃落定。从企查查网站了解到，2019年华为技术有限公司“鸿蒙”商标流程状态变更为驳回复审。近日，相关一审行政判决书公开，因与引证商标构成近似商标，华为诉讼请求被驳回。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[一箱油能跑1000km：全新丰田汉兰达预售28万起]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1135123.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1135123.htm"/>
+        <updated>2021-06-01T05:57:32.000Z</updated>
+        <summary type="html"><![CDATA[预热许久的第四代国产丰田汉兰达终于来了！6月1日，广汽丰田官方宣布，全新一代汉兰达正式开启预售，预售价28-37万元。即日起，消费者可在丰云行App在线订车，预计在三季度内（或7-8月）正式上市。
+ 阅读全文]]></summary>
+        <author>
+            <name>teikaei</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[车用芯片荒将迎缓解？瑞萨电子失火工厂本月全面复产]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1135121.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1135121.htm"/>
+        <updated>2021-06-01T05:55:38.000Z</updated>
+        <summary type="html"><![CDATA[3月底，全球第三大汽车芯片厂，日本瑞萨位于日本茨城县的一座工厂突发大火，此事件导致原本因为半导体芯片短缺而停产或减产的车企面临更大的危机。虽然火灾很快被扑灭，但瑞萨仍决定将该厂临时停产。日本瑞萨电子公司周二通过官网发布公告称，随着最后一批CMP设备的交付安装，预计在今年3月火灾中受损的芯片工厂，将在6月中旬左右恢复全部产能。
+ 阅读全文]]></summary>
+        <author>
+            <name>vivian</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[江苏发现1例人感染H10N3禽流感病例 未具备人传人能力]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1135119.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1135119.htm"/>
+        <updated>2021-06-01T05:54:54.000Z</updated>
+        <summary type="html"><![CDATA[国家卫生健康委6月1日通报，江苏省发现一例人感染H10N3禽流感病例。患者，男，41岁，现居江苏镇江。4月23日出现发热等症状，4月28日因病情加重收入当地医疗机构救治。目前，患者病情稳定，基本达到出院标准。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AMD确认基于下一代Zen 4的Ryzen和EPYC CPU明年推出]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1135117.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1135117.htm"/>
+        <updated>2021-06-01T05:53:15.000Z</updated>
+        <summary type="html"><![CDATA[AMD 已经确认基于下一代 Zen 4 的 Ryzen 和 EPYC CPU 将于明年推出。在宣布这条消息之外，AMD 还演示了最新的 3D V-Cache 技术，该技术将装备在未来几代处理器中。
+ 阅读全文]]></summary>
+        <author>
+            <name>study875</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[蔚来汽车成立动力科技公司 涉及汽车零部件/配件制造等]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1135115.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1135115.htm"/>
+        <updated>2021-06-01T05:53:06.000Z</updated>
+        <summary type="html"><![CDATA[近日，据企查查App显示，蔚来动力科技（合肥）有限公司成立，注册资本5亿人民币，法定代表人为曾澍湘，经营范围包括汽车零部件及配件制造；技术服务、技术开发、技术推广等。
+ 阅读全文]]></summary>
+        <author>
+            <name>teikaei</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[蚂蚁自研数据库OceanBase升级3.0版本 开源300万行核心代码]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1135113.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1135113.htm"/>
+        <updated>2021-06-01T05:52:44.000Z</updated>
+        <summary type="html"><![CDATA[6月1日消息，在数据库OceanBase3.0峰会上，蚂蚁集团自主研发的分布式数据库OceanBase首次从技术、商业和生态三个维度对未来发展战略进行了系统性阐述。CEO杨冰表示，OceanBase将持续坚持自研开放之路，在未来3年内，专注企业核心分布式改造。同时，宣布释放科技红利，7月启动全新价格体系，公共云版本将推出价格更低的存算分离版本。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[奇瑞“求变”：为尊严而战，战能胜？]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1135111.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1135111.htm"/>
+        <updated>2021-06-01T05:52:31.000Z</updated>
+        <summary type="html"><![CDATA[最近几年，在自动驾驶赛道的热度催化下、在特斯拉、蔚来等造车新势力的鲶鱼效应刺激下，国产自主品牌的转型似乎也越来越快了。和百度合作造车的吉利，接连推出智己汽车、R汽车的上汽，今年不仅力推新产品、猛秀肌肉，还频频传出与智能汽车产业链上下游的合作消息，不断向世人鸣笛示意，处处彰显着自己的转型决心。
+ 阅读全文]]></summary>
+        <author>
+            <name>teikaei</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[科学家发现干细胞触发肌肉再生的背后机制]]></title>
+        <id>https://www.cnbeta.com/articles/science/1135109.htm</id>
+        <link href="https://www.cnbeta.com/articles/science/1135109.htm"/>
+        <updated>2021-06-01T05:38:38.000Z</updated>
+        <summary type="html"><![CDATA[据外媒报道，索尔克研究所的研究人员发现了一种干细胞帮助肌肉再生的机制。这一发现可能为修复损伤后的肌肉或重建正常衰老过程中失去的肌肉提供一个新的药物靶点。这项突破始于一组名为山中因子(Yamanaka factors)的蛋白质，长期以来，这些蛋白质一直被研究为干细胞治疗的关键部分。
+ 阅读全文]]></summary>
+        <author>
+            <name>teikaei</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[谷歌承诺FLoC隐私沙箱不留后门 广告商对此持怀疑态度]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1135107.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1135107.htm"/>
+        <updated>2021-06-01T05:35:16.000Z</updated>
+        <summary type="html"><![CDATA[过去几年，谷歌一直在积极向 Web 浏览器的 Cookie 发起战争，尤其是那些严重侵犯用户隐私的第三方跨站追踪 Cookie 。但由于此类 Cookie 也被广告平台给广泛使用，意味着谷歌也必须为自己找到替代解决方案。最终该公司交出了两个答案，其一是隐私沙箱（Privacy Sandbox）、另一个就是所谓的“联合学习队列”（简称 FLoC）。
+ 阅读全文]]></summary>
+        <author>
+            <name>raymon725</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[西门子PLC系统再曝严重漏洞 攻击者可绕过保护并执行远程代码]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1135105.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1135105.htm"/>
+        <updated>2021-06-01T05:18:28.000Z</updated>
+        <summary type="html"><![CDATA[上周五，西门子发布了一个更新，以修复近日曝出的又一个可编程逻辑控制器（PLC）的严重漏洞。受影响的 PLC 型号包括了 SIMATIC S7-1200 和 S7-1500，两者都可能被恶意行为者用来远程访问受保护的内存区域，以实现不受限制和难以被发现的代码执行。
+ 阅读全文]]></summary>
+        <author>
+            <name>raymon725</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[v1.10.2]]></title>
         <id>https://github.com/osmoscraft/osmosfeed/releases/tag/v1.10.2</id>
