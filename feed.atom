@@ -2,10 +2,560 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://lvytwjw.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-02T07:40:33.044Z</updated>
+    <updated>2021-06-02T09:38:39.632Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://lvytwjw.github.io/rss/index.html"/>
     <link rel="self" href="https://lvytwjw.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[“中了一个亿”的支付宝锦鲤信小呆谈现状：没钱没工作、查出抑郁症]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1135745.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1135745.htm"/>
+        <updated>2021-06-02T09:32:44.000Z</updated>
+        <summary type="html"><![CDATA[大家还记得2018年支付宝锦鲤吗？当时，90后姑娘信小呆成了这全球独一份的锦鲤，成为众多网友羡慕的对象。不过，近日在网上流出一段信小呆本人的自曝视频，从她的描述来看，所谓的“中一个亿”似乎是外界误读，另外，锦鲤奖品不同于所谓彩票那种现金奖，更像是各种服务的优惠券，在享受的过程中还有相当一部分内容要自己付钱，信小呆总结，总体来说过得“不太好”。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[家中黑狗战败 美国17岁女孩徒手把棕熊推下围墙]]></title>
+        <id>https://hot.cnbeta.com/articles/funny/1135743.htm</id>
+        <link href="https://hot.cnbeta.com/articles/funny/1135743.htm"/>
+        <updated>2021-06-02T09:30:04.000Z</updated>
+        <summary type="html"><![CDATA[近日，一段17岁少女徒手推开棕熊救爱犬的视频在社交媒体走红。视频中，一名美国加州女孩为了救出自己的宠物狗，而徒手将棕熊推出围墙外，引发关注。美国当地时间5月31日，加州一名17岁的女孩海莉·莫里尼科（Hailey Morinico），在发现自家院墙爬进一只带着两只幼崽的母熊后，勇敢冲向棕熊并徒手将母熊推下院墙，然后立即抱起她的爱犬回到屋内。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[肉类加工巨头JBS遭网络攻击 中国牛肉价格会涨吗？]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1135741.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1135741.htm"/>
+        <updated>2021-06-02T09:27:43.000Z</updated>
+        <summary type="html"><![CDATA[网络攻击对巴西公司JBS SA的影响正在逐步显现。作为全球最大肉类加工企业，JBS的任何闪失都会搅动肉类供应市场，尤其是中国。上周日，JBS服务器遭到了有组织攻击，被迫关闭了北美和澳大利亚计算机网络。当时，JBS没有透露工厂运营受影响情况，只表示这一事件可能会导致公司与客户和供应商的特定交易延期。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[以色列称一些年轻男性出现心肌炎可能与接种辉瑞新冠疫苗有关]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1135739.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1135739.htm"/>
+        <updated>2021-06-02T09:26:46.000Z</updated>
+        <summary type="html"><![CDATA[以色列卫生部周二晚些时候表示，一些年轻男性在接种辉瑞/BioNTech SE新冠疫苗第二剂后心脏出现炎症，卫生部官员发现，这可能与接种疫苗有关。该国已有超过500万人接种了这一疫苗。以色列卫生部目前正在讨论是否将其使用范围扩大到12-15岁人群，早前美国食品药品管理局批准了对这一年龄段的使用授权。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[特斯拉：每年将花费逾10亿美元从澳洲购买电池原材料]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1135737.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1135737.htm"/>
+        <updated>2021-06-02T09:24:33.000Z</updated>
+        <summary type="html"><![CDATA[据报道，特斯拉今日表示，鉴于澳大利亚可靠的采矿业，以及负责任的采矿活动，预计特斯拉每年将花费超过10亿美元从澳大利亚购买电池原材料。澳大利亚拥有丰富的锂和镍等用于生产电池的矿物。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[男子投资狗狗币暴涨200倍到1000多万 结果无法套现]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1135735.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1135735.htm"/>
+        <updated>2021-06-02T09:23:08.000Z</updated>
+        <summary type="html"><![CDATA[投资虚拟货币有两大风险，一个是暴涨暴跌，另一个就是无法套现，毕竟不被国家认可，平台说跑路就跑路。据报道，2017年，北京的周先生投资10万元买“狗狗币”，他认为“狗狗币”可能大涨，自己准备长线投资。当时价格仅2分钱左右，结果不到4年，“狗狗币”暴涨200倍。当初10万元投资，如今飙涨到一千多万元。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[特斯拉法务部私信“对线”自媒体 不料对方竟想“过过招”]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1135733.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1135733.htm"/>
+        <updated>2021-06-02T09:22:53.000Z</updated>
+        <summary type="html"><![CDATA[我们都知道，最近特斯拉开通了一个新的微博账号：特斯拉法务部，并且简介为“独立思考，明辨是非”。虽然目前该微博账号还没有发布任何内容，但实际上特斯拉法务部私底下已经在“重拳出击”了。根据三言财经的消息，特斯拉法务部目前已经开始行动，对多个自媒体进行了私信警告。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[研究：农药正在破坏世界土壤]]></title>
+        <id>https://www.cnbeta.com/articles/science/1135731.htm</id>
+        <link href="https://www.cnbeta.com/articles/science/1135731.htm"/>
+        <updated>2021-06-02T09:22:02.000Z</updated>
+        <summary type="html"><![CDATA[据外媒报道，铲起一铲健康的土壤，你可能会拥有比地球上的人口还多的生物。就像一个从不睡觉的地下城市的居民一样，成千上万种地下无脊椎动物、线虫、细菌和真菌不断过滤着我们的水、循环营养并帮助调节地球的温度。
+ 阅读全文]]></summary>
+        <author>
+            <name>teikaei</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[世界上第一艘商用氢燃料电池渡轮“海洋变革号”建造完成度达到98%]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1135729.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1135729.htm"/>
+        <updated>2021-06-02T09:22:00.000Z</updated>
+        <summary type="html"><![CDATA[斯维奇海事公司表示，其“海洋变革号”（Sea Change）商用氢燃料电池渡轮已接近建成，并准备于今年第三季度在旧金山湾区投入使用。它由通过燃料电池运行的压缩氢气提供动力，这将是同类产品中的第一艘，一次加气可运行两天。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[索尼将于6月9日直播发布WF-1000XM4真无线降噪耳机]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1135727.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1135727.htm"/>
+        <updated>2021-06-02T09:21:24.000Z</updated>
+        <summary type="html"><![CDATA[索尼已经在官方 YouTube 频道放出了将于下周三举办一场“音频新品发布会”的预告，感兴趣的朋友可锁定日本标准时（JST）6 月 9 日凌晨 1 点的流媒体直播（北京时间午夜 12 点）。虽然静态页面上的信息没有明确提及新品的名称，但资深索粉一下就才到了新一代降噪豆 —— 也就是 WF-1000XM4 真无线耳机。
+ 阅读全文]]></summary>
+        <author>
+            <name>raymon725</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[一加9T将配三星1080P 120Hz LTPO E4柔性屏幕 今年没有Pro型号]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1135725.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1135725.htm"/>
+        <updated>2021-06-02T09:15:57.000Z</updated>
+        <summary type="html"><![CDATA[微博数码博主@搞机阿森透露的消息称，一加找三星定制了一块 1080P 的 E4 柔性屏幕，支持 LTPO 屏幕技术，支持硬件级动态刷新率，这块屏幕有望率先装备在一加 9T 上。外媒 TechDroider 还透露今年没有一加 9T Pro。
+ 阅读全文]]></summary>
+        <author>
+            <name>study875</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[最强烈的进化爆发：化石的秘密可能揭示了许多地球上第一批动物的起源]]></title>
+        <id>https://www.cnbeta.com/articles/science/1135723.htm</id>
+        <link href="https://www.cnbeta.com/articles/science/1135723.htm"/>
+        <updated>2021-06-02T09:14:59.000Z</updated>
+        <summary type="html"><![CDATA[新发现的大量被广泛认为揭示了地球上许多动物的起源和它们生活的社区的标志性化石可能隐藏着进化的秘密。由英国朴茨茅斯大学的两位科学家领导的科学家们首次模拟了保存得特别好的化石是如何被泥流移动的，这些化石记录了有史以来最大和最激烈的进化爆发。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[柔性屏+钻石排列？三星Round Diamond Pixel商标申请曝光]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1135721.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1135721.htm"/>
+        <updated>2021-06-02T09:05:16.000Z</updated>
+        <summary type="html"><![CDATA[荷兰科技博客 LetsGoDigital 刚刚发现了三星向欧盟（EUIPO）、英国（UKIPO）和韩国知识产权局（KIPO）提交的“Round Diamond Pixel”商标注册申请，暗示采用“钻石排列”的柔性屏或被用于即将到来的 Galaxy Z Fold 3 / Galaxy Z Flip 3 折叠屏智能机。
+ 阅读全文]]></summary>
+        <author>
+            <name>raymon725</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2021 年美国 500 强公布：科技行业最赚钱 占上榜总利润近 1/3]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1135719.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1135719.htm"/>
+        <updated>2021-06-02T09:04:52.000Z</updated>
+        <summary type="html"><![CDATA[财富中文网于今日下午发布 2021 年《财富》美国 500 强排行榜。榜单显示，科技和金融行业仍是最赚钱的行业，在最赚钱的前十家公司中，有 9 家来自这两个行业。特别是全榜 47 家科技企业总利润高达 2750 亿美元，比去年增加 9%， 占上榜企业总利润近三分之一。
+ 阅读全文]]></summary>
+        <author>
+            <name>study875</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[科学家在实验室中“重现”可能在木星出现的“氦气雨”]]></title>
+        <id>https://www.cnbeta.com/articles/science/1135717.htm</id>
+        <link href="https://www.cnbeta.com/articles/science/1135717.htm"/>
+        <updated>2021-06-02T08:59:48.000Z</updated>
+        <summary type="html"><![CDATA[据外媒New Atlas报道，科学家们在实验室里重现了木星和土星上可能出现的一些“狂野”天气。研究人员利用极高的压力和激光冲击波，制造了 “氦气雨”，据推测这些行星上可能会出现氦气。像木星和土星这样的气态巨行星的大气层主要由氢气和氦气组成。在这些条件下，科学家长期以来一直预测氦应该形成液滴并落下，但实验证据被证明是很难追踪的。
+ 阅读全文]]></summary>
+        <author>
+            <name>vivian</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[世界最贵交椅诞生：产自清朝时期 成交价6597.5万港币]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1135715.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1135715.htm"/>
+        <updated>2021-06-02T08:59:18.000Z</updated>
+        <summary type="html"><![CDATA[据外媒报道，交椅的世界纪录价格在本周增加了一倍多。据悉，佳士得香港拍出了65975000港币的价格，这一成交价远超中国交椅之前于2018年12月在北京保利拍卖获得的最高价格（27370000元人民币）。
+ 阅读全文]]></summary>
+        <author>
+            <name>teikaei</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[正面劳斯莱斯 侧面宾利 俄罗斯Aurus新车让人直呼“缝合怪”]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1135713.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1135713.htm"/>
+        <updated>2021-06-02T08:58:06.000Z</updated>
+        <summary type="html"><![CDATA[同一汽红旗一样，超豪华汽车品牌Aurus（阿鲁斯）在俄罗斯也有着非同寻常的身份，同时其也是普京的专属座驾。近日，据媒体报道，俄罗斯顶级豪华车AURUS SENAT近日正式投产。该车最早于2019日内瓦车展亮相，原计划2020年生产，但由于种种原因推迟至今。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[华为今晚举办鸿蒙发布会 爆料称Mate40等机型率先升级]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1135711.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1135711.htm"/>
+        <updated>2021-06-02T08:50:26.000Z</updated>
+        <summary type="html"><![CDATA[6 月 2 日消息，华为将于晚上 8 点举行 HarmonyOS 2 及华为全场景新品发布会。届时，此前只用于智慧屏、可穿戴设备等产品的鸿蒙操作系统将实现在手机端的落地。
+ 阅读全文]]></summary>
+        <author>
+            <name>study875</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[华为MatePad Pro 10.8外观首曝：全面屏设计 骁龙870加持]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1135709.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1135709.htm"/>
+        <updated>2021-06-02T08:45:16.000Z</updated>
+        <summary type="html"><![CDATA[华为将于今晚（6月2日）召开鸿蒙操作系统及华为全场景新品发布会，本次发布会的重点除了鸿蒙OS 2.0正式版系统之外，还将带来首批预装鸿蒙的硬件设备，MatePad Pro平板就是其中之一。今天下午，知名爆料博主@数码闲聊站曝光了华为MatePad Pro 10.8英寸版本的外观。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[英伟达CEO：我对中英监管机构批准收购Arm交易充满信心]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1135707.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1135707.htm"/>
+        <updated>2021-06-02T08:45:11.000Z</updated>
+        <summary type="html"><![CDATA[英伟达首席执行官黄仁勋周三表示，尽管人们对英伟达斥资400亿美元收购软银集团旗下芯片设计公司Arm的交易前景越来越持怀疑态度，但他仍然相信监管机构最终会批准这笔交易。黄仁勋周三在中国台湾地区台北举行的国际电脑展上通过视频表示，中国和其他国家的监管机构可能会在今年晚些时候或2022年批准收购Arm的交易。
+ 阅读全文]]></summary>
+        <author>
+            <name>raymon725</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[红旗全新MPV曝光 豪车气场十足]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1135705.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1135705.htm"/>
+        <updated>2021-06-02T08:44:47.000Z</updated>
+        <summary type="html"><![CDATA[当前，红旗已经成为了国产品牌中的高端车型代表，1-5月，红旗累计销量118000台，同比大增116%，继续保持高增长的态势。并且在销量上，今年红旗品牌已超越沃尔沃、特斯拉、捷豹路虎等二线豪华品牌，成为最畅销的国产豪华车品牌。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[京东6·18首日战报出炉 全天成交额同比增长5倍]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1135703.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1135703.htm"/>
+        <updated>2021-06-02T08:43:40.000Z</updated>
+        <summary type="html"><![CDATA[6月2日，京东发布618首日销量战报。战报显示，6月1日0点-24点，39个品牌下单金额过亿、4800个品牌的成交额同比增幅超5倍、超过60%的核心开放平台店铺下单金额同比增长超100%。根据京东物流数据显示，截至1日17点，包括京东零售订单和开放业务订单在内，京东物流送达单量已超去年全天。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[视频]eBay启用新规： 卖家收款绕过PayPal直接进入银行账户]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1135701.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1135701.htm"/>
+        <updated>2021-06-02T08:43:01.000Z</updated>
+        <summary type="html"><![CDATA[eBay 的最新使用条款已经生效，这意味着这家知名在线拍卖平台现在将直接向卖家付款，而不是通过 PayPal。在 2020 年被 eBay 收购之后，PayPal 和 eBay 之间就一直保持合作关系。根据新条款，eBay 的买家依然可以通过 PayPal 付款，但卖家的钱将直接进入的他们的银行账户。
+ 阅读全文]]></summary>
+        <author>
+            <name>study875</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[一些员工认定在家工作是新常态 公司若无法提供这种模式宁愿辞职]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1135699.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1135699.htm"/>
+        <updated>2021-06-02T08:38:42.000Z</updated>
+        <summary type="html"><![CDATA[一场只有6分钟的会议促使Portia Twidt辞职。受到公司承诺可以远程工作的吸引，她在2月份入职，担任了研究合规专家。然后经历到敦促员工回到办公室的要求。参加一些会议的邀请纷至沓来。几周前，出现压垮她的最后一根稻草：要求进行面对面的会议，预定时间为 360秒。Twidt穿着整齐，把她的两个孩子送到托儿所，开车去办公室，进行了简短的交谈，然后决定她在这家公司到此为止了。
+ 阅读全文]]></summary>
+        <author>
+            <name>vivian</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[英国拟采购“升级版”阿斯利康疫苗，并将资助临床试验]]></title>
+        <id>https://www.cnbeta.com/articles/science/1135697.htm</id>
+        <link href="https://www.cnbeta.com/articles/science/1135697.htm"/>
+        <updated>2021-06-02T08:36:41.000Z</updated>
+        <summary type="html"><![CDATA[英国政府正在与阿斯利康制药公司和牛津大学洽谈采购针对“贝塔”新冠病毒变异株而改进的疫苗，并将资助这款改进疫苗的临床试验。据路透社1日报道，英国政府先前采购了1亿剂阿斯利康新冠疫苗。按照卫生部的说法，洽谈中的阿斯利康疫苗针对在南非首先出现的“贝塔”新冠病毒变异株进行改进。
+ 阅读全文]]></summary>
+        <author>
+            <name>teikaei</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[依靠进口疫苗受掣肘 日本出台研制国产疫苗战略]]></title>
+        <id>https://www.cnbeta.com/articles/science/1135695.htm</id>
+        <link href="https://www.cnbeta.com/articles/science/1135695.htm"/>
+        <updated>2021-06-02T08:34:46.000Z</updated>
+        <summary type="html"><![CDATA[据新加坡联合早报网报道，为确保东京奥运会顺利举行和日本经济早日复苏，日本政府加速新冠疫苗的接种计划，决定提前为职场员工和学生接种。由于担心依靠进口疫苗会受掣肘，当局也出台以研制国产疫苗为主的疫苗战略。
+ 阅读全文]]></summary>
+        <author>
+            <name>vivian</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SEC主席Gary Gensler对比特币ETF持谨慎态度]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1135693.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1135693.htm"/>
+        <updated>2021-06-02T08:32:18.000Z</updated>
+        <summary type="html"><![CDATA[比特币ETF发行方原本希望美国证券交易委员会（SEC）新任主席Gary Gensler对比特币ETF持开放态度，但现在由于SEC方面表示正在全面审查比特币ETF的发行申请，ETF发行将面临延期。
+ 阅读全文]]></summary>
+        <author>
+            <name>teikaei</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[谷歌和哈佛研究人员以前所未有的细节绘制人类大脑“地图”]]></title>
+        <id>https://www.cnbeta.com/articles/science/1135691.htm</id>
+        <link href="https://www.cnbeta.com/articles/science/1135691.htm"/>
+        <updated>2021-06-02T08:30:45.000Z</updated>
+        <summary type="html"><![CDATA[据外媒报道，人类的大脑是有史以来最复杂的“计算机”，而绘制这种由神经元、突触和其他细胞组成的密集纠结图几乎是不可能的。但是谷歌和哈佛的工程师们已经给了它最好的机会，制作了一个可浏览、可搜索的人类大脑皮层的一小部分的3D“地图”。
+ 阅读全文]]></summary>
+        <author>
+            <name>vivian</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[理财平台爆雷，为其代言的明星是否应该承担责任？]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1135689.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1135689.htm"/>
+        <updated>2021-06-02T08:29:26.000Z</updated>
+        <summary type="html"><![CDATA[《鬼吹灯》里的“大粽子”（“僵尸”）抱着手机，并向前来“索命”的“摸金校尉”隆重介绍自己投资的P2P又赚钱了；《那年花开月正圆》里面的小丫鬟自豪地向同事们炫耀自己如何理财有方；你最熟悉的明星笑靥如花地出现在某互联网理财产品的硬广上，仿佛他的成功就是因为投资了这款理财产品……
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[泰勒·斯威夫特曝新片 与贝尔小丑女飙戏]]></title>
+        <id>https://hot.cnbeta.com/articles/movie/1135687.htm</id>
+        <link href="https://hot.cnbeta.com/articles/movie/1135687.htm"/>
+        <updated>2021-06-02T08:27:13.000Z</updated>
+        <summary type="html"><![CDATA[泰勒·斯威夫特将加盟大卫·O·拉塞尔(《乌云背后的幸福线》《美国骗局》)执导的，New Regency出品的未定名新片，角色尚未透露。
+ 阅读全文]]></summary>
+        <author>
+            <name>teikaei</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[弗劳恩霍夫研究所介绍可清洁自毁的融酶塑料制造工艺]]></title>
+        <id>https://www.cnbeta.com/articles/science/1135685.htm</id>
+        <link href="https://www.cnbeta.com/articles/science/1135685.htm"/>
+        <updated>2021-06-02T08:26:21.000Z</updated>
+        <summary type="html"><![CDATA[过去几年，德国弗劳恩霍夫研究所（Fraunhofer Institute）的科学家们一直在研究面向未来的新型塑料，并且开始取得了一些激动人心的新进展。通过在塑料中嵌入一种活性酶，这些塑料不仅能够用于外卖包装 / 饮料吸管，还能够被赋予不同的功能 —— 比如分解表面蛋白质或自我降解，以避免造成环境污染。
+ 阅读全文]]></summary>
+        <author>
+            <name>raymon725</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[马斯克：特斯拉最大的挑战是供应链 芯片短缺并不是一个长期问题]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1135683.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1135683.htm"/>
+        <updated>2021-06-02T08:21:37.000Z</updated>
+        <summary type="html"><![CDATA[北京时间6月2日下午消息，特斯拉CEO马斯克在Twitter上表示：“目前我们最大的挑战是供应链，特别在控制器芯片方面，这种情况前所未有。”
+ 阅读全文]]></summary>
+        <author>
+            <name>vivian</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[腾讯协助警方打击电信骚扰团伙：充26元能外呼5000次]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1135681.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1135681.htm"/>
+        <updated>2021-06-02T08:20:47.000Z</updated>
+        <summary type="html"><![CDATA[6月2日午间消息，近日，腾讯通过技术支持协助广州市公安局网络警察支队和白云区公安分局联合侦查，打掉一个利用互联网架设“24云呼”平台，干扰手机通讯通话的新型犯罪团伙。
+ 阅读全文]]></summary>
+        <author>
+            <name>vivian</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[日本发现新冠病毒再变异毒株 或在患者体内变异]]></title>
+        <id>https://www.cnbeta.com/articles/science/1135679.htm</id>
+        <link href="https://www.cnbeta.com/articles/science/1135679.htm"/>
+        <updated>2021-06-02T08:19:21.000Z</updated>
+        <summary type="html"><![CDATA[综合日本时事通信社、共同社6月1日报道，日本神户市政府当天发布消息称，在该市发现了日本国内未曾出现过的新的新冠病毒变异株，同时带有两种关键突变。不过神户市当局认为，这种新冠病毒变异株的传播能力和重症风险并未发生改变。
+ 阅读全文]]></summary>
+        <author>
+            <name>vivian</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[英伟达发布会预告 《仙剑奇侠传7》《黑神话悟空》出镜抢眼]]></title>
+        <id>https://hot.cnbeta.com/articles/game/1135677.htm</id>
+        <link href="https://hot.cnbeta.com/articles/game/1135677.htm"/>
+        <updated>2021-06-02T08:17:36.000Z</updated>
+        <summary type="html"><![CDATA[近日在NVIDIA AT COMPUTEX 2021直播活动中，英伟达放出了预告片。国产游戏《仙剑奇侠传7》和《黑神话：悟空》出镜，非常抢眼。一起来欣赏下吧！
+ 阅读全文]]></summary>
+        <author>
+            <name>vivian</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[驴嫂卖山寨机 酷派发声明：当事人所售机型未获授权 将起诉]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1135675.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1135675.htm"/>
+        <updated>2021-06-02T08:16:47.000Z</updated>
+        <summary type="html"><![CDATA[近日驴嫂因在直播间销售山寨手机引发业界关注，据报道，驴嫂在直播间销售朵唯问题手机、假中兴手机等等，知名手机品牌酷派也不幸躺枪。6月2日消息，酷派手机官方微博今天发布声明，表示驴嫂直播带货对宇龙计算机通信科技(深圳)有限公司及所属酷派集团(以下统称“我司”或“酷派”)声誉造成了严重损害。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[《高达》漫画家安彦良和在酝酿最后的连载 70 岁高龄笔耕不辍]]></title>
+        <id>https://hot.cnbeta.com/articles/comic/1135673.htm</id>
+        <link href="https://hot.cnbeta.com/articles/comic/1135673.htm"/>
+        <updated>2021-06-02T08:16:25.000Z</updated>
+        <summary type="html"><![CDATA[6 月 2 日据日媒报道，著名《高达》漫画家安彦良和目前正在积极投入到“最后的连载”中，毕竟现在已经 70 岁高龄，不过看来老师并不打算退休安享晚年。
+ 阅读全文]]></summary>
+        <author>
+            <name>study875</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[《招魂3》IGN 6分：核心悬念很不错 但没有招魂特色]]></title>
+        <id>https://hot.cnbeta.com/articles/movie/1135669.htm</id>
+        <link href="https://hot.cnbeta.com/articles/movie/1135669.htm"/>
+        <updated>2021-06-02T08:11:50.000Z</updated>
+        <summary type="html"><![CDATA[由温子仁监制（非导演）《招魂3》将于6月4日在北美上映，IGN今日（6月2日）为其打出6分，IGN表示本片还行，《招魂3》是一个大杂烩，它没有很好地平衡片中很有意思的核心悬念和粉丝们所期待的“招魂”续集的东西。
+ 阅读全文]]></summary>
+        <author>
+            <name>teikaei</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[以色列超80%成年人接种新冠疫苗  专家称已达群体免疫]]></title>
+        <id>https://www.cnbeta.com/articles/science/1135667.htm</id>
+        <link href="https://www.cnbeta.com/articles/science/1135667.htm"/>
+        <updated>2021-06-02T08:11:01.000Z</updated>
+        <summary type="html"><![CDATA[自以色列开展大规模新冠疫苗接种后，疫情控制已经卓有成效。5月23日到29日，以色列平均每日新增新冠病毒感染病例数仅15例。这是自疫情开始以来，以色列日增最低感染数。
+ 阅读全文]]></summary>
+        <author>
+            <name>vivian</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[传黑人女星雷吉娜·金有意执导黑人版《超人》电影]]></title>
+        <id>https://hot.cnbeta.com/articles/movie/1135665.htm</id>
+        <link href="https://hot.cnbeta.com/articles/movie/1135665.htm"/>
+        <updated>2021-06-02T08:10:42.000Z</updated>
+        <summary type="html"><![CDATA[继去年凭借导演处女作奥斯卡最佳女配角获奖影片《迈阿密一夜》之后，黑人女星雷吉娜·金已成为好莱坞最受欢迎的当代导演之一。她的下一个导演作品将是改编作品《苦根》，但有传言称，雷吉娜·金有意执导新的《超人》电影。
+ 阅读全文]]></summary>
+        <author>
+            <name>teikaei</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[日本福岛核电站再次发现核废弃物泄漏 浓度超标76倍]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1135663.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1135663.htm"/>
+        <updated>2021-06-02T08:10:07.000Z</updated>
+        <summary type="html"><![CDATA[当地时间1日，东京电力公司工作人员在福岛第一核电站内发现核废弃物集装箱出现泄漏，含有放射性物质的污水积聚在集装箱周围，经检测其浓度为日本国家饮用水标准的76倍。
+ 阅读全文]]></summary>
+        <author>
+            <name>vivian</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[《世界奇妙物语》迎来31周年 新作《冥河购物乐园》公开]]></title>
+        <id>https://hot.cnbeta.com/articles/movie/1135661.htm</id>
+        <link href="https://hot.cnbeta.com/articles/movie/1135661.htm"/>
+        <updated>2021-06-02T08:09:51.000Z</updated>
+        <summary type="html"><![CDATA[日本经典脑洞剧《世界奇妙物语》已经持续拍摄许多年，即将迎来开播31周年，官方6月2日今天宣布，“奇妙的世界”仍将继续下去，最新故事《冥河购物乐园》同时公开，预定6月26日播放，敬请期待。
+ 阅读全文]]></summary>
+        <author>
+            <name>teikaei</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[《速度与激情9》成2021年进口片票房冠军]]></title>
+        <id>https://hot.cnbeta.com/articles/movie/1135659.htm</id>
+        <link href="https://hot.cnbeta.com/articles/movie/1135659.htm"/>
+        <updated>2021-06-02T08:09:07.000Z</updated>
+        <summary type="html"><![CDATA[今日（6月2日），据猫眼票房专业版公布的数据，上午11点27分42秒，《速度与激情9》总票房超12.31亿，成2021年进口片票房冠军。在此之前，《哥斯拉大战金刚》是今年引进片票房冠军，成绩也是刚破12.3亿。
+ 阅读全文]]></summary>
+        <author>
+            <name>teikaei</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[《魔兽世界》燃烧的远征怀旧服上线：开放 70 级 梦回 14 年前]]></title>
+        <id>https://hot.cnbeta.com/articles/game/1135657.htm</id>
+        <link href="https://hot.cnbeta.com/articles/game/1135657.htm"/>
+        <updated>2021-06-02T08:08:33.000Z</updated>
+        <summary type="html"><![CDATA[近两年，热衷于炒冷饭的暴雪不断的推出各种《魔兽世界》情怀作品，其中就包括怀旧服版本，而作为 14 年前最经典回忆之一的“燃烧的远征”如今也正式开启了。
+ 阅读全文]]></summary>
+        <author>
+            <name>study875</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[外媒：虽然UFO真实存在，但并不代表地球被外星人造访过]]></title>
+        <id>https://www.cnbeta.com/articles/science/1135655.htm</id>
+        <link href="https://www.cnbeta.com/articles/science/1135655.htm"/>
+        <updated>2021-06-02T08:07:24.000Z</updated>
+        <summary type="html"><![CDATA[据外媒CNET报道，一份即将于6月25日前提交给美国国会的非机密报告再次引发了人们对UFO、外星人来访及政府掩盖真相的关注。这份报告由来自五角大楼、FBI和美国海军情报办公室的专家组成的精英小组撰写，预计它为人们带来“不明空中现象(UAP)”存在的证据。
+ 阅读全文]]></summary>
+        <author>
+            <name>teikaei</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[特斯拉开通法务部微博上热搜！网友：关注列表里的人已相继道歉]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1135653.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1135653.htm"/>
+        <updated>2021-06-02T08:06:55.000Z</updated>
+        <summary type="html"><![CDATA[步入到今年以来，特斯拉可以说是国内最具争议的一家车企，一面是不断走高的电动车销量，另一面则是屡见不鲜的车主维权事件。近段时间，因为河南安阳女车主“上海车展车顶”维权，特斯拉更是持续霸占国内汽车圈的热搜。与此同时，还有不少媒体和个人，跟风蹭热点，发布一些关于特斯拉的不实言论，而这也遭到了特斯拉方面的强硬反击。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[教育部颁布《未成年人学校保护规定》 对校园欺凌、性侵等问题建立专门制度]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1135651.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1135651.htm"/>
+        <updated>2021-06-02T08:06:08.000Z</updated>
+        <summary type="html"><![CDATA[在广泛调研、公开征求意见基础上，教育部今天正式颁布《未成年人学校保护规定》（以下简称《规定》）。《规定》细化了未成年人保护法中关于“学校保护”的规定，就社会关注的热点问题，如学生欺凌、校园性侵害等问题建立或完善了相应制度。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[全国范围内普通话普及率达到80.72%]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1135649.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1135649.htm"/>
+        <updated>2021-06-02T08:05:08.000Z</updated>
+        <summary type="html"><![CDATA[教育部6月2日举行新闻发布会，介绍2020年中国语言文字事业发展状况和中国语言生活状况。调查数据显示，全国范围内普通话普及率达到80.72%，比2000年的53.06%提高了27.66个百分点，圆满完成语言文字事业“十三五”发展规划确定的目标。
+ 阅读全文]]></summary>
+        <author>
+            <name>teikaei</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[超级计算机助科学家展开恒星中奇异物质的研究工作]]></title>
+        <id>https://www.cnbeta.com/articles/science/1135647.htm</id>
+        <link href="https://www.cnbeta.com/articles/science/1135647.htm"/>
+        <updated>2021-06-02T07:49:03.000Z</updated>
+        <summary type="html"><![CDATA[据外媒报道，在宇宙中一些最小、密度最大的恒星的中心存在着可能以前所未见的奇异相存在的核物质。中子星是大质量恒星核心在一次发光的超新星爆炸中坍塌时形成，科学家们认为中子星所包含的物质的能量大于粒子加速器实验如大型强子对撞机和相对论重离子对撞机所能达到的能量。
+ 阅读全文]]></summary>
+        <author>
+            <name>teikaei</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Raja Koduri晒出512EU的英特尔Xe-HPG DG2 GPU芯片]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1135645.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1135645.htm"/>
+        <updated>2021-06-02T07:48:56.000Z</updated>
+        <summary type="html"><![CDATA[英特尔首席图形架构师 Raja Koduri，刚刚在 Twitter 上分享了一张手持 DG2 GPU 的图片。从芯片基板上的文字记号来看，其手上握着的应该是 512EU / 4096 核版本的 Xe-HPG DG2 GPU，后续有望被即将推向主流市场的 Intel 游戏显卡所采用。
+ 阅读全文]]></summary>
+        <author>
+            <name>raymon725</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[因​用户发布造谣信息 爱奇艺起诉豆瓣字节跳动终审获赔25万]]></title>
         <id>https://www.cnbeta.com/articles/tech/1135643.htm</id>
