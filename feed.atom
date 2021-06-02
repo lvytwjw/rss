@@ -2,10 +2,152 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://lvytwjw.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-02T14:29:28.722Z</updated>
+    <updated>2021-06-02T15:45:31.380Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://lvytwjw.github.io/rss/index.html"/>
     <link rel="self" href="https://lvytwjw.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[WWDC 2021年Swift学生挑战赛获奖者开始收到奖品]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1135889.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1135889.htm"/>
+        <updated>2021-06-02T15:41:54.000Z</updated>
+        <summary type="html"><![CDATA[苹果公司昨天宣布了其Swift学生挑战赛的获胜者，而且正如承诺的那样，获胜者已经开始收到WWDC 2021的奖品。下面是Chain Reaction Games背后的开发者分享的独家外衣的照片。一年一度的Swift学生挑战赛是一项编程挑战，任务是让学生在Swift Playgrounds应用程序中创建一个互动场景。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[中国唯一、世界第三，深度解密鸿蒙系统的星辰大海]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1135887.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1135887.htm"/>
+        <updated>2021-06-02T15:34:18.000Z</updated>
+        <summary type="html"><![CDATA[6 月 2 日晚间消息，刚刚，华为正式发布了鸿蒙操作系统（HarmonyOS，后文简称鸿蒙 OS），鸿蒙 OS 可以搭载在任何 IoT 设备上，所有设备统一语言，打通体验。用华为消费者业务 CEO 余承东的话说，就是“One as All，All as One”。可以毫不夸张地说，鸿蒙 OS 可能是影响未来十年中国 IoT 市场的最核心变量。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美国前总统唐纳德·特朗普关闭了他的博客 仅上线不到一个月]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1135885.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1135885.htm"/>
+        <updated>2021-06-02T15:30:13.000Z</updated>
+        <summary type="html"><![CDATA[前总统唐纳德-特朗普的博客时代正式结束。周三，CNBC报道说，特朗普的博客在推出后不到一个月就关闭了。这个名为 "From the Desk of Donald J. Trump "的博客于5月4日推出，作为这位前总统在今年早些时候被禁止使用Facebook和Twitter后的一个替代信息平台。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[渲染图显示Galaxy Z Flip 3折叠机型将迎来更薄的边框和机身框架]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1135883.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1135883.htm"/>
+        <updated>2021-06-02T15:26:36.000Z</updated>
+        <summary type="html"><![CDATA[根据知名的三星手机消息泄漏源冰宇宙公布的消息，该公司即将推出的翻盖折叠机型Galaxy Z Flip 3将带来一些重大的设计变化，使其看起来更有未来感，外形也更精致。冰宇宙还根据独家信息制作了渲染图描绘这款未来产品的模样。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[任天堂表态其E3活动将“完全集中”在Switch游戏上]]></title>
+        <id>https://hot.cnbeta.com/articles/game/1135881.htm</id>
+        <link href="https://hot.cnbeta.com/articles/game/1135881.htm"/>
+        <updated>2021-06-02T15:21:12.000Z</updated>
+        <summary type="html"><![CDATA[任天堂将于6月15日举行E3活动，该公司承诺它将 "专门关注主要在2021年发布的任天堂Switch游戏"。任天堂的演示活动将于太平洋时间6月15日上午9点开始，任天堂将在活动结束后还会举行三个小时的“深挖游戏”活动。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DHL将在2022年前部署2000台Locus机器人设备]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1135879.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1135879.htm"/>
+        <updated>2021-06-02T15:18:14.000Z</updated>
+        <summary type="html"><![CDATA[DHL今天宣布，它将扩大与Locus机器人公司的持续合作。去年，这家物流巨头宣布计划部署1000个位于马萨诸塞州的创业公司的机器人。到2022年，这个数字将翻倍而达到2000个。自2021年以来，这两家公司一直在一起试行机器人技术，但在大流行期间，人们对自动化的兴趣持续大大增加。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[微软Edge不再弹窗坚持用户使用Bing作为默认搜索引擎]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1135877.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1135877.htm"/>
+        <updated>2021-06-02T15:13:32.000Z</updated>
+        <summary type="html"><![CDATA[微软终于修复了一个问题，该问题导致微软Edge在最近一次浏览器更新后不断坚持要求用户将必应设置为默认搜索引擎。这个问题在几周前Edge 91正式发布后首次被报道，一些用户解释说他们得到了一个不断出现的唠叨式屏幕，并提示他们改变浏览器设置以启用Bing作为默认搜索引擎。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[微软收购ReFirm实验室以提高其固件分析和安全能力]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1135875.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1135875.htm"/>
+        <updated>2021-06-02T15:07:39.000Z</updated>
+        <summary type="html"><![CDATA[微软今天宣布，它正在收购ReFirm实验室，以提高其在各设备上的固件分析和安全能力。ReFirm实验室将为微软带来固件安全和Centrifuge固件平台方面的专业知识。这将提高微软通过Azure Defender for IoT帮助保护物联网和OT设备的能力。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[华为HarmonyOS 2操作系统发布 北汽极狐αS全球首搭]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1135873.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1135873.htm"/>
+        <updated>2021-06-02T15:04:54.000Z</updated>
+        <summary type="html"><![CDATA[6月2晚，华为正式发布了HarmonyOS 2操作系统，该系统可实现多设备之间融合为一个终端，形成万物互联。根据官方介绍，由于HarmonyOS 2属于万物互联系统，因此可以与其他厂商的手机、平板、电视、音箱、耳机、冰箱等设备组成超级终端，更便于进行跨平台数据处理。作为未来人们的智能座舱，HarmonyOS 2操作系统也将会同步上车。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JavaScript Async/Await Tutorial – Learn Callbacks, Promises, and Async/Await in JS by Making Ice Cream 🍧🍨🍦]]></title>
+        <id>60b51f6e11ffb70827ef9f7c</id>
+        <link href="https://www.freecodecamp.org/news/javascript-async-await-tutorial-learn-callbacks-promises-async-await-by-making-icecream/"/>
+        <updated>2021-06-02T14:45:18.000Z</updated>
+        <summary type="html"><![CDATA[Today we're going to build and run an ice cream shop and learn asynchronous JavaScript at the same time. Along the way, you'll learn how to use: CallbacksPromisesAsync / AwaitHere's what we'll cover in this article:What is Asynchronous JavaScript?Synchronous vs Asynchronous JavaScriptHow Callbacks Work in JavaScriptHow Promises Work in]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[余承东：智能互联时代 没有人会是一座孤岛]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1135871.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1135871.htm"/>
+        <updated>2021-06-02T14:38:43.000Z</updated>
+        <summary type="html"><![CDATA[“鸿蒙”终于来了！6月2日晚间，华为正式公布了HarmonyOS 2操作系统，同时发布了多款预装该系统的产品，包括Watch 3系列智能手表、MatePad Pro系列平板机、Mate X2/Mate 40系列等新版手机。在发布会上，余承东动情地表示：
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[专家解读野象群为何会跑到老百姓家里：想跟人玩]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1135869.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1135869.htm"/>
+        <updated>2021-06-02T14:32:26.000Z</updated>
+        <summary type="html"><![CDATA[近日，15头野生亚洲象在云南一路“逛吃”北迁，引发关注。野象群为什么会跑到老百姓家里？与人“互动”是出于何种意图？对此，云南西双版纳国家级自然保护区高级工程师沈庆仲给出答案。据媒体报道，沈庆仲表示，有些大象认为它是在跟人类玩，但是这样的行为极有可能会对人类造成危害，因为人类跟它根本玩不起。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[价格或直接跳水20万 国产宝马X5谍照疑曝光 车身有望加长]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1135867.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1135867.htm"/>
+        <updated>2021-06-02T14:28:33.000Z</updated>
+        <summary type="html"><![CDATA[在国内的中大型豪华SUV市场中，宝马X5、奔驰GLE、奥迪Q7是消费者选购时绕不过去的三辆马车，并且宝马X5向来是该市场中的领军车型。而今为了扩大竞争优势，宝马还将X5引进国产。日前，有媒体曝光了一张疑似国产宝马X5的路试谍照图，有消息显示，国产宝马X5还将有望车身加长。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[5月Android手机性能榜：旗舰再现三连冠、高通中端亮剑]]></title>
         <id>https://www.cnbeta.com/articles/tech/1135865.htm</id>
