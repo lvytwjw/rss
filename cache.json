@@ -139,6 +139,15 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=341724",
+          "author": "Chris Coyier",
+          "description": "How do I debug Safari on iOS?\nThese are my general steps, starting with not even using iOS Safari.\n1. Is this just a small-screen problem?\nLemme just use the device mode in Chrome quick.\nNote that this does a …\nThe post Debugging iOS Safari appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/debugging-ios-safari/",
+          "publishedOn": "2021-06-02T21:15:28.000Z",
+          "wordCount": 974,
+          "title": "Debugging iOS Safari"
+        },
+        {
           "id": "https://css-tricks.com/?p=341442",
           "author": "Dmitry Mayorov",
           "description": "Blocks in WordPress are great. Drop some into the page, arrange them how you like, and you’ve got a pretty sweet landing page with little effort. But what if the default blocks in WordPress need a little tweaking? Like, what …\nThe post A Crash Course in WordPress Block Filters appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
@@ -792,6 +801,24 @@
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
         {
+          "id": "60b3ccee11ffb70827ef9bc0",
+          "author": null,
+          "description": "One of the most difficult things about getting started in a new career as a developer is figuring out exactly what you should be learning – and then translating that into an effective plan. There are so many resources out there for learning, so lack of information is not the problem.",
+          "link": "https://www.freecodecamp.org/news/how-to-design-your-own-learning-plan-for-any-tech-stack/",
+          "publishedOn": "2021-06-02T21:18:15.000Z",
+          "wordCount": 2365,
+          "title": "How to Design Your Own Learning Plan for Any Tech Stack"
+        },
+        {
+          "id": "60a699b0906c5207e3a7f5ab",
+          "author": null,
+          "description": "Configuring your .vimrc file lets you use the full power of Vim. With a customized .vimrc file you can increase your Vim powers tenfold. In this article I will show you a few ways you can customize your .vimrc file. I will go over: Basic SettingsPluginsFoldingVimscriptStatus lineFirst create the following",
+          "link": "https://www.freecodecamp.org/news/vimrc-configuration-guide-customize-your-vim-editor/",
+          "publishedOn": "2021-06-02T20:44:22.000Z",
+          "wordCount": 3441,
+          "title": "Vimrc Configuration Guide - How to Customize Your Vim Code Editor with Mappings, Vimscript, Status Line, and More"
+        },
+        {
           "id": "60b0f11411ffb70827ef8dbc",
           "author": null,
           "description": "Often times you might want your system to communicate with other web servers to get information. For example, let's say a new user wants to sign up for an account on your website. And instead of having to manually fill out a form to send their information to your system,",
@@ -1158,6 +1185,42 @@
       "feedUrl": "https://www.cnbeta.com/backend.php",
       "siteUrl": "https://www.cnbeta.com",
       "articles": [
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1135931.htm",
+          "author": "maomao",
+          "description": "5月份Steam硬件调查有趣的数据是在显卡领域。尽管RTX 3060和RTX 3070存在无休止的供应问题，但它们上个月在Steam用户当中的份额升幅最大，与GTX 1650共享这一荣誉。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1135931.htm",
+          "publishedOn": "2021-06-02T20:21:09.000Z",
+          "wordCount": 214,
+          "title": "RTX 3060和RTX 3070显卡成5月Steam硬件调查中的最大赢家"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1135929.htm",
+          "author": "ugmbbc",
+          "description": "JBS SA开始至少部分重启北美和澳大利亚的大部分牛肉加工厂，此前，网络攻击导致这家全球最大的肉类生产商关停了旗下的肉联厂。这家巴西食品巨头周二晚间表示，在解决网络攻击方面已取得“重大进展”，“绝大多数”工厂周三将投入运营。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1135929.htm",
+          "publishedOn": "2021-06-02T20:19:37.000Z",
+          "wordCount": 189,
+          "title": "因网络攻击而停产的大部分JBS肉联厂开始复工"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1135927.htm",
+          "author": "ugmbbc",
+          "description": "当两个量子产生“纠缠”，一个变了，另一个也会瞬变，无论之间相隔多远——借助神奇的量子纠缠现象，人类可实现量子通信，但还面临很多挑战。近期，中国科学技术大学郭光灿院士团队李传锋、周宗权研究组，在国际上首次实现多模式复用的量子中继基本链路，如同“鹊桥”，可将量子世界里天各一方的“牛郎织女”间的通信速率提升四倍。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1135927.htm",
+          "publishedOn": "2021-06-02T20:18:47.000Z",
+          "wordCount": 187,
+          "title": "中国“量子鹊桥”技术可将量子通信速率提升四倍"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/science/1135925.htm",
+          "author": "ugmbbc",
+          "description": "6月3日零时17分，我国在西昌卫星发射中心用长征三号乙运载火箭，成功将风云四号02星送入预定轨道，发射任务获得圆满成功。风云四号02星是我国新一代地球静止轨道气象卫星首颗业务星，主要应用于天气分析和预报、环境和灾害监测等领域。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/science/1135925.htm",
+          "publishedOn": "2021-06-02T20:18:12.000Z",
+          "wordCount": 182,
+          "title": "我国成功发射风云四号02星"
+        },
         {
           "id": "https://www.cnbeta.com/articles/tech/1135923.htm",
           "author": "maomao",
