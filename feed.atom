@@ -2,10 +2,109 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://lvytwjw.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-02T15:45:31.380Z</updated>
+    <updated>2021-06-02T17:38:11.353Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://lvytwjw.github.io/rss/index.html"/>
     <link rel="self" href="https://lvytwjw.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[科学家测量幼年霸王龙的咬合力 结果远超以前估计数字]]></title>
+        <id>https://www.cnbeta.com/articles/science/1135907.htm</id>
+        <link href="https://www.cnbeta.com/articles/science/1135907.htm"/>
+        <updated>2021-06-02T17:31:43.000Z</updated>
+        <summary type="html"><![CDATA[古生物学家Joseph Peterson发现恐龙骨骼化石上有幼年霸王龙的齿痕，加州大学伯克利分校的研究人员Jack Tseng决定尝试复制这些咬痕，并测量幼年霸王龙咬合力究竟有多大。
+ 阅读全文]]></summary>
+        <author>
+            <name>maomao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OnePlus Nord CE 5G比前代产品更薄 并配备了耳机插孔]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1135905.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1135905.htm"/>
+        <updated>2021-06-02T17:11:44.000Z</updated>
+        <summary type="html"><![CDATA[OnePlus Nord CE 5G在印度的价格和规格将于6月10日公布。在发布会之前OnePlus一直在预告其主要功能。OnePlus这款手机将有一个光滑和流线型的设计。现在，OnePlus已经确认OnePlus Nord CE 5G厚度仅为7.9毫米。
+ 阅读全文]]></summary>
+        <author>
+            <name>maomao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[微软宣布改进Windows平台Microsoft Edge的字体渲染效果]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1135903.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1135903.htm"/>
+        <updated>2021-06-02T17:09:39.000Z</updated>
+        <summary type="html"><![CDATA[微软今天宣布在Windows上的Microsoft Edge中改进了字体渲染效果。Edge团队表示，已经改进了浏览器渲染字体时的对比度增强和伽玛校正，以匹配其它利用DirectWrite的本地Windows应用程序的质量和清晰度。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[研究人员开发基因屏障可有效控制基因驱动物种无节制繁衍]]></title>
+        <id>https://www.cnbeta.com/articles/science/1135901.htm</id>
+        <link href="https://www.cnbeta.com/articles/science/1135901.htm"/>
+        <updated>2021-06-02T17:00:44.000Z</updated>
+        <summary type="html"><![CDATA[从根除疾病到强化食品供应方面，基于CRISPR的技术为造福人类健康和安全提供了巨大潜力。现在基于CRISPR的基因驱动，正在被开发用来阻止毁灭性疾病的传播，如疟疾和登革热。但许多科学家和伦理学家对基因驱动的无节制传播提出了担忧。一旦在野外部署，科学家如何防止基因驱动像野火一样不受控制地在种群中传播？
+ 阅读全文]]></summary>
+        <author>
+            <name>maomao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[新老机型均有支持 HarmonyOS 2官宣“百”机焕新计划]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1135899.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1135899.htm"/>
+        <updated>2021-06-02T16:37:25.000Z</updated>
+        <summary type="html"><![CDATA[6月2日HarmonyOS 2及华为全场景新品发布会上，不仅正式发布了首款搭载HarmonyOS 2的平板电脑华为MatePad Pro 12.6，针对用户关注的新老机型升级正式版HarmonyOS的问题，华为官方也正式公布了机型和时间表。在2022年上半年结束前，甚至像nova 5、P10、Mate9这样的老机型也能得到HarmonyOS的升级，这真是老机型的春天了。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[苹果App Store垄断案被罚款几率提高 欧洲消费者联盟成“帮凶”]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1135897.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1135897.htm"/>
+        <updated>2021-06-02T16:33:38.000Z</updated>
+        <summary type="html"><![CDATA[据报道，欧洲消费者联盟（BEUC）今日表示，支持欧盟委员会针对苹果App Store做出的反垄断指控。今年4月30日，欧盟委员会正式指控苹果为其App Store应用商店设定限制性规则，迫使开发者使用苹果自家的应用内支付系统，并阻止开发者告知用户有其他购买选项。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[微软将于6月24日公布其下一代Windows系统]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1135895.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1135895.htm"/>
+        <updated>2021-06-02T16:30:01.000Z</updated>
+        <summary type="html"><![CDATA[微软正计划在本月晚些时候的发布会活动中详细介绍其 "下一代Windows"，这家软件巨头已经开始向媒体发送6月24日的Windows活动邀请函。微软首席执行官萨蒂亚·纳德拉和首席产品官帕诺斯·帕内都将在Windows活动上发表讲话。微软的Windows活动将于美国东部时间6月24日上午11点/太平洋时间8点开始。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[北迁野象群拐了个弯 没进昆明市区]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1135893.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1135893.htm"/>
+        <updated>2021-06-02T15:58:32.000Z</updated>
+        <summary type="html"><![CDATA[6月2日晚20时左右，穿过半个云南、跋涉近500公里之后，备受关注的15头野生亚洲象，来到类云南玉溪与昆明的边界处，距离昆明晋宁区仅仅300米，眼看就要进入市区。然而，昆明近在眼前之际，象群往西北方向转了个弯，又进入玉溪，20时20分来到老光箐村子，离开了边界线。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[乡下“土猪”拱大城市白菜？衡水中学回应学霸演讲视频]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1135891.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1135891.htm"/>
+        <updated>2021-06-02T15:56:17.000Z</updated>
+        <summary type="html"><![CDATA[近日，河北衡水中学高三学生张锡峰在一档语言类节目《超级演说家》中的一段演讲备受关注。节目中，高考临近的张锡峰，讲述了一个怎样绝地反击的故事。其中一句，“他们不是高考机器，不是教育畸形，他们只是一群穷人家的孩子，想要成为父母的骄傲。”让现场不少人落泪。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[WWDC 2021年Swift学生挑战赛获奖者开始收到奖品]]></title>
         <id>https://www.cnbeta.com/articles/tech/1135889.htm</id>
@@ -29832,16 +29931,6 @@ Chore: Refactored parameter passing for enrich step.]]></summary>
         <summary type="html"><![CDATA[No matter how experienced you are, mistakes are an inevitable part of software development. But we can learn to repair them! And this is what we'll be looking at in this two-part series: how to undo mistakes using Git.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Tobias Günther)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Smashing Podcast Episode 36 With Miriam Suzanne: What Is The Future Of CSS?]]></title>
-        <id>https://smashingmagazine.com/2021/05/smashing-podcast-episode-36/</id>
-        <link href="https://smashingmagazine.com/2021/05/smashing-podcast-episode-36/"/>
-        <updated>2021-05-04T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[In this episode, we’re starting our new season of the Smashing Podcast with a look at the future of CSS. What new specs will be landing in browsers soon? Drew McLellan talks to expert Miriam Suzanne to find out.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Drew McLellan)</name>
         </author>
     </entry>
 </feed>
