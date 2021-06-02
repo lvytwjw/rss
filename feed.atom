@@ -2,10 +2,130 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://lvytwjw.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-02T09:38:39.632Z</updated>
+    <updated>2021-06-02T11:13:39.222Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://lvytwjw.github.io/rss/index.html"/>
     <link rel="self" href="https://lvytwjw.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[上月任务失败后 FAA批准Rocket Lab继续发射火箭]]></title>
+        <id>https://www.cnbeta.com/articles/science/1135765.htm</id>
+        <link href="https://www.cnbeta.com/articles/science/1135765.htm"/>
+        <updated>2021-06-02T11:11:59.000Z</updated>
+        <summary type="html"><![CDATA[Rocket Lab已经获得联邦航空管理局（FAA）的批准，恢复其发射活动，此前在其第20次“Electron”火箭任务的第二级燃烧期间发生了故障，导致载荷和箭体全部丢失。虽然发射失败，但这证明了Rocket Lab的安全系统设计，在遇到异常情况时，一切都按计划进行，这意味着虽然任务失败了，但它是安全的，对地面人员、普通民众或其他轨道物体没有任何风险。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[研究认为应采取紧急行动降低二氧化碳排放量 以避免“史前水平”的气候变化]]></title>
+        <id>https://www.cnbeta.com/articles/science/1135763.htm</id>
+        <link href="https://www.cnbeta.com/articles/science/1135763.htm"/>
+        <updated>2021-06-02T11:04:47.000Z</updated>
+        <summary type="html"><![CDATA[由圣安德鲁斯大学领导的国际科学家团队收集了横跨过去6600万年的数据，以提供关于如果二氧化碳水平继续以目前的速度上升，我们最终可以预期的气候类型的新见解。预计的上升将导致人类从未经历过的“史前水平”的温暖。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[体育总局：即日起暂停山地越野等新兴高危体育赛事活动]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1135761.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1135761.htm"/>
+        <updated>2021-06-02T11:00:23.000Z</updated>
+        <summary type="html"><![CDATA[据国家体育总局网站消息，近日，体育总局办公厅发布关于暂停相关体育活动的通知。通知提出，从即日起，暂停山地越野、戈壁穿越、翼装飞行、超长距离跑等管理责任不清、规则不完善、安全防护标准不明确的新兴高危体育赛事活动。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[机构数据显示4月份特斯拉Model Y在全球注册1.6万辆 比Model 3还多]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1135759.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1135759.htm"/>
+        <updated>2021-06-02T10:58:05.000Z</updated>
+        <summary type="html"><![CDATA[特斯拉2019年3月份推出的跨界运动型多用途汽车Model Y，目前已在加州弗里蒙特工厂和上海超级工厂生产，产量在不断提升，正在建设的柏林超级工厂和奥斯汀超级工厂，首先也将生产这一款电动汽车。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Improving The Performance Of An Online Store (Case Study)]]></title>
+        <id>https://smashingmagazine.com/2021/06/front-end-performance-online-store-jewellerybox/</id>
+        <link href="https://smashingmagazine.com/2021/06/front-end-performance-online-store-jewellerybox/"/>
+        <updated>2021-06-02T10:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Getting a good performance score from Google is hard for any website — but doing so for an online store is even harder. We achieved green scores — even several for mobile. Here is how we did it.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Jennifer Brehm)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[朵唯直播间售假背后：主播30天带货7.3亿元 山寨手机在快手重生？]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1135757.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1135757.htm"/>
+        <updated>2021-06-02T10:10:11.000Z</updated>
+        <summary type="html"><![CDATA[“华为手机保时捷款要一万九千多，但直播间里天语的保时捷款只要899元，外观一样！”“朵唯12Pro官网售价是4999元，我给大家降到899元，上架！”“老铁们，下一回我就不可能用这个价格给你们了，不能这么亏。”
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[手机QQ更新8.8.0正式版：新玩法上线 表情包呲你一脸]]></title>
+        <id>https://www.cnbeta.com/articles/soft/1135755.htm</id>
+        <link href="https://www.cnbeta.com/articles/soft/1135755.htm"/>
+        <updated>2021-06-02T10:08:56.000Z</updated>
+        <summary type="html"><![CDATA[紧随Android版，iOS版手机QQ今日更新了8.8.0正式版，带来了表情弹射、增强图片编辑等新功能。最新版本增加了弹射小黄脸表情的玩法，只需长按表情，即可一次发送N个表情，一股脑的发射出去，很是过瘾；而对方接收时，表情会从天而降，歪七扭八，相当魔性。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[中兴回应快手单方面下架：对品牌造成严重负面影响 将采取措施]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1135753.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1135753.htm"/>
+        <updated>2021-06-02T10:08:08.000Z</updated>
+        <summary type="html"><![CDATA[6月2日消息，最近，快手电商官方发布公告称，为规范快手电商手机商家经营行为，维护良好的市场秩序，保障消费者体验，平台将对手机类目展开专项治理整改，对部分手机进行下架处理。值得注意的是，快手电商下架的品牌清单中包含了中兴。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[薇娅严选被强制执行40.50万元：曾遭网红主播薇娅起诉]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1135751.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1135751.htm"/>
+        <updated>2021-06-02T10:07:53.000Z</updated>
+        <summary type="html"><![CDATA[6月2日消息，企查查APP显示，薇娅严选（广州）供应链管理有限公司于6月1日新增强制执行信息，目前该公司已被强制执行40.50万元，公司于4月2日被广州市白云区市场监督管理局列入经营异常名录。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[钟南山为气膜方舱实验室打气：坚决打赢广东这场疫情防控硬仗]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1135749.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1135749.htm"/>
+        <updated>2021-06-02T10:04:19.000Z</updated>
+        <summary type="html"><![CDATA[6月1日，首个“猎鹰号”气膜方舱实验室在广州体育馆建成并投入使用。据介绍，本次体育馆会搭建4个气膜实验室，其日检测产能可超12万管。6月2日，钟南山院士为“猎鹰号”气膜方舱实验室工作人员发来鼓励视频。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[彭博社：肉品加工企业JBS遭遇REvil黑客组织的网络攻击]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1135747.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1135747.htm"/>
+        <updated>2021-06-02T09:46:38.000Z</updated>
+        <summary type="html"><![CDATA[彭博社援引四名知情人士的话称，针对肉品加工企业 JBS 的网络攻击，是有一个与俄方有关联的知名黑客组织 Revil 实施的。该网络犯罪团伙又名 Sodinokibi，尽管外界不知晓其是否所有成员都位于俄罗斯境内，但该组织的公众形象、及其在暗网论坛上的纯俄语发布习惯，都将矛头指向了同一个地方。
+ 阅读全文]]></summary>
+        <author>
+            <name>raymon725</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“中了一个亿”的支付宝锦鲤信小呆谈现状：没钱没工作、查出抑郁症]]></title>
         <id>https://www.cnbeta.com/articles/tech/1135745.htm</id>
