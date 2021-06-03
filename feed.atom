@@ -2,10 +2,329 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://lvytwjw.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-03T04:42:29.253Z</updated>
+    <updated>2021-06-03T06:41:46.440Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://lvytwjw.github.io/rss/index.html"/>
     <link rel="self" href="https://lvytwjw.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[2个太阳能电池阵列机翼本周发射 将改善国际空间站供电系统]]></title>
+        <id>https://www.cnbeta.com/articles/science/1136179.htm</id>
+        <link href="https://www.cnbeta.com/articles/science/1136179.htm"/>
+        <updated>2021-06-03T06:35:50.000Z</updated>
+        <summary type="html"><![CDATA[用于国际空间站的 2 个太阳能电池阵列机翼将跟随 SpaceX 的龙式货舱，计划于本周四从肯尼迪航天中心发射。在经过 SpaceX 飞船的 3 次补给任务之后，将会对国际空间站的 6 个太阳能电池阵列机翼进行更换升级。据悉，这是国际空间站在 2011 年完成大规模组装以来进行的最大一次中期升级。
+ 阅读全文]]></summary>
+        <author>
+            <name>study875</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[全车断电车主被困车内险窒息：特斯拉送上应急开门方法]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1136177.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1136177.htm"/>
+        <updated>2021-06-03T06:30:08.000Z</updated>
+        <summary type="html"><![CDATA[近日，据媒体报道，深圳市的特斯拉Model 3车主文先生，在自己的特斯拉车内，遭遇了惊魂一幕。因为他的特斯拉车辆全车突然断电，车内的电动门把手无法打开，导致他被困车内。并且因为外界阳光直射，车内温度升高，自己也差点车内窒息。后来，幸亏遇到过路的哥司机，打碎了车窗户，文先生才逃了出来。
+ 阅读全文]]></summary>
+        <author>
+            <name>teikaei</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Joby Aviation将在多层停车场的顶部放置eVTOL“垂直起降港”]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1136175.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1136175.htm"/>
+        <updated>2021-06-03T06:28:25.000Z</updated>
+        <summary type="html"><![CDATA[据外媒报道，Joby Aviation计划在美国经营自己的eVTOL（电动垂直起降）空中出租车服务，它现在正努力扩大其起飞和降落的选择。该公司已经签署了新的合作伙伴关系，这将使它能够在美国各地的多层停车场的顶部放置“垂直起降港”（vertiports）。
+ 阅读全文]]></summary>
+        <author>
+            <name>vivian</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[开始招兵买马 特斯拉要进军印度市场了？]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1136173.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1136173.htm"/>
+        <updated>2021-06-03T06:25:59.000Z</updated>
+        <summary type="html"><![CDATA[据彭博报道，特斯拉已经开始在印度招聘包括市场部和人力资源部主管在内的领导层和高级职位，准备进军全球最大的新兴汽车市场之一。华尔街见闻此前提及，特斯拉已准备进军印度，首家印度工厂将落户卡纳塔克邦，马斯克称正与印度多个州洽谈开设特斯拉的办事处、展厅和研发中心。
+ 阅读全文]]></summary>
+        <author>
+            <name>teikaei</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[爆米花流行背后的科学原因或有助于种植出更高质量的玉米]]></title>
+        <id>https://www.cnbeta.com/articles/science/1136171.htm</id>
+        <link href="https://www.cnbeta.com/articles/science/1136171.htm"/>
+        <updated>2021-06-03T06:24:42.000Z</updated>
+        <summary type="html"><![CDATA[据外媒报道，影院里的微波包装和装满爆米花的机器让爆玉米粒看起来非常简单，但实际上需要很多因素才可以把坚硬的玉米粒变成酥脆的黄油美味。研究人员对爆米花膨胀背后的科学进行了深入研究并对这一过程有了新的认识，这可能为今后培育更高质量的玉米提供信息。
+ 阅读全文]]></summary>
+        <author>
+            <name>teikaei</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Wedbush证券分析师：14/16吋MacBook Pro将亮相今年WWDC]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1136169.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1136169.htm"/>
+        <updated>2021-06-03T06:18:55.000Z</updated>
+        <summary type="html"><![CDATA[Wedbush 证券公司分析师 Daniel Ives 今天表示，在 5 天后召开的 WWDC 2021 开发者大会上苹果将会公布传闻已久的 14/16 英寸 MacBook Pro。在给投资者的一份备忘录中，Ives 认为 WWDC 2021 除了常规预期的 iOS、iPadOS、macOS、watchOS 和 tvOS 版本更新之外，苹果还准备了“一些惊喜”，其中就包括新款 MacBook Pro。
+ 阅读全文]]></summary>
+        <author>
+            <name>study875</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[百度网盘+QQ音乐联合会员大促：最高优惠516元 买一得四]]></title>
+        <id>https://wk.baidu.com/wkbusiness/browse/unionvipcashier?page=342202020740be1e650e9a26</id>
+        <link href="https://wk.baidu.com/wkbusiness/browse/unionvipcashier?page=342202020740be1e650e9a26"/>
+        <updated>2021-06-03T06:16:14.000Z</updated>
+        <summary type="html"><![CDATA[百度文库再次启动了 6·18 联合会员补贴大促活动，并提供了三种会员组合满足你不同的使用需求，最高优惠 516 元，买一次就能享受四大会员服务。组合包括 QQ 音乐、百度网盘、喜马拉雅、屈臣氏、网易严选、京东 Plus 会员等等，用户可以根据自己的需求进行选择。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[优派推出Elite XG251G与XG271QG游戏显示器 英伟达Reflex技术加持]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1136165.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1136165.htm"/>
+        <updated>2021-06-03T06:15:23.000Z</updated>
+        <summary type="html"><![CDATA[优派（ViewSonic）刚刚发布了支持英伟达 Reflex 低延迟和 G-Sync 自适应刷新率技术的 Elite 系列专业电竞显示器。该系列产品专为追求高速精准响应的游戏玩家而打造，包括了 24.5 英寸 @ 360Hz 的 Elite XG251G、以及 27 英寸 @ 240Hz 的 Elite XG271QG 。其采用的 IPS 面板覆盖了 100% Adobe 色域，且拿到了 VESA DisplayHDR 400 认证。
+ 阅读全文]]></summary>
+        <author>
+            <name>raymon725</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[广汽埃安发布AION S Plus官图 计划年内上市]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1136163.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1136163.htm"/>
+        <updated>2021-06-03T06:10:19.000Z</updated>
+        <summary type="html"><![CDATA[近日，广汽埃安发布了AION S Plus车型的官方图片，新车的整体造型借鉴了刚刚发布的ENO.146概念车，而新车也计划将于年内正式上市销售。外观方面，广汽埃安AION S Plus借鉴了刚刚发布的广汽埃安ENO.146概念车的设计元素，低矮的车身、夸张的前保险杠造型、整体前卫的风格都与ENO.146如出一辙，让整车更显科技、运动气质。
+ 阅读全文]]></summary>
+        <author>
+            <name>teikaei</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Netflix《朱庇特传奇》一季被砍 改拍摄反派剧集]]></title>
+        <id>https://hot.cnbeta.com/articles/movie/1136161.htm</id>
+        <link href="https://hot.cnbeta.com/articles/movie/1136161.htm"/>
+        <updated>2021-06-03T06:10:05.000Z</updated>
+        <summary type="html"><![CDATA[刚在Netflix上线了第一季的超级英雄剧集 《朱庇特传奇》被砍，原著马克·米勒在社交媒体宣布这家流媒体将开发"Supercrooks"的真人剧集和动画，和《朱庇特传奇》处于同一个宇宙。
+ 阅读全文]]></summary>
+        <author>
+            <name>teikaei</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[又是高田气囊：大众宣布召回超3万辆进口甲壳虫]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1136159.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1136159.htm"/>
+        <updated>2021-06-03T06:05:34.000Z</updated>
+        <summary type="html"><![CDATA[6月3日消息，从国家市场监管总局网站了解到，日前，大众汽车(中国)销售有限公司向国家市场监督管理总局备案了召回计划。计划决定自2021年10月15日起，召回2012年4月24日至2014年7月3日期间生产的部分2012-2014款进口甲壳虫系列汽车，共计30687辆。
+ 阅读全文]]></summary>
+        <author>
+            <name>teikaei</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[医院为阳性高考生设置独立考场：专门医护为17岁高三学生保驾护航]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1136157.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1136157.htm"/>
+        <updated>2021-06-03T06:05:25.000Z</updated>
+        <summary type="html"><![CDATA[马上就要高考了，但近期广州的疫情依然不容乐观。如果核酸检测成阳性的考生要参加高考，该怎么办呢？据@广州日报 消息，6月2日，广州医科大学附属市八医院院长雷春亮透露，目前市八医院收治了一名17岁的无症状感染者，是高三学生，为5月29日无症状感染者5的密切接触者。
+ 阅读全文]]></summary>
+        <author>
+            <name>vivian</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[三上悠亚明日花和Riu合影照流出 网友：一眼望去像是复制粘贴]]></title>
+        <id>https://hot.cnbeta.com/articles/movie/1136155.htm</id>
+        <link href="https://hot.cnbeta.com/articles/movie/1136155.htm"/>
+        <updated>2021-06-03T06:04:33.000Z</updated>
+        <summary type="html"><![CDATA[最近三上悠亚、明日花两个好友和24岁的日本YouTuber网红Riu发了合影照，一眼望去，这是复制人啊？之前明日花和Riu开合照已被指撞脸，这次三人一合计，齐齐穿着白色短Tee，更剪了清爽发型，这次加上三上，
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[约一万名东京奥运会志愿者已宣布辞职]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1136153.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1136153.htm"/>
+        <updated>2021-06-03T06:03:38.000Z</updated>
+        <summary type="html"><![CDATA[东京奥组委首席执行官武藤敏郎2日透露，大约有一万名原计划为东京奥运会和残奥会服务的志愿者已经宣布退出，占到志愿者总数的八分之一。据共同社报道，武藤敏郎当天在接受日本媒体采访时透露了上述的消息，他说：“毫无疑问，（他们退出的）原因之一是担心感染新冠病毒。”不过武藤敏郎也表示，志愿者的大规模辞职不会影响到奥运会的运营。
+ 阅读全文]]></summary>
+        <author>
+            <name>vivian</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[郑州一企业注册鸿蒙商标被撤销 上诉也被驳回]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1136151.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1136151.htm"/>
+        <updated>2021-06-03T06:03:12.000Z</updated>
+        <summary type="html"><![CDATA[随着华为HarmonyOS的登场，鸿蒙商标也成为了业界关注的热点。6月3日消息，企查查显示，郑州市简恩教育信息咨询有限公司控股股东井某此前注册41类“鸿蒙”商标，结果被撤销。井某因不服其注册商标被撤销提起上诉，相关二审行政判决书于5月28日公开。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[荣耀 X20 游戏手机真机首曝：搭载联发科天玑 1200]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1136149.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1136149.htm"/>
+        <updated>2021-06-03T06:02:51.000Z</updated>
+        <summary type="html"><![CDATA[近日，荣耀官方已正式宣布，将于 6 月 16 日召开新品发布会，推出新一代年度旗舰荣耀 50 系列。根据最新爆料显示，除了荣耀 50 系列之外，荣耀近期还将推出一款主打游戏定位的新品手机——荣耀 X20。
+ 阅读全文]]></summary>
+        <author>
+            <name>study875</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[鲁大师测试HarmonyOS 2.0：应用恢复率高达95.45% 力压iOS]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1136147.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1136147.htm"/>
+        <updated>2021-06-03T06:02:34.000Z</updated>
+        <summary type="html"><![CDATA[昨日华为HarmonyOS操作系统正式发布，此次发布的HarmonyOS 2采用分布式技术，可以让用户自由组合硬件，将多终端融为一体，让用户像使用一台设备一样简单。从已升级HarmonyOS 2的网友反馈来看，升级后鸿蒙整体使用非常顺滑，对比更新前有明显流畅度提升。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“鸿蒙系统”上线，谁能买单？]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1136145.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1136145.htm"/>
+        <updated>2021-06-03T06:00:15.000Z</updated>
+        <summary type="html"><![CDATA[昨天晚上，华为在线上举行了一次特别的发布会，会上的主角不是什么硬件产品，而是他们筹备已久的Harmony OS 2系统，也就是所谓的“鸿蒙系统”。对于在智能手机领域受困于芯片缺货的华为来说，能否在软件系统层面开辟出新天地是所有人对它的期待。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美国散户助推股价5个月暴涨30倍 AMC院线回馈小股东免费爆米花]]></title>
+        <id>https://hot.cnbeta.com/articles/movie/1136143.htm</id>
+        <link href="https://hot.cnbeta.com/articles/movie/1136143.htm"/>
+        <updated>2021-06-03T05:59:51.000Z</updated>
+        <summary type="html"><![CDATA[今年年初让华尔街大型对冲基金损失惨重的散户狂欢卷土重来。最近几日，这些聚集在Reddit论坛上的小股东再次选中AMC院线。在美股周三（6月2日）交易日中，AMC股价上涨95%至62.55美元，盘中一度达到72.62美元。而在2021年伊始，这家老牌院线的股价仅为1.9美元。直到一周以前（5月24日），AMC的股价也仅为13美元。
+ 阅读全文]]></summary>
+        <author>
+            <name>vivian</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[一夜四次熔断！"散户抱团股"嗨了：最猛七天狂涨400%多 王健林"倒在了黎明前"]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1136141.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1136141.htm"/>
+        <updated>2021-06-03T05:59:39.000Z</updated>
+        <summary type="html"><![CDATA[AMC 周三猛涨 95%， 一只 28 倍大牛股在美股诞生了！但刚“清仓退出”的万达却笑不出来 。5 月 23 日，万达集团刚官宣退出 AMC， 在接下来的七个交易日 ，AMC 就暴涨 417%。 这意味着，万达少赚 140 亿以上。
+ 阅读全文]]></summary>
+        <author>
+            <name>study875</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Zeta拟美股上市：创始人为前苹果CEO 曾将乔布斯赶出家门]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1136139.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1136139.htm"/>
+        <updated>2021-06-03T05:59:31.000Z</updated>
+        <summary type="html"><![CDATA[数字营销公司Zeta Global Holdings Corp(简称：“Zeta”，股票代码为“ZETA”）日前向美国SEC更新招股书，准备在纽交所上市。Zeta发行区间为10美元到12美元，此次公司发行15,617,272股，现有股东出售7,110,000股，一共发售2273万股。
+ 阅读全文]]></summary>
+        <author>
+            <name>teikaei</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[5月全球App下载量Top10：抖音及其海外版高居榜首]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1136137.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1136137.htm"/>
+        <updated>2021-06-03T05:56:37.000Z</updated>
+        <summary type="html"><![CDATA[6月2日消息，今日，全球移动应用&手游情报平台Sensor Tower商店发布5月全球热门移动应用下载量TOP10榜单，抖音和剪映位列其中。数据显示，抖音及其海外版TikTok蝉联全球移动应用（非游戏）下载榜冠军，超过8000万下载量，其占总榜单的12%。CapCut总下载量位列榜单第八。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[新型金融产品NFT市场泡沫已破灭 最高峰一天1亿美元成交额]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1136135.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1136135.htm"/>
+        <updated>2021-06-03T05:52:42.000Z</updated>
+        <summary type="html"><![CDATA[前一段时间吵得沸沸扬扬的新型投机金融产品NFT（Non-Fungible Tokens，不可替代代币），如今有数据显示其市场的泡沫已被戳破。以下是独立市场调查机构Protos市场调查数据及结论：
+ 阅读全文]]></summary>
+        <author>
+            <name>raymon725</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[腾讯发布轮腿式机器人Ollie 能完成360°自由转体]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1136133.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1136133.htm"/>
+        <updated>2021-06-03T05:51:48.000Z</updated>
+        <summary type="html"><![CDATA[今日，腾讯对外发布了一款机器人，系腾讯Robotics X实验室的新成员Ollie。据介绍，Ollie是一个轮腿式机器人，即兼具轮式优势和腿部能力的机器人。高35厘米，垂直起跳高度最高可达60厘米，能完成360°自由转体，S线极限滑行等各种高难度动作。
+ 阅读全文]]></summary>
+        <author>
+            <name>teikaei</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[苹果联合创始人沃兹尼亚克在起诉YouTube的官司中败诉]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1136131.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1136131.htm"/>
+        <updated>2021-06-03T05:50:47.000Z</updated>
+        <summary type="html"><![CDATA[苹果公司联合创始人史蒂夫·沃兹尼亚克（Steve Wozniak)在诉Google旗下视频分享网站YouTube的诉讼中败诉。此前，他与17名受害者声称，有黑客冒充他们诈骗比特币。美国当地时间周三，加州一名法官在暂定裁决中表示，YouTube及其母公司Google都受到联邦法律的保护，该法律保护互联网平台不对用户发布的内容负责。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[兆易创新发布首款自有品牌DRAM产品]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1136129.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1136129.htm"/>
+        <updated>2021-06-03T05:50:40.000Z</updated>
+        <summary type="html"><![CDATA[兆易创新今日宣布，首款自有品牌4Gb DDR4产品——GDQ2BFAA系列现已量产，实现了从设计、流片，到封测、验证的全国产化。在满足消费类市场强劲需求的同时，助力国产自主供应生态圈的发展构建。据悉，兆易创新本次成功推出4Gb DDR4 GDQ2BFAA系列产品，面向机顶盒、电视、监控、网络通信、平板电脑、智慧家庭、车载影音系统等诸多领域，充分满足消费电子产品的主流需求。
+ 阅读全文]]></summary>
+        <author>
+            <name>raymon725</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[被“芯片慌”催热的新兴芯片市场]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1136127.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1136127.htm"/>
+        <updated>2021-06-03T05:46:56.000Z</updated>
+        <summary type="html"><![CDATA[最近有消息传出，一汽大众今年二季度计划减产30%，减产数量高达20万辆；本田在华合资公司也因芯片短缺将夏季高温假提前到6月初。“芯片慌”持续蔓延。距去年12月芯片断供事态升级一百多天，国内汽车芯片行业悄悄发生了巨大变化，还导致了一系列连锁反应。
+ 阅读全文]]></summary>
+        <author>
+            <name>teikaei</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[疑似RTX 3080 Super与RTX 3070 Super笔记本显卡曝光]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1136123.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1136123.htm"/>
+        <updated>2021-06-03T05:33:08.000Z</updated>
+        <summary type="html"><![CDATA[TechRadar 援引据说来自联想的泄露消息称，该公司产品路线图中似乎已经曝光了英伟达 RTX 3080 Super 和 RTX 3070 Super 这两款移动 GPU 。Reddit 网友 Dr_B_M_Rigney 指出，其在 ThinkPad X1 Extreme G4 的规格列表中发现了 RTX 3080 Super 16GB GDDR6 / RTX 3070 Super 8GB GDDR6 显卡的身影。
+ 阅读全文]]></summary>
+        <author>
+            <name>raymon725</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[内部邮件揭示苹果曾考虑推出Mac平板电脑和15英寸MacBook Air]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1136121.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1136121.htm"/>
+        <updated>2021-06-03T05:03:09.000Z</updated>
+        <summary type="html"><![CDATA[近期曝光的一封内部电子邮件，揭示了苹果曾考虑在 2007 年发布了初代 iPhone 智能机之后，同步上马 Mac 平板电脑和 15 英寸的 MacBook Air 和笔记本。Apple Insider 指出，这封邮件由已故的苹果联合创始人史蒂夫·乔布斯（Steve Jobs）所撰写，并且作为《堡垒之夜》开发商 Epic Games 诉苹果 App Store 案件审理的一部分而被公开。
+ 阅读全文]]></summary>
+        <author>
+            <name>raymon725</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[欧洲投资公司Prosus以18亿美元收购Stack Overflow码农服务网站]]></title>
         <id>https://www.cnbeta.com/articles/tech/1136119.htm</id>
