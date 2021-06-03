@@ -488,6 +488,20 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2021/06/managing-shared-state-vue3/",
+          "author": "hello@smashingmagazine.com (Shawn Wildermuth)",
+          "description": "Writing large-scale Vue applications can be a challenge. In this article, Shawn Wildermuth dives into the pros and cons of approaches like factories, shared objects, and using Vuex. He also explains what is coming in Vuex 5.0 that might change how we all use shared state in Vue 3.",
+          "link": "https://smashingmagazine.com/2021/06/managing-shared-state-vue3/",
+          "publishedOn": "2021-06-03T10:30:00.000Z",
+          "wordCount": 3506,
+          "title": "Managing Shared State In Vue 3",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/0a70815d-28e5-44af-8306-0e992e99593a/managing-shared-state-vue3.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          }
+        },
+        {
           "id": "https://smashingmagazine.com/2021/06/how-to-fix-cumulative-layout-shift-issues/",
           "author": "hello@smashingmagazine.com (Barry Pollard)",
           "description": "Google’s Core Web Vitals initiative has taken the SEO and Web Performance worlds by storm and many sites are busy optimizing their Page Experience to maximize the ranking factor. The Cumulative Layout Shift metric is causing trouble to a lot of sites, so let’s have a look at ways of addressing any issues for that metric.",
@@ -1194,6 +1208,51 @@
       "feedUrl": "https://www.cnbeta.com/backend.php",
       "siteUrl": "https://www.cnbeta.com",
       "articles": [
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1136289.htm",
+          "author": "ugmbbc",
+          "description": "6月3日消息，据知情人士称，中国人工智能芯片初创企业——正在考虑在美国IPO，筹资规模可能高达10亿美元。公司得到的投资者支持包括英特尔投资、高瓴资本和云锋基金。知情人士说，它正与顾问机构一起筹备发行股份。他们说，最快可能在今年年底上市。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1136289.htm",
+          "publishedOn": "2021-06-03T10:41:41.000Z",
+          "wordCount": 189,
+          "title": "传地平线计划赴美IPO：筹资10亿美元"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1136287.htm",
+          "author": "ugmbbc",
+          "description": "由于疫情限制，今年的台北电脑展在线上举办，无缘亲自聆听各位行业大佬发表演讲、展示技术产品。不过，NVIDIA举办了一场特殊的线上参观，创始人兼CEO黄仁勋亲自领队，带着全球多家媒体，以视频会议的方式，首次公开了NVIDIA的新总部大楼“Voyager”(旅行者)，并畅谈了RTX 30系列游戏卡、笔记本、CMP专业矿卡、AI人工智能、ARM收购、开发者等多个热点话题。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1136287.htm",
+          "publishedOn": "2021-06-03T10:40:09.000Z",
+          "wordCount": 198,
+          "title": "离开厨房 黄仁勋首次公开NVIDIA新总部大楼"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1136285.htm",
+          "author": "ugmbbc",
+          "description": "6月2日，酷派手机发布严正声明称，此前快手主播“驴嫂平荣”售卖山寨机事件对宇龙计算机通信科技（深圳）有限公司及所属酷派集团的声誉造成了严重损害。对此事件中出现的不实报道和传播，酷派也表示强烈抗议，并保留追究相关方法律责任的权利。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1136285.htm",
+          "publishedOn": "2021-06-03T10:39:23.000Z",
+          "wordCount": 189,
+          "title": "酷派声明将与快手联合清查侵权行为"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1136283.htm",
+          "author": "ugmbbc",
+          "description": "6月3日消息，由于受4月份其全球电动汽车市场份额下降等多重不利因素影响，电动汽车制造商特斯拉的股价今年以来震荡走跌。截至当地时间6月2日，特斯拉报收605.120美元每股，下跌3.01%。相较较年内1月20日出现的900美元高点，4个月的时间，特斯拉股价下滑了32%。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1136283.htm",
+          "publishedOn": "2021-06-03T10:37:23.000Z",
+          "wordCount": 192,
+          "title": "特斯拉股价相较年内高点已下滑32%"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1136281.htm",
+          "author": "study875",
+          "description": "天眼查 App 显示，华为技术有限公司最早于 2018 年 8 月就申请注册“华为鸿蒙 ”“HUAWEI HONGMENG” 等商标，国际分类涉及科学仪器、网站服务，商标已于 2019 年 5 月注册成功。近三年间，华为又陆续申请了“鸿蒙 ”“HARMONY”“ 鸿蒙操作系统”“鸿蒙内核”“鸿蒙 OS” 等多个相关名称商标，涉及国际分类扩展了金融物管、广告销售、教育娱乐、通讯服务等多个类别。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1136281.htm",
+          "publishedOn": "2021-06-03T09:51:56.000Z",
+          "wordCount": 238,
+          "title": "华为鸿蒙商标注册数超 400 已产生数百起侵害商标权纠纷"
+        },
         {
           "id": "https://www.cnbeta.com/articles/tech/1136279.htm",
           "author": "raymon725",
