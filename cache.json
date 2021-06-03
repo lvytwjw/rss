@@ -1195,6 +1195,222 @@
       "siteUrl": "https://www.cnbeta.com",
       "articles": [
         {
+          "id": "https://hot.cnbeta.com/articles/movie/1136229.htm",
+          "author": "teikaei",
+          "description": "近日，《帝国》杂志曝光了汤姆·克鲁斯拍摄《碟中谍7》的新片场照。照片中，潇洒帅气的阿汤哥带上护目镜，身背黑色双肩包，骑上摩托车，似乎将要继续冒险。\n 阅读全文",
+          "link": "https://hot.cnbeta.com/articles/movie/1136229.htm",
+          "publishedOn": "2021-06-03T08:15:55.000Z",
+          "wordCount": 187,
+          "title": "《碟中谍7》明年5月上映：阿汤哥新片场照曝光"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/science/1136227.htm",
+          "author": "teikaei",
+          "description": "据外媒报道，六方氮化硼(h-BN)是2D材料中的“铁人”，它非常抗裂，以至于可以违背一个世纪以来工程师们仍用其来测量韧性的理论描述。“我们在这种材料中观察到的东西是了不起的，”来自莱斯大学、这项研究的论文通讯作者Jun Lou指出，“没有人会想到在2D材料中会出现这种情况。这就是为什么它如此令人兴奋。”\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/science/1136227.htm",
+          "publishedOn": "2021-06-03T08:13:50.000Z",
+          "wordCount": 185,
+          "title": "科学家发现六方氮化硼拥有超强抗断裂能力：韧性是石墨烯的10倍"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1136225.htm",
+          "author": "study875",
+          "description": "6 月 2 日 ，HarmonyOS 2 正式跟我们见面了，随着 HarmonyOS 2 的问世，不仅意味着 HarmonyOS 的进一步迭代，更是预示着 HarmonyOS 从智慧屏、可穿戴等产品正式转向了全场景的操作系统。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1136225.htm",
+          "publishedOn": "2021-06-03T08:12:29.000Z",
+          "wordCount": 324,
+          "title": "一生万物，万物归一 HarmonyOS 2 体验"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1136223.htm",
+          "author": "raymon725",
+          "description": "荣耀（Honor）将于 6 月 16 日在上海举办一场发布会，并带来大家期待已久的 50 系列智能机。不过据 @数码闲聊站 在微博上透露，该公司还将紧随其后，推出更加走量的 X20 系列新机。除了简单的几句话，爆料人还分享了一张荣耀 X50 新机的后盖谍照，可知该机沿用了 X10 5G 的后置三摄方案，但相机模组的形状略有不同。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1136223.htm",
+          "publishedOn": "2021-06-03T08:08:33.000Z",
+          "wordCount": 237,
+          "title": "疑似荣耀X20系列SE新机背部谍照曝光 或采用64MP后置三摄"
+        },
+        {
+          "id": "https://hot.cnbeta.com/articles/funny/1136221.htm",
+          "author": "raymon725",
+          "description": "受 2020 年持续至今的 COVID-19 大流行的影响，许多人的生活方式都得到了很大的变化。甚至有人开玩笑说，除非 2021 年发生外星人入侵事件，否则地球上没有什么比这更糟糕的事了。尽管只是调侃，但近期一系列有关“不明飞行物”（UFO）的传闻和政府解密报告，还是让奥利奥（Oreo）找到了一个不错的营销切入点。\n 阅读全文",
+          "link": "https://hot.cnbeta.com/articles/funny/1136221.htm",
+          "publishedOn": "2021-06-03T07:56:16.000Z",
+          "wordCount": 220,
+          "title": "奥利奥发起创意零食征集活动 赶在美国政府UFO解密报告发布前"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1136219.htm",
+          "author": "study875",
+          "description": "6 月 3 日消息，在北京智源大会的自然语言处理论坛上，字节跳动人工智能实验室总监李航分享了多语言预训练新范式 mRASP（ 机器翻译界的“赵元任模型”）、端到端语音翻译模型 COSTT 等最新研究成果。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1136219.htm",
+          "publishedOn": "2021-06-03T07:52:54.000Z",
+          "wordCount": 209,
+          "title": "火山引擎推出火山同传，可为 AI 学术交流提供实时字幕"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1136217.htm",
+          "author": "study875",
+          "description": "App 上的一些“网红”餐厅往往好评如潮点评者不仅有生动的文字表述还有在餐厅就餐的各种美照那么，这些好评都是真实的吗？\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1136217.htm",
+          "publishedOn": "2021-06-03T07:43:27.000Z",
+          "wordCount": 210,
+          "title": "网红餐厅好评如潮？留心，说不定是刷的"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1136215.htm",
+          "author": "study875",
+          "description": "在给投资者的一份备忘录中，Wedbush 分析师 Daniel Ives 认为苹果今年将会在 iPhone 13 Pro 和 iPhone 13 Pro Max 两款 Pro 型号中提供最高 1TB 的存储选项，而且全系配备 LiDAR 传感器。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1136215.htm",
+          "publishedOn": "2021-06-03T07:41:19.000Z",
+          "wordCount": 247,
+          "title": "iPhone 13将全系标配LiDAR传感器 两款Pro型号最高容量1TB"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/science/1136213.htm",
+          "author": "vivian",
+          "description": "据外媒报道，受藤壶和贻贝分泌的粘性物质启发，塔夫茨大学的工程师们已经开发出了一种新型的胶水。他们于周三在《先进科学》杂志上报告了这项研究成果。从蚕的纤维丝蛋白开始，他们能够复制藤壶和贻贝“胶水”的关键特征，包括蛋白丝、化学交联和铁键。其结果是一种强大的无毒胶水，在水下和在干燥条件下一样好用，而且比现在市场上的大多数合成胶水产品更强。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/science/1136213.htm",
+          "publishedOn": "2021-06-03T07:40:08.000Z",
+          "wordCount": 198,
+          "title": "科学家开发强大的新型水下粘合剂：灵感来自藤壶和贻贝"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1136209.htm",
+          "author": "teikaei",
+          "description": "6月3日下午消息，天眼查App显示，近日，华为技术有限公司新增两则软件著作权登记批准信息。软件全称分别为智能电视操作系统（TVOS）单平台版本软件、智能电视操作系统（TVOS）双平台版本软件，软件简称TVOS-H与TVOS-C，登记号2021SR0744159与2021SR0744160，当前版本号均为V1.0。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1136209.htm",
+          "publishedOn": "2021-06-03T07:36:23.000Z",
+          "wordCount": 193,
+          "title": "华为新动向：登记TVOS、获5G智能小车专利、鸿蒙商标注册数超400"
+        },
+        {
+          "id": "https://hot.cnbeta.com/articles/game/1136207.htm",
+          "author": "raymon725",
+          "description": "在将鸽子放飞了多年之后，雅达利 VCS 复古主机终于要在本月开启零售了。目前 Atari 官网商店已经列出了 VCS ONYX 基础版本、以及 VCS Black Walnut 套装，但目前暂时为无货的状态。前者售价 299.99 美元（约 1917 RMB），后者为 399.99 美元（约 2556 RMB）。\n 阅读全文",
+          "link": "https://hot.cnbeta.com/articles/game/1136207.htm",
+          "publishedOn": "2021-06-03T07:36:21.000Z",
+          "wordCount": 268,
+          "title": "雅达利VCS复古主机将于6月15日正式开售"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1136205.htm",
+          "author": "ugmbbc",
+          "description": "据国家卫健委刚刚公布的数据，截至2021年6月2日，31个省（自治区、直辖市）和新疆生产建设兵团累计报告接种新冠病毒疫苗突破7亿大关，达到70482.6万剂次。近期，我国新冠疫苗接种速度不断加快，4月9日突破1.5亿剂次，4月21日突破2亿剂次，5月7日突破3亿剂次，5月16日突破4亿剂次，5月23日突破5亿剂次，5月29日突破6亿剂次。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1136205.htm",
+          "publishedOn": "2021-06-03T07:32:00.000Z",
+          "wordCount": 190,
+          "title": "全国新冠疫苗接种剂次超7亿 将全面推进第二剂次接种"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1136203.htm",
+          "author": "vivian",
+          "description": "备受瞩目的2021年欧洲足球锦标赛（European Football Championship）即将于6月12日开战，乐高的老板或许也是个球迷，据路透社报道，近日发动自己公司员工，就地取材打造了世界最大的乐高版拼装足球，一起来开开眼。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1136203.htm",
+          "publishedOn": "2021-06-03T07:29:48.000Z",
+          "wordCount": 193,
+          "title": "乐高亲自打造世界最大拼装足球 迎接欧锦赛即将开战"
+        },
+        {
+          "id": "https://hot.cnbeta.com/articles/game/1136201.htm",
+          "author": "study875",
+          "description": "在《使命召唤》官网近期发的一篇招聘声明中，透露其将打造动视自己的手游工作室（动视 Mobile）。根据该篇高级游戏开发招聘声明，该工作室位于美国加利福利亚圣莫妮卡，并且其还称将会打造“世界上最好的 3A 手游”。工作室的首款手游为《使命召唤》系列的手机游戏。\n 阅读全文",
+          "link": "https://hot.cnbeta.com/articles/game/1136201.htm",
+          "publishedOn": "2021-06-03T07:28:34.000Z",
+          "wordCount": 227,
+          "title": "动视建立自己的手游工作室 首款手游或将是 Warzone Mobile"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/science/1136199.htm",
+          "author": "teikaei",
+          "description": "近日，有网友向澎湃新闻举报称，《科技经济导刊》早前刊发的一篇论文《论尘子与新粒子》，该文章提出了“尘子”的物理概念，并且为“尘子”定编制、建军队，与科学的真实严谨性不符。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/science/1136199.htm",
+          "publishedOn": "2021-06-03T07:28:12.000Z",
+          "wordCount": 187,
+          "title": "研究论文为暗物质“尘子”定编制、建军队，网友质疑伪科学"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1136197.htm",
+          "author": "study875",
+          "description": "今日，特斯拉官微就深圳车主被困车内事件致歉，全文如下：感谢大家对特斯拉的关注和监督，我们希望能持续为用户创造更加安心、舒适的电动出行生活。现向大家汇报一起发生在 5 月 30 日上午于深圳西丽的客户事件：\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1136197.htm",
+          "publishedOn": "2021-06-03T07:26:57.000Z",
+          "wordCount": 230,
+          "title": "特斯拉就深圳车主被困车内致歉"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1136195.htm",
+          "author": "teikaei",
+          "description": "据外媒报道，由剑桥大学和乌得勒支大学领导的一组研究人员调查了巴塞罗那、芝加哥、圣保罗、特拉维夫、布里斯班和伦敦等主要都市地区实施COVID-19限制前后的日常犯罪计数趋势。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1136195.htm",
+          "publishedOn": "2021-06-03T07:23:22.000Z",
+          "wordCount": 187,
+          "title": "研究：新冠封锁期间，世界各地城市的犯罪率显著下降"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1136193.htm",
+          "author": "study875",
+          "description": "伴随着 AirTag 的发布，越来越多的手机厂商开始涌入智能追踪设备市场，而一加（OnePlus）也希望分一杯羹。根据近期申请的“OnePlus Tag” 商标，表明一加公司正在开发这款设备。鉴于一加和 OPPO 之间的关系，OnePlus Tag 的功能应该和此前曝光的 OPPO Smart Tag 类似，应该具备 UWB 功能。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1136193.htm",
+          "publishedOn": "2021-06-03T07:19:39.000Z",
+          "wordCount": 237,
+          "title": "OnePlus Tag商标已申请 一加也要涉足智能追踪设备市场"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1136191.htm",
+          "author": "teikaei",
+          "description": "众所周知，汽车上线年检时会收取一部分费用，但江西九江的一位车主却遭遇了一件烦心事。日前，据媒体报道，九江王先生称自己的纯电动车在进行车辆上线检测后收费时发现，检测场收取了尾气检测费。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1136191.htm",
+          "publishedOn": "2021-06-03T07:19:28.000Z",
+          "wordCount": 190,
+          "title": "九江一纯电动汽车被收尾气检验费：车主希望退换相关费用"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1136189.htm",
+          "author": "study875",
+          "description": "还记得 2018 年的支付宝锦鲤信小呆吗？当年她幸运抽到了价值一个亿的大奖，随后辞职云游世界。最近信小呆自己爆料称已经失业了，没钱找工作，还查出了抑郁。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1136189.htm",
+          "publishedOn": "2021-06-03T06:58:47.000Z",
+          "wordCount": 211,
+          "title": "中了 1 亿大奖的支付宝锦鲤信小呆失业、抑郁 大 V 揭露：卖惨哭穷"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1136187.htm",
+          "author": "raymon725",
+          "description": "早些时候，TechnikNews 曾晒出过 Moto G Stylus 5G 衍生机型的一组新渲染图。现在，91Mobiles 又在 Geekbench 基准测试数据库中发现了它的身影。可知 Moto G Stylus 5G 新机有望采用高通骁龙 480 芯片组 + 6GB RAM，预装 Android 11 移动操作系统，且单核 / 多核成绩分别仅为 502 / 1651 分。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1136187.htm",
+          "publishedOn": "2021-06-03T06:58:02.000Z",
+          "wordCount": 280,
+          "title": "Geekbench曝光Moto G Stylus 5G新机跑分：骁龙480+6GB运存"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/science/1136185.htm",
+          "author": "vivian",
+          "description": "根据科罗拉多大学环境科学研究所（CIRES）领导的一篇新论文，在格陵兰岛的冰川Jakobshavn Isbræ将大块的冰块送入海洋前不久，沿着冰川终点漂浮的冰山的泥泞集合发生了突变。周三发表在《自然-地球科学》上的这项工作表明，漂浮在冰川-海洋边界的厚厚的冰山集合体在冰川出海前一小时会发生松动。这一发现可能有助于科学家们更好地了解未来海平面上升的情况，也可以帮助他们预测何时会发生重大的冰山融化事件。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/science/1136185.htm",
+          "publishedOn": "2021-06-03T06:56:51.000Z",
+          "wordCount": 194,
+          "title": "研究表明“冰混合物”可以控制Jakobshavn Isbræ冰川的裂冰时间"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1136183.htm",
+          "author": "study875",
+          "description": "天眼查 App 显示，近日，腾讯科技（深圳）有限公司公开“会话消息的定时发送方法、装置、计算机设备及存储介质”发明专利，公开号 CN112887189A， 申请日期为 2019 年 11 月。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1136183.htm",
+          "publishedOn": "2021-06-03T06:47:43.000Z",
+          "wordCount": 194,
+          "title": "微信发送消息可以定时了？腾讯公开定时发送消息专利"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1136181.htm",
+          "author": "raymon725",
+          "description": "威联通（QNAP）今日推出了搭载英特尔酷睿 i3 处理器的高性能万兆 NAS 新品，其中包括了 6 盘位的 TVS-672X 和 8 盘位的 TVS-872X 机型。在拥有丰富的应用程序和可扩展存储容量的基础上，两款机型还都支持 M.2 NVMe SSD 缓存加速、PCIe 扩展、Azure 活动目录域服务（AD DS）、多云备份、4K @ 60Hz HDMI 输出、实时转码等功能，可增强中小型企业的工作流程和生产力。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1136181.htm",
+          "publishedOn": "2021-06-03T06:44:02.000Z",
+          "wordCount": 403,
+          "title": "QNAP推出TVS-x72X万兆NAS新品：支持4K HDMI和M.2 NVMe SSD"
+        },
+        {
           "id": "https://www.cnbeta.com/articles/science/1136179.htm",
           "author": "study875",
           "description": "用于国际空间站的 2 个太阳能电池阵列机翼将跟随 SpaceX 的龙式货舱，计划于本周四从肯尼迪航天中心发射。在经过 SpaceX 飞船的 3 次补给任务之后，将会对国际空间站的 6 个太阳能电池阵列机翼进行更换升级。据悉，这是国际空间站在 2011 年完成大规模组装以来进行的最大一次中期升级。\n 阅读全文",
