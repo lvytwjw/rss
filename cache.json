@@ -1209,6 +1209,105 @@
       "siteUrl": "https://www.cnbeta.com",
       "articles": [
         {
+          "id": "https://www.cnbeta.com/articles/tech/1136361.htm",
+          "author": "ugmbbc",
+          "description": "在来自俄罗斯的黑客团伙对美国公司的勒索软件攻击激增的情况下，美国总统拜登将于本月晚些时候在瑞士举行的双边峰会上与俄罗斯总统普京讨论网络攻击问题。拜登周二告诉《USA Today》，白宫正在密切关注是否因勒索软件攻击的增加而对俄罗斯作出回应。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1136361.htm",
+          "publishedOn": "2021-06-03T13:48:10.000Z",
+          "wordCount": 199,
+          "title": "拜登将在双边会谈中就勒索软件攻击问题与普京正面讨论"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1136359.htm",
+          "author": "maomao",
+          "description": "麻省理工学院研究人员创造了第一种具有数字功能的纤维，在被缝入衬衫后能够感知、存储、分析和推断活动。数字纤维扩大了织物的可能性，可以发现人体中隐藏模式，可以用于体能监测、医疗推断和早期疾病检测。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1136359.htm",
+          "publishedOn": "2021-06-03T13:34:18.000Z",
+          "wordCount": 187,
+          "title": "麻省理工学院研发可编程数字纤维 有内存传感器和人工智能"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/science/1136357.htm",
+          "author": "ugmbbc",
+          "description": "在冠状病毒大流行期间，我们都熟悉全球各地的政府指导人们实施社会隔离。人类并不是唯一一种隔离和使用社交疏远来帮助防止爆发的生物。一项新的研究发现，当传染病的传播是一个潜在的问题时，原本体内就充满了各种病原体的蝙蝠也会各自保持社会距离。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/science/1136357.htm",
+          "publishedOn": "2021-06-03T13:19:50.000Z",
+          "wordCount": 187,
+          "title": "研究发现蝙蝠也会利用拉开社交距离及隔离的方式来防止流行病的传播"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1136355.htm",
+          "author": "ugmbbc",
+          "description": "三星正准备再推出两款入门级的Galaxy A系列智能手机，Galaxy A22和Galaxy A22 5G。它们的渲染图在上个月被泄露，其他一些规格也被披露出来。今天，我们已经基本上掌握了Galaxy A22 5G的完整规格和媒体渲染图，在发布前几乎没有留下任何想象空间。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1136355.htm",
+          "publishedOn": "2021-06-03T12:58:52.000Z",
+          "wordCount": 235,
+          "title": "Galaxy A22 5G细节公布：将配备90Hz显示屏和三摄像头模组"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1136353.htm",
+          "author": "ugmbbc",
+          "description": "鸿蒙是华为为数不多的先发布后面世的战略级产品，自去年华为对外发布自有操作系统鸿蒙后，外界最为关注的，是鸿蒙上手机。6月2日晚，华为发布了HarmonyOS 2，首批支持升级的手机为华为手机。这些手机型号包括Mate 40系列、P40系列、Mate 30系列、Mate X2和MatePad Pro。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1136353.htm",
+          "publishedOn": "2021-06-03T12:43:19.000Z",
+          "wordCount": 200,
+          "title": "鸿蒙能不能走通操作系统的第三条路？"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1136351.htm",
+          "author": "ugmbbc",
+          "description": "在6月3日举行的浦江创新论坛上，华为轮值董事长徐直军做了题为《华为创新实践与启示》的主题发言。徐直军以5G的发展过程为脉络，表示华为的发展是一个持续创新的历程。“2013年，华为决定进一步加强5G的研究投入，2017年，也就是5G商用的两年前，华为就开启了6G的研究。”\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1136351.htm",
+          "publishedOn": "2021-06-03T12:42:23.000Z",
+          "wordCount": 193,
+          "title": "徐直军：5G是一个创新起点 2017年华为已开启6G研究"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1136349.htm",
+          "author": "ugmbbc",
+          "description": "特斯拉女车主在上海车展维权的故事并没有结束。沉寂多日后，车主张女士近日带着此前从未公布的特斯拉事故前30分钟数据，将再度踏上维权之路。近日，新京报贝壳财经记者在河南郑州专访了车主张女士。在3个小时的谈话中，女车主首度向记者公开了长达48页的特斯拉事故前行车数据，并对这份数据表示质疑。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1136349.htm",
+          "publishedOn": "2021-06-03T12:41:58.000Z",
+          "wordCount": 213,
+          "title": "特斯拉维权女车主首度公开事故前30分钟数据 将依法起诉"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1136347.htm",
+          "author": "ugmbbc",
+          "description": "新潮的“酒店社交”听起来动心吗？在“趣住”App上，软件用户很容易找到同住一家酒店，或者附近酒店且独自居住的房客，而若要进行私聊、私密评论或发布个人动态等，则需要充值。日前，上海警方在“动态隐患清零”工作中，发现这款名为“趣住”的手机软件充斥大量暧昧图片文字。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1136347.htm",
+          "publishedOn": "2021-06-03T12:40:42.000Z",
+          "wordCount": 184,
+          "title": "充值App能和住同一家酒店的女性私聊？然而对方是“虚拟女性”"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1136345.htm",
+          "author": "ugmbbc",
+          "description": "辰韬资本在北京发布了《末端无人配送赛道研究报告》（以下简称《报告》），分析了末端无人配送的市场空间、竞争格局和商业化前景。报告指出，目前末端无人配送最主要的场景是快递和即时配送，后者包括外卖、生鲜、商超、零售等，无论是哪个场景，都蕴含着巨大的市场价值。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1136345.htm",
+          "publishedOn": "2021-06-03T12:38:04.000Z",
+          "wordCount": 321,
+          "title": "京东阿里美团为无人配送拼了：3年单车成本砍八成、投放或超万辆"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/science/1136343.htm",
+          "author": "ugmbbc",
+          "description": "研究人员发表了一项新的研究，发现全世界温带淡水湖泊中的氧气水平正在比海洋中更快地下降。科学家们说，这一趋势主要是由气候变化驱动的，并威胁到淡水生物多样性和饮用水的质量。自1980年以来，整个温带湖泊的氧气水平在表面下降了5.5%，在深水区下降了18.6%。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/science/1136343.htm",
+          "publishedOn": "2021-06-03T12:37:23.000Z",
+          "wordCount": 186,
+          "title": "研究人员称全球变暖正在降低湖泊中的氧气含量"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1136341.htm",
+          "author": "ugmbbc",
+          "description": "几个月来，微软一直在预告 \"下一代\"Windows，但新的暗示表明，该公司不只是在准备对其现有的Windows 10软件进行更新，而是在准备一个拥有大编号的操作系统版本：Windows 11。这家软件巨头昨天宣布将于6月24日举行一次新的Windows活动，承诺将展示 \"Windows的下一步\"。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1136341.htm",
+          "publishedOn": "2021-06-03T12:32:24.000Z",
+          "wordCount": 223,
+          "title": "有迹象表明微软将把下一代Windows命名为Windows 11"
+        },
+        {
           "id": "https://www.cnbeta.com/articles/tech/1136339.htm",
           "author": "ugmbbc",
           "description": "微软已经预告，定于6月24日发布新一代Windows操作系统，CEO纳德拉预告这是10年来最大革新。看起来它并非Win10的又一次功能更新，已经有无数人期待它会不会是Win11或者Windows X。\n 阅读全文",
