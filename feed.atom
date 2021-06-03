@@ -2,10 +2,95 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://lvytwjw.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-03T17:05:10.877Z</updated>
+    <updated>2021-06-03T19:39:31.793Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://lvytwjw.github.io/rss/index.html"/>
     <link rel="self" href="https://lvytwjw.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Schofield&#x27;s Laws of Computing – What they Are and Why You Should Know Them]]></title>
+        <id>60afd68611ffb70827ef86d8</id>
+        <link href="https://www.freecodecamp.org/news/schofields-laws-of-computing/"/>
+        <updated>2021-06-03T18:46:12.000Z</updated>
+        <summary type="html"><![CDATA[Schofield's Laws of Computing are principles that anyone who works with computers should know. They're focused on data portability, integrity, and security.  Jack Schofield is a British journalist who wrote for The Guardian. During that time, he wrote three particular articles called "Schofield's Laws of Computing". Jack didn't create these]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lists in Python – A Comprehensive Guide]]></title>
+        <id>60b7c02cacb62507dd1d7b80</id>
+        <link href="https://www.freecodecamp.org/news/lists-in-python-comprehensive-guide/"/>
+        <updated>2021-06-03T18:42:20.000Z</updated>
+        <summary type="html"><![CDATA[Let’s suppose you’re planning to visit your neighborhood store to stock up on essentials. What is the first thing you’d do?  Have the answer already? Yes, you'd probably write down a shopping list! Python also has a built-in data structure called List that’s very similar to]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build a Hackintosh - Install MacOS Big Sur on a PC Using OpenCore]]></title>
+        <id>60affbe411ffb70827ef8951</id>
+        <link href="https://www.freecodecamp.org/news/build-a-hackintosh/"/>
+        <updated>2021-06-03T18:07:17.000Z</updated>
+        <summary type="html"><![CDATA[A Hackintosh is a non-Mac computer system, made with PC parts, that runs the macOS operating system. In this tutorial, you will learn how to create a Hackintosh. You will learn how to install macOS Big Sur (or any other version of macOS) using OpenCore. The main benefit of a]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SpaceX用一枚全新的猎鹰9号火箭向空间站发射货运飞船]]></title>
+        <id>https://www.cnbeta.com/articles/science/1136415.htm</id>
+        <link href="https://www.cnbeta.com/articles/science/1136415.htm"/>
+        <updated>2021-06-03T18:03:39.000Z</updated>
+        <summary type="html"><![CDATA[SpaceX公司的"龙"货运飞船再次前往国际空间站。该公司周四为美国宇航局发射了第22次商业补给服务（CRS）任务。这是SpaceX在过去12个月中向国际空间站发送的第五艘飞船，SpaceX的"龙"货运飞船任务管理主任Sarah Walker在周二的媒体发布会上指出，这也是今年公司第一次用新的猎鹰9号火箭助推器发射。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[传Galaxy S21 FE可能是三星Galaxy Note 20的后续产品]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1136413.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1136413.htm"/>
+        <updated>2021-06-03T17:26:28.000Z</updated>
+        <summary type="html"><![CDATA[预计三星将在今年晚些时候推出一系列高端设备，包括Galaxy Z Fold 3、Galaxy Z Flip 3和Galaxy S21 FE。显然，我们今年不会看到Note设备，而现在根据一直很可靠的爆料者埃文布拉斯（@evleaks）的推文，即将推出的Galaxy S21 FE可能是去年Galaxy Note 20的后续产品，而不是Galaxy S20 FE的后续产品。
+ 阅读全文]]></summary>
+        <author>
+            <name>maomao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SpaceX即将进行第22次货运发射 其中载荷将帮助宇航员将金属变成玻璃]]></title>
+        <id>https://www.cnbeta.com/articles/science/1136411.htm</id>
+        <link href="https://www.cnbeta.com/articles/science/1136411.htm"/>
+        <updated>2021-06-03T17:15:12.000Z</updated>
+        <summary type="html"><![CDATA[太空探索技术公司（SpaceX）将于今天向国际空间站（ISS）发射第22次货运任务，美国国家航空和航天局（NASA）昨天向媒体介绍了将飞往轨道空间实验室的科学实验。SpaceX的Dragon-2货运舱将向国际空间站发射7300磅的货物，包括研究人类肾脏组织、作物生长、新太阳能电池阵列的实验物品。
+ 阅读全文]]></summary>
+        <author>
+            <name>maomao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[新泄露的渲染图揭示了荣耀50和50 Pro的相机规格]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1136409.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1136409.htm"/>
+        <updated>2021-06-03T17:11:20.000Z</updated>
+        <summary type="html"><![CDATA[几个月前一份泄露的邀请函预告了荣耀50的主摄像头周围有一个大环。今天，更高分辨率的渲染图出现，展示了完整的荣耀50和荣耀50 Pro的背面。相机模组上的标签页非常清楚，这在之前泄露的渲染中是没有的。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Coinbase Pro：狗狗币订单目前处于完全交易模式]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1136407.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1136407.htm"/>
+        <updated>2021-06-03T17:06:07.000Z</updated>
+        <summary type="html"><![CDATA[全球最大的加密货币交易平台之一Coinbase Pro上，狗狗币订单目前处于完全交易模式；限价单、市价单和止损单现已全部可用。Coinbase从周二开始向Pro版用户提供狗狗币的交易服务，这个加密货币刚刚出现的时候只是被当作了一个笑话，但是进入2021年以后，由于特斯拉CEO埃隆·马斯克（Elon Musk）不断地在Tiwtter上提及它，其价格迎来了飙升。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[AMD APU路线图：6nm Zen3+现身、首发支持DDR5]]></title>
         <id>https://www.cnbeta.com/articles/tech/1136405.htm</id>
@@ -32701,52 +32786,6 @@ Chore: Excluded testing files from repo.]]></summary>
         <summary type="html"><![CDATA[This article showcases a case study of Bookaway’s landing page performance. We’ll see how taking care of the props we send to Next.js pages can make loading times and Web Vitals better.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Liran Cohen)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[v1.3.1]]></title>
-        <id>https://github.com/osmoscraft/osmosfeed/releases/tag/v1.3.1</id>
-        <link href="https://github.com/osmoscraft/osmosfeed/releases/tag/v1.3.1"/>
-        <updated>2021-05-05T05:19:57.000Z</updated>
-        <summary type="html"><![CDATA[Fixed: Avoid crwalers.
-Fixed: Error logging from XML parser.
-Fixed: Typo in docs.
-Thank you: @dym-sh, @tabokie, @cheese1]]></summary>
-        <author>
-            <name>Release notes from osmosfeed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[v1.3.0]]></title>
-        <id>https://github.com/osmoscraft/osmosfeed/releases/tag/v1.3.0</id>
-        <link href="https://github.com/osmoscraft/osmosfeed/releases/tag/v1.3.0"/>
-        <updated>2021-05-05T05:19:26.000Z</updated>
-        <summary type="html"><![CDATA[Added: Customize cache lifespan with cacheMaxDays property in osmosfeed.yaml.
-Added: Documentation for osmosfeed.yaml.
-Fixed: More intuitive logging during build.
-Chore: Refactored parameter passing for enrich step.]]></summary>
-        <author>
-            <name>Release notes from osmosfeed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[v1.2.3]]></title>
-        <id>https://github.com/osmoscraft/osmosfeed/releases/tag/v1.2.3</id>
-        <link href="https://github.com/osmoscraft/osmosfeed/releases/tag/v1.2.3"/>
-        <updated>2021-05-05T05:19:03.000Z</updated>
-        <summary type="html"><![CDATA[Changed: favicon update.]]></summary>
-        <author>
-            <name>Release notes from osmosfeed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[v1.2.1]]></title>
-        <id>https://github.com/osmoscraft/osmosfeed/releases/tag/v1.2.1</id>
-        <link href="https://github.com/osmoscraft/osmosfeed/releases/tag/v1.2.1"/>
-        <updated>2021-05-05T05:18:52.000Z</updated>
-        <summary type="html"><![CDATA[Added: Display CLI version in footer.]]></summary>
-        <author>
-            <name>Release notes from osmosfeed</name>
         </author>
     </entry>
 </feed>
