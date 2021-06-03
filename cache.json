@@ -770,15 +770,6 @@
           "publishedOn": "2021-05-06T11:00:00.000Z",
           "wordCount": 2617,
           "title": "Improving The Performance Of Shopify Themes (Case Study)"
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/05/reduce-data-sent-client-nextjs/",
-          "author": "hello@smashingmagazine.com (Liran Cohen)",
-          "description": "This article showcases a case study of Bookaway’s landing page performance. We’ll see how taking care of the props we send to Next.js pages can make loading times and Web Vitals better.",
-          "link": "https://smashingmagazine.com/2021/05/reduce-data-sent-client-nextjs/",
-          "publishedOn": "2021-05-05T10:30:00.000Z",
-          "wordCount": 2296,
-          "title": "Reducing HTML Payload With Next.js (Case Study)"
         }
       ]
     },
@@ -787,6 +778,15 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
+        {
+          "id": "60b11ff811ffb70827ef8f94",
+          "author": null,
+          "description": "Let’s say you plan to build a website. Before you start, you want to set up a few tools to make your life easier. But which tools should you have? The JavaScript ecosystem is changing so fast that it can be overwhelming to pick the best tools to use.",
+          "link": "https://www.freecodecamp.org/news/how-to-set-up-a-front-end-development-project/",
+          "publishedOn": "2021-06-03T21:44:03.000Z",
+          "wordCount": 3978,
+          "title": "JavaScript Tutorial – How to Set Up a Front End Development Project"
+        },
         {
           "id": "60afd68611ffb70827ef86d8",
           "author": null,
