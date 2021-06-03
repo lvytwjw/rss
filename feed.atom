@@ -2,10 +2,307 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://lvytwjw.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-02T23:37:18.635Z</updated>
+    <updated>2021-06-03T01:10:46.371Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://lvytwjw.github.io/rss/index.html"/>
     <link rel="self" href="https://lvytwjw.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[微软扩充Word听写功能语言支持 新增丹麦语等多种语言]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1135999.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1135999.htm"/>
+        <updated>2021-06-03T01:09:22.000Z</updated>
+        <summary type="html"><![CDATA[在编辑 Word 文档的时候，你除了通过键盘、手写笔等方式输入之外，另一个便捷的方式就是语音输入。通过这种方式，用户能够在不接触键盘的情况下快速的保存你的想法和内容，只要后期稍加修改就可以了。微软正进一步完善 Word 听写功能，不断扩充对语言的支持。
+ 阅读全文]]></summary>
+        <author>
+            <name>study875</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[哈勃望远镜拍摄到壮观的螺旋星系NGC 2276]]></title>
+        <id>https://www.cnbeta.com/articles/science/1135997.htm</id>
+        <link href="https://www.cnbeta.com/articles/science/1135997.htm"/>
+        <updated>2021-06-03T01:04:49.000Z</updated>
+        <summary type="html"><![CDATA[据外媒报道，在一张全新的哈勃太空望远镜的快照中，壮观的螺旋星系NGC 2276看起来有点向一侧倾斜。大多数螺旋星系的中心通常都有一个由淡黄色恒星组成的明亮中心。但是NGC 2276中的凸起看起来偏向左上方。
+ 阅读全文]]></summary>
+        <author>
+            <name>vivian</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Edge Dev 92.0.902.2发布：优化管理策略 修复Linux版本同步问题]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1135995.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1135995.htm"/>
+        <updated>2021-06-03T00:53:22.000Z</updated>
+        <summary type="html"><![CDATA[今天，微软发布了基于 Chromium 的 Edge Dev 频道最新版本 92.0.902.2，它是 92.x 的最后一个 Dev 频道版本，下次更新将会迈入 93 版本。在本次版本更新中，微软表示已经完成新版扩展菜单，智能历史搜索和价格历史功能的部署。此外新版本已默认启用了固定收藏夹、历时和其他菜单。
+ 阅读全文]]></summary>
+        <author>
+            <name>study875</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SpaceX正在海洋中建造发射平台  最快2022年建成]]></title>
+        <id>https://www.cnbeta.com/articles/science/1135993.htm</id>
+        <link href="https://www.cnbeta.com/articles/science/1135993.htm"/>
+        <updated>2021-06-03T00:53:13.000Z</updated>
+        <summary type="html"><![CDATA[据外媒BGR报道，SpaceX是迄今为止最大和最成功的私人航天公司，它能够在航天事业中占有一席之地，这要归功于很多突破性的思维。该公司首创了可重复使用的火箭助推器，并成功开发了猎鹰9号火箭，其完美的发射记录令人难以置信。而现在该公司的Deimos和Phobos平台的建设和未来的发射也令人关注，该公司未来将使用这些平台作为其各种火箭的发射场。
+ 阅读全文]]></summary>
+        <author>
+            <name>vivian</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FDA批准自闭症诊断软件Cognoa ASD Diagnosis Aid进入市场]]></title>
+        <id>https://www.cnbeta.com/articles/science/1135991.htm</id>
+        <link href="https://www.cnbeta.com/articles/science/1135991.htm"/>
+        <updated>2021-06-03T00:40:01.000Z</updated>
+        <summary type="html"><![CDATA[据外媒报道，美国食品和药物管理局(FDA)日前批准了一款用于诊断儿童自闭症谱系障碍的软件进入市场。这款软件被称为Cognoa ASD Diagnosis Aid，专为观察幼儿和从18个月至5岁的幼童可能出现自闭症症状的医疗保健提供者设计。
+ 阅读全文]]></summary>
+        <author>
+            <name>teikaei</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[YouTube称其在过去12个月中向音乐行业支付了40亿美元的费用]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1135989.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1135989.htm"/>
+        <updated>2021-06-03T00:38:53.000Z</updated>
+        <summary type="html"><![CDATA[据外媒Variety报道，YouTube全球音乐主管Lyor Cohen在一篇新博文中称，YouTube向艺术家、作曲家和权利人支付了超过40亿美元的版税。虽然这篇博文的细节不多，但Cohen确实说：“仅在过去12个月，YouTube就向音乐行业支付了40多亿美元，2021年第一季度增加的付费会员比推出以来的任何其他季度都多。”
+ 阅读全文]]></summary>
+        <author>
+            <name>vivian</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Saildrone无人船将在加勒比海进入飓风区域]]></title>
+        <id>https://www.cnbeta.com/articles/science/1135987.htm</id>
+        <link href="https://www.cnbeta.com/articles/science/1135987.htm"/>
+        <updated>2021-06-03T00:29:09.000Z</updated>
+        <summary type="html"><![CDATA[据外媒报道，虽然有些人追逐风暴是为了刺激，有些人是出于好奇，但也有一些人追逐恶劣天气是为了科学目的。在最近将展开的一场追逐中，一小队无人驾驶的水面船舶将故意进入飓风区域。
+ 阅读全文]]></summary>
+        <author>
+            <name>teikaei</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[苹果上线Apple Wallet/Apple Pay新页面 突显安全和便利]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1135985.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1135985.htm"/>
+        <updated>2021-06-03T00:27:20.000Z</updated>
+        <summary type="html"><![CDATA[近日苹果上线了全新的 Apple Wallet 和 Apple Pay 页面，突显了不断增长的支付服务和功能。新页面采用了全新的设计语言，通过流畅的动画和图形，重点突显苹果移动支付平台的隐私、安全和便利。
+ 阅读全文]]></summary>
+        <author>
+            <name>study875</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[亚马逊调整“休息时间任务”政策 批评者此前称该政策限制上厕所时间]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1135983.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1135983.htm"/>
+        <updated>2021-06-03T00:26:06.000Z</updated>
+        <summary type="html"><![CDATA[据外媒CNET报道，随着亚马逊为6月21日开始的Prime Day活动做准备，该公司表示，它将减轻其仓库中一个有争议的雇佣做法的负担。亚马逊将改变跟踪工人执行“休息时间任务”的方式，例如与经理或人力资源部门交谈、等待机械故障的解决或去洗手间。
+ 阅读全文]]></summary>
+        <author>
+            <name>vivian</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[研究人员开发出能用于采摘和修剪双孢蘑菇的吸盘机器人]]></title>
+        <id>https://www.cnbeta.com/articles/science/1135981.htm</id>
+        <link href="https://www.cnbeta.com/articles/science/1135981.htm"/>
+        <updated>2021-06-03T00:16:54.000Z</updated>
+        <summary type="html"><![CDATA[据外媒报道，据宾夕法尼亚州立大学助理教授Long He介绍称，蘑菇养殖业目前正面临着劳动力短缺的问题。因此，他的团队开始着手解决这个问题--开发了一个蘑菇采摘机器人。这款电动气动装置专为架子上生长的双孢蘑菇(Agaricus bisporus)设计，它能够采摘蘑菇、修剪蘑菇茎的末端，然后将它们放入收集盒中。
+ 阅读全文]]></summary>
+        <author>
+            <name>teikaei</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[超九成受访青少年将袁隆平吴孟超等科学家作为人生偶像]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1135979.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1135979.htm"/>
+        <updated>2021-06-03T00:13:03.000Z</updated>
+        <summary type="html"><![CDATA[5月22日，袁隆平院士与吴孟超院士先后辞世，无数国人在各种场合自发地表达悼念之情。而追悼人群的重要组成部分，正是年轻人。在这个过程中，两位科学家身上的家国情怀、科学精神，正在被新一代年轻人用心体会，并努力传承。你心目中的科学家精神是什么样？
+ 阅读全文]]></summary>
+        <author>
+            <name>vivian</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[前《使命召唤》总经理加盟EA 领导《战地》系列]]></title>
+        <id>https://hot.cnbeta.com/articles/game/1135977.htm</id>
+        <link href="https://hot.cnbeta.com/articles/game/1135977.htm"/>
+        <updated>2021-06-03T00:11:49.000Z</updated>
+        <summary type="html"><![CDATA[据IGN消息，EA已经任命前《使命召唤》总经理Byron Beede担任《战地》高级副总裁和总经理，领导《战地》系列游戏。EA称此举有益于《战地》系列的成长，是一个战略性的长期投入。
+ 阅读全文]]></summary>
+        <author>
+            <name>vivian</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[中国广电计划5G 700MHz网络两年全覆盖]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1135975.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1135975.htm"/>
+        <updated>2021-06-03T00:11:16.000Z</updated>
+        <summary type="html"><![CDATA[在国内5G商用版图上，中国广电在不断强化自己的角色意识，虽说在爬坡过坎、滚石上山的紧要关口，依旧在摸着石头过河。日前，中国广播电视网络有限公司董事长、中国广电网络股份有限公司董事长宋起柱表示，中国广电计划两年内实现网络全覆盖的建设计划，如今已经完成了设备选型和技术测试，正在按计划推进广电5G 700MHz网络建设，同时对“边建设、边运营”方案进行细化完善，将有序实施192号段全国放号商用。
+ 阅读全文]]></summary>
+        <author>
+            <name>teikaei</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[苏宁电器集团拟将公司5.59%股份转让给江苏新零售基金]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1135973.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1135973.htm"/>
+        <updated>2021-06-03T00:10:51.000Z</updated>
+        <summary type="html"><![CDATA[6月2日晚间，苏宁易购公告，股东苏宁电器集团与江苏新新零售创新基金（有限合伙）签署了《股份转让协议》，苏宁电器集团拟将持有的公司5.2亿股股份（占公司总股本的5.59%）转让给新零售基金。
+ 阅读全文]]></summary>
+        <author>
+            <name>vivian</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[亚马逊称仓库员工为“工业运动员” 报告显示其重伤率比同行高出一倍]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1135971.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1135971.htm"/>
+        <updated>2021-06-03T00:09:52.000Z</updated>
+        <summary type="html"><![CDATA[北京时间6月3日上午消息，亚马逊告诉仓库员工，说他们应该认为自己是“工业运动员”，不是无灵魂庞大机器的过度工作齿轮。亚马逊仓库员工的重伤率比同行高出一倍，甚至有报道说，亚马逊仓库员工忙起来连上厕所的时间都没有。
+ 阅读全文]]></summary>
+        <author>
+            <name>teikaei</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[消息称AirPods 3也将采用扣式电池 没有主动降噪]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1135969.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1135969.htm"/>
+        <updated>2021-06-03T00:07:43.000Z</updated>
+        <summary type="html"><![CDATA[在第一、二代 AirPods 上，苹果采用了由 LG Energy Solutions 提供的针状软包电池，电池容量为 0.093Wh；而在 2019 年推出的 AirPods Pro 上，苹果使用了扣式电池，电池容量约达 0.19Wh。而最新报道称，AirPods 3 也会采用扣式电池，这表明苹果已经全面转向了扣式电池，未来将会进一步普及。
+ 阅读全文]]></summary>
+        <author>
+            <name>study875</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SpaceX于太空创企Axiom签署批量协议 将为其执行三次私人飞行任务]]></title>
+        <id>https://www.cnbeta.com/articles/science/1135967.htm</id>
+        <link href="https://www.cnbeta.com/articles/science/1135967.htm"/>
+        <updated>2021-06-03T00:06:41.000Z</updated>
+        <summary type="html"><![CDATA[6月3日消息，据报道，当地时间周三，美国太空探索技术公司SpaceX与私人太空创企Axiom Space签署了所谓的“批量协议”， SpaceX将利用载人龙飞船在2023年之前为后者执行三次前往国际空间站的私人飞行任务。
+ 阅读全文]]></summary>
+        <author>
+            <name>vivian</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[韩四大集团建议文在寅赦免李在镕：三星需要他]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1135965.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1135965.htm"/>
+        <updated>2021-06-03T00:06:07.000Z</updated>
+        <summary type="html"><![CDATA[因向韩国前总统朴槿惠和其亲信崔顺实行贿，三星电子副会长李在镕今年1月被判入狱2年半。然而刚被收监5个月，韩国五大经济团体、在韩美国商会等组织已先后向青瓦台施压，要求将李在镕赦免。眼看三星掌门仍未脱困囹圄，在文在寅访美归来后，韩四大集团负责人再次为李在镕“说情”。
+ 阅读全文]]></summary>
+        <author>
+            <name>teikaei</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[拜登政府推动COVID-19疫苗激励措施 以使接种率超过70%]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1135963.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1135963.htm"/>
+        <updated>2021-06-03T00:04:49.000Z</updated>
+        <summary type="html"><![CDATA[据外媒CNET报道，为了推动在7月4日前让美国至少70%的成年人接种疫苗，美国总统乔·拜登周三宣布了6月为“全国行动月”（ National Month of Action）。作为推动工作的一部分，白宫已经汇总了许多鼓励人们接受COVID-19疫苗的激励措施。
+ 阅读全文]]></summary>
+        <author>
+            <name>vivian</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[萧敬腾在上海接种国药疫苗：自称早就想打、目前一切安好]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1135961.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1135961.htm"/>
+        <updated>2021-06-03T00:04:17.000Z</updated>
+        <summary type="html"><![CDATA[不少上海网友在社交网络上调侃称，难怪6月2日上海下雨了，原来是“雨神”降临了。据媒体报道称，萧敬腾的确已于2日下午接种国药新冠疫苗，目前一切安好。按照萧敬腾经纪人的说法，其实萧敬腾早想接种了，但工作时间一直没对上，今天刚好飞上海工作，提前办了预约，团队12人刚完成第一剂接种，也在上海同仁医院观察完成，目前一切安好，已回酒店休息。预计21天后会再安排第二剂施打。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“毅力号”在火星迎来百天里程碑：NASA分享成就清单]]></title>
+        <id>https://www.cnbeta.com/articles/science/1135959.htm</id>
+        <link href="https://www.cnbeta.com/articles/science/1135959.htm"/>
+        <updated>2021-06-02T23:59:02.000Z</updated>
+        <summary type="html"><![CDATA[据外媒报道，当在另一个星球时时间过得很快。NASA的“毅力号”火星车和Ingenuity直升机现在已经在这颗红色星球上待了整整100个火星天。对于一项预计要持续很多年的任务来说，这可能看起来只是九牛一毛，但“毅力号”在短短100天内完成的工作量实在令人印象深刻。
+ 阅读全文]]></summary>
+        <author>
+            <name>teikaei</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NVIDIA黄仁勋：下半年显卡依然紧张、不会自建晶圆厂]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1135957.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1135957.htm"/>
+        <updated>2021-06-02T23:52:04.000Z</updated>
+        <summary type="html"><![CDATA[在日前的台北电脑展上，NVIDIA推出了RTX 3080 Ti及RTX 3070 Ti两款显卡，售价8999、4499元，它们也阉割了挖矿性能，但是现在来看依然不可能满足市场需求，价格还会被炒上天。除了挖矿的影响之外，目前各种芯片都面临着产能紧张、供应不足的麻烦，NVIDIA CEO黄仁勋在发布会上的采访中也谈到了这个问题。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[特斯拉申请Cybertruck商标：全球预订量超百万台]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1135955.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1135955.htm"/>
+        <updated>2021-06-02T23:51:26.000Z</updated>
+        <summary type="html"><![CDATA[有媒体曝光特斯拉正在申请“CYBERTRUCK”和其艺术字样的商标，国际分类为运输工具，目前商标状态为注册申请中。这或将意味着该车在国内上市的日子越来越近了。Cybertruck是特斯拉的首款纯电动皮卡，该车自2019年发布以来，其独特的外形就引起了大众的注意。马斯克曾表示：这款皮卡的设计并不适合所有人，自己对于这款车的设计并未进行过市场调研。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SpaceX将在2023年前向国际空间站发射四次私人宇航员任务]]></title>
+        <id>https://www.cnbeta.com/articles/science/1135953.htm</id>
+        <link href="https://www.cnbeta.com/articles/science/1135953.htm"/>
+        <updated>2021-06-02T23:50:36.000Z</updated>
+        <summary type="html"><![CDATA[据外媒TechCrunch报道，除了之前宣布的最早将于明年1月进行的任务之外，SpaceX将为私人宇航员提供更多前往国际空间站的机会。这四次飞行都是为私人商业航天和空间站公司Axiom进行的，它们将在明年年初至2023年之间进行。
+ 阅读全文]]></summary>
+        <author>
+            <name>vivian</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美宣布对6国征收报复性关税作为数字服务税的回应 但将延后落实]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1135951.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1135951.htm"/>
+        <updated>2021-06-02T23:48:43.000Z</updated>
+        <summary type="html"><![CDATA[当地时间6月2日，美国政府宣布将对来自6个国家，总价值约为21亿美元的商品收取25%的报复性关税，作为对这些国家向脸书、谷歌和亚马逊等公司收取数字服务税的回应。将被收取高额关税的国家包括澳大利亚、英国、印度、意大利、西班牙和土耳其。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[图]美国大部分Apple Store都已不再提供HomePod]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1135949.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1135949.htm"/>
+        <updated>2021-06-02T23:48:24.000Z</updated>
+        <summary type="html"><![CDATA[美国境内几乎所有苹果线下门店都不再继续提供 HomePod 的购买和提货，也就是说美国地区的用户无法通过线下零售渠道购买到这款智能音箱。目前在湾区、纽约市、洛杉矶和其他主要城市的线下 Apple Store 都已经没有 HomePod 了，不过在 UTC 的 San Diego 门店依然显示有库存。
+ 阅读全文]]></summary>
+        <author>
+            <name>study875</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[欧盟将允许消费者游说团体参与其对Apple Music的反垄断调查]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1135947.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1135947.htm"/>
+        <updated>2021-06-02T23:37:08.000Z</updated>
+        <summary type="html"><![CDATA[据外媒AppleInsider报道，欧盟委员会将允许一个消费者游说团体参与其对Apple Music的持续反垄断调查。欧盟委员会已经给了苹果公司三个月的时间来回应其关于该公司在Apple Music方面违反欧盟竞争法的调查结果。
+ 阅读全文]]></summary>
+        <author>
+            <name>vivian</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[遭遇召回、市场份额下滑双重打击 特斯拉跌超3%]]></title>
         <id>https://www.cnbeta.com/articles/tech/1135945.htm</id>
