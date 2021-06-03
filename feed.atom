@@ -2,10 +2,274 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://lvytwjw.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-03T08:18:51.754Z</updated>
+    <updated>2021-06-03T09:48:49.680Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://lvytwjw.github.io/rss/index.html"/>
     <link rel="self" href="https://lvytwjw.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[LG Energy纽扣电池生产线即将投产 欲争夺更多真无线耳机市场份额]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1136279.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1136279.htm"/>
+        <updated>2021-06-03T09:45:23.000Z</updated>
+        <summary type="html"><![CDATA[韩媒报道称，LG 能源解决方案子公司即将完成新型纽扣电池的开发。一旦转入批量生产，它便有能力与三星 SDI、瓦尔塔（Varta）和 EVE Energy 等竞争对手抢夺更多的真无线耳机的订单，比如苹果 AirPods 和三星 Galaxy Buds 。
+ 阅读全文]]></summary>
+        <author>
+            <name>raymon725</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[英国监管机构称大量加密货币企业不合规 再次提醒消费者可能血本无归]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1136277.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1136277.htm"/>
+        <updated>2021-06-03T09:22:34.000Z</updated>
+        <summary type="html"><![CDATA[英国市场监管机构表示，大量的加密货币公司在未能满足反洗钱监管标准后，撤销了注册申请。英国金融行为监管局（FCA）周四发布声明称，大量企业未能满足反洗钱规定所制定的标准，导致空前数量的企业撤销了申请。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google人工智能伦理部门动荡不安 已引起外部监管机构关注]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1136275.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1136275.htm"/>
+        <updated>2021-06-03T09:21:45.000Z</updated>
+        <summary type="html"><![CDATA[北京时间6月2日下午消息，据报道，Google近日向外界表示，它仍坚定致力于以合乎道德规范的方式进行人工智能研究。该公司还做出承诺，将把人工智能研究人员数量增加一倍，达到200人。Google首席执行官皮查伊也表示，将为更多符合伦理规范的人工智能项目提供资金支持。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[保护蜜蜂：Beemmunity开发出可化解有机磷杀虫剂毒性的新技术]]></title>
+        <id>https://www.cnbeta.com/articles/science/1136273.htm</id>
+        <link href="https://www.cnbeta.com/articles/science/1136273.htm"/>
+        <updated>2021-06-03T09:19:42.000Z</updated>
+        <summary type="html"><![CDATA[康奈尔大学开发的一项新技术，为养蜂人、消费者和农民提供了致命杀虫剂的高效解毒方案 —— 因为这些杀虫剂会对野生蜜蜂种群的生存造成严重的伤害，导致养蜂人平均每年损失至少 1/3 的蜂箱！由 5 月 20 日发表在《自然》杂志上的一篇新文章可知，研究人员针对一组被广泛使用的有机磷杀虫剂，提出了早期的解毒方案。
+ 阅读全文]]></summary>
+        <author>
+            <name>raymon725</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[研究发现十几种现有药物可作为COVID-19的潜在治疗手段]]></title>
+        <id>https://www.cnbeta.com/articles/science/1136271.htm</id>
+        <link href="https://www.cnbeta.com/articles/science/1136271.htm"/>
+        <updated>2021-06-03T09:19:08.000Z</updated>
+        <summary type="html"><![CDATA[美国食品和药物管理局批准的药物或具有充分健康数据的实验性药物可以作为COVID-19疗法在人体中快速测试。科学家们利用世界上最全面的COVID-19疗法药物再利用集合，确定了90种现有药物或候选药物，这些药物具有抗病毒活性，可对抗正在全球流行的冠状病毒。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[清华、北大高居《泰晤士高等教育》亚洲大学排名前二]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1136269.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1136269.htm"/>
+        <updated>2021-06-03T09:16:49.000Z</updated>
+        <summary type="html"><![CDATA[当地时间6月2日，英国《泰晤士高等教育》(THE)发布了2021年度亚洲大学排名，中国大陆有15所高校进入前50名、31所进入前100名，其中清华大学、北京大学连续两年拿下冠亚军。清华在2019年第一次登顶次榜单，如今已是连续三年问鼎；北大去年第一次升至第二，今年排名不变。两家全球排名分别是第20、第23。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[云南“堵象人”4天吃住在车上：为防止象群进城入村 晚上能听到大象声音]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1136267.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1136267.htm"/>
+        <updated>2021-06-03T09:14:07.000Z</updated>
+        <summary type="html"><![CDATA[近日，云南15头亚洲象持续向北迁徙，为防止象群进城入村，玉溪数百台货车组成堵象车队，分布在重点路口。6月1日，车队中的一位司机廖继波对记者称，现已连续工作四天，大家吃住在车上，值守时能听到大象的声音。据@昆明日报掌上春城 消息，6月2日21时55分，北迁象群沿玉溪市红塔区春和街道老光箐村北侧前进，进入昆明市晋宁区双河乡。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美股散户抱团股又疯了：一夜翻倍后AMC盘前再涨13%，黑莓涨18%]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1136263.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1136263.htm"/>
+        <updated>2021-06-03T09:02:01.000Z</updated>
+        <summary type="html"><![CDATA[美股散户抱团股周四盘前普涨。Workhorse涨近30%，AMC娱乐盘前涨近13%，黑莓涨18.5%，Naked Brand Group涨近6%。美股散户抱团股周三普涨。以AMC院线为代表的多只个股录得两位数及以上的涨幅，延续上周高涨态势。
+ 阅读全文]]></summary>
+        <author>
+            <name>teikaei</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[消息称宁德时代计划在上海建立新的电池工厂]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1136261.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1136261.htm"/>
+        <updated>2021-06-03T08:58:12.000Z</updated>
+        <summary type="html"><![CDATA[北京时间6月3日下午消息，据报道，知情人士透露，中国宁德时代（CATL）正计划在上海新建一家大型汽车电池工厂，继续自己迅猛的扩张步伐，此举也将巩固其作为全球第一大电池供应商的领先地位。其中一名知情人士表示，建成后该工厂每年的电池产能将达到800千兆瓦时，超过目前69.1千兆瓦时的产能，以及在建时的77.5千兆瓦时的产能。
+ 阅读全文]]></summary>
+        <author>
+            <name>teikaei</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[一生万物，万物归一 HarmonyOS 2抢先体验]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1136259.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1136259.htm"/>
+        <updated>2021-06-03T08:57:03.000Z</updated>
+        <summary type="html"><![CDATA[6月2日，HarmonyOS 2正式跟我们见面了，随着HarmonyOS 2的问世，不仅意味着HarmonyOS的进一步迭代，更是预示着HarmonyOS从智慧屏、可穿戴等产品正式转向了全场景的操作系统。
+ 阅读全文]]></summary>
+        <author>
+            <name>teikaei</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[华为MateView体验：显示器能让办公方式有新选择？]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1136257.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1136257.htm"/>
+        <updated>2021-06-03T08:53:42.000Z</updated>
+        <summary type="html"><![CDATA[在数码圈儿，“生产力”是最近几年被频繁提到的一个词，随着越来越多的工作内容从线下转到线上，数码产品能不能更好的帮助我们完成任务，也就成了一种评价标准。今天我们要给大家分享的这款华为 MateView 显示器，就是华为在显示器生产力方向上的一次新的探索。那下面我们就来看看，这款显示器在工作生活中的表现究竟怎样吧！
+ 阅读全文]]></summary>
+        <author>
+            <name>study875</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[联合国称全球食品价格飙升 来到近十年最高水平]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1136255.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1136255.htm"/>
+        <updated>2021-06-03T08:51:07.000Z</updated>
+        <summary type="html"><![CDATA[全球食品价格扩大涨势，来到近十年来的最高水平，在各经济体努力摆脱疫情危机之际，这加剧了人们对食品杂货账单膨胀的担忧。联合国一项衡量世界食品成本的指标在5月份连续第12个月攀升，这是十年来最长的一次上涨。更高的食品成本会加速更广泛的通胀，从而使各国央行提供更多刺激的努力复杂化。
+ 阅读全文]]></summary>
+        <author>
+            <name>teikaei</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[鸭子羽毛为何防水？科学家成功探究其中奥秘并开发合成羽毛]]></title>
+        <id>https://www.cnbeta.com/articles/science/1136253.htm</id>
+        <link href="https://www.cnbeta.com/articles/science/1136253.htm"/>
+        <updated>2021-06-03T08:50:22.000Z</updated>
+        <summary type="html"><![CDATA[俚语“Like water off a duck's back”的引申含义是“毫无意义”（通常用于批评他人），是指鸭子身上的羽毛就像雨衣一样，水在上面呆不住，一下全滑掉了。现在，弗吉尼亚理工大学的工程师们已经研究出了这些羽毛是如何工作的，并开发了可以帮助船只更容易在水中滑行的合成羽毛。
+ 阅读全文]]></summary>
+        <author>
+            <name>study875</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[比尔·盖茨：中国创新，助力更加美好公平的未来]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1136251.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1136251.htm"/>
+        <updated>2021-06-03T08:48:52.000Z</updated>
+        <summary type="html"><![CDATA[十多年来，中国一直是盖茨基金会的重要合作伙伴，我们共同致力于推动中国及全球范围内的创新，为那些有需要的人带来改变。本文基于比尔·盖茨在2021浦江创新论坛上的主旨发言内容编辑整理。
+ 阅读全文]]></summary>
+        <author>
+            <name>teikaei</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[马斯克与SEC之间的“战争”，现在还有人能管住“嘴炮帝”吗？]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1136249.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1136249.htm"/>
+        <updated>2021-06-03T08:47:00.000Z</updated>
+        <summary type="html"><![CDATA[美国证券交易委员会（SEC）数年来一直试图约束特斯拉CEO马斯克在社交媒体上的发言，但就目前状况而言，SEC的努力显然没有成功。SEC与马斯克的“交锋”始于2018年。当时SEC称马斯克发了一条有关特斯拉收购行动的Twitter涉嫌欺诈。该案最终以共计4000万美元达成和解，作为和解的一部分，SEC要求特斯拉必须预先批准马斯克任何可能影响市场的言论。
+ 阅读全文]]></summary>
+        <author>
+            <name>teikaei</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美团员工被曝通过钓鱼邮件获取拼多多薪资信息 检方：侦查阶段，不便透露]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1136247.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1136247.htm"/>
+        <updated>2021-06-03T08:40:52.000Z</updated>
+        <summary type="html"><![CDATA[日前，在社交媒体上，美团员工被曝通过钓鱼邮件“黑了一把”拼多多，结果被带走调查。记者获取的信息显示，一个月前，有人用伪装成拼多多公司邮箱的账号，向拼多多员工邮箱发送大量“钓鱼邮件”。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[福岛核电站存有放射性物质集装箱发生泄漏 周围积水铯含量为标准值76倍]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1136245.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1136245.htm"/>
+        <updated>2021-06-03T08:39:12.000Z</updated>
+        <summary type="html"><![CDATA[据日本广播协会（NHK）6月2日消息，东京电力公司称，当地时间6月1日下午，在福岛第一核电站内，工作人员发现核电站内含有放射性物质的集装箱发生泄漏。从集装箱中泄漏出的核污水淤积在集装箱周围2米见方的区域，用吸水垫等吸水后经过测定，检测出核污水中含有相当于日本国内饮用水标准76倍的放射性物质铯。
+ 阅读全文]]></summary>
+        <author>
+            <name>teikaei</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[抢先体验万物互联 HarmonyOS 2 体验官招募开启]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1136243.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1136243.htm"/>
+        <updated>2021-06-03T08:35:40.000Z</updated>
+        <summary type="html"><![CDATA[昨日晚间，备受关注的华为 HarmonyOS 正式面向消费者发布，这是一款面向全场景的分布式操作系统，可用于物联网各种设备，除手机外 ，HarmonyOS 也能适配手表、平板等智能终端设备。今日下午，华为终端公司官微宣布，HarmonyOS体验官招募正式开启，可享 HarmonyOS 2 优先体验权。
+ 阅读全文]]></summary>
+        <author>
+            <name>study875</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[神秘星际天体奥陌陌或是来自深空气体云的一座氢冰山]]></title>
+        <id>https://www.cnbeta.com/articles/science/1136241.htm</id>
+        <link href="https://www.cnbeta.com/articles/science/1136241.htm"/>
+        <updated>2021-06-03T08:27:46.000Z</updated>
+        <summary type="html"><![CDATA[四年前突然闯入太阳系，后又消失得无影无踪的神秘星际天体“奥陌陌”，其引发的科学争论仍在持续。从其轨道来推算，科学家们认为这个形似雪茄的星际天体，或已有 3500 万年的历史。此前有哈佛研究人员称，这一太空访客很可能是一个神秘的航天器，但没有找到切实的外星信号迹象。于是学界达成了一个普遍的共识，即奥陌陌应该是一颗彗星或小行星。
+ 阅读全文]]></summary>
+        <author>
+            <name>raymon725</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[华为正式发布HarmonyOS操作系统 央视：打破了苹果、谷歌的垄断]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1136239.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1136239.htm"/>
+        <updated>2021-06-03T08:27:45.000Z</updated>
+        <summary type="html"><![CDATA[6月2日晚8点，华为正式发布HarmonyOS操作系统，这是一款不同于此前安卓、iOS的操作系统，是华为自主开发的全场景分布式操作系统。今天上午，央视财经频道在新闻中也提到了HarmonyOS的意义，财经评论员王强认为，HarmonyOS打破了以往谷歌安卓系统、苹果iOS系统的垄断地位。
+ 阅读全文]]></summary>
+        <author>
+            <name>teikaei</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[平整地面突然塌陷出现巨坑：一夜之间由4米增至30米 仍在扩大]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1136237.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1136237.htm"/>
+        <updated>2021-06-03T08:27:13.000Z</updated>
+        <summary type="html"><![CDATA[“人在家中坐，锅从天上来”，用这句话来形容墨西哥一家人的遭遇是再合适不过了。据媒体报道，近日，墨西哥普埃布拉州的一处平整的农田中，突然塌陷，出现了一个深坑。由于深坑还在不断扩大，导致附近的住户被迫撤离。
+ 阅读全文]]></summary>
+        <author>
+            <name>teikaei</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[锐龙 5000 国行也破发了 锐龙 5 5600X 到手仅需 1879 元]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1136235.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1136235.htm"/>
+        <updated>2021-06-03T08:26:46.000Z</updated>
+        <summary type="html"><![CDATA[前几天提到 AMD 的锐龙 5000 系列在海外市场破发，随着供应的改善，价格已经比上市时的建议价还低。现在国行的锐龙 5000 也现货并且降价了，锐龙 5 5600X 到手只要 1879 元，低价别错过。
+ 阅读全文]]></summary>
+        <author>
+            <name>study875</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[中国何时能打开国门？张文宏最新判断]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1136233.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1136233.htm"/>
+        <updated>2021-06-03T08:25:09.000Z</updated>
+        <summary type="html"><![CDATA[全球什么时候能够恢复正常人员往来？中国什么时候能够打开国门？6月2日晚在青岛举行的博鳌亚洲论坛全球健康论坛第二届大会“实现全民健康—新冠疫苗的研发、可及性与可负担性”分论坛上，“网红”医生、复旦大学附属华山医院感染科主任张文宏对此作出了最新判断。
+ 阅读全文]]></summary>
+        <author>
+            <name>teikaei</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google拟加强Android用户隐私保护并与苹果抗衡]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1136231.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1136231.htm"/>
+        <updated>2021-06-03T08:23:40.000Z</updated>
+        <summary type="html"><![CDATA[6月3日消息，Google正在加强对Android用户的隐私保护，这些用户希望在不同应用之间切换时，广告商更难追踪他们。Google试图与已经采取类似措施的苹果抗衡，并在管理个人数据方面树立起更好的形象。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[《碟中谍7》明年5月上映：阿汤哥新片场照曝光]]></title>
         <id>https://hot.cnbeta.com/articles/movie/1136229.htm</id>
