@@ -2,10 +2,153 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://lvytwjw.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-03T10:45:04.627Z</updated>
+    <updated>2021-06-03T11:48:46.013Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://lvytwjw.github.io/rss/index.html"/>
     <link rel="self" href="https://lvytwjw.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[节能的宜家商店被构想为哥本哈根的绿色休闲场所]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1136315.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1136315.htm"/>
+        <updated>2021-06-03T11:31:41.000Z</updated>
+        <summary type="html"><![CDATA[计划在哥本哈根开设的一家新的宜家商店将拥有一个公共屋顶公园和小路，新的门店结构由Dorte Mandrup设计，它还将拥有重要的节能设计，包括一组太阳能电池板阵列。该项目是宜家更大的可持续商业努力的一部分，宜家的维也纳西站店也是其中一个例子。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[鸿蒙“初辟” 华为能否借此打破安卓和iOS系统的垄断局面？]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1136313.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1136313.htm"/>
+        <updated>2021-06-03T11:07:59.000Z</updated>
+        <summary type="html"><![CDATA[据报道，华为在周三晚间发布了其自主开发的操作系统—Harmony OS 2，该系统可以运行在包括智能手机在内的一系列设备上。华为此举是为了摆脱对美国技术的依赖，新系统可能将会与苹果和谷歌的操作系统形成竞争。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[华为MatePad 11配置曝光：骁龙865+2K/120Hz高刷屏]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1136311.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1136311.htm"/>
+        <updated>2021-06-03T11:07:07.000Z</updated>
+        <summary type="html"><![CDATA[6月2日晚8点，华为召开新品发布会，正式推出了HarmonyOS操作系统，并发布了全球首款鸿蒙平板MatePad 12.6。同时，华为消费者业务COO何刚还透露，华为将会在后续推出一款全新的MatePad 11平板电脑，而该机将搭载高通处理器。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[特斯拉法务部多点开花 开启抖音、头条等多个平台帐号]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1136309.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1136309.htm"/>
+        <updated>2021-06-03T11:06:52.000Z</updated>
+        <summary type="html"><![CDATA[日前，“特斯拉法务部”微博帐号引起了网友热议，该帐号简介为“独立思考,明辨是非”。截至发稿时，帐号已有7668名粉丝关注。值得一提的是，除了微博平台，“特斯拉法务部”还在抖音、今日头条等平台注册了相同的帐号。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[接种仍被感染：新冠疫苗到底有没有效？]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1136307.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1136307.htm"/>
+        <updated>2021-06-03T11:05:51.000Z</updated>
+        <summary type="html"><![CDATA[近日，广州新冠疫情骤起，从5月20日起已经确诊了多名新冠感染者。此次疫情与以往疫情最大的不同，是首发病例患者感染的病毒，是印度变异毒株！随着对新冠疫苗的认知度持续加深，民众的接种热情不断高涨，#新冠疫苗接种#更是登上好几次热搜。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AMD FSR技术被挑出毛病：极限质量下仍有肉眼可见画面损失]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1136305.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1136305.htm"/>
+        <updated>2021-06-03T11:05:06.000Z</updated>
+        <summary type="html"><![CDATA[在本周的台北电脑展活动中，AMD FSR（FidelityFX Super Resolutio）正式公布，它类似于NVIDIA DLSS，开启后，号称可以在不显著牺牲画质的情况下提升游戏性能，也就是帧数。现场AMD演示了《众神陨落》这款游戏，4K原生下只有49FPS，开启FSR四种不同挡位画质后，帧数最高可提升206%。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[康希诺鼻喷雾式/吸入型新冠疫苗正在申请紧急使用]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1136303.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1136303.htm"/>
+        <updated>2021-06-03T11:03:01.000Z</updated>
+        <summary type="html"><![CDATA[随着广州等地疫情数据的攀升，群众的疫苗接种意愿大幅提升，截至目前全国已经有超过7亿剂次的接种量，但依然供不应求。而且接种时如长龙的排队等候也令人崩溃，这也导致许多希望接种疫苗的群众至今未能成功接种。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[土耳其友人向科兴公司送来一封信还有37块钱：为疫苗研发做点贡献]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1136301.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1136301.htm"/>
+        <updated>2021-06-03T11:00:16.000Z</updated>
+        <summary type="html"><![CDATA[前几天WHO世卫组织批准了中国科兴公司的灭活疫苗克尔来福的紧急使用，这是国产疫苗取得的第二个重大突破。科兴疫苗在海外已经帮助了很多人，现在他们收到了土耳其友人的感谢信，还有一笔钱。科兴官方微博今天透露了这个小故事，他们收到了一位土耳其朋友的感谢信，上面写道：
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[重庆蚂蚁消费金融获批开业 合作贷款不能用“花呗”“借呗”名称]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1136299.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1136299.htm"/>
+        <updated>2021-06-03T10:59:24.000Z</updated>
+        <summary type="html"><![CDATA[6月3日，重庆银保监局官网发布关于重庆蚂蚁消费金融有限公司开业的批复，根据《中国银保监会非银行金融机构行政许可事项实施办法》和《消费金融公司试点管理办法》的有关规定，批准重庆蚂蚁消费金融有限公司开业，注册资本为80亿元人民币。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[市场监管总局：共享消费行业存在定价规则不明确等不当行为]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1136297.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1136297.htm"/>
+        <updated>2021-06-03T10:57:40.000Z</updated>
+        <summary type="html"><![CDATA[6月3日，市场监管总局价监竞争局会同反垄断局、网监司召开“共享消费”领域行政指导会，哈啰、青桔、美团、怪兽、小电、来电、街电、搜电等8个“共享消费”品牌经营主体参加。价监竞争局相关负责同志向参会企业现场送达《市场监管总局行政指导书》。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“脑机接口”耳机开始预订 这是不是噱头？]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1136295.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1136295.htm"/>
+        <updated>2021-06-03T10:56:09.000Z</updated>
+        <summary type="html"><![CDATA[马斯克的侵入式 BCI 需要开颅，在未来很长一段时间都将处在实验阶段，但基于 EGG 的 BCI，已经开始探路消费市场了。说到脑机接口（BCI），马斯克这个名字是避不开的，他名下的 Neuralink 一有新动作，BCI 相关话题就会热闹起来。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[拜登加强对比特币交易征税 账户超600美元必须报告]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1136293.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1136293.htm"/>
+        <updated>2021-06-03T10:53:27.000Z</updated>
+        <summary type="html"><![CDATA[拜登政府在比特币收税的动作上又进一步。美财政部在上周五发布的收入提案“绿皮书”中提出，要求加密货币经纪人，例如交易所和托管钱包提供商，向美国国税局提供有关间接持有他们账户的外国个人的信息。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[薇娅律师声明：薇娅公司被行政处罚不符合客观事实]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1136291.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1136291.htm"/>
+        <updated>2021-06-03T10:45:53.000Z</updated>
+        <summary type="html"><![CDATA[今日，就网传薇娅公司被行政处罚一事，薇娅律师声明称，谦寻（杭州）文化传媒有限公司与薇娅系合作关系，在法律上双方系各自独立承担责任的民事主体。“薇娅公司被行政处罚”等内容将谦寻（杭州）文化传媒有限公司与薇娅本人进行等同、影射，不符合客观事实。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[传地平线计划赴美IPO：筹资10亿美元]]></title>
         <id>https://www.cnbeta.com/articles/tech/1136289.htm</id>
