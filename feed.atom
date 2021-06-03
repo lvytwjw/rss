@@ -2,10 +2,659 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://lvytwjw.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-03T01:10:46.371Z</updated>
+    <updated>2021-06-03T04:42:29.253Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://lvytwjw.github.io/rss/index.html"/>
     <link rel="self" href="https://lvytwjw.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[欧洲投资公司Prosus以18亿美元收购Stack Overflow码农服务网站]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1136119.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1136119.htm"/>
+        <updated>2021-06-03T04:12:36.000Z</updated>
+        <summary type="html"><![CDATA[成立于 2008 年的 Stack Overflow 编程服务网站，致力于构建一个让知识分享变得更加容易的程序员社区。作为一个流行的码农 Q&A 交流平台，它刚刚被欧洲投资企业 Prosus 给收购。Stack Overflow 联合创始人在周三宣布，本次收购的价格在 18 亿美元。
+ 阅读全文]]></summary>
+        <author>
+            <name>raymon725</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[因结果不准确 FDA警告公众停用两款COVID-19快速检测试剂盒]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1136117.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1136117.htm"/>
+        <updated>2021-06-03T03:58:34.000Z</updated>
+        <summary type="html"><![CDATA[尽管公众对 COVID-19 快速检测试剂盒有着很高的使用需求，但当前市面上的产品准确性却有些良莠不齐。美国食品与药物管理局（FDA）近日警告称：由于测试结果存在极高的不准确性，大家应立即停用两款 COVID-19 快速检测试剂盒。该机构指出，这些实际未得到正式授权，而是在分发给药店后直接转售给了美国消费者。
+ 阅读全文]]></summary>
+        <author>
+            <name>raymon725</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[三星Galaxy Book Go发布：骁龙7c Gen2芯片 起售价349美元]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1136115.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1136115.htm"/>
+        <updated>2021-06-03T03:49:41.000Z</updated>
+        <summary type="html"><![CDATA[今天，三星推出了一款全新的 Windows 10 笔记本--Galaxy Book Go，最大的亮点在于装备了 ARM 架构并支持 5G 蜂窝网络连接。该机将于今年 6 月 10 日开始发售，目前只是公布 WiFi-Only 型号的售价为 349 美元起，而 Galaxy Book Go 5G 版本尚不清楚何时发售以及售价信息。
+ 阅读全文]]></summary>
+        <author>
+            <name>study875</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[蝉太多怎么办？美食家分享多种烹饪办法]]></title>
+        <id>https://www.cnbeta.com/articles/science/1136113.htm</id>
+        <link href="https://www.cnbeta.com/articles/science/1136113.htm"/>
+        <updated>2021-06-03T03:39:30.000Z</updated>
+        <summary type="html"><![CDATA[据外媒报道，17年来，数以万亿计的Brood X蝉在地下度过了它们的大部分生命后第一次出现。现在它们出现在美国的15个州和华盛顿特区，由于正值一个大规模的交配季节，于是导致一些人转向害虫防治。不过还有另一种--更自然的--方法来控制这种昆虫泛滥。那就是把它们煮了吃掉。
+ 阅读全文]]></summary>
+        <author>
+            <name>teikaei</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[沃尔玛意外曝光入门级自品牌Android TV电视棒和4K机顶盒]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1136111.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1136111.htm"/>
+        <updated>2021-06-03T03:38:49.000Z</updated>
+        <summary type="html"><![CDATA[赶在正式发布之前，沃尔玛（Walmart）就意外地曝光了 onn 品牌的高性价比 Android TV 流媒体电视棒、以及另一款 4K 机顶盒。尽管这家连锁零售巨头向外媒透露新品的正式上市时间为下周，但官网页面还是较原计划提前了数日上线。
+ 阅读全文]]></summary>
+        <author>
+            <name>raymon725</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[碰撞时存在安全隐患 特斯拉召回734辆进口Model 3]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1136109.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1136109.htm"/>
+        <updated>2021-06-03T03:37:00.000Z</updated>
+        <summary type="html"><![CDATA[6月3日消息，特斯拉汽车（北京）有限公司根据《缺陷汽车产品召回管理条例》和《缺陷汽车产品召回管理条例实施办法》的要求，向国家市场监督管理总局备案了召回计划，决定自即日起召回部分进口Model 3电动汽车。
+ 阅读全文]]></summary>
+        <author>
+            <name>teikaei</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[预售秒罄 索尼国行PS5光驱版今日开抢：3899元]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1136107.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1136107.htm"/>
+        <updated>2021-06-03T03:34:45.000Z</updated>
+        <summary type="html"><![CDATA[5月15日，索尼国行PS5主机正式开售，提供数字版、光驱版两种配置，售价分别为3099元、3899元。由于“备份大法”依然可用，导致此次国行PS5相当抢手，几次发售堪称“秒罄”，不少没有抢到的玩家纷纷向索尼“抱怨”备货太少。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[大象群夜里进入昆明，要逛省城？]]></title>
+        <id>https://www.cnbeta.com/articles/science/1136105.htm</id>
+        <link href="https://www.cnbeta.com/articles/science/1136105.htm"/>
+        <updated>2021-06-03T03:34:08.000Z</updated>
+        <summary type="html"><![CDATA[昆明会是象群北迁的终点吗？6月2日21时55分，备受关注的15头北迁野象，沿玉溪市红塔区春和街道老光箐村北侧前进，进入昆明市晋宁区双河乡。连日来，这一野生亚洲象群从“老家”西双版纳出发，一路向北“逛吃”数百公里的消息，刷屏网络，引来网友的调侃、想象，也引发了疑惑和担忧。
+ 阅读全文]]></summary>
+        <author>
+            <name>teikaei</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[科学家开发实验性疫苗  迫使细菌进入进化的“死胡同”]]></title>
+        <id>https://www.cnbeta.com/articles/science/1136103.htm</id>
+        <link href="https://www.cnbeta.com/articles/science/1136103.htm"/>
+        <updated>2021-06-03T03:24:01.000Z</updated>
+        <summary type="html"><![CDATA[据外媒New Atlas报道，细菌和病毒等病原体非常善于进化以应对药物，这可能使疫苗失效。但现在，苏黎世联邦理工学院的研究人员找到了一种方法，可以将这种能力用于对付它们，迫使这些病原体走入无害的进化“死胡同”。
+ 阅读全文]]></summary>
+        <author>
+            <name>vivian</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[三星 S21 奥运纪念版预售：售价约 6545 元]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1136101.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1136101.htm"/>
+        <updated>2021-06-03T03:14:14.000Z</updated>
+        <summary type="html"><![CDATA[前不久，三星联合日本移动运营商 NTT Docomo 发布了 Galaxy S21 奥运纪念版，以庆祝即将到来的东京奥运会。今日，据媒体消息，三星 S21 纪念版目前已开启预售，售价 112464 日元（约合 6545 元人民币），可通过 NTT Docomo 网站订购。
+ 阅读全文]]></summary>
+        <author>
+            <name>study875</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[诺基亚国行 C20 Plus 定档 6 月 11 日发布：紫光展锐芯加持]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1136099.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1136099.htm"/>
+        <updated>2021-06-03T03:13:34.000Z</updated>
+        <summary type="html"><![CDATA[6 月 3 日消息，今日，诺基亚手机官方宣布，诺基亚 C20 Plus 新机将于 6 月 11 日上午 10:00 发布。前不久，该机跑分信息已在 Geekbench 上出现，跑分信息显示，诺基亚 C20 Plus 手机搭载 8 核处理器，配备 3GB 内存，其单核分数为 126 分，多核分数为 476 分。
+ 阅读全文]]></summary>
+        <author>
+            <name>study875</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FBI认定对JBS发起勒索软件攻击的幕后黑手是REvil]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1136097.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1136097.htm"/>
+        <updated>2021-06-03T03:12:42.000Z</updated>
+        <summary type="html"><![CDATA[美国联邦调查局（FBI）本周三证实，对全球最大肉类包装公司 JBS 发起持续勒索软件攻击的幕后黑手，就是臭名昭著的网络犯罪集团 REvil（又称Sodinokibi）。在事件曝光当天晚些时候发布的一份声明中，FBI 表示：“我们已经认定 JBS 攻击方为 REvil 和 Sodinokibi，正努力将攻击者绳之以法。现阶段我们的工作重点依然是处理攻击影响，并追究负责的网络行为者的责任”。
+ 阅读全文]]></summary>
+        <author>
+            <name>study875</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[广州气膜方舱实验室投入使用：日检测可超12万管]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1136095.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1136095.htm"/>
+        <updated>2021-06-03T03:11:52.000Z</updated>
+        <summary type="html"><![CDATA[6月1日，广州体育馆，由国家呼吸系统疾病临床医学研究中心、呼吸疾病国家重点实验室等共建的联合“猎鹰号”方舱实验室，在广东首次投入使用，以提高广州及周边的核酸检测能力。据悉，此次共搭建了四组气膜实验室，每个气膜实验室占地约210平方米，未来整体检测产能可实现12万管/天，每个气膜方舱实验室全天候运转，可保证结果在24小时内发布。
+ 阅读全文]]></summary>
+        <author>
+            <name>teikaei</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[华为回应暂无其它手机厂商接入鸿蒙：做与不做是商业选择]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1136093.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1136093.htm"/>
+        <updated>2021-06-03T03:11:13.000Z</updated>
+        <summary type="html"><![CDATA[据媒体报道，6月2日，华为“鸿蒙操作系统”（HarmonyOS）正式发布。而华为消费者业务软件部总裁王成录也针对大家对HarmonyOS关心的多个问题进行了回应。对于升级HarmonyOS后的最直观体验，王成录指出，如果说是手机升级了HarmonyOS，哪怕已经用了几年，内存已经满了，系统已经开始卡的机器，也会非常流畅，甚至像新机器一样，这是消费者最能直观感受到的。
+ 阅读全文]]></summary>
+        <author>
+            <name>teikaei</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[前SiriusXM首席产品与技术官将带领谷歌地理产品团队]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1136091.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1136091.htm"/>
+        <updated>2021-06-03T02:59:34.000Z</updated>
+        <summary type="html"><![CDATA[大约一年前，谷歌宣布了领导层的几项变动，其中 2012 年加盟公司的 Prabhakar Raghavan 被调去接管搜索、助理和地图业务。不过近日，熟悉招聘事务的消息人士向外媒透露，这家搜索巨头已经挖来了前 SiriusXM 首席产品与技术官 Christopher Phillips，以带领旗下地理业务团队。
+ 阅读全文]]></summary>
+        <author>
+            <name>raymon725</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[增强同苹果iMessage竞争力 Facebook推出一系列企业通信工具]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1136089.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1136089.htm"/>
+        <updated>2021-06-03T02:57:13.000Z</updated>
+        <summary type="html"><![CDATA[Facebook 今天宣布将推出一系列围绕着 Messenger 为中心的开发者更新，这应该有助于增强同苹果 iMessage 的功能竞争力。在本周三举行的 F8 Refresh 开发者大会上，Facebook 宣布了适用于 WhatsApp 和 Instagram 的新 API，以及 Login Connect with Messenger 功能，还有其他更新。
+ 阅读全文]]></summary>
+        <author>
+            <name>study875</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[研究称一种抗结核病药物可导致超强癌细胞“断电”]]></title>
+        <id>https://www.cnbeta.com/articles/science/1136087.htm</id>
+        <link href="https://www.cnbeta.com/articles/science/1136087.htm"/>
+        <updated>2021-06-03T02:56:47.000Z</updated>
+        <summary type="html"><![CDATA[据外媒报道，英国索尔福德大学的科学家利用新发现的识别“最合适的”转移性癌细胞的能力，发现可以使用一种已经批准的药物来切断它们的“燃料供应”，而让正常的健康细胞不受影响。
+ 阅读全文]]></summary>
+        <author>
+            <name>vivian</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[又一幅创作于几百年前的画作出现"iPhone"]]></title>
+        <id>https://hot.cnbeta.com/articles/funny/1136085.htm</id>
+        <link href="https://hot.cnbeta.com/articles/funny/1136085.htm"/>
+        <updated>2021-06-03T02:55:31.000Z</updated>
+        <summary type="html"><![CDATA[据外媒报道，下周，苹果将举办一年一度的开发者大会--全球开发者大会(WWDC)，这一直是科技行业最受期待的盛会之一。除此之外，苹果还将展示下一代操作软件，该软件为其系列产品--包括iPhone、iPad、Mac、Apple Watch、Apple TV等提供支持。
+ 阅读全文]]></summary>
+        <author>
+            <name>teikaei</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[为什么蚊子总是在我们耳边嗡嗡叫？]]></title>
+        <id>https://www.cnbeta.com/articles/science/1136083.htm</id>
+        <link href="https://www.cnbeta.com/articles/science/1136083.htm"/>
+        <updated>2021-06-03T02:46:49.000Z</updated>
+        <summary type="html"><![CDATA[北京时间6月3日消息，据国外媒体报道，为什么蚊子会在人类耳边盘旋飞行，这种嗡嗡声是为了让我们更容易打死它们吗？伴随着夏季的到来，这本是一件惬意的事情，但令人烦恼的是，夏天存在着我们的死敌——在耳边嗡嗡作响的蚊子，为什么这些吸血昆虫会在人类耳朵周围徘徊呢？为什么它们会产生那种烦人的嗡嗡声呢？
+ 阅读全文]]></summary>
+        <author>
+            <name>teikaei</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[诺顿宣布内置于防病毒软件中的安全型以太坊挖矿功能]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1136081.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1136081.htm"/>
+        <updated>2021-06-03T02:45:48.000Z</updated>
+        <summary type="html"><![CDATA[在加密货币挖矿热潮疯狂推升显卡等硬件价格的情况下，一些散户玩家也选择了“打不过就加入”的策略，以通过转售加密货币来回收部分高额的购置成本。另一方面，越来越多的恶意软件制作者也盯上了散户算力这块肥肉，庆幸的是大部分安全软件都能够揪出隐藏在受害者系统中的隐匿型加密货币挖矿应用。
+ 阅读全文]]></summary>
+        <author>
+            <name>raymon725</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[《动森》最新CM宣传片《雨之日》公开 多种装饰品亮相]]></title>
+        <id>https://hot.cnbeta.com/articles/game/1136079.htm</id>
+        <link href="https://hot.cnbeta.com/articles/game/1136079.htm"/>
+        <updated>2021-06-03T02:44:48.000Z</updated>
+        <summary type="html"><![CDATA[任天堂于6月3日今天公布了旗下人气游戏《集合啦！动物森友会》最新CM宣传片，与宣传片中出现的多种现实物品完全一致的多种装饰品亮相，感兴趣的玩家可以关注下了。
+ 阅读全文]]></summary>
+        <author>
+            <name>teikaei</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[探测宇宙：小小的镜片或许能帮助我们解开暗物质之谜]]></title>
+        <id>https://www.cnbeta.com/articles/science/1136077.htm</id>
+        <link href="https://www.cnbeta.com/articles/science/1136077.htm"/>
+        <updated>2021-06-03T02:40:22.000Z</updated>
+        <summary type="html"><![CDATA[北京时间6月3日消息，据国外媒体报道，许多年来，科学家付出了巨大的努力和大量的资金，希望了解可能构成大部分宇宙的无形物质到底是什么，但迄今为止所有的科学实验都未能探测到任何暗物质候选粒子。如今，美国特拉华大学的研究人员提出了一种新的暗物质实验设计，试图通过一面超薄的镜子来探测所谓的“暗光子”。
+ 阅读全文]]></summary>
+        <author>
+            <name>vivian</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apple Music for Artists页面更新：提供新资源/工具]]></title>
+        <id>https://hot.cnbeta.com/articles/music/1136075.htm</id>
+        <link href="https://hot.cnbeta.com/articles/music/1136075.htm"/>
+        <updated>2021-06-03T02:38:17.000Z</updated>
+        <summary type="html"><![CDATA[苹果今天对 Apple Music 艺术家网页进行了全面优化，为该平台上的乐队、音乐家和创作者提供了新的信息、资源和工具。artists.apple.com 网站主要服务于 Apple Music 创作者，并提供了相关的可用工具和服务。
+ 阅读全文]]></summary>
+        <author>
+            <name>study875</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[研究称素食者的疾病生物标志物水平比食肉者更低]]></title>
+        <id>https://www.cnbeta.com/articles/science/1136073.htm</id>
+        <link href="https://www.cnbeta.com/articles/science/1136073.htm"/>
+        <updated>2021-06-03T02:35:59.000Z</updated>
+        <summary type="html"><![CDATA[根据在上个月的欧洲肥胖症大会（ECO）上公布的一项针对超过16.6万名英国成年人的新研究，素食者似乎比食肉者拥有更健康的生物标志物，这适用于任何年龄和体重的成年人，而且也不受吸烟和饮酒的影响。
+ 阅读全文]]></summary>
+        <author>
+            <name>vivian</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NASA最新火星照现“死星”？不，那是直升机的脚]]></title>
+        <id>https://www.cnbeta.com/articles/science/1136071.htm</id>
+        <link href="https://www.cnbeta.com/articles/science/1136071.htm"/>
+        <updated>2021-06-03T02:34:02.000Z</updated>
+        <summary type="html"><![CDATA[据外媒报道，NASA的“毅力号”目前正在庆祝其在火星表面工作的第100天，但它不是唯一达到里程碑的火星车。Ingeunity直升机搭乘大型火星车的腹部前往火星，它也已经在这颗红色星球上停留了100天。这两台机器正在做一些伟大的工作，但喷气推进实验室(JPL)最近拍摄并发布的一张照片或许会让NASA粉丝们感到“真实的”恐慌。
+ 阅读全文]]></summary>
+        <author>
+            <name>teikaei</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2021线上技术研讨会：台积电宣布车用N6A与通信类N5RF新工艺]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1136067.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1136067.htm"/>
+        <updated>2021-06-03T02:29:57.000Z</updated>
+        <summary type="html"><![CDATA[在昨日的 2021 线上技术研讨会期间，台积电（TSMC）宣布了最新的定制半导体工艺节点，以巩固该公司的芯片制造技术组合。作为业内领先的芯片代工制造商，其承接了全球市场范围内的多数订单，且大客户中包括了苹果、AMD、高通、英伟达等科技巨头。
+ 阅读全文]]></summary>
+        <author>
+            <name>raymon725</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[人类巨大的物质消费欲望是否会毁灭地球？]]></title>
+        <id>https://www.cnbeta.com/articles/science/1136065.htm</id>
+        <link href="https://www.cnbeta.com/articles/science/1136065.htm"/>
+        <updated>2021-06-03T02:16:44.000Z</updated>
+        <summary type="html"><![CDATA[北京时间6月8日消息，据国外媒体报道，在人类已知的多种全球灾难性风险中，有些风险要更受媒体和大众关注。小行星撞击、超级火山爆发和气候变化所带来的灾难在好莱坞影片中屡见不鲜。在我们星球的历史中，每一场这样的灾难都对地球生命造成了毁灭性的打击。然而，许多人不知道的是，我们的日常生活其实就在酝酿一种新的全球性威胁，足以毁灭生命本身。这种威胁是由人类对物质消费的巨大欲望所驱动的，但矛盾的是，这本身也是人类生活的一部分。
+ 阅读全文]]></summary>
+        <author>
+            <name>vivian</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[科学家设计P-Flash人工智能系统  可向消防员发出闪燃警告]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1136063.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1136063.htm"/>
+        <updated>2021-06-03T02:15:04.000Z</updated>
+        <summary type="html"><![CDATA[据外媒New Atlas报道，闪燃（Flashover）是一种非常危险的现象，在一个封闭的区域内，所有暴露的可燃材料几乎同时被点燃。然而，得益于一种新的基于人工智能的系统，消防员可能很快就会收到闪燃即将发生的警告。
+ 阅读全文]]></summary>
+        <author>
+            <name>vivian</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FireEye已同意以12亿美元向STG财团出售产品部门]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1136061.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1136061.htm"/>
+        <updated>2021-06-03T02:14:34.000Z</updated>
+        <summary type="html"><![CDATA[网络安全巨头 FireEye 已同意以 12 亿美元的价格出售产品组合，购买方为由私募股权公司 Symphony Technology Group（STG） 领导的财团。在完成这笔现金交易之后，网络和电子邮件网络安全产品制造商 FireEye 将从数字取证和事件响应部门 Mandiant 剥离出来。
+ 阅读全文]]></summary>
+        <author>
+            <name>study875</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apple Watch用户不会频繁找医生 但更可能接受心脏病诊疗介入]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1136059.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1136059.htm"/>
+        <updated>2021-06-03T02:10:47.000Z</updated>
+        <summary type="html"><![CDATA[近日发表于 JAMA 网络开放期刊上的一项小型研究报告，揭示了心律不齐的 Apple Watch 智能手表佩戴者不会频繁地去寻医问药，但更可能接受心脏手术的治疗。文章作者、犹他大学医学院心脏病学研究员 Libo Wang 表示，从心脏病专家的角度来观察，他们发现许多房颤患者都在借助 Apple Watch 或 Fitbit 等可穿戴设备来收集数据。
+ 阅读全文]]></summary>
+        <author>
+            <name>raymon725</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2021年《自然》TTL摄影师大奖落下帷幕：野生动物大放异彩]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1136057.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1136057.htm"/>
+        <updated>2021-06-03T02:10:08.000Z</updated>
+        <summary type="html"><![CDATA[据外媒报道，2021年《自然》TTL年度摄影师大奖的获奖者已经揭晓，他们的作品展示了野生动物的多样性和古怪行为。一张令人难以置信的照片--一只猩猩爬上婆罗洲的一棵树--斩获得了最高奖项，其他亮点还包括野狗幼崽在灰尘中跳舞以及一些昆虫活动的特写。
+ 阅读全文]]></summary>
+        <author>
+            <name>teikaei</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[科学家首次发现隐藏在软体动物牙齿中的罕见矿物]]></title>
+        <id>https://www.cnbeta.com/articles/science/1136055.htm</id>
+        <link href="https://www.cnbeta.com/articles/science/1136055.htm"/>
+        <updated>2021-06-03T01:59:08.000Z</updated>
+        <summary type="html"><![CDATA[据外媒报道，美国西北大学的研究人员首次发现了一种隐藏在石鳖牙齿中的罕见矿物，石鳖是一种在岩石海岸线上发现的大型软体动物。在这个奇怪的惊喜之前，这种被称为圣巴雷特（santabarbaraite，又称为羟水磷铁石）的铁矿物只在岩石中被记录过。
+ 阅读全文]]></summary>
+        <author>
+            <name>vivian</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[科兴疫苗获WHO批准 科兴制药20%涨停：回应称不是一家]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1136053.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1136053.htm"/>
+        <updated>2021-06-03T01:57:40.000Z</updated>
+        <summary type="html"><![CDATA[前两天WHO世卫组织宣布将中国科兴中维公司的灭活疫苗纳入紧急使用清单，这是继国药集团之后第二款被全球认可的新冠疫苗。这个消息也刺激了国内的疫苗行业，广大股民连忙找到相关公司买股票，结果上市公司科兴制药昨天收获了一个涨停板，而且是20%涨幅。
+ 阅读全文]]></summary>
+        <author>
+            <name>teikaei</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[饭圈阴谋：没钱别提爱，白嫖不算粉]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1136051.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1136051.htm"/>
+        <updated>2021-06-03T01:54:31.000Z</updated>
+        <summary type="html"><![CDATA[近15%的“00后”每月为追星花费5000元以上。2019年2月初的一个周日早晨，正在上初三的李婷（化名）打开爱奇艺，无意间刷到了选秀节目《青春有你》。在这之前，她偶尔会在学习之余看看娱乐综艺，但基本都属于业余消遣。不过，这一次她被某位明星的表演吸引，从此一发不可收拾。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[高频高精高灵敏——揭秘风云四号首颗业务星]]></title>
+        <id>https://www.cnbeta.com/articles/science/1136049.htm</id>
+        <link href="https://www.cnbeta.com/articles/science/1136049.htm"/>
+        <updated>2021-06-03T01:53:22.000Z</updated>
+        <summary type="html"><![CDATA[6月3日凌晨，风云四号B星搭乘长征三号乙运载火箭在西昌卫星发射中心成功发射。作为我国新一代静止轨道气象卫星风云四号系列卫星的首发业务星，风云四号B星将与在轨运行的风云四号A星组网协同工作。风云四号B星由国家航天局负责卫星工程组织实施，中国气象局为用户部门。承担业务使命的B星科技含量有何提升？它将如何更加精准地预报天气？
+ 阅读全文]]></summary>
+        <author>
+            <name>vivian</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LHC揭秘宇宙诞生瞬间“第一种物质”]]></title>
+        <id>https://www.cnbeta.com/articles/science/1136047.htm</id>
+        <link href="https://www.cnbeta.com/articles/science/1136047.htm"/>
+        <updated>2021-06-03T01:51:00.000Z</updated>
+        <summary type="html"><![CDATA[据每日科学网站1日消息，欧洲科学家团队利用大型强子对撞机（LHC）揭示了宇宙大爆炸第一个0.000001秒内发生的新细节，即第一个微秒内一种特殊的等离子体发生了什么，这种等离子体不但是宇宙有史以来的“第一种物质”，其相关细节还为我们今天所知的宇宙演变提供了一块重要“拼图”。
+ 阅读全文]]></summary>
+        <author>
+            <name>vivian</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Facebook为学术研究人员推出专属Researcher API]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1136045.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1136045.htm"/>
+        <updated>2021-06-03T01:48:11.000Z</updated>
+        <summary type="html"><![CDATA[在今日的 F8 开发者大会上，Facebook 表示：为满足学术研究社区的访问需求，该公司正准备推出一个全新的应用程序接口（API）。显然，在 2018 年闹出剑桥分析的数据收集丑闻之后，这家社交网络巨头一直在努力摆脱这方面的负面影响，且迫使其重新评估开发者对用户数据的访问权限。
+ 阅读全文]]></summary>
+        <author>
+            <name>raymon725</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Twitter开始推出推文内事实核查功能Birdwatch]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1136043.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1136043.htm"/>
+        <updated>2021-06-03T01:47:57.000Z</updated>
+        <summary type="html"><![CDATA[据外媒报道，Twitter正在通过其新产品Birdwatch寻求通过众包的方式来摆脱错误信息的困境，该产品利用一个参与的Twitter用户网络来为误导性的推文添加注释。今日（当地时间6月2日），Twitter宣布他们将开始向iOS、Android和桌面系统的试点参与者推出Birdwatch笔记。
+ 阅读全文]]></summary>
+        <author>
+            <name>teikaei</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[福特前 CEO： 特斯拉在电动汽车市场遭传统汽车巨头挑战]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1136041.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1136041.htm"/>
+        <updated>2021-06-03T01:44:36.000Z</updated>
+        <summary type="html"><![CDATA[福特前 CEO 马克·菲尔茨 （Mark Fields） 周三在接受电视采访时表示，埃隆·马斯克 （Elon Musk） 和特斯拉一起将电动汽车带入主流，但现在特斯拉也在努力应对自己的创新造成的后果。
+ 阅读全文]]></summary>
+        <author>
+            <name>study875</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[当记者遭遇诈骗犯：骗子能准确说出身份证号 还发来两条诈骗新闻]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1136039.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1136039.htm"/>
+        <updated>2021-06-03T01:40:44.000Z</updated>
+        <summary type="html"><![CDATA[作为一名记者，我现在还无法相信，在看过同事写的校园贷诈骗、养老金骗局、杀猪盘骗局等各种诈骗案后，我还是差一点被骗钱——当时诈骗已经进行80%，如果不是诈骗者突然中断语音，我的账户余额可能已为“0”。回想起来，诈骗电话并没什么新意。骗子伪装成北京市公安局的一名警察，说我涉及一起天津的洗钱案，让我去位于前门东大街的北京市公安局进行现场核实，并谎称公安局中午11点下班。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[鸿蒙“初辟” 华为能否借此打破安卓和 iOS 系统的垄断局面？]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1136037.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1136037.htm"/>
+        <updated>2021-06-03T01:40:27.000Z</updated>
+        <summary type="html"><![CDATA[据报道，华为在周三晚间发布了其自主开发的操作系统 —Harmony OS 2， 该系统可以运行在包括智能手机在内的一系列设备上。华为此举是为了摆脱对美国技术的依赖，新系统可能将会与苹果和Google的操作系统形成竞争。
+ 阅读全文]]></summary>
+        <author>
+            <name>study875</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Facebook开发大会推新应用：着力发展电子商务和增强现实业务]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1136035.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1136035.htm"/>
+        <updated>2021-06-03T01:40:20.000Z</updated>
+        <summary type="html"><![CDATA[北京时间6月3日早间消息，据报道，当地时间6月2日，美国社交网络巨头Facebook举办线上年度F8开发者大会，该公司当天发布了一系列新的开发者工具，其中包括面向企业用户的移动聊天功能。
+ 阅读全文]]></summary>
+        <author>
+            <name>vivian</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[亚马逊对英国一线员工进行新冠病毒变异毒株检测]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1136033.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1136033.htm"/>
+        <updated>2021-06-03T01:39:12.000Z</updated>
+        <summary type="html"><![CDATA[北京时间6月2日早间消息 据路透社报道，亚马逊正在检测其英国一线员工是否感染新冠病毒变异毒株，并将数据提供给公共卫生官员，包括在一些热点地区，因为在这些地方有一种在印度首次发现的毒株正在迅速传播。
+ 阅读全文]]></summary>
+        <author>
+            <name>teikaei</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[加密货币交易所 Kraken 服务覆盖至美国 CEO 称计划在 2022 年上市]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1136031.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1136031.htm"/>
+        <updated>2021-06-03T01:39:12.000Z</updated>
+        <summary type="html"><![CDATA[据报道，随着加密货币愈发引人关注，加密货币交易所 Kraken 正将其服务覆盖到了美国，开始和上市不到两月的 Coinbase 抢夺加密货币交易者。从当地时间周三开始，新版 Kraken 客户端将允许美国用户通过手机买入或者卖出加密货币（数量可超过 50 枚）。
+ 阅读全文]]></summary>
+        <author>
+            <name>study875</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SpaceX拿下三笔私人飞行订单 “龙飞船”或在2023年前飞往国际空间站]]></title>
+        <id>https://www.cnbeta.com/articles/science/1136029.htm</id>
+        <link href="https://www.cnbeta.com/articles/science/1136029.htm"/>
+        <updated>2021-06-03T01:38:44.000Z</updated>
+        <summary type="html"><![CDATA[北京时间6月3日上午消息，据报道，SpaceX与Axiom Space签署了一笔批量交易，SpaceX的龙飞船（Crew Dragon）太空舱将暂定在2023年之前再发射三次私人宇航员任务。虽然双方并未披露具体的交易条款，但是这笔交易在新兴的私人航天产业中最大的交易之一，将使未来几年的国际空间站计划变得繁忙起来。
+ 阅读全文]]></summary>
+        <author>
+            <name>vivian</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[《摩尔庄园》刷屏背后：情怀难持续，盈利待摸索]]></title>
+        <id>https://hot.cnbeta.com/articles/game/1136027.htm</id>
+        <link href="https://hot.cnbeta.com/articles/game/1136027.htm"/>
+        <updated>2021-06-03T01:38:33.000Z</updated>
+        <summary type="html"><![CDATA[在知乎上有人提问，“即使《摩尔庄园》停止更新，为什么还有很多玩家留下？”一个最高票数的回答称：“因为那是曾经的世外桃源。”在页游阶段，这款游戏吸引了一大批“泛00后”玩家，为他们虚构了一个梦幻、美好的虚拟世界。而手游版开服2天，老玩家们争相涌入和讨论，让这款久违多年的游戏再次成为热点。
+ 阅读全文]]></summary>
+        <author>
+            <name>raymon725</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[鸿蒙，终于打响了对抗安卓的第一战]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1136025.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1136025.htm"/>
+        <updated>2021-06-03T01:38:01.000Z</updated>
+        <summary type="html"><![CDATA[靴子终于落地。时隔近两年后，华为正式发布了搭载HarmonyOS 2的手机、平板、手表等多款产品，同时明年上半年计划实现百款设备升级HarmonyOS 2。不过局势并不完全乐观。在缺芯之下，华为手机销量正经历着断崖式下滑。而HarmonyOS要构建起生态，还要争取华为之外的更多硬件品牌的支持。
+ 阅读全文]]></summary>
+        <author>
+            <name>teikaei</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Blue Abyss正在建造全球最大和最深的室内游泳池]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1136023.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1136023.htm"/>
+        <updated>2021-06-03T01:36:26.000Z</updated>
+        <summary type="html"><![CDATA[据外媒报道，Blue Abyss公司正在英国康沃尔郡建造世界上最大、最深的室内游泳池。它将容纳150万立方英尺（约42000立方米）的水，，将用于测试先进的海底机器人技术，以及作为世界上第一个商业宇航员培训设施。
+ 阅读全文]]></summary>
+        <author>
+            <name>vivian</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NASA宣布两项研究金星奥秘的新任务]]></title>
+        <id>https://www.cnbeta.com/articles/science/1136021.htm</id>
+        <link href="https://www.cnbeta.com/articles/science/1136021.htm"/>
+        <updated>2021-06-03T01:35:32.000Z</updated>
+        <summary type="html"><![CDATA[据外媒报道，金星可能终于得到了NASA的关注。这颗来自太阳的第二颗行星被称为地球的双胞胎，尽管这颗岩石世界的发展跟我们所居住的这颗繁茂、湿润、充满生命的行星非常不同。NASA于当地时间周三宣布，它已选定了两项新官方任务--Veritas和Davinci+--前往金星作为该机构Discovery Program（“发现计划）的一部分。
+ 阅读全文]]></summary>
+        <author>
+            <name>teikaei</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Jon Prosser放出iPhone 13/13 Pro CAD渲染图]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1136019.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1136019.htm"/>
+        <updated>2021-06-03T01:31:59.000Z</updated>
+        <summary type="html"><![CDATA[知名爆料人 Jon Prosser 刚刚分享了据说是 iPhone 13 和 iPhone 13 Pro 的 CAD 渲染图，并且附上了下载链接，以便大家能够更好地评估。在 YouTube 科技频道 FrontPageTech 上传的一段新视频中，他首先表示 —— iPhone 13 的机身会变得略厚，以容纳更大的电池 —— 这点与此前的爆料和传闻相符。
+ 阅读全文]]></summary>
+        <author>
+            <name>raymon725</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[网传美团收到护送遗体订单 回应称订单服务未实际发生，已限制该用户下单]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1136017.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1136017.htm"/>
+        <updated>2021-06-03T01:28:33.000Z</updated>
+        <summary type="html"><![CDATA[近日，有网传消息称，一美团众包骑手收到护送遗体订单。美团方面对此回应称，有用户在平台先后下单 94 次后取消，备注家中老人去世需送殡仪馆，经查，订单服务未实际发生。目前，已限制该用户下单。
+ 阅读全文]]></summary>
+        <author>
+            <name>study875</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[数据存储新突破：科学家成功实现按需改变范德瓦尔斯磁体]]></title>
+        <id>https://www.cnbeta.com/articles/science/1136015.htm</id>
+        <link href="https://www.cnbeta.com/articles/science/1136015.htm"/>
+        <updated>2021-06-03T01:24:20.000Z</updated>
+        <summary type="html"><![CDATA[只有原子厚度的范德瓦尔斯磁体（van der Waals magnets）在业内被公认为是未来磁性数据存储和快速数据处理的最终紧凑介质。然而事实证明，想要实时控制这些材料的磁性状态是困难的。不过现在由代尔夫特理工大学（TU Delft）领导的一个国际研究小组已经成功地利用光学特性来按需改变范德瓦尔斯反铁磁体的各向异性 (anisotropy)，为新的、极其有效的数据存储手段铺平道路。
+ 阅读全文]]></summary>
+        <author>
+            <name>study875</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[研究称欧洲火蚁释放的化学物质或能被用作环保的蜘蛛威慑剂]]></title>
+        <id>https://www.cnbeta.com/articles/science/1136013.htm</id>
+        <link href="https://www.cnbeta.com/articles/science/1136013.htm"/>
+        <updated>2021-06-03T01:21:36.000Z</updated>
+        <summary type="html"><![CDATA[据外媒New Atlas报道，尽管蜘蛛通过吃害虫（如蚊子）来帮助我们，但许多人仍然不喜欢在家里养这些东西。这些人可能会对一项新研究感兴趣，该研究表明，可以用蚂蚁释放的化学物质来无害地阻止蜘蛛进入。研究人员发现，蜘蛛通过感知蚂蚁在环境中释放的化学物质，避免在它们的天敌欧洲火蚁附近筑网。
+ 阅读全文]]></summary>
+        <author>
+            <name>vivian</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[神秘卖家在eBay上销售Google Pixel Muskie原型机]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1136011.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1136011.htm"/>
+        <updated>2021-06-03T01:17:03.000Z</updated>
+        <summary type="html"><![CDATA[本周，一位国内卖家在 eBay 上挂出了一台所谓的 Google Pixel Muskie 原型机，也就是传说中未发布的初代“镜像”机型（与 HTC U11 Plus 对应）。虽然后续还是以 HTC 的名义来发布，但与 Google Pixel 2 / Pixel 2 XL 相比，初代原型的样式风格还是相当与众不同的。
+ 阅读全文]]></summary>
+        <author>
+            <name>raymon725</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[《战神：诸神黄昏》延至明年发布 且将提供该作PS4版本]]></title>
+        <id>https://hot.cnbeta.com/articles/game/1136009.htm</id>
+        <link href="https://hot.cnbeta.com/articles/game/1136009.htm"/>
+        <updated>2021-06-03T01:14:22.000Z</updated>
+        <summary type="html"><![CDATA[该作原定年内发布PS5版本，开发单位Santa Monica现决定将其延至明年发布，且提供该作PS4版本。“交付顶级大作的决心不变，同时要兼顾团队、创作伙伴、家庭成员的安危及福祉，因此，我们决定将发布窗口推迟至2022年”，Santa Monica在官方声明中解释了延期理由。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[雷达终结者，这回特斯拉连毫米波雷达都省了]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1136007.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1136007.htm"/>
+        <updated>2021-06-03T01:13:29.000Z</updated>
+        <summary type="html"><![CDATA[“火星人”马斯克在不久前又干了一件不可思议的奇葩事，他表示，特斯拉美国工厂从 5 月份开始生产没有搭载毫米波雷达的 Model 3 和 Model Y 车型。对此，特斯拉官网也作出了更新，在其车辆传感器的介绍页面取消了毫米波雷达的图示。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[特斯拉被多重打击加身 拖累股价今年以来连续下跌]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1136005.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1136005.htm"/>
+        <updated>2021-06-03T01:12:45.000Z</updated>
+        <summary type="html"><![CDATA[6月3日消息，由于受4月份其全球电动汽车市场份额下降等多重不利因素影响，电动汽车制造商特斯拉公司股价今年以来连续下跌，尤其是在过去三周里出现大幅下跌。
+ 阅读全文]]></summary>
+        <author>
+            <name>vivian</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NASA已退役“精神号”在MRO近期拍摄的照片中现身]]></title>
+        <id>https://www.cnbeta.com/articles/science/1136003.htm</id>
+        <link href="https://www.cnbeta.com/articles/science/1136003.htm"/>
+        <updated>2021-06-03T01:11:52.000Z</updated>
+        <summary type="html"><![CDATA[据外媒报道，NASA的“毅力号”漫游者开始了新的任务，“好奇号”漫游者则继续着它的科学工作，现在是时候回顾一下轮式探险者在这颗红色星球上留下的遗产了。尤其是对已经报废的“精神号”火星车致敬，它出现在NASA的火星勘测轨道飞行器(MRO)最近拍摄的一张照片中。
+ 阅读全文]]></summary>
+        <author>
+            <name>teikaei</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[含镍量达90%：特斯拉率先采用LG新型NCMA锂电池]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1136001.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1136001.htm"/>
+        <updated>2021-06-03T01:11:21.000Z</updated>
+        <summary type="html"><![CDATA[6月3日消息，据媒体报道，特斯拉将成为首个使用LG Energy Solution公司生产的新型NCMA锂电池的厂商。此前，通用汽车表示将于今年9月起在GMC悍马电动车中首先应用LG新型NCMA电池。而据最新消息显示，特斯拉有望先于通用汽车，于7月开始采用LG新型NCMA锂电池。
+ 阅读全文]]></summary>
+        <author>
+            <name>teikaei</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[微软扩充Word听写功能语言支持 新增丹麦语等多种语言]]></title>
         <id>https://www.cnbeta.com/articles/tech/1135999.htm</id>
@@ -30503,16 +31152,6 @@ Chore: Refactored parameter passing for enrich step.]]></summary>
         <summary type="html"><![CDATA[Added: Display CLI version in footer.]]></summary>
         <author>
             <name>Release notes from osmosfeed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Guide To Undoing Mistakes With Git]]></title>
-        <id>https://smashingmagazine.com/2021/05/undoing-mistakes-git-part1/</id>
-        <link href="https://smashingmagazine.com/2021/05/undoing-mistakes-git-part1/"/>
-        <updated>2021-05-04T14:30:00.000Z</updated>
-        <summary type="html"><![CDATA[No matter how experienced you are, mistakes are an inevitable part of software development. But we can learn to repair them! And this is what we'll be looking at in this two-part series: how to undo mistakes using Git.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Tobias Günther)</name>
         </author>
     </entry>
 </feed>
