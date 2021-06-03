@@ -2,10 +2,162 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://lvytwjw.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-03T15:21:52.708Z</updated>
+    <updated>2021-06-03T17:05:10.877Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://lvytwjw.github.io/rss/index.html"/>
     <link rel="self" href="https://lvytwjw.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[AMD APU路线图：6nm Zen3+现身、首发支持DDR5]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1136405.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1136405.htm"/>
+        <updated>2021-06-03T16:53:22.000Z</updated>
+        <summary type="html"><![CDATA[AMD CPU架构的下一站，到底是Zen3+，还是Zen4？锐龙6000系列到底是Zen3+还是Zen3加强版？这段时间各种曝料莫衷一是，无从确认，而且新的曝料还在不断出现，这次说的是Zen3+。网上最新传出了一张AMD APU处理器的路线图，覆盖各个移动平台，列出了Van Gogh(梵高)、Dragon Crest、Rembrandt(伦勃朗)、Barcelo(巴塞罗)等多款产品。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[YouTube频道“100天后会被吃的猪”引热议 每天上传一个倒计时视频]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1136403.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1136403.htm"/>
+        <updated>2021-06-03T16:52:46.000Z</updated>
+        <summary type="html"><![CDATA[日本知名漫画《100天后会死的鳄鱼》，以倒数计时的形式描绘一条鳄鱼死前的100天。而最近有一个youtube频道也使用类似的方式，取名“100天后会被吃的猪”，引起了网络热议。“100天后会被吃的猪”被网友注意后，立刻就引起的许多人的关注，YouTube频道仅仅开播一周，就吸引了近4万的粉丝。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Serverless vs Fully Managed Services: What&#x27;s the Difference?]]></title>
+        <id>60aa708711ffb70827ef5f4b</id>
+        <link href="https://www.freecodecamp.org/news/serverless-fully-managed-service-difference/"/>
+        <updated>2021-06-03T16:51:37.000Z</updated>
+        <summary type="html"><![CDATA[If you're new to cloud technologies, you might be confused about the difference between serverless technologies and managed services.  So in this article you'll learn what these terms mean and what the main differences are.    What Are Managed Services? A managed service let the end-user focus on using a service]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[分析师称隐私和安全更新将是WWDC 21主要焦点]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1136401.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1136401.htm"/>
+        <updated>2021-06-03T16:33:16.000Z</updated>
+        <summary type="html"><![CDATA[除了新的M1 MacBook机型和通常的软件更新外，投资银行Wedbush预计隐私和安全将成为苹果WWDC 21核心主题。在AppleInsider看到一份给投资者的报告中，Wedbush分析师Daniel Ives详细介绍了他对苹果公司6月7日星期一开发者大会主题演讲的预测。
+ 阅读全文]]></summary>
+        <author>
+            <name>maomao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[亚马逊Halo健康平台增加身体运动辅导功能 采用摄像头和机器学习算法]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1136399.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1136399.htm"/>
+        <updated>2021-06-03T16:22:11.000Z</updated>
+        <summary type="html"><![CDATA[去年，亚马逊推出了其健身和健康平台Halo。虽然这项基于订阅的服务主要依靠一个支持心率传感器的手环进行日常睡眠和活动追踪，但该服务还有一个组成部分，即使用手机摄像头进行基于AI的身体分析。去年，该摄像头扫描功能可以分析身体脂肪含量，现在亚马逊将增加运动健康功能，旨在分析身体的灵活性，它将在本月晚些时候到来。
+ 阅读全文]]></summary>
+        <author>
+            <name>maomao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cipher Definition – What is a Block Cipher and How Does it Work to Protect Your Data?]]></title>
+        <id>5fff3d3098be260817e495bd</id>
+        <link href="https://www.freecodecamp.org/news/what-is-a-block-cipher/"/>
+        <updated>2021-06-03T16:21:19.000Z</updated>
+        <summary type="html"><![CDATA[Cryptography is the science of using codes and ciphers to protect messages. And encryption involves encoding messages so that only the intended recipient can understand the meaning of the message. It's often used to protect data in transit. Encryption is a two way function – that is, you need to be]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google宣布推出99美元的Pixel Buds A系列无线耳机]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1136397.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1136397.htm"/>
+        <updated>2021-06-03T16:06:31.000Z</updated>
+        <summary type="html"><![CDATA[与Google硬件产品从来无法保密的惯例一样，新的Pixel Buds A系列已经被广泛泄露，该公司干脆顺水推手早早在Twitter上公布了它们。今天，这款耳塞被正式宣布。它们的售价为99美元，与179美元的标准Pixel Buds相比标价签瘦身很多，现在开始在美国和加拿大接受预购。Google表示，Pixel Buds A系列将于6月17日开售。它们有橄榄绿或白色和灰色两种颜色。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美国心脏协会表示苹果MagSafe设备过近接触会干扰心脏起搏器]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1136395.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1136395.htm"/>
+        <updated>2021-06-03T16:04:09.000Z</updated>
+        <summary type="html"><![CDATA[美国心脏协会表示，苹果MagSafe设备直接放在皮肤上或非常接近时，会干扰心脏起搏器。美国心脏协会赞同《心律杂志》之前的一份报告，该报告称与iPhone 12密切接触会影响某些植入式心脏设备。与该报告一样，美国心脏协会表示，这种影响仅在iPhone放在植入物上或非常接近植入物时才会出现。
+ 阅读全文]]></summary>
+        <author>
+            <name>maomao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[下一代16英寸MacBook Pro疑似已在监管数据库中备案]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1136393.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1136393.htm"/>
+        <updated>2021-06-03T15:54:04.000Z</updated>
+        <summary type="html"><![CDATA[广泛流传的消息称，苹果正在计划推出新的14英寸和16英寸MacBook Pro机型，每款机型都配有mini-LED显示屏和改进的M1芯片（有M1X的提法）。这些笔记本预计将采用新的设计，顶部和底部更平坦，恢复更多的I/O端口，包括HDMI端口、SD卡插槽和磁性电源线的回归。传言还表明，沿用数年的鸡肋触摸条将退役，重新改用物理Fn键+标准键盘功能键。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[传英特尔将在今年万圣节期间推出10nm Alder Lake桌面CPU]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1136391.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1136391.htm"/>
+        <updated>2021-06-03T15:47:09.000Z</updated>
+        <summary type="html"><![CDATA[泄密者“摩尔定律已死”爆料，英特尔的10nm Alder Lake桌面CPU可能会在10月万圣节期间推出，他同时透露微软将支持英特尔全新混合架构处理器，并且给出新细节。根据传言，英特尔现在有望在10月份推出基于10nm增强型SuperFin工艺节点的第12代Alder Lake桌面CPU。
+ 阅读全文]]></summary>
+        <author>
+            <name>maomao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[网络主播直播吃象群食物 相关部门介入调查]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1136389.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1136389.htm"/>
+        <updated>2021-06-03T15:33:55.000Z</updated>
+        <summary type="html"><![CDATA[最近，15头大象在云南“一路向北”，给沿途造成不小的破坏，但没想到，就这样的事情，也被一些无下限的主播给盯上了。为了引导象群转向，专家和当地工作人员尝试了食物引诱、道路封锁等各种方法，曾在一个岔路口留下4吨重的菠萝、玉米等食物，而大象们在投食区停留近8小时，吃饱喝足后，进入了人烟稀少的林区。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[人类有望活到120岁？科学家已将老鼠寿命延长23%]]></title>
+        <id>https://www.cnbeta.com/articles/science/1136387.htm</id>
+        <link href="https://www.cnbeta.com/articles/science/1136387.htm"/>
+        <updated>2021-06-03T15:33:14.000Z</updated>
+        <summary type="html"><![CDATA[“我们在老鼠身上看到的变化可能也适用于人类，如果真是这样，那将是令人兴奋的。”据外媒报道，以色列科学家在一项新的研究中，通过一种特殊的蛋白质将实验室老鼠的寿命延长了23%，这一研究成果可能为人类活到120岁打下了基础。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RTX 3070 Ti 奇点灰烬测试成绩曝光 性能达到3080的90%左右]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1136385.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1136385.htm"/>
+        <updated>2021-06-03T15:29:24.000Z</updated>
+        <summary type="html"><![CDATA[虽然NVIDIA GeForce RTX 3080 Ti今天上市销售，但该公司在GeForce RTX 3070 Ti的性能方面并没有透露多少。但是NVIDIA GeForce RTX 3070 Ti在下周发布之前的第一个性能基准测试结果已经泄露了出来。LeakBench发现了该卡的Ashes of the Singularity基准测试成绩。
+ 阅读全文]]></summary>
+        <author>
+            <name>maomao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Twitter发布首款订阅服务Twitter Blue 可撤回推文]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1136383.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1136383.htm"/>
+        <updated>2021-06-03T15:26:47.000Z</updated>
+        <summary type="html"><![CDATA[据报道，Twitter今日发布了该公司的首款订阅服务“Twitter Blue”，旨在帮助公司实现营收多样化。这是Twitter首次尝试订阅业务模式，有望帮助Twitter实现营收来源多样化。今年第一季度财报显示，广告业务占Twitter总营收的86%以上。受此影响，Twitter股价在今日早盘交易中一度上涨2.3%。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[欧盟建议对8国开放外部边境 日本重回“榜单”]]></title>
         <id>https://www.cnbeta.com/articles/tech/1136381.htm</id>
@@ -103,6 +255,31 @@
  阅读全文]]></summary>
         <author>
             <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hexagons and Beyond: Flexible, Responsive Grid Patterns, Sans Media Queries]]></title>
+        <id>https://css-tricks.com/?p=341584</id>
+        <link href="https://css-tricks.com/hexagons-and-beyond-flexible-responsive-grid-patterns-sans-media-queries/"/>
+        <updated>2021-06-03T14:25:57.000Z</updated>
+        <summary type="html"><![CDATA[A little while back, Chris shared this nice hexagonal grid. And true to its name, it’s using —wait for it — CSS Grid to form that layout. It’s a neat trick! Combining grid columns, grid gaps, and creative clipping …
+The post Hexagons and Beyond: Flexible, Responsive Grid Patterns, Sans Media Queries appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Temani Afif</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Monitoring Lighthouse Scores and Core Web Vitals with DebugBear]]></title>
+        <id>https://css-tricks.com/?p=341494</id>
+        <link href="https://css-tricks.com/monitoring-lighthouse-scores-and-core-web-vitals-with-debugbear/"/>
+        <updated>2021-06-03T14:25:19.000Z</updated>
+        <summary type="html"><![CDATA[DebugBear takes just a few seconds to start using. You literally point it at a URL you want to watch, and it’ll start watching it. You install nothing.
+It’ll start running tests, and you’ve immediately got performance charts you can …
+The post Monitoring Lighthouse Scores and Core Web Vitals with DebugBear appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
         </author>
     </entry>
     <entry>
