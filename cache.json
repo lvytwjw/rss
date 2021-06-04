@@ -1245,6 +1245,276 @@
       "siteUrl": "https://www.cnbeta.com",
       "articles": [
         {
+          "id": "https://www.cnbeta.com/articles/science/1136663.htm",
+          "author": "vivian",
+          "description": "据外媒报道，一个由荷兰研究人员领导的天文学家小组发现，高质量恒星的形成方式与它们较小的“兄弟姐妹”不同。小质量恒星通常被一个有序的尘埃和物质盘所包围，而大恒星的物质“供应”则是混乱的。研究人员使用阿塔卡马大型毫米波/亚毫米波阵列（ALMA）望远镜进行观察，最近在《天体物理学杂志》上发表了他们的发现。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/science/1136663.htm",
+          "publishedOn": "2021-06-04T06:25:58.000Z",
+          "wordCount": 187,
+          "title": "研究称与小型恒星由尘埃盘形成不同 大质量恒星是由碎片形成的"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1136661.htm",
+          "author": "raymon725",
+          "description": "尽管头盔已经成为了许多骑行爱好者的标配，但该装备对于其它身体部位的防护仍相当欠缺。不过近日，我们在众包平台 Kickstarter 上发现了一个名叫 Cirrus 的智能骑行安全气囊服项目。其特点是能够为前胸、后背、腹部、以及颈部提供更加充分的防护。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1136661.htm",
+          "publishedOn": "2021-06-04T06:24:09.000Z",
+          "wordCount": 228,
+          "title": "护身+保颈：Cirrus智能骑行安全气囊服正在众筹"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/science/1136659.htm",
+          "author": "teikaei",
+          "description": "据外媒报道，俄罗斯可能计划在不久的将来离开国际空间站(ISS)，但在该国真正停止向太空发射宇航员之前，它需要确保其空间站的一半按计划运行。为了实现这一目标，两名俄罗斯宇航员昨天离开轨道实验室并开始了漫长的太空行走，最后俄罗斯的Pirs模块正式退役。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/science/1136659.htm",
+          "publishedOn": "2021-06-04T06:23:21.000Z",
+          "wordCount": 183,
+          "title": "俄罗斯即将让Pirs模块离开国际空间站"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1136657.htm",
+          "author": "teikaei",
+          "description": "曾经沉迷游戏的“网瘾少年”让多少父母头痛，如今风水轮流转——“父母沉迷手机怎么办”成为年轻人社交的热门话题。熬夜躲被窝里看抖音、切菜刷手机把手切伤、超过10万老人日均在线超过10小时……这届“网瘾老年”有多野？\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1136657.htm",
+          "publishedOn": "2021-06-04T06:18:12.000Z",
+          "wordCount": 190,
+          "title": "半月谈：年轻人发愁，父母沉迷手机怎么办？"
+        },
+        {
+          "id": "https://hot.cnbeta.com/articles/movie/1136655.htm",
+          "author": "study875",
+          "description": "今日 (6 月 4 日)《魔兽》电影官方宣布，即将登陆第 24 届上海电影节 IMAX 展映单元 。6 月 5 日 8 点整开启抢票，售票平台为淘票票。传奇再现，兄弟们即将重逢 ，6 月上海，不见不散！\n 阅读全文",
+          "link": "https://hot.cnbeta.com/articles/movie/1136655.htm",
+          "publishedOn": "2021-06-04T06:16:03.000Z",
+          "wordCount": 238,
+          "title": "《魔兽》电影将登陆上影节展映单元 6 月 5 日开启抢票"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/soft/1136653.htm",
+          "author": "ugmbbc",
+          "description": "前几天NVIDIA发布了RTX 3080 Ti显卡，国行售价8999元。现在首发驱动来了——GeForce 466.63正式支持RTX 3080 Ti显卡（RTX 3070 Ti还没上市，），并优化了多个游戏。其中，为《无人深空》添加NVIDIA DLSS技术主持，为《战争雷霆》和《逃离塔科夫》添加NVIDIA Reflex技术支持，《Chivalry 2》、《Sniper Ghost Warrior Contracts 2》等游戏也得到了优化更新。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/soft/1136653.htm",
+          "publishedOn": "2021-06-04T06:15:56.000Z",
+          "wordCount": 231,
+          "title": "NVIDIA发布GeForce 466.63驱动：首发支持RTX 3080 Ti显卡"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1136651.htm",
+          "author": "ugmbbc",
+          "description": "华为在心声社区今日发布了由华为轮值董事长徐直军签发的总裁办电子邮件《关于规范HarmonyOS沟通口径的通知》。通知内容显示，关于“鸿蒙操作系统”，由于内部理解不一致、对外说法不一致，容易引起混淆，经CBG讨论形成HarmonyOS，对内对外沟通统一口径：\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1136651.htm",
+          "publishedOn": "2021-06-04T06:12:48.000Z",
+          "wordCount": 186,
+          "title": "华为发布《关于规范HarmonyOS沟通口径的通知》"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1136649.htm",
+          "author": "teikaei",
+          "description": "智东西6月4日消息，苹果开发者大会（WWDC）2021将于北京时间6月8日至12日线上召开。本次活动最受期待的是iOS 15、iPadOS 15、macOS 12、watchOS 8和tvOS 15这五大操作系统的升级。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1136649.htm",
+          "publishedOn": "2021-06-04T06:05:53.000Z",
+          "wordCount": 279,
+          "title": "苹果WWDC 2021终极剧透：五大系统重磅升级，MacBook外观大改"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1136647.htm",
+          "author": "study875",
+          "description": "6 月 4 日消息，近日，“短视频版权保护的挑战与协同治理”论坛上，北京字节跳动副总裁、总编辑张辅评表示， “今年 3 月，电视剧《若你安好便是晴天》以自杀式的方法撕开了影视剧版权的痛点，揭示了一些视频平台在影视剧版权上的垄断之风。”\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1136647.htm",
+          "publishedOn": "2021-06-04T06:05:46.000Z",
+          "wordCount": 198,
+          "title": "字节跳动总编辑张辅评：一些视频平台在影视剧版权上存在垄断之风"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1136645.htm",
+          "author": "ugmbbc",
+          "description": "这周华为发布的HarmonyOS 2（也就是大家所知的鸿蒙操作系统），像一枚核弹，引爆了2021上半年相对沉寂的科技圈。一时间，HarmonyOS的落地成为了业内热议的焦点，华为鸿蒙到底能给行业带来怎样的改变？\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1136645.htm",
+          "publishedOn": "2021-06-04T06:05:18.000Z",
+          "wordCount": 190,
+          "title": "华为鸿蒙首发体验：当有一套系统 可以连接所有硬件"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1136643.htm",
+          "author": "study875",
+          "description": "6月3日，“微信安全中心”公众号发布《视频号直播常见违规内容概览》称，根据视频号直播日常安全监管过程中实际发现的违规现象，对平台上较为常见的违规内容进行梳理。视频号直播的绿色健康生态，需要大家一起创造和维护，请大家共同遵守平台内容规范。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1136643.htm",
+          "publishedOn": "2021-06-04T06:04:45.000Z",
+          "wordCount": 245,
+          "title": "微信发布直播不雅标准，禁止吃各种令人不适物品等"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1136641.htm",
+          "author": "teikaei",
+          "description": "6月4日，华尔街日报援引知情人士的消息，对冲基金亿万富翁威廉·阿克曼(William Ackman)旗下的特殊目的收购公司 Pershing Square Tontine Holding（PSTH）正在和全球最大唱片公司环球音乐（Universal Music）进行并购方面的磋商，对后者的估值约为400亿美元。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1136641.htm",
+          "publishedOn": "2021-06-04T06:03:18.000Z",
+          "wordCount": 206,
+          "title": "对冲基金大佬艾克曼拟收购环球音乐，或创造史上最大SPAC"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1136639.htm",
+          "author": "teikaei",
+          "description": "4月26日，中国的疫苗接种剂次首次赶超美国，位居世界第一。据国家卫健委网站6月3日消息，截至2021年6月2日，31个省（自治区、直辖市）和新疆生产建设兵团累计报告接种新冠病毒疫苗70482.6万剂次。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1136639.htm",
+          "publishedOn": "2021-06-04T06:01:28.000Z",
+          "wordCount": 188,
+          "title": "中国疫苗接种速度，放在世界什么水平？"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/science/1136637.htm",
+          "author": "teikaei",
+          "description": "不需“打针”，只需“吸一吸”，一种吸入式新冠疫苗已经正在申请紧急使用了。6月3日，浦江创新论坛全体大会上，军事科学院研究员、中国科协副主席、中国工程院院士陈薇表示，正在申请雾化吸入式新冠疫苗紧急使用。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/science/1136637.htm",
+          "publishedOn": "2021-06-04T06:00:52.000Z",
+          "wordCount": 187,
+          "title": "吸入式新冠疫苗正在申请紧急使用：不用打针只需吸一吸 已临床实验"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1136635.htm",
+          "author": "teikaei",
+          "description": "东京中餐馆运营商东天红的股价周五一度暴涨29%，创近四年最大日内涨幅，此前有报道称，上野动物园的大熊猫“真真”可能又怀孕了。上野动物园今年3月宣布，该动物园饲养的雌性大熊猫真真与雄性的力力进行了两次交配。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1136635.htm",
+          "publishedOn": "2021-06-04T06:00:21.000Z",
+          "wordCount": 192,
+          "title": "消息称旅日大熊猫真真再次怀孕 中餐馆东天红股价又暴涨"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1136633.htm",
+          "author": "ugmbbc",
+          "description": "苹果早在2014年的iPhone 6开始，就为手机标配了NFC功能，但是一直以来都仅支持系统内部调用，仅能实现系统自带的刷卡等功能。而近些年随着安卓手机NFC的普及，“NFC贴卡充值”这个功能令iPhone用户羡慕不已，不用专门前往营业厅或地铁站，随时随地都能充值，为用户省下了不少的时间。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1136633.htm",
+          "publishedOn": "2021-06-04T05:59:58.000Z",
+          "wordCount": 206,
+          "title": "iPhone NFC终于开放 公交卡充值功能上线"
+        },
+        {
+          "id": "https://hot.cnbeta.com/articles/movie/1136631.htm",
+          "author": "study875",
+          "description": "由休·杰克曼主演的科幻悬疑电影《追忆迷局》发布了最新预告片。该片将由丽莎·乔伊 （Lisa Joy） 导演编剧，乔纳森·诺兰监制。这对夫妻档也曾负责过爆火科幻美剧《西部世界》的编剧、导演职位。\n 阅读全文",
+          "link": "https://hot.cnbeta.com/articles/movie/1136631.htm",
+          "publishedOn": "2021-06-04T05:59:33.000Z",
+          "wordCount": 220,
+          "title": "休·杰克曼主演科幻悬疑电影《追忆迷局》最新预告 8 月 20 日影院 HBO Max 同步上映"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1136629.htm",
+          "author": "study875",
+          "description": "众所周知由于芯片产能严重不足再加上虚拟货币矿老板挖矿需求等等原因，普通玩家买到一块新显卡都比较困难，更别说是新出的显卡了。在美国达拉斯的一家 Micro Center 商店中就发生了众人疯狂抢卡事件，现场情况堪比“零元购”。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1136629.htm",
+          "publishedOn": "2021-06-04T05:58:10.000Z",
+          "wordCount": 205,
+          "title": "激动的心颤抖的手 显卡售卖混乱现场重现"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1136627.htm",
+          "author": "ugmbbc",
+          "description": "6月4日消息，据媒体报道，东风风行将于6月10日举办发布会，宣布品牌进入全系焕新的新阶段。届时，东风风行品牌旗下全系车型或将统一切换成全新“劲狮标”。另外，在活动当天，全新概念车也将进行首发。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1136627.htm",
+          "publishedOn": "2021-06-04T05:54:48.000Z",
+          "wordCount": 189,
+          "title": "劲狮标来了！东风风行将于10日开启全系车型换标行动"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1136625.htm",
+          "author": "study875",
+          "description": "日前，有消息称全球几大晶圆代工厂将二季度代工价较上一季度再次上调10-20%，整体涨幅与第一季度相似。但从个别合同来看，部分代工价涨幅高达50%。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1136625.htm",
+          "publishedOn": "2021-06-04T05:53:12.000Z",
+          "wordCount": 187,
+          "title": "韩媒称个别晶圆代工价涨超50%，半导体设备价格飞涨"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1136623.htm",
+          "author": "study875",
+          "description": "长视频短视频对阵不是一天两天了，双方积怨如今汇集到网络视听大会现场。6 月 3 日“第九届中国网络视听大会”上，互相烧钱竞争了多年的爱优腾（爱奇艺、优酷、腾讯）站成一派，三箭齐发抨击短视频行业，抖音、快手 、B 站成为矛头指向的焦点。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1136623.htm",
+          "publishedOn": "2021-06-04T05:52:17.000Z",
+          "wordCount": 251,
+          "title": "中国网络视听大会成“大型修罗场” 爱优腾抱团“锤”抖音 B 站"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1136621.htm",
+          "author": "study875",
+          "description": "据报道，知情人士透露，苹果正在开发配有无线充电功能的新款 iPad Pro， 并将进行 6 年来的首次 iPad mini 改版，希望借此延续这一系列产品在疫情期间的强劲销售势头。知情人士表示，苹果计划在 2022 年推出新款 iPad Pro， 并于今年晚些时候发布 iPad mini。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1136621.htm",
+          "publishedOn": "2021-06-04T05:50:19.000Z",
+          "wordCount": 316,
+          "title": "消息称苹果计划明年发布新款iPad Pro 6年来首次改版iPad mini"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1136617.htm",
+          "author": "raymon725",
+          "description": "作为业内领先的嵌入式存储器制造商之一，创见（Transcend）刚刚刷新了面向工业应用的高性价比固态硬盘产品线。为满足智能边缘类应用不断增长的市场需求，其中涵盖了 PCIe NVMe / SATA III 接口的 2.5 英寸与 M.2 外形的 SSD 新品，特点是采用了无 DRAM 缓存的设计、辅以 96 层 3D NAND 闪存。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1136617.htm",
+          "publishedOn": "2021-06-04T05:46:15.000Z",
+          "wordCount": 241,
+          "title": "创见发布无DRAM缓存的嵌入式固态硬盘产品线"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1136615.htm",
+          "author": "study875",
+          "description": "根据彭博社消息，苹果正在开发一款类似于 AirPower 的无线充电配件。苹果想要推出一款支持多设备同时无线充电的配件。苹果在 2017 年 9 月首次发布 AirPower， 也就是 iPhone X 发布会上。苹果当时表示 ，AirPower 会在 2018 年底发布，不过到 2019 年 3 月，苹果宣布 AirPower 已经取消。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1136615.htm",
+          "publishedOn": "2021-06-04T05:45:15.000Z",
+          "wordCount": 217,
+          "title": "苹果仍在开发类似 AirPower 的充电设备，并探索远距离无线充电"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/science/1136613.htm",
+          "author": "teikaei",
+          "description": "据外媒报道，研究人员发现了一种维持糖尿病小鼠胰岛素水平的方法，方法是培养和植入产生这种激素的新的β细胞。这些细胞被安置在一个像鲨鱼笼一样的小装置中，这可以起到保护它们免受动物免疫系统伤害的作用。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/science/1136613.htm",
+          "publishedOn": "2021-06-04T05:44:14.000Z",
+          "wordCount": 186,
+          "title": "新型“鲨鱼笼”装置：让植入物保护糖尿病小鼠的胰岛细胞"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1136611.htm",
+          "author": "raymon725",
+          "description": "由 AMD 在 YouTube 上发布的一段未公开视频可知，红色小队正在积极酝酿采用 Navi 21 系列 GPU SKU 的 Radeon Pro 专业显卡产品线。WCCFTech 指出，视频片段中展示的外观配色与端口组合，很难不让人联想到基于 Navi 21 的 Radeon W6800 / W6900X 专业卡。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1136611.htm",
+          "publishedOn": "2021-06-04T05:33:51.000Z",
+          "wordCount": 317,
+          "title": "预告泄露：AMD将推基于Navi 21的Radeon Pro W6000系列专业卡"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1136609.htm",
+          "author": "raymon725",
+          "description": "在商务部长吉娜·雷蒙多的陪同下，美国副总统卡马拉·哈里斯于本周四在白宫宣布了一项将近 10 亿美元的新拨款。作为 2021 年度《综合拨款法案》的一部分，其旨在改善部落地区的宽带互联网速率。与此同时，首位担任内政部长的美洲原住民黛布·哈兰德，也通过远程方式参与了活动发言。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1136609.htm",
+          "publishedOn": "2021-06-04T05:16:35.000Z",
+          "wordCount": 204,
+          "title": "拜登政府将为改善美国部落地区宽带接入再拨款近10亿美元"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/science/1136607.htm",
+          "author": "teikaei",
+          "description": "据外媒报道，由来自伦敦大学学院一名研究人员领导的一项新综述研究显示，疲劳和抑郁等神经和精神症状在COVID-19患者中非常常见，在轻症患者中可能也同样常见。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/science/1136607.htm",
+          "publishedOn": "2021-06-04T05:05:09.000Z",
+          "wordCount": 192,
+          "title": "研究：疲劳抑郁等神经和精神症状在新冠轻症患者中非常常见"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1136605.htm",
+          "author": "raymon725",
+          "description": "三星电子刚刚为 Galaxy A 系列智能机家族带来了两款入门新机，分别是 Galaxy A22 和 Galaxy A22 5G 机型。尽管售价不高，Galaxy A22 还是配备了支持 90Hz 高刷新率、以及 HD+ 分辨率的 6.4 英寸 AMOLED 水滴形刘海屏。此外两款设备都使用了侧面指纹方案，且预装了基于 Android 11 定制的 OneUI 软件。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1136605.htm",
+          "publishedOn": "2021-06-04T04:37:08.000Z",
+          "wordCount": 341,
+          "title": "三星发布Galaxy A22与Galaxy A22 5G入门新机"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/science/1136603.htm",
+          "author": "raymon725",
+          "description": "美国宇航局（NASA）刚刚在 Twitter 上分享了一张展示火星广阔岩石地面的照片，但左侧天空突兀的一个物体，却让不少网友浮想联翩。一位网友惊讶地问道，图左那个奇怪的物体是否“死星”？结果喷气动力实验室（JPL）冷酷地答道：“那其实只是机智号火星无人机的一条腿”。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/science/1136603.htm",
+          "publishedOn": "2021-06-04T04:10:58.000Z",
+          "wordCount": 194,
+          "title": "NASA澄清机智号的一条腿误入镜头《星战》死星影迷再度失望"
+        },
+        {
           "id": "https://hot.cnbeta.com/articles/music/1136601.htm",
           "author": "study875",
           "description": "梅赛德斯本周三发布公告，奔驰的 MBUX 车载信息娱乐系统将原生整合 Apple Music 服务。事实上，Apple Music 并不是第一个进入 MBUX 的流媒体平台，但对于 iPhone 用户来说无疑会带来体验上的巨大提升。目前 MBUX 系统已集成 Spotify、Tidal 和 Amazon Music，可以让用户访问多达 7500 万首歌曲。\n 阅读全文",
