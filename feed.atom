@@ -2,10 +2,54 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://lvytwjw.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-04T15:34:48.519Z</updated>
+    <updated>2021-06-04T17:09:23.394Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://lvytwjw.github.io/rss/index.html"/>
     <link rel="self" href="https://lvytwjw.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[传苹果正在开发入门级iPad 9  更轻更薄针对学生用户]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1136849.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1136849.htm"/>
+        <updated>2021-06-04T16:47:10.000Z</updated>
+        <summary type="html"><![CDATA[苹果最近发布了新的iPad Pro，采用miniLED面板和强大的M1处理器。不过，iPad Pro设计语言保持不变。目前的设计最初是在2018年亮相的，此后只进行了小幅调整。然而，一份新的报告表明，苹果正在研究iPad Pro的玻璃背面，用于无线充电。此外，该报告还提到，该公司正在开发一款更薄的入门级iPad 9，它将面向学生。
+ 阅读全文]]></summary>
+        <author>
+            <name>maomao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[研究发现古南极洲在上个冰河时代并不非常寒冷]]></title>
+        <id>https://www.cnbeta.com/articles/science/1136847.htm</id>
+        <link href="https://www.cnbeta.com/articles/science/1136847.htm"/>
+        <updated>2021-06-04T16:34:49.000Z</updated>
+        <summary type="html"><![CDATA[重建古代温度的两种方法研究，使气候研究人员更好地了解在大约2万年前的最后一个冰期南极洲到底有多冷。南极洲是当今地球上最冷的地方，在上个冰河时代甚至更冷。几十年来，科学研究认为南极洲冰期温度平均比现在低约9摄氏度。
+ 阅读全文]]></summary>
+        <author>
+            <name>maomao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[研究人员设计速度惊人的引擎 只以信息作为燃料]]></title>
+        <id>https://www.cnbeta.com/articles/science/1136845.htm</id>
+        <link href="https://www.cnbeta.com/articles/science/1136845.htm"/>
+        <updated>2021-06-04T16:12:12.000Z</updated>
+        <summary type="html"><![CDATA[发表在《美国国家科学院院刊》的一篇论文显示，西蒙弗雷泽大学研究人员设计了一个速度惊人的引擎，它可以利用一种新的燃料 - 信息。这一引擎开发将微观粒子随机抖动转化为储存的能量，并可能导致计算机和生物纳米技术在速度和成本方面的重大进步。
+ 阅读全文]]></summary>
+        <author>
+            <name>maomao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[天体物理学新研究可能有助于阐明地球上的生命起源]]></title>
+        <id>https://www.cnbeta.com/articles/science/1136843.htm</id>
+        <link href="https://www.cnbeta.com/articles/science/1136843.htm"/>
+        <updated>2021-06-04T15:56:59.000Z</updated>
+        <summary type="html"><![CDATA[佛罗里达理工大学天体生物学助理教授Manasvi Lingam与来自瑞士洛桑联邦理工学院和意大利罗马大学的研究人员一起，最近完成了论文《在天体物理环境中检测星际泛生的可行性》，该论文已被《天文学杂志》接受发表。
+ 阅读全文]]></summary>
+        <author>
+            <name>maomao</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[中国银行江西省分行推出“三胎贷”引发关注 官方回应：已下架并不再推广]]></title>
         <id>https://www.cnbeta.com/articles/tech/1136841.htm</id>

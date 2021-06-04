@@ -1268,6 +1268,42 @@
       "siteUrl": "https://www.cnbeta.com",
       "articles": [
         {
+          "id": "https://www.cnbeta.com/articles/tech/1136849.htm",
+          "author": "maomao",
+          "description": "苹果最近发布了新的iPad Pro，采用miniLED面板和强大的M1处理器。不过，iPad Pro设计语言保持不变。目前的设计最初是在2018年亮相的，此后只进行了小幅调整。然而，一份新的报告表明，苹果正在研究iPad Pro的玻璃背面，用于无线充电。此外，该报告还提到，该公司正在开发一款更薄的入门级iPad 9，它将面向学生。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1136849.htm",
+          "publishedOn": "2021-06-04T16:47:10.000Z",
+          "wordCount": 210,
+          "title": "传苹果正在开发入门级iPad 9  更轻更薄针对学生用户"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/science/1136847.htm",
+          "author": "maomao",
+          "description": "重建古代温度的两种方法研究，使气候研究人员更好地了解在大约2万年前的最后一个冰期南极洲到底有多冷。南极洲是当今地球上最冷的地方，在上个冰河时代甚至更冷。几十年来，科学研究认为南极洲冰期温度平均比现在低约9摄氏度。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/science/1136847.htm",
+          "publishedOn": "2021-06-04T16:34:49.000Z",
+          "wordCount": 184,
+          "title": "研究发现古南极洲在上个冰河时代并不非常寒冷"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/science/1136845.htm",
+          "author": "maomao",
+          "description": "发表在《美国国家科学院院刊》的一篇论文显示，西蒙弗雷泽大学研究人员设计了一个速度惊人的引擎，它可以利用一种新的燃料 - 信息。这一引擎开发将微观粒子随机抖动转化为储存的能量，并可能导致计算机和生物纳米技术在速度和成本方面的重大进步。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/science/1136845.htm",
+          "publishedOn": "2021-06-04T16:12:12.000Z",
+          "wordCount": 189,
+          "title": "研究人员设计速度惊人的引擎 只以信息作为燃料"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/science/1136843.htm",
+          "author": "maomao",
+          "description": "佛罗里达理工大学天体生物学助理教授Manasvi Lingam与来自瑞士洛桑联邦理工学院和意大利罗马大学的研究人员一起，最近完成了论文《在天体物理环境中检测星际泛生的可行性》，该论文已被《天文学杂志》接受发表。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/science/1136843.htm",
+          "publishedOn": "2021-06-04T15:56:59.000Z",
+          "wordCount": 185,
+          "title": "天体物理学新研究可能有助于阐明地球上的生命起源"
+        },
+        {
           "id": "https://www.cnbeta.com/articles/tech/1136841.htm",
           "author": "ugmbbc",
           "description": "近日，开放三胎(确切地说是三孩)政策引发广泛关注，不少人开始蹭这个热点，也引来了诸多争议。比如中国银行江西分行，就推出面了向三胎家庭的“生育消费贷”。适用对象是已婚、20-50岁完全民事行为能力自然人，怀孕满6个月至幼儿两周岁，一二三胎家庭分别可最高申请10万、20万、30万元贷款，\n 阅读全文",
