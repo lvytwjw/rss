@@ -1245,6 +1245,321 @@
       "siteUrl": "https://www.cnbeta.com",
       "articles": [
         {
+          "id": "https://www.cnbeta.com/articles/science/1136733.htm",
+          "author": "teikaei",
+          "description": "据外媒报道，宾夕法尼亚大学的研究人员开发了一种电子鼻，它可以从血浆样本中嗅出癌症的迹象。在测试中，该设备能够检测一系列癌症类型且准确率超过90%。挥发性有机化合物(VOC)是产生气味的化学物质，不同的来源会释放不同的混合物。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/science/1136733.htm",
+          "publishedOn": "2021-06-04T08:41:27.000Z",
+          "wordCount": 189,
+          "title": "新型电子鼻能嗅出血液样本中的癌症迹象，准确率超90%"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1136731.htm",
+          "author": "study875",
+          "description": "根据 TrendForce 的最新调查结果，在 2021 年第 2 季度中受服务器出货量增长影响，企业 SSD 的采购量在一直不断上升。在数据中心 SSD 出货量中，8TB 容量产品的份额增长最为明显，这种趋势在第 3 季度将会继续保持。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1136731.htm",
+          "publishedOn": "2021-06-04T08:36:56.000Z",
+          "wordCount": 249,
+          "title": "TrendForce：第3季度企业SSD价格将环比上涨10%-15%"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1136729.htm",
+          "author": "teikaei",
+          "description": "据美联社纽约6月2日报道，最近世界上最大的肉类加工企业和美国最大的输油管道都遭到“勒索软件”的攻击，引发世人瞩目。这些事件突出表明，敲诈勒索的黑客团伙会扰乱经济，并置生命和生计于危险之中。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1136729.htm",
+          "publishedOn": "2021-06-04T08:29:47.000Z",
+          "wordCount": 185,
+          "title": "外媒：勒索软件为何如此危险且难阻止"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1136727.htm",
+          "author": "raymon725",
+          "description": "早在 2019 年 7 月，AMD 就已经为其锐龙台式处理器提供了支持 PCIe 4.0 的 X570 主板。不过为了让高性能芯片组保持凉爽，厂商也普遍为其提供了主动式散热风扇，但这也劝退了不少不想被噪声打扰的消费者。随着时间快进至 2021 年，我们也终于在 6 月开幕的台北电脑展（Computex 2021）期间，见到了许多采用无风扇式设计的 X570S 系列芯片组。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1136727.htm",
+          "publishedOn": "2021-06-04T08:26:15.000Z",
+          "wordCount": 408,
+          "title": "华擎发布X570S与B550系列PG Riptide主板新品"
+        },
+        {
+          "id": "https://hot.cnbeta.com/articles/movie/1136725.htm",
+          "author": "ugmbbc",
+          "description": "6月4日消息，腾讯副总裁孙忠怀批低智洗脑短视频的一段话在微博疯传。据媒体报道，在第九届中国网络视听大会上，腾讯副总裁孙忠怀称部分低智低俗短视频长期影响用户心智。孙忠怀表示，现在短视频平台的个性推荐实在太强大了，你喜欢“猪食”看到的就全是“猪食”。\n 阅读全文",
+          "link": "https://hot.cnbeta.com/articles/movie/1136725.htm",
+          "publishedOn": "2021-06-04T08:24:00.000Z",
+          "wordCount": 191,
+          "title": "腾讯副总裁批低智短视频像猪食 编剧：又是谁在生产长视频猪食"
+        },
+        {
+          "id": "https://hot.cnbeta.com/articles/game/1136723.htm",
+          "author": "study875",
+          "description": "Taito 是日本的一家视频游戏发行商，主打特色就是以迷你主机的形式运行复古旧硬件。该公司此前曾发布了《Space Invaders》和《Bubble Bobble》等经典游戏，现在该公司推出了 Egret II Mini，这和世嘉的 Astro City Mini 一样，是一个流行街机的缩小版。\n 阅读全文",
+          "link": "https://hot.cnbeta.com/articles/game/1136723.htm",
+          "publishedOn": "2021-06-04T08:23:28.000Z",
+          "wordCount": 268,
+          "title": "[图]屏幕可旋转 日本游戏厂商Taito推出Egret II Mini街机"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1136721.htm",
+          "author": "vivian",
+          "description": "6月4日消息，有网友爆料称，“泡泡玛特公司面试单，直接询问近期是否有生育计划，还仅限女性”，对此泡泡玛特PR人员发表回应，称个别分公司招聘文件未按总公司要求调整。过去几年公司快速发展过程中管理上出现了一些问题。对此，我们高度重视并积极改进。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1136721.htm",
+          "publishedOn": "2021-06-04T08:22:38.000Z",
+          "wordCount": 188,
+          "title": "泡泡玛特回应招聘歧视女性一事：诚恳道歉 系分公司招聘文件未调整所致"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1136719.htm",
+          "author": "teikaei",
+          "description": "6月4日消息，据国外媒体报道，虽然去年下半年就已传出了芯片代工商产能紧张的消息，但芯片供应紧张，在今年年初才开始从汽车领域显现，随后延伸到了智能手机、家电等领域。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1136719.htm",
+          "publishedOn": "2021-06-04T08:15:43.000Z",
+          "wordCount": 191,
+          "title": "台积电正加速扩充产能 以应对不同行业强劲需求"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1136717.htm",
+          "author": "vivian",
+          "description": "6月2日，鸿蒙操作系统正式发布。其实，在此之前，武汉大学已率先开设全国高校第一个鸿蒙移动编程技术课程。课程讲授的主要内容包括鸿蒙系统的理念和设计思路；鸿蒙应用核心概念；开发工具DevEco介绍，鸿蒙开发基础和鸿蒙Java&JS前端开发等。主讲老师是赵小刚博士，现为武汉大学计算机学院软件工程系讲师，主要研究方向为云计算、绿色计算和移动计算。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1136717.htm",
+          "publishedOn": "2021-06-04T08:12:26.000Z",
+          "wordCount": 190,
+          "title": "全国高校唯一：武汉大学开设鸿蒙编程技术课程"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/science/1136715.htm",
+          "author": "vivian",
+          "description": "6月4日消息，据媒体报道，近日菲律宾的一个海洋研究团队在世界第三深海沟——菲律宾海沟的探测活动中有了意外发现。在深海潜水艇下潜到10540米深的海底后，科研人员竟然发现大量塑料垃圾，从塑料包装到衬衫、裤子、玩偶熊等应有尽有。科研人员将这一幕称为:“就像在逛超市” 。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/science/1136715.htm",
+          "publishedOn": "2021-06-04T08:11:02.000Z",
+          "wordCount": 187,
+          "title": "世界第三海沟一万米深处发现大量垃圾：塑料包装、裤子等应有尽有"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1136713.htm",
+          "author": "teikaei",
+          "description": "对于沃尔沃这样一款豪华品牌，不少消费者调侃道，买的时候不知道是豪车，修车的时候就知道了。不过，近些年来，为了提振品牌销量，沃尔沃在售价和售后保养方面，都给出了巨大的让利优惠。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1136713.htm",
+          "publishedOn": "2021-06-04T08:02:31.000Z",
+          "wordCount": 188,
+          "title": "修车时才知是豪车？中保研零整比发布：沃尔沃XC60同级最低"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1136711.htm",
+          "author": "raymon725",
+          "description": "荷兰科技博客 LetsGoDigital 报道称，三星显示器（Samsung Display）公司于 2021 年 6 月 3 日向欧盟（EUIPO）和英国知识产权局（UKIPO）提交了两项与 OLED 屏幕相关的商标申请。此前，该公司已经提交过另一项与“钻石排列”相关的“Round Diamond Pixel”商标申请，预计它们都有望被即将到来的 Galaxy 智能机等电子产品所使用。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1136711.htm",
+          "publishedOn": "2021-06-04T07:56:22.000Z",
+          "wordCount": 266,
+          "title": "三星提交Eco OLED商标申请 或用于Galaxy智能机与电视屏幕"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1136709.htm",
+          "author": "raymon725",
+          "description": "随着环保意识的逐渐提升，传统燃油校车也正在被电动版本给取代。作为业内领先的制造商之一，比亚迪也于近日在官网上宣布了一款新品，它就是支持双向充电的 Type-D 电动校车。尽管戴姆勒和加拿大 Lion Buds 等竞争对手也有推出 35 / 38 / 40 英尺（10 / 11.5 / 12 米）的竞品，但比亚迪 Type-D 仍拥有相当强大的实力。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1136709.htm",
+          "publishedOn": "2021-06-04T07:41:50.000Z",
+          "wordCount": 237,
+          "title": "比亚迪推出支持双向充电的Type-D电动校车"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1136707.htm",
+          "author": "study875",
+          "description": "近段时间，因为女车主车顶维权，以及全网热议“特斯拉刹车失灵”事件，致使特斯拉不时登上国内的舆论热搜。因为负面舆论频出，特斯拉的销量也不可避免的会出现一定的影响。据特斯拉公布的数据显示，4 月份特斯拉电动车全球共销售 5.3 万辆，虽然较去年同期增长 243.08%， 但环比 3 月份出现了 43.44% 大幅下跌。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1136707.htm",
+          "publishedOn": "2021-06-04T07:41:03.000Z",
+          "wordCount": 245,
+          "title": "网传特斯拉 5 月销量破 2 万辆 环比 4 月暴涨近 100%"
+        },
+        {
+          "id": "https://hot.cnbeta.com/articles/funny/1136705.htm",
+          "author": "study875",
+          "description": "近日，据福州网友爆料自己家楼下中邮大药房刚刚成立奶茶店，名为邮氧的茶。据了解，该奶茶店提供的品类包括纯茶、奶茶、水果茶和果奶，茶饮价格在 7-23 元不等。\n 阅读全文",
+          "link": "https://hot.cnbeta.com/articles/funny/1136705.htm",
+          "publishedOn": "2021-06-04T07:40:13.000Z",
+          "wordCount": 201,
+          "title": "中国邮政开奶茶店了 网友：包邮到家吗？"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1136703.htm",
+          "author": "study875",
+          "description": "近日，安徽滁州中院法拍一件刑事案件被执行人的游戏王“青眼白龙”纪念卡牌，起拍价 80 元。目前，这件张卡牌已有超万人报名 ，4 万多人设置提醒 ，39 万人次围观。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1136703.htm",
+          "publishedOn": "2021-06-04T07:38:20.000Z",
+          "wordCount": 220,
+          "title": "“青眼白龙”游戏王卡牌遭法拍：起拍价 80 元 市场价数十万"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1136701.htm",
+          "author": "study875",
+          "description": "随着越来越多的公司在其软件中依赖开源组件，保护这些组件的安全变得越来越重要。在今天进行的一项Google活动中，开源专家探讨了如何确保开源软件的安全。援引外媒 Dark Reading 报道，这些讨论的话题还包括公司应该优先考虑什么，以及采取什么样的措施来改善开源安全的现状。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1136701.htm",
+          "publishedOn": "2021-06-04T07:36:39.000Z",
+          "wordCount": 210,
+          "title": "谷歌专家探讨开源软件安全的挑战和解决方案"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1136699.htm",
+          "author": "teikaei",
+          "description": "日前，我们从蔚来汽车官方获悉，自今日起，蔚来将分批对当前版本为2.10.0及以上的车辆进行推送NIO OS 2.10.1版本的更新。此版本主要包含针对电池管理系统（BMS）的优化，也包含历史版本中一些体验问题的优化和修复。详细内容如下：\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1136699.htm",
+          "publishedOn": "2021-06-04T07:30:40.000Z",
+          "wordCount": 198,
+          "title": "优化电池管理系统 蔚来NIO OS推送最新升级"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1136697.htm",
+          "author": "teikaei",
+          "description": "日前，沃尔沃官方正式开启了旗下纯电动轿跑SUV——C40 Recharge的预订，荷兰、挪威、瑞典及英国是首批开始接受预订的国家，其它海外市场在未来几周之内也会陆续开放。据悉，沃尔沃XC40Recharge预计将在今年秋季于比利时根特工厂投产，按计划，新车将于2022年引入国内。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1136697.htm",
+          "publishedOn": "2021-06-04T07:30:09.000Z",
+          "wordCount": 199,
+          "title": "沃尔沃C40开放预订 将于今年秋季投产"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1136695.htm",
+          "author": "teikaei",
+          "description": "近日，有海外媒体曝光了宝马iDrive 8系统的实机图片。这套最新的系统在今年3月正式发布，包括了全新BMW曲面显示屏、经过重新设计的控制元件和软件界面，以及更强大的数据处理能力。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1136695.htm",
+          "publishedOn": "2021-06-04T07:29:30.000Z",
+          "wordCount": 211,
+          "title": "BMW iDrive 8实机曝光 iX车型将率先搭载"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1136693.htm",
+          "author": "teikaei",
+          "description": "日前，有外媒曝光了一组宝马i4的实车图。宝马i4基于CLAR纯电平台打造，i4 eDrive40的起售价为55400美元（约35.35万元人民币），而i4 M50起售价为65900美元（约42.08万元人民币），预计将在2022年第一季度在北美市场销售。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1136693.htm",
+          "publishedOn": "2021-06-04T07:28:56.000Z",
+          "wordCount": 195,
+          "title": "起售价约35.35万人民币 宝马i4实车图曝光"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1136691.htm",
+          "author": "teikaei",
+          "description": "“一入盲盒深似海，从此钱包是路人。”在国内潮玩盲盒圈里，泡泡玛特是绝对的先驱者。它首次将盲盒玩法引入中国，在年轻消费者群体中引发空前的“盲盒热”，让大家心甘情愿掏空钱包。就在去年12月份，泡泡玛特成功上市，坐稳了“盲盒第一股”的位置。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1136691.htm",
+          "publishedOn": "2021-06-04T07:26:42.000Z",
+          "wordCount": 191,
+          "title": "曝泡泡玛特面试需填生育计划 网友热议：涉嫌歧视女性"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/science/1136689.htm",
+          "author": "teikaei",
+          "description": "据外媒报道，虽然我们今天穿的面料可以保暖、保护我们不受恶劣天气的伤害，但科学家们仍在继续展示它们很快就会发挥更大的作用。来自麻省理工学院(MIT)的科学家Yoel Fink十多年来一直处于这一领域的前沿，日前，他又取得了一项重大突破，其展示了世界上第一个可以存储和处理信息的数字纤维及其他一些令人兴奋的功能。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/science/1136689.htm",
+          "publishedOn": "2021-06-04T07:26:12.000Z",
+          "wordCount": 185,
+          "title": "MIT打造出世界首个数字织物：可收集、存储和处理数据"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1136687.htm",
+          "author": "vivian",
+          "description": "日本厚生劳动省当地时间6月4日公布的人口动态统计数据显示，2020年，日本出生人口仅840832人，较上年减少24407人，创1899年有统计以来新低。在新冠肺炎疫情扩散的背景下，日本的少子化程度进一步加剧。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1136687.htm",
+          "publishedOn": "2021-06-04T07:13:42.000Z",
+          "wordCount": 194,
+          "title": "2020年日本出生人口约84万人 创有统计以来新低"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1136685.htm",
+          "author": "study875",
+          "description": "近日，河南洛阳一男童拍坏电影院银幕、家长拒绝赔偿引发网友热议。6 月 4 日消息，据媒体报道，影院方对记者表示，双方仍未协商一致，影院方决定提起法律诉讼。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1136685.htm",
+          "publishedOn": "2021-06-04T07:10:40.000Z",
+          "wordCount": 201,
+          "title": "银幕被男童拍坏 影院起诉家长：原先要求赔一万五 现在误工费也算上"
+        },
+        {
+          "id": "https://hot.cnbeta.com/articles/movie/1136683.htm",
+          "author": "teikaei",
+          "description": "近日据外媒Deadline报道，功夫巨星甄子丹加盟动作片《疾速追杀4》，在片中饰演约翰·威克的一位老朋友。两人有着相同经历，并且有很多相同的敌人。甄子丹是中国著名演员、导演、武术指导，以独特的战斗风格而闻名。\n 阅读全文",
+          "link": "https://hot.cnbeta.com/articles/movie/1136683.htm",
+          "publishedOn": "2021-06-04T07:10:27.000Z",
+          "wordCount": 201,
+          "title": "甄子丹加盟《疾速追杀4》 与基努联手对抗敌人"
+        },
+        {
+          "id": "https://hot.cnbeta.com/articles/movie/1136681.htm",
+          "author": "teikaei",
+          "description": "虽然2023年6月2日才上映，但导演大卫·桑德伯格还是忙不迭地在社交媒体发布了《雷霆沙赞2》先导中字预告，沙赞全新战袍亮相，还有……风格相当暗黑，相当DC！\n 阅读全文",
+          "link": "https://hot.cnbeta.com/articles/movie/1136681.htm",
+          "publishedOn": "2021-06-04T07:07:48.000Z",
+          "wordCount": 189,
+          "title": "《雷霆沙赞2》首曝先导中字预告"
+        },
+        {
+          "id": "https://hot.cnbeta.com/articles/movie/1136679.htm",
+          "author": "teikaei",
+          "description": "6月4日消息，《碟中谍7》的拍摄已停止，因为有至少一名剧组成员新冠检测结果为阳性。此事将导致该片拍摄暂停14天，阳性结果的人员做自我隔离。片方声明确认了此事，表示会在6月14日复拍，并强调该片拍摄一直遵守了安全规章，以后也会继续。\n 阅读全文",
+          "link": "https://hot.cnbeta.com/articles/movie/1136679.htm",
+          "publishedOn": "2021-06-04T07:04:47.000Z",
+          "wordCount": 198,
+          "title": "剧组成员感染新冠 《碟中谍7》再次停拍"
+        },
+        {
+          "id": "https://hot.cnbeta.com/articles/movie/1136677.htm",
+          "author": "teikaei",
+          "description": "今日(6月4日)Netflix官方宣布，《王国》外传《王国：阿信传》将于7月23日上线Netflix。官方还公布了定档预告片，“要让死人复活，就得付出代价”。一起来欣赏下视频吧！\n 阅读全文",
+          "link": "https://hot.cnbeta.com/articles/movie/1136677.htm",
+          "publishedOn": "2021-06-04T07:03:54.000Z",
+          "wordCount": 191,
+          "title": "王国外传《王国：阿信传》7月23日上线 全智贤主演"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1136675.htm",
+          "author": "study875",
+          "description": "Sirin Labs 是一家移动网络安全公司，在 2018 年曾推出过内嵌冷存储加密货币钱包的区块链智能手机。现在该公司推出了一款新的智能手机，名为 Sirin V3。事实上，它就是一款注重安全保护的 Galaxy S21，售价为 2650 美元。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1136675.htm",
+          "publishedOn": "2021-06-04T07:03:16.000Z",
+          "wordCount": 217,
+          "title": "Sirin V3发布：带硬件保护的Galaxy S21 售价2650美元"
+        },
+        {
+          "id": "https://hot.cnbeta.com/articles/movie/1136673.htm",
+          "author": "teikaei",
+          "description": "之前《无主之地》电影官方公布了凯特·布兰切特扮演的魔女莉莉丝剪影照，近日官方又发布了多张新的角色剪影照，一起来看看吧！此次剪影照包含凯文·哈特饰演的罗兰、杰米·李·柯蒂斯饰演的派翠西亚·坦尼斯、阿丽亚娜·格林布拉特饰演的小蒂娜、弗罗里安·穆特鲁饰演的克里格、杰克·布莱克配音的机器人小吵闹。\n 阅读全文",
+          "link": "https://hot.cnbeta.com/articles/movie/1136673.htm",
+          "publishedOn": "2021-06-04T07:02:32.000Z",
+          "wordCount": 202,
+          "title": "《无主之地》电影新剪影照公布 罗兰小吵闹等亮相"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1136671.htm",
+          "author": "teikaei",
+          "description": "据外媒报道，据报道，在一个监督委员会审查了Facebook无限期停职美国前总统唐纳德·特朗普的决定后，Facebook计划改变其处理政客言论的方式。据The Verge、《纽约时报》和《华盛顿邮报》周四报道，Facebook不再自动地认为政客的帖子具有新闻价值，并且即使它违反了社交网络的规则也应该被默认保留下来。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1136671.htm",
+          "publishedOn": "2021-06-04T07:01:47.000Z",
+          "wordCount": 191,
+          "title": "据称Facebook正在计划改变其处理政治言论的方式"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/science/1136669.htm",
+          "author": "teikaei",
+          "description": "据外媒报道，海洋冰的厚度是通过测量冰在水面上的高度来推断的，而这种测量由于雪使浮冰下沉而失真。科学家们使用了一幅已经过时几十年的北极雪深图来对此进行调整，然而这幅图并没有考虑到气候变化。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/science/1136669.htm",
+          "publishedOn": "2021-06-04T06:49:25.000Z",
+          "wordCount": 191,
+          "title": "研究：北极海冰变薄的速度是预期的两倍"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/science/1136667.htm",
+          "author": "study875",
+          "description": "研究表明，全球变暖可能正减少热带地区的生物多样性。目前，地球上隆起、赤道环绕的中段充满了比其他地方更多的生命多样性，当从热带地区到中纬度地区以及中纬度地区到极地时，这种生物多样性通常会减弱。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/science/1136667.htm",
+          "publishedOn": "2021-06-04T06:46:21.000Z",
+          "wordCount": 200,
+          "title": "为何水生生物种类最多的地方在热带地区？ 温度是关键"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1136665.htm",
+          "author": "raymon725",
+          "description": "有网友向 TechPowerUp 反馈称，其在 Alienware m15 游戏笔记本上看到了 GPU 规格有些不对劲的英伟达 GeForce RTX 3070 显卡。尽管官方宣称的移动版 RTX 3070 的 CUDA 核心数为 5120 个，但我们从包括 NotebookCheck 论坛在内的多个地方发现，一些用户在 CPU-Z 中看到的 CUDA 核心数却只有 4608 个。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1136665.htm",
+          "publishedOn": "2021-06-04T06:41:13.000Z",
+          "wordCount": 258,
+          "title": "网友曝光Alienware笔记本RTX 3070显卡CUDA核心数存在差异"
+        },
+        {
           "id": "https://www.cnbeta.com/articles/science/1136663.htm",
           "author": "vivian",
           "description": "据外媒报道，一个由荷兰研究人员领导的天文学家小组发现，高质量恒星的形成方式与它们较小的“兄弟姐妹”不同。小质量恒星通常被一个有序的尘埃和物质盘所包围，而大恒星的物质“供应”则是混乱的。研究人员使用阿塔卡马大型毫米波/亚毫米波阵列（ALMA）望远镜进行观察，最近在《天体物理学杂志》上发表了他们的发现。\n 阅读全文",
