@@ -470,6 +470,20 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2021/06/getting-started-webpack/",
+          "author": "hello@smashingmagazine.com (Nwani Victory)",
+          "description": "Modern browsers provide good support for JavaScript modules, but module bundlers such as webpack stay a critical part of the JavaScript toolchain. Let’s take a deep dive into what webpack is and how to use it in your development workflow.",
+          "link": "https://smashingmagazine.com/2021/06/getting-started-webpack/",
+          "publishedOn": "2021-06-04T10:00:00.000Z",
+          "wordCount": 4130,
+          "title": "Getting Started With Webpack",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/66ba7a41-2a37-471b-9c60-66a3162d8f05/webpack-dependency-graph-opt.png",
+            "length": "0",
+            "type": "image/png"
+          }
+        },
+        {
           "id": "https://smashingmagazine.com/2021/06/managing-shared-state-vue3/",
           "author": "hello@smashingmagazine.com (Shawn Wildermuth)",
           "description": "Writing large-scale Vue applications can be a challenge. In this article, Shawn Wildermuth dives into the pros and cons of approaches like factories, shared objects, and using Vuex. He also explains what is coming in Vuex 5.0 that might change how we all use shared state in Vue 3.",
@@ -1244,6 +1258,78 @@
       "feedUrl": "https://www.cnbeta.com/backend.php",
       "siteUrl": "https://www.cnbeta.com",
       "articles": [
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1136779.htm",
+          "author": "ugmbbc",
+          "description": "根据来自Emily Rogers的消息，任天堂Switch Pro游戏机本月将进入生产和组装阶段，即使它没有被正式披露。她的有关任天堂的消息一直以来都被证明非常可靠。之前任天堂E3发布会日期确定，时长将达40分钟，且完全集中在游戏方面。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1136779.htm",
+          "publishedOn": "2021-06-04T11:47:43.000Z",
+          "wordCount": 203,
+          "title": "任天堂Switch Pro本月将进入生产阶段 即使没有公布也会投产"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/science/1136777.htm",
+          "author": "ugmbbc",
+          "description": "加州大学圣地亚哥分校生物启发机器人和设计实验室的研究人员揭示了一种新的机器人设计，它能够利用连接在柔性盘上的振动马达粘附在光滑的表面上。根据发表的相关研究论文，对该系统如何工作的复杂解释被描述为 \"振动盘和表面之间的流体介导的粘附力\"。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/science/1136777.htm",
+          "publishedOn": "2021-06-04T11:36:50.000Z",
+          "wordCount": 185,
+          "title": "新设计的机器人可利用振动圆盘紧贴在天花板上"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1136775.htm",
+          "author": "ugmbbc",
+          "description": "据DigiTimes援引业内人士的话说，传闻已久、备受期待的采用苹果自研芯片的下一代16英寸MacBook Pro将在明年第一季度进入大规模生产阶段。根据该报告，较小的14英寸MacBook Pro将在今年第四季度进入 \"批量生产\"，而较大的16英寸机型则瞄准了明年第一季度。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1136775.htm",
+          "publishedOn": "2021-06-04T11:27:28.000Z",
+          "wordCount": 206,
+          "title": "下一代MacBook Pro可能要到2021年底才能够向客户发货"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1136773.htm",
+          "author": "ugmbbc",
+          "description": "据报道，特斯拉很快将进入印度市场。今年7月至8月，特斯拉将在印度测试Model 3，预计年底前正式开售。来自特斯拉方面的消息人士今日向媒体表示，特斯拉最初将评估印度大都市对电动汽车的反应。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1136773.htm",
+          "publishedOn": "2021-06-04T11:20:56.000Z",
+          "wordCount": 207,
+          "title": "特斯拉下月在印度测试Model 3 年底前正式开售"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1136771.htm",
+          "author": "raymon725",
+          "description": "美国国家海洋和大气管理局（NOAA）刚刚在 Twitter 上宣布：一种用于追踪温室气体的新技术，即将完成“商业化”的目标。具体说来是，该机构将很快在阿拉斯加航空公司运营的波音 737-9 飞机上运行这套系统，以帮助科学家们获得更多有关“人类活动如何改变气候”的信息。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1136771.htm",
+          "publishedOn": "2021-06-04T11:04:08.000Z",
+          "wordCount": 200,
+          "title": "NOAA希望在更多商业客机上安装全球温室气体数据收集器"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1136769.htm",
+          "author": "raymon725",
+          "description": "尽管许多电动汽车制造商都选择了将 EV 动力电池集中在底盘位置，以降低车子的整体重心和留下充足的储物空间。但一家名为 Page-Roberts 的英国电动汽车设计企业，却提出了一个更加有效的解决方案。通过独特的座椅布置和垂直堆叠电池设计，其得以将行驶里程提升 30% 。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1136769.htm",
+          "publishedOn": "2021-06-04T10:51:10.000Z",
+          "wordCount": 218,
+          "title": "Page-Roberts展示垂直堆叠电池概念车：座椅背靠背 续航可提升30%"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1136767.htm",
+          "author": "ugmbbc",
+          "description": "随着技术的不断成熟和各大厂商的大力推进，电动汽车在全球已有不错的销量，相关机构的数据就显示，仅在今年4月份，全球新注册的电动汽车，就超过了39万辆。从相关机构的数据来看，今年4月份，全球新注册的电动汽车共有39.2万辆，虽然未能创下新高，但也是到目前为止第4高的月份。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1136767.htm",
+          "publishedOn": "2021-06-04T10:41:06.000Z",
+          "wordCount": 202,
+          "title": "4月份全球新注册39.2万辆电动汽车 榜首并非Model 3"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1136765.htm",
+          "author": "ugmbbc",
+          "description": "据报道，欧盟委员会今日正式对Facebook展开反垄断调查，以评估Facebook是否利用从竞争对手那里收集的数据，破坏了在线分类广告市场的公平竞争。此外，欧盟委员会还在调查Facebook将自己的分类广告服务“Marketplace”嵌入其社交网络的方式，是否使其在接触客户方面具有优势，从而违反了欧盟的公平竞争法规。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1136765.htm",
+          "publishedOn": "2021-06-04T10:34:36.000Z",
+          "wordCount": 186,
+          "title": "欧盟和英国对Facebook展开反垄断调查：破坏在线广告竞争"
+        },
         {
           "id": "https://www.cnbeta.com/articles/tech/1136763.htm",
           "author": "ugmbbc",
