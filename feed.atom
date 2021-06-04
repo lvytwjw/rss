@@ -2,10 +2,65 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://lvytwjw.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-04T22:29:12.587Z</updated>
+    <updated>2021-06-04T23:32:22.896Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://lvytwjw.github.io/rss/index.html"/>
     <link rel="self" href="https://lvytwjw.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[美国五角大楼宣布启动“火箭货船”实验性军事项目]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1136895.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1136895.htm"/>
+        <updated>2021-06-04T23:17:28.000Z</updated>
+        <summary type="html"><![CDATA[五角大楼宣布美国太空军将启动一项名为“火箭货船”的实验性军事项目。该项目将对“在非传统表面降落火箭”、“设计能够快速装货、卸货的火箭货船仓”和“利用火箭货船空降货物”等方面展开研究。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BOSS直聘更新招股书：确定发行价区间17至19美元]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1136893.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1136893.htm"/>
+        <updated>2021-06-04T23:14:40.000Z</updated>
+        <summary type="html"><![CDATA[北京时间6月5日消息，在线招聘平台BOSS直聘向美国证券交易委员会（SEC）更新了招股书。招股书显示，BOSS直聘计划在纳斯达克挂牌上市，代码BZ。此次IPO由高盛、摩根士丹利、瑞银、华兴担任主承销商。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[瑞士将于7日起发放新冠证明 批准青少年接种辉瑞疫苗]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1136891.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1136891.htm"/>
+        <updated>2021-06-04T23:14:22.000Z</updated>
+        <summary type="html"><![CDATA[当地时间6月4日，瑞士联邦委员会宣布将从7日起由各州陆续发放新冠证明，该证明将以纸质或电子形式（二维码）提供，并于6月底在全境使用。瑞士新冠证明记录个人新冠疫苗接种、新冠病毒检测及新冠肺炎康复情况等信息，拟与欧盟数字绿色通行证系统兼容并相互承认。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[支付宝锦鲤中亿元大奖后抑郁了 信小呆回应“卖惨”指责]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1136889.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1136889.htm"/>
+        <updated>2021-06-04T23:10:59.000Z</updated>
+        <summary type="html"><![CDATA[2018年中了支付宝的锦鲤亿元大奖，随后辞职周游世界，最近自曝钱花光了，人也抑郁了，又被人挖出是在卖惨、哭穷，信小呆现在称不希望再被人打扰。在经历种种非议之后，信小呆日前对媒体表示，如果没有狂轰滥炸的打扰，自己现在真的挺好的。她还表示不希望媒体和其他人再打扰她的生活。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[狗主人贴告示寻狗 打印店错印成送北京房产一套]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1136887.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1136887.htm"/>
+        <updated>2021-06-04T23:09:39.000Z</updated>
+        <summary type="html"><![CDATA[近日，一则寻狗启事因承诺“送北京房产”，在网上火了。根据这则寻狗启事，北京的徐女士在丰台区丢失自己的爱犬，启事内容显示，“如有送回，本人愿意送西山甲一号XX地块X号院北门X楼X单元XXX”作为回报。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Search and Filter Components in React]]></title>
         <id>60b3480c11ffb70827ef9a88</id>
@@ -35426,16 +35481,6 @@ Chore: Excluded testing files from repo.]]></summary>
         <summary type="html"><![CDATA[How do you organize your Google Drive assets? How do you name your Dropbox Paper documents? How do you deal with comments? Let’s get it right.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Valeriia Panina)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Improving The Performance Of Shopify Themes (Case Study)]]></title>
-        <id>https://smashingmagazine.com/2021/05/improving-performance-shopify-themes-case-study/</id>
-        <link href="https://smashingmagazine.com/2021/05/improving-performance-shopify-themes-case-study/"/>
-        <updated>2021-05-06T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[When dealing with themes for large platforms and CMS, legacy issues often become a bottleneck. In this article, Carson Shold discusses how his team improved the performance and organization of their Shopify themes, and improved maintainability along the way.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Carson Shold)</name>
         </author>
     </entry>
 </feed>
