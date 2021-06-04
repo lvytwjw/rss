@@ -103,6 +103,15 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=341793",
+          "author": "Chris Coyier",
+          "description": "Colin Oakley:\n• Accessible — Use semantic HTML, and make sure we meet the WCAG 2.1 AA standard as a minimum and it works with assisted technologies (this sits alongside the DWP Accessibility Manual)\n• Agnostic — Build \n…\nThe post Principles for user-centered front-end development appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://colinoakley.medium.com/the-web-we-choose-to-build-e921510e3f1b",
+          "publishedOn": "2021-06-04T20:36:46.000Z",
+          "wordCount": 1039,
+          "title": "Principles for user-centered front-end development"
+        },
+        {
           "id": "https://css-tricks.com/?p=341968",
           "author": "Chris Coyier",
           "description": "I just joked that we’re basically getting everything we want in CSS super fast (mostly referring to container queries, my gosh, can you imagine they are actually coming?). Now we might actually get parent selectors?! As in .parent:has(.child) { …\nThe post Can I :has() appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
@@ -801,6 +810,15 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
+        {
+          "id": "60b3480c11ffb70827ef9a88",
+          "author": null,
+          "description": "If you're building a React app, you want your users to be able to search and get exact results. And if you are getting tons of items from an API, then you need to create a way for users to be able to find various items easily.",
+          "link": "https://www.freecodecamp.org/news/search-and-filter-component-in-reactjs/",
+          "publishedOn": "2021-06-04T21:34:33.000Z",
+          "wordCount": 2174,
+          "title": "How to Search and Filter Components in React"
+        },
         {
           "id": "60ba33d7acb62507dd1d9050",
           "author": null,
