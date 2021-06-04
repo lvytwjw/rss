@@ -1236,6 +1236,240 @@
       "siteUrl": "https://www.cnbeta.com",
       "articles": [
         {
+          "id": "https://www.cnbeta.com/articles/tech/1136499.htm",
+          "author": "vivian",
+          "description": "据外媒TechCrunch报道，去年收购Uber ATG的自动驾驶汽车公司Aurora组建了一个外部专家团队，在一份自我评估安全报告中分享了有关其运营的新细节，并推出了一个网站，作为更广泛努力的一部分，以赢得对有朝一日可能与之共享道路，甚至使用这种技术持谨慎态度的消费者。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1136499.htm",
+          "publishedOn": "2021-06-04T01:05:34.000Z",
+          "wordCount": 205,
+          "title": "Aurora组建外部专家团队 以促进安全工作和公众对无人驾驶汽车的信任"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1136497.htm",
+          "author": "study875",
+          "description": "私募股权基金公司黑石集团（Blackstone）将以 13 亿美元的价格收购 International Data Group (IDG) ，其中资产包括 MacWorld、ComputerWorld 等老牌科技媒体。黑石集团本周四表示，将从中国泛海控股集团旗下子公司东方彩虹公司（Oriental Rainbow）手中收购 IDG。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1136497.htm",
+          "publishedOn": "2021-06-04T01:04:30.000Z",
+          "wordCount": 225,
+          "title": "黑石集团将以13亿美元收购IDG 资产包括MacWorld等老牌科技媒体"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/science/1136495.htm",
+          "author": "teikaei",
+          "description": "据外媒报道，美国的口罩要求正在迅速放松，但许多人表示，他们计划在某些情况下继续佩戴口罩--包括在花粉季节以减少在生病时过敏的出现。大流行安全措施包括保持社交距离、佩戴口罩都减少了最近流感季节观察到的流感感染人数--它们可能还消灭了H3N2流感支链3c3.A。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/science/1136495.htm",
+          "publishedOn": "2021-06-04T00:51:25.000Z",
+          "wordCount": 186,
+          "title": "研究：口罩可能帮助消灭了两种流感病毒"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1136493.htm",
+          "author": "vivian",
+          "description": "据外媒报道，Paramount+将在周一推出其广告支持的Essential Plan，每月定价4.99美元。这个价格较低的计划将取代CBS All Access计划，该计划包括商业广告，但也允许访问当地的CBS电视台。如果用户目前订阅的是每月5.99美元的计划，可以保留它。但从周一开始，它将不再适用于新用户。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1136493.htm",
+          "publishedOn": "2021-06-04T00:51:25.000Z",
+          "wordCount": 205,
+          "title": "Paramount+将推出广告版订阅服务 每月收费4.99美元"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1136491.htm",
+          "author": "study875",
+          "description": "日本跨国集团富士胶片（Fujifilm）遭遇勒索软件攻击，被迫关闭了部分全球网络。该公司在其网站上发布的一份声明中写道：“富士胶片公司目前正对可能来自公司外部的非法访问进行调查。在调查进行中，部分网络被关闭并与外部通信断开”。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1136491.htm",
+          "publishedOn": "2021-06-04T00:47:38.000Z",
+          "wordCount": 192,
+          "title": "[图]富士遭遇勒索软件攻击 部分网络已关闭"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1136489.htm",
+          "author": "vivian",
+          "description": "据外媒The Verge报道，Facebook计划结束其有争议的政策，该政策主要是保护政治家不受适用于其他用户的内容审核规则的影响，这种急剧的逆转可能会对当选官员如何使用社交网络产生全球影响。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1136489.htm",
+          "publishedOn": "2021-06-04T00:37:04.000Z",
+          "wordCount": 199,
+          "title": "在特朗普禁令之后  Facebook将结束对政治家的特殊待遇"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/science/1136487.htm",
+          "author": "teikaei",
+          "description": "据外媒报道，根据一项新研究显示，抗抑郁药的使用在2020年新冠大流行期间飙升，其价格也因此上涨。这项来自哈德斯菲尔德大学的研究指出，处方和成本趋势突出了心理健康策略和干预的必要性从而“优化”了这些药物的使用。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/science/1136487.htm",
+          "publishedOn": "2021-06-04T00:33:04.000Z",
+          "wordCount": 186,
+          "title": "研究：抗抑郁药物的使用在新冠大流行期间激增，推动了价格上涨"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/science/1136485.htm",
+          "author": "study875",
+          "description": "量子计算机有着非常广泛的应用场景，包括创造新材料、解决数学难题等等。虽然全球诸多实验室都在推进量子计算，但仍面临非常大的挑战。其中一个核心问题就是构建稳定的量子比特（qubit），这是量子计算的基本单位。近日发表在《Nature Materials》期刊上的一项研究，为创建可靠的量子比特找到了新的候选方案。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/science/1136485.htm",
+          "publishedOn": "2021-06-04T00:31:07.000Z",
+          "wordCount": 195,
+          "title": "[图]科学家找到创建稳定量子比特的候选方案"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1136483.htm",
+          "author": "vivian",
+          "description": "作为视频对话系列的一部分，苹果公司首席执行官蒂姆-库克与马拉拉·尤萨夫扎伊就大流行病期间的生活和接下来的工作进行了讨论。对话内容包括从蒂姆-库克和马拉拉的第一次见面过程到他们对 Apple TV+节目《Ted Lasso》的喜爱。由英国《时尚》杂志主持的《对话》系列将不同的人聚集在一起，讨论他们周围的世界和事件。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1136483.htm",
+          "publishedOn": "2021-06-04T00:20:15.000Z",
+          "wordCount": 199,
+          "title": "苹果CEO库克与马拉拉谈论编程、教育、大流行病等问题"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1136481.htm",
+          "author": "teikaei",
+          "description": "现在短视频很流行，不少人在公众场合外放各种短视频，许多人都很讨厌这样的行为，现在腾讯副总也炮轰短视频之恶，称那些外放洗脑短视频的人像傻子一样。6月3日，第九届中国网络视听大会上，腾讯副总裁、在线视频首席执行官孙忠怀称部分低智低俗短视频长期影响用户心智，繁荣市场背后仍有不少低俗糟粕，博取关注的短视频内容，这些内容传播消耗了用户大量时间。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1136481.htm",
+          "publishedOn": "2021-06-04T00:19:38.000Z",
+          "wordCount": 186,
+          "title": "腾讯副总裁批低智洗脑短视频像猪食：公众场所外放像看傻子"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1136479.htm",
+          "author": "study875",
+          "description": "今日，据上海市公安局官方微信号“警民直通车上海”消息，上海市公安局召开新闻发布会，通报“趣住 ”APP 虚构用户身份批量发布虚假信息诈骗案相关情况。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1136479.htm",
+          "publishedOn": "2021-06-04T00:16:34.000Z",
+          "wordCount": 222,
+          "title": "上海警方查处趣住 APP： 团伙创上万个“虚拟女性”账号诈骗"
+        },
+        {
+          "id": "https://hot.cnbeta.com/articles/game/1136477.htm",
+          "author": "study875",
+          "description": "今年 2 月 ，CDPR 宣布他们遭到黑客攻击，多份内部文档与游戏源码泄露。据悉，某黑客组织获得了《巫师 3》、《 巫师 3》 次世代版、《赛博朋克 2077》和《昆特牌》的源代码。最近，《巫师 3》 次世代版和《赛博朋克2077》 的源代码出现在 BT 网站上供人下载。\n 阅读全文",
+          "link": "https://hot.cnbeta.com/articles/game/1136477.htm",
+          "publishedOn": "2021-06-04T00:13:47.000Z",
+          "wordCount": 265,
+          "title": "《巫师 3》《 赛博朋克 2077》 源代码出现在 BT 网站上"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/science/1136475.htm",
+          "author": "ugmbbc",
+          "description": "6月4日消息，当地时间周四，美国太空探索技术公司SpaceX在肯尼迪航天中心39A发射台成功进行了今年的第17次发射，为NASA执行第22次国际空间站再补给任务。在此次任务中，这艘无人驾驶货运龙飞船将重达3311公斤的物资、科学实验仪器和硬件送入太空，包括为空间站提供电力支持的两个新太阳能电池板。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/science/1136475.htm",
+          "publishedOn": "2021-06-04T00:13:37.000Z",
+          "wordCount": 196,
+          "title": "SpaceX成功发射货运龙飞船 向空间站运送3311公斤补给"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1136473.htm",
+          "author": "study875",
+          "description": "许多年纪稍微小一点的差友可能对于方正集团不太熟悉，可是在差评君这代人的童年里，方正集团的知名度一点也不比现在的小米、华为要低，毕竟那个时候联想和方正，几乎就是国产电脑的代名词。字体侵权到处告别人。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1136473.htm",
+          "publishedOn": "2021-06-04T00:12:51.000Z",
+          "wordCount": 348,
+          "title": "前两年还在到处告人侵权的方正集团，怎么就破产重组了？"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1136471.htm",
+          "author": "teikaei",
+          "description": "据外媒报道，今年3月，雷克萨斯展示了非常整洁和光滑的LF-Z概念车。然后，它披露，2025年之前，大家会看到一些基于汽车的东西。现在，我们知道14个月后会有一些事情发生。本周，该品牌在位于德克萨斯州普莱诺的公司总部举行的媒体活动中向媒体确认了时间范围--这是一个非常迅速的时间表。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1136471.htm",
+          "publishedOn": "2021-06-04T00:08:22.000Z",
+          "wordCount": 190,
+          "title": "雷克萨斯量产版LF-Z将于14个月后推出"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1136469.htm",
+          "author": "vivian",
+          "description": "据外媒TechCrunch报道，Waymo One是在凤凰城郊区使用无人驾驶车辆的打车服务，现在可以通过谷歌地图访问和预订。Waymo周四表示，这将是该应用中第一个完全自主的打车选项，将首先向Android用户推出。这次合作不仅使Alphabet旗下的两家公司走到了一起，也标志着Waymo正在努力让公众更加了解和使用。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1136469.htm",
+          "publishedOn": "2021-06-04T00:06:50.000Z",
+          "wordCount": 194,
+          "title": "Waymo的无人驾驶出租车服务现在可以在谷歌地图上访问"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1136467.htm",
+          "author": "ugmbbc",
+          "description": "虽然CentOS Linux 8将在年底停止开发，红帽随后会将资源集中在CentOS Stream上，但CentOS Linux 8今天依然按计划发布了最新的版本2105，其开发是基于红帽企业Linux 8.4的源代码实现的。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1136467.htm",
+          "publishedOn": "2021-06-04T00:06:18.000Z",
+          "wordCount": 244,
+          "title": "CentOS Linux 8 2105今日发布 基于RHEL 8.4"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1136465.htm",
+          "author": "study875",
+          "description": "苹果公司今天向外媒 CNET 透露，公司正在加强 AirTag 的安全性，以防止使用蓝牙设备进行追踪。苹果已经在向 AirTag 发送无线更新，如果未知的 AirTag 在你手中，它将缩短向你发出警报的时间。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1136465.htm",
+          "publishedOn": "2021-06-04T00:04:19.000Z",
+          "wordCount": 217,
+          "title": "苹果增强AirTag防追踪特性：缩短警报时间 正开发Android应用"
+        },
+        {
+          "id": "https://hot.cnbeta.com/articles/game/1136463.htm",
+          "author": "ugmbbc",
+          "description": "日本一位91岁老太太森滨子被吉尼斯世界纪录认证为“最老的Youtube游戏主播”。森滨子来自日本千叶县，她其实已经打了40年游戏，她与游戏的缘分可以追溯至1981年，家中还存有大量游戏卡带。老太太称，自己如今每天花7、8个小时打游戏。\n 阅读全文",
+          "link": "https://hot.cnbeta.com/articles/game/1136463.htm",
+          "publishedOn": "2021-06-04T00:00:27.000Z",
+          "wordCount": 192,
+          "title": "吉尼斯认证世界最老的YouTube游戏主播 每天打7、8个小时游戏"
+        },
+        {
+          "id": "https://hot.cnbeta.com/articles/funny/1136461.htm",
+          "author": "ugmbbc",
+          "description": "还有3天时间就要高考，在这个关键时刻，很多老师已经开始为同学们提前放松了，毕竟有个好的状态更重要。6月2日晚自习时间，浙江省衢州旅游学校高三3班的教室里41名学生在大口吃着小龙虾。为了给孩子们高考减压，班主任段杰下厨烹调的40多斤龙虾送到了教室里。\n 阅读全文",
+          "link": "https://hot.cnbeta.com/articles/funny/1136461.htm",
+          "publishedOn": "2021-06-03T23:59:40.000Z",
+          "wordCount": 190,
+          "title": "浙江老师为学生烧了40多斤龙虾 高考前减压"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/science/1136459.htm",
+          "author": "teikaei",
+          "description": "据外媒报道，如果你是机器人探险家，那么火星上的尘埃就是个恶魔。NASA的“洞察号(InSight)”着陆器只是想工作，但自今年早些时候以来，布满灰尘的太阳能电池板限制了它的运行。“洞察号”团队提出了一个似乎违反直觉的想法以帮助清除面板上的灰尘。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/science/1136459.htm",
+          "publishedOn": "2021-06-03T23:58:23.000Z",
+          "wordCount": 185,
+          "title": "“洞察号”将泥土倾倒在自己身上以清除太阳能电池板上的灰尘"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1136457.htm",
+          "author": "ugmbbc",
+          "description": "微软近期对外预告6月24日的重要的Windows发布会，大多数人预计届时公司将对外带来Windows 10的“太阳谷”更新的正式宣布，这将给Windows的外观带来巨大的改进，开始对界面进行圆角打磨而不是Windows 10发布以来一直使用的锐利尖角，大量渐变色和以及浮动菜单的设计元素也将被引入。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1136457.htm",
+          "publishedOn": "2021-06-03T23:57:51.000Z",
+          "wordCount": 203,
+          "title": "Evan Blass：Windows 11的名称几乎已经得到确认"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1136455.htm",
+          "author": "vivian",
+          "description": "据英国广播公司（BBC）报道，Google已经解除了其多元化部门主管Kamau Bobb的职务，因为他在2007年的一篇博文中说犹太人“对战争和杀戮有一种永不满足的欲望”。在本周重新出现的一篇关于以色列-巴勒斯坦冲突的帖子中，Kamau Bobb还声称犹太人对痛苦“不敏感”。该帖子现已被删除。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1136455.htm",
+          "publishedOn": "2021-06-03T23:52:37.000Z",
+          "wordCount": 200,
+          "title": "Google多元化部门负责人因反犹太主义博文被免职"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1136453.htm",
+          "author": "ugmbbc",
+          "description": "前几天的台北电脑展上，AMD发布了Radeon RX 6000M系列移动版显卡，这也是7nm RDNA2架构的新市场。马上AMD又要抢NVIDIA另一个市场了，这次瞄准的是专业卡，6月8日发布Radeon Pro系列新品。AMD已经预告6月8日会有一次发布会，海报宣传写的是“Some Thing Big is Coming“（大事要来），暗示这次发布会很重要。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1136453.htm",
+          "publishedOn": "2021-06-03T23:47:09.000Z",
+          "wordCount": 224,
+          "title": "7nm RDNA2专业卡来了 AMD预告全新显卡"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1136451.htm",
+          "author": "ugmbbc",
+          "description": "据路透社报道，来自高校、科技企业等机构的多名自动驾驶一线从业人员在接受采访时均表示对特斯拉放弃毫米波雷达、转而使用纯视觉方案的做法感到不解。他们认为，毫米波雷达本身就不是成本高昂的元件，放弃一个成本不高的元件几乎不可能有效降低最终成本。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1136451.htm",
+          "publishedOn": "2021-06-03T23:42:31.000Z",
+          "wordCount": 213,
+          "title": "特斯拉放弃激光雷达转向纯视觉 海外多名专家公开质疑"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1136449.htm",
+          "author": "teikaei",
+          "description": "据外媒报道，苹果将iMessage作为下周全球开发者大会(WWDC)宣传材料的中心，这暗示着该公司广受欢迎的即时通讯服务可能会出现重大升级。iMessage似乎是今年WWDC营销的中心主题。如YouTube上的WWDC直播的占位符包含了iMessage气泡、Tapback和iMessage的全屏激光效果。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1136449.htm",
+          "publishedOn": "2021-06-03T23:42:20.000Z",
+          "wordCount": 200,
+          "title": "苹果iMessage或将在WWDC上迎来重大更新"
+        },
+        {
           "id": "https://www.cnbeta.com/articles/tech/1136447.htm",
           "author": "ugmbbc",
           "description": "今天，当信小呆再次以“焦虑”、“穷”等关键词空降热搜时，羡慕的声音少了，质疑的声音多了。点开热搜，多数网友都在质疑其卖惨营销，2019年，当“焦虑”这个词儿第一次出现在”锦鲤“信小呆身上时，舆论给予了其满满的同情心，然而很快，有媒体爆料，信小呆并非其所形容的那样窘迫，比如她一条广告10万抵得上很多人一年工资，而其所谓的“刷爆信用卡”更多原因在于她信用卡额度不高。\n 阅读全文",
