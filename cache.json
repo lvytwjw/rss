@@ -779,6 +779,15 @@
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
         {
+          "id": "60b98ebfacb62507dd1d8ec4",
+          "author": null,
+          "description": "Are you looking for a way to apply Python and machine learning to a real-world application? You should consider Bioinformatics. Bioinformatics is an interdisciplinary field that develops methods and software tools for understanding biological data, in particular when the data sets are large and complex. We just released a course",
+          "link": "https://www.freecodecamp.org/news/python-for-bioinformatics-use-machine-learning-and-data-analysis-for-drug-discovery/",
+          "publishedOn": "2021-06-04T02:32:22.000Z",
+          "wordCount": 390,
+          "title": "Python for Bioinformatics: Use Machine Learning and Data Analysis for Drug Discovery"
+        },
+        {
           "id": "60b11ff811ffb70827ef8f94",
           "author": null,
           "description": "Let’s say you plan to build a website. Before you start, you want to set up a few tools to make your life easier. But which tools should you have? The JavaScript ecosystem is changing so fast that it can be overwhelming to pick the best tools to use.",
@@ -1235,6 +1244,456 @@
       "feedUrl": "https://www.cnbeta.com/backend.php",
       "siteUrl": "https://www.cnbeta.com",
       "articles": [
+        {
+          "id": "https://hot.cnbeta.com/articles/music/1136601.htm",
+          "author": "study875",
+          "description": "梅赛德斯本周三发布公告，奔驰的 MBUX 车载信息娱乐系统将原生整合 Apple Music 服务。事实上，Apple Music 并不是第一个进入 MBUX 的流媒体平台，但对于 iPhone 用户来说无疑会带来体验上的巨大提升。目前 MBUX 系统已集成 Spotify、Tidal 和 Amazon Music，可以让用户访问多达 7500 万首歌曲。\n 阅读全文",
+          "link": "https://hot.cnbeta.com/articles/music/1136601.htm",
+          "publishedOn": "2021-06-04T03:48:39.000Z",
+          "wordCount": 221,
+          "title": "Apple Music现集成到奔驰MBUX车载信息娱乐系统中"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1136597.htm",
+          "author": "study875",
+          "description": "在过去十年里，无人机技术有了飞跃性的发展。伴随着高科技无人机价格的不断下降，越来越多的人开始使用无人机拍摄一些非常规的镜头。油管知名主播 Joey Helms 近日造访了冰岛的 Fagradalsfjall 火山，用无人机记录了非常震撼的火山喷发场景。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1136597.htm",
+          "publishedOn": "2021-06-04T03:40:30.000Z",
+          "wordCount": 197,
+          "title": "油管主播为拍火山喷发 1300美元的大疆FPV靠太近被岩浆吞噬"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1136595.htm",
+          "author": "study875",
+          "description": "凭借着时尚、现代化的外观设计和卓越的功能支持，在今年第 1 季度 Apple Watch 市场份额超过 33%。也就是说，每 3 款智能手表中就有 1 款是 Apple Watch。根据市场调查机构 Counterpoint Research 公布的最新信息，Apple Watch Series 6 的起售价格为 399 美元，而物料成本为 136 美元。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1136595.htm",
+          "publishedOn": "2021-06-04T03:35:25.000Z",
+          "wordCount": 270,
+          "title": "[图]Apple Watch Series 6起售价399美元 物料成本136美元"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/science/1136593.htm",
+          "author": "teikaei",
+          "description": "据外媒报道，狗之所以被称为“人类最好的朋友”，可能是因为它们非常擅长跟人互动。亚利桑那大学研究人员的一项新研究表明，这些社交技能可能在狗出生后不久就显现出来，而非后天习得。这项于今日发表在《Current Biology》的研究还发现，基因可能有助于解释为什么有些狗在社交活动中表现得比其他狗好。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/science/1136593.htm",
+          "publishedOn": "2021-06-04T03:30:21.000Z",
+          "wordCount": 187,
+          "title": "新研究：小狗与人的交流在生物学上存在联系"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1136591.htm",
+          "author": "teikaei",
+          "description": "裹挟着接连不断的主播售假事件，快手电商琅跄前行。近期，朵唯、天语、糖果……一众几乎已经“销声匿迹”的手机品牌又重新出现在快手主播“驴嫂平荣”的直播间中，并大肆捞钱。小葫芦大数据显示，截止到6月2日的近30日里，“驴嫂平荣”带货手机数码产品销售额达3.17亿，订单量达33.47万，总共上架的93款产品中，手机占三成。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1136591.htm",
+          "publishedOn": "2021-06-04T03:21:56.000Z",
+          "wordCount": 188,
+          "title": "山寨机风波中的快手电商：GMV三年涨超10倍，“驴家班”手握9000万粉丝"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/science/1136589.htm",
+          "author": "vivian",
+          "description": "据外媒报道，依赖和粘人或随意和冷淡--一项新研究考察了宠物猫的行为，以了解它们与主人的关系意味着什么。由英国林肯大学的学者们进行的 \"我的猫和我--猫主人对其关系的看法研究\"，涉及到近4000名主人对一系列关于他们自己和他们的宠物的行为的陈述的回应。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/science/1136589.htm",
+          "publishedOn": "2021-06-04T03:21:51.000Z",
+          "wordCount": 189,
+          "title": "新研究分析了猫咪可能与它们主人建立的不同类型的关系"
+        },
+        {
+          "id": "https://hot.cnbeta.com/articles/funny/1136587.htm",
+          "author": "raymon725",
+          "description": "作为一款以“抓内鬼”为主线的多人网络游戏，画风独特的《Among Us》在过去一年吸引了无数玩家乐在其中。如果你是该游戏的一位疯狂粉丝，那现在或许有个不错的藏品供你挑选。早些时候，卖家 polizna 在 eBay 上发起了一项拍卖，拍品是一块长得和《我们之中》某游戏角色神似的麦当劳鸡块，没想到很快迎来了许多网友的竞价。\n 阅读全文",
+          "link": "https://hot.cnbeta.com/articles/funny/1136587.htm",
+          "publishedOn": "2021-06-04T03:12:49.000Z",
+          "wordCount": 212,
+          "title": "《Among Us》游戏角色形状的麦当劳鸡块eBay竞价已近10万美元"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/science/1136585.htm",
+          "author": "vivian",
+          "description": "随着物联网技术的不断发展，我们将看到越来越多的电池供电的连接设备--其中一些将是一次性使用的，如运输包装。一种新的可生物降解的微型电容器已经被创造出来，并考虑到了这种情况。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/science/1136585.htm",
+          "publishedOn": "2021-06-04T03:06:47.000Z",
+          "wordCount": 189,
+          "title": "科学家开发可生物降解的微型电容器  可帮助减少电子废物"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1136583.htm",
+          "author": "study875",
+          "description": "目前苹果已经将 27 英寸的 Thunderbolt 显示器列入到“过时”产品中。过时产品是指 Apple 已经停止供货进行销售 5 到 7 年时间的产品。27 英寸的 Thunderbolt 显示器于 2011 年推出，并于 2016 年正式停产。在这段时间里，该显示器并没有获得任何更新。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1136583.htm",
+          "publishedOn": "2021-06-04T03:02:37.000Z",
+          "wordCount": 218,
+          "title": "苹果27吋Thunderbolt显示器已列入“过时”产品"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/science/1136581.htm",
+          "author": "teikaei",
+          "description": "据外媒报道，一项对白令海沉积物岩芯的分析揭示了气候变暖和突然出现的低氧“死亡区”在过去的120万年的亚北极的北太平洋中反复出现的关系。这项由加州大学圣克鲁兹分校的研究人员领导的新研究于2021年6月2日发表在《Science Advances》上。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/science/1136581.htm",
+          "publishedOn": "2021-06-04T02:57:33.000Z",
+          "wordCount": 196,
+          "title": "研究：“死亡区”在过去120万年的温暖气候中在北太平洋中反复出现"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1136579.htm",
+          "author": "raymon725",
+          "description": "尽管在 M1 芯片的加持下，2021 款 24 英寸 iMac 在性能上较上一代领先了 56% 。但我们也必须指出，采用 Intel 芯片的 21.5 英寸 iMac，原厂最高也只能选配酷睿 i5（而不是 i7）处理器。有趣的是，Luke Miani 在尝试亲自动手、为上一代 iMac 换上酷睿 i9 处理器后，竟然惊喜地发现它可以反超 24 英寸 M1 iMac 。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1136579.htm",
+          "publishedOn": "2021-06-04T02:54:08.000Z",
+          "wordCount": 340,
+          "title": "旧款21.5\" iMac换上酷睿i9处理器 部分基准测试项目可反超M1新机"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/science/1136577.htm",
+          "author": "vivian",
+          "description": "根据周四在第六届世界儿科胃肠病学、肝病学和营养学大会上公布的一项研究结果，在怀孕期间服用鱼油的母亲所生的孩子被证明在10岁时具有更快的解决问题的能力和更好的注意力集中。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/science/1136577.htm",
+          "publishedOn": "2021-06-04T02:53:59.000Z",
+          "wordCount": 190,
+          "title": "研究称怀孕期间服用鱼油补充剂可对儿童的大脑发育产生重大影响"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/science/1136575.htm",
+          "author": "study875",
+          "description": "伴随着全球变暖，冰川融化在推动海平面上升之外，也直接威胁着倚靠冰川径流提供饮用水和灌溉的数亿人。因此，对冰川的监控显得尤为重要。基于欧空局（ESA） CryoSat 卫星收集的信息，一项最新研究用更直观的数据表明自 2010 年以来阿拉斯加湾和亚洲高山地区的冰川已损失了多少冰。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/science/1136575.htm",
+          "publishedOn": "2021-06-04T02:50:45.000Z",
+          "wordCount": 210,
+          "title": "阿拉斯加湾平均每年损失76公吨的冰 亚洲高山每年损失28公吨"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1136573.htm",
+          "author": "ugmbbc",
+          "description": "随着苹果WWDC2021大会的日益临近，除了全新一代iOS 15等系统备受关注外，近期关于苹果全新产品的各种爆料也不断浮现，其中还包括将会在9月才会发布的iPhone 13系列。今天凌晨，有国外爆料者带来了iPhone 13系列的超清渲染图，其中展示了全系新机的外观设计，包括一些细节方面都制作的十分精细，而且与多方爆料的信息基本一致，可信度很高，基本可以确定了新机的外观。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1136573.htm",
+          "publishedOn": "2021-06-04T02:43:52.000Z",
+          "wordCount": 211,
+          "title": "iPhone 13超清渲染图曝光：全系升级小刘海"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1136571.htm",
+          "author": "teikaei",
+          "description": "北京时间6月4日消息，特斯拉公司CEO埃隆·马斯克(Elon Musk)今天早上发布推文，暗示可能与全球最大加密货币比特币分道扬镳，导致比特币价格下挫。比特币价格今天最高下跌2.8%，截至北京时间今天9:20分时的交易价约为37,850美元。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1136571.htm",
+          "publishedOn": "2021-06-04T02:41:18.000Z",
+          "wordCount": 193,
+          "title": "马斯克发推暗示与比特币“分手” 比特币价格下挫2.8%"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/science/1136569.htm",
+          "author": "teikaei",
+          "description": "6月3日，“断鼻家族”中的15头野象已经抵达昆明市地界。它们从西双版纳勐养子保护区出走已经一年有余。大象一路向北，走出雨林，也走进公众视野，成为一次难得的科普契机。也许，直到5月底关于“断鼻家族”北上的报道逐渐增多，很多人才第一次尝试去了解亚洲象。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/science/1136569.htm",
+          "publishedOn": "2021-06-04T02:40:16.000Z",
+          "wordCount": 188,
+          "title": "大象北上，用“出走”给围观群众上了一堂科普课"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1136567.htm",
+          "author": "teikaei",
+          "description": "6月4日上午消息，在第九届中国网络视听大会上，腾讯副总裁孙忠怀痛批低智洗脑短视频像猪食，“现在短视频平台的个性推荐实在太强大了，你喜欢‘猪食’看到的就全是‘猪食’。”孙忠怀称，部分低智低俗短视频内容长期影响用户心智，繁荣市场背后仍有不少低俗糟粕，博取关注的短视频内容，这些内容广泛传播消耗了用户大量时间。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1136567.htm",
+          "publishedOn": "2021-06-04T02:38:58.000Z",
+          "wordCount": 188,
+          "title": "字节跳动副总裁李亮回怼腾讯：大力发展短视频同时，一直在攻击短视频行业"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/science/1136565.htm",
+          "author": "vivian",
+          "description": "据外媒报道，自从不到30年前到达大西洋北部以来，狮子鱼已经迅速成为最广泛和最贪婪的入侵物种之一，对从美国的东北海岸到加勒比群岛的海洋生态系统--特别是珊瑚礁--产生了负面影响。在一项新研究中，包括加州科学院在内的一个国际研究小组提出了巴西沿海狮子鱼的四个新记录，首次证实了这种掠夺性鱼类对南大西洋的入侵。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/science/1136565.htm",
+          "publishedOn": "2021-06-04T02:38:27.000Z",
+          "wordCount": 189,
+          "title": "研究称入侵的狮子鱼威胁着巴西海岸的物种 对海洋生态系统产生负面影响"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/science/1136563.htm",
+          "author": "teikaei",
+          "description": "据外媒报道，美国作家、幽默家、语言大师、著名演说家马克·吐温曾经说过：“恰当的词语可能是有效的，但没有任何词语比恰当的停顿更有效。”电鱼和现在的TED演讲嘉宾则都借鉴了吐温的这一经验，ta们在分享一些特别有意义的事情之前会停下来。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/science/1136563.htm",
+          "publishedOn": "2021-06-04T02:37:37.000Z",
+          "wordCount": 186,
+          "title": "研究：就像人类一样，电鱼在传达关键点之前也会停顿"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/science/1136561.htm",
+          "author": "study875",
+          "description": "伴随着年龄的增加，因平衡感恶化导致老年人发生严重摔倒的几率也相应的增加。日本横滨国立大学的科学家们观察到，如果一个身体平衡感不足的人的手指接触到一个轻的降伏面，如悬挂的窗帘或纸片，这种触觉警告足以停止和纠正摇摆。即使该表面不够坚固，无法像手杖或墙壁那样对人进行物理支撑，也没有关系。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/science/1136561.htm",
+          "publishedOn": "2021-06-04T02:32:35.000Z",
+          "wordCount": 193,
+          "title": "[图]科学家发明可穿戴设备 可防止老人摔倒"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1136559.htm",
+          "author": "raymon725",
+          "description": "在一项 6 比 3 的裁定中，美最高法院对该国《反计算机欺诈和滥用法案》的适用范围，套上了更加明晰的限制。作为一部针对计算机黑客事件、推行至今已有 34 年历史的法案，最高法要求有关部门在检索和访问信息时明确区分“未经授权的访问”和“不正当动机”。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1136559.htm",
+          "publishedOn": "2021-06-04T02:29:07.000Z",
+          "wordCount": 221,
+          "title": "美最高法院对《反计算机黑客法案》施加了适用范围限制"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/science/1136557.htm",
+          "author": "teikaei",
+          "description": "据外媒报道，史上最大的鲨鱼袭击事件跟人类无关。近日，来自耶鲁大学和大西洋学院的地球科学家的一项新研究发现，大约在1900万年前，鲨鱼大量死亡。它发生在一个历史时期，当时在世界海洋中巡逻的鲨鱼数量是现在的10倍多。目前，研究人员还不知道鲨鱼死亡的原因。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/science/1136557.htm",
+          "publishedOn": "2021-06-04T02:25:57.000Z",
+          "wordCount": 187,
+          "title": "科学家意外发现1900万年前的一次大规模鲨鱼灭绝事件"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/science/1136555.htm",
+          "author": "vivian",
+          "description": "据《纽约时报》报道，没有证据表明美国海军飞行员在过去十年中目睹和拍摄的不明空中现象（UAP）是外星飞船或美国先进军事技术。《纽约时报》的文章提到，美国政府高级官员已经了解了一份备受期待的政府报告中关于遭遇UAP的机密发现。在多年来对黑白视频的报道以及最近美国《60分钟》等节目的调查之后，UFO和外星人又重新进入公众的视野。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/science/1136555.htm",
+          "publishedOn": "2021-06-04T02:23:18.000Z",
+          "wordCount": 189,
+          "title": "UFO是外星飞船吗？美国政府称没有证据证实这点"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1136553.htm",
+          "author": "study875",
+          "description": "根据配件厂商 PENG STORE 分享的最新渲染图，2021 年款 iPhone 13 的新增主打色会是“Rose Pink”（玫瑰粉），而在 2022 年推出的 iPhone 14 预估会新增紫色。值得注意的是，推文中表示玫瑰粉配色将会在今年 12 月到来，而其他颜色会在 9 月下旬发售。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1136553.htm",
+          "publishedOn": "2021-06-04T02:18:18.000Z",
+          "wordCount": 240,
+          "title": "玫瑰粉色iPhone 13 Pro Max将于12月到来"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/science/1136551.htm",
+          "author": "vivian",
+          "description": "来自印度孟买理工学院的研究人员揭示了拟菌病毒（Mimivirus）和其他巨型病毒的起源，帮助我们更好地了解一群塑造了地球上生命的独特生物形式。在他们发表在《分子生物学与进化》上的最新研究中，研究人员表明，巨型病毒可能来自于一个复杂的单细胞祖先，保留了DNA复制机制，但脱落了编码其他重要过程的基因，如代谢。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/science/1136551.htm",
+          "publishedOn": "2021-06-04T02:12:40.000Z",
+          "wordCount": 187,
+          "title": "科学家利用DNA追踪巨型病毒的起源"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1136549.htm",
+          "author": "raymon725",
+          "description": "知名 PC 游戏配件厂商雷蛇（Razer）在本周推出了新款入门级电竞椅，特点是采用了高密度泡沫、多层合成皮革和钢制主体结构，它就是售价仅为 400 美元（约 2560 RMB）的 Iskur X 。同时该公司推出了能够与 Iskur X 搭配使用的 Razer Head Cushion 头枕和 Razer Lumbar Cushion 腰托配件，感兴趣的消费者可按需购买。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1136549.htm",
+          "publishedOn": "2021-06-04T02:12:32.000Z",
+          "wordCount": 270,
+          "title": "Razer推出入门电竞椅Iskur X：仅售400美元"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/science/1136547.htm",
+          "author": "teikaei",
+          "description": "尽管大象体型庞大，长着100多公斤重的鼻子，但它们却以小而轻的植被为食，这就引发一个问题：它们是如何使用长鼻子吸食这些小食物的？依据《界面杂志》最新一篇研究论文，来自美国乔治亚理工学院的一组研究人员拍摄了亚特兰大动物园大象的生活习性，希望揭晓它们强大鼻子背后的机制之谜。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/science/1136547.htm",
+          "publishedOn": "2021-06-04T02:11:04.000Z",
+          "wordCount": 184,
+          "title": "大象鼻子是“超级吸盘”，吸气速度是人类打喷嚏的30倍"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1136545.htm",
+          "author": "ugmbbc",
+          "description": "6月2日晚，华为召开了一场盛大的发布会，正式推出了自研操作系统——HarmonyOS。该系统主打全场景互联操作，几乎能够适配全部的电器设备，实现真正的万物互联，这是此前安卓和iOS完全不具备的能力。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1136545.htm",
+          "publishedOn": "2021-06-04T02:05:25.000Z",
+          "wordCount": 191,
+          "title": "荣耀适配HarmonyOS名单出炉：覆盖30多款机型"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1136543.htm",
+          "author": "study875",
+          "description": "在昨日的第九届中国网络视听大会上，腾讯副总裁、在线视频首席执行官孙忠怀对短视频外放，以及低俗内容进行了痛批。孙忠怀称，部分低智低俗短视频内容长期影响用户心智，繁荣市场背后仍有不少低俗糟粕，博取关注的短视频内容，这些内容广泛传播消耗了用户大量时间。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1136543.htm",
+          "publishedOn": "2021-06-04T02:00:48.000Z",
+          "wordCount": 192,
+          "title": "腾讯副总裁批低智洗脑短视频像猪食 称个性化分发太厉害"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1136541.htm",
+          "author": "teikaei",
+          "description": "提到脑机接口，你会首先想到什么？是不是马斯克的脸会立马浮现在你眼前，紧接着是他的三只小猪和打游戏的猴子。在马斯克的鼓吹之下，近年来脑机接口技术似乎跟科幻划上了等号，他所描绘的用意念来召唤特斯拉、打电脑游戏、控制家电，甚至人机共生的图景让人肾上腺素急速飙升, Neuralink的一举一动都牵扯着大众的神经，每次发布会之后都有人大呼“未来已来，马斯克就要带着人类永生了！”\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1136541.htm",
+          "publishedOn": "2021-06-04T02:00:06.000Z",
+          "wordCount": 230,
+          "title": "硬杠马斯克，Peter Thiel投资了一家比Neuralink更牛的脑机接口公司"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1136539.htm",
+          "author": "teikaei",
+          "description": "据外媒报道，谷歌在欧洲已经挑选了30家初创公司以获得其200万美元Black Founders Fund的一份股份，这将为这些公司提供现金、一些有价值的云服务及谷歌团队中一些优秀的老式网络。该基金于去年秋天宣布，是该公司为“为每个人建立一个更公平的未来”而努力的一部分，此外还有赠款和新的赞助。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1136539.htm",
+          "publishedOn": "2021-06-04T01:58:52.000Z",
+          "wordCount": 207,
+          "title": "谷歌宣布30家欧洲初创公司获200万美元Black Founders Fund支持"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1136537.htm",
+          "author": "vivian",
+          "description": "据外媒CNBC报道，白宫周四宣布，美国政府将通过COVAX分享其捐赠的大部分COVID-19疫苗剂量，该项目由世界卫生组织牵头，向有需要的国家提供疫苗。拜登政府已承诺捐赠至少2000万剂由辉瑞-BioNTech公司、Moderna公司和强生公司生产的COVID-19疫苗，以及6000万剂阿斯利康公司的疫苗，这种疫苗尚未被授权在美国使用。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1136537.htm",
+          "publishedOn": "2021-06-04T01:56:24.000Z",
+          "wordCount": 191,
+          "title": "美国政府计划通过COVAX分享其捐赠的大部分COVID-19疫苗"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1136535.htm",
+          "author": "study875",
+          "description": "Twitter正在对移动应用进行升级，使音频聊天室功能 Twitter Spaces 成为用户体验的核心。从本周四开始 ，Twitter 将面向特定用户，在移动应用主导航栏上增加专门的 Twitter Spaces 标签。这一升级将从 iOS 系统开始 。Twitter Spaces 标签将位于主导航栏的中央，而导航栏上的图标数量也将因此从 4 个增加到 5 个。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1136535.htm",
+          "publishedOn": "2021-06-04T01:55:31.000Z",
+          "wordCount": 279,
+          "title": "Twitter 移动应用新版内测 音频聊天室成中心"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/science/1136533.htm",
+          "author": "teikaei",
+          "description": "宇航员如何在太空中度过周末？在微重力的国际空间站，一些宇航员会度过几个月，甚至接近一年的时间，他们能否承受太空生活的空寂？事实证明，大多数人的担心是不必要的，宇航员在太空中会抽出时间来培养自己的兴趣爱好，尽管并不总是这样，但他们的生活仍是丰富多彩的，并且隔着太空舱就能欣赏到太空美景和蓝色地球。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/science/1136533.htm",
+          "publishedOn": "2021-06-04T01:47:17.000Z",
+          "wordCount": 187,
+          "title": "宇航员如何在太空享受周末时光？"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1136531.htm",
+          "author": "study875",
+          "description": "在正式发布之前，沃尔玛在其官网 Walmart.com 上提前公布了 Onn 品牌的低成本 Android TV 电视棒，以及一款即将到来的 4K 流媒体设备。沃尔玛此前向外媒 TechCrunch 透露，这两款产品将于下周正式在线上、线下门店进行销售，但现在看来线上网店比计划的时间更早一些。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1136531.htm",
+          "publishedOn": "2021-06-04T01:46:33.000Z",
+          "wordCount": 229,
+          "title": "沃尔玛官网提前上架Onn品牌Android TV电视棒和4K机顶盒"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/science/1136529.htm",
+          "author": "vivian",
+          "description": "据外媒报道，暗物质被认为可能是宇宙物质的主要组成部分（占宇宙质量约85%），其是不可见的，不容易被发现。它的属性也仍然相当不明显。现在，加州大学河滨分校（UCR）的一位理论粒子物理学家及其同事在《高能物理学杂志》上发表了一篇研究论文，表明假设存在一种新型力量的理论如何能够帮助解释暗物质的特性。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/science/1136529.htm",
+          "publishedOn": "2021-06-04T01:44:59.000Z",
+          "wordCount": 186,
+          "title": "隐藏的暗能量：了解暗物质的一个新维度"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1136527.htm",
+          "author": "study875",
+          "description": "6 月 4 日消息，据国外媒体报道，电动汽车制造商特斯拉公司已向加拿大一家电池研究团队提供 310 万美元资助，该团队一直在致力于为该公司电动汽车开发更便宜、续航更持久的电池。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1136527.htm",
+          "publishedOn": "2021-06-04T01:41:30.000Z",
+          "wordCount": 250,
+          "title": "特斯拉投资 310 万美元 推动加拿大研究团队开发先进电池技术"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1136525.htm",
+          "author": "raymon725",
+          "description": "作为被 PCIe 固态硬盘（SSD）广泛使用的一种接口规范，非易失性内存主机控制器（NVMe）在近年得到了多次修订。而即将到来的 NVMe 2.0 版本规范，有望到 2024 年为该市场领域带来 43% 的复合年增长率。NVM Express 联盟近日表示，正如大家所预料的那样，新版规范引入了诸多新技术，尤其是拓展了对旋转存储介质（也就是 HDD 机械硬盘）的支持。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1136525.htm",
+          "publishedOn": "2021-06-04T01:41:21.000Z",
+          "wordCount": 251,
+          "title": "NVMe 2.0规范发布：PCIe固态硬盘有望迎来更显著的性能提升"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/science/1136523.htm",
+          "author": "teikaei",
+          "description": "6月2日21时55分，北迁象群沿玉溪市红塔区春和街道老光箐村北侧前进，进入昆明市晋宁区双河乡。从西双版纳到省会昆明，一个由15头野生亚洲象组成的象群，为什么会一路向北迁徙？不改方向，不断加速，象群为什么会一路北上？人类干预如何才能奏效？\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/science/1136523.htm",
+          "publishedOn": "2021-06-04T01:40:49.000Z",
+          "wordCount": 185,
+          "title": "野象群为何一路北上？专家解读：很不正常、象群首领出问题"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1136521.htm",
+          "author": "teikaei",
+          "description": "在不久前结束的Redmi Note10手机发布会上，小米集团合伙人卢伟冰发布了搭载天玑1100手机新品，这是小米首次抛弃中档处理器芯片，将旗舰级芯片运用到Redmi系列当中。卢伟冰直言道，“我们还有一个遗憾，就是还缺乏搭载大家公认的旗舰芯片，这一次，我们把这个遗憾补上了”。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1136521.htm",
+          "publishedOn": "2021-06-04T01:40:00.000Z",
+          "wordCount": 195,
+          "title": "小米创“芯”：一场7年马拉松式的豪赌"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1136519.htm",
+          "author": "teikaei",
+          "description": "据外媒报道，英国执政党因发送垃圾邮件被国家数据保护监督机构罚款1万英镑。51名收件人收到了以首相鲍里斯·约翰逊的名义发送的营销邮件，他们对此进行了投诉，随后信息专员办公室(ICO)批准了对保守党的一项调查。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1136519.htm",
+          "publishedOn": "2021-06-04T01:38:43.000Z",
+          "wordCount": 187,
+          "title": "英首相所在政党因被指向选民发送垃圾邮件将被ICO调查"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1136517.htm",
+          "author": "ugmbbc",
+          "description": "美国怀俄明州州长当地时间2日表示，亿万富翁比尔·盖茨的核能公司泰拉能源公司和巴菲特的太平洋电力公司达成合作，将在盖州建立一个新型核反应堆。报道称，这种个核反应堆会是一座钠冷快中子反应堆，目前已经选址在怀俄明州的一个即将关闭的燃煤厂的位置，确切的施工地点将于今年年底公布。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1136517.htm",
+          "publishedOn": "2021-06-04T01:36:59.000Z",
+          "wordCount": 188,
+          "title": "比尔·盖茨与巴菲特旗下公司将合建新型核反应堆：预计耗资超60亿"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1136515.htm",
+          "author": "vivian",
+          "description": "6月4日消息，据报道，特斯拉对电动汽车市场的控制力似乎正在下滑。瑞信分析师丹·利维(Dan Levy)表示，今年4月，这家汽车制造商的全球市场份额降至2019年1月以来最低水平。随着更多汽车制造商涌入全球电动汽车市场，特斯拉在全球电动汽车市场的份额从29%降至11%。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1136515.htm",
+          "publishedOn": "2021-06-04T01:34:26.000Z",
+          "wordCount": 194,
+          "title": "电动汽车领域竞争升温 特斯拉全球市场份额降至两年来最低"
+        },
+        {
+          "id": "https://hot.cnbeta.com/articles/game/1136513.htm",
+          "author": "ugmbbc",
+          "description": "根据相关论坛用户泄露的资料可知，2K Games将于E3期间宣布多款作品，其中包括Gearbox的《无主之地》衍生作《仙境之地》（Wonderlands，暂译）；文明及XCOM系列开发单位Firaxis将为回合制战棋游戏爱好者奉上一款注入漫威资产的XCOM向作品，代号CODA，可能会请大牌演员为角色配音。\n 阅读全文",
+          "link": "https://hot.cnbeta.com/articles/game/1136513.htm",
+          "publishedOn": "2021-06-04T01:30:21.000Z",
+          "wordCount": 198,
+          "title": "传《无主之地》衍生作品即将公布"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1136511.htm",
+          "author": "study875",
+          "description": "Google正在为 Chrome 浏览器推出全新的安全功能，旨在使其更容易发现可疑的下载和扩展。该新功能建立在去年推出的增强型安全浏览功能之上，主要针对 Chrome 扩展程序。如果用户选择安装不被认为是“可信任”的扩展程序，那么浏览器就会发出警告。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1136511.htm",
+          "publishedOn": "2021-06-04T01:29:39.000Z",
+          "wordCount": 211,
+          "title": "Chrome增强安全属性 使其更容易发现可疑下载和扩展"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/science/1136509.htm",
+          "author": "vivian",
+          "description": "据外媒CNET报道，大约2.52亿年前，当地球的温度急剧上升，海洋中的氧气水平急剧下降时，地球上的大多数生命都注定要灭绝。一些估计表明，这次灭绝事件，即第三次物种大灭绝(The Great Dying)，导致多达70%的陆地物种死亡，但海洋动物感受到的影响甚至更大。世界海洋中多达96%的物种消失。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/science/1136509.htm",
+          "publishedOn": "2021-06-04T01:26:17.000Z",
+          "wordCount": 193,
+          "title": "研究称神秘的灭绝事件在1900万年前导致地球上90%的鲨鱼死亡"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1136507.htm",
+          "author": "ugmbbc",
+          "description": "继Mustang Mach-E亮相上海车展后，福特第二款纯电动汽车也要来了。近日，有外媒绘制了福特全新纯电动车的假想图，该车是首款基于大众MEB平台打造的车型，与大众ID.4共享大部分硬件，预计将于2023年推向市场，并有望在2022年上半年首次亮相。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1136507.htm",
+          "publishedOn": "2021-06-04T01:25:05.000Z",
+          "wordCount": 193,
+          "title": "福特首款MEB平台新车曝光 与大众ID.4共享大部分硬件"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1136505.htm",
+          "author": "ugmbbc",
+          "description": "6月4日消息，据多家媒体报道，丰田全新纯电SUV“BZ4X”量产版将于年内亮相，随后2022年初正式。新车概念版已经于上海车展首发，其定位于中型纯电SUV，采用纯电e-TNGA架构打造。此外，新车计划未来将进行国产。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1136505.htm",
+          "publishedOn": "2021-06-04T01:24:02.000Z",
+          "wordCount": 199,
+          "title": "丰田bZ4X量产版将至：告别油改电 配备矩形方向盘"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1136503.htm",
+          "author": "raymon725",
+          "description": "几个月前，WinFuture 的 Roland Quandt 爆料称高通正在开发代号为 SM8450“Waipio”的骁龙 888（SM8350）继任者。现在，知名爆料人 Evan Blass（@evLeaks）又分享了更多细节。他表示：“SM8450 是高通的下一代高端 SoC，集成了骁龙 X65 5G 调制解调器-射频系统，并将采用 4nm 工艺来制造”。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1136503.htm",
+          "publishedOn": "2021-06-04T01:22:31.000Z",
+          "wordCount": 294,
+          "title": "爆料人分享骁龙888继任者更多细节 SM8450有望带来全面改进"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/science/1136501.htm",
+          "author": "teikaei",
+          "description": "据外媒报道，当人类受到像伤口这样的伤害时，我们的第一反应是确保它不被感染。我们要确保伤口是干净的，当伤口愈合后则会留下疤痕。伤疤是生活的一部分，至少我们一直被引导这样认为，即它是人体在伤口和肮脏的外部世界之间形成的一道屏障。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/science/1136501.htm",
+          "publishedOn": "2021-06-04T01:09:51.000Z",
+          "wordCount": 185,
+          "title": "科学家称人类拥有“尚未开发”的器官再生能力"
+        },
         {
           "id": "https://www.cnbeta.com/articles/tech/1136499.htm",
           "author": "vivian",
