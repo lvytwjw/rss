@@ -2,10 +2,43 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://lvytwjw.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-05T20:19:59.315Z</updated>
+    <updated>2021-06-05T21:14:17.277Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://lvytwjw.github.io/rss/index.html"/>
     <link rel="self" href="https://lvytwjw.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[骁龙895和Exynos 2200将使用三星的4纳米节点而非台积电制造]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1137129.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1137129.htm"/>
+        <updated>2021-06-05T20:34:38.000Z</updated>
+        <summary type="html"><![CDATA[此前围绕着骁龙888的继任者发生的一次泄密事件指出了4纳米工艺以及其他细节，但没有透露哪家公司将利用新一代制程大规模生产。台积电是高通芯片的供应商，但其中两个消息人士认为，三星将提供技术，不仅帮助高通开发下一代骁龙895，还包括其自己的Exynos 2200。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[天文学家在2019年探测到了令人惊讶的伽马射线暴]]></title>
+        <id>https://www.cnbeta.com/articles/science/1137127.htm</id>
+        <link href="https://www.cnbeta.com/articles/science/1137127.htm"/>
+        <updated>2021-06-05T20:31:38.000Z</updated>
+        <summary type="html"><![CDATA[2019年8月29日，全世界的科学家都被提醒注意太空中发生的一个强烈事件，该事件发生在大约10亿光年之外。虽然10亿光年极其遥远，但考虑到该事件是一个令人难以置信的强烈的伽马射线暴，它令人惊讶地接近宇宙规模。尽管距离很远，但标记为GRB 190829A的伽马射线暴发生时比历史上任何其他类似事件都更接近地球。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SpaceX周日的发射工作将把一颗Sirius-XM广播卫星送入轨道]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1137125.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1137125.htm"/>
+        <updated>2021-06-05T20:29:12.000Z</updated>
+        <summary type="html"><![CDATA[在过去的几年里，美国许多新车主可能随车免费订阅了Sirius-XM卫星广播。卫星广播对于那些一直开车的人来说非常方便，特别是在他们的地区没有任何电台播放他们喜欢的音乐类型时，卫星广播最好的一点是，开车从东西海岸穿梭时都可以听到同一个电台。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[吸​入式新冠疫苗临床效果怎么样？一两个月之内可能会有好消息]]></title>
         <id>https://www.cnbeta.com/articles/tech/1137123.htm</id>

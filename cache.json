@@ -1304,6 +1304,33 @@
       "siteUrl": "https://www.cnbeta.com",
       "articles": [
         {
+          "id": "https://www.cnbeta.com/articles/tech/1137129.htm",
+          "author": "ugmbbc",
+          "description": "此前围绕着骁龙888的继任者发生的一次泄密事件指出了4纳米工艺以及其他细节，但没有透露哪家公司将利用新一代制程大规模生产。台积电是高通芯片的供应商，但其中两个消息人士认为，三星将提供技术，不仅帮助高通开发下一代骁龙895，还包括其自己的Exynos 2200。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1137129.htm",
+          "publishedOn": "2021-06-05T20:34:38.000Z",
+          "wordCount": 196,
+          "title": "骁龙895和Exynos 2200将使用三星的4纳米节点而非台积电制造"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/science/1137127.htm",
+          "author": "ugmbbc",
+          "description": "2019年8月29日，全世界的科学家都被提醒注意太空中发生的一个强烈事件，该事件发生在大约10亿光年之外。虽然10亿光年极其遥远，但考虑到该事件是一个令人难以置信的强烈的伽马射线暴，它令人惊讶地接近宇宙规模。尽管距离很远，但标记为GRB 190829A的伽马射线暴发生时比历史上任何其他类似事件都更接近地球。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/science/1137127.htm",
+          "publishedOn": "2021-06-05T20:31:38.000Z",
+          "wordCount": 188,
+          "title": "天文学家在2019年探测到了令人惊讶的伽马射线暴"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1137125.htm",
+          "author": "ugmbbc",
+          "description": "在过去的几年里，美国许多新车主可能随车免费订阅了Sirius-XM卫星广播。卫星广播对于那些一直开车的人来说非常方便，特别是在他们的地区没有任何电台播放他们喜欢的音乐类型时，卫星广播最好的一点是，开车从东西海岸穿梭时都可以听到同一个电台。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1137125.htm",
+          "publishedOn": "2021-06-05T20:29:12.000Z",
+          "wordCount": 189,
+          "title": "SpaceX周日的发射工作将把一颗Sirius-XM广播卫星送入轨道"
+        },
+        {
           "id": "https://www.cnbeta.com/articles/tech/1137123.htm",
           "author": "ugmbbc",
           "description": "6月3日，在2021浦江创新论坛上，中国工程院院士、军事科学院研究员陈薇透露的一则消息振奋人心：她带领团队与康希诺合作研发的吸入式重组新冠病毒疫苗（腺病毒载体）正向国家药监局申请紧急使用授权。\n 阅读全文",
