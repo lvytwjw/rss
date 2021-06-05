@@ -1304,6 +1304,114 @@
       "siteUrl": "https://www.cnbeta.com",
       "articles": [
         {
+          "id": "https://www.cnbeta.com/articles/science/1137105.htm",
+          "author": "ugmbbc",
+          "description": "2019年4月，科学家利用事件地平线望远镜（EHT）首次发布了星系M87中黑洞的图像。这个超大质量黑洞的重量是太阳质量的65亿倍，位于M87的中心，距离地球约5500万光年。这个超大质量的黑洞正在为几乎以光速飞行的粒子喷流提供动力。这些喷流产生的光跨越了整个电磁波谱，从无线电波到可见光到伽马射线。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/science/1137105.htm",
+          "publishedOn": "2021-06-05T12:16:47.000Z",
+          "wordCount": 184,
+          "title": "世界上最强大的望远镜联合对著名的M87星系黑洞进行力度空前的观测"
+        },
+        {
+          "id": "https://hot.cnbeta.com/articles/game/1137103.htm",
+          "author": "ugmbbc",
+          "description": "《战锤40K》系列快节奏新作《战锤40K：战区（Warhammer 40,000: Battlesector）》近日释出新战斗视频，展示了新单位“战斗修女”，预定7月16日上市。由Black Lab Games开发的《战锤40K：战区》是一款快节奏的回合制策略游戏，背景设定在第41个千年的残酷宇宙。\n 阅读全文",
+          "link": "https://hot.cnbeta.com/articles/game/1137103.htm",
+          "publishedOn": "2021-06-05T12:08:41.000Z",
+          "wordCount": 213,
+          "title": "《战锤40K：战区》新实机预告 展示新单位战斗修女"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1137101.htm",
+          "author": "ugmbbc",
+          "description": "6月5日消息，微博话题“中国人首次拿到三阶魔方平均世界纪录”登上热搜。据媒体报道，在2021WCA武汉魔方公开赛上，来自浙江丽水的13岁男孩许瑞航以平均5秒48的成绩打破三阶平均世界纪录，这是中国人首次拿到三阶魔方平均世界纪录。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1137101.htm",
+          "publishedOn": "2021-06-05T12:05:08.000Z",
+          "wordCount": 190,
+          "title": "浙江13岁男孩以平均5秒48打破魔方世界纪录"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1137099.htm",
+          "author": "ugmbbc",
+          "description": "微软将于6月24日公布下一版Windows的名称，有报道称，下一代桌面操作系统将被称为 \"Windows 11\"。该公司在内部将其下一代操作系统称为代号Sun Valley和Cobalt，但在6月24日正式发布时，它将被简单地称为Windows 11。对于那些已经运行Windows 10的人来说，这将是一个免费的可选升级，它将在今年秋天向主流受众发布。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1137099.htm",
+          "publishedOn": "2021-06-05T12:03:08.000Z",
+          "wordCount": 216,
+          "title": "Windows 10的继任者将自带处理器调度方面的改进 更好支持新架构"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1137097.htm",
+          "author": "ugmbbc",
+          "description": "原本栖息在云南西双版纳的一群野生亚洲象近日一路北迁，经普洱市墨江县、玉溪市元江县、红河州石屏县等多个地方。作为国家一级重点保护野生动物、生物多样性旗舰物种的亚洲象罕见地一路北迁，引发社会广泛关注。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1137097.htm",
+          "publishedOn": "2021-06-05T11:57:26.000Z",
+          "wordCount": 192,
+          "title": "野象群如不南返会有什么后果 专家：小种群可能灭绝"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1137095.htm",
+          "author": "ugmbbc",
+          "description": "俄罗斯卫星通讯社莫斯科6月5日电 根据俄罗斯政府采购网发布的俄航天集团的一份文件，俄罗斯“格洛纳斯”全球导航卫星系统的定位精度将在2030年后提高到10厘米以内。文件说：“作为格洛纳斯的长期发展前景，预计考虑在2050年前，建成以创新型导航卫星为基础的格洛纳斯系统卫星星座。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1137095.htm",
+          "publishedOn": "2021-06-05T11:55:24.000Z",
+          "wordCount": 192,
+          "title": "俄罗斯格洛纳斯卫星定位系统的精度将在2030年后提高到10厘米"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1137093.htm",
+          "author": "ugmbbc",
+          "description": "微软Office办公软件是很多人工作中必不可少的工具，熟能生巧，很多用户已经练就了一身使用这些办公软件的本领。如果你对自己的实力有自信，不妨尝试挑战一下财务建模世界大赛，最新一届比赛马上就要开始了。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1137093.htm",
+          "publishedOn": "2021-06-05T11:53:31.000Z",
+          "wordCount": 195,
+          "title": "微软Excel大赛再开 冠军可得5000美元奖励"
+        },
+        {
+          "id": "https://hot.cnbeta.com/articles/game/1137091.htm",
+          "author": "ugmbbc",
+          "description": "《暴雨》和《底特律：变人》开发商Quantic Dream的高管近日现身巴黎法院，为该公司起诉法国《世界报》和新闻网站Mediapart诽谤的讼案出庭。但根据报道称，庭审过程进行得并不顺利。法国工会Solidaires Informatique在网站上报道称，Quantic Dream的联合CEO David Cage和Guillaume de Fondaumière在作证环节的表现都很奇怪。\n 阅读全文",
+          "link": "https://hot.cnbeta.com/articles/game/1137091.htm",
+          "publishedOn": "2021-06-05T11:48:58.000Z",
+          "wordCount": 214,
+          "title": "《底特律：变人》开发商高管出庭作证时崩溃大哭"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1137089.htm",
+          "author": "ugmbbc",
+          "description": "“维权门”余温犹在，特斯拉再陷车辆召回旋涡之中。近日，特斯拉中国应相关国内法律法规要求，向国家市场监督管理总局备案了召回计划，决定召回2019年生产的部分进口Model 3车辆，并表示召回原因是由于这部分车辆安全带和车辆制动装置存在问题，易造成隐患。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1137089.htm",
+          "publishedOn": "2021-06-05T11:48:26.000Z",
+          "wordCount": 236,
+          "title": "主动召回、建数据中心、不再甩锅 特斯拉在中国“学乖”了？"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1137087.htm",
+          "author": "ugmbbc",
+          "description": "近日，人社部联合工信部正式公布实施《区块链应用操作员国家职业技能标准（2021年版本）》（以下简称《标准》）。该《标准》由中国电子商会承担制定，中国电子商会区块链专委会牵头，智谷星图和链人国际作为《标准》起草单位参与了标准启动、开发编写工作。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1137087.htm",
+          "publishedOn": "2021-06-05T11:47:07.000Z",
+          "wordCount": 195,
+          "title": "人社部工信部联合印发 区块链应用操作员国家职业技能标准来了"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/science/1137085.htm",
+          "author": "ugmbbc",
+          "description": "在整个COVID-19大流行的过程中，医生已经看到证据表明，男性患者的情况平均比女性感染者更糟糕。一种理论是，男性和女性之间的荷尔蒙差异可能使男性更容易受到严重疾病的影响。由于男性的睾丸激素比女性多得多，一些科学家推测，高水平的睾丸激素可能是罪魁祸首。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/science/1137085.htm",
+          "publishedOn": "2021-06-05T11:45:07.000Z",
+          "wordCount": 191,
+          "title": "低睾酮水平意味着男性患重症COVID-19的风险提高"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/science/1137083.htm",
+          "author": "ugmbbc",
+          "description": "智能材料是材料科学领域的最新革命，可以根据其周围环境的变化来调整其属性。它们可以被用于从自我修复的手机屏幕，到会变形以获得更好气动性能的飞机机翼，以及有针对性的药物输送等各个方面。使用智能材料将药物输送到体内的特定目标，对于像癌症这样的疾病尤其重要，因为智能材料只有在检测到癌细胞的存在时才会释放药物载荷，而健康细胞则不会受到伤害。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/science/1137083.htm",
+          "publishedOn": "2021-06-05T11:40:17.000Z",
+          "wordCount": 196,
+          "title": "突破性的新型智能材料拥有从给药到储能的许多潜在用途"
+        },
+        {
           "id": "https://www.cnbeta.com/articles/science/1137081.htm",
           "author": "ugmbbc",
           "description": "美国宇航局的InSight登陆器利用火星沙为自己提供动力，该航天器成功地清除了其太阳能电池板上的一些灰尘，帮助提高其产生能量的效率，并推迟它需要关闭其科学仪器的时间。InSight火星登陆器背后的团队想出了一个创新的方法，在航天器的能量水平一直在下降的时候提升它的能量。\n 阅读全文",
