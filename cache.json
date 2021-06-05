@@ -1304,6 +1304,60 @@
       "siteUrl": "https://www.cnbeta.com",
       "articles": [
         {
+          "id": "https://www.cnbeta.com/articles/tech/1137063.htm",
+          "author": "ugmbbc",
+          "description": "对于燃油车而言，最难的事情莫过于限制排放了。自2020年9月欧七排放拟定案发布以来，欧洲汽车工业与欧盟委员会之间关于排放标准新规的讨论博弈从未停息。日前，据媒体报道，欧洲汽车制造商协会（ACEA）对将于2026年实施的欧7排放标准，进行第三次发函抵制，并表示这样的标准等于是扼杀了所有内燃机。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1137063.htm",
+          "publishedOn": "2021-06-05T08:55:12.000Z",
+          "wordCount": 191,
+          "title": "欧洲车企联合抵制“欧七”排放新规"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1137061.htm",
+          "author": "ugmbbc",
+          "description": "《新闻1+1》节目上，科兴控股生物技术有限公司的董事长尹卫东表示：我可以肯定地告诉大家，现在中国的灭活疫苗，两针完成免疫以后，在我们体内已经建立起免疫记忆。我们最近已经完成了二期临床研究，就是打完两针剂次的志愿者，在隔三个月六个月之后接种第三针，抗体可以迅速地在一周内跳到十倍，半个月就可以达到二十倍的这样一个研究。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1137061.htm",
+          "publishedOn": "2021-06-05T08:53:41.000Z",
+          "wordCount": 191,
+          "title": "科兴董事长：接种第三针灭活疫苗后 抗体可迅速提升十倍"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1137059.htm",
+          "author": "study875",
+          "description": "据日本广播协会电视台统计 ，4 日，日本国内新增新冠肺炎确诊病例 2595 例；当天新增死亡病例 86 例。3 日，防疫专家在东京都疫情监测会议上警告称，目前东京都单日新增确诊病例数未呈明显下降趋势，且重症患者人数不见减少，疫情防控形势依然严峻。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1137059.htm",
+          "publishedOn": "2021-06-05T08:42:08.000Z",
+          "wordCount": 210,
+          "title": "东京疫情形势严峻 专家呼吁控制人员流动保证奥运举行"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1137057.htm",
+          "author": "study875",
+          "description": "动视最近似乎很热衷于将政坛人士招致麾下。今年 3 月份，动视雇佣了乔治 ·W· 布什时期的反恐专家 Frances F. Townsend 和有争议的特朗普政府成员 Brian Bulatao， 现在他们又雇佣了第三位政坛人士。乔治 ·W· 布什的前白宫律师 Grant Dixton 现已加入动视。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1137057.htm",
+          "publishedOn": "2021-06-05T08:41:22.000Z",
+          "wordCount": 240,
+          "title": "动视聘用前白宫法律顾问 Grant Dixton 担任首席法务官"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1137055.htm",
+          "author": "study875",
+          "description": "美国东部时间周四晚上 9 点左右，特斯拉创始人兼 CEO 埃隆·马斯克连发两条神秘推文，又一次轻易挑动了加密货币投资者的情绪。马斯克发布了“#比特币”、一个心碎的表情符号和一对情侣正讨论分手的照片，有人对此解读为这位亿万富翁与比特币的决裂。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1137055.htm",
+          "publishedOn": "2021-06-05T08:40:28.000Z",
+          "wordCount": 262,
+          "title": "币圈“慌了”：马斯克与比特币彻底决裂了？"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1137053.htm",
+          "author": "ugmbbc",
+          "description": "45岁林心如晒硕士毕业照上了热搜，大家感受下。据悉，在毕业典礼开始的前一天，学校就将学位服快递给了林心如，从照片中可以看到林心如淡妆出镜，皮肤很是紧致，她穿着硕士学位服，带着学士帽，歪着头看镜头的样子简直活脱脱的像个少女，很是青春可爱。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1137053.htm",
+          "publishedOn": "2021-06-05T08:38:02.000Z",
+          "wordCount": 185,
+          "title": "林心如晒硕士毕业照上热搜：45岁依然青春可爱 活脱脱像个少女"
+        },
+        {
           "id": "https://www.cnbeta.com/articles/tech/1137051.htm",
           "author": "study875",
           "description": "对话人物：赵小刚，博士，现为武汉大学计算机学院软件工程系讲师。主要研究方向为云计算、绿色计算和移动计算。主持和参加华为、苹果和Google等教育部产学研协同育人项目 4 项，主持湖北省自然基金 1 项，主持武汉大学校级教改项目 2 项。\n 阅读全文",
