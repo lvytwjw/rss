@@ -2,10 +2,65 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://lvytwjw.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-05T12:32:05.474Z</updated>
+    <updated>2021-06-05T13:56:33.302Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://lvytwjw.github.io/rss/index.html"/>
     <link rel="self" href="https://lvytwjw.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[彭博社：iPadOS 15将改进多任务处理 重新设计iOS 15的通知横幅]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1137115.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1137115.htm"/>
+        <updated>2021-06-05T13:54:54.000Z</updated>
+        <summary type="html"><![CDATA[据彭博社记者Mark Gurman报道，iPadOS 15将包括改进用户管理同时打开的多个应用程序的方式，此外，重新设计的通知横幅也将在iOS 15中首次出现。在一份关于苹果在周一的全球开发者大会上的预期的概述报告中，Gurman重申了他之前的报告，同时还提供了一些额外的新的花絮。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[印度政府警告Twitter：不遵守IT规则或面临“意想不到的后果”]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1137113.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1137113.htm"/>
+        <updated>2021-06-05T13:43:11.000Z</updated>
+        <summary type="html"><![CDATA[据路透社报道，在一封官方信函中，印度官员警告Twitter它还有最后一次机会遵守新的 IT 规则，否则将面临“意想不到的后果”。据介绍，新规则于2月宣布并于4月底生效，该规则旨在规范社交媒体上的内容，并使Facebook及其旗下WhatsApp即时通讯软件，以及Twitter等公司对法律要求负担更多负责。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美国摄影师告Capcom偷他的照片 要求赔偿至少1200万美元]]></title>
+        <id>https://hot.cnbeta.com/articles/game/1137111.htm</id>
+        <link href="https://hot.cnbeta.com/articles/game/1137111.htm"/>
+        <updated>2021-06-05T13:42:33.000Z</updated>
+        <summary type="html"><![CDATA[根据美国当地时间周五提交的一个新的诉讼，Capcom的游戏《鬼泣》《生化危机4》使用了数百个未经授权的图片，这其中甚至有《生化危机4》的logo。外媒Polygon报道，当地时间周五，摄影师Judy A.Juracek在美国康州法院提交了一个版权侵权诉讼，她控诉Capcom多个游戏在未经授权的情况下使用了她的书《Surfaces》中的图片。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[新的海洋鳞虫物种首次提供雄性侏儒症的进化证据]]></title>
+        <id>https://www.cnbeta.com/articles/science/1137109.htm</id>
+        <link href="https://www.cnbeta.com/articles/science/1137109.htm"/>
+        <updated>2021-06-05T13:23:40.000Z</updated>
+        <summary type="html"><![CDATA[在日本东南海岸的熊野海，一个进化之谜正等待着。研究人员从泥泞的海底收集样本，包括寄居蟹、软体动物和废弃的贝壳。在这里，在这些贝壳里和贝壳上，他们发现鳞片虫大多成对生活，与已经知道的近900种鳞片虫相比，它们有一个惊人的区别：其中一种是其配偶的四分之一大小。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[七国集团同意修改全球税率后 苹果公司等跨国科企面临更高的税收]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1137107.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1137107.htm"/>
+        <updated>2021-06-05T13:17:04.000Z</updated>
+        <summary type="html"><![CDATA[七国集团已同意填补鼓励苹果等大型跨国公司跨境转移资金的税收漏洞，其核心变化是制定全球最低公司税率。为了试图阻止资金转移到税收效率高的国家，主要经济体在相当长的时间里一直在与对大公司（如苹果和其他科技巨头）进行适当征税的问题作斗争。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[世界上最强大的望远镜联合对著名的M87星系黑洞进行力度空前的观测]]></title>
         <id>https://www.cnbeta.com/articles/science/1137105.htm</id>
