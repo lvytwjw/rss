@@ -1304,6 +1304,15 @@
       "siteUrl": "https://www.cnbeta.com",
       "articles": [
         {
+          "id": "https://www.cnbeta.com/articles/tech/1137119.htm",
+          "author": "ugmbbc",
+          "description": "在不久前，紫米推出了一款容量为10000mAh移动电源，与传统移动电源不同的是，这款产品不仅拥有迷你的机身，而且蕴藏着强大的输出，小小的体积可支持最大30W快充。其实对于移动电源而言，30W是一个比较尴尬的功率等级，市面上量产的产品屈指可数，而这种小体积的迷你30W快充移动电源更是史无前例，紫米算得上是首创。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1137119.htm",
+          "publishedOn": "2021-06-05T17:45:37.000Z",
+          "wordCount": 262,
+          "title": "拆解报告：ZMI紫米10000mAh双向快充移动电源高配版B818"
+        },
+        {
           "id": "https://www.cnbeta.com/articles/tech/1137117.htm",
           "author": "ugmbbc",
           "description": "SpaceX公司宣布，最新一艘\"龙\"货运飞船已于6月5日抵达国际空间站。这次任务是一次货物补给任务，为空间站上的宇航员运送了一吨新鲜的研究实验和物资。这次成功对接是SpaceX公司进行的第22次货物补给任务的一部分。\n 阅读全文",
