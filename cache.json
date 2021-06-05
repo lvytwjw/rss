@@ -1304,6 +1304,15 @@
       "siteUrl": "https://www.cnbeta.com",
       "articles": [
         {
+          "id": "https://www.cnbeta.com/articles/tech/1137117.htm",
+          "author": "ugmbbc",
+          "description": "SpaceX公司宣布，最新一艘\"龙\"货运飞船已于6月5日抵达国际空间站。这次任务是一次货物补给任务，为空间站上的宇航员运送了一吨新鲜的研究实验和物资。这次成功对接是SpaceX公司进行的第22次货物补给任务的一部分。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1137117.htm",
+          "publishedOn": "2021-06-05T14:05:22.000Z",
+          "wordCount": 190,
+          "title": "SpaceX的\"龙\"货运飞船与国际空间站安全实现自动对接"
+        },
+        {
           "id": "https://www.cnbeta.com/articles/tech/1137115.htm",
           "author": "ugmbbc",
           "description": "据彭博社记者Mark Gurman报道，iPadOS 15将包括改进用户管理同时打开的多个应用程序的方式，此外，重新设计的通知横幅也将在iOS 15中首次出现。在一份关于苹果在周一的全球开发者大会上的预期的概述报告中，Gurman重申了他之前的报告，同时还提供了一些额外的新的花絮。\n 阅读全文",

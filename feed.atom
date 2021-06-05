@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://lvytwjw.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-05T13:56:33.302Z</updated>
+    <updated>2021-06-05T14:34:27.591Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://lvytwjw.github.io/rss/index.html"/>
     <link rel="self" href="https://lvytwjw.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[SpaceX的"龙"货运飞船与国际空间站安全实现自动对接]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1137117.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1137117.htm"/>
+        <updated>2021-06-05T14:05:22.000Z</updated>
+        <summary type="html"><![CDATA[SpaceX公司宣布，最新一艘"龙"货运飞船已于6月5日抵达国际空间站。这次任务是一次货物补给任务，为空间站上的宇航员运送了一吨新鲜的研究实验和物资。这次成功对接是SpaceX公司进行的第22次货物补给任务的一部分。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[彭博社：iPadOS 15将改进多任务处理 重新设计iOS 15的通知横幅]]></title>
         <id>https://www.cnbeta.com/articles/tech/1137115.htm</id>
