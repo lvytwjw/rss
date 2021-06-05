@@ -1304,6 +1304,204 @@
       "siteUrl": "https://www.cnbeta.com",
       "articles": [
         {
+          "id": "https://www.cnbeta.com/articles/tech/1137011.htm",
+          "author": "raymon725",
+          "description": "作为通用汽车（GM）旗下的自动驾驶汽车子公司，Cruise 也得到了软银愿景基金、微软、以及本田等投资者的大力支持。最新消息是，Cruise 已经获得了许可，允许其在没有人类安全操作员介入的情况下，于加州公共道路上开展有乘客参与的无人驾驶汽车技术实测。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1137011.htm",
+          "publishedOn": "2021-06-05T06:07:00.000Z",
+          "wordCount": 210,
+          "title": "加州乘客现可参与Cruise无人驾驶汽车的道路实测"
+        },
+        {
+          "id": "https://hot.cnbeta.com/articles/game/1137009.htm",
+          "author": "raymon725",
+          "description": "习惯了借助 Valve 提供的 Proton 兼容工具，以在 Linux 平台上运行 Windows 游戏的玩家们，将很快迎来一项重要的功能改进。英伟达刚刚宣布，该公司将携手游戏大厂 Valve，把 RTX 显卡的“深度学习超级采样”（DLSS）技术引入 Linux。作为一项以牺牲细微画质来大幅提升高分辨率游戏流畅度的技术，它显然是对资源开销极其夸张的光线追踪（RT）功能的最佳搭档。\n 阅读全文",
+          "link": "https://hot.cnbeta.com/articles/game/1137009.htm",
+          "publishedOn": "2021-06-05T05:53:01.000Z",
+          "wordCount": 246,
+          "title": "英伟达携手Valve将DLSS技术引入Linux"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1137007.htm",
+          "author": "study875",
+          "description": "今年 2 月，有报告称 Apple Silicon Mac 所搭载的 SSD 存在过度磨损的问题；现在该问题似乎已经在 macOS 11.4 版本更新中得到修复。通常情况下 SSD 的寿命可以持续很多年，但是当写入次数达到一定次数之后就会变得无法使用。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1137007.htm",
+          "publishedOn": "2021-06-05T05:51:18.000Z",
+          "wordCount": 251,
+          "title": "macOS 11.4已修复M1 Mac SSD过度磨损的问题"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/science/1137005.htm",
+          "author": "raymon725",
+          "description": "美国宇航局（NASA）宣布，在韩国签署 Artemis Accords 探月合作协议一周之后，新西兰也成为了最新加入该项目的第 11 个国家。5 月 31 日，代表新西兰航天局 Peter Crabtree 博士（图左）、在美国驻新西兰大使馆临时代办 Kevin Cover（图右）的注视下完成了 Artemis Accords 协议的签署。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/science/1137005.htm",
+          "publishedOn": "2021-06-05T05:36:26.000Z",
+          "wordCount": 227,
+          "title": "新西兰成为第11个加盟Artemis Accords探月合作项目的国家"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1137003.htm",
+          "author": "raymon725",
+          "description": "在勒布朗·詹姆斯（LeBron James）于 Instagram 上晒出了疑似佩戴未发布的 Beats Studio Buds 真无线耳机的照片之后，近日又有眼尖的网友在罗迪·里奇（Roddy Ricch）的一支音乐录影带中发现了它的身影。作为一位知名的说唱歌手兼词曲作者，你可在他新发布的《Late At Night》MV 中，看到一闪而过的疑似 Beats Studio Buds 的的镜头。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1137003.htm",
+          "publishedOn": "2021-06-05T05:19:05.000Z",
+          "wordCount": 272,
+          "title": "Roddy Ricch新曲MV惊现尚未发布的Beats Studio Buds真无线耳机"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1137001.htm",
+          "author": "raymon725",
+          "description": "iFixit 维修专家已经完成了对 M1 iPad Pro 的初步拆解，并且对 2021 款机型新引入的 mini-LED 背光进行了重点观察。虽然完整的拆解报告尚未发布，但我们可以预先知晓 mini-LED 背光与过去几代相比有哪些细微的变化。需要指出的是，11 英寸 M1 iPad Pro 采用的仍是较为普通的屏幕，但 12.9 英寸 M1 iPad Pro 则用上了基于 mini-LED 背光的 XDR 显示屏。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1137001.htm",
+          "publishedOn": "2021-06-05T05:02:09.000Z",
+          "wordCount": 279,
+          "title": "iFixit分享M1 iPad Pro初步拆解视频 mini-LED背光等组件有细微变化"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1136999.htm",
+          "author": "ugmbbc",
+          "description": "2011年苹果首次公开其供应商名单，在此后的9年时间里，来自中国的供应商数量持续增长。即使在美国不断打压中国科技公司发展的情况下，这个态势也没有受到影响。苹果供应商名单涵盖了公司上一财年在材料、制造和组装方面的支出的 98%（2020年）。虽然它没有披露每家公司的采购价值，但该报告可以作为衡量苹果对世界不同地区供应商依赖程度的晴雨表。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1136999.htm",
+          "publishedOn": "2021-06-05T04:58:02.000Z",
+          "wordCount": 272,
+          "title": "中国大陆企业走向苹果供应商“神坛”"
+        },
+        {
+          "id": "https://hot.cnbeta.com/articles/game/1136997.htm",
+          "author": "ugmbbc",
+          "description": "《反恐精英：全球攻势》仍然是一款免费游戏，但接下来如果玩家想要玩竞技模式的话，就需要付费了。Valve近日宣布，免费玩家将在XP获取、掉落和竞技模式等方面受限，因为免费玩家“正在破坏其他玩家的游戏体验”。\n 阅读全文",
+          "link": "https://hot.cnbeta.com/articles/game/1136997.htm",
+          "publishedOn": "2021-06-05T04:54:59.000Z",
+          "wordCount": 188,
+          "title": "《CS：GO》将限制免费玩家参与竞技模式游戏"
+        },
+        {
+          "id": "https://hot.cnbeta.com/articles/game/1136995.htm",
+          "author": "ugmbbc",
+          "description": "Panic今日宣布，他们将于6月9日举行Playdate Update视频发布会。这次15分钟的发布会展示将于北京时间6月9日0点举行，届时会对公司的Playdate掌机进行全面介绍，内容包括预购开启时间和第一季游戏阵容。\n 阅读全文",
+          "link": "https://hot.cnbeta.com/articles/game/1136995.htm",
+          "publishedOn": "2021-06-05T04:54:35.000Z",
+          "wordCount": 191,
+          "title": "售价180美元的新掌机Playdate发布会6月9日零时举行"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1136993.htm",
+          "author": "ugmbbc",
+          "description": "6月5日，据外媒报道，德国豪华汽车制造商——宝马宣布，今年年底之前该公司计划在中国工厂实现碳排放中和，同时计划在2030年将中国生产链的碳排放总量削减80%。宝马公司中华区总裁高乐（Jochen Goller）在上海车展期间曾表示，到2023年，宝马将在中国推出12款电动车型。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1136993.htm",
+          "publishedOn": "2021-06-05T04:53:08.000Z",
+          "wordCount": 192,
+          "title": "宝马宣布中国工厂年内达到碳中和 全力推进电动车销量"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1136991.htm",
+          "author": "ugmbbc",
+          "description": "就业的起跑线被拉近了。读中文系的秀媛到了大三暑假才恍然发现，那些互联网大厂的招聘信息里，与文艺创作相关的岗位，大多要求懂影视剪辑，如果专业不对口，一定要有实习经验。她所在院系排课很满，少有人逃课实习。往前数的寒暑假期，她更多用于读书和逛博物馆，比起实习、消费，认出殷商青铜器上的铭文才让秀媛着迷。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1136991.htm",
+          "publishedOn": "2021-06-05T04:49:51.000Z",
+          "wordCount": 185,
+          "title": "他们想成为互联网大厂“标准件”"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1136989.htm",
+          "author": "raymon725",
+          "description": "台湾地区知名半导体企业、兼苹果供应商之一的京元电子，已因 COVID-19 聚集感染而关闭了两处生产基地，预计后续可能加剧半导体行业的供应短缺状况。该公司证实，旗下苗栗生产基地有 77 名员工确诊新冠病毒阳性，于是被迫决定暂时停止生产。受此事件影响，当地政府也终于对桃园、新竹和苗栗的疫情提起了重视，对相关区域和工作人员开展广泛的检测。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1136989.htm",
+          "publishedOn": "2021-06-05T04:47:41.000Z",
+          "wordCount": 217,
+          "title": "半导体供应链短缺持续 京元电子又现COVID-19群聚感染"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1136987.htm",
+          "author": "ugmbbc",
+          "description": "一切来得十分突然。“5月30日，高途刚给我发了入职确认信息的链接，我5月31日迫不及待租了房准备入职，刚交完房租，高途HR就告诉我，不要人了。”被爽约的吴娜对深燃感叹，这次找工作就像是一个笑话，工作没了，房租也拿不回来了。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1136987.htm",
+          "publishedOn": "2021-06-05T04:46:28.000Z",
+          "wordCount": 187,
+          "title": "10万辅导老师困境：上半年被抢，下半年被裁"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1136985.htm",
+          "author": "ugmbbc",
+          "description": "当地时间4日，美国社交媒体巨头脸书（Facebook）宣布，将延续该公司独立监督委员会5月的决定，继续冻结前总统特朗普的Facebook和Instagram账户，最早到2023年1月7日解封。随后，特朗普把这一决定称作“侮辱”，同时表示他“重返白宫”后不会再招待脸书CEO扎克伯格。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1136985.htm",
+          "publishedOn": "2021-06-05T04:45:09.000Z",
+          "wordCount": 192,
+          "title": "遭Facebook继续封号 特朗普：下次入主白宫不和扎克伯格吃饭"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1136983.htm",
+          "author": "ugmbbc",
+          "description": "东方有老子“天欲其亡，必令其狂”，西方有《圣经·旧约》“骄傲在败坏以先；狂心在跌倒之前”，说的都是骄兵必败的故事。尽管过去了千年，但古人的智慧依旧适用于现在，特别是中国的汽车市场，特别是最近风头无两的特斯拉和马斯克。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1136983.htm",
+          "publishedOn": "2021-06-05T04:44:35.000Z",
+          "wordCount": 219,
+          "title": "传统车企股价上涨 福特前CEO向马斯克开炮"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1136981.htm",
+          "author": "ugmbbc",
+          "description": "万物互联——这是鸿蒙操作系统(HarmonyOS)自诞生起就承担的使命，也代表着华为最终的智能愿景。“万物互联时代，没有人会是一座孤岛。”华为消费者业务CEO余承东在2日晚的发布会上深情发言。他最后表态：“我们希望与更多合作伙伴、开发者共同繁荣鸿蒙生态，为全球消费者提供更好的体验、更好的产品、更好的服务。”\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1136981.htm",
+          "publishedOn": "2021-06-05T04:43:23.000Z",
+          "wordCount": 193,
+          "title": "万物互联是个江湖 华为鸿蒙结交盟友要和时间赛跑"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1136979.htm",
+          "author": "ugmbbc",
+          "description": "今日，苹果公司与苏州工业园，以及泰达生态中心在苏州签署《谅解备忘录》，三方将共同推动全球首例、国内首个产业园区可持续水管理体系认证示范项目在苏州工业园区落地。这是苹果公司与供应商一起向产业链进一步扩展保护水资源的重要一步，苹果公司将提供技术等支持。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1136979.htm",
+          "publishedOn": "2021-06-05T04:41:26.000Z",
+          "wordCount": 193,
+          "title": "苹果与供应商合作可持续水管理体系示范项目在苏州工业园区落地"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1136977.htm",
+          "author": "ugmbbc",
+          "description": "让董紫洁躺平的最后一根稻草，是抑郁症复发。经济观察报记者见到她的时候，她正出门拿快递，她住在距离字节跳动15分钟可到的一个小区，这里被称为“节区房”，是字节跳动每月发1500元租房补助的地方。之前抑郁症发作的时候，她在这间房子里，连床都起不来。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1136977.htm",
+          "publishedOn": "2021-06-05T04:39:36.000Z",
+          "wordCount": 187,
+          "title": "“裸辞”大厂，他们为什么选择“躺平”"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1136975.htm",
+          "author": "ugmbbc",
+          "description": "国产半导体厂商正在一步步追赶国际先进水平，日前华虹半导体宣布，该公司推出的90nm BCD工艺已经在华虹无锡12英寸生产线已实现规模量产。华虹指出，90nm BCD工艺具备性能高、核心面积较小等优势，拥有更佳的电性参数，并且得益于12英寸制程的稳定性，良率优异，为数字电源、数字音频功放等芯片应用提供了更具竞争力的制造方案。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1136975.htm",
+          "publishedOn": "2021-06-05T04:36:50.000Z",
+          "wordCount": 199,
+          "title": "国产半导体厂商量产90nm BCD工艺优势明显"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1136973.htm",
+          "author": "ugmbbc",
+          "description": "最近发现一个超牛批的 App，装了它就等于装了一部手机，甚至是好几部，而且它还可以开启 root 环境，让手机免 root 直接使用 Xposed 模块。手机能够用上 Xposed 模块意味着什么有些差友可能不是很清楚，这么说吧，有了 Xposed 模块，你的手机就像是开了挂一样，几乎可以 “ 为所欲为 ”。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1136973.htm",
+          "publishedOn": "2021-06-05T04:35:28.000Z",
+          "wordCount": 342,
+          "title": "在手机上开虚拟机的快乐你永远想不到"
+        },
+        {
+          "id": "https://hot.cnbeta.com/articles/game/1136971.htm",
+          "author": "ugmbbc",
+          "description": "近日，AMD在台北电脑展上正式推出了FidelityFX Super Resolution（简称FSR）技术，宣称4K游戏性能最多可提升200%以上，将用来对抗NVIDIA的DLSS技术。据Gamesadar报道，在AMD FSR技术发布之后，微软就宣布将为旗下次时代主机Xbox Series X/S加入该技术的支持，可以将该系列主机提供更高的游戏帧率表现。\n 阅读全文",
+          "link": "https://hot.cnbeta.com/articles/game/1136971.htm",
+          "publishedOn": "2021-06-05T04:33:17.000Z",
+          "wordCount": 222,
+          "title": "微软Xbox Series X/S将支持AMD FSR技术 游戏帧率翻倍"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1136969.htm",
+          "author": "ugmbbc",
+          "description": "HarmonyOS（鸿蒙操作系统）已经发布，这几天不少华为手机、平板用户已经升级到了新系统上，不少人表示更流畅、省电了。除了鸿蒙OS之外，APP应用也是分为安卓版及鸿蒙版的，虽然鸿蒙OS是兼容安卓APK的，但鸿蒙版APP应用也有自己的特点，比如支持鸿蒙特性，支持鸿蒙的卡片式设计等等。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1136969.htm",
+          "publishedOn": "2021-06-05T04:31:44.000Z",
+          "wordCount": 205,
+          "title": "鸿蒙版应用细节：图标多了4个字、容量比Android小很多"
+        },
+        {
           "id": "https://www.cnbeta.com/articles/tech/1136967.htm",
           "author": "raymon725",
           "description": "近段时间，社交网络巨头 Facebook 一直在开展大量虚拟现实工作室收购。最新消息是，该公司还将目光瞄向了一个与 Roblox 类似的游戏创作平台，并且正打算收购 Crayta 开发商 —— Unit 2 Games 工作室。与许多其它平台一样，Crayta 也构建在虚幻引擎之上，为用户提供了一个更加简洁的创作界面，并结合了自家的发现和社区功能。\n 阅读全文",
