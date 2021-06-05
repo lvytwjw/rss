@@ -1304,6 +1304,33 @@
       "siteUrl": "https://www.cnbeta.com",
       "articles": [
         {
+          "id": "https://www.cnbeta.com/articles/science/1137081.htm",
+          "author": "ugmbbc",
+          "description": "美国宇航局的InSight登陆器利用火星沙为自己提供动力，该航天器成功地清除了其太阳能电池板上的一些灰尘，帮助提高其产生能量的效率，并推迟它需要关闭其科学仪器的时间。InSight火星登陆器背后的团队想出了一个创新的方法，在航天器的能量水平一直在下降的时候提升它的能量。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/science/1137081.htm",
+          "publishedOn": "2021-06-05T11:34:45.000Z",
+          "wordCount": 194,
+          "title": "美国宇航局的InSight登陆器利用火星沙为自己提供动力"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1137079.htm",
+          "author": "ugmbbc",
+          "description": "英国皇家海军首次使用人工智能在海上对实弹导弹进行测试，让人们看到了自主系统在军事领域的未来。这次演习将在三周内进行，涉及测试两个系统，代号分别为Sycoiea和Startle。皇家海军表示，这是迄今为止进行的最大规模的此类测试。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1137079.htm",
+          "publishedOn": "2021-06-05T11:26:54.000Z",
+          "wordCount": 195,
+          "title": "英国皇家海军使用人工智能系统测试对抗超音速导弹"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1137077.htm",
+          "author": "ugmbbc",
+          "description": "据目前的消息爆料，苹果即将发布的 iPhone 13 系列预计将包括 iPhone 13 mini、iPhone 13、iPhone 13 Pro 与 iPhone 13 Pro Max 机型。日前，据一外媒报道，某资深分析师在一份投资者报告中表示，iPhone 13 系列所有型号都将配备 LiDAR 激光雷达。低配的iPhone 13 mini、iPhone 13机型也将得以支持这项以往Pro版独享的功能。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1137077.htm",
+          "publishedOn": "2021-06-05T11:22:32.000Z",
+          "wordCount": 251,
+          "title": "爆料称iPhone 13系列将推1TB顶配版 全系标配LiDAR"
+        },
+        {
           "id": "https://www.cnbeta.com/articles/tech/1137075.htm",
           "author": "ugmbbc",
           "description": "广东的疫情牵动了你我的心。截至 6 月 5 日上午 10 点 39 分，广东确诊病例为 129 例，累计确诊 2525 例，累计治愈 2388 例，累计死亡 8 例。这些冰冷的数字后面是一名名患者、一个个家庭。令人揪心的同时多方协同、共同抗疫，全面筑牢防控的安全防线。\n 阅读全文",
