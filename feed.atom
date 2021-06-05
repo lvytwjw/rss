@@ -2,10 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://lvytwjw.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-05T18:15:33.025Z</updated>
+    <updated>2021-06-05T19:49:38.586Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://lvytwjw.github.io/rss/index.html"/>
     <link rel="self" href="https://lvytwjw.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[吸​入式新冠疫苗临床效果怎么样？一两个月之内可能会有好消息]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1137123.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1137123.htm"/>
+        <updated>2021-06-05T18:48:00.000Z</updated>
+        <summary type="html"><![CDATA[6月3日，在2021浦江创新论坛上，中国工程院院士、军事科学院研究员陈薇透露的一则消息振奋人心：她带领团队与康希诺合作研发的吸入式重组新冠病毒疫苗（腺病毒载体）正向国家药监局申请紧急使用授权。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[中国邮政开了奶茶店？工作人员：是入股公司的业务]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1137121.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1137121.htm"/>
+        <updated>2021-06-05T18:45:08.000Z</updated>
+        <summary type="html"><![CDATA[6月5日消息，有网友称福建有一家名为“邮氧的茶”奶茶店，熟悉的黄绿配色让人以为这是中国邮政开设。据媒体报道，福建福州这家奶茶店开在中邮旗下的药房内，包装设计也有邮政元素，这让“中国邮政成立奶茶店”的消息引发网络热议。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[拆解报告：ZMI紫米10000mAh双向快充移动电源高配版B818]]></title>
         <id>https://www.cnbeta.com/articles/tech/1137119.htm</id>
