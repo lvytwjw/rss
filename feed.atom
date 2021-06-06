@@ -2,10 +2,109 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://lvytwjw.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-06T08:37:59.945Z</updated>
+    <updated>2021-06-06T09:33:43.797Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://lvytwjw.github.io/rss/index.html"/>
     <link rel="self" href="https://lvytwjw.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[“机器人让我这么干”：研究发现机器人可以鼓励人们的冒险行为]]></title>
+        <id>https://www.cnbeta.com/articles/science/1137309.htm</id>
+        <link href="https://www.cnbeta.com/articles/science/1137309.htm"/>
+        <updated>2021-06-06T09:12:08.000Z</updated>
+        <summary type="html"><![CDATA[新的研究表明，机器人可以鼓励人类在模拟的赌博场景中承担更大的风险。增加我们对机器人是否能影响风险承担的理解，可能会产生明显的道德、实践和政策影响，这项研究就是为了探索这个问题。领导这项研究的南安普顿大学风险管理学副教授Yaniv Hanoch博士解释说：
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google正在将YouTube的部分内容转移到自家云服务上]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1137307.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1137307.htm"/>
+        <updated>2021-06-06T09:09:20.000Z</updated>
+        <summary type="html"><![CDATA[Google云计算负责人表示，Google正在将其流行的YouTube视频服务的一部分从广告公司的内部数据中心基础设施转移到公司的云计算服务。这一努力表明Google正在“向内看”，因为它试图扩大其在不断增长的云计算市场的份额，并减少对出现在其网络搜索引擎和其他产品上的广告的依赖。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美媒：特朗普社交媒体“解禁”适时赶得上总统大选]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1137305.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1137305.htm"/>
+        <updated>2021-06-06T09:04:18.000Z</updated>
+        <summary type="html"><![CDATA[美国《洛杉矶时报》网站4日发表题为《特朗普的脸书禁令可能适时结束，赶得上2024年总统大选》的文章，作者系布赖恩·孔特雷拉斯。文章称，特朗普最快2023年1月7日可重回脸书，这令他有足够的时间重新登录，展开下一次总统竞选。全文摘编如下：
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[比亚迪在美国洛杉矶推出纯电动校车 行驶和维护成本双双降低60%]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1137303.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1137303.htm"/>
+        <updated>2021-06-06T08:54:19.000Z</updated>
+        <summary type="html"><![CDATA[比亚迪在洛杉矶推出了兼具颜值、性能和安全性的D型纯电动校车。比亚迪D型纯电动校车（美国校车分为A、B、C、D四种型号，可以搭载的学生从16人到90人不等）比亚迪D型校车共有35、38、40英尺三款长度可供选择，续航里程可达250公里，最多可乘坐84人，能完全满足学校日常的学生接送、郊游、校园赛事及乐队演出用车的基本需求。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[台州警务人员被撞事件与特斯拉车辆本身无关 警方查明认定驾驶员负全责]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1137301.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1137301.htm"/>
+        <updated>2021-06-06T08:51:44.000Z</updated>
+        <summary type="html"><![CDATA[记者6月6日从浙江省台州市公安局获悉，5月17日台州路桥交通事故原因已经查明：经过专业机构检测，该起事故与特斯拉品牌车辆本身无关；警方查明认定驾驶员陈某龙负全责。据台州市公安局通报，5月17日17时15分许，陈某龙驾驶特斯拉品牌轿车途经路桥螺洋街道104西复线高架桥时，碰撞正在现场的两名警务人员。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[江西专升本发生泄题事件：嫌疑人已被控制]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1137299.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1137299.htm"/>
+        <updated>2021-06-06T08:50:30.000Z</updated>
+        <summary type="html"><![CDATA[6月6日下午，据南昌公安通报，6月5日21时许，公安机关接江西省教育考试院报警称，6月5日上午全省普通高校专升本考试公共基础科目疑似发生组织作弊事件。经初步调查，江西润知林教育咨询有限公司工作人员许某等涉嫌组织考生作弊违法犯罪。涉案主要犯罪嫌疑人许某等已被公安机关控制。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美国司法部起诉编写Trickbot恶意软件源代码的拉脱维亚女程序员]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1137297.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1137297.htm"/>
+        <updated>2021-06-06T08:49:44.000Z</updated>
+        <summary type="html"><![CDATA[美国司法部今天在法庭上提审了一名拉脱维亚女程序员，她是Trickbot恶意软件团队的一员，在那里她担任程序员，编写控制恶意软件和在受感染电脑上部署勒索软件的代码。司法部在今天的一份新闻稿中说，55岁的阿拉·维特来自拉脱维亚，但居住在苏里南的帕拉马里博，于2月6日在佛罗里达州的迈阿密被捕。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[奇怪的海洋生物海樽可能会改善海洋生态系统的健康状况]]></title>
+        <id>https://www.cnbeta.com/articles/science/1137295.htm</id>
+        <link href="https://www.cnbeta.com/articles/science/1137295.htm"/>
+        <updated>2021-06-06T08:44:51.000Z</updated>
+        <summary type="html"><![CDATA[佛罗里达州立大学的研究人员对在世界各地的海洋中发现的一种奇怪的海洋生物以及它们的存在对海洋生态系统的健康意味着什么有了更深入的了解。科学家们曾认为，海樽 - 看起来像透明的胶状物的小型海洋生物，他们主要与磷虾竞争资源，而磷虾是许多海洋动物的重要食物来源。但是发表在《湖泊学和海洋学》上的新研究表明，海樽实际上是在与一种被称为原生动物的生物竞争食物。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[中科院大连化学物理研究所制备出高性能二维钙钛矿太阳电池]]></title>
+        <id>https://www.cnbeta.com/articles/science/1137293.htm</id>
+        <link href="https://www.cnbeta.com/articles/science/1137293.htm"/>
+        <updated>2021-06-06T08:37:57.000Z</updated>
+        <summary type="html"><![CDATA[近日，我所太阳能研究部薄膜太阳能电池研究组（DNL1606）刘生忠研究员团队与陕西师范大学赵奎教授合作，在二维Dion-Jacobson（DJ）钙钛矿成膜控制研究中取得新进展，制备了高效率芳香族二维DJ钙钛矿太阳电池。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[EA开始《战地》新作宣传 推特私信发送神秘信息]]></title>
         <id>https://hot.cnbeta.com/articles/game/1137291.htm</id>
