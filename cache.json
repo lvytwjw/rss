@@ -1286,6 +1286,15 @@
       "siteUrl": "https://www.cnbeta.com",
       "articles": [
         {
+          "id": "https://www.cnbeta.com/articles/tech/1137361.htm",
+          "author": "ugmbbc",
+          "description": "苹果公司将于周一在其年度WWDC活动中公布其一系列设备操作系统的重大更新。我们将连续第二年看到一个线上主题演讲而不是线下活动。这次发布会将在网上直播，因此粉丝和开发者可以看到iOS 15、iPadOS 15、tvOS 15、macOS 12和watchOS 8的首次亮相。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1137361.htm",
+          "publishedOn": "2021-06-06T19:05:19.000Z",
+          "wordCount": 202,
+          "title": "苹果公司在2021年WWDC上的四个重点内容被泄露"
+        },
+        {
           "id": "https://www.cnbeta.com/articles/tech/1137359.htm",
           "author": "ugmbbc",
           "description": "一直关注Twitter开发工作的Jane Manchun Wong发现了Twitter的付费订阅功能的细节，该功能名为超级粉丝“Super Follows”。Twitter希望对该服务进行试验，这将使支付4.99美元的追随者能够获得独家内容。\n 阅读全文",
