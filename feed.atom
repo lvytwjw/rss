@@ -2,10 +2,109 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://lvytwjw.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-06T06:04:35.744Z</updated>
+    <updated>2021-06-06T07:47:40.917Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://lvytwjw.github.io/rss/index.html"/>
     <link rel="self" href="https://lvytwjw.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[IMT-2030(6G)推进组正式发布《6G总体愿景与潜在关键技术》白皮书]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1137261.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1137261.htm"/>
+        <updated>2021-06-06T07:42:52.000Z</updated>
+        <summary type="html"><![CDATA[当前，新一轮科技革命和产业变革突飞猛进，随着5G商用的大规模部署，全球业界已开启对下一代移动通信（6G）的探索研究。2021年6月6日，IMT-2030(6G)推进组（以下简称“推进组”）正式发布《6G总体愿景与潜在关键技术》白皮书，本白皮书作为推进组的阶段性成果，内容涵盖总体愿景、八大业务应用场景、十大潜在关键技术等，并阐述了对6G发展的一些思考。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[中国近视患者人数达6亿 你的视力达标吗？]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1137259.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1137259.htm"/>
+        <updated>2021-06-06T07:39:30.000Z</updated>
+        <summary type="html"><![CDATA[今天是全国爱眼日，我们国家是世界第一近视大国，青少年的“小眼镜”问题更为突出。人们常说“眼睛是心灵的窗户”，在今天这个以爱护眼睛为主题的日子里，让我们都关爱一下自己的“心灵之窗”。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[高通候任CEO安蒙公布市场数据：中国市场每秒出货5部5G手机]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1137257.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1137257.htm"/>
+        <updated>2021-06-06T07:35:35.000Z</updated>
+        <summary type="html"><![CDATA[2019年6月6日，工信部向中国移动、中国电信、中国联通、中国广电发放5G牌照，标志着中国正式进入5G元年。今日，迎来5G发牌两周年日，为此高通公司总裁兼候任CEO安蒙通过微博为中国在5G领域的发展送上祝贺。安蒙表示，简单计算一下，每一秒钟，中国市场出货5部5G手机，中国速度让人赞叹。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[小米全新65W双口GaN充电器上架 售价149元]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1137255.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1137255.htm"/>
+        <updated>2021-06-06T07:29:02.000Z</updated>
+        <summary type="html"><![CDATA[6月6日消息，今日，小米商城上架了一款全新65W双口GaN充电器，售价149元，与此前单口版一致。该充电器可为小米11提供适配原装充电器的充电功率，45分钟即可将电量充至100%。同时，小米GaN充电器65W（1A1C）还可为iPhone 12提供快充，30分钟将电量充至60%。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[全国唯一一趟高考专列今日启程：已连续开行19年]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1137253.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1137253.htm"/>
+        <updated>2021-06-06T07:28:20.000Z</updated>
+        <summary type="html"><![CDATA[6月6日9时45分，嫩林铁路大杨树站站台上，425名考生及其家长在测温、扫码后登上K5117次“共青团号”高考专列，前往一百多公里外的鄂伦春族自治旗阿里河镇参加高考。迄今为止，这趟高考专列已经连续运营了19个年头，是全国唯一一趟高考专列，被当地考生称为“梦想专列”。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[小马智行调动自动驾驶运力进入广州荔湾区封闭区域 为居民与医护输送物资]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1137251.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1137251.htm"/>
+        <updated>2021-06-06T07:20:54.000Z</updated>
+        <summary type="html"><![CDATA[近日，广州荔湾多个区域受到了疫情侵袭，居民的生活也在一定程度上受到了影响。6 月 3 日，广州市人民政府发布《关于进一步加强新冠肺炎疫情分级分类防控工作的通告（第 16 号）》，将荔湾区白鹤洞街、东漖街调整为封闭管理区域，严格居家，足不出户，执行封闭管理。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cruise拿下加州首个无人驾驶载客资格 下一阶段商业化测试]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1137249.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1137249.htm"/>
+        <updated>2021-06-06T07:18:35.000Z</updated>
+        <summary type="html"><![CDATA[加州第一辆全无人载客自动驾驶汽车出现！近日，加州公用事业委员会（CPUC）在推特宣布，Cruise可以在无安全员参与下，提供无人驾驶汽车载客服务。Cruise随后转载这一推特，并表示其成为首家获得此类许可的公司。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[抛弃了雷达的特斯拉Model Y比旧款更好？]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1137247.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1137247.htm"/>
+        <updated>2021-06-06T07:17:33.000Z</updated>
+        <summary type="html"><![CDATA[特斯拉向来“自带流量”。此前，视听行业顾问格雷森·布鲁特（Grayson Brulte）在推特上发布了特斯拉Model Y 的照片，有人指出这辆车的车顶装上了激光雷达传感器，这让很多网友惊呼，马斯克“打脸”要用雷达了？
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[黑客组织Anonymous公开抨击马斯克操纵加密市场]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1137245.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1137245.htm"/>
+        <updated>2021-06-06T07:12:17.000Z</updated>
+        <summary type="html"><![CDATA[据SputnikNews 6月6日报道，黑客组织 Anonymous 在 YouTube 发布了抨击世界首富、特斯拉和 SpaceX 的创始人埃隆·马斯克的视频，视频中抨击马斯克常常在社交媒体“胡说八道”并凭借胡言乱语引发加密市场的巨大波动，并称：
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[云南北迁断鼻象群正面照首曝 监测员：敢于拓展新领地]]></title>
         <id>https://www.cnbeta.com/articles/tech/1137243.htm</id>
