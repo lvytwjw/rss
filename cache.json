@@ -1295,6 +1295,141 @@
       "siteUrl": "https://www.cnbeta.com",
       "articles": [
         {
+          "id": "https://hot.cnbeta.com/articles/game/1137291.htm",
+          "author": "ugmbbc",
+          "description": "《战地》新作即将在6月9日正式公布，EA似乎已经开始市场推广行动，通过推特私信向各位内容创作者发送一些加密信息。在推特上，《战地》官方推特账号向油管作者JackFrags、PeterSMK2和Lirik等人发送了信息，内容如下：\n 阅读全文",
+          "link": "https://hot.cnbeta.com/articles/game/1137291.htm",
+          "publishedOn": "2021-06-06T08:37:24.000Z",
+          "wordCount": 198,
+          "title": "EA开始《战地》新作宣传 推特私信发送神秘信息"
+        },
+        {
+          "id": "https://hot.cnbeta.com/articles/game/1137289.htm",
+          "author": "ugmbbc",
+          "description": "在互联网还不太发达的过去那段日子，还有老玩家记得《游戏集中营》么？这本当时罕见的游戏资讯杂志的创意本源就来自更早的《FAMI通》，6月6日今天，游戏业界首个纸质游戏周刊《FAMI通》迎来创刊35周年，一起来怀念下。\n 阅读全文",
+          "link": "https://hot.cnbeta.com/articles/game/1137289.htm",
+          "publishedOn": "2021-06-06T08:34:21.000Z",
+          "wordCount": 192,
+          "title": "FAMI通迎来创刊35周年 业界首个纸质游戏周刊"
+        },
+        {
+          "id": "https://hot.cnbeta.com/articles/game/1137287.htm",
+          "author": "ugmbbc",
+          "description": "近日，据外媒Gamesindustry报道，腾讯美国近日在洛杉矶开设了新的办事处。而新的据点被称为腾讯洛杉矶（Tencent LA），坐落于Silicon Beach，预计将可容纳150位员工。而该办事处在未来三年内预计在游戏设计、开发以及工程部门增设新的职位。\n 阅读全文",
+          "link": "https://hot.cnbeta.com/articles/game/1137287.htm",
+          "publishedOn": "2021-06-06T08:33:58.000Z",
+          "wordCount": 194,
+          "title": "腾讯在美国洛杉矶开新办事处 可容纳150人"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1137285.htm",
+          "author": "ugmbbc",
+          "description": "本周，RTX 3080 Ti首发开卖，国内定价8999元，结果如你所料，秒售罄。实际上，RTX 3080 Ti从GPU层面对挖矿进行了限制，此前NVIDIA表示针对的是以太坊。有机构测试后发现，RTX 3080 Ti以太坊算力大概是57MH/s，只有RTX 3090（120MH/s）的一半不到，同样不如低一档的RTX 3080（85MH/s），NV下手的确挺狠。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1137285.htm",
+          "publishedOn": "2021-06-06T08:31:41.000Z",
+          "wordCount": 222,
+          "title": "不只是以太坊 测试发现RTX 3080 Ti限制多种数字货币挖矿"
+        },
+        {
+          "id": "https://hot.cnbeta.com/articles/game/1137283.htm",
+          "author": "ugmbbc",
+          "description": "看来根据电影《侏罗纪公园》改编的最新游戏就要公布了。今天在推特上的情报暗示接下来会有新作消息公布。虽然我们不知道具体会是什么游戏，但很有可能会是2018年的《侏罗纪世界：进化》的续作。\n 阅读全文",
+          "link": "https://hot.cnbeta.com/articles/game/1137283.htm",
+          "publishedOn": "2021-06-06T08:29:38.000Z",
+          "wordCount": 193,
+          "title": "多方情报暗示《侏罗纪世界：进化》续作或将到来"
+        },
+        {
+          "id": "https://hot.cnbeta.com/articles/game/1137281.htm",
+          "author": "ugmbbc",
+          "description": "E3 2019是我们最近一次看到的厂商阵容完备的E3展会，随后的2020年受到疫情影响，E3展会中断一年，各个厂商选择自己举行线上直播展会来推广新游戏。E3 2021就在眼前了，此时，我们不妨回顾一下2019年E3留下的坑，微软发布会上公布的全平台游戏数量最多，我们从这台发布会入手。\n 阅读全文",
+          "link": "https://hot.cnbeta.com/articles/game/1137281.htm",
+          "publishedOn": "2021-06-06T08:28:12.000Z",
+          "wordCount": 215,
+          "title": "新展会开幕在即 回顾E3 2019还留下了哪些坑"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1137279.htm",
+          "author": "ugmbbc",
+          "description": "这是一个拥抱开源的程序员大牛的“神奇”经历，成文几个小时就在社交网站上获得了数千点赞。“拥抱开源”不是说说那么简单的，如今很多科技公司都会把这句话挂在嘴边，把开源当作一个重要战略，它们希望自家的工程师投身开源社区，为领域内创造出良好的氛围，以此推动技术的进步，并从中获得更多开发者的支持关注。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1137279.htm",
+          "publishedOn": "2021-06-06T08:23:15.000Z",
+          "wordCount": 387,
+          "title": "“我的开源项目被科技巨头拿去做产品了，注释中还删掉了我的名字”"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1137277.htm",
+          "author": "ugmbbc",
+          "description": "据美国《纽约时报》4日报道，来自加拿大同一个省份的48名患者出现了令人困惑的症状，包括失眠、运动功能受损和产生幻觉。这仿佛是一种新出现的疾病，困扰着加拿大的医疗机构，并引起了一些世界顶级神经学家的注意。加拿大新不伦瑞克省人口约77万。在过去的六年里，数十人感染了这种疾病，6人死亡。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1137277.htm",
+          "publishedOn": "2021-06-06T08:18:25.000Z",
+          "wordCount": 190,
+          "title": "运动受损、幻觉……加拿大数十人患罕见病 病因不明"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1137275.htm",
+          "author": "ugmbbc",
+          "description": "上个世纪末，半导体工艺进化之路曾一度面临停滞，摩尔定律遭受威胁。直到FinFET晶体管技术的出现，才使得整个半导体产业突破了20nm左右的限制。提到FinEFT技术，就不得不提到一个人。他，就是胡正明，一个“拯救”摩尔定律的男人。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1137275.htm",
+          "publishedOn": "2021-06-06T08:15:41.000Z",
+          "wordCount": 208,
+          "title": "台积电、英特尔因他成霸主 FinFET晶体管技术让半导体产业大变天"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1137273.htm",
+          "author": "ugmbbc",
+          "description": "硬盘市场连日来波涛汹涌。订单暴涨、全网缺货、价格飙升……有的卖家按小时涨价、囤货1天甚至能赚300万元。继炒鞋、炒熊后,“万物皆可炒”的魔咒开始笼罩在硬盘身上。然而没过多久,随着市场供应量加大,硬盘价格迅速回落至涨价前,甚至“硬盘3天狂降2000元”的话题登上微博热搜榜,给投机者留下一地鸡毛。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1137273.htm",
+          "publishedOn": "2021-06-06T08:07:51.000Z",
+          "wordCount": 195,
+          "title": "硬盘价格大起大落：“万物皆可炒”魔咒背后是“错失恐惧症”"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1137271.htm",
+          "author": "ugmbbc",
+          "description": "高考临近，为营造公平考试环境，防止考试作弊器材从市场流入考场，近日深圳市加大对电子市场的检查力度，严查生产、销售作弊器材违法行为。据深圳市市场监督管理局微信公众号披露，该局近日组织全市各辖区局对电子市场展开考试作弊器材专项检查，对经营涉嫌用于考试作弊器材的违法行为进行整治。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1137271.htm",
+          "publishedOn": "2021-06-06T08:04:16.000Z",
+          "wordCount": 192,
+          "title": "深圳监管部门严查电子市场 防止作弊器材流入高考考场"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1137269.htm",
+          "author": "ugmbbc",
+          "description": "过去的一个月，是比特币历史上表现最差的一个月。6月5日晚间，比特币再次闪崩。一枚比特币的价格一日暴跌超1.6万元（人民币，下同）至22.8万元，较4月的历史最高点41万元缩水近50%。即使特斯拉CEO埃隆·马斯克将社交媒体的个人头像再次换回比特币，也无法拯救困局。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1137269.htm",
+          "publishedOn": "2021-06-06T08:03:44.000Z",
+          "wordCount": 192,
+          "title": "投资者讲述暴富梦碎：比特币等虚拟货币成“绞肉机”"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1137267.htm",
+          "author": "ugmbbc",
+          "description": "维京群岛、开曼群岛、百慕大群岛、巴拿马、卢森堡……这些全球耳熟能详的跨国企业“避税天堂”如今却突遭“重创”。近日，包括英国、美国、法国、德国、意大利、加拿大和日本的七国集团达成协议，支持把全球最低企业税率设为15%。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1137267.htm",
+          "publishedOn": "2021-06-06T08:00:35.000Z",
+          "wordCount": 202,
+          "title": "七大国达成重磅协议 “避税天堂”突遭重创"
+        },
+        {
+          "id": "https://hot.cnbeta.com/articles/movie/1137265.htm",
+          "author": "ugmbbc",
+          "description": "6月6日消息，不少用户发现，人人视频从App Store下架，安卓版虽还能下载安装，但首页“快看”内容已经下线。官方在“快看”栏目中刊发公告表示，此次下线系收到用户对内容批评、建议，并需要响应国家相关法律法规进行治理整改。\n 阅读全文",
+          "link": "https://hot.cnbeta.com/articles/movie/1137265.htm",
+          "publishedOn": "2021-06-06T07:57:58.000Z",
+          "wordCount": 201,
+          "title": "人人视频下架整改 官方发声：一切都会变好的"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1137263.htm",
+          "author": "ugmbbc",
+          "description": "日前，有媒体曝料称，蔚来将会推出一款名为“Gemini”（双子星）的车型，并表示“Gemini”的定位，将会低于当前蔚来旗下的所有车型。同时，因为品牌定位原因，Gemini可能会被归入蔚来汽车的新品牌旗下；这主要是因为蔚来品牌目前仍只专注于中高端市场。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1137263.htm",
+          "publishedOn": "2021-06-06T07:48:10.000Z",
+          "wordCount": 195,
+          "title": "蔚来Gemini被曝售价20万左右 蔚来回应称不是低端产品 会保持高端定位"
+        },
+        {
           "id": "https://www.cnbeta.com/articles/tech/1137261.htm",
           "author": "ugmbbc",
           "description": "当前，新一轮科技革命和产业变革突飞猛进，随着5G商用的大规模部署，全球业界已开启对下一代移动通信（6G）的探索研究。2021年6月6日，IMT-2030(6G)推进组（以下简称“推进组”）正式发布《6G总体愿景与潜在关键技术》白皮书，本白皮书作为推进组的阶段性成果，内容涵盖总体愿景、八大业务应用场景、十大潜在关键技术等，并阐述了对6G发展的一些思考。\n 阅读全文",
