@@ -2,10 +2,43 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://lvytwjw.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-06T22:15:56.104Z</updated>
+    <updated>2021-06-06T23:19:38.094Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://lvytwjw.github.io/rss/index.html"/>
     <link rel="self" href="https://lvytwjw.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[iCloud Photos网站页面出现Windows 11字样 但这与微软没有关系]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1137367.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1137367.htm"/>
+        <updated>2021-06-06T23:17:34.000Z</updated>
+        <summary type="html"><![CDATA[不，苹果没有泄露Windows 11。虽然我们已经从可靠的泄密者那里听说微软将在6月24日宣布Windows 11，但这个名字还没有被正式确认。然而，苹果iCloud Photos支持文档上的一个条目对一些人而言构成了他们以为的下一代微软操作系统命名的坚实证据。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[手机QQ 8.8.0新版来了 表情比微信还要好玩？]]></title>
+        <id>https://www.cnbeta.com/articles/soft/1137365.htm</id>
+        <link href="https://www.cnbeta.com/articles/soft/1137365.htm"/>
+        <updated>2021-06-06T23:08:30.000Z</updated>
+        <summary type="html"><![CDATA[手机QQ这次更新迎来了一个吉祥的版本号8.8.0，那么这次更新带给我们哪些好玩的功能呢，一起来看看。最近无论QQ还是微信都在聊天表情上动脑筋，陆续搞搞新意思。动态表情，互动表情，还有最近微信里大家玩的不亦乐乎的“炸屎”，而这次轮到手机QQ了。这次手机QQ更新带给了用户一个好玩的新功能——表情弹射。让用户可以发射一堆可以弹射的表情给好友，让对方充分感受你的热情。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[马斯克宣布取消加强版Model S Plaid+车型：Plaid已经足够好]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1137363.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1137363.htm"/>
+        <updated>2021-06-06T23:05:43.000Z</updated>
+        <summary type="html"><![CDATA[特斯拉公司CEO埃隆·马斯克(Elon Musk)今天在Twitter上正式宣布，取消Model S Plaid+车型的生产计划。Model S Plaid+是Model S Plaid的加强版，后者将在本月交付给首批车主。马斯克解释称，Model S Plaid已经好到不需要其他的变种车型了。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[苹果公司在2021年WWDC上的四个重点内容被泄露]]></title>
         <id>https://www.cnbeta.com/articles/tech/1137361.htm</id>
