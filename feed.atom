@@ -2,10 +2,65 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://lvytwjw.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-06T12:33:19.702Z</updated>
+    <updated>2021-06-06T13:59:11.042Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://lvytwjw.github.io/rss/index.html"/>
     <link rel="self" href="https://lvytwjw.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[苏伊士运河管理局驳斥英国保赔协会相关指控]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1137335.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1137335.htm"/>
+        <updated>2021-06-06T13:47:53.000Z</updated>
+        <summary type="html"><![CDATA[据埃及金字塔在线网站报道，当地时间6月5日，苏伊士运河管理局发表声明驳斥了负责“长赐”号货轮保赔保险的英国保赔协会的相关指控。运河管理局表示，根据苏伊士运河的航行规定，船只在苏伊士运河的行驶速度限定为每小时14至16公里，船只超速行驶的唯一责任在船长。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[外卖小哥缺保障，锅全都该由平台来背吗？]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1137333.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1137333.htm"/>
+        <updated>2021-06-06T12:55:38.000Z</updated>
+        <summary type="html"><![CDATA[日前，美团发布了2021年Q1财报，在发布业绩之外，美团董事长兼CEO王兴在财报会议上还对骑手的社保问题进行了表态。他表示，在短期的未来，美团将积极就购买员工工伤保险方面与政府合作，为所有外卖骑手投保。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[奈雪的茶通过港交所聆讯：茶饮店增至556间 市占率18.9%]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1137331.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1137331.htm"/>
+        <updated>2021-06-06T12:52:38.000Z</updated>
+        <summary type="html"><![CDATA[6月6日晚间，奈雪的茶通过了港交所聆讯并披露了更新后的数据，摩根大通、招银国际、华泰国际为联席保荐人。根据最新披露数据，奈雪的茶茶饮店数量由截至2017年12月31日的44间增长至截至2020年12月31日的491间，并于截至最后实际可行日期进一步增至556间。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[未来游戏展6月14日登场 邀请艾比和乔尔演员主持]]></title>
+        <id>https://hot.cnbeta.com/articles/game/1137329.htm</id>
+        <link href="https://hot.cnbeta.com/articles/game/1137329.htm"/>
+        <updated>2021-06-06T12:50:12.000Z</updated>
+        <summary type="html"><![CDATA[GamesRadar+宣布将配合6月的E3展举办最新一届数字游戏发表会“未来游戏展（Future Games Show 2021）”，将于北京时间6月14日早晨7点在Twitch、Facebook、YouTube和GamesRadar播出，邀请在《最后生还者2》中担任艾比与乔尔的演员萝拉‧贝利（Laura Bailey）与特洛伊‧贝克（Troy Baker）担任主持。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[六大影视公司再发维权声明：盗播切条会毁掉整个影视行业]]></title>
+        <id>https://hot.cnbeta.com/articles/movie/1137327.htm</id>
+        <link href="https://hot.cnbeta.com/articles/movie/1137327.htm"/>
+        <updated>2021-06-06T12:46:51.000Z</updated>
+        <summary type="html"><![CDATA[6月6日消息，日前，国内六大影视公司（慈文传媒、华策影视、柠萌影业、新丽传媒、耀客传媒、正午阳光影业）分别在各自官方微博再次发声，继续公开表达反对短视频侵权盗版的鲜明态度，明确这并非长短视频之争，最终目的在于创造良好创作环境。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Apple Music宣布明天有“特别活动” 时间紧随WWDC主题演讲之后]]></title>
         <id>https://hot.cnbeta.com/articles/music/1137325.htm</id>
