@@ -479,6 +479,20 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2021/06/building-geocoding-app-vue-mapbox/",
+          "author": "hello@smashingmagazine.com (Prince Chukwudire)",
+          "description": "In this guide, we’ll be taking a general look at the concepts of forward geocoding and reverse geocoding, and will build a mini-app that applies these concepts to display specific locations, using Mapbox and Vue.js 2.6.11 to achieve this.",
+          "link": "https://smashingmagazine.com/2021/06/building-geocoding-app-vue-mapbox/",
+          "publishedOn": "2021-06-07T11:00:00.000Z",
+          "wordCount": 2204,
+          "title": "How To Build A Geocoding App In Vue.js Using Mapbox",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/20dc2361-e5a5-4a78-b380-2f5942ecfba8/building-geocoding-app-vue-mapbox.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          }
+        },
+        {
           "id": "https://smashingmagazine.com/2021/06/getting-started-webpack/",
           "author": "hello@smashingmagazine.com (Nwani Victory)",
           "description": "Modern browsers provide good support for JavaScript modules, but module bundlers such as webpack stay a critical part of the JavaScript toolchain. Let’s take a deep dive into what webpack is and how to use it in your development workflow.",
@@ -1285,6 +1299,78 @@
       "feedUrl": "https://www.cnbeta.com/backend.php",
       "siteUrl": "https://www.cnbeta.com",
       "articles": [
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1137743.htm",
+          "author": "ugmbbc",
+          "description": "上周，我们报道了惠普以3.25亿美元的价格完成了对金士顿HyperX游戏品牌的收购，这一收购备受期待。正如我们所指出的，该交易的条款不包括任何HyperX品牌的DRAM、闪存或存储产品，这恰好是金士顿的最重要业务，因为该交易更侧重于游戏配件业务以及品牌价值。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1137743.htm",
+          "publishedOn": "2021-06-07T11:37:57.000Z",
+          "wordCount": 196,
+          "title": "在将HyperX卖给惠普之后 金士顿为DRAM和SSD重新启用了FURY品牌"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1137741.htm",
+          "author": "ugmbbc",
+          "description": "苹果当地时间周一早上，北京时间明晨1点将公布其所有设备的下一个主要操作系统更新。iPhone、iPad、Apple TV、Mac和Apple Watch都将获得新的软件功能，苹果将在2021年WWDC的主旨演讲中用大量时间介绍它为下一年计划的新功能。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1137741.htm",
+          "publishedOn": "2021-06-07T11:34:28.000Z",
+          "wordCount": 227,
+          "title": "WWDC开场前最后几小时 彭博社泄漏了iOS 15的部分新功能"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1137739.htm",
+          "author": "ugmbbc",
+          "description": "今天高考正式拉开大幕，数据显示，2021年全国高考报名人数1078万人，较之去年增加了7万人，再创新高。随着高考的开启，与高考相关的元素也走红网络。6月7日消息，据媒体报道，由于在部分方言中与“指定能行”谐音，“紫腚能行”成了今年高考的热词之一。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1137739.htm",
+          "publishedOn": "2021-06-07T11:26:43.000Z",
+          "wordCount": 192,
+          "title": "电商平台的高考经济：紫色内裤走红 源于谐音梗“紫腚能行”"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1137737.htm",
+          "author": "ugmbbc",
+          "description": "ASML是全球唯一一家量产EUV光刻机的，台积电、三星、Intel的7nm、5nm及未来的3nm、2nm都要依赖EUV光刻机，单台售价超过1亿美元，成本极高。ASML的EUV光刻机目前使用的还是第一代，EUV光源波长在13.5nm左右，物镜的NA数值孔径是0.33，发展了一系列型号。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1137737.htm",
+          "publishedOn": "2021-06-07T11:23:31.000Z",
+          "wordCount": 200,
+          "title": "售价逼近3亿美元 ASML第二代EUV光刻机跳票3年"
+        },
+        {
+          "id": "https://hot.cnbeta.com/articles/movie/1137735.htm",
+          "author": "ugmbbc",
+          "description": "李若彤近日在微博晒出cos《东成西就》经典造型的视频。她把自己装扮成和梁朝伟一样在电影中的香肠嘴，还发文：“如果有机会和我的偶像再次合作，让我这样我也愿意”。梁朝伟曾在1993年版《东成西就》中饰演“西毒”欧阳锋，因中毒变成了“香肠嘴”。两人早在1996年的《洪兴仔之江湖大风暴》中有过合作，饰演一对情侣。\n 阅读全文",
+          "link": "https://hot.cnbeta.com/articles/movie/1137735.htm",
+          "publishedOn": "2021-06-07T11:21:59.000Z",
+          "wordCount": 186,
+          "title": "李若彤cos《东成西就》梁朝伟香肠嘴造型：真兄妹？"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1137733.htm",
+          "author": "ugmbbc",
+          "description": "今晚（6月8日凌晨1点），苹果就要召开新一届WWDC21开发者大会了，此次大会将地带来新一代的iOS、iPadOS、macOS等多款换代系统。而在这其中，最受关注的莫过于用户体量最大的iOS 15了，网络上关于这方面的爆料也层出不穷。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1137733.htm",
+          "publishedOn": "2021-06-07T11:17:09.000Z",
+          "wordCount": 216,
+          "title": "iOS 15界面曝光 锁屏界面加入更多信息显示"
+        },
+        {
+          "id": "https://hot.cnbeta.com/articles/game/1137731.htm",
+          "author": "ugmbbc",
+          "description": "跳票两次的手游——《摩尔庄园》于6月1日正式在全平台上线，上线一周以来，连续6天登上微博热搜，成为网友热议的话题之一。据悉，《摩尔庄园》开服仅8小时下载量便突破600万，在线人数突破100万，同时在苹果App Store免费榜连续7天霸榜第一，可见其受欢迎程度非同一般。\n 阅读全文",
+          "link": "https://hot.cnbeta.com/articles/game/1137731.htm",
+          "publishedOn": "2021-06-07T11:13:49.000Z",
+          "wordCount": 200,
+          "title": "手游《摩尔庄园》连续刷屏热搜 发行方股价一周暴涨25%"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1137729.htm",
+          "author": "raymon725",
+          "description": "早在 2019 年的台北电脑展上，猫头鹰（Noctua）就已经披露过 NH-P1 被动式散热器正处于原型阶段。然而受多方面因素的影响，该产品最终还是没能在当年 4 季度上市，且一晃就过去了两年时间。庆幸的是，随着 AMD 锐龙 5000 和英特尔 11 代高端处理器的上市，猫头鹰似乎也终于做好了将 NH-P1 推向市场的准备。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1137729.htm",
+          "publishedOn": "2021-06-07T10:58:14.000Z",
+          "wordCount": 255,
+          "title": "猫头鹰NH-P1无风扇式CPU散热器短暂亮相新蛋 或售100美元"
+        },
         {
           "id": "https://www.cnbeta.com/articles/tech/1137727.htm",
           "author": "raymon725",
