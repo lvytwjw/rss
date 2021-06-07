@@ -1286,6 +1286,204 @@
       "siteUrl": "https://www.cnbeta.com",
       "articles": [
         {
+          "id": "https://www.cnbeta.com/articles/science/1137411.htm",
+          "author": "vivian",
+          "description": "据外媒报道，在细菌和人类制造的抗生素之间的长期“军备竞赛”中，有一种新的工具可以使人类医学获得优势，部分是通过揭示细菌的弱点，并有可能导致对细菌感染的更有针对性的或新的治疗。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/science/1137411.htm",
+          "publishedOn": "2021-06-07T00:35:22.000Z",
+          "wordCount": 191,
+          "title": "研究人员开发对抗抗生素耐药性细菌的发光“新武器”"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/science/1137409.htm",
+          "author": "vivian",
+          "description": "一项大规模的荟萃分析显示，COVID-19大流行导致了三分之一的成年人出现心理困扰。杜克-新加坡国立大学医学院的研究人员在《PLOS ONE》杂志上报告说，三分之一的成年人，特别是女性、年轻成年人和社会经济地位较低的人，正在经历与COVID-19有关的心理困扰。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/science/1137409.htm",
+          "publishedOn": "2021-06-07T00:22:28.000Z",
+          "wordCount": 193,
+          "title": "COVID-19有关的心理困扰：研究称约1/3成年人产生焦虑、抑郁等负面情绪"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1137407.htm",
+          "author": "study875",
+          "description": "代号为 Sun Valley 的 Windows 10 21H2 功能更新即将于今年秋季发布，所有的证据都表明会迎来非常大的变化，包括开始菜单的 UI 修改、全新的 Windows Store 等等。在 Build 2021 开发者大会上，首席执行官纳德拉（Satya Nadella）预告今年将推出“下一代 Windows”，并承诺在未来几周提供更多信息。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1137407.htm",
+          "publishedOn": "2021-06-07T00:20:27.000Z",
+          "wordCount": 277,
+          "title": "[图]新证据表明Windows 10将分叉 区分消费者和企业用户"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/science/1137405.htm",
+          "author": "vivian",
+          "description": "据外媒报道，太阳系中最大的行星之一是土星，它拥有整个太阳系中最引人入胜的一些卫星。它的其中一颗卫星是木卫三（Ganymede），是太阳系中最大的卫星之一，它将在周一得到一个探测器二十多年来的第一次近距离接触。美国宇航局（NASA）的朱诺号任务自2016年以来一直在观测木星及其卫星。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/science/1137405.htm",
+          "publishedOn": "2021-06-07T00:09:26.000Z",
+          "wordCount": 183,
+          "title": "NASA朱诺号探测器将在距离木卫三表面645英里范围内飞行"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1137403.htm",
+          "author": "vivian",
+          "description": "6月7日消息，为了留住更多客户，AT&T以及Verizon等美国电信运营商纷纷提供iPhone 12等智能手机的大幅折扣。消费者无需预付定金或分期付款，只需要作出长期在网承诺即可享受这种优惠。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1137403.htm",
+          "publishedOn": "2021-06-07T00:07:56.000Z",
+          "wordCount": 212,
+          "title": "为了留住老客户  美运营商拿免费iPhone 12做营销"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1137401.htm",
+          "author": "vivian",
+          "description": "6月7日消息，美国当地时间周日，社交网络巨头Facebook负责全球事务的副总裁尼克·克莱格（Nick Clegg）为该公司封禁前总统唐纳德·特朗普（Donald Trump）账户两年的决定辩护，他称该公司针对公众人物的新指导方针主要针对煽动暴力的言论。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1137401.htm",
+          "publishedOn": "2021-06-07T00:06:42.000Z",
+          "wordCount": 198,
+          "title": "特朗普称FB账号被封两年是“侮辱”  公司高管回应"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/science/1137399.htm",
+          "author": "vivian",
+          "description": "据外媒报道，喷气推进实验室（JPL）是美国宇航局（NASA）机器人探索的主要中心，这意味着科学家计划将机器人而不是人类送入太空。NASA正在制定计划，以克服巨大的挑战，将人类送上火星。与此同时，NASA一直在向红色星球的表面发送漫游车、着陆器和轨道器，并开发技术将更先进的机器人派往太阳系的其他目的地，如月球、小行星和木星的冰冷卫星木卫二。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/science/1137399.htm",
+          "publishedOn": "2021-06-06T23:55:26.000Z",
+          "wordCount": 188,
+          "title": "NASA喷气推进实验室正创造各种机器人：以探索人类无法抵达的地方"
+        },
+        {
+          "id": "https://hot.cnbeta.com/articles/movie/1137397.htm",
+          "author": "ugmbbc",
+          "description": "6月3日，在成都举办的第九届中国网络视听大会上，爱优腾（爱奇艺、优酷、腾讯）三家大倒苦水甚至语出惊人。其中，腾讯副总裁、在线视频首席执行官孙忠怀痛批部分低智低俗化的短视频，“你喜欢猪食看到的就全是猪食，没有别的。”\n 阅读全文",
+          "link": "https://hot.cnbeta.com/articles/movie/1137397.htm",
+          "publishedOn": "2021-06-06T23:53:17.000Z",
+          "wordCount": 193,
+          "title": "洗脑短视频是“猪食”吗？谁说了算？"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1137395.htm",
+          "author": "ugmbbc",
+          "description": "广东中山近日发生了一起电动自行车与汽车剐蹭事故，交警赶到现场后发现，虽然碰撞并不激烈，但是骑电动自行车的女子伤情却较重。这名女子眼部出血不止，地上留有一大滩血迹。而伤者头上的头盔破损严重，塑料外壳几乎已经解体，只剩下黑色的塑料骨架还罩在头上。民警现场调查后发现，原来是破裂的头盔碎片扎伤了女子的眼睛。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1137395.htm",
+          "publishedOn": "2021-06-06T23:52:52.000Z",
+          "wordCount": 193,
+          "title": "每周质量标报告：超七成电动自行车头盔不合格"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1137393.htm",
+          "author": "ugmbbc",
+          "description": "6月7日消息，武汉大学官方微博发来了学长雷军对考生的祝福语。雷军表示，高考是你们面临的第一个挑战，同时也是一次重大的机遇，祝你们考上理想的大学，奔赴心中的星辰大海。值得注意的是，武汉大学还晒出了雷军大一时候的照片，时间是1988年，距今已有33年。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1137393.htm",
+          "publishedOn": "2021-06-06T23:51:35.000Z",
+          "wordCount": 186,
+          "title": "雷军大一照片公布：梦回33年前"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1137391.htm",
+          "author": "ugmbbc",
+          "description": "明星代言的网贷平台“爆雷”事件屡见不鲜，致使许多出于对明星信任、喜爱的普通投资者遭受损失，明星是否要对此承担责任？王宝强、董成鹏（大鹏）、郎朗……曾代言过爆雷网贷平台的明星，银保监会喊你们退广告费、代言费了！\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1137391.htm",
+          "publishedOn": "2021-06-06T23:50:07.000Z",
+          "wordCount": 202,
+          "title": "网贷平台爆雷 代言明星仅退代言费够吗？"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1137389.htm",
+          "author": "study875",
+          "description": "自 Windows 8 系统中引入设置应用以来，距今已过去 8 年时间。即便 Windows 10 系统发布之后，该设置应用仍然处于优化状态，系统中仍然含有控制面板。这是因为现代化的设置应用处于“未完成”的开发状态，最先进的选项无法使用。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1137389.htm",
+          "publishedOn": "2021-06-06T23:48:19.000Z",
+          "wordCount": 225,
+          "title": "Windows 10设置应用将迎来UI改进：引入彩色图标 重组布局"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1137387.htm",
+          "author": "ugmbbc",
+          "description": "关上灯，拉上窗帘，打开手机照相机对着房间拍，看是否有红色小点；发现可疑小孔，用强光手电筒向孔内照射，看是否会反光：打开手机无线，看附近是否有可疑无线网络……这些方法听上去是不是很熟悉？入住酒店的你，是否也用同样的方法检查过房间内是否有摄像头？\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1137387.htm",
+          "publishedOn": "2021-06-06T23:47:52.000Z",
+          "wordCount": 190,
+          "title": "非法安装摄像头实施偷拍行为猖獗 专家呼吁坚决斩断黑色产业链"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1137385.htm",
+          "author": "ugmbbc",
+          "description": "6月6日，一位署名为“爱跑厨”的互联网从业人员在《南方都市报》上撰文，详细讲述了自己追逐并抓获小偷的经历。事件的大致经过是这样的：5月19日，“爱跑厨”在广州某咖啡馆消费时，其手提电脑被盗。报警后，“爱跑厨”心有不甘，根据电脑的定位追踪系统，跨越广州市的三个区，追踪近20公里，在电脑被盗5小时后，“爱跑厨”及其朋友一起扑倒并抓获嫌疑人，将其扭送到派出所，破了自己报的案。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1137385.htm",
+          "publishedOn": "2021-06-06T23:45:05.000Z",
+          "wordCount": 190,
+          "title": "技术升级让“个人自行抓小偷”成为可能 抛出网络时代新命题"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1137383.htm",
+          "author": "ugmbbc",
+          "description": "6月6日，我国迎来5G牌照发放两周年。从2019年6月6日到现在，5G基站、5G套餐用户、5G终端产品以及5G融合应用，都在我国形成了一定规模，且还在如火如荼建设中。然而，因为用户规模和终端使用规模还没有达到一个临界点，目前的5G主要应用于to B领域，普通用户可以用到的消费级应用几乎没有诞生，这是短板，也是未来需要大力研发的领域。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1137383.htm",
+          "publishedOn": "2021-06-06T23:43:54.000Z",
+          "wordCount": 193,
+          "title": "5G牌照发放两周年 “杀手级”应用还没来"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1137381.htm",
+          "author": "vivian",
+          "description": "外媒AppleInsider在最新一篇报道中关注与苹果产品有关的犯罪事件：包括近日匹兹堡一家Apple Store附近发生的枪击事件；警方利用“查找我的 iPhone”找回了美国歌手阿肯的汽车；以及从国会大厦暴动的被告人身上缴获了几部iPhone等。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1137381.htm",
+          "publishedOn": "2021-06-06T23:43:00.000Z",
+          "wordCount": 214,
+          "title": "与苹果产品有关的犯罪事件：德州男子因出售学校拥有的iPad而被开除"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1137379.htm",
+          "author": "ugmbbc",
+          "description": "2021年高考大幕今日正式开启。今年北京将有45000余名考生参加高考，其中7日至8日进行全国统一高考，9日至10日进行普通高中学业水平等级考试。昨日记者从北京教育考试院获悉，今年北京市高考全市设17个考区，90个考点、1566个考场。全市设置备用考点17个、备用考场321个。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1137379.htm",
+          "publishedOn": "2021-06-06T23:42:51.000Z",
+          "wordCount": 202,
+          "title": "今年北京高考考生首次“刷脸”进考场 加强身份核验"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1137377.htm",
+          "author": "ugmbbc",
+          "description": "全球第三大电子产品代工商伟创力警告称，全球芯片短缺局面将至少还会再持续一年。芯片短缺问题已经扰乱了汽车行业，威胁到了消费者科技产品的供应。伟创力首席采购和供应链官林恩·托雷尔(Lynn Torrel)表示，在芯片短缺局面何时结束问题上，其半导体供应商已经推后了他们的预期。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1137377.htm",
+          "publishedOn": "2021-06-06T23:38:04.000Z",
+          "wordCount": 192,
+          "title": "伟创力：芯片短缺局面至少会持续到2022年中"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1137375.htm",
+          "author": "ugmbbc",
+          "description": "微信日前发布两大正式版更新，分别是面向Windows PC的v3.3.0正式版和面向iOS的v8.0.7。官方介绍，Windows微信新增浏览朋友圈功能，可以在搜一搜中搜索公众号、小程序、表情、视频、文章、朋友圈等内容，还修复了一些已知问题。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1137375.htm",
+          "publishedOn": "2021-06-06T23:37:18.000Z",
+          "wordCount": 189,
+          "title": "Windows/iOS微信正式版齐更新：PC可浏览朋友圈了"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/science/1137373.htm",
+          "author": "ugmbbc",
+          "description": "天体物理学家已经开发出一种新的方法来寻找不断变化的类星体 - 深空中重要但极其罕见的物体。来自巴斯大学的天体物理学家们开发了一种新的方法，用于确定极其罕见的银河系外物体的下落。他们希望他们寻找 \"外观变化的类星体\"的技术将使科学家们离解开宇宙中最大的谜团之一 - 超大质量黑洞如何生长，而类星体被认为是负责调节超大质量黑洞及其宿主星系的生长。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/science/1137373.htm",
+          "publishedOn": "2021-06-06T23:36:28.000Z",
+          "wordCount": 194,
+          "title": "寻找类星体：重要但极其罕见的银河系外天体现在更容易被发现"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/science/1137371.htm",
+          "author": "ugmbbc",
+          "description": "为了测试粒子物理学的标准模型，科学家们经常使用巨大的加速器地下环来碰撞粒子。以类似的方式，高压物理学家将材料压缩到更大的压力，以进一步测试凝聚态物质的量子理论，并挑战使用最强大的计算机做出的预测。超过100万个大气压的压力能够使原子电子云急剧变形，并改变原子的排列组合方式。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/science/1137371.htm",
+          "publishedOn": "2021-06-06T23:33:27.000Z",
+          "wordCount": 195,
+          "title": "无冲击压缩实验建立极端压力的新标尺"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1137369.htm",
+          "author": "ugmbbc",
+          "description": "一个月前，我们发布消息称，Google正在修改其 \"发送标签到设备\"功能，最大变化是用一个将显示在工具栏上的应用程序内部通知来取代原生系统的全局通知。这项工作现在有了进展，新的改进后的用户界面可以在最新的Chrome Canary中通过启用Sent tab to Self 2.0标志来启用。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1137369.htm",
+          "publishedOn": "2021-06-06T23:22:32.000Z",
+          "wordCount": 200,
+          "title": "Google Chrome\"发送标签到设备\"功能现已可绕过Windows系统通知特性"
+        },
+        {
           "id": "https://www.cnbeta.com/articles/tech/1137367.htm",
           "author": "ugmbbc",
           "description": "不，苹果没有泄露Windows 11。虽然我们已经从可靠的泄密者那里听说微软将在6月24日宣布Windows 11，但这个名字还没有被正式确认。然而，苹果iCloud Photos支持文档上的一个条目对一些人而言构成了他们以为的下一代微软操作系统命名的坚实证据。\n 阅读全文",
