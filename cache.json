@@ -1286,6 +1286,339 @@
       "siteUrl": "https://www.cnbeta.com",
       "articles": [
         {
+          "id": "https://www.cnbeta.com/articles/tech/1137615.htm",
+          "author": "ugmbbc",
+          "description": "北京时间6月8日凌晨1点，WWDC 2021苹果开发者大会将在线上如期举办。据了解，开幕式的主题演讲活动预计会持续1-2个小时，主要介绍iOS 15、iPadOS 15、watchOS 8、MacOS 12等系统方面的更新计划。目前，苹果官网上线了 WWDC21巨幅海报。在Apple管理层页面中，所有高管的照片都已被替换为了Memoji表情。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1137615.htm",
+          "publishedOn": "2021-06-07T07:22:10.000Z",
+          "wordCount": 198,
+          "title": "苹果官网管理层简介页面全员更换Memoji照片"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1137613.htm",
+          "author": "ugmbbc",
+          "description": "“欢迎加入集度大家庭！”6月3日，百度和吉利的合资公司——集度汽车CEO夏一平在其个人社交平台上公开喊话招人，并附上了相应的简历投递邮箱。在夏一平发布招聘信息前两天，集度汽车刚召开媒体沟通会向外披露项目最新进展。据夏一平透露，目前核心团队已接近200人，预计到明年年底，最多会扩大到3000人左右，其中软件工程师400-500名。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1137613.htm",
+          "publishedOn": "2021-06-07T07:20:05.000Z",
+          "wordCount": 199,
+          "title": "智能汽车人才奇缺 传小米10亿挖不来吉利高管"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1137611.htm",
+          "author": "study875",
+          "description": "The Rocky Enterprise Software Foundation (RESF)今天高兴地宣布，Rocky Linux 8.4 候选版本上线。值得注意的是，新版本并不适合日常主力使用，系统中可能还存在一些 BUG 或问题，遇到问题可以点击这里反馈。Rocky Linux 8.3 RC1 无法升级到 Rocky Linux 8.4 RC1，这意味着它不会被测试也不会被记录。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1137611.htm",
+          "publishedOn": "2021-06-07T07:10:02.000Z",
+          "wordCount": 264,
+          "title": "Rocky Linux 8.4 RC1发布"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1137609.htm",
+          "author": "raymon725",
+          "description": "由几周前的谷歌 I/O 2021 开发者大会可知，三星即将在今年晚些时候推出全面结合了 Google Wear OS 和自家 Tizen 软件生态优势的全新可穿戴设备平台。近日，SGS Fimko 网站上又曝光了 Galaxy Watch 4 智能手表的一些认证信息，可知其电池规格与充电支持状况。早些时候，这款设备已经获得了 Wi-Fi 联盟的认证，但当时并未披露任何关键规格。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1137609.htm",
+          "publishedOn": "2021-06-07T07:09:37.000Z",
+          "wordCount": 292,
+          "title": "SGS Fimko认证信息曝光：三星Galaxy Watch 4配备247mAh电池"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1137607.htm",
+          "author": "teikaei",
+          "description": "北京时间6月7日中午消息，为有效打击网络犯罪，美国官员周日加大了对企业和海外势力的压力。此外，官方表示美国总统拜登（Joe Biden）正在考虑包括军事对策在内的所有选项，以应对日益增长的威胁。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1137607.htm",
+          "publishedOn": "2021-06-07T07:03:04.000Z",
+          "wordCount": 197,
+          "title": "打击网络犯罪 美国官员向企业和海外势力施压"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/science/1137605.htm",
+          "author": "study875",
+          "description": "由卡内基科学研究所领导的一项研究中，已开发出创造具备独特六角形结构新型硅的方法。基于其原子的排列，元素可以采取不同的晶体形式，这称之为同位素。而这些元素可以产生不同的特性，最典型的例子就是碳，它可以以石墨烯的二维片状存在，以石墨的二维片状堆积存在，或以钻石的立方格状存在等等。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/science/1137605.htm",
+          "publishedOn": "2021-06-07T07:01:34.000Z",
+          "wordCount": 192,
+          "title": "科学家发明创造具有独特六角形结构新型硅4H-silicon的方法"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1137603.htm",
+          "author": "teikaei",
+          "description": "候大爷住在大兴区魏善庄镇，是一名瓜农。2021年5月1日一早，他来到地里，发现瓜棚上出现了两个大洞，里面将近400个西瓜，被人偷走了。侯大爷告诉记者，偷瓜贼在偷瓜之前会先把西瓜砸开，看看哪个品种成熟，然后再决定对哪些西瓜下手。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1137603.htm",
+          "publishedOn": "2021-06-07T07:00:23.000Z",
+          "wordCount": 184,
+          "title": "快递员组团深夜偷西瓜被北京警方抓获，曾一晚偷走四千斤瓜"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1137601.htm",
+          "author": "teikaei",
+          "description": "多个消息层面刺激华为鸿蒙概念股以及国产软件股股价走强。6月2日，华为对外发布了HarmonyOS 2及多款搭载HarmonyOS 2的新产品，4日，华为在内部网站“心声社区”公开了一封“总裁办电子邮件”，该邮件称，华为已于2020年、2021年分两次把鸿蒙操作系统的基础能力全部捐献给开放原子开源基金会，该基金会由工业和信息化部主管。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1137601.htm",
+          "publishedOn": "2021-06-07T06:58:48.000Z",
+          "wordCount": 224,
+          "title": "华为鸿蒙系统阵营有望扩大 有概念股股价创五年新高"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1137599.htm",
+          "author": "raymon725",
+          "description": "无论是计算机芯片、智能手机还是相机，许多产品中使用的零部件尺寸都在不断缩小。与此同时，这一发展趋势也正推动着硬件行业向着新的制造方式去转进。SCI Tech Daily 报道称：由麻省理工学院教授 Nicholas Fang 于 2016 年共同创立的 Boston Micro Fabrication 公司，就致力于提升 3D 打印的精度和分辨率。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1137599.htm",
+          "publishedOn": "2021-06-07T06:56:15.000Z",
+          "wordCount": 258,
+          "title": "BMF力推超精细3D零部件打印技术 将对行业客户产生重大影响"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1137597.htm",
+          "author": "ugmbbc",
+          "description": "6月7日上午消息，从多位内部人士独家获悉，作业帮今天开启大裁员，目前正在按照部门进行面谈，“有的部门几乎一个人不留。”针对裁员一事，作业帮对新浪科技回应称，目前个别媒体和网络所谓的裁员传闻不实。作业帮根据公司战略进行业务调整，包括正常的人员优化和流动，重点业务人才招聘仍在继续。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1137597.htm",
+          "publishedOn": "2021-06-07T06:54:32.000Z",
+          "wordCount": 188,
+          "title": "作业帮回应大裁员：正常业务调整 重点业务人才招聘仍在继续"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/science/1137595.htm",
+          "author": "study875",
+          "description": "利用神奇材料石墨烯，剑桥大学的一支科研团队在数据存储上取得了巨大进步。新的设计为硬盘驱动器（HDD）开启了更高的工作温度，并随之带来了前所未有的数据密度，该团队称这代表了当前技术的十倍增长。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/science/1137595.htm",
+          "publishedOn": "2021-06-07T06:52:12.000Z",
+          "wordCount": 194,
+          "title": "[图]石墨烯可使硬盘数据存储量提高10倍"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1137593.htm",
+          "author": "ugmbbc",
+          "description": "号称“Vlog至美之作”的荣耀50系列将于下周三（6月16日）正式发布，随着发布日期的临近，该机的外观、参数信息也逐渐浮出水面。今日午间，多位数码博主晒出宣称是荣耀50系列真机照片，据悉，该机为荣耀线下体验店中荣耀50 Pro的展示样机。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1137593.htm",
+          "publishedOn": "2021-06-07T06:51:24.000Z",
+          "wordCount": 200,
+          "title": "荣耀50系列真机曝光 “Bling Bling”辨识度极高"
+        },
+        {
+          "id": "https://hot.cnbeta.com/articles/funny/1137591.htm",
+          "author": "teikaei",
+          "description": "据外媒报道，一项新横断面研究为纯素食、素食和食肉儿童之间的营养、心血管和生长差异提供了新的见解。这项研究首次对5至10岁儿童的饮食影响进行了严格调查，其发现纯素食者的心血管状况更健康，但是身高较矮且骨骼矿物质缺乏。\n 阅读全文",
+          "link": "https://hot.cnbeta.com/articles/funny/1137591.htm",
+          "publishedOn": "2021-06-07T06:50:35.000Z",
+          "wordCount": 195,
+          "title": "一项新研究详述了儿童素食饮食的利与弊"
+        },
+        {
+          "id": "https://hot.cnbeta.com/articles/funny/1137589.htm",
+          "author": "teikaei",
+          "description": "近期，云南北迁象群连跨多城，引起了社会各界的广泛关注，这群亚洲象一路“逛吃”，给当地农民带来了许多损失，但同时也萌态百出，让当地的农民伯伯们“又爱又恨”。据相关媒体公布的最新视频显示，北迁象群中有两只小象在跟着成年大象时，被直接带到水沟里，两只小象同步“入坑”的画面让人觉得心疼又好笑。\n 阅读全文",
+          "link": "https://hot.cnbeta.com/articles/funny/1137589.htm",
+          "publishedOn": "2021-06-07T06:48:48.000Z",
+          "wordCount": 191,
+          "title": "云南北迁象群向西迁移 新视频曝光：两只小象被带沟里摔倒"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1137587.htm",
+          "author": "ugmbbc",
+          "description": "继韩国宣布未来10年向半导体行业投入4500亿美元后，日本也计划推出国家芯片计划，加剧了该行业的全球竞争。日本经济产业省(Ministry of Economy, Trade and Industry)上周五在一份报告中表示，将把半导体行业的增长视为一个“国家项目”(national project)，与食品和能源行业同等重要。政府将支持在日本建立制造基地，包括通过与海外芯片代工厂的合资企业。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1137587.htm",
+          "publishedOn": "2021-06-07T06:44:11.000Z",
+          "wordCount": 201,
+          "title": "“王者变青铜”？日本推“国家芯片计划”重振半导体行业"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1137585.htm",
+          "author": "study875",
+          "description": "Galaxy Z Fold 3 有望成为首款装备屏下摄像头的可折叠手机。不过鉴于对中兴 Axon 20 5G 的评测，现阶段屏下摄像头的技术远远没有达到成熟的地步，因此消费者对于 Z Fold 3 也不要抱太大的期望。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1137585.htm",
+          "publishedOn": "2021-06-07T06:41:20.000Z",
+          "wordCount": 242,
+          "title": "Galaxy Z Fold 3或首配屏下摄像头：透光率40% 外观仍不完美"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1137583.htm",
+          "author": "teikaei",
+          "description": "据外媒报道，在过去几周时间里，苹果经常出现在新闻中，原因有两个。首先是它在隐私问题上的强硬立场，这激怒了像Facebook这样的大型网络公司，并因AirTags的推出而短暂地受到质疑；另一个热门话题是Epic Games对该公司的垄断指控，尤其是对苹App Store的垄断指控。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1137583.htm",
+          "publishedOn": "2021-06-07T06:38:50.000Z",
+          "wordCount": 197,
+          "title": "隐私将成为苹果WWDC 2021聚焦的主题之一"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/science/1137581.htm",
+          "author": "teikaei",
+          "description": "据外媒报道，下面这张照片是用哈勃第三代广域照相机(WFC3)拍摄的，其展示了螺旋星系NGC 4680。在2点和7点方向可以看到NGC 4680的侧翼还有另外两个星系。NGC 4680在1997年受到了广泛关注，因为它引发了一场名为SN 1997bp的超新星爆炸。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/science/1137581.htm",
+          "publishedOn": "2021-06-07T06:38:01.000Z",
+          "wordCount": 198,
+          "title": "哈勃WFC3捕捉到变形螺旋星系NGC 4680"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1137579.htm",
+          "author": "ugmbbc",
+          "description": "据日本电视台报道，7日早上，日本奥委会会计部长森谷靖跳入东京一地铁轨道，被地铁撞击身亡。警方初步推断为自杀。报道援引警方消息称，7日上午9时许，在东京都品川区中延地铁站，一名50余岁男子跳入地跌轨道，被地铁撞击后送往医院，经抢救无效后死亡。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1137579.htm",
+          "publishedOn": "2021-06-07T06:37:34.000Z",
+          "wordCount": 190,
+          "title": "日本奥委会会计部长被地铁撞击身亡 警方初步推断为自杀"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1137577.htm",
+          "author": "ugmbbc",
+          "description": "2021 年 5 月 4 日，比尔·盖茨和妻子梅琳达宣布结束长达 27 年的婚姻生涯。这引发了一大串八卦，这位传奇首富彻底出圈为媒体贡献了不少流量。其实比尔·盖茨的离婚声明，占最大篇幅的不是微软，不是感情，而是他们的基金会。成立于 2000 年的比尔及梅琳达 · 盖茨基金会，是他过去很长时间的工作重心，也记录了这个顶级创业者的“再创业过程”。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1137577.htm",
+          "publishedOn": "2021-06-07T06:35:23.000Z",
+          "wordCount": 256,
+          "title": "除了八卦，比尔·盖茨更值得挖一下的思维资产是啥？"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1137575.htm",
+          "author": "raymon725",
+          "description": "一加原定于 6 月 10 日在印度推出 OnePlus Nord CE 5G 入门新机，但印度官网却意外地自曝了当地市场的售价。MySmartPrice 指出，来自 HDFC 银行的一份报告，已经揭示了 OnePlus Nord CE 5G 新机（以及电视）的返现报价。此外早些时候，有关该机的渲染图以及浮出了水面，让我们对该机的后盖设计有了充分的了解。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1137575.htm",
+          "publishedOn": "2021-06-07T06:32:40.000Z",
+          "wordCount": 284,
+          "title": "一加Nord CE 5G新机印度售价意外曝光"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1137573.htm",
+          "author": "study875",
+          "description": "最新报道称诺基亚移动（Nokia Mobile）在 2020 年全年的出货量和总营收并不理想。不过，该公司声称自 2020 年 6 月以来实现了盈利，并且是自 2018 年成立以来的最低运营亏损。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1137573.htm",
+          "publishedOn": "2021-06-07T06:32:11.000Z",
+          "wordCount": 254,
+          "title": "报道称Nokia Mobile去年全年出货量和总营收并不理想"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1137571.htm",
+          "author": "teikaei",
+          "description": "一年一度的高开在今天举行，对于不少家长来说，他们跟考生一样紧张。6月7日，随着考生们陆续进入考场，等候在考点外的家长们表情各不相同。现在，一位西安的父亲火了，只看这位父亲目视前方，脸上的表情可以说没有表情，但又感觉表情丰富，手指捻着小纸片，肉眼可见的紧张。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1137571.htm",
+          "publishedOn": "2021-06-07T06:31:35.000Z",
+          "wordCount": 192,
+          "title": "西安考场外紧张到没有灵魂的爸爸火了 网友感慨：家长真实写照"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1137569.htm",
+          "author": "study875",
+          "description": "上周，有消息称 Alienware 在部分 m15 游戏笔记本中使用阉割版的 GeForce RTX 3070 笔记本 GPU，CUDA 核心数量（4608）要低于标准版（5120），而重点是这个情况并未出现在宣发物料中。上周末，这个事情就像火车失控一样瞬间点燃了消费者的不满情绪，Alienware 和戴尔先后发布声明进行了说明。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1137569.htm",
+          "publishedOn": "2021-06-07T06:24:54.000Z",
+          "wordCount": 254,
+          "title": "Alienware m15游戏本CUDA核心数量严重缩水 称本月修复"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1137567.htm",
+          "author": "teikaei",
+          "description": "为筹备“618卖货节”，辛巴在近日开启了一系列的带货活动。6月5日，辛巴在快手开启了618第二场直播。历经六个多小时，带货额达到3.72亿。但在直播期间，辛巴因为围观的粉丝人数太少，情绪失控，一度叫板快手并怒斥抖音。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1137567.htm",
+          "publishedOn": "2021-06-07T06:24:43.000Z",
+          "wordCount": 189,
+          "title": "叫板快手、怒斥抖音，辛巴称遭遇不公平对待"
+        },
+        {
+          "id": "https://hot.cnbeta.com/articles/funny/1137565.htm",
+          "author": "ugmbbc",
+          "description": "记得上次跟大家槽过，一位网上的话题女机车正妹骑士，本人出现才知道本体是一位长发大叔，用了变脸APP“FaceApp”造就了社群媒体上一张张漂亮正妹照。因为这次的事情传开，网络上有越来越多APP美少女，最近Twitter的关键词“女性2子供选手権”，上面都是使用app变身的美少女照，当中不乏完成度非常高的照片作品。\n 阅读全文",
+          "link": "https://hot.cnbeta.com/articles/funny/1137565.htm",
+          "publishedOn": "2021-06-07T06:18:50.000Z",
+          "wordCount": 192,
+          "title": "这些甜蜜美少女 其实都是藏在变脸App后的大叔"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1137563.htm",
+          "author": "ugmbbc",
+          "description": "凭借“先消费，后付款”的便捷支付方式，花呗受到了诸多年轻人的热衷。今日，从企查查网站了解到，近日，腾讯科技（深圳）有限公司申请注册“分付”商标，国际分类为金融物管、通讯服务等，商标状态显示为申请中。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1137563.htm",
+          "publishedOn": "2021-06-07T06:14:52.000Z",
+          "wordCount": 188,
+          "title": "微信版“花呗”来了？腾讯注册分付商标"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1137561.htm",
+          "author": "teikaei",
+          "description": "提及豪华大型轿车，奔驰S级、宝马7系、奥迪A8是永远也绕不开的三款车型。这不，全新奔驰S级发布不久，新一代7系也提升了日程。日前，有外媒拍摄到一组全新宝马系的路试谍照，谍照中首次曝光了新车的内饰中控设计，毫无悬念，它会使用双联屏，并搭载iDrive 8.0车机系统。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1137561.htm",
+          "publishedOn": "2021-06-07T06:13:42.000Z",
+          "wordCount": 198,
+          "title": "iDrive 8车机系统性能大增：全新宝马7系用上了大连屏"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1137559.htm",
+          "author": "study875",
+          "description": "1 个月前，GitHub 开始和社区讨论对安全研究、恶意软件和漏洞相关政策的调整，目的是启用、欢迎和鼓励 GitHub 上双重用途安全研究和合作。这个讨论得到了安全研究社区、项目维护者和开发者的广泛支持，他们通过 pull request（PR）分享了反馈意见，并针对这个主题进行了深入的探讨。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1137559.htm",
+          "publishedOn": "2021-06-07T06:08:45.000Z",
+          "wordCount": 209,
+          "title": "GitHub新规：可托管用于安全研究的漏洞和恶意程序代码"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1137557.htm",
+          "author": "ugmbbc",
+          "description": "从首都机场到北京市区，不知道怎么买票、换乘？语音AI来了，喊一嗓子，就能快速购票！记者获悉，北京首都机场线、大兴机场线七大地铁站点，近期已全线开通语音购票。借助阿里达摩院研发的智能语音购票技术，乘客对着售票机说出模糊目的地，AI即可自动确定附近地铁站，并快速规划最优换乘方案。乘客选站所需时间，从平均15秒下降至1.6秒，购票体验大大提升。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1137557.htm",
+          "publishedOn": "2021-06-07T06:07:57.000Z",
+          "wordCount": 193,
+          "title": "北京机场地铁全线开通语音购票 1.6秒可完成智能选站"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1137555.htm",
+          "author": "teikaei",
+          "description": "近日，我们在网络上获得了一组广汽埃安AION S Plus的实车图。可以明显看出，这款车在设计上有着ENO.146概念车的基因，而且整车风阻仅为0.211Cd。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1137555.htm",
+          "publishedOn": "2021-06-07T05:59:34.000Z",
+          "wordCount": 204,
+          "title": "广汽埃安AION S Plus实车图片曝光 凸显概念车基因"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1137553.htm",
+          "author": "ugmbbc",
+          "description": "说起魅族手机，不得不提的就是曾经火遍手机市场的“魅蓝”品牌，当时的风头甚至能改过红米一头，曾经一台机器就能卖出2000万台，是当之无愧的国内手机市场头部品牌。而这一切却在2018年戛然而止，当年魅族宣布架构调整，魅族和魅蓝手机品牌合并，魅蓝手机产品线迎来了自己的终点。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1137553.htm",
+          "publishedOn": "2021-06-07T05:58:42.000Z",
+          "wordCount": 206,
+          "title": "魅蓝手机归来？曝魅族申请“魅蓝”商标 曾是国产机头部品牌"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1137551.htm",
+          "author": "ugmbbc",
+          "description": "5月19日，华为推出了一款全新笔记本——Matebook 16全面屏专业性能本，配备了16寸2.5K生产力屏，处理器最高支持AMD 8核锐龙7，售价6299元起，今天开始AMD超级品牌日开始了，优惠力度更大。即日起，华为商城AMD超级新品日活动开始了，不仅有618购物津贴，还可以抢2021神券，晒单还会赠送好礼，最高可享12起免息。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1137551.htm",
+          "publishedOn": "2021-06-07T05:56:34.000Z",
+          "wordCount": 209,
+          "title": "华为举办Matebook 16笔记本AMD品牌日 享6·18购物补贴"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1137549.htm",
+          "author": "ugmbbc",
+          "description": "北京时间6月8日凌晨1点，苹果将在线上举行WWDC开发者大会，而最吸引人的莫过于大会上iOS 15会亮相。据外媒最新报道称，iPadOS 15将包括改进用户管理同时打开的多个应用程序的方式，重新设计的通知横幅也将在iOS 15中首次出现。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1137549.htm",
+          "publishedOn": "2021-06-07T05:53:31.000Z",
+          "wordCount": 229,
+          "title": "iOS 15即将亮相：苹果对老机型优化加强 但iPhone 6S和SE被抛弃"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1137547.htm",
+          "author": "ugmbbc",
+          "description": "在很多人的印象中，一个车位大概是几万元或者几十万元，但如果说一个车位近千万，那么绝对值得讨论一番了。6月7日消息，据媒体报道，香港最新诞生了全球最贵的停车位，成交价1020万港元，约合841万人民币，创下了有史以来的记录。有网友表示“贫穷限制了我的想象力”。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1137547.htm",
+          "publishedOn": "2021-06-07T05:51:50.000Z",
+          "wordCount": 195,
+          "title": "841万全球最贵车位诞生 网友神评论"
+        },
+        {
+          "id": "https://hot.cnbeta.com/articles/movie/1137545.htm",
+          "author": "teikaei",
+          "description": "时隔两年终于回归。《孤独的美食家》宣布将推出第九季，7月开播！主演松重丰直言疫情之下餐饮行业不容易。《孤独的美食家》是由日本漫画家久住昌之原作、谷口治郎作画的一部漫画，1994年于《月刊PANJA》开始连载至1996年。\n 阅读全文",
+          "link": "https://hot.cnbeta.com/articles/movie/1137545.htm",
+          "publishedOn": "2021-06-07T05:51:13.000Z",
+          "wordCount": 194,
+          "title": "《孤独的美食家》将推出第九季 7月开播"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/science/1137543.htm",
+          "author": "teikaei",
+          "description": "据外媒报道，太阳表面充满了能量并经常向地球喷射大量的高磁化等离子体。有时，这些喷射物的强度足以穿透磁层--保护地球的天然磁屏蔽--破坏卫星或电网。这种空间天气事件可能是灾难性的。几个世纪以来，天文学家对太阳活动的研究越来越深入。现在，计算机是了解太阳行为及其在空间天气事件中的作用的核心。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/science/1137543.htm",
+          "publishedOn": "2021-06-07T05:49:18.000Z",
+          "wordCount": 191,
+          "title": "研究：超级计算机提高了空间天气预报能力"
+        },
+        {
           "id": "https://www.cnbeta.com/articles/science/1137541.htm",
           "author": "study875",
           "description": "栖息地丧失和气温变化等问题已经将许多动物推向了灭绝边缘，而气候变化加剧了这一趋势。在气候变化的背景下，哪些物种能及时地适应新环境并存活下来？它们又会做出怎样的改变？一种小小的鱼类或许能为科学家提供答案。\n 阅读全文",
