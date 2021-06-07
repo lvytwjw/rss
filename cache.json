@@ -1318,6 +1318,42 @@
       "siteUrl": "https://www.cnbeta.com",
       "articles": [
         {
+          "id": "https://www.cnbeta.com/articles/tech/1137817.htm",
+          "author": "ugmbbc",
+          "description": "在苹果大型全球开发者大会召开前不到两小时，Facebook首席执行官马克·扎克伯格宣布，该公司将为创作者推出一个新的界面，展示不同的费率政策如何影响他们在该平台上的收入。这一宣布是在苹果公司因其应用商店收费而受到严格审查的情况下作出的。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1137817.htm",
+          "publishedOn": "2021-06-07T16:34:19.000Z",
+          "wordCount": 195,
+          "title": "Facebook将向创作者展示苹果和Google从他们那里拿走了多少钱"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1137815.htm",
+          "author": "ugmbbc",
+          "description": "近日，星际荣耀公司组织召开了双曲线三号（代号“SQX-3”）中大型液体运载火箭总体方案的论证转段评审会。评审专家组对技术方案给予了充分肯定、一致通过，标志着SQX-3液体运载火箭正式从总体方案论证阶段转入型号研制阶段，计划2024年6月完成首飞，然后快速投入发射市场。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1137815.htm",
+          "publishedOn": "2021-06-07T15:54:28.000Z",
+          "wordCount": 185,
+          "title": "中国民营可回收火箭双曲线三号首次公开：能用至少20次"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/science/1137813.htm",
+          "author": "ugmbbc",
+          "description": "麻省理工学院的研究人员说，仅仅通过在一种特殊的液体中晃动就能产生能量的微小的碳纳米管，有朝一日可能成为微型机器人甚至更小设备的突破性动力源。这种方法还可以为电化学提供一种新的和更有效的电力来源，从环境中获取能量来进行化学转换，从而减少对传统电力来源的依赖。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/science/1137813.htm",
+          "publishedOn": "2021-06-07T15:52:39.000Z",
+          "wordCount": 190,
+          "title": "特殊设计的碳纳米管“反应堆”有望为微型机器人提供动力"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1137811.htm",
+          "author": "ugmbbc",
+          "description": "AMD如今正在处理器、显卡两个领域同步飞奔，而且都表现不俗，下一代的Zen4、RDNA3也都颇受期待。据最新靠谱曝料，Zen4、RDNA3都将在明年第四季度登场，如此齐头并进对于AMD来说也是头一遭。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1137811.htm",
+          "publishedOn": "2021-06-07T15:37:24.000Z",
+          "wordCount": 211,
+          "title": "AMD Zen4处理器、RDNA3显卡明年第四季度同步登场"
+        },
+        {
           "id": "https://www.cnbeta.com/articles/tech/1137809.htm",
           "author": "ugmbbc",
           "description": "经常使用某个App，却发现自己购物价格比“新手”贵。针对网民反映强烈的大数据“杀熟”问题，深圳正在征求意见的条例规定，“杀熟”或可重罚5000万元。地方法规能否遏制大数据“杀熟”？\n 阅读全文",

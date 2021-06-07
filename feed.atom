@@ -2,10 +2,54 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://lvytwjw.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-07T15:27:09.121Z</updated>
+    <updated>2021-06-07T17:01:08.673Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://lvytwjw.github.io/rss/index.html"/>
     <link rel="self" href="https://lvytwjw.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Facebook将向创作者展示苹果和Google从他们那里拿走了多少钱]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1137817.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1137817.htm"/>
+        <updated>2021-06-07T16:34:19.000Z</updated>
+        <summary type="html"><![CDATA[在苹果大型全球开发者大会召开前不到两小时，Facebook首席执行官马克·扎克伯格宣布，该公司将为创作者推出一个新的界面，展示不同的费率政策如何影响他们在该平台上的收入。这一宣布是在苹果公司因其应用商店收费而受到严格审查的情况下作出的。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[中国民营可回收火箭双曲线三号首次公开：能用至少20次]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1137815.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1137815.htm"/>
+        <updated>2021-06-07T15:54:28.000Z</updated>
+        <summary type="html"><![CDATA[近日，星际荣耀公司组织召开了双曲线三号（代号“SQX-3”）中大型液体运载火箭总体方案的论证转段评审会。评审专家组对技术方案给予了充分肯定、一致通过，标志着SQX-3液体运载火箭正式从总体方案论证阶段转入型号研制阶段，计划2024年6月完成首飞，然后快速投入发射市场。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[特殊设计的碳纳米管“反应堆”有望为微型机器人提供动力]]></title>
+        <id>https://www.cnbeta.com/articles/science/1137813.htm</id>
+        <link href="https://www.cnbeta.com/articles/science/1137813.htm"/>
+        <updated>2021-06-07T15:52:39.000Z</updated>
+        <summary type="html"><![CDATA[麻省理工学院的研究人员说，仅仅通过在一种特殊的液体中晃动就能产生能量的微小的碳纳米管，有朝一日可能成为微型机器人甚至更小设备的突破性动力源。这种方法还可以为电化学提供一种新的和更有效的电力来源，从环境中获取能量来进行化学转换，从而减少对传统电力来源的依赖。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AMD Zen4处理器、RDNA3显卡明年第四季度同步登场]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1137811.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1137811.htm"/>
+        <updated>2021-06-07T15:37:24.000Z</updated>
+        <summary type="html"><![CDATA[AMD如今正在处理器、显卡两个领域同步飞奔，而且都表现不俗，下一代的Zen4、RDNA3也都颇受期待。据最新靠谱曝料，Zen4、RDNA3都将在明年第四季度登场，如此齐头并进对于AMD来说也是头一遭。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[新华社：地方法规在行动 大数据“杀熟”或可罚5000万元]]></title>
         <id>https://www.cnbeta.com/articles/tech/1137809.htm</id>
