@@ -2,10 +2,350 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://lvytwjw.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-07T17:01:08.673Z</updated>
+    <updated>2021-06-07T19:36:03.427Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://lvytwjw.github.io/rss/index.html"/>
     <link rel="self" href="https://lvytwjw.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[iOS 15支持机型公布：iPhone 6S、iPhone SE初代依然在]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1137877.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1137877.htm"/>
+        <updated>2021-06-07T19:33:00.000Z</updated>
+        <summary type="html"><![CDATA[一年一度的WWDC开发者大会如期上演，苹果的各大OS系统也再次升级，最闪亮的明星自然是iOS 15，还有iPadOS 15。现在，它们的支持兼容机型公布了，意外的是，iOS 15依然没有抛弃近六年前的iPhone 6S系列、五年多前的iPhone SE初代，iOS 14支持的它依然全都保留！
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WWDC21主题演讲内容盘点：除了iOS/iPadOS 15外还有啥]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1137875.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1137875.htm"/>
+        <updated>2021-06-07T19:26:41.000Z</updated>
+        <summary type="html"><![CDATA[苹果刚刚结束了 WWDC 2021 的主题演讲，在 2 个小时的活动中发布了各种产品和服务的新动态，而且接下来会有超过 200 个日程安排，重点围绕着苹果软件生态进行探讨交流。本次主题演讲发布了 iOS/iPadOS/tvOS 15，全新的 macOS Monterey，watchOS 8 和 FaceTime 等重大系统改进。
+ 阅读全文]]></summary>
+        <author>
+            <name>study875</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WWDC 2021：苹果大举扩展邮件应用、浏览器、以及Siri的隐私特性]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1137873.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1137873.htm"/>
+        <updated>2021-06-07T19:06:55.000Z</updated>
+        <summary type="html"><![CDATA[在北京时间 6 月 8 日凌晨 1 点召开的 WWDC 2021 开发者大会主题演讲期间，苹果隐私工程主管 Katie Skinner 与软件主管 Erik Neuenschwander 着重介绍了横跨整个苹果生态系统的新增隐私功能。首先，苹果软件工程副总裁 Craig Federighi 指出，该公司坚持隐私是用户的一项基本权利，因而希望大家无需烦恼于在出色功能和隐私保护之间作出权衡。
+ 阅读全文]]></summary>
+        <author>
+            <name>raymon725</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[科学家正式命名澳大利亚有史以来最大的恐龙]]></title>
+        <id>https://www.cnbeta.com/articles/science/1137871.htm</id>
+        <link href="https://www.cnbeta.com/articles/science/1137871.htm"/>
+        <updated>2021-06-07T19:06:28.000Z</updated>
+        <summary type="html"><![CDATA[大约9200万年前，绰号为"库珀"的恐龙被卡在了泥土里。泥浆封住了这只巨大长颈食叶恐龙，掩盖了它的骨头。2007年这只野兽化石从澳大利亚昆士兰州西南部小镇埃罗芒加附近的一个牛羊牧场下面被挖出。
+ 阅读全文]]></summary>
+        <author>
+            <name>maomao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[苹果推出Xcode Cloud服务 让开发团队更容易远程协作]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1137869.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1137869.htm"/>
+        <updated>2021-06-07T19:02:12.000Z</updated>
+        <summary type="html"><![CDATA[在刚刚结束的 WWDC 2021 开幕演讲中，苹果宣布在 App Store 榜单前 1000 应用中，很多都是使用 Swift 语言编程的。针对开发者苹果还推出了 Xcode Cloud 服务，在远程办公成为新常态下能够让开发团队更容易进行协作。开发者通过在云端编写应用程序，可以大大缩短应用的开发周期。
+ 阅读全文]]></summary>
+        <author>
+            <name>study875</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[研究发现地球固态铁质内核一侧增长速度比另一侧更快]]></title>
+        <id>https://www.cnbeta.com/articles/science/1137867.htm</id>
+        <link href="https://www.cnbeta.com/articles/science/1137867.htm"/>
+        <updated>2021-06-07T18:53:57.000Z</updated>
+        <summary type="html"><![CDATA[根据加州大学伯克利分校地震学家的一项新研究，由于未知的原因，地球的固态铁质内核在一侧比另一侧增长得更快，而且自从它在5亿多年前开始从熔融的铁质中冷却出来以来，它一直是这样生长。
+ 阅读全文]]></summary>
+        <author>
+            <name>maomao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[苹果智能家居系列更新：Apple TV、HomePod、Matter实现整合]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1137865.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1137865.htm"/>
+        <updated>2021-06-07T18:46:31.000Z</updated>
+        <summary type="html"><![CDATA[本周，苹果公司将他们的家庭类别带出了一扇全新的大门。公司透露，他们将允许HomePod mini与Apple TV4K配对。苹果在HomePod上增加了Apple TV控制功能，与此同时还扩大了Siri与Apple TV的使用方式。苹果公司承诺，他们的智能家居生态将更容易使用，更好地结合，并将重点关注隐私。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[苹果首次为第三方设备引入Siri HomeKit配件制造商今年开始整合]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1137863.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1137863.htm"/>
+        <updated>2021-06-07T18:44:23.000Z</updated>
+        <summary type="html"><![CDATA[Siri终于要进入第三方设备了。苹果在WWDC主题演讲中宣布，HomeKit配件制造商将能够在今年晚些时候将Siri语音控制整合到他们的设备中。如果设备连接到你的网络，语音助手将通过HomePod进行路由传送。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[币圈坚定多头MicroStrategy：死也不卖 发4亿美元债券继续买！]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1137861.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1137861.htm"/>
+        <updated>2021-06-07T18:42:38.000Z</updated>
+        <summary type="html"><![CDATA[在马斯克对比特币的态度反复之时，此前大买比特币当储备的MicroStrategy又出手了，这次它准备通过发行债券购买比特币，这也是大约半年以来MicroStrategy第二次公开的发债买币行动。消息公布之后比特币曾短线拉升，但是升势未能持续。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[三星Galaxy M21 Prime Edition现身印度相关网站 上市在即]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1137859.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1137859.htm"/>
+        <updated>2021-06-07T18:35:34.000Z</updated>
+        <summary type="html"><![CDATA[几个月前，三星在印度推出了Galaxy M21智能手机。现在，看起来该公司正准备在印度市场推出Galaxy M21 Prime Edition。上周六，MySmartPrice发现三星Galaxy M21 Prime Edition出现在Google Play支持设备和印度标准局（BIS）网站。
+ 阅读全文]]></summary>
+        <author>
+            <name>maomao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[苹果发布macOS Monterey 带来隐私增强、键盘共享等功能]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1137857.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1137857.htm"/>
+        <updated>2021-06-07T18:34:53.000Z</updated>
+        <summary type="html"><![CDATA[在WWDC上亮相的下一版Mac操作系统将被称为macOS Monterey，带来隐私增强、键盘共享等功能。苹果在其年度WWDC主题演讲活动中介绍了macOS Big Sur的继任者。该系统不久将以测试版的形式提供给开发者，并将在今年晚些时候成为Mac计算机的预装版本。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[watchOS 8正式发布 带来人像表盘、新的锻炼方式等内容]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1137855.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1137855.htm"/>
+        <updated>2021-06-07T18:27:43.000Z</updated>
+        <summary type="html"><![CDATA[在过去多次泄露信息之后，苹果终于揭开了watchOS 8的盖头。这一次，苹果专注于使watchOS 8在整体功能上有很大的提升，比如引入呼吸频率和更多的功能。除此之外，新的更新还带来了新的锻炼方式，如太极拳锻炼，供那些想尝试不同东西的人使用。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Siri将在iOS 15中变得更加有用 部分功能可以不联网实现]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1137853.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1137853.htm"/>
+        <updated>2021-06-07T18:24:00.000Z</updated>
+        <summary type="html"><![CDATA[iOS 15将带来一些隐私方面的更新，但其中最有用的是Siri。苹果今天证实，Siri将在iOS 15中获得基于设备本地的语音识别特性。这不仅是Siri隐私方面的一个重大举措，而且看起来也将是可用性方面的一个重大进步。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Use Closures in JavaScript – A Beginner&#x27;s Guide]]></title>
+        <id>5ff625967af2371468bb8645</id>
+        <link href="https://www.freecodecamp.org/news/closures-in-javascript/"/>
+        <updated>2021-06-07T18:18:01.000Z</updated>
+        <summary type="html"><![CDATA[Closures are a confusing JavaScript concept to learn, because it's hard to see how they're actually used.  Unlike other concepts such as functions, variables, and objects, you don't always use closures conscientiously and directly. You don't say: Oh! Here I will use a closure as a solution. But at the]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[苹果发布新的健康应用 加入步行稳健性、趋势、化验结果等特性]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1137851.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1137851.htm"/>
+        <updated>2021-06-07T18:14:08.000Z</updated>
+        <summary type="html"><![CDATA[苹果公司正在为健康应用程序带来新的功能，旨在使其更容易识别、测量和了解随时间推移的健康变化。移动性跟踪将很快捕捉到一个新的步行稳健度指标，通过测量步态的速度和均匀度来评估你的跌倒风险。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[研究人员用智能手表激活基因以控制胰岛素分泌]]></title>
+        <id>https://www.cnbeta.com/articles/science/1137849.htm</id>
+        <link href="https://www.cnbeta.com/articles/science/1137849.htm"/>
+        <updated>2021-06-07T18:06:47.000Z</updated>
+        <summary type="html"><![CDATA[许多现代健身追踪器和智能手表都集成了LED，它们发出的绿光，无论是连续的还是脉冲的，都能穿透皮肤，可以用来测量佩戴者在体育活动中或休息时的心率。这些手表已经变得非常流行。一个研究团队现在想利用这种流行，在皮肤上使用LED来控制基因和改变细胞的行为。
+ 阅读全文]]></summary>
+        <author>
+            <name>maomao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[苹果发布iCloud+ 将付费存储与隐藏邮件等隐私功能相结合]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1137847.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1137847.htm"/>
+        <updated>2021-06-07T18:05:32.000Z</updated>
+        <summary type="html"><![CDATA[在WWDC上，苹果宣布iCloud将获得一个名为 "iCloud+"的高级订阅套餐，将传统的付费存储与隐藏邮件等隐私功能相结合，其中最重要的“Private Relay”特性允许用户通过Safari浏览器浏览网页，所有离开设备的信息都将被加密，同时还可以访问 "隐藏我的邮件"。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[苹果iOS 15的Live Text相机新特性可让你与照片中的文字互动]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1137845.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1137845.htm"/>
+        <updated>2021-06-07T17:57:31.000Z</updated>
+        <summary type="html"><![CDATA[苹果公司在其相机系统中引入了一项新功能，可以自动识别并转录照片中的文字，从名片上的电话号码到充满笔记的白板。这项功能被称为 "实时文本"，不需要用户的任何提示或特殊工作--只要点击图标就可以了。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[苹果地图更新使导航更容易 颇有《模拟城市》的特殊美感]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1137843.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1137843.htm"/>
+        <updated>2021-06-07T17:55:28.000Z</updated>
+        <summary type="html"><![CDATA[苹果地图带来了一个花哨的类似3D的模式，可以让你在苹果选择的美学中探索世界，新的导航视图能够为司机更有条理地呈现重叠的、复杂的交汇处。这个最新的更新还增加了一个增强现实系统，用户可以扫描建筑物，并根据苹果地图认为你所在的位置获得步行方向。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AirPods增加对话增强功能 并加入了“Find My”网络方便丢失后找回]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1137841.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1137841.htm"/>
+        <updated>2021-06-07T17:51:54.000Z</updated>
+        <summary type="html"><![CDATA[苹果公司正在更新AirPods，使那些有听力障碍的人可以用它们来增强对话，并为那些丢失耳塞或耳机的人链接“Find My”网络支持。这些新功能是在今天的WWDC 2021上与iOS 15一起宣布的。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[苹果发布iPadOS 15 改进主屏幕和多任务功能]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1137839.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1137839.htm"/>
+        <updated>2021-06-07T17:47:08.000Z</updated>
+        <summary type="html"><![CDATA[在推出其有史以来最强大的iPad Pro设备数周后，苹果今天宣布了最新版本的iPadOS--而且明显侧重于使苹果的平板电脑成为更有能力的生产力机器。正如传言，iPadOS 15将使主屏幕更容易定制，并允许更灵活地放置小工具。你现在可以把它们贴在你喜欢的任何地方，这项功能去年已经出现在iOS 14中。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[iOS 15中的苹果钱包应用将支持身份证和驾照信息的存储]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1137837.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1137837.htm"/>
+        <updated>2021-06-07T17:43:28.000Z</updated>
+        <summary type="html"><![CDATA[苹果公司正在大幅扩大可添加到钱包的卡片和文件类型，包括美国某些州的身份证和驾照以及更多类型的钥匙。苹果周一公布了iOS 15钱包的更新。最大的新功能是能够将美国某些支持的州的身份证信息添加到iPhone的钱包中。苹果表示，它还正在与美国运输安全管理局合作，支持机场的数字身份验证。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[苹果公布新版iOS天气应用 更先进的图形反映现实世界的状况]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1137835.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1137835.htm"/>
+        <updated>2021-06-07T17:41:02.000Z</updated>
+        <summary type="html"><![CDATA[苹果公司在WWDC上披露了一个新的iOS天气应用程序设计，并增加了一些功能。天气应用的新用户界面包括重新设计的布局，还会根据实时情况变化。新的图形旨在使其更容易理解风、紫外线和气压等条件。还有数以千计的背景变化，以反映太阳位置、云层、天气等。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[iOS 15 Messages "与你分享"特性：将第一方应用生态联系在一起]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1137833.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1137833.htm"/>
+        <updated>2021-06-07T17:37:10.000Z</updated>
+        <summary type="html"><![CDATA[今天，苹果公司展示了他们的Messages 信息应用和平台即将推出的一系列新功能。有了这个新的更新，用户将发现与其他苹果应用的深度整合，如Apple News、音乐和照片，推动这些连接的新功能被称为 "与你分享"。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[苹果通过"专注"和"摘要"体验来完善iOS 15通知功能]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1137831.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1137831.htm"/>
+        <updated>2021-06-07T17:30:34.000Z</updated>
+        <summary type="html"><![CDATA[作为iOS 15更新的一部分，苹果将允许iPhone用户更好地定制他们希望根据自己的当前状态获得来电、短信或应用程序更新的通知。新的Focus功能被加入，而不仅仅是像以往一样通过 "请勿打扰"去粗暴地关闭电话和通知。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[苹果为iOS 15推出全新的FaceTime改进 还可分享流媒体内容]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1137829.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1137829.htm"/>
+        <updated>2021-06-07T17:26:21.000Z</updated>
+        <summary type="html"><![CDATA[苹果公司已经正式发布了iOS 15，这是为iPhone用户提供的下一版本的操作系统。该公司表示，它在设计iOS 15时考虑到了四个不同的问题。苹果公司副总裁Craig Federighi介绍了此次更新，以下是新内容一览：
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[三天挣数万元？拆解银行卡“四件套”贩卖套路]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1137827.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1137827.htm"/>
+        <updated>2021-06-07T17:20:46.000Z</updated>
+        <summary type="html"><![CDATA[“银行卡四件套，对公账户，有需要微我”“全新卡资料齐全”……在网络平台活跃着一些“中间商”，他们常用暗语交流，只因收购和销售的产品属于监管明令禁止倒卖的“违禁品”——银行卡“四件套”。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美SEC称正监控某些股票的持续波动 誓言保护散户投资者]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1137825.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1137825.htm"/>
+        <updated>2021-06-07T17:19:22.000Z</updated>
+        <summary type="html"><![CDATA[美国证券交易委员会（SEC）周一表示，正在密切关注近期meme股票的疯狂交易，以确保市场稳定。“鉴于某些股票的持续波动，SEC工作人员将继续监控市场，以确定是否存在扰乱市场、操纵性交易或其他不当行为，”SEC发言人称。“此外，如果发现违反联邦证券法的行为，我们将采取行动保护散户投资者。”
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[《波斯王子》重制版目标2022发行 不会出展今年E3]]></title>
+        <id>https://hot.cnbeta.com/articles/game/1137823.htm</id>
+        <link href="https://hot.cnbeta.com/articles/game/1137823.htm"/>
+        <updated>2021-06-07T17:18:23.000Z</updated>
+        <summary type="html"><![CDATA[2021年2月，育碧宣布《波斯王子：时之沙》重制版被无限期地推迟。现在该发行商更新了情报，称该游戏现在目标是于2022年发行。此外，该游戏也不会出现在2021年E3游戏展上。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美国FDA批准Biogen公司阿兹海默症治疗药物 为近20年来首次]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1137821.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1137821.htm"/>
+        <updated>2021-06-07T17:17:39.000Z</updated>
+        <summary type="html"><![CDATA[美国食品和药物管理局（FDA）周一批准了Biogen公司治疗阿兹海默症的药物aducanumab，使其成为美国监管机构批准的第一种减缓阿兹海默症患者认知能力下降的药物，也是近20年来首款治疗该疾病的新药。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[尼康宣布结束数码单反相机机身在日本的生产]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1137819.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1137819.htm"/>
+        <updated>2021-06-07T17:15:47.000Z</updated>
+        <summary type="html"><![CDATA[据媒体报道，日本相机巨头尼康将进行结构性改革，今年内结束数码单反相机机身在日本的生产。据悉，尼康当前运营着两座相机工厂，其一位于日本北部宫城县的首府仙台，另一座则位于泰国。未来，尼康将把日本国内唯一一家生产相机机身的宫城县工厂的生产转移至泰国主力工厂。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Facebook将向创作者展示苹果和Google从他们那里拿走了多少钱]]></title>
         <id>https://www.cnbeta.com/articles/tech/1137817.htm</id>
