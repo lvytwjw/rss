@@ -1300,6 +1300,150 @@
       "siteUrl": "https://www.cnbeta.com",
       "articles": [
         {
+          "id": "https://www.cnbeta.com/articles/tech/1137793.htm",
+          "author": "ugmbbc",
+          "description": "更多的迹象表明，全球市场在经历了灾难性的2020年之后，正在恢复元气。Gartner的新数据显示，2021年第一季度全球销售额同比增长26%。整体增长令人印象深刻，尽管它是在经历了几年的市场放缓，随后在大流行中一步步下降之后发生的。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1137793.htm",
+          "publishedOn": "2021-06-07T14:09:09.000Z",
+          "wordCount": 192,
+          "title": "全球智能手机市场继续反弹 2021年第一季度增长26%"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/science/1137791.htm",
+          "author": "ugmbbc",
+          "description": "一种更节能的方法通过颠覆传统的过程改善了一种工业气体的净化方式。这个概念是由日本京都大学综合细胞-材料科学研究所（iCeMS）的科学家和同事开发并成功测试的。该研究结果在《Angewandte Chemie International Edition》杂志上发表。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/science/1137791.htm",
+          "publishedOn": "2021-06-07T14:02:27.000Z",
+          "wordCount": 187,
+          "title": "一种新的设计概念改变了材料分离气体混合物的方式"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/science/1137789.htm",
+          "author": "ugmbbc",
+          "description": "计划通过SPAC合并上市的太空发射初创公司Astra将收购电动推进器制造商Apollo Fusion，该公司周一表示。Astra首席工程师本杰明·里昂（Benjamin Lyon）周一在一篇博文中说，电力推进系统能有效地将航天器从低轨道移至高轨道，甚至将航天器推至月球，他指出Astra可以实现的航天计划已经超出了地球轨道的任务。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/science/1137789.htm",
+          "publishedOn": "2021-06-07T14:00:26.000Z",
+          "wordCount": 196,
+          "title": "太空发射初创公司Astra将收购研发电动空间推进技术的Apollo Fusion"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1137787.htm",
+          "author": "ugmbbc",
+          "description": "苹果公司将其应用审查程序作为最近对其应用商店政策进行法律攻击的堡垒，并特别强调了iOS用户在购买应用时的安全利益。然而，一项调查发现，在某一天销售额最高的1000个应用程序中，几乎有2%是某种骗局。据进行调查的《华盛顿邮报》称，诈骗应用一直 \"隐藏在众目睽睽之下\"：\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1137787.htm",
+          "publishedOn": "2021-06-07T13:57:03.000Z",
+          "wordCount": 204,
+          "title": "研究发现在App Store上排名前1000位的付费应用程序中有高达2%是骗局"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1137785.htm",
+          "author": "ugmbbc",
+          "description": "美东时间6月3日，马斯克连发两条推文，疑似对比特币表示失望。比特币价格受此影响，暴跌6%。币安美国（Binance. US）首席执行官Brian Brooks称，事实上，马斯克发推正说明他关注加密货币领域，并且如果马斯克对这一领域如此感兴趣的话，那表明加密货币确实相当重要。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1137785.htm",
+          "publishedOn": "2021-06-07T13:45:24.000Z",
+          "wordCount": 191,
+          "title": "币安美国CEO：长期来看 马斯克对加密货币的发展有益"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1137783.htm",
+          "author": "ugmbbc",
+          "description": "美国运通公司CEO Steve Squeri表示，Z世代和千禧一代的开支是2019年，也就是疫情前的125%。这说明在这群人身上，旅行和消费的需求在疫情期间被压抑过久了。Squeri同时表示，这也正是为什么我们看到美国的旅游业及服务业率先复苏的原因。虽然商务旅行需要到2023年才能恢复到疫情前的水平，但现阶段年轻人的开支激增对于运通来说是个好消息。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1137783.htm",
+          "publishedOn": "2021-06-07T13:44:31.000Z",
+          "wordCount": 194,
+          "title": "美国年轻人正拼命花钱 Z世代和千禧一代的开支是疫情前的125%"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1137781.htm",
+          "author": "ugmbbc",
+          "description": "武汉大学李红良、袁玉峰等共同通讯在国际代谢领域顶尖杂志Cell Metabolism在线发表研究论文，首次证明TMBIM1是一个抑制脂肪生成的全新因子，揭示了TMBIM1对脂肪生成和肥胖相关代谢紊乱的关键负调控作用，提示TMBIM1是治疗肥胖相关代谢紊乱的潜在分子靶点。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1137781.htm",
+          "publishedOn": "2021-06-07T13:41:28.000Z",
+          "wordCount": 193,
+          "title": "武汉大学李红良团队首次证明抑制脂肪生成的全新因子"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1137779.htm",
+          "author": "ugmbbc",
+          "description": "“我们只是在进行前期的调研，目前不方便对外公开。”当第一财经记者问及四川是否对虚拟货币“挖矿”行为采取措施时，国家能源局四川监管办公室一位工作人员回答说。国家能源局四川监管办公室最近下发的《关于召开虚拟币“挖矿”有关情况调研座谈会的通知》（下称《通知》）显示：\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1137779.htm",
+          "publishedOn": "2021-06-07T13:41:02.000Z",
+          "wordCount": 189,
+          "title": "利诱与拒绝：水电大省直面“挖矿”存废考验"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1137777.htm",
+          "author": "ugmbbc",
+          "description": "在部分车主眼里，理想汽车的行为已经涉嫌销售欺诈，而更让他们愤怒的是迟迟没有得到任何说法。这一信任危机，理想汽车该如何才能化解？“从5月25日发新车到现在，我都没有收到理想汽车的任何说法。”6月5日，时间虽然过去了近两周，来自上海的理想汽车车主郑先生向《国际金融报》记者谈起购买老款理想ONE的经历依旧显得非常愤怒。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1137777.htm",
+          "publishedOn": "2021-06-07T13:40:27.000Z",
+          "wordCount": 192,
+          "title": "“换代风波”再起，老车主组团“激斗”理想汽车"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1137775.htm",
+          "author": "ugmbbc",
+          "description": "特斯拉还会有“死机密语”，这种事按照常理来看，明显不可能发生，不过事实可能会与大多人的想的不太一样。近日，据中国台湾特斯拉车友会曝料称，所有特斯拉的车机导航，都存在一个“死机密语”，只要说出“开元路土魠鱼羹”这七个字，车机导航立马死机。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1137775.htm",
+          "publishedOn": "2021-06-07T13:25:49.000Z",
+          "wordCount": 195,
+          "title": "特斯拉存“死机密语”：林志颖实测车机导航 当场死机"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1137773.htm",
+          "author": "ugmbbc",
+          "description": "随着生活条件不断提高，肥胖已经成为世界上的主要健康问题之一，而针对减肥的方法也是层出不穷。据外媒报道，日前，美国食品药品监督管理局（FDA）批准了一种被研究人员誉为“游戏规则改变者”的减肥药，该药物作为近年来首次批准的减肥疗法，最多能够使肥胖者体重减重超20%。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1137773.htm",
+          "publishedOn": "2021-06-07T13:24:12.000Z",
+          "wordCount": 193,
+          "title": "Novo Nordisk革命性减肥药获批 效果堪比手术"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1137771.htm",
+          "author": "ugmbbc",
+          "description": "AMD日前宣布，7nm Zen3家族的锐龙7 5700G、锐龙5 5600G两款桌面级APU将开放给零售市场，但是入门级型号锐龙3 5300G却被遗忘了，原因不详。事实上，锐龙3 5300G虽然规格不高，但潜力巨大，居然可以液氮超频到5.6GHz的高度。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1137771.htm",
+          "publishedOn": "2021-06-07T13:21:56.000Z",
+          "wordCount": 211,
+          "title": "Zen3入门级锐龙3 5300G液氮超频5.6GHz：可惜不零售"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/science/1137769.htm",
+          "author": "ugmbbc",
+          "description": "根据一项国际多中心研究，对于那些具有较高眼压遗传倾向的人来说，每天摄入大量的咖啡因可能会使青光眼的风险增加三倍以上。由西奈山伊坎医学院领导的这项研究首次证明了青光眼中的饮食-遗传互动。发表在6月出版的《眼科》杂志上的研究结果可能表明，有强烈的青光眼家族史的病人应该减少咖啡因的摄入。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/science/1137769.htm",
+          "publishedOn": "2021-06-07T13:16:59.000Z",
+          "wordCount": 185,
+          "title": "大量饮用咖啡因可能会增加患致盲性眼病的风险"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/science/1137767.htm",
+          "author": "ugmbbc",
+          "description": "来自加州理工学院和南加州大学的研究人员展示了一项新技术，该技术能够利用激光和超声波对人脑进行成像，该技术被称为光声计算机断层扫描或PACT，先前版本的PACT技术已被用于在实验室中对老鼠的内部结构进行成像。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/science/1137767.htm",
+          "publishedOn": "2021-06-07T13:09:52.000Z",
+          "wordCount": 187,
+          "title": "研究人员利用超声和激光对人脑进行成像"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1137765.htm",
+          "author": "ugmbbc",
+          "description": "最近显示技术的一个突破是，研究人员能够创造出柔性显示屏，迎来了折叠手机的时代。三星研究人员现在已经证明，显示技术的下一个重大变化在商业上是可行的，该团队已经完成了自由形态显示器的工作，这一突破的核心技术是可拉伸显示器，能够像橡皮筋一样向各个方向拉伸以改变形状。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1137765.htm",
+          "publishedOn": "2021-06-07T12:44:58.000Z",
+          "wordCount": 203,
+          "title": "三星正在研发用于可穿戴设备的可拉伸OLED显示屏"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1137763.htm",
+          "author": "ugmbbc",
+          "description": "今日（6月7日），腾讯视频在发布活动中再次预热《三体》系列剧，并给出最新海报，配发的文字中“我点燃了火，却控制不了它”引人遐想。据三体宇宙TBU官微介绍，《三体》电视剧由企鹅影视、三体宇宙和灵河文化共同出品，耗时四年打磨剧本，国境南北艰苦拍摄。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1137763.htm",
+          "publishedOn": "2021-06-07T12:39:20.000Z",
+          "wordCount": 189,
+          "title": "《三体》电视剧最新进展曝光：第一部正在后期制作"
+        },
+        {
           "id": "https://www.cnbeta.com/articles/tech/1137761.htm",
           "author": "ugmbbc",
           "description": "诞生于1966年的丰田卡罗拉不仅是全球销量第一的车型，同时在其悠久的历史长河中，还推出过多款衍生车型。近日，卡罗拉Cross实车正式于北美市场亮相，新车基于TNGA-C平台打造，定位介于C-HR和RAV4荣放之间。也可视为小号RAV4。\n 阅读全文",
