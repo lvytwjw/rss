@@ -2,10 +2,76 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://lvytwjw.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-08T12:10:22.889Z</updated>
+    <updated>2021-06-08T13:26:52.705Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://lvytwjw.github.io/rss/index.html"/>
     <link rel="self" href="https://lvytwjw.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[CPU与GPU、VCU的关系愈加“微妙”]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1138227.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1138227.htm"/>
+        <updated>2021-06-08T13:14:36.000Z</updated>
+        <summary type="html"><![CDATA[一个GPU总需要一个CPU，但CPU的选择已经不再单一，GPU的功能也不再“简单”，曾经稳固的关系，不再是单纯的合作。四月份，英伟达发布了采用Arm架构的首款数据中心CPU Grace引发广泛关注。本月，外媒Tomshardware报道，像CPU一样总需要一个CPU的谷歌自研视频编解码处理单元Argos VCU，预计可以替换3000-4000万个英特尔CPU。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[高考作弊与反作弊手段对抗大盘点]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1138225.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1138225.htm"/>
+        <updated>2021-06-08T12:28:57.000Z</updated>
+        <summary type="html"><![CDATA[6月7日，高考首日，有网友爆料称，一考生在数学考试中将试题拍照上传到小猿搜题APP上，被小猿搜题APP工作人员发现后举报。该名考生甚至将自己的姓名也拍上了，上传时间为6月7日15时46分，也就是数学这门课开考才过去46分钟，还有一个多小时考试才结束。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fastly：已经修复了导致互联网大面积中断的故障]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1138223.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1138223.htm"/>
+        <updated>2021-06-08T12:27:52.000Z</updated>
+        <summary type="html"><![CDATA[由于内容发送网络Fastly Inc．的网络宕机，包括纽约时报、彭博新闻、Reddit和英国政府网站在内的众多互联网网站周二一度无法使用。Fastly运行的内容发送网络可以在互联网上快速推送数据。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[雷蛇和ClearBot合作研发清理海洋塑料的人工智能船]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1138221.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1138221.htm"/>
+        <updated>2021-06-08T12:26:34.000Z</updated>
+        <summary type="html"><![CDATA[Razer是一个与游戏产业有着很大关联的名字，最近Razer宣布，为了纪念世界海洋日，它正在帮助一家名为ClearBot的初创公司重新设计其用于清理海洋塑料的人工智能船。新的合作关系与雷蛇的10年可持续发展路线图相一致。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[荣耀50系列外观曝光“初雪水晶”+卡地亚戒环设计]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1138219.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1138219.htm"/>
+        <updated>2021-06-08T12:24:03.000Z</updated>
+        <summary type="html"><![CDATA[临近发布，有关荣耀50系列的爆料越来越重磅。昨天，荣耀官微正式公布龚俊出任荣耀50系列代言人，龚俊超高的颜值与手中闪耀感十足的荣耀50系列可以说是相得益彰。今天一早，荣耀官微再次曝光了荣耀50系列这款配色的高清渲染视频，官方命名为初雪水晶。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[女大学生刷短视频竟刷出腱鞘炎 医生教你如何预防]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1138217.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1138217.htm"/>
+        <updated>2021-06-08T12:22:13.000Z</updated>
+        <summary type="html"><![CDATA[在碎片化时代，人们喜欢用手机刷短视频，这本无可厚非。但如果长时间刷短视频，你的手指就未必会听你的话了。最近有媒体报道，江苏常州的23岁女大学生小赵平时爱刷短视频。但有一天，她在玩手机的时候，感觉大拇指根有点痛，之后动得也不利索。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[一罐氢气可跑450公里 红旗H5氢燃料版实车曝光]]></title>
         <id>https://www.cnbeta.com/articles/tech/1138215.htm</id>
