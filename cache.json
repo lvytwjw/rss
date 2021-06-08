@@ -1354,6 +1354,33 @@
       "siteUrl": "https://www.cnbeta.com",
       "articles": [
         {
+          "id": "https://www.cnbeta.com/articles/tech/1138065.htm",
+          "author": "raymon725",
+          "description": "过去几年，三星一直在努力为其相机硬件带来重大改进。除了用于自家 Galaxy 设备，三星也有向其它制造商提供图像传感器。最新消息是，Samsung ISOCELL 官方 Twitter 账号已经预告了下一场重大更新的发布时间。6 月 10 号的时候，三星将为我们揭晓有关新款 ISOCELL 图像传感器的惊艳创新。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1138065.htm",
+          "publishedOn": "2021-06-08T04:27:40.000Z",
+          "wordCount": 233,
+          "title": "三星预告6月10日发布新款ISOCELL影像传感器 或主打中端入门"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/science/1138063.htm",
+          "author": "vivian",
+          "description": "一项新的科学研究表明，游隼的深色“眼线 ”羽毛可作为“遮阳板”，以提高这种鸟类的狩猎能力。科学家们长期以来一直推测，猎鹰的眼睛标记提高了它们在明亮的阳光下瞄准快速移动的猎物。现在的研究表明，这些标记是根据气候演变而来的；鸟类的栖息地越是阳光充足，其明显的深色 \"遮阳 \"羽毛就越大、越深。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/science/1138063.htm",
+          "publishedOn": "2021-06-08T04:01:15.000Z",
+          "wordCount": 198,
+          "title": "研究发现猎鹰有天然的“眼妆”来提高狩猎能力"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1138061.htm",
+          "author": "ugmbbc",
+          "description": "在手机媒体资料动辄数十 GB、且微软 / 索尼两家的次世代游戏主机都只预装了容量有限的内置固态硬盘的情况下，轻便、且具有高速数据传输性能的移动固态硬盘，也逐渐成为了许多消费者的首选。巧的是，在去年体验过了 2TB 版本的Crucial英睿达 X6 和 X8 系列移动固态硬盘之后，编辑部由于近日收到了一枚 4TB 版本的Crucial英睿达X6 移动固态硬盘。下面让我们一起来看看它到底有何不同。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1138061.htm",
+          "publishedOn": "2021-06-08T04:00:01.000Z",
+          "wordCount": 452,
+          "title": "加量提速：Crucial英睿达X6系列4TB移动固态硬盘上手体验"
+        },
+        {
           "id": "https://www.cnbeta.com/articles/tech/1138059.htm",
           "author": "raymon725",
           "description": "苹果软件工程高级副总裁 Craig Federighi 表示，为维护用户的安全和隐私，该公司将在未来几年内为此持续战斗。作为该公司开发 iOS 和 macOS 等操作系统时的指导思想，Federighi 在一次采访中详细介绍了其中的一些变化，以及新推出的应用追踪透明度功能。\n 阅读全文",
