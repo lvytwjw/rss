@@ -2,10 +2,120 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://lvytwjw.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-08T08:12:19.641Z</updated>
+    <updated>2021-06-08T09:10:00.287Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://lvytwjw.github.io/rss/index.html"/>
     <link rel="self" href="https://lvytwjw.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Marvell推出业内首款1.6T以太网PHY：5nm先进制程 100G PAM4 I/O]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1138167.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1138167.htm"/>
+        <updated>2021-06-08T08:53:11.000Z</updated>
+        <summary type="html"><![CDATA[美满电子（Marvell）刚刚发布了业内首款基于 5nm 先进制程的 1.6T 以太网 PHY 解决方案，特点是支持十万兆（100G）级别的 PAM4 输入 / 输出。对于数据中心来说，100G 串行 I/O 可在云基础架构中发挥关键作用，为其不断增长的海量数据提供支撑。除了以更节能的方式来跨计算 / 网络 / 存储移动数据，新方案还可推动 Ethernet 骨干网向 1.6 Tbps 过渡。
+ 阅读全文]]></summary>
+        <author>
+            <name>raymon725</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apple Music空间音频功能将于今年秋季支持动态头部追踪]]></title>
+        <id>https://hot.cnbeta.com/articles/music/1138165.htm</id>
+        <link href="https://hot.cnbeta.com/articles/music/1138165.htm"/>
+        <updated>2021-06-08T08:46:00.000Z</updated>
+        <summary type="html"><![CDATA[目前苹果正为 Apple Music 推出空间音频（spatial audio）和无损音频（lossless audio），为用户提供了更加身临其境、高品质的聆听体验。今年晚些时候，苹果还将为 Apple Music 中的歌曲带来动态头部追踪功能。
+ 阅读全文]]></summary>
+        <author>
+            <name>study875</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[香港金管局：继续与人行就数字人民币合作]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1138163.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1138163.htm"/>
+        <updated>2021-06-08T08:45:07.000Z</updated>
+        <summary type="html"><![CDATA[6月8日下午消息，香港金管局公布‘金融科技2025’策略，提出金管局会深入研究，为香港在发行批发及零售层面央行数码货币，加强准备。金管局亦会继续与中国人民银行合作，就数字人民币（e-CNY）在香港进行技术测试，为本港和内地居民提供便捷的跨境支付服务。
+ 阅读全文]]></summary>
+        <author>
+            <name>teikaei</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[动视又在打造一款新的3A《使命召唤》手游]]></title>
+        <id>https://hot.cnbeta.com/articles/game/1138161.htm</id>
+        <link href="https://hot.cnbeta.com/articles/game/1138161.htm"/>
+        <updated>2021-06-08T08:35:39.000Z</updated>
+        <summary type="html"><![CDATA[之前我们曾经报道过动视成立新的手游工作室，第一款作品将是《使命召唤：战区》手游版。而今日（6月8日），据外媒VGC报道，动视新的工作室又在打造一款新的3A《使命召唤》手游。
+ 阅读全文]]></summary>
+        <author>
+            <name>teikaei</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[韩国小伙发明“义眼” 为低头族的旅程保驾护航]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1138159.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1138159.htm"/>
+        <updated>2021-06-08T08:34:51.000Z</updated>
+        <summary type="html"><![CDATA[一位韩国工业设计师为低头族设计了一款可以延长玩手机时间的小道具，该道具被他称为“第三只眼”，该道具可以帮助低头族看到面前的障碍物以防止其在走路低头玩手机时撞到障碍物。
+ 阅读全文]]></summary>
+        <author>
+            <name>teikaei</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[大众推GTI山地自行车 售价约合5434元]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1138157.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1138157.htm"/>
+        <updated>2021-06-08T08:34:13.000Z</updated>
+        <summary type="html"><![CDATA[提及“小钢炮”，大众高尔夫GTI可以说是不少年轻人的Dream Car。强劲的动力和不错的驾驶感令人流连忘返，尤其是前脸的那“一抹红”标识，是抹不掉的情结。近日，大众发布了一款山地自行车，售价为850美元（约5434元人民币）。该自行车借GTI之名，在车身多处均有GTI标识，给了年轻人第一次拥有GTI的机会。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[亚马逊投资 30 亿美元在西班牙建数据中心 明年年中启用]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1138155.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1138155.htm"/>
+        <updated>2021-06-08T08:29:13.000Z</updated>
+        <summary type="html"><![CDATA[亚马逊公司周一在其网站上称，计划对西班牙北部地区阿拉贡的新数据中心投资 25 亿欧元(约合 30.4 亿美元)。这些新数据中心将在 2022 年年中启用。
+ 阅读全文]]></summary>
+        <author>
+            <name>study875</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FBI搭建An0m加密聊天蜜罐平台 多国执法机构3年后顺利收网]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1138153.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1138153.htm"/>
+        <updated>2021-06-08T08:28:17.000Z</updated>
+        <summary type="html"><![CDATA[澳大利亚警方在本周一的新闻发布会上透露，在 FBI 成功查封了加密聊天平台 Phantom Secure 之后，名为 Ironside 的诱捕行动也于 2018 年悄然开启。当时他们知晓犯罪分子会转移到一个新的平台，于是决定自建一套被称作 AN0M（又名 Anøm）的加密聊天平台，以引诱犯罪团伙上钩。
+ 阅读全文]]></summary>
+        <author>
+            <name>raymon725</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[董明珠：格力用了 5 吨米来开发最好的电饭煲 是世界一流]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1138151.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1138151.htm"/>
+        <updated>2021-06-08T08:17:56.000Z</updated>
+        <summary type="html"><![CDATA[近日，国务院参事室特约研究员姚景源，格力电器股份有限公司董事长、总裁董明珠相聚珠海，做客由珠海传媒集团与人民日报粤港澳大湾区融媒体工作室、人民日报麻辣财经工作室等共同打造的“大湾区 大未来——姚景源对话董明珠”财经访谈特别节目。
+ 阅读全文]]></summary>
+        <author>
+            <name>study875</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[研究发现“训练有素”的病毒通过“预测进化”消灭了细菌感染]]></title>
+        <id>https://www.cnbeta.com/articles/science/1138149.htm</id>
+        <link href="https://www.cnbeta.com/articles/science/1138149.htm"/>
+        <updated>2021-06-08T08:17:23.000Z</updated>
+        <summary type="html"><![CDATA[据外媒New Atlas报道，细菌有着一种令人讨厌的快速进化能力，使它们能在短时间内逃避抗生素。但现在，加州大学圣迭戈分校的科学家通过“训练”杀死细菌的病毒来预测它们的下一步行动，利用进化来对付它们。
+ 阅读全文]]></summary>
+        <author>
+            <name>vivian</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“无视”新冠大流行，研究显示大气中的二氧化碳水平创下新高]]></title>
         <id>https://www.cnbeta.com/articles/science/1138147.htm</id>
