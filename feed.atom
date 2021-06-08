@@ -2,10 +2,175 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://lvytwjw.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-08T09:10:00.287Z</updated>
+    <updated>2021-06-08T11:10:48.872Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://lvytwjw.github.io/rss/index.html"/>
     <link rel="self" href="https://lvytwjw.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[华为HarmonyOS 73家合作伙伴名单公开：魅族成唯一硬件厂商]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1138197.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1138197.htm"/>
+        <updated>2021-06-08T11:08:38.000Z</updated>
+        <summary type="html"><![CDATA[6月2日，华为HarmonyOS 2正式面向消费者发布，这是一款面向全场景的分布式操作系统，可用于物联网各种设备，除手机外，HarmonyOS也能适配手表、平板等智能终端设备。据了解，目前已有超过1000家硬件厂商、300多家App服务商以及50万以上的开发者共同参与鸿蒙生态建设。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[科学家们创造出类似于星际空间中存在的“外太空冰块”]]></title>
+        <id>https://www.cnbeta.com/articles/science/1138195.htm</id>
+        <link href="https://www.cnbeta.com/articles/science/1138195.htm"/>
+        <updated>2021-06-08T11:07:25.000Z</updated>
+        <summary type="html"><![CDATA[来自美国宇航局喷气推进实验室和橡树岭国家实验室的研究人员成功地创造了无定形冰，类似于星际空间的冰和我们太阳系中一些寒冷的冰雪世界的冰。他们记录了其无序的原子行为，这与地球上的任何冰不同。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[研究人员发明了一种新的纳米光学生物传感器 可用来检测癌症]]></title>
+        <id>https://www.cnbeta.com/articles/science/1138193.htm</id>
+        <link href="https://www.cnbeta.com/articles/science/1138193.htm"/>
+        <updated>2021-06-08T10:59:54.000Z</updated>
+        <summary type="html"><![CDATA[生物传感器是重要的诊断设备，必须是快速、廉价和易于使用的。如果生物传感器外形紧凑，可自主操作，那么从医生到病人本身都可以使用，这样一来价值就非常高。大多数光学生物传感器需要宽范围的光色作为基础（像彩虹一样）才能可靠地运行，对宽范围光色的需求使传感器变得笨重、昂贵和更加复杂。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Katalin Karikó博士因在研发mRNA疫苗中做出贡献而获颁10万美元]]></title>
+        <id>https://www.cnbeta.com/articles/science/1138191.htm</id>
+        <link href="https://www.cnbeta.com/articles/science/1138191.htm"/>
+        <updated>2021-06-08T10:46:14.000Z</updated>
+        <summary type="html"><![CDATA[Katalin Karikó博士是2022年维尔切克生物技术卓越奖的获得者，以表彰她的研究成果直接带来了应对COVID-19大流行的mRNA疫苗的科学贡献。维尔切克卓越奖授予对美国社会和世界文化都有重大影响的美国移民，以及致力于倡导移民事业的个人。该奖项于2019年推出，是维尔切克基金会奖项计划的一部分。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美国第一轮胎大厂固特异官宣收购固铂轮胎]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1138189.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1138189.htm"/>
+        <updated>2021-06-08T10:38:57.000Z</updated>
+        <summary type="html"><![CDATA[6月8日消息，据媒体报道，美国第一轮胎大厂固特异对外宣布，正式完成固铂轮胎橡胶公司的收购，并最终确定了2月22日公布的合并协议。本次收购将整合两大优秀轮胎制造商在产品组合、服务和产能方面的优势，从而夯实固特异在全球轮胎行业中的领导地位。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[iCloud+将允许邮件用户个性化他们的电子邮件域名]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1138187.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1138187.htm"/>
+        <updated>2021-06-08T10:35:19.000Z</updated>
+        <summary type="html"><![CDATA[在周一的WWDC主题演讲上，苹果宣布iCloud将获得一个名为 "iCloud+"的高级订阅套餐，其中包括私人中继和隐藏我的邮件等标志性隐私功能。iCloud+包含的另一项功能在主题演讲中甚至没有讨论，即创建自定义电子邮件域名的能力。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[测量宇宙历史总光量：CIBER-2项目完成首次探空火箭发射]]></title>
+        <id>https://www.cnbeta.com/articles/science/1138185.htm</id>
+        <link href="https://www.cnbeta.com/articles/science/1138185.htm"/>
+        <updated>2021-06-08T10:31:23.000Z</updated>
+        <summary type="html"><![CDATA[作为测量宇宙历史上曾经发出的总光量的任务的一部分，CIBER-2 项目组已于上周末将一套新仪器短暂地送往太空。据悉，CIBER-2 的全称为“宇宙红外背景 2 号实验”。其旨在通过监测红外光的宇宙背景辉光，来寻找隐藏于星系之间的杂散星。
+ 阅读全文]]></summary>
+        <author>
+            <name>raymon725</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[抽烟致动车速度骤降 贵州一男子被处拘留7天+180天限乘]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1138183.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1138183.htm"/>
+        <updated>2021-06-08T10:30:55.000Z</updated>
+        <summary type="html"><![CDATA[近日，又有一名男子在动车 上吸烟导致列车速度骤降，受到7天行政拘留处罚，并纳入铁路失信人员名单，180天内限乘火车。事发当天中午12点多，C6026次列车（贵阳北--沙坪坝）运行在成贵高铁毕节至兴文区间时，2号车厢烟雾报警器突然报警，造成列车时速从250公里降至110公里。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[武汉考生拍照上传小猿搜题 在线教育再遇教育公平性争论]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1138181.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1138181.htm"/>
+        <updated>2021-06-08T10:20:17.000Z</updated>
+        <summary type="html"><![CDATA[今日，武汉市黄陂区教育局官方微博 @黄陂教育 发布通报，针对网传考生吴某某将高考数学题拍照上传小猿搜题一事，对违规考生作出给予取消此次考试资格，其所报名参加考试的各阶段、各科成绩无效的处理，并根据后续调查结果作出进一步处理。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[USB供电控制器短缺或影响英特尔Tiger Lake笔记本电脑供应]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1138179.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1138179.htm"/>
+        <updated>2021-06-08T09:52:14.000Z</updated>
+        <summary type="html"><![CDATA[当英特尔推出面向移动平台的 Tiger Lake 处理器时，我们预期会有大量 OEM 厂商选择跟进。然而近期来自供应链方面的消息称，USB 供电控制器组件的短缺，或对支持雷电 4 和 USB4 技术的笔记本电脑制造商造成较大的影响。Igor's Lab 指出，如果没有外部供电控制器（PDC）的支持，这些协议将无法独自运行。
+ 阅读全文]]></summary>
+        <author>
+            <name>raymon725</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[特朗普称比特币为骗局 支持美元霸权]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1138177.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1138177.htm"/>
+        <updated>2021-06-08T09:35:51.000Z</updated>
+        <summary type="html"><![CDATA[美国前总统唐纳德 · 特朗普周一在接受采访时再次对比特币进行了抨击，同时声称美元应该继续保持“世界货币”低位。特朗普说：“比特币，它看起来就像一个骗局... ... 我不喜欢它，因为从本质上讲，它是一种与美元竞争的货币。我希望美元成为世界货币，这是我一直在强调的。”
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我国将建立统一的未成年人网络游戏电子身份认证系统]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1138175.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1138175.htm"/>
+        <updated>2021-06-08T09:35:32.000Z</updated>
+        <summary type="html"><![CDATA[国务院新闻办公室于今日（6月8日）下午3时，举行《国务院未成年人保护工作领导小组关于加强未成年人保护工作的意见》发布会，介绍未成年人保护相关工作情况，并答记者问。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[清乾隆御制大转心瓶拍出2.66亿：刷新中国瓷器拍卖纪录]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1138173.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1138173.htm"/>
+        <updated>2021-06-08T09:31:45.000Z</updated>
+        <summary type="html"><![CDATA[6月8日下午消息，据媒体报道，8日凌晨在北京保利2021春季艺术品拍卖会中，清乾隆御制洋彩雕瓷“有凤来仪”大转心瓶，拍出2.6565亿元人民币。北京保利相关人士介绍，此拍品刷新中国陶瓷的世界拍卖纪录。拍卖行官网显示，该转心瓶全名为清乾隆 御制洋彩胭脂红地轧道雕瓷镂空“有凤来仪 百鸟朝凤”图双螭耳大转心瓶，高63厘米。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[三星Exynos 2200细节：4nm+AMD GPU 图形性能有望超苹果]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1138171.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1138171.htm"/>
+        <updated>2021-06-08T09:30:25.000Z</updated>
+        <summary type="html"><![CDATA[近日，高通新一代旗舰处理器被曝光，这款代号代号 SM8450的骁龙处理器将基于4nm工艺打造，不过外界对于这款处理器的代工方众说纷纭。6月7日，国外爆料达人@Mauri QHD透露，高通和三星的新一代旗舰处理器都将会采用三星4nm技术。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[刺客虫和阔角面粉甲虫的进化实验表明自然选择会对抗和逆转性选择]]></title>
+        <id>https://www.cnbeta.com/articles/science/1138169.htm</id>
+        <link href="https://www.cnbeta.com/articles/science/1138169.htm"/>
+        <updated>2021-06-08T09:28:08.000Z</updated>
+        <summary type="html"><![CDATA[新的研究显示，自然选择可以逆转通过性选择发生的进化，这可以带来更优良的雌性。这项研究由埃克塞特大学和冈山大学领导，他们研究了宽角面粉甲虫，其雄性有夸张的下颚，而雌性没有。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Marvell推出业内首款1.6T以太网PHY：5nm先进制程 100G PAM4 I/O]]></title>
         <id>https://www.cnbeta.com/articles/tech/1138167.htm</id>
