@@ -94,6 +94,15 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=341982",
+          "author": "Todd Libby",
+          "description": "Have you ever experienced the frustration of trying to tap a button on a mobile device only to have it do nothing because the target size is just not large enough **and it’s not picking up on your press? Maybe …\nThe post Looking at WCAG 2.5.5 for Better Target Sizes appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/looking-at-wcag-2-5-5-for-better-target-sizes/",
+          "publishedOn": "2021-06-08T18:31:08.000Z",
+          "wordCount": 3036,
+          "title": "Looking at WCAG 2.5.5 for Better Target Sizes"
+        },
+        {
           "id": "https://css-tricks.com/?p=341884",
           "author": "Chris Coyier",
           "description": "WordPress sites have an API by default. Wanna see this site’s most recent posts, with just a specific set of data… in JSON format? Here ya go. Alex Riviere made a joke site using that.\nAt first, the site …\nThe post CSS-Trickz: An Experiment with Netlify’s On-Demand Builders appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
@@ -1394,6 +1403,15 @@
       "feedUrl": "https://www.cnbeta.com/backend.php",
       "siteUrl": "https://www.cnbeta.com",
       "articles": [
+        {
+          "id": "https://www.cnbeta.com/articles/soft/1138287.htm",
+          "author": "maomao",
+          "description": "当勒索软件黑客上个月攻击Colonial Pipeline并关闭了美国东海岸大部分地区的天然气输送时，世界意识到石化管道行业被黑客破坏的危险。现在看来，另一家以管道为重点的企业也在同一时间受到勒索软件的攻击，但它却对自己的漏洞却保持沉默，即使黑客已经在暗网上公布了70GB的内部文件。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/soft/1138287.htm",
+          "publishedOn": "2021-06-08T19:29:12.000Z",
+          "wordCount": 198,
+          "title": "勒索软件黑客攻击了另一家管道公司 70GB数据已经泄露"
+        },
         {
           "id": "https://www.cnbeta.com/articles/tech/1138285.htm",
           "author": "ugmbbc",
