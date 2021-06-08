@@ -1354,6 +1354,69 @@
       "siteUrl": "https://www.cnbeta.com",
       "articles": [
         {
+          "id": "https://www.cnbeta.com/articles/science/1138147.htm",
+          "author": "teikaei",
+          "description": "据外媒报道，在莫纳·罗亚大气基线观测站测量大气中二氧化碳浓度的科学家报告了有记录以来的最高水平，这是400多万年来在地球上从未见过的水平。今年5月，大气中的二氧化碳平均浓度为419.13 ppm，远超专家们认为的安全水平，这表明，要解决这一令人担忧的趋势，只靠在全球范围内采取的封锁措施还远远不够。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/science/1138147.htm",
+          "publishedOn": "2021-06-08T08:10:57.000Z",
+          "wordCount": 192,
+          "title": "“无视”新冠大流行，研究显示大气中的二氧化碳水平创下新高"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1138145.htm",
+          "author": "study875",
+          "description": "北京时间 6 月 8 日消息，据国外媒体报道，特斯拉计划进一步提升 Model Y 跨界车的产品质量。最新申请内容显示，特斯拉将对弗里蒙特工厂的 GA4 生产线进行“生产设施改进升级”。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1138145.htm",
+          "publishedOn": "2021-06-08T08:06:07.000Z",
+          "wordCount": 289,
+          "title": "特斯拉“网红工厂”改进生产设施以提升 Model Y 质量"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1138143.htm",
+          "author": "raymon725",
+          "description": "今年，全国高考报名人数达1078万，再创历史新高。对老师们来说，高考后的阅卷压力无疑是巨大的，而智能阅卷的出现，无疑会大大减轻阅卷老师们的负担。据了解，近几年，全国多省陆续试点人工智能阅卷。天眼查专业版数据显示，我国已申请680余件阅卷相关专利。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1138143.htm",
+          "publishedOn": "2021-06-08T08:06:07.000Z",
+          "wordCount": 196,
+          "title": "AI阅卷时代来了？天眼查显示我国已有680余件阅卷相关专利"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1138141.htm",
+          "author": "teikaei",
+          "description": "Juniper Research预测，随着用户对高价机型的需求不断增长，苹果iPhone的销售额将在2022年达到2000亿美元，占智能手机硬件市场总量的近40%。Juniper Research在其最新研究中发现，通过将强大的硬件与先进的软件平台相结合，苹果成功说服消费者选择价格更昂贵的产品，在这方面，该公司表示其他供应商只取得了有限的成就。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1138141.htm",
+          "publishedOn": "2021-06-08T07:44:49.000Z",
+          "wordCount": 199,
+          "title": "研究公司预计明年苹果iPhone销售额将达2000亿美元"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1138139.htm",
+          "author": "study875",
+          "description": "显卡供应商正加大供给力度，试图满足全球对 GPU 需求的增加。根据行业跟踪情报公司 Jon Peddie Research 的数据，这导致 2021 年第 1 季度的显卡出货量同比增长 38.74%。在其最新的报告中，JPR 分析师预测到 2025 年独立显卡将占到总市场的 26%。在独立 GPU 领域，Nvidia 继续占主导地位。它占总数的 81%，而 AMD 占剩余的 19%。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1138139.htm",
+          "publishedOn": "2021-06-08T07:38:47.000Z",
+          "wordCount": 230,
+          "title": "今年第1季度显卡出货量同比增长38.74%"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1138137.htm",
+          "author": "raymon725",
+          "description": "由 AMD 官网挂出的招聘启事可知，该公司正在招募更多的 Linux 内核工程师，且招聘方向涵盖了调度程序、内存管理、网络 I/O、Linux 虚拟化性能等方面。显然，随着 AMD 不断抢占更大的数据中心市场份额，该公司已经对 Linux 平台提起了更高的关注度，并在今年早些时候招募过一批以客户为中心的 Linux 工程师。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1138137.htm",
+          "publishedOn": "2021-06-08T07:29:54.000Z",
+          "wordCount": 279,
+          "title": "AMD招募更多Linux内核工程师 主攻内存管理调度和网络I/O领域"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1138135.htm",
+          "author": "ugmbbc",
+          "description": "6月8日消息，今天中午，有网友表示作业帮于中午11：51发布公告，表示在高考期间问答业务暂停。凤凰网科技对作业帮APP和小猿搜题APP进行测试发现，二者拍照搜题功能可正常使用，但作业帮客服表示在6月7日（周一）8：00-6月10日（周四）18：00暂停所有问答服务，且无法看到6月7号-6月10号的提问记录。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1138135.htm",
+          "publishedOn": "2021-06-08T07:23:39.000Z",
+          "wordCount": 189,
+          "title": "实测：小猿搜题、作业帮“拍照搜题”正常使用 后者关停问答服务"
+        },
+        {
           "id": "https://www.cnbeta.com/articles/tech/1138133.htm",
           "author": "ugmbbc",
           "description": "2021年阿里云618爆款秒杀第二轮于6月8日启动，狂欢活动【爆品限时秒杀】 6.1 - 6.30 爆品每日上午10点限量秒杀。主打双核8G云服务器279.90元/年，云数据库6.18元/年！活动分为 6月1日-6月7日、6月8日-6月15日、6月16日-6月22日、6月23日-6月30日四个秒杀阶段，每个阶段的爆品都是不同的。\n 阅读全文",
