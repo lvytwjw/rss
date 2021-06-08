@@ -2,10 +2,98 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://lvytwjw.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-08T16:24:33.372Z</updated>
+    <updated>2021-06-08T17:46:43.640Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://lvytwjw.github.io/rss/index.html"/>
     <link rel="self" href="https://lvytwjw.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Eddy Cue：Apple Music 空间音频就像是首次看高清电视]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1138273.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1138273.htm"/>
+        <updated>2021-06-08T16:59:56.000Z</updated>
+        <summary type="html"><![CDATA[Apple Music 全新空间音频功能今日正式推出，未来将有更多音乐支持空间音频。苹果服务业务主管 Eddy Cue 和 Apple Music 广播主持人 Zane Lowe 在节目中分享了他们对 Apple Music 空间音频功能的一些想法。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[免费商用！华为全新定制字体HarmonyOS Sans上线]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1138271.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1138271.htm"/>
+        <updated>2021-06-08T16:47:40.000Z</updated>
+        <summary type="html"><![CDATA[华为正式发布了HarmonyOS 2鸿蒙操作系统，其字体设计也是全新定制的“HarmonyOS Sans”，现已公开上线，可以免费商用。该字体来自汉仪字库字体设计团队，设计上聚焦于功能性、普适性，是一款多语言的无级可变字体，支持简体中文、繁体中文、拉丁、西里尔、希腊、阿拉伯等5大书写系统，105种语言全球化覆盖。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[索尼发布WF-1000XM4降噪耳塞 支持LDAC和IPX4防水]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1138269.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1138269.htm"/>
+        <updated>2021-06-08T16:39:23.000Z</updated>
+        <summary type="html"><![CDATA[经过几周的泄密之后，索尼今天正式宣布了其最新的旗舰真无线耳塞。WF-1000XM4耳塞的价格为279.99美元，之前在2019年发布的WF-1000XM3将继续留在该公司的产品系列中，价格下降到229.99美元。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AMD正式发布7nm RDNA2专业显卡：第一次上32GB显存]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1138267.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1138267.htm"/>
+        <updated>2021-06-08T16:35:36.000Z</updated>
+        <summary type="html"><![CDATA[AMD 7nm RDNA2家族上新了，不过不是Radeon系列游戏卡，而是Radeon Pro系列专业卡，专门面向图形工作站，包括桌面版的Radeon Pro W6800、Radeon Pro W6600，移动版的Radeon Pro W6600M。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[43万买柯瓦勒摩托车不到10天出问题 车主车展维权同样被拘5天]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1138265.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1138265.htm"/>
+        <updated>2021-06-08T16:35:10.000Z</updated>
+        <summary type="html"><![CDATA[前段时间上海车展期间，河南安阳女车主在特斯拉展台，站到了车顶上维权，结果把特斯拉送上热搜的同时，自己也被行拘5日。而今，车展维权的闹剧又在北京摩托车国际展上演，只不过此次的品牌主角，由特斯拉变成了柯瓦勒摩托车，在国内也没有掀起太大的热度，但是车主却和特斯拉女车主一样，被行拘5日。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PS5新配色手柄午夜黑和星辰红实物照曝光 多一点色彩]]></title>
+        <id>https://hot.cnbeta.com/articles/game/1138263.htm</id>
+        <link href="https://hot.cnbeta.com/articles/game/1138263.htm"/>
+        <updated>2021-06-08T16:34:07.000Z</updated>
+        <summary type="html"><![CDATA[PS5新配色手柄午夜黑和星辰红即将于6月16日正式发售，国行版也在同日推出，其中午夜黑配色手柄官方售价为529元，星辰红配色手柄官方售价559元。日本网站Game Watch已经提前公开了手柄的实物图，我们一起欣赏一下。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[白宫要求美国必须与盟友合作以确保电动车电池原材料供应]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1138261.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1138261.htm"/>
+        <updated>2021-06-08T16:33:02.000Z</updated>
+        <summary type="html"><![CDATA[白宫周二发布长达250页的关键供应链战略报告，以解决相关领域供需失衡问题。在电动车领域，白宫要求美国必须与盟国合作，确保电动车生产所需金属矿石供应，同时聚焦在美国本土将原材料加工成电动车零部件。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Man Group资助的牛津大学研究员声称他们的AI可以预测股票走势]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1138259.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1138259.htm"/>
+        <updated>2021-06-08T16:25:03.000Z</updated>
+        <summary type="html"><![CDATA[Man Group资助的牛津大学研究员说，他们创建了一个机器学习程序，可以预测股价如何变动——在大约30秒的实况交易中取得80%的成功率。牛津-Man数量金融研究所的人工智能专家利用自然语言处理的原理，在限价交易指令中挖掘流动性数据。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[苹果侵入Facebook领地：iOS 15新社交功能令扎克伯格抓狂]]></title>
         <id>https://www.cnbeta.com/articles/tech/1138257.htm</id>
