@@ -816,6 +816,15 @@
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
         {
+          "id": "60bbd28eacb62507dd1d99fb",
+          "author": null,
+          "description": "Learn how to build full stack serverless apps with Supabase and Next.js.",
+          "link": "https://www.freecodecamp.org/news/the-complete-guide-to-full-stack-development-with-supabas/",
+          "publishedOn": "2021-06-07T23:33:30.000Z",
+          "wordCount": 3567,
+          "title": "How to Build a Full Stack App with Supabase and Next.js"
+        },
+        {
           "id": "60be863cd3126007592d4c36",
           "author": null,
           "description": "OpenCV is a popular Python library for real-time computer vision. We just released a new OpenCV course on the freeCodeCamp.org YouTube channel. This course comes directly from the creators of OpenCV and is the perfect course for beginners.  You will learn how to use OpenCV for Computer Vision and",
@@ -1344,6 +1353,240 @@
       "feedUrl": "https://www.cnbeta.com/backend.php",
       "siteUrl": "https://www.cnbeta.com",
       "articles": [
+        {
+          "id": "https://www.cnbeta.com/articles/science/1137937.htm",
+          "author": "teikaei",
+          "description": "据外媒报道，新研究揭示了最早的山羊群的基因组成。这些发现来自于约1万年前死于扎格罗斯山脉的32只山羊的DNA，这为早期农业活动如何影响这些动物的进化提供了线索。此前有考古证据指出，伊朗西部的扎格罗斯山脉提供了人类管理山羊的最早证据。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/science/1137937.htm",
+          "publishedOn": "2021-06-08T00:40:40.000Z",
+          "wordCount": 198,
+          "title": "1万年前的DNA揭示了最早驯养山羊的首批故事"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/science/1137935.htm",
+          "author": "vivian",
+          "description": "据外媒报道，像姜黄和蜂蜜这样的“超级食物”在促进健康和保健方面的能力早已得到认可。在《营养2021》在线直播中提出的新研究，仔细研究了一些“超级食物”对健康益处背后的科学。以下是四个亮点：\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/science/1137935.htm",
+          "publishedOn": "2021-06-08T00:25:53.000Z",
+          "wordCount": 184,
+          "title": "“超级食物”背后的科学：芒果、蜂蜜和香料可带来重要的健康益处"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1137933.htm",
+          "author": "study875",
+          "description": "美国芯片代工商 GlobalFoundries 周一要求法官裁定，公司并没有因为 2014 年的一项协议亏欠 IBM 25 亿美元。GlobalFoundries 周一向纽约最高法院提交诉状，要求法官作出确认判决，裁定该公司并未违反协议 。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1137933.htm",
+          "publishedOn": "2021-06-08T00:25:06.000Z",
+          "wordCount": 251,
+          "title": "IBM 指控芯片代工商 GlobalFoundries 违反协议 索赔 25 亿美元"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1137931.htm",
+          "author": "study875",
+          "description": "近期，有软件工程师对特斯拉最新移动应用进行了反向工程，发现特斯拉正计划将保险和即将推出的付费模式全自动驾驶服务直接置入智能手机应用中。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1137931.htm",
+          "publishedOn": "2021-06-08T00:22:56.000Z",
+          "wordCount": 221,
+          "title": "特斯拉新版手机应用曝光：整合保险服务和全自动驾驶"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1137929.htm",
+          "author": "teikaei",
+          "description": "北京时间6月8日早间消息，据报道，Twitter周一宣布，为遵守印度政府的最新法律要求，该公司关闭了印度的4个帐号。这家美国社交网络在哈佛大学的Lumen数据库上披露，他们已经对4个帐号采取行动，包括说唱歌手L-Fresh the Lion以及创作型歌手Jazzy B，以便遵守印度政府周末提出的法律要求。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1137929.htm",
+          "publishedOn": "2021-06-08T00:18:23.000Z",
+          "wordCount": 194,
+          "title": "Twitter遵守印度政府要求 已关闭境内4个帐号"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1137927.htm",
+          "author": "study875",
+          "description": "苹果公司在其全球开发者大会 （WWDC） 上宣布，将对应用商店的规则进行更新，包括澄清现有政策，并对应用程序开发商提出了新的要求。在最新更新中，苹果首次明确表示，误导性营销也是其将某些应用从商店中下架的理由。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1137927.htm",
+          "publishedOn": "2021-06-08T00:18:06.000Z",
+          "wordCount": 199,
+          "title": "苹果更新应用审核规则 严禁操纵审核、误导性营销等行为"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1137925.htm",
+          "author": "teikaei",
+          "description": "据日本共同社7日报道，由于福岛第一核电站废弃物保管区域的集装箱发生含放射性物质的水泄漏问题，东京电力公司正加紧对同种集装箱展开检查。据报道，有待检查的集装箱约达5900个，其中约4000个的内部详细情况不明。此外还相继发现设置原委不明的集装箱，暴露出东电管理的不完善。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1137925.htm",
+          "publishedOn": "2021-06-08T00:16:32.000Z",
+          "wordCount": 190,
+          "title": "核污染废弃物管理不善 日本东电将加紧展开检查"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1137923.htm",
+          "author": "study875",
+          "description": "疫情黑天鹅让 LCD 面板的供求关系反转，在去年前三季度中 ，LCD 面板需求环比增加了 30%。 而在需求的带动下 ，LCD 面板价格一路上涨，到今年 2 月为止，主流尺寸 LCD 面板的价格较去年 5 月有了 46% 到 119% 不等的增幅。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1137923.htm",
+          "publishedOn": "2021-06-08T00:14:45.000Z",
+          "wordCount": 311,
+          "title": "LCD 面板厂的好日子即将到头？"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1137921.htm",
+          "author": "ugmbbc",
+          "description": "美国食品和药品管理局（FDA）周一批准了Biogen治疗阿尔茨海默症的药物aducanumab，使其成为美国监管机构批准的第一种减缓阿尔茨海默症患者认知能力下降的药物，也是近20年来首款治疗该疾病的新药。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1137921.htm",
+          "publishedOn": "2021-06-08T00:14:04.000Z",
+          "wordCount": 195,
+          "title": "美国首款阿尔兹海默症药每年要花5.6万美元 CEO称这很合理"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1137919.htm",
+          "author": "study875",
+          "description": "6 月 8 日消息，苹果移动操作系统iOS的未来更新将为用户提供两个选项，他们可以选择获得 iOS 15 的所有新功能，或者选择只获得 iOS 14 的安全更新。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1137919.htm",
+          "publishedOn": "2021-06-08T00:12:24.000Z",
+          "wordCount": 240,
+          "title": "苹果：不会强制用户从 iOS 14 升级到 iOS 15"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/science/1137917.htm",
+          "author": "vivian",
+          "description": "据外媒报道，在高纬度地区天空出现的极光，或称北极光，几千年来一直让人们着迷。但它们是如何产生的，虽然有理论依据，但没有得到确切的证明。在一项新研究中，由爱荷华大学领导的一个物理学家小组报告了明确的证据，即最璀璨壮丽的极光是由地磁暴期间的强大电磁波产生的。这种现象被称为阿尔芬波，它加速电子向地球移动，导致粒子产生熟悉的大气“灯光秀”。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/science/1137917.htm",
+          "publishedOn": "2021-06-08T00:11:22.000Z",
+          "wordCount": 192,
+          "title": "物理学家报告了关于壮丽极光是如何产生的确切证据"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1137915.htm",
+          "author": "study875",
+          "description": "在 WWDC 2021 开发者大会主题演讲结束之后，苹果官方公布了 watchOS 8 的兼容性列表。今年苹果并没有放弃对任何 Apple Watch 的支持，即便是 Series 3 在今年晚些时候也能升级到 watchOS 8 系统。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1137915.htm",
+          "publishedOn": "2021-06-08T00:09:48.000Z",
+          "wordCount": 226,
+          "title": "watchOS 8兼容性清单公布：Apple Watch Series 3也支持"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1137913.htm",
+          "author": "ugmbbc",
+          "description": "美国时间6月7日，美国FDA宣布加速审批渤健（Biogen）/卫材（Eisai）公司治疗早期阿尔茨海默病（Alzheimer’s disease，AD）患者的新药Aduhelm（aducanumab，阿杜卡玛单抗）上市。这也是自2003年以来获批用于治疗阿尔茨海默病的首个新型疗法。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1137913.htm",
+          "publishedOn": "2021-06-08T00:06:58.000Z",
+          "wordCount": 196,
+          "title": "从can't到can 这款阿尔茨海默病新药获批前到底经历了什么？"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1137911.htm",
+          "author": "ugmbbc",
+          "description": "特斯拉周一在一份监管文件中披露，其CEO埃隆-马斯克的重要副手杰罗姆·吉兰（Jerome Guillen）已离职。吉兰曾在特斯拉工作10年，最近担任重型卡车业务总裁，他是包括马斯克在内的四名高管之一。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1137911.htm",
+          "publishedOn": "2021-06-08T00:05:21.000Z",
+          "wordCount": 195,
+          "title": "马斯克的重要副手杰罗姆吉兰离开特斯拉"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1137909.htm",
+          "author": "teikaei",
+          "description": "据外媒报道，这是有史以来第一次--一架无人飞机在和另外一架飞机一起飞行时成功为后者进行了空中加油。在测试中，波音的MQ-25 T1空中加油机将喷气燃料转移到美国海军的F/A-18 Super Hornet上。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1137909.htm",
+          "publishedOn": "2021-06-08T00:03:41.000Z",
+          "wordCount": 207,
+          "title": "波音无人机首次成功在空中为另一架飞机加油"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/science/1137907.htm",
+          "author": "vivian",
+          "description": "据外媒The Verge报道，即使是全球大流行病也无法阻止二氧化碳浓度的飙升。2021年5月，它们再次达到了历史最高水平，科学家们在5月对每年的二氧化碳浓度进行比较。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/science/1137907.htm",
+          "publishedOn": "2021-06-07T23:58:16.000Z",
+          "wordCount": 188,
+          "title": "2021年5月二氧化碳浓度再次达到历史最高水平"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1137905.htm",
+          "author": "ugmbbc",
+          "description": "据Teslarati报道，海外网友WholeMarsBlog发布了一些新款Model X Plaid车型（对应国内四驱高性能版）的内饰照片，照片透露了一些其他媒体可能并没有提到过的细节。比如，前排中央扶手后方有一个8英寸大屏，第二排乘员可以在这个屏上玩游戏。还有，第三排是有座椅通风功能的，座椅中间有杯座，杯座下方有两个USB Type-C插口。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1137905.htm",
+          "publishedOn": "2021-06-07T23:55:43.000Z",
+          "wordCount": 246,
+          "title": "新款Model X或提前交付 内饰细节再曝光：第二排有8寸大屏"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/science/1137903.htm",
+          "author": "teikaei",
+          "description": "据外媒报道，由于明显的原因，传统上看流星是夜间活动，但本周一场鲜为人知的流星雨将在白天达到峰值。天空中巨大的火球--我们称之为太阳--将使得六月的天蝎座流星雨基本上看不见，但仍有可能看到一些流星。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/science/1137903.htm",
+          "publishedOn": "2021-06-07T23:52:47.000Z",
+          "wordCount": 183,
+          "title": "本周迎来“隐形”流星雨Arietids"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1137901.htm",
+          "author": "ugmbbc",
+          "description": "当地时间6月7日，世卫组织举行新闻发布会，世卫组织总干事谭德塞呼吁七国集团国家在6月和7月分享新冠疫苗，同时呼吁所有疫苗厂商为“新冠肺炎疫苗实施计划”提供新增疫苗产量的优先购买权，或将其今年50%的疫苗产量提供给“新冠肺炎疫苗实施计划”。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1137901.htm",
+          "publishedOn": "2021-06-07T23:50:18.000Z",
+          "wordCount": 188,
+          "title": "世卫组织：支持在低收入国家当地生产新冠疫苗"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1137899.htm",
+          "author": "ugmbbc",
+          "description": "为吸引更多年轻人接种新冠疫苗，英国政府携手各大交友软件推出“疫苗徽章”。英国广播公司7日报道称，包括Tinder在内的多个英国知名交友软件已与英国政府签订合作协议，将为已接种过疫苗的注册用户提供疫苗徽章和其他奖励。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1137899.htm",
+          "publishedOn": "2021-06-07T23:49:04.000Z",
+          "wordCount": 190,
+          "title": "为吸引年轻人接种新冠疫苗 英国携手交友软件推出“疫苗徽章”"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1137897.htm",
+          "author": "ugmbbc",
+          "description": "一年一度的苹果全球开发者大会（WWDC）于美国当地时间6月7日至11日、即本周一到周五在线上召开。市场除了关注新版OS操作系统软件消息，还猜测会否有新的硬件设备提前发布。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1137897.htm",
+          "publishedOn": "2021-06-07T23:47:34.000Z",
+          "wordCount": 219,
+          "title": "苹果全球开发者大会首日：“隐私”、“健康”、“3D”、“开放”"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1137895.htm",
+          "author": "vivian",
+          "description": "美国执法官员周一表示，他们追回了支付给网络犯罪集团DarkSide的价值230万美元的比特币，该网络犯罪集团参与了上月对美国最大燃油管道运营商Colonial Pipeline的勒索软件攻击。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1137895.htm",
+          "publishedOn": "2021-06-07T23:45:04.000Z",
+          "wordCount": 195,
+          "title": "美国当局追回管道公司向黑客支付的230万美元比特币赎金"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/science/1137893.htm",
+          "author": "ugmbbc",
+          "description": "美国疾病控制与预防中心（CDC）一项最新研究发现，美国食品药品管理局（FDA）授权的mRNA新冠疫苗可将完全接种者的感染风险降低91%。这项研究涉及更可能接触到新冠病毒的人群。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/science/1137893.htm",
+          "publishedOn": "2021-06-07T23:45:02.000Z",
+          "wordCount": 188,
+          "title": "美国疾控中心最新研究显示：mRNA新冠疫苗可将感染风险降低91%"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/science/1137891.htm",
+          "author": "vivian",
+          "description": "据外媒CNET报道，上周日，亚利桑那大学的HiRise团队分享了火星上同一地点的三张截然不同的视图。Nili Patera地区是未来人类探索者的一个可能的火星登陆点。美国宇航局（NASA）的火星勘测轨道飞行器(MRO)早在2007年就从轨道上拍下了这张图片。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/science/1137891.htm",
+          "publishedOn": "2021-06-07T23:43:02.000Z",
+          "wordCount": 184,
+          "title": "HiRise团队分享火星同一地点的三张截然不同的视图"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1137889.htm",
+          "author": "ugmbbc",
+          "description": "近来，外卖平台对商家的“抽佣”比例高、标准不透明问题饱受诟病。为此，一些外卖平台上线了更加精细化的计费方案，不再像以往那样按照订单金额比例“抽佣”。在新计费方式下，商户对平台的佣金支出将有哪些变化？将会对商品价格产生怎样的影响？记者对此进行了调查。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1137889.htm",
+          "publishedOn": "2021-06-07T23:36:14.000Z",
+          "wordCount": 188,
+          "title": "外卖平台“抽佣”启用阶梯式计费模式 商家会涨价吗？"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1137887.htm",
+          "author": "ugmbbc",
+          "description": "美国商务部长吉娜·雷蒙多（Gina Raimondo）周一表示，全球半导体短缺在未来一年将继续给市场带来压力。芯片短缺乏已经给美国制造业，尤其是汽车工业造成了沉重的打击。雷蒙多在一次采访中说：“在接下来的一年左右，这将成为日常挑战。”\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1137887.htm",
+          "publishedOn": "2021-06-07T23:34:45.000Z",
+          "wordCount": 194,
+          "title": "美商务部长称芯片短缺将成“日常”挑战"
+        },
         {
           "id": "https://www.cnbeta.com/articles/science/1137885.htm",
           "author": "maomao",
