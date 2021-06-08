@@ -1354,6 +1354,330 @@
       "siteUrl": "https://www.cnbeta.com",
       "articles": [
         {
+          "id": "https://hot.cnbeta.com/articles/movie/1138009.htm",
+          "author": "teikaei",
+          "description": "《安妮·博林》（Anne Boleyn）是一部今年6月1日首播的迷你英剧，该剧讲述了被处死的英国国王亨利八世都铎的第二任妻子与其女儿伊丽莎白争夺王位的故事，不过播出到现在其在IMDb平台上的评分仅为1.2分（满分10分）。\n 阅读全文",
+          "link": "https://hot.cnbeta.com/articles/movie/1138009.htm",
+          "publishedOn": "2021-06-08T02:41:46.000Z",
+          "wordCount": 191,
+          "title": "英剧《安妮·博林》因太“正确”而被观众喷 IMDb评分仅为1.2"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1138007.htm",
+          "author": "study875",
+          "description": "在你主持在线会议的时候你是否有想过要成为一名新闻主播？近日，微软在 Teams 中新增了全新模式，能够让你感受下当新闻主播的体验。在新版本中，微软计划在 7 月引入名为“reporter”的视图，能够像新闻节目一样，在演讲者的肩膀上方以视觉辅助方式显示内容。\n\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1138007.htm",
+          "publishedOn": "2021-06-08T02:35:24.000Z",
+          "wordCount": 194,
+          "title": "[图]体验当新闻主播的感觉 微软Teams引入“记者”视图"
+        },
+        {
+          "id": "https://hot.cnbeta.com/articles/game/1138005.htm",
+          "author": "raymon725",
+          "description": "谷歌刚刚为 Stadia 用户带来了一个好消息，即该服务将很快迎来对更多 Android TV 设备的兼容性。虽然要等到本月晚些时候才能正式启用，但届时玩家们将能够在相对较新的 Chromecast 和 Google TV 设备上畅爽体验 Stadia 云游戏。\n 阅读全文",
+          "link": "https://hot.cnbeta.com/articles/game/1138005.htm",
+          "publishedOn": "2021-06-08T02:31:50.000Z",
+          "wordCount": 274,
+          "title": "月底将有更多Android TV与Chromecast设备支持Stadia云游戏"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/science/1138003.htm",
+          "author": "teikaei",
+          "description": "今天注定会被载入人类抗击阿尔茨海默病（AD）的史册。美国时间6月7日，FDA加速审批渤健生物单抗药物Aducanumab上市，用于治疗AD。这是自2003年以来，FDA批准的首款AD新药，也是自阿尔茨海默病被命名100多年来，首款获批的疾病修正类药物。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/science/1138003.htm",
+          "publishedOn": "2021-06-08T02:31:46.000Z",
+          "wordCount": 209,
+          "title": "全球18年以来首个阿尔茨海默症药物获美FDA加速审批上市"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1138001.htm",
+          "author": "study875",
+          "description": "近日，工业和信息化部在北京召开全国电视电话会议，部署推进 5G 安全工作。工业和信息化部党组成员、副部长刘烈宏出席会议并讲话。会议指出，当前我国 5G 网络建设步伐加快，已建成 5G 基站近 85 万个，形成全球最大 5G 独立组网网络 ，5G 行业应用创新案例已超过 1 万个。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1138001.htm",
+          "publishedOn": "2021-06-08T02:28:09.000Z",
+          "wordCount": 308,
+          "title": "工业和信息化部部署推进 5G 安全工作"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/science/1137999.htm",
+          "author": "teikaei",
+          "description": "据外媒报道，一种新型COVID-19疫苗最早将于今年夏天上市，它指的是蛋白质亚单位疫苗。它的工作原理虽然跟目前美国授权使用的疫苗有些不同，但它基于一种广为人知的技术且不需要特殊的冷藏。一般来说，疫苗是通过向人们的免疫系统展示一些看起来像病毒但实际上不是的东西来发挥作用。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/science/1137999.htm",
+          "publishedOn": "2021-06-08T02:28:08.000Z",
+          "wordCount": 189,
+          "title": "一种新型蛋白质亚单位COVID-19疫苗即将问世"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1137997.htm",
+          "author": "study875",
+          "description": "据报道，苹果刚刚发布了最新版本的操作系统，展示了该公司对隐私的关注有了新的变化。这不再是一个企业理想或市场营销点，而是苹果将自己的产品与 Android 和 Windows 等竞品区分开来的一项重要举措。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1137997.htm",
+          "publishedOn": "2021-06-08T02:27:10.000Z",
+          "wordCount": 250,
+          "title": "不再是营销口号，隐私将成苹果业务优势"
+        },
+        {
+          "id": "https://hot.cnbeta.com/articles/game/1137995.htm",
+          "author": "vivian",
+          "description": "过去一周，无论是微博、朋友圈还是其他社交平台，都被各种装扮的红鼻子鼹鼠刷了屏。甚至因为社交网络上《摩尔庄园》的游戏截图画面含量过高，有网友发出了“人类最近一次集体大迁徙是从峡谷搬到了摩尔庄园”的感慨。\n 阅读全文",
+          "link": "https://hot.cnbeta.com/articles/game/1137995.htm",
+          "publishedOn": "2021-06-08T02:26:17.000Z",
+          "wordCount": 203,
+          "title": "《摩尔庄园》手游上线 靠情怀继续营业行得通吗？"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1137993.htm",
+          "author": "study875",
+          "description": "德国博世集团周一在德国开设了一家耗资 10 亿欧元的芯片工厂，为该汽车零部件供应商有史以来最大规模的投资，以帮助缓解芯片供应危机，使欧洲建设对从亚洲或美国进口的芯片的依赖。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1137993.htm",
+          "publishedOn": "2021-06-08T02:26:12.000Z",
+          "wordCount": 221,
+          "title": "博世集团投资10亿欧元在德国开设芯片厂"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/science/1137991.htm",
+          "author": "vivian",
+          "description": "北京时间6月8日消息，很长时间以来，科学家始终没能弄清楚，宇宙之初迅速膨胀的一瞬间里究竟发生了什么。但如今有一位科学家认为，他终于明白了为何我们无法用物理语言对这一暴胀过程进行描述：因为宇宙不让我们这么做。这位科学家提出了一项猜想：在研究初生的宇宙时，“观察者会受到屏蔽”，无法对宇宙中最微小的结构进行直接观察。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/science/1137991.htm",
+          "publishedOn": "2021-06-08T02:25:08.000Z",
+          "wordCount": 183,
+          "title": "我们有可能弄清宇宙暴胀是如何发生的吗？"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/science/1137989.htm",
+          "author": "vivian",
+          "description": "北京时间6月8日消息，潜意识信息和“轻推”心理学使我们相信，我们可以在自己意识不到的情况下受到外界因素影响。但我们的潜意识思维究竟有多强大呢？\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/science/1137989.htm",
+          "publishedOn": "2021-06-08T02:24:15.000Z",
+          "wordCount": 183,
+          "title": "无意识思维对我们行为的影响有多大？"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/science/1137987.htm",
+          "author": "study875",
+          "description": "在近期的一项新研究中，欧洲科学家团队利用大型强子对撞机 （LHC） 以 99.9999991% 的光速将铅粒子碰撞在一起，创造出了宇宙大爆炸后出现的第一种物质。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/science/1137987.htm",
+          "publishedOn": "2021-06-08T02:21:05.000Z",
+          "wordCount": 236,
+          "title": "新研究创造出宇宙中第一种物质"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1137985.htm",
+          "author": "study875",
+          "description": "一加官方确认将会在北美市场推出一款亲民的 5G 手机--N200 5G，并向外媒 PCMag 透露了关于该机的诸多细节，其中就包括手机的照片。最值得注意的是，一加首席执行官刘作虎表示，N200 5G 的零售价格将会低于 250 美元，提供 90Hz 的屏幕。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1137985.htm",
+          "publishedOn": "2021-06-08T02:10:49.000Z",
+          "wordCount": 237,
+          "title": "[图]一加N200 5G将登陆北美市场 售价低于250美元"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1137983.htm",
+          "author": "study875",
+          "description": "适用于 Android 端的 Office 移动应用近日获得了全新的录音功能。该功能目前已经面向运行 Build 16.0.14026.20096 及更高版本、使用英语（美国）语言的 Office Insider 成员开放。除了基本的语音录制功能外，Office 应用还支持实时语音到文本的转录。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1137983.htm",
+          "publishedOn": "2021-06-08T01:58:05.000Z",
+          "wordCount": 223,
+          "title": "[图]Android端Office应用获得全新录音功能"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1137981.htm",
+          "author": "raymon725",
+          "description": "在北京时间今日凌晨 1 点召开的 WWDC 2021 主题演讲期间，苹果重点介绍了各个软件平台的功能更新与改进。在 macOS 桌面平台，包括 Mac mini、iMac、iMac Pro、MacBook Air、以及 MacBook Pro 在内的多条产品线，均得到了对 Monterey 大版本的更新支持。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1137981.htm",
+          "publishedOn": "2021-06-08T01:57:20.000Z",
+          "wordCount": 250,
+          "title": "苹果公布macOS Monterey兼容机型列表"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/science/1137979.htm",
+          "author": "teikaei",
+          "description": "据外媒报道，一项建模研究发现，如果有控制的社区传播和适当的缓解策略，学校可以安全重新开放。无症状筛查是确定的一项缓解策略，它可促进在当地发病率较高时重新开放，同时最大限度地减少传播风险。研究结果发表在《Annals of Internal Medicine》上。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/science/1137979.htm",
+          "publishedOn": "2021-06-08T01:48:48.000Z",
+          "wordCount": 190,
+          "title": "研究：通过适当的缓解策略，学校可以安全地重新开学"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1137977.htm",
+          "author": "study875",
+          "description": "即便已经关机或者恢复出厂设置，在 iOS 15 中用户依然能够通过 Find My 应用程序找到丢失或者失踪的 iPhone。在 iOS 15 版本中，Find My 应用升级了追踪机制，允许用户在 iPhone 关机情况下继续追踪它。苹果表示：“使用 Find My 定位你的设备，即便是已处于关机状态。这可以帮助你找到电池电量不足或者可能被小偷关闭的失踪设备”。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1137977.htm",
+          "publishedOn": "2021-06-08T01:47:02.000Z",
+          "wordCount": 220,
+          "title": "[图]iOS 15增强Find My：即便关机/恢复出厂也能定位追踪"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1137975.htm",
+          "author": "ugmbbc",
+          "description": "以往车辆年审合格后，都会给大家发放“纸质证明”，不过随着机动车检验标志实现电子化，这件麻烦事就可以避免了。6月8日消息，为进一步深化公安交管“放管服”改革，提升“互联网+交管服务”水平，公安部在16个城市试点基础上，决定全国分两批推广机动车检验标志电子化，为机动车所有人、驾驶人以及相关行业和管理部门提供电子证照服务。第二批将于2021年6月20日施行。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1137975.htm",
+          "publishedOn": "2021-06-08T01:38:40.000Z",
+          "wordCount": 185,
+          "title": "机动车检验标志电子化第二批将开始施行：车玻璃不用贴纸"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1137973.htm",
+          "author": "study875",
+          "description": "在 iOS 15 中，苹果允许第三方开发者访问和使用 Screen Time API，这可能意味着家长控制应用程序有更好的数据访问。Screen Time 功能是在 2018 年推出的，允许用户监控在其设备上花费的时间。对于家庭来说，该功能还可以通过应用限制和使用情况跟踪来实现一定程度的家长控制。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1137973.htm",
+          "publishedOn": "2021-06-08T01:38:35.000Z",
+          "wordCount": 214,
+          "title": "苹果终于向第三方开发者开放Screen Time API"
+        },
+        {
+          "id": "http://click.aliyun.com/m/1000274871/",
+          "author": "ugmbbc",
+          "description": "618大战已经拉开帷幕了，想要升级云服务器的注意了，现在阿里云也推出了多种促销，从6月1日开始，每天上午10点将会放出爆款产品，进行限量秒杀，错过就要再等一年。这次618大促活动内容很多，分为主会场、新人特惠、企业应用、试用中心等， 每个场所的优惠内容不同。\n 阅读全文",
+          "link": "http://click.aliyun.com/m/1000274871/",
+          "publishedOn": "2021-06-08T01:35:36.000Z",
+          "wordCount": 2,
+          "title": "最低6.18元/年 阿里云618爆款产品限时秒杀第二场开启"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1137969.htm",
+          "author": "teikaei",
+          "description": "据外媒The Verge报道，一份新报告援引了一封致亚马逊人力资源部的内部信件，该信件指控亚马逊的Prime会员部门存在虐待女性的行为--包括但不限于骚扰以及男性相对于女性的不成比例的发展机会。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1137969.htm",
+          "publishedOn": "2021-06-08T01:33:20.000Z",
+          "wordCount": 189,
+          "title": "亚马逊Prime员工指控公司存在性别不平等和职场骚扰问题"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/science/1137967.htm",
+          "author": "vivian",
+          "description": "据外媒报道，在线杂志《BMJ营养预防与健康》上发表的一项六国研究结果表明，以植物为基础的饮食或鱼类饮食可能有助于降低患中度至重度COVID-19感染的几率。研究结果表明，它们分别与73%和59%的严重疾病概率降低有关。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/science/1137967.htm",
+          "publishedOn": "2021-06-08T01:26:37.000Z",
+          "wordCount": 191,
+          "title": "研究称植物性饮食和鱼类饮食可能有助于减轻COVID-19感染的严重程度"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1137965.htm",
+          "author": "study875",
+          "description": "在 WWDC 2021 引入的一项调整中，开发者即将可以通过 iOS 15 中的应用内工具和全新 API 来管理退款。在 iOS 14 及此前版本中，应用交易退款的所有方面均由苹果掌控 ，这也给开发者和消费者制造了一个痛点。从秋季推出的iOS 15开始，开发者将对退款过程有更大的控制权限。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1137965.htm",
+          "publishedOn": "2021-06-08T01:24:29.000Z",
+          "wordCount": 213,
+          "title": "[图]iOS 15中开发者能够更好掌控退款事宜"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1137963.htm",
+          "author": "teikaei",
+          "description": "据外媒报道，持续的半导体短缺对科技行业的打击尤其严重，但感受到压力的不仅仅是电子产品和电脑制造商，汽车制造商也不得不为此缩减产量以应对硅短缺。据Automotive News最近的一份报告，据估计，截至2021年5月，福特已经停产了近11万辆F系皮卡。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1137963.htm",
+          "publishedOn": "2021-06-08T01:19:42.000Z",
+          "wordCount": 191,
+          "title": "报告：福特、雪佛兰和吉普为美国受芯片短缺影响最严重的汽车厂商"
+        },
+        {
+          "id": "https://hot.cnbeta.com/articles/game/1137961.htm",
+          "author": "vivian",
+          "description": "《赛博朋克2077》自发售后便饱受争议。该作从PlayStation Store下架以来，已经过去5个多月，CDPR在多次补丁和修复后仍然没能让游戏回到PS Store。而这也成为CDPR投资者争论的焦点，他们呼吁这家波兰游戏开发商能更换高层领导。\n 阅读全文",
+          "link": "https://hot.cnbeta.com/articles/game/1137961.htm",
+          "publishedOn": "2021-06-08T01:18:02.000Z",
+          "wordCount": 201,
+          "title": "《赛博朋克2077》遭遇失败 CDPR投资者希望CEO下台"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/science/1137959.htm",
+          "author": "vivian",
+          "description": "很少有人能想象得到，一个成年人身上的细菌总数，居然有100万亿个。细菌是许多疾病的病原体，以接触、昆虫叮咬等方式让人体感染疾病。同时，细菌也常被人类用于乳酪及酸奶和酒酿的制作，用于部分抗生素的制造等，与人们的日常生活息息相关。因此，了解细菌如何感染人体，进一步对细菌感染行为进行调控至关重要。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/science/1137959.htm",
+          "publishedOn": "2021-06-08T01:17:14.000Z",
+          "wordCount": 187,
+          "title": "细菌如何感染人体？中国科学家有了新发现"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1137957.htm",
+          "author": "vivian",
+          "description": "6月7日，由中铁四局施工的安徽芜湖交通2号线一期工程热滑试验圆满完成，标志着国内首条连续刚构跨座式单轨、芜湖市首条单轨进入调试阶段，为芜湖打通快速交通网奠定坚实基础。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1137957.htm",
+          "publishedOn": "2021-06-08T01:15:42.000Z",
+          "wordCount": 195,
+          "title": "国内首条连续刚构跨座式单轨热滑试验圆满成功"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/science/1137955.htm",
+          "author": "vivian",
+          "description": "近日发表在《科学》杂志上的一项研究显示，来自英国剑桥医学研究理事会（MRC）分子生物学实验室的科学家带头，开发出新的人造细菌，可以完全抵抗病毒感染。这项研究可能会促进新聚合物的开发，例如蛋白质、塑料和包括抗生素在内的许多药物，并使利用细菌制造药物变得更容易可靠。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/science/1137955.htm",
+          "publishedOn": "2021-06-08T01:14:28.000Z",
+          "wordCount": 188,
+          "title": "首个重编程合成细菌表现出抗病毒特性"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/science/1137953.htm",
+          "author": "vivian",
+          "description": "据外媒New Atlas报道，尽管越南肉食小吃Nem Chua是由生猪肉发酵而成的，但人们食用这种小吃后并不会引起食物中毒。事实上，一项新研究表明，在它身上发现的一种化合物可以作为天然的食品防腐剂。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/science/1137953.htm",
+          "publishedOn": "2021-06-08T01:08:31.000Z",
+          "wordCount": 198,
+          "title": "研究称来自生猪肉零食的细菌化合物可作为天然的食品防腐剂"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1137951.htm",
+          "author": "ugmbbc",
+          "description": "虽然Google的手机销量没有名列前茅，但仍然被视为Android标杆，代表了Google对Android手机的看法。而且每次Android新版本更新，Google的Pixel系列总能在第一时间获得，系统更新速度也比其他手机品牌快。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1137951.htm",
+          "publishedOn": "2021-06-08T01:06:59.000Z",
+          "wordCount": 206,
+          "title": "消息称三星将于10月为Google和其他手机厂商生产可折叠显示屏"
+        },
+        {
+          "id": "https://hot.cnbeta.com/articles/movie/1137949.htm",
+          "author": "teikaei",
+          "description": "据外媒报道，距离HBO电视台播出《权力的游戏》最后一集已经过去两年多了，粉丝们仍然对该剧的结局方式感到痛心。当然，这并没有阻止HBO继续以乔治·R·R·马丁的《冰与火之歌》为背景拍摄6部作品。\n 阅读全文",
+          "link": "https://hot.cnbeta.com/articles/movie/1137949.htm",
+          "publishedOn": "2021-06-08T01:06:18.000Z",
+          "wordCount": 213,
+          "title": "HBO终于为剧迷带来关于《权力的游戏》前传的最新消息"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1137947.htm",
+          "author": "study875",
+          "description": "面向 Dev 频道的 Windows Insider 项目成员，今天微软发布了 Windows 10 Build 21390 预览版更新。需要注意的是，本次更新并没有引入任何新的功能或者变化。微软表示他们需要测试累积性更新，以解决预发布版本上的错误，这是一个正常的过程。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1137947.htm",
+          "publishedOn": "2021-06-08T01:06:11.000Z",
+          "wordCount": 233,
+          "title": "Windows 10 Build 21390发布 用于测试累积更新和分发渠道"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/science/1137945.htm",
+          "author": "vivian",
+          "description": "据外媒报道，美国的肥胖率正以绝对不可思议的速度攀升。据估计，美国所有成年人中大约有40%是肥胖的，还有30%至少是超重的。这些统计数据令人不安，尤其是许多疾病都与体重增加有关。超重或肥胖大大增加了患2型糖尿病、高血压、睡眠障碍、心脏病，甚至某些癌症的几率。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/science/1137945.htm",
+          "publishedOn": "2021-06-08T00:55:17.000Z",
+          "wordCount": 184,
+          "title": "美FDA批准“改变游戏规则”的Wegovy减肥药"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1137943.htm",
+          "author": "teikaei",
+          "description": "据外媒报道，苹果最近遭遇了一场诉讼，称最近的iOS软件更新大幅降低了处理速度和电池寿命进而损害了iPhone。该诉讼称，许多用户都报告了iOS 14.5、iOS 14.5.1和iOS 14.6在性能节流和电池消耗方面存在的问题。更具体地说，该投诉试图将电池损耗、性能缺陷和计划报废的指控联系起来。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1137943.htm",
+          "publishedOn": "2021-06-08T00:53:03.000Z",
+          "wordCount": 198,
+          "title": "苹果遭遇新诉讼：新iOS更新被指大幅降低处理速度和电池寿命"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1137941.htm",
+          "author": "study875",
+          "description": "如果你想要换新手机备份数据的时候发现 iCloud 存储空间不够，那么在最新发布的 iOS 系统中苹果通过临时存储空间提升方式让这个过程变得更加容易了。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1137941.htm",
+          "publishedOn": "2021-06-08T00:51:53.000Z",
+          "wordCount": 206,
+          "title": "换新手机备份至iCloud云存储空间不够？iOS 15可临时提升容量"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/science/1137939.htm",
+          "author": "vivian",
+          "description": "据外媒BGR报道，过去一两个月里美国东海岸地区和中西部部分地区出现了大量周期蝉：在地下蛰伏17年的亿万只Brood X周期蝉开始破土而出。现在，在一个既搞笑又有点令人不安的观察中，当地NBC电视台的一名气象学家提供了马里兰州巴尔的摩附近的天气雷达的一瞥，它确实令人震惊。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/science/1137939.htm",
+          "publishedOn": "2021-06-08T00:41:35.000Z",
+          "wordCount": 187,
+          "title": "巴尔的摩附近出现大量周期蝉 以至于它们在天气雷达上“显示”出来"
+        },
+        {
           "id": "https://www.cnbeta.com/articles/science/1137937.htm",
           "author": "teikaei",
           "description": "据外媒报道，新研究揭示了最早的山羊群的基因组成。这些发现来自于约1万年前死于扎格罗斯山脉的32只山羊的DNA，这为早期农业活动如何影响这些动物的进化提供了线索。此前有考古证据指出，伊朗西部的扎格罗斯山脉提供了人类管理山羊的最早证据。\n 阅读全文",
