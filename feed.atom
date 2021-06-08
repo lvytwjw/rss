@@ -2,10 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://lvytwjw.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-08T20:12:54.332Z</updated>
+    <updated>2021-06-08T21:06:44.339Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://lvytwjw.github.io/rss/index.html"/>
     <link rel="self" href="https://lvytwjw.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Create Your Own Electronics With Arduino - Full Course]]></title>
+        <id>60bfd986d3126007592d53a1</id>
+        <link href="https://www.freecodecamp.org/news/create-your-own-electronics-with-arduino-full-course/"/>
+        <updated>2021-06-08T21:05:13.000Z</updated>
+        <summary type="html"><![CDATA[Arduino is an open-source electronics platform based on easy-to-use hardware and software. Arduino boards are able to read inputs - light on a sensor, a finger on a button, or a Twitter message - and turn it into an output - activating a motor, turning on an LED, publishing something]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[测试发现M1 MacBook Pro性能比英特尔版MacBook Pro最多提升116%]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1138295.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1138295.htm"/>
+        <updated>2021-06-08T20:51:12.000Z</updated>
+        <summary type="html"><![CDATA[Pfeiffer咨询公司开展的一个独立基准测试项目发现，苹果M1 MacBook Pro比类似配置的基于英特尔的MacBook Pro平均性能最多提高116%。基准测试涵盖了七个Adobe创意云应用程序，M1 Mac令人信服地击败了基于英特尔的MacBook Pro ，测试显示性能平均提升83%。
+ 阅读全文]]></summary>
+        <author>
+            <name>maomao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[3D打印火箭初创公司Relativity Space进行6.5亿美元E轮融资]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1138293.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1138293.htm"/>
+        <updated>2021-06-08T20:37:40.000Z</updated>
+        <summary type="html"><![CDATA[3D打印火箭初创公司Relativity Space已经筹集了6.5亿美元的E轮融资，使其总融资额超过12亿美元。E轮融资后，Relativity估值目前为42亿美元。本轮融资由富达管理研究公司领投，贝莱德、Centricus、Coatue和Soroban Capital基金新投资者参与，现有投资者Baillie Gifford、K5 Global、Tiger Global、Tribe Capital、XN、Brad Buss、Mark Cuban、Jared Leto和Spencer Rascoff参与。
+ 阅读全文]]></summary>
+        <author>
+            <name>maomao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[不寻常太阳爆发有助于发现主导太阳上能量狂暴喷射的机制]]></title>
+        <id>https://www.cnbeta.com/articles/science/1138291.htm</id>
+        <link href="https://www.cnbeta.com/articles/science/1138291.htm"/>
+        <updated>2021-06-08T20:23:50.000Z</updated>
+        <summary type="html"><![CDATA[在一次戏剧性的、多阶段的能量爆发中，太阳给出新的线索，可以帮助科学家解决长期以来的谜团，即是什么导致了太阳强大而不可预测的爆发。揭开这一基本物理学的面纱可以帮助科学家更好地预测导致地球周围空间天气状况。
+ 阅读全文]]></summary>
+        <author>
+            <name>maomao</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[劳斯莱斯与瑞士手表厂商合作推出两款船尾表]]></title>
         <id>https://www.cnbeta.com/articles/tech/1138289.htm</id>
@@ -43243,32 +43286,6 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <summary type="html"><![CDATA[Want to get started with React but struggling to find a good place to start? This article should have you covered. We’ll focus on some of the main concepts of React and then we’ll be building a game from scratch!]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Jhey Tompkins)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[v1.4.0]]></title>
-        <id>https://github.com/osmoscraft/osmosfeed/releases/tag/v1.4.0</id>
-        <link href="https://github.com/osmoscraft/osmosfeed/releases/tag/v1.4.0"/>
-        <updated>2021-05-10T08:55:42.000Z</updated>
-        <summary type="html"><![CDATA[Added: Basic theme customization: Demo | Source | Docs.]]></summary>
-        <author>
-            <name>Release notes from osmosfeed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[v1.6.0]]></title>
-        <id>https://github.com/osmoscraft/osmosfeed/releases/tag/v1.6.0</id>
-        <link href="https://github.com/osmoscraft/osmosfeed/releases/tag/v1.6.0"/>
-        <updated>2021-05-10T08:15:20.000Z</updated>
-        <summary type="html"><![CDATA[Added: Link from the title of a subscription to its website.
-Added: Store feedUrl and siteUrl for each source in cache.
-Added: Semantic element (<time>) for timestamp on the UI.
-Added: Semantic API for theming the default template. Demo | Source | Docs
-Changed: Moved feed metadata from article level to feed level in cache.
-Fixed: Any html-like text was stripped from title. Fixed with encoded text.
-Removed: href for each source in cache. The value was never used so it's not a breaking change.]]></summary>
-        <author>
-            <name>Release notes from osmosfeed</name>
         </author>
     </entry>
 </feed>

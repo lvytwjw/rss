@@ -67,24 +67,6 @@
           "publishedOn": "2021-05-16T01:42:24.000Z",
           "wordCount": 286,
           "title": "v1.7.0"
-        },
-        {
-          "id": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.4.0",
-          "author": null,
-          "description": "Added: Basic theme customization: Demo | Source | Docs.",
-          "link": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.4.0",
-          "publishedOn": "2021-05-10T08:55:42.000Z",
-          "wordCount": 276,
-          "title": "v1.4.0"
-        },
-        {
-          "id": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.6.0",
-          "author": null,
-          "description": "Added: Link from the title of a subscription to its website.\nAdded: Store feedUrl and siteUrl for each source in cache.\nAdded: Semantic element (<time>) for timestamp on the UI.\nAdded: Semantic API for theming the default template. Demo | Source | Docs\nChanged: Moved feed metadata from article level to feed level in cache.\nFixed: Any html-like text was stripped from title. Fixed with encoded text.\nRemoved: href for each source in cache. The value was never used so it's not a breaking change.",
-          "link": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.6.0",
-          "publishedOn": "2021-05-10T08:15:20.000Z",
-          "wordCount": 352,
-          "title": "v1.6.0"
         }
       ]
     },
@@ -848,6 +830,15 @@
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
         {
+          "id": "60bfd986d3126007592d53a1",
+          "author": null,
+          "description": "Arduino is an open-source electronics platform based on easy-to-use hardware and software. Arduino boards are able to read inputs - light on a sensor, a finger on a button, or a Twitter message - and turn it into an output - activating a motor, turning on an LED, publishing something",
+          "link": "https://www.freecodecamp.org/news/create-your-own-electronics-with-arduino-full-course/",
+          "publishedOn": "2021-06-08T21:05:13.000Z",
+          "wordCount": 639,
+          "title": "Create Your Own Electronics With Arduino - Full Course"
+        },
+        {
           "id": "60b23b8911ffb70827ef954e",
           "author": null,
           "description": "If you're trying to implement CRUD operations using API endpoints, you might find that it's hard to manage data across multiple components. Or maybe you have a modal, but you want to trigger it from a different component.  Wrapping your head around how to tackle these scenarios can be difficult.",
@@ -1403,6 +1394,33 @@
       "feedUrl": "https://www.cnbeta.com/backend.php",
       "siteUrl": "https://www.cnbeta.com",
       "articles": [
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1138295.htm",
+          "author": "maomao",
+          "description": "Pfeiffer咨询公司开展的一个独立基准测试项目发现，苹果M1 MacBook Pro比类似配置的基于英特尔的MacBook Pro平均性能最多提高116%。基准测试涵盖了七个Adobe创意云应用程序，M1 Mac令人信服地击败了基于英特尔的MacBook Pro ，测试显示性能平均提升83%。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1138295.htm",
+          "publishedOn": "2021-06-08T20:51:12.000Z",
+          "wordCount": 226,
+          "title": "测试发现M1 MacBook Pro性能比英特尔版MacBook Pro最多提升116%"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1138293.htm",
+          "author": "maomao",
+          "description": "3D打印火箭初创公司Relativity Space已经筹集了6.5亿美元的E轮融资，使其总融资额超过12亿美元。E轮融资后，Relativity估值目前为42亿美元。本轮融资由富达管理研究公司领投，贝莱德、Centricus、Coatue和Soroban Capital基金新投资者参与，现有投资者Baillie Gifford、K5 Global、Tiger Global、Tribe Capital、XN、Brad Buss、Mark Cuban、Jared Leto和Spencer Rascoff参与。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1138293.htm",
+          "publishedOn": "2021-06-08T20:37:40.000Z",
+          "wordCount": 226,
+          "title": "3D打印火箭初创公司Relativity Space进行6.5亿美元E轮融资"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/science/1138291.htm",
+          "author": "maomao",
+          "description": "在一次戏剧性的、多阶段的能量爆发中，太阳给出新的线索，可以帮助科学家解决长期以来的谜团，即是什么导致了太阳强大而不可预测的爆发。揭开这一基本物理学的面纱可以帮助科学家更好地预测导致地球周围空间天气状况。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/science/1138291.htm",
+          "publishedOn": "2021-06-08T20:23:50.000Z",
+          "wordCount": 187,
+          "title": "不寻常太阳爆发有助于发现主导太阳上能量狂暴喷射的机制"
+        },
         {
           "id": "https://www.cnbeta.com/articles/tech/1138289.htm",
           "author": "maomao",
