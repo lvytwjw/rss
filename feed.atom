@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://lvytwjw.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-08T19:32:00.734Z</updated>
+    <updated>2021-06-08T20:12:54.332Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://lvytwjw.github.io/rss/index.html"/>
     <link rel="self" href="https://lvytwjw.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[劳斯莱斯与瑞士手表厂商合作推出两款船尾表]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1138289.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1138289.htm"/>
+        <updated>2021-06-08T19:57:30.000Z</updated>
+        <summary type="html"><![CDATA[劳斯莱斯的船尾车是一款极其豪华独一无二的汽车，它在成本上没有任何让步。劳斯莱斯现在希望将其设计精神带到手表上。该汽车制造商与有近200年历史的瑞士钟表公司Bovet 1822合作，创造了一对高度复杂和独特的计时器，不仅可以戴在手腕上，还可以用作台钟或怀表，但更有趣的是，它们可以放在船尾车仪表板的钛合金外壳中，作为汽车的时钟使用。
+ 阅读全文]]></summary>
+        <author>
+            <name>maomao</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[勒索软件黑客攻击了另一家管道公司 70GB数据已经泄露]]></title>
         <id>https://www.cnbeta.com/articles/soft/1138287.htm</id>

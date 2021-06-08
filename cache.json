@@ -1404,6 +1404,15 @@
       "siteUrl": "https://www.cnbeta.com",
       "articles": [
         {
+          "id": "https://www.cnbeta.com/articles/tech/1138289.htm",
+          "author": "maomao",
+          "description": "劳斯莱斯的船尾车是一款极其豪华独一无二的汽车，它在成本上没有任何让步。劳斯莱斯现在希望将其设计精神带到手表上。该汽车制造商与有近200年历史的瑞士钟表公司Bovet 1822合作，创造了一对高度复杂和独特的计时器，不仅可以戴在手腕上，还可以用作台钟或怀表，但更有趣的是，它们可以放在船尾车仪表板的钛合金外壳中，作为汽车的时钟使用。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1138289.htm",
+          "publishedOn": "2021-06-08T19:57:30.000Z",
+          "wordCount": 194,
+          "title": "劳斯莱斯与瑞士手表厂商合作推出两款船尾表"
+        },
+        {
           "id": "https://www.cnbeta.com/articles/soft/1138287.htm",
           "author": "maomao",
           "description": "当勒索软件黑客上个月攻击Colonial Pipeline并关闭了美国东海岸大部分地区的天然气输送时，世界意识到石化管道行业被黑客破坏的危险。现在看来，另一家以管道为重点的企业也在同一时间受到勒索软件的攻击，但它却对自己的漏洞却保持沉默，即使黑客已经在暗网上公布了70GB的内部文件。\n 阅读全文",
