@@ -94,6 +94,15 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=341884",
+          "author": "Chris Coyier",
+          "description": "WordPress sites have an API by default. Wanna see this site’s most recent posts, with just a specific set of data… in JSON format? Here ya go. Alex Riviere made a joke site using that.\nAt first, the site …\nThe post CSS-Trickz: An Experiment with Netlify’s On-Demand Builders appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://alex.party/posts/2021-05-31-css-trickz-an-experiment-with-netlify-s-on-demand-builders/",
+          "publishedOn": "2021-06-08T14:16:07.000Z",
+          "wordCount": 708,
+          "title": "CSS-Trickz: An Experiment with Netlify’s On-Demand Builders"
+        },
+        {
           "id": "https://css-tricks.com/?p=341805",
           "author": "Chris Coyier",
           "description": "Show/Hide password accessibility and password hints tutorial — Nicolas Steenhout goes deep on <input type=\"password\"> accessibility. For one thing, being able to toggle it to type=\"text\" should be possible, while announcing, politely, the change. But also, put the password hints \n…\nThe post Links on Accessibility appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
@@ -496,6 +505,20 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2021/06/image-optimization-book-release/",
+          "author": "hello@smashingmagazine.com (Vitaly Friedman)",
+          "description": "It’s here! For the last year, we’ve been working with Addy Osmani on a new Smashing Book all around image optimization. And now it’s here. Meet “Image Optimization”, our deep-dive guide to understand how to deliver high-quality images on the web fast.",
+          "link": "https://smashingmagazine.com/2021/06/image-optimization-book-release/",
+          "publishedOn": "2021-06-08T12:00:00.000Z",
+          "wordCount": 2102,
+          "title": "From AVIF to WebP: A New Smashing Book By Addy Osmani",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/b41ae541-7618-44f2-81cd-cc681c64d0d0/image-optimization-header.png",
+            "length": "0",
+            "type": "image/png"
+          }
+        },
         {
           "id": "https://smashingmagazine.com/2021/06/building-geocoding-app-vue-mapbox/",
           "author": "hello@smashingmagazine.com (Prince Chukwudire)",
@@ -1353,6 +1376,42 @@
       "feedUrl": "https://www.cnbeta.com/backend.php",
       "siteUrl": "https://www.cnbeta.com",
       "articles": [
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1138249.htm",
+          "author": "ugmbbc",
+          "description": "近日，据媒体报道，特斯拉德国超级工厂又有人事变动，特斯拉CEO马斯克视察工厂后，多名高管被解雇。因为特斯拉德国超级工厂的赶工进度，特斯拉在德国当地发布了大量的招聘岗位，并且相较于奥迪、大众、宝马等德国车企，特斯拉开出的待遇条件同样颇为丰厚。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1138249.htm",
+          "publishedOn": "2021-06-08T14:59:11.000Z",
+          "wordCount": 202,
+          "title": "马斯克解雇多名德国超级工厂高管"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1138247.htm",
+          "author": "ugmbbc",
+          "description": "昨晚，苹果公司宣布为iPhone和iPad推出iOS 15和iPadOS 15操作系统。最新的更新将在今年晚些时候带来大量的新功能。然而，WWDC的发布会没有提到的是，该公司还更新了几个应用程序，加强了它们的功能，以充分利用其处理能力来提高生产力。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1138247.htm",
+          "publishedOn": "2021-06-08T14:57:12.000Z",
+          "wordCount": 209,
+          "title": "iOS 15/iPadOS 15大幅改进AirPrint面板 提供多种新选项"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1138245.htm",
+          "author": "ugmbbc",
+          "description": "谷歌今日宣布，基于欧盟的反馈，今年9月将面向欧洲Android用户推出新的“搜索引擎选项”，允许他们从多达12个搜索引擎中选择自己的默认搜索平台。根据欧盟委员会2018年7月的一项决定，谷歌于2019年8月2日宣布，将在欧洲经济区和英国的Android手机和平板电脑上提供“搜索引擎选择框”，允许用户定制自己的默认搜索引擎。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1138245.htm",
+          "publishedOn": "2021-06-08T14:49:19.000Z",
+          "wordCount": 189,
+          "title": "Google遵守欧盟规定：为Android用户提供12个可选搜索引擎"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1138243.htm",
+          "author": "ugmbbc",
+          "description": "目前，围绕Hyperloop有很多兴奋点，世界各地经常宣布进展，包括在沙特阿拉伯和内华达州的进展。著名的扎哈·哈迪德建筑事务所（ZHA）现在宣布，它计划帮助将这种新兴的运输技术带到意大利。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1138243.htm",
+          "publishedOn": "2021-06-08T14:20:00.000Z",
+          "wordCount": 196,
+          "title": "扎哈·哈迪德建筑事务所正协助将Hyperloop运输技术引入意大利"
+        },
         {
           "id": "https://www.cnbeta.com/articles/tech/1138241.htm",
           "author": "ugmbbc",

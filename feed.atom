@@ -2,10 +2,67 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://lvytwjw.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-08T14:14:20.544Z</updated>
+    <updated>2021-06-08T15:07:04.836Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://lvytwjw.github.io/rss/index.html"/>
     <link rel="self" href="https://lvytwjw.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[马斯克解雇多名德国超级工厂高管]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1138249.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1138249.htm"/>
+        <updated>2021-06-08T14:59:11.000Z</updated>
+        <summary type="html"><![CDATA[近日，据媒体报道，特斯拉德国超级工厂又有人事变动，特斯拉CEO马斯克视察工厂后，多名高管被解雇。因为特斯拉德国超级工厂的赶工进度，特斯拉在德国当地发布了大量的招聘岗位，并且相较于奥迪、大众、宝马等德国车企，特斯拉开出的待遇条件同样颇为丰厚。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[iOS 15/iPadOS 15大幅改进AirPrint面板 提供多种新选项]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1138247.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1138247.htm"/>
+        <updated>2021-06-08T14:57:12.000Z</updated>
+        <summary type="html"><![CDATA[昨晚，苹果公司宣布为iPhone和iPad推出iOS 15和iPadOS 15操作系统。最新的更新将在今年晚些时候带来大量的新功能。然而，WWDC的发布会没有提到的是，该公司还更新了几个应用程序，加强了它们的功能，以充分利用其处理能力来提高生产力。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google遵守欧盟规定：为Android用户提供12个可选搜索引擎]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1138245.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1138245.htm"/>
+        <updated>2021-06-08T14:49:19.000Z</updated>
+        <summary type="html"><![CDATA[谷歌今日宣布，基于欧盟的反馈，今年9月将面向欧洲Android用户推出新的“搜索引擎选项”，允许他们从多达12个搜索引擎中选择自己的默认搜索平台。根据欧盟委员会2018年7月的一项决定，谷歌于2019年8月2日宣布，将在欧洲经济区和英国的Android手机和平板电脑上提供“搜索引擎选择框”，允许用户定制自己的默认搜索引擎。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[扎哈·哈迪德建筑事务所正协助将Hyperloop运输技术引入意大利]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1138243.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1138243.htm"/>
+        <updated>2021-06-08T14:20:00.000Z</updated>
+        <summary type="html"><![CDATA[目前，围绕Hyperloop有很多兴奋点，世界各地经常宣布进展，包括在沙特阿拉伯和内华达州的进展。著名的扎哈·哈迪德建筑事务所（ZHA）现在宣布，它计划帮助将这种新兴的运输技术带到意大利。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CSS-Trickz: An Experiment with Netlify’s On-Demand Builders]]></title>
+        <id>https://css-tricks.com/?p=341884</id>
+        <link href="https://alex.party/posts/2021-05-31-css-trickz-an-experiment-with-netlify-s-on-demand-builders/"/>
+        <updated>2021-06-08T14:16:07.000Z</updated>
+        <summary type="html"><![CDATA[WordPress sites have an API by default. Wanna see this site’s most recent posts, with just a specific set of data… in JSON format? Here ya go. Alex Riviere made a joke site using that.
+At first, the site …
+The post CSS-Trickz: An Experiment with Netlify’s On-Demand Builders appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[美国退役士兵称曾接触过UFO：还画下了飞船上的神秘铭文]]></title>
         <id>https://www.cnbeta.com/articles/tech/1138241.htm</id>
@@ -147,6 +204,16 @@
  阅读全文]]></summary>
         <author>
             <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[From AVIF to WebP: A New Smashing Book By Addy Osmani]]></title>
+        <id>https://smashingmagazine.com/2021/06/image-optimization-book-release/</id>
+        <link href="https://smashingmagazine.com/2021/06/image-optimization-book-release/"/>
+        <updated>2021-06-08T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[It’s here! For the last year, we’ve been working with Addy Osmani on a new Smashing Book all around image optimization. And now it’s here. Meet “Image Optimization”, our deep-dive guide to understand how to deliver high-quality images on the web fast.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
         </author>
     </entry>
     <entry>
