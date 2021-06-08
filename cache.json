@@ -1395,6 +1395,24 @@
       "siteUrl": "https://www.cnbeta.com",
       "articles": [
         {
+          "id": "https://www.cnbeta.com/articles/tech/1138299.htm",
+          "author": "maomao",
+          "description": "一个被称为“海洋清洁”的非营利组织正在继续履行其使命，在垃圾进入海洋之前将其捕获，使世界各地海洋摆脱塑料污染。该组织已经推出了新的第三代垃圾拦截器，它说可以更有效地清除大量的垃圾，而且成本更低。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1138299.htm",
+          "publishedOn": "2021-06-08T21:21:44.000Z",
+          "wordCount": 191,
+          "title": "第三代垃圾收集器问世 阻止塑料垃圾进入海洋"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1138297.htm",
+          "author": "maomao",
+          "description": "无人机不仅仅是在空中飞行，现在无人帆船Saildrone还可以在海洋上航行，作为应对气候变化的最新科学武器。Saildrone可以绘制海底地图，收集天气和海洋数据，以及统计鱼类和野生动物的数量，Saildrone将测量我们星球上现在发生的变化。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1138297.htm",
+          "publishedOn": "2021-06-08T21:09:19.000Z",
+          "wordCount": 189,
+          "title": "无人驾驶帆船Saildrone问世 将是应对全球气候变化的高科技武器"
+        },
+        {
           "id": "https://www.cnbeta.com/articles/tech/1138295.htm",
           "author": "maomao",
           "description": "Pfeiffer咨询公司开展的一个独立基准测试项目发现，苹果M1 MacBook Pro比类似配置的基于英特尔的MacBook Pro平均性能最多提高116%。基准测试涵盖了七个Adobe创意云应用程序，M1 Mac令人信服地击败了基于英特尔的MacBook Pro ，测试显示性能平均提升83%。\n 阅读全文",
