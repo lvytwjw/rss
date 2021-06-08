@@ -2,10 +2,74 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://lvytwjw.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-08T15:07:04.836Z</updated>
+    <updated>2021-06-08T16:24:33.372Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://lvytwjw.github.io/rss/index.html"/>
     <link rel="self" href="https://lvytwjw.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[苹果侵入Facebook领地：iOS 15新社交功能令扎克伯格抓狂]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1138257.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1138257.htm"/>
+        <updated>2021-06-08T16:21:07.000Z</updated>
+        <summary type="html"><![CDATA[从今年秋天开始，苹果和Facebook之间长达十年的口水战将开启新的篇章。因为就在今日，苹果以前所未有的方式侵入了Facebook领地。在今日凌晨召开的全球开发者大会（WWDC）上，苹果发布了几项新的社交功能，这些功能将在今年秋天发布iOS 15时出现在iPhone和iPad上。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Pass Data and Events Between Components in React]]></title>
+        <id>60b23b8911ffb70827ef954e</id>
+        <link href="https://www.freecodecamp.org/news/pass-data-between-components-in-react/"/>
+        <updated>2021-06-08T16:17:32.000Z</updated>
+        <summary type="html"><![CDATA[If you're trying to implement CRUD operations using API endpoints, you might find that it's hard to manage data across multiple components. Or maybe you have a modal, but you want to trigger it from a different component.  Wrapping your head around how to tackle these scenarios can be difficult.]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[业内预测新一代MacBook Pro出货将在第三季度开始]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1138255.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1138255.htm"/>
+        <updated>2021-06-08T16:03:16.000Z</updated>
+        <summary type="html"><![CDATA[虽然泄密者Jon Prosser声称新的MacBook Pro将在WWDC上露脸，但最终苹果的主题演讲并没有包括任何新的硬件公布。相反，看起来越来越有可能的是，重新设计的14英寸和16英寸MacBook Pro机型将在今年第三或第四季度发布，该机型采用更快的M1芯片迭代。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Complete CSS Grid Tutorial with Cheat Sheet 🎖️]]></title>
+        <id>60be6a3cd3126007592d4a03</id>
+        <link href="https://www.freecodecamp.org/news/css-grid-tutorial-with-cheatsheet/"/>
+        <updated>2021-06-08T16:02:45.000Z</updated>
+        <summary type="html"><![CDATA[Today we're going to learn CSS Grid properties so that you can make your own responsive websites. I'll explain how each of Grid's properties work along with a CheatSheet that covers everything you can do with Grid. Let's go. 🎖️ Table of Contents: CSS Grid Architecture CSS Grid Chart Grid Parent]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[未来20年是决定煤炭经济前景的关键时期]]></title>
+        <id>https://www.cnbeta.com/articles/science/1138253.htm</id>
+        <link href="https://www.cnbeta.com/articles/science/1138253.htm"/>
+        <updated>2021-06-08T15:15:58.000Z</updated>
+        <summary type="html"><![CDATA[随着煤炭行业在未来几十年的变化，现在做出的决定将决定经济是赢还是输。包括澳大利亚和印度尼西亚在内的国家如果继续投资于新的煤矿和出口，随着世界远离化石燃料，它们可能会损失数十亿美元。这些是由伦敦帝国学院的一个团队牵头，包括伦敦大学玛丽皇后学院和德勤公司的研究人员进行的一项新分析的结论，该分析今天（2021年6月8日）发表在《焦耳》杂志上。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[微软iOS版Outlook现在可以用语音来撰写邮件及安排会议]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1138251.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1138251.htm"/>
+        <updated>2021-06-08T15:11:33.000Z</updated>
+        <summary type="html"><![CDATA[微软正在为其Outlook移动应用增加语音功能，让人们用语音写邮件、安排会议和搜索。由Cortana技术驱动的语音功能将首先在iOS版Outlook中提供，Android系统的支持也即将到来。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[马斯克解雇多名德国超级工厂高管]]></title>
         <id>https://www.cnbeta.com/articles/tech/1138249.htm</id>

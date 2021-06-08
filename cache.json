@@ -839,6 +839,24 @@
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
         {
+          "id": "60b23b8911ffb70827ef954e",
+          "author": null,
+          "description": "If you're trying to implement CRUD operations using API endpoints, you might find that it's hard to manage data across multiple components. Or maybe you have a modal, but you want to trigger it from a different component.  Wrapping your head around how to tackle these scenarios can be difficult.",
+          "link": "https://www.freecodecamp.org/news/pass-data-between-components-in-react/",
+          "publishedOn": "2021-06-08T16:17:32.000Z",
+          "wordCount": 1205,
+          "title": "How to Pass Data and Events Between Components in React"
+        },
+        {
+          "id": "60be6a3cd3126007592d4a03",
+          "author": null,
+          "description": "Today we're going to learn CSS Grid properties so that you can make your own responsive websites. I'll explain how each of Grid's properties work along with a CheatSheet that covers everything you can do with Grid. Let's go. 🎖️ Table of Contents: CSS Grid Architecture CSS Grid Chart Grid Parent",
+          "link": "https://www.freecodecamp.org/news/css-grid-tutorial-with-cheatsheet/",
+          "publishedOn": "2021-06-08T16:02:45.000Z",
+          "wordCount": 2548,
+          "title": "Complete CSS Grid Tutorial with Cheat Sheet 🎖️"
+        },
+        {
           "id": "60bbd28eacb62507dd1d99fb",
           "author": null,
           "description": "Learn how to build full stack serverless apps with Supabase and Next.js.",
@@ -1376,6 +1394,42 @@
       "feedUrl": "https://www.cnbeta.com/backend.php",
       "siteUrl": "https://www.cnbeta.com",
       "articles": [
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1138257.htm",
+          "author": "ugmbbc",
+          "description": "从今年秋天开始，苹果和Facebook之间长达十年的口水战将开启新的篇章。因为就在今日，苹果以前所未有的方式侵入了Facebook领地。在今日凌晨召开的全球开发者大会（WWDC）上，苹果发布了几项新的社交功能，这些功能将在今年秋天发布iOS 15时出现在iPhone和iPad上。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1138257.htm",
+          "publishedOn": "2021-06-08T16:21:07.000Z",
+          "wordCount": 203,
+          "title": "苹果侵入Facebook领地：iOS 15新社交功能令扎克伯格抓狂"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1138255.htm",
+          "author": "ugmbbc",
+          "description": "虽然泄密者Jon Prosser声称新的MacBook Pro将在WWDC上露脸，但最终苹果的主题演讲并没有包括任何新的硬件公布。相反，看起来越来越有可能的是，重新设计的14英寸和16英寸MacBook Pro机型将在今年第三或第四季度发布，该机型采用更快的M1芯片迭代。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1138255.htm",
+          "publishedOn": "2021-06-08T16:03:16.000Z",
+          "wordCount": 211,
+          "title": "业内预测新一代MacBook Pro出货将在第三季度开始"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/science/1138253.htm",
+          "author": "ugmbbc",
+          "description": "随着煤炭行业在未来几十年的变化，现在做出的决定将决定经济是赢还是输。包括澳大利亚和印度尼西亚在内的国家如果继续投资于新的煤矿和出口，随着世界远离化石燃料，它们可能会损失数十亿美元。这些是由伦敦帝国学院的一个团队牵头，包括伦敦大学玛丽皇后学院和德勤公司的研究人员进行的一项新分析的结论，该分析今天（2021年6月8日）发表在《焦耳》杂志上。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/science/1138253.htm",
+          "publishedOn": "2021-06-08T15:15:58.000Z",
+          "wordCount": 193,
+          "title": "未来20年是决定煤炭经济前景的关键时期"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1138251.htm",
+          "author": "ugmbbc",
+          "description": "微软正在为其Outlook移动应用增加语音功能，让人们用语音写邮件、安排会议和搜索。由Cortana技术驱动的语音功能将首先在iOS版Outlook中提供，Android系统的支持也即将到来。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1138251.htm",
+          "publishedOn": "2021-06-08T15:11:33.000Z",
+          "wordCount": 197,
+          "title": "微软iOS版Outlook现在可以用语音来撰写邮件及安排会议"
+        },
         {
           "id": "https://www.cnbeta.com/articles/tech/1138249.htm",
           "author": "ugmbbc",
