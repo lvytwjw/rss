@@ -2,10 +2,252 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://lvytwjw.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-09T07:20:45.605Z</updated>
+    <updated>2021-06-09T08:07:44.135Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://lvytwjw.github.io/rss/index.html"/>
     <link rel="self" href="https://lvytwjw.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[为大堡礁争取时间：研究人员提议向海水中施放碱化剂]]></title>
+        <id>https://www.cnbeta.com/articles/science/1138609.htm</id>
+        <link href="https://www.cnbeta.com/articles/science/1138609.htm"/>
+        <updated>2021-06-09T08:06:57.000Z</updated>
+        <summary type="html"><![CDATA[随着二氧化碳排放量的积聚，全球气温的快速上升，也对自然生态环境造成了重大的影响。对于海洋来说，其不仅变得过于温暖，且酸度变化也开始切实威胁到珊瑚礁的生存。以人们熟知的澳大利亚大堡礁为例，它就在近年来就遭遇了严重的退化。为了给珊瑚礁的生态恢复争取时间，一些研究人员开始提出能够帮助其抵御伤害的试验方案，比如在航道沿线施放碱化剂。
+ 阅读全文]]></summary>
+        <author>
+            <name>raymon725</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[百万粉大V吐槽微信难用：视频、表情包占满100G C盘空间]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1138607.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1138607.htm"/>
+        <updated>2021-06-09T08:06:56.000Z</updated>
+        <summary type="html"><![CDATA[又到了广大人民群众吐槽腾讯微信不好用的喜闻乐见时刻了，这次被人诟病的不是手机版微信，而是电脑版，一不小心就把C盘空间占满了。187万粉丝的大V@顾扯淡日前发微博称，自己的系统盘是SSD，只放常用的软件和喜欢的游戏，普通游戏都不放C盘，然而突然发现C盘没空间了。
+ 阅读全文]]></summary>
+        <author>
+            <name>teikaei</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Relativity Space的可重复使用火箭可在60天内通过3D打印完成]]></title>
+        <id>https://www.cnbeta.com/articles/science/1138605.htm</id>
+        <link href="https://www.cnbeta.com/articles/science/1138605.htm"/>
+        <updated>2021-06-09T08:06:14.000Z</updated>
+        <summary type="html"><![CDATA[3D打印在现代火箭建造中发挥了重要作用，Rocket Lab、NASA和SpaceX 等主要参与者都依靠这一技术来生产他们的航天器。初创公司Relativity Space现在正带着其新近发布的Terran R火箭加入其中，它被描述为完全3D打印的运载火箭，可以在60天内从原材料中制造出来，并且完全可再利用。
+ 阅读全文]]></summary>
+        <author>
+            <name>vivian</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Windows同样无条件保留了前1MB的内存 Linux只是晚了一步]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1138603.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1138603.htm"/>
+        <updated>2021-06-09T08:05:06.000Z</updated>
+        <summary type="html"><![CDATA[上周末，Linux 5.13内核进行了修改，使Linux x86/x86_64内核开始强制保留最初的1MB内存，以避免一些BIOS和帧缓冲器有时对系统内存的最低部分进行破坏的问题。虽然人们认为无条件地保留前1MB有点麻烦，而且也许Windows有某种方法来决定保留多少低内存区域，但事实证明，Windows多年来一直采用这种做法。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[天玑1200加持 一加9系新机预计杀到2000价位段]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1138601.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1138601.htm"/>
+        <updated>2021-06-09T07:55:34.000Z</updated>
+        <summary type="html"><![CDATA[前段时间，一加手机正式在国内市场发布了一加9R机型，这也是一加时隔多年首次在国内推出新系列机型。根据目前消费者的反馈来看，一加9R以“不将就”的品质、旗舰级的性能以及相对性价比更高的价格，深受消费者青睐。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chia 硬盘矿价格跌去 70% SSD 打回原形 ：1TB 只要 800 多]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1138599.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1138599.htm"/>
+        <updated>2021-06-09T07:53:45.000Z</updated>
+        <summary type="html"><![CDATA[最近一段时间来，不只是比特币、以太币价格暴跌 ，Chia 这种新兴的硬盘矿也萧条了许多 ，5 月份高峰期价格一度逼近 1800 美元，现在只要 550 美元左右，跌去了 70% 左右，这个是真的矿难了。
+ 阅读全文]]></summary>
+        <author>
+            <name>study875</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[图]Pixel获六月功能更新：优化夜空拍摄 增强隐私保护]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1138597.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1138597.htm"/>
+        <updated>2021-06-09T07:49:44.000Z</updated>
+        <summary type="html"><![CDATA[面向 Pixel 系列手机，Google今天放出了本月的 Feature Drop。在让 Pixel 更智能更充满乐趣的同时，本次更新进一步提升了安全体验，允许用户在拍摄夜空的时候制作短视频。
+ 阅读全文]]></summary>
+        <author>
+            <name>study875</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[一单回本！京东Plus会员618大促：30元通用红包 联名卡最低三折]]></title>
+        <id>https://plus.m.jd.com/index?channel=hzdm334</id>
+        <link href="https://plus.m.jd.com/index?channel=hzdm334"/>
+        <updated>2021-06-09T07:48:27.000Z</updated>
+        <summary type="html"><![CDATA[作为京东最重要的日子之一，618大促期间，京东也上线了会员大促活动，与往日6、7折的折扣力度相比，此次京东Plus联名会员卡，多数平台的联名会员卡促销，甚至都打出了3折的优惠，为空前好价。对京东和其它平台会员有需求的朋友，可以趁机升级会员。访问：京东PLUS会员618年中大促
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[国家网信办：加大对区块链平台及衍生平台应用的监测力度]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1138593.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1138593.htm"/>
+        <updated>2021-06-09T07:47:56.000Z</updated>
+        <summary type="html"><![CDATA[6月7日，国家网信办组织召开2021年国家打击治理跨境赌博网络工作组专题会议，分析当前跨境网络赌博面临的新形势新任务，研究部署下阶段重点工作。中央网信办副主任、国家网信办副主任牛一兵出席会议并讲话。
+ 阅读全文]]></summary>
+        <author>
+            <name>vivian</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[萨尔瓦多通过《比特币法》：成为首个将比特币作为法定货币的国家]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1138591.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1138591.htm"/>
+        <updated>2021-06-09T07:46:57.000Z</updated>
+        <summary type="html"><![CDATA[北京时间6月9日下午消息，据报道，南美国家萨尔瓦多的国会以“绝对多数”赞成的投票结果通过《比特币法》，成为全世界第一个将比特币作为法定货币的国家。本周三早些时候，该国总统纳伊布·布克莱（Nayib Bukele）将这部法案提交给国会进行投票。
+ 阅读全文]]></summary>
+        <author>
+            <name>vivian</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“考生因戴金属牙套不能进考场”当事人回应：网传不实、学校很负责]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1138589.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1138589.htm"/>
+        <updated>2021-06-09T07:45:55.000Z</updated>
+        <summary type="html"><![CDATA[前两天的高考牵动了全国人民的心，其中“考生因戴金属牙套不能进考场”一事更引发了网络热议，此后沧州方面已经发了官方通报，称此事并不属实。当事人李博涵日前也在微博上发声，澄清了事实真相。
+ 阅读全文]]></summary>
+        <author>
+            <name>teikaei</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[微软发布2.0版Project Acoustics模拟引擎：改进动态开口与时间效率]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1138587.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1138587.htm"/>
+        <updated>2021-06-09T07:45:18.000Z</updated>
+        <summary type="html"><![CDATA[Project Acoustics 是微软推出的基于波的模拟引擎，适用于在游戏、混合现实等 3D 环境中引入沉浸式的声学体验。比如它能够模拟各种障碍和遮挡物的回声，而无需依赖于硬件密集型的光线追踪（Ray Tracing）功能。目前，Project Acoustics 运行时（Runtime）已登陆 Windows、Xbox、Android 和 macOS 等平台，且与 Unity 和 Unreal 等游戏引擎实现了集成。
+ 阅读全文]]></summary>
+        <author>
+            <name>raymon725</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[告别加班：腾讯光子工作室强制双休]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1138585.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1138585.htm"/>
+        <updated>2021-06-09T07:44:54.000Z</updated>
+        <summary type="html"><![CDATA[6月9日消息，据媒体报道，有腾讯员工在某职场平台上发表“如何看待光子工作室强制不加班双休”的帖子。从流出的加班管理机制表上看，这项强制双休的规定适用于光子工作室群，生效日期为2021年6月14日，严格遵守周三健康日的作息要求，周三以外的工作日不晚于21：00离开办公区域，如果有特殊需要要提起报备审批。
+ 阅读全文]]></summary>
+        <author>
+            <name>teikaei</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[在DRAM和NAND市场 三星有望稳居冠军宝座]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1138583.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1138583.htm"/>
+        <updated>2021-06-09T07:35:53.000Z</updated>
+        <summary type="html"><![CDATA[据《韩国经济新闻》报道，由于全球半导体行业竞争激化，近日有三星电子（ Samsung Electronics Co.）的“危机论”说法出现，但目前三星在半导体存储器市场地位依然稳固。基于市场研究机构Omdia的去年数据，分析师预测，今年第一季度在全球DRAM市场，三星以41.7%的市场份额排名第一，其次是SK海力士（ SK Hynix Inc。）和美光科技，市场占有率分别为30%和23%。
+ 阅读全文]]></summary>
+        <author>
+            <name>raymon725</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[瑞幸咖啡创始人陆正耀被强制执行超12亿]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1138581.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1138581.htm"/>
+        <updated>2021-06-09T07:34:53.000Z</updated>
+        <summary type="html"><![CDATA[6月9日，据中国执行信息公开网消息，陆正耀近日被北京市第一中级人民法院列为被执行人，案号（2021）京01执763号，执行标的1200484220元。据悉，陆正耀为瑞幸咖啡创始人，其目前担任神州优车股份有限公司、神州租车有限公司法定代表人。
+ 阅读全文]]></summary>
+        <author>
+            <name>teikaei</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[高玩出手打造乐高版兰博基尼超跑 原尺寸大小重达2吨多]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1138579.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1138579.htm"/>
+        <updated>2021-06-09T07:33:27.000Z</updated>
+        <summary type="html"><![CDATA[尽管之前已经有过乐高版汽车，不过闲不住的高玩们总会推陈出新，6月8日兰博基尼官网公开了最新版乐高版兰博基尼超跑，由15位高玩联手打造，1：1尺寸比例，重达2200公斤。
+ 阅读全文]]></summary>
+        <author>
+            <name>teikaei</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美国宇航局发布最精确的洛杉矶二氧化碳卫星图]]></title>
+        <id>https://www.cnbeta.com/articles/science/1138577.htm</id>
+        <link href="https://www.cnbeta.com/articles/science/1138577.htm"/>
+        <updated>2021-06-09T07:30:48.000Z</updated>
+        <summary type="html"><![CDATA[通过安装在国际空间站上轨道碳观测站3号（OCO-3）仪器提供的数据，美国宇航局的研究人员发布了有史以来人类对洛杉矶都市区二氧化碳（CO2）影响的最精确地图之一。该地图显示了从巨大的洛杉矶盆地每英里范围空气中二氧化碳的变化。
+ 阅读全文]]></summary>
+        <author>
+            <name>study875</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[realme杀入笔记本市场：新品谍照公开]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1138575.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1138575.htm"/>
+        <updated>2021-06-09T07:28:49.000Z</updated>
+        <summary type="html"><![CDATA[今天，realme印度CEO Madhav Sheth首次公开了realme笔记本的新品谍照。如图所示，realme笔记本新品被装在了一个档案袋里。之前乔布斯在发布会上展示新款MacBook Air时，就是从档案袋里取出来的，强调它特别轻薄。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[中保研发布2020年测评结果研究报告：中国品牌表现亮眼]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1138573.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1138573.htm"/>
+        <updated>2021-06-09T07:28:03.000Z</updated>
+        <summary type="html"><![CDATA[6月9日消息，中保研在在北京召开中国保险汽车安全指数媒体发布会，发布了C-IASI 2020年测评结果研究报告。在2020年的测试评价工作中，C-IASI共完成23款车型的测试、发布，其中SUV 14款、轿车8款、MPV1款；车型市场销量覆盖率达9.89%，涵盖自主、德系、美系、日系、韩系等市场主流品牌。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[河南女生喜提天猫618“88VIP锦鲤”：击败160万人 独享百万大奖]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1138571.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1138571.htm"/>
+        <updated>2021-06-09T07:27:07.000Z</updated>
+        <summary type="html"><![CDATA[6月9日上午10时，作为2021年度天猫618活动的最大彩蛋，“88VIP凡尔赛”锦鲤名单揭晓。与此前被不断调侃的“锦鲤不出江浙沪”预言不同，这次的幸运儿是一名来自河南驻马店的女生，微博ID为“配音kk”。她独享了这份160万分之一的好运。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[华为杀菌消毒口罩专利公开：可实现零化学污染杀灭细菌]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1138569.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1138569.htm"/>
+        <updated>2021-06-09T07:25:13.000Z</updated>
+        <summary type="html"><![CDATA[自从去年全球新冠肺炎疫情蔓延以来， 全球各国人民的生活都与口罩紧紧联系在一起，作为最简单有效的新冠病毒隔绝手段之一，大家到任何公共场所都需要口罩来保护自己和他人。但是，普通的医用口罩和 KN95 口罩都是有使用时限的，超过一定时间后，病毒隔绝的能力就会大大折扣，人们不得不经常更换口罩。
+ 阅读全文]]></summary>
+        <author>
+            <name>study875</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[抗疫再添利器！我国又一新冠灭活疫苗上市使用，全程接种 2 剂]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1138567.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1138567.htm"/>
+        <updated>2021-06-09T07:22:44.000Z</updated>
+        <summary type="html"><![CDATA[9 日，由中国医学科学院医学生物学研究所（以下简称医科院生物所）自主研发的科维福新型冠状病毒灭活疫苗首批上市供应国内紧急使用，为我国抗击新冠疫情再添利器，国产新冠灭活疫苗继续扩增产能。
+ 阅读全文]]></summary>
+        <author>
+            <name>study875</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[LG新能源启动上市流程 拟IPO融资逾573亿元]]></title>
         <id>https://www.cnbeta.com/articles/tech/1138565.htm</id>
