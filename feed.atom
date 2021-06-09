@@ -2,10 +2,54 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://lvytwjw.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-09T04:28:25.078Z</updated>
+    <updated>2021-06-09T05:32:15.861Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://lvytwjw.github.io/rss/index.html"/>
     <link rel="self" href="https://lvytwjw.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[WWDC 2021：苹果意外曝光Apple Watch“世界时区”新表盘]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1138509.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1138509.htm"/>
+        <updated>2021-06-09T05:24:33.000Z</updated>
+        <summary type="html"><![CDATA[在周二的 WWDC 2021 开发者大会上，苹果无意间在 UIKit 环节披露了一款名为“World Timer”的未发布 Apple Watch 表盘。开发者 Duraid Abdul 在介绍 UIKit 的新特性时指出，“世界时区”表盘采用了经典设计，内部带有 24 小时指针、并且能够追踪多个时区。许多人猜测，这款“世界时钟”表盘设计将于今秋随 watchOS 8 一起推出。
+ 阅读全文]]></summary>
+        <author>
+            <name>raymon725</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[《小丑回魂》中小丑演员加盟《疾速追杀4》]]></title>
+        <id>https://hot.cnbeta.com/articles/movie/1138507.htm</id>
+        <link href="https://hot.cnbeta.com/articles/movie/1138507.htm"/>
+        <updated>2021-06-09T05:22:59.000Z</updated>
+        <summary type="html"><![CDATA[据外媒collider报道，《小丑回魂》中“小丑”演员比尔·斯卡斯加德加盟大热动作惊悚片新作《疾速追杀4》，饰演角色尚未曝光。《疾速追杀4》有基努·里维斯回归主演，甄子丹、Rina Sawayama新加盟出演。
+ 阅读全文]]></summary>
+        <author>
+            <name>teikaei</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[《夺宝奇兵5》片场照 79岁哈里森·福特经典服装现身]]></title>
+        <id>https://hot.cnbeta.com/articles/movie/1138505.htm</id>
+        <link href="https://hot.cnbeta.com/articles/movie/1138505.htm"/>
+        <updated>2021-06-09T05:22:24.000Z</updated>
+        <summary type="html"><![CDATA[动作冒险片《夺宝奇兵5》曝光片场照，哈里森·福特戴着口罩、以一身经典造型现身。据悉影片近日在英格兰北约克郡的荒野进行了拍摄。78岁的福伯还要拍打戏也是不易。
+ 阅读全文]]></summary>
+        <author>
+            <name>teikaei</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[卡普空被诉盗用素材 涉《鬼泣》与《生化危机4》中的200多份贴图]]></title>
+        <id>https://hot.cnbeta.com/articles/game/1138503.htm</id>
+        <link href="https://hot.cnbeta.com/articles/game/1138503.htm"/>
+        <updated>2021-06-09T04:54:06.000Z</updated>
+        <summary type="html"><![CDATA[对于任何游戏公司来说，惹上版权官司都是一件相当麻烦的事情。然而就算是卡普空（Capcom）这样的大企业，竟也难免在游戏开发过程中出现了疏漏。由递交给美国康涅狄格州联邦法院的一份诉状可知，原告方 Judy Juracek 声称，Capcom 在未经许可的情况下，使用了她在 1996 年出版的一本艺术参考书籍中的大量素材。
+ 阅读全文]]></summary>
+        <author>
+            <name>raymon725</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[严管剪贴板访问：iOS 15内置了安全粘贴功能]]></title>
         <id>https://www.cnbeta.com/articles/tech/1138501.htm</id>

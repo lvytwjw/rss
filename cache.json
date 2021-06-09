@@ -1386,6 +1386,42 @@
       "siteUrl": "https://www.cnbeta.com",
       "articles": [
         {
+          "id": "https://www.cnbeta.com/articles/tech/1138509.htm",
+          "author": "raymon725",
+          "description": "在周二的 WWDC 2021 开发者大会上，苹果无意间在 UIKit 环节披露了一款名为“World Timer”的未发布 Apple Watch 表盘。开发者 Duraid Abdul 在介绍 UIKit 的新特性时指出，“世界时区”表盘采用了经典设计，内部带有 24 小时指针、并且能够追踪多个时区。许多人猜测，这款“世界时钟”表盘设计将于今秋随 watchOS 8 一起推出。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1138509.htm",
+          "publishedOn": "2021-06-09T05:24:33.000Z",
+          "wordCount": 246,
+          "title": "WWDC 2021：苹果意外曝光Apple Watch“世界时区”新表盘"
+        },
+        {
+          "id": "https://hot.cnbeta.com/articles/movie/1138507.htm",
+          "author": "teikaei",
+          "description": "据外媒collider报道，《小丑回魂》中“小丑”演员比尔·斯卡斯加德加盟大热动作惊悚片新作《疾速追杀4》，饰演角色尚未曝光。《疾速追杀4》有基努·里维斯回归主演，甄子丹、Rina Sawayama新加盟出演。\n 阅读全文",
+          "link": "https://hot.cnbeta.com/articles/movie/1138507.htm",
+          "publishedOn": "2021-06-09T05:22:59.000Z",
+          "wordCount": 189,
+          "title": "《小丑回魂》中小丑演员加盟《疾速追杀4》"
+        },
+        {
+          "id": "https://hot.cnbeta.com/articles/movie/1138505.htm",
+          "author": "teikaei",
+          "description": "动作冒险片《夺宝奇兵5》曝光片场照，哈里森·福特戴着口罩、以一身经典造型现身。据悉影片近日在英格兰北约克郡的荒野进行了拍摄。78岁的福伯还要拍打戏也是不易。\n 阅读全文",
+          "link": "https://hot.cnbeta.com/articles/movie/1138505.htm",
+          "publishedOn": "2021-06-09T05:22:24.000Z",
+          "wordCount": 190,
+          "title": "《夺宝奇兵5》片场照 79岁哈里森·福特经典服装现身"
+        },
+        {
+          "id": "https://hot.cnbeta.com/articles/game/1138503.htm",
+          "author": "raymon725",
+          "description": "对于任何游戏公司来说，惹上版权官司都是一件相当麻烦的事情。然而就算是卡普空（Capcom）这样的大企业，竟也难免在游戏开发过程中出现了疏漏。由递交给美国康涅狄格州联邦法院的一份诉状可知，原告方 Judy Juracek 声称，Capcom 在未经许可的情况下，使用了她在 1996 年出版的一本艺术参考书籍中的大量素材。\n 阅读全文",
+          "link": "https://hot.cnbeta.com/articles/game/1138503.htm",
+          "publishedOn": "2021-06-09T04:54:06.000Z",
+          "wordCount": 260,
+          "title": "卡普空被诉盗用素材 涉《鬼泣》与《生化危机4》中的200多份贴图"
+        },
+        {
           "id": "https://www.cnbeta.com/articles/tech/1138501.htm",
           "author": "raymon725",
           "description": "苹果为 iOS 15 引入了多项以隐私为重点的改进，比如为邮件 App 内置了全新的反追踪防护措施、在 App 权限描述部分提示对敏感信息（比如定位）的访问频次、以及可在本机设备上完成的 Siri 语音处理等。与此同时，iOS 15 也有诸多相对微小的体验改进，比如为开发者提供了可内置于 App 中的全新的“安全粘贴”功能。\n 阅读全文",
