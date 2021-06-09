@@ -2,10 +2,103 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://lvytwjw.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-09T14:10:34.629Z</updated>
+    <updated>2021-06-09T15:07:21.536Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://lvytwjw.github.io/rss/index.html"/>
     <link rel="self" href="https://lvytwjw.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[美国医生称注射疫苗会令人“磁化” 与5G塔进行交互]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1138763.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1138763.htm"/>
+        <updated>2021-06-09T15:05:46.000Z</updated>
+        <summary type="html"><![CDATA[据“Fox 8”报道，当地时间6月8日，在美国俄亥俄州健康委员会会议上，一名反疫苗的医生宣称，新冠疫苗可能含有金属成分，会使注射疫苗者身体“磁化”，可与5G信号塔进行交互。对此，有网友反讽称，美国确实需要一个精神健康的计划，有人除了科学证据什么都相信。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[比特币还会下跌多久？ 知名分析师们纷纷发声]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1138761.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1138761.htm"/>
+        <updated>2021-06-09T15:04:57.000Z</updated>
+        <summary type="html"><![CDATA[比特币跌至两周内低点。据悉，美国追回科洛尼尔管道运输公司支付给黑客的赎金，导致比特币下跌。在此背景下，诸多知名机构分析师纷纷对比特币未来走势及前景发声。伦敦加密货币银行Nexo的管理合伙人兼联合创始人安东尼·特伦切夫(Antoni Trenchev)表示：比特币之所以出现暴跌，是繁琐、冗长的监管问题压制了比特币的价格。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[外媒：拜登签署行政令撤销对TikTok及微信禁令]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1138759.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1138759.htm"/>
+        <updated>2021-06-09T15:04:22.000Z</updated>
+        <summary type="html"><![CDATA[外媒报道称，当地时间6月9日，美国总统拜登签署了一项行政令，撤销前总统特朗普在任期间对中国社交软件TikTok和微信的禁令。据《华尔街日报》9日报道，拜登当日签署行政令，撤销特朗普时期有关在美国境内禁止下载和使用TikTok和微信的命令。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[六名用户指控Coinbase误锁帐户 提集体诉讼求偿500万美元]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1138757.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1138757.htm"/>
+        <updated>2021-06-09T15:03:45.000Z</updated>
+        <summary type="html"><![CDATA[最近上市的加密货币交易所Coinbase在美国因为误将用户的帐户暂停数月之久，而面临集体诉讼，该诉讼由六名原告在加利福尼亚地区法院提起，要求Coinbase对他们受侵害的权益以及财产损失进行赔偿。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[神舟十二号船箭组合体转运至发射区]]></title>
+        <id>https://www.cnbeta.com/articles/science/1138755.htm</id>
+        <link href="https://www.cnbeta.com/articles/science/1138755.htm"/>
+        <updated>2021-06-09T14:43:19.000Z</updated>
+        <summary type="html"><![CDATA[据中国载人航天工程办公室消息，北京时间2021年6月9日，神舟十二号载人飞船与长征二号F遥十二运载火箭组合体已转运至发射区。目前，发射场设施设备状态良好，后续将按计划开展发射前的各项功能检查、联合测试等工作。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[欧盟公布初步调查结果：Alexa和Siri等语音助手引发垄断担忧]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1138753.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1138753.htm"/>
+        <updated>2021-06-09T14:40:25.000Z</updated>
+        <summary type="html"><![CDATA[据报道，欧盟反垄断监管机构今日表示，亚马逊Alexa、苹果Siri和Google Assistant等语音助手的市场力量日益增强，这引发了潜在的反竞争行为担忧。在对语音助手和其他联网设备进行了长达一年的调查后，欧盟委员会于今日发表了上述言论。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[青海省工信厅：全面关停虚拟货币“挖矿”项目]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1138751.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1138751.htm"/>
+        <updated>2021-06-09T14:39:30.000Z</updated>
+        <summary type="html"><![CDATA[青海省工业和信息化厅下发《关于对虚拟货币“挖矿“项目开展清理整顿工作的通知》，并对有关虚拟货币挖矿行为开展清理整顿。
+一、严禁各地区立项批复各类虚拟货币“挖矿”项目，对现有的各类虚拟货币“挖矿”项目全面关停。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[target=”blank”]]></title>
+        <id>https://css-tricks.com/?p=341916</id>
+        <link href="https://css-tricks.com/targetblank/"/>
+        <updated>2021-06-09T14:37:31.000Z</updated>
+        <summary type="html"><![CDATA[Does that make your eye twitch a little bit? Like… it’s a typo. It should be target="_blank" with an underscore to start the value. As in…
+<a target="_blank" href="https://codepen.io"Open CodePen in a New Tab
+</a
+Welp, that’s correct syntax!…
+The post target=”blank” appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[亚马逊广告费率提高50%仍受欢迎 蚕食谷歌市场份额]]></title>
         <id>https://www.cnbeta.com/articles/tech/1138749.htm</id>
