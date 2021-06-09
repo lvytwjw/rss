@@ -497,6 +497,20 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2021/06/has-native-css-parent-selector/",
+          "author": "hello@smashingmagazine.com (Adrian Bece)",
+          "description": "What makes relational selector one of the most requested features and how are we, as developers, working around not having it? In this article, we’re going to check the early spec of the :has selector, and see how it should improve the CSS workflow once it’s released.",
+          "link": "https://smashingmagazine.com/2021/06/has-native-css-parent-selector/",
+          "publishedOn": "2021-06-09T10:30:00.000Z",
+          "wordCount": 2603,
+          "title": "Meet <code>:has</code>, A Native CSS Parent Selector (And More)",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/89aef48d-9be9-45df-a7f4-775168deb8dd/has-native-css-parent-selector.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          }
+        },
+        {
           "id": "https://smashingmagazine.com/2021/06/image-optimization-book-release/",
           "author": "hello@smashingmagazine.com (Vitaly Friedman)",
           "description": "It’s here! For the last year, we’ve been working with Addy Osmani on a new Smashing Book all around image optimization. And now it’s here. Meet “Image Optimization”, our deep-dive guide to understand how to deliver high-quality images on the web fast.",
@@ -1385,6 +1399,96 @@
       "feedUrl": "https://www.cnbeta.com/backend.php",
       "siteUrl": "https://www.cnbeta.com",
       "articles": [
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1138717.htm",
+          "author": "ugmbbc",
+          "description": "6月9日消息，微信公众号“网络法实务圈”发表了一篇题为《伪装消费者恶意评价侵犯小米名誉权 （附判决书全文）》的文章，作者为浙江垦丁律师事务所联合创始人王琼飞律师。据了解，本案被告购买了两单小米10至尊纪念版手机。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1138717.htm",
+          "publishedOn": "2021-06-09T12:08:44.000Z",
+          "wordCount": 202,
+          "title": "小米遭起诉用户虚假差评索赔100万 法院判赔3万元"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1138715.htm",
+          "author": "ugmbbc",
+          "description": "邮票在相当长的一段时间以来作为“邮资凭证”使用，但是随着时代的发展、科技的进步，人与人之间的沟通可以通过更快速、方便的方式去实现，所以寄信也就越来越少了。这样一来，邮票也就成了集藏品。世界最古老集邮公司斯坦利·吉本斯宣布以830万美元买下世界上最昂贵邮票“英属圭亚那”，邮票将在公司旗舰店展出。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1138715.htm",
+          "publishedOn": "2021-06-09T12:03:26.000Z",
+          "wordCount": 197,
+          "title": "全球最贵邮票被拍出830万美元：最初价值仅1美分"
+        },
+        {
+          "id": "https://hot.cnbeta.com/articles/game/1138713.htm",
+          "author": "ugmbbc",
+          "description": "5月19日，微软Xbox Series X、Xbox Series S新世代游戏主机开启预售，6月10日零点也就是今天午夜，将正式开售。其中，国行版Xbox Series X的售价为3899元，Xbox Series S售价为2399元。\n 阅读全文",
+          "link": "https://hot.cnbeta.com/articles/game/1138713.htm",
+          "publishedOn": "2021-06-09T12:02:56.000Z",
+          "wordCount": 234,
+          "title": "国行Xbox Series X/S今夜零点开卖 2399元起"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1138711.htm",
+          "author": "ugmbbc",
+          "description": "6月9日云南北迁亚洲象群安全防范工作省级指挥部表示，截至6月8日17时，北迁象群总体朝西南方向迂回迁移1.8公里，持续在晋宁区夕阳乡活动。离群独象移动至象群东北方向，直线距离约10公里。目前，人象平安。但现场持续雷阵雨，监测防控困难，安全风险加大。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1138711.htm",
+          "publishedOn": "2021-06-09T12:01:08.000Z",
+          "wordCount": 190,
+          "title": "云南离群独象与象群距离增至10公里：现场持续雷阵雨监测防控困难"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1138709.htm",
+          "author": "ugmbbc",
+          "description": "五月初，IBM宣布2nm工艺制程取得重大技术突破引发一番热议，提醒业界5nm处理器已经大规模市场化，芯片巨头们也已进入下一轮制程竞赛：三星披露其即将推出的3nm工艺将基于下一代晶体管类型全栅极（GAA）FET，台积电也计划将FinFET扩展到3nm，然后到2024年左右迁移到2nm的纳米片FET。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1138709.htm",
+          "publishedOn": "2021-06-09T12:00:41.000Z",
+          "wordCount": 206,
+          "title": "制程与良率，谁才是芯片厂商的竞赛底牌？"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1138707.htm",
+          "author": "ugmbbc",
+          "description": "中国，既是世界上最大的手机消费国，也是世界上最大的手机生产国。2020 年，根据国家统计局数据，全国手机产量超过 14.8 亿部，而 2015 年巅峰时期这一数字曾来到 20 亿部。纵观 20 多年来中国手机制造产业的发展，其实就是全球手机产业格局的一面镜子，见证了诺基亚、摩托罗拉的悔恨，乔布斯、余承东、雷军的辉煌。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1138707.htm",
+          "publishedOn": "2021-06-09T11:59:56.000Z",
+          "wordCount": 449,
+          "title": "一年造20亿部手机背后 中国手机制造业风雨二十年"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1138705.htm",
+          "author": "ugmbbc",
+          "description": "6月9日消息，前佛罗里达州参议员、航天经验丰富的比尔·纳尔逊(Bill Nelson)已经开始掌舵美国国家航空航天局（NASA）。现在的NASA需要在2024年让宇航员顺利重返月球，需要让SpaceX等私营太空公司在太空探索领域发挥更大作用。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1138705.htm",
+          "publishedOn": "2021-06-09T11:58:05.000Z",
+          "wordCount": 195,
+          "title": "NASA局长：美军看见的UFO是什么我也不知道"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1138701.htm",
+          "author": "ugmbbc",
+          "description": "不管是新冠肺炎、疟疾，还是我们面临的其他任何全球性挑战，携手合作始终是我们前行的最佳方式。本文基于马克·苏斯曼在博鳌亚洲论坛全球健康论坛上的主旨发言内容编辑整理。眼下正是新冠肺炎疫情的关键节点。在发现首批病例的18个月后，全球已有几种疫苗正在推广。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1138701.htm",
+          "publishedOn": "2021-06-09T11:50:08.000Z",
+          "wordCount": 197,
+          "title": "盖茨基金会CEO：面对全球挑战 我们需要合作前行"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1138699.htm",
+          "author": "ugmbbc",
+          "description": "6月9日晚间消息，@快手小店 微博发布消息称，经快手电商核查，ZTE中兴官方旗舰店不涉及销售违规产品。快手电商非常重视与中兴手机的官方合作，即日起恢复“ZTE中兴”品牌招商。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1138699.htm",
+          "publishedOn": "2021-06-09T11:46:19.000Z",
+          "wordCount": 203,
+          "title": "快手电商：恢复“ZTE中兴”品牌招商"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1138697.htm",
+          "author": "ugmbbc",
+          "description": "2021年全国普通高校招生考试6月7日拉开帷幕。如何防范和打击利用无线电设备进行考试作弊的违法犯罪行为，为高考营造公平公正的环境？国家和地方无线电管理机构加强组织领导、加大协调配合、提前周密部署，全力做好今年高考无线电保障工作。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1138697.htm",
+          "publishedOn": "2021-06-09T11:36:27.000Z",
+          "wordCount": 190,
+          "title": "工信部无线电管理局：对疑似高考作弊信号立即进行排查、定位"
+        },
         {
           "id": "https://www.cnbeta.com/articles/tech/1138695.htm",
           "author": "raymon725",
