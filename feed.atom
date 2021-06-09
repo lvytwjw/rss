@@ -2,10 +2,208 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://lvytwjw.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-09T05:32:15.861Z</updated>
+    <updated>2021-06-09T06:18:04.283Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://lvytwjw.github.io/rss/index.html"/>
     <link rel="self" href="https://lvytwjw.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[科学家首次观察到在记忆试验中犯错时大脑关键区域的情况]]></title>
+        <id>https://www.cnbeta.com/articles/science/1138545.htm</id>
+        <link href="https://www.cnbeta.com/articles/science/1138545.htm"/>
+        <updated>2021-06-09T06:02:21.000Z</updated>
+        <summary type="html"><![CDATA[据外媒报道，通过在啮齿动物身上进行的一项新研究，科学家们首次对大脑错误回忆记忆的情况进行了观察。研究人员能够识别记忆实验中出现错误时的脑细胞激活模式，科学家认为这为了解阿尔茨海默病等记忆障碍的作用机制奠定了基础。
+ 阅读全文]]></summary>
+        <author>
+            <name>vivian</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[图]三星完成8nm射频技术开发：面积减少35%下功率增加35%]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1138543.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1138543.htm"/>
+        <updated>2021-06-09T06:01:06.000Z</updated>
+        <summary type="html"><![CDATA[世界先进半导体技术的领导者三星电子有限公司今天宣布完成了基于 8 纳米生产工艺的射频（RF） 技术的开发。这项尖端的代工技术有望提供“一个芯片解决方案”，尤其是通过支持多通道和多天线芯片设计增强 5G 网络通信。这项 8 纳米射频平台的推出将会进一步巩固三星在 5G 半导体市场的领导地位。
+ 阅读全文]]></summary>
+        <author>
+            <name>study875</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[观点:加密货币取代不了法定货币]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1138541.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1138541.htm"/>
+        <updated>2021-06-09T05:56:52.000Z</updated>
+        <summary type="html"><![CDATA[西班牙《国家报》网站6月6日发表文章《加密货币：目前仅仅是一场投机的货币革命》，作者阿尔瓦罗·桑切斯。全文摘编如下：尽管加密货币通常会因其极端波动性而引发恐慌，并且中央银行对其风险不断发出警告，但没有迹象表明加密货币处于悬崖边缘。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[特斯拉上海超级工厂5月份出口1.15万辆电动汽车 不及上一个月]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1138539.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1138539.htm"/>
+        <updated>2021-06-09T05:56:24.000Z</updated>
+        <summary type="html"><![CDATA[6月9日消息，据国外媒体报道，随着产能的提升，特斯拉上海超级工厂所生产的电动汽车，在去年就已开始出口，首批出口到欧洲市场的7000辆Model 3，在去年10月27日就已装船发往欧洲，分两批在11月底和12月初运抵了欧洲市场，而在今年1月份，也有报道称特斯拉准备将上海超级工厂生产的Model 3，出口至日本新西兰澳大利亚。
+ 阅读全文]]></summary>
+        <author>
+            <name>teikaei</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[比特币跌跌不休 多位分析师下看2万美元]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1138537.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1138537.htm"/>
+        <updated>2021-06-09T05:55:45.000Z</updated>
+        <summary type="html"><![CDATA[关注加密货币跌势的策略师表示，比特币又一个糟糕的一周可能预示着更多痛苦的到来。据Oanda、Evercore ISI与Tallbacken Capital Advisors的分析师称，比特币进一步走软可能会使2万美元区间成为下行目标。
+ 阅读全文]]></summary>
+        <author>
+            <name>teikaei</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[大众将提供按时计费的自动驾驶服务 每小时7欧元]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1138535.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1138535.htm"/>
+        <updated>2021-06-09T05:54:51.000Z</updated>
+        <summary type="html"><![CDATA[据外媒报道，大众汽车一名董事会成员在接受报纸采访时表示，该品牌正考虑提供按时计费的自动驾驶服务。负责大众品牌销售、营销和售后的Klaus Zellmer向德国《世界报》（Die Welt）表示，“关于自动驾驶，我们可以设想提供按时计费的服务，预计价格在每小时七欧元左右。因此，如果你不想自己驾驶三个小时，你可以支付21欧元去让车辆自动驾驶。”
+ 阅读全文]]></summary>
+        <author>
+            <name>teikaei</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[贝索斯上天记：退休第一件事，就是和全世界最爱的人一起“上天”]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1138533.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1138533.htm"/>
+        <updated>2021-06-09T05:54:00.000Z</updated>
+        <summary type="html"><![CDATA[“当你的哥哥突然成了世界上最有钱、最有名的男人，你看着他，然后努力回想你最早见到他时的样子。杰夫·贝索斯，那个建立了亚马逊帝国的男人，就是小时候让你给他挠脚的熊孩子。”在多年前一场采访时，马克·贝索斯表示。而现在，杰夫·贝索斯要带着这个爆料他挠脚的“最好的朋友、最爱的弟弟、遇过最搞笑的人“一起上天了。
+ 阅读全文]]></summary>
+        <author>
+            <name>vivian</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美国最大外卖平台DoorDash进军亚洲 首站登陆日本]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1138531.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1138531.htm"/>
+        <updated>2021-06-09T05:53:38.000Z</updated>
+        <summary type="html"><![CDATA[美国最大外卖平台DoorDash将把其按需送货服务引入日本，这是这家总部位于旧金山的公司为扩大其国际足迹而首次在亚洲扩张。该公司周三表示，将进入世界上餐厅密度最高的国家之一，首先在位于东京东北部的仙台市推出服务。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[雷诺发布Megane纯电动预告图 或2022年上市]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1138529.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1138529.htm"/>
+        <updated>2021-06-09T05:50:06.000Z</updated>
+        <summary type="html"><![CDATA[近日，雷诺发布了Megane纯电动量产车型的预告图，新车目前已经进入试生产阶段，或将于2022年正式上市销售。从官方发布的预告图看，虽然新车依旧有伪装，但无论是整车比例，还是车头灯等细节都与早前发布的Megane eVision紧凑级纯电概念车如出一辙。
+ 阅读全文]]></summary>
+        <author>
+            <name>teikaei</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[别克微蓝6新增车型上市 售19.53万元]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1138527.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1138527.htm"/>
+        <updated>2021-06-09T05:49:27.000Z</updated>
+        <summary type="html"><![CDATA[近日，邦老师从别克官方获悉，微蓝6新增了1款车型，售价19.53万元。新车相比其他在售车型差异不大，仅针对配置进行了一定的调整。微蓝6新增的互联共享型 PLUS可以看做是微蓝纯电动的入门版车型，相比互联时尚型 PLUS仅少了倒车影像、电池预加热这两项，但售价却便宜了5千元。
+ 阅读全文]]></summary>
+        <author>
+            <name>teikaei</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[高于Taycan 保时捷Macan EV续航里程达407-450公里]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1138525.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1138525.htm"/>
+        <updated>2021-06-09T05:48:52.000Z</updated>
+        <summary type="html"><![CDATA[据外媒报道，保时捷正式确认Macan EV的续航里程将达到407-450公里，这一数据高于目前的旗舰纯电车型Taycan。Macan EV基于奥迪与保时捷共同研发的PPE平台打造（Premium Platform Electric），奥迪e-tron GT、奥迪Q6 e-tron等车型也是基于PPE平台打造。
+ 阅读全文]]></summary>
+        <author>
+            <name>teikaei</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OPPO申请注册“OCAR”商标 或筹备造车]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1138523.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1138523.htm"/>
+        <updated>2021-06-09T05:47:25.000Z</updated>
+        <summary type="html"><![CDATA[日前，我们从企查查获悉，OPPO广东移动通信有限公司申请注册“OCAR”商标，国际分类为科学仪器，目前商标状态为等待实质审查。随着百度、小米、360等公司相继开始造车，互联网科技巨头都把造车看做下一个机会赛道，OPPO此举也在意料之中。
+ 阅读全文]]></summary>
+        <author>
+            <name>teikaei</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[中保研发布9款车测评结果：仅奔驰A级部分得“良”]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1138521.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1138521.htm"/>
+        <updated>2021-06-09T05:46:44.000Z</updated>
+        <summary type="html"><![CDATA[6月9日消息，刚刚，中保研公布了2021年第二批九款车型的碰撞测试结果，含2款轿车、6款SUV及1款MPV。值得一提的是，9款车型测评结果成绩均较好，仅奔驰A级部分得“良”。
+ 阅读全文]]></summary>
+        <author>
+            <name>teikaei</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[广州疫情源头在哪 多轮核酸检测为何仍有阳性？]]></title>
+        <id>https://www.cnbeta.com/articles/science/1138519.htm</id>
+        <link href="https://www.cnbeta.com/articles/science/1138519.htm"/>
+        <updated>2021-06-09T05:45:57.000Z</updated>
+        <summary type="html"><![CDATA[新闻1+1丨广州疫情源头在哪？多轮核酸检测为何仍有阳性？专家这么说→广州疫情已持续19天，突发疫情加高考，广州的压力与挑战可想而知。从6月4日开始，广州陆续启动了11个区的全市核酸检测大排查，除了不断加大核酸检测排查的范围，广州的防控手段和措施也在不断调整。
+ 阅读全文]]></summary>
+        <author>
+            <name>teikaei</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[官方回应福建一考点提前打铃：系工作失误]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1138517.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1138517.htm"/>
+        <updated>2021-06-09T05:45:30.000Z</updated>
+        <summary type="html"><![CDATA[据新华网报道，针对网传高考首日福州一考点高考语文科目提前打结束铃一事，6月9日凌晨，福建省教育厅发布了对福州一高考考点提前打结束铃的通报。通报称，6月7日上午，福州市仓山考区福建师范大学附中考点高考语文学科考试提前2分40秒打结束铃。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[影驰分享RTX 3080 Ti HOF OC Lab显卡外观]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1138515.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1138515.htm"/>
+        <updated>2021-06-09T05:43:42.000Z</updated>
+        <summary type="html"><![CDATA[在显卡超频领域，影驰（GALAX）名人堂（HOF）系列一直是许多极限爱好者的首选。随着英伟达 RTX 3080 Ti GPU 的上市，影驰也在近日的一篇 Facebook 帖子中晒出了 HOF 系列的 GeForce RTX 3080 Ti 显卡。尽管尚无拆解报告流出，但许多人猜测 GALAX RTX 3080 Ti HOF OC Lab 会采用与 RTX 3080 HOF OC Lab 相同的 PCB 设计。
+ 阅读全文]]></summary>
+        <author>
+            <name>raymon725</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[车企频频布局动力电池 但仍无法抛弃供应商]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1138513.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1138513.htm"/>
+        <updated>2021-06-09T05:42:32.000Z</updated>
+        <summary type="html"><![CDATA[随着汽车电动化的不断深入，以电机、电池和电驱动为代表的三电系统成为了车企最新的角逐方向。在这三个核心零部件中，动力电池则是最为关键的一个。而这就产生了一个新的问题，在以往的汽车产业中，像发动机这样的核心零部件一直都是掌握在车企自己手中，那么动力电池这样的核心零部件是不是也应该牢牢握在手中呢？
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[研究发现青蛙的牙齿在进化过程脱落超20次]]></title>
+        <id>https://www.cnbeta.com/articles/science/1138511.htm</id>
+        <link href="https://www.cnbeta.com/articles/science/1138511.htm"/>
+        <updated>2021-06-09T05:41:20.000Z</updated>
+        <summary type="html"><![CDATA[据外媒报道，科学家们早就知道，青蛙的牙齿非常奇怪。有些动物的上颚和上颚上长有细小的牙齿，有些则有尖牙状的结构，有些则完全没有牙齿。在7000多种蛙类中，只有一种青蛙在上下颌骨上都有真正的牙齿。
+ 阅读全文]]></summary>
+        <author>
+            <name>teikaei</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[WWDC 2021：苹果意外曝光Apple Watch“世界时区”新表盘]]></title>
         <id>https://www.cnbeta.com/articles/tech/1138509.htm</id>
