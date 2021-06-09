@@ -2,10 +2,329 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://lvytwjw.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-08T23:07:48.577Z</updated>
+    <updated>2021-06-09T00:26:02.363Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://lvytwjw.github.io/rss/index.html"/>
     <link rel="self" href="https://lvytwjw.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[美股奇谭：最牛制药股今年飙升逾9倍 一款产品都没有]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1138357.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1138357.htm"/>
+        <updated>2021-06-09T00:23:04.000Z</updated>
+        <summary type="html"><![CDATA[Cassava Sciences是美国一家制药商，创办23年来还没有推出过一款产品，但这并不妨碍其成为今年涨势最猛的生物科技股，累计已上涨925%。在这只股票神奇上涨的背后，既有对该公司处于早期研究阶段的一款阿尔茨海默症药物的乐观情绪，也有散户投资者交易狂潮的推波助澜。
+ 阅读全文]]></summary>
+        <author>
+            <name>teikaei</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CISA推平台以让黑客向美国联邦机构报告安全漏洞]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1138355.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1138355.htm"/>
+        <updated>2021-06-09T00:21:25.000Z</updated>
+        <summary type="html"><![CDATA[据外媒Techcrunch报道，美国网络安全和基础设施安全局(CISA)启动了一项漏洞披露计划，其允许有道德的黑客向联邦机构报告安全漏洞。据悉，该平台在网络安全公司Bugcrowd和Endyna的帮助下推出，它将允许民间联邦机构接收、分类和修复来自更广泛的安全社区的安全漏洞。
+ 阅读全文]]></summary>
+        <author>
+            <name>teikaei</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[发布会上没提到的 iOS 15 新功能：一般音乐也能模拟成空间化立体声]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1138353.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1138353.htm"/>
+        <updated>2021-06-09T00:17:10.000Z</updated>
+        <summary type="html"><![CDATA[在 WWDC2021 开发者大会开幕后，苹果公司如期在 Apple Music 中推出了无损音乐和杜比全景声。但苹果没提到的是，他们扩大了对空间音频 （Spatial Audio） 的支持范围，如果用 AirPods Pro 等耳机听一般立体声音乐，也能感受到。
+ 阅读全文]]></summary>
+        <author>
+            <name>study875</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[苹果升级“Move to iOS”：现可迁移Android设备上文件和辅助设置]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1138351.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1138351.htm"/>
+        <updated>2021-06-09T00:15:36.000Z</updated>
+        <summary type="html"><![CDATA[为了帮助 iPhone 用户顺利从 Android 设备中过渡，苹果推出了名为“Move to iOS”的 Android 应用程序，能将包括联系人、短信历史、照片和视频、网络书签、电子邮件账号信息、日历、无DRM的歌曲、壁纸等内容迁移。
+ 阅读全文]]></summary>
+        <author>
+            <name>study875</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[近四成00后选择倍速观看视频 年轻人到底在赶什么？]]></title>
+        <id>https://hot.cnbeta.com/articles/movie/1138349.htm</id>
+        <link href="https://hot.cnbeta.com/articles/movie/1138349.htm"/>
+        <updated>2021-06-09T00:14:51.000Z</updated>
+        <summary type="html"><![CDATA[近日发布的有关网络视听研究报告显示，截至2020年12月，中国网络视听用户规模达9.44亿人，较2020年6月增长4321万人，网民使用率为95.4%，短视频用户达8.73亿人；用户平均每天花两小时看短视频，28.2%的网络视频用户不按原速观看视频节目，00后群体近4成选择倍速观看方式。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[报道称辉瑞正在12岁以下儿童中测试较低剂量的COVID-19疫苗]]></title>
+        <id>https://www.cnbeta.com/articles/science/1138347.htm</id>
+        <link href="https://www.cnbeta.com/articles/science/1138347.htm"/>
+        <updated>2021-06-09T00:12:13.000Z</updated>
+        <summary type="html"><![CDATA[据外媒CNET报道，周二的一份报告称，辉瑞公司的COVID-19疫苗将开始在美国、西班牙、芬兰和西班牙的4500名12岁以下儿童中使用低剂量进行测试。据路透社报道，在这之前，辉瑞公司在144名儿童的早期试验中测试了较高剂量的疫苗。
+ 阅读全文]]></summary>
+        <author>
+            <name>vivian</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[5G为什么耗电？小米张国全：国内所有手机默认打开了5G SA]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1138345.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1138345.htm"/>
+        <updated>2021-06-09T00:11:52.000Z</updated>
+        <summary type="html"><![CDATA[6月9日凌晨，小米手机系统软件部总监张国全发文表示收到了很多用户吐槽手机耗电的问题。张国全指出，最近响应运营商要求，国内所有手机都默认打开了5G SA。从数据上看，5G在网率相当惊人，但SA相对LTE，使用中功耗增加170mA左右，部分地区网络甚至增加300mA。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[苹果正指导开发者为App适配高刷新率]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1138343.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1138343.htm"/>
+        <updated>2021-06-09T00:10:13.000Z</updated>
+        <summary type="html"><![CDATA[在WWDC21开幕演讲中，苹果并未公布任何硬件产品。传言的MacBook Pro据说要等到三季度出货，看来有望与iPhone 13系列同场推出。据开发者Ryan Jones爆料，今年WWDC议程中有一项分会，时间6月11日，内容是指导开发者如何为App适配高刷新率显示屏。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Colonial Pipeline CEO参议院作证：向黑客支付赎金的决定是迅速做出的]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1138341.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1138341.htm"/>
+        <updated>2021-06-09T00:01:49.000Z</updated>
+        <summary type="html"><![CDATA[据外媒CNET报道，Colonial Pipeline公司首席执行官约瑟夫-布朗特（Joseph Blount）周二表示，他的公司在5月初发现其系统中的恶意软件后的一天，向黑客支付了440万美元赎金。该公司还聘请了外部顾问来处理与黑客的谈判，赎金是以比特币加密货币支付的。在参议院国土安全和政府事务委员会作证的布朗特说，5月8日支付赎金的决定是由公司自己做出的。然而，联邦当局在发现黑客攻击的几个小时内就被通知了。
+ 阅读全文]]></summary>
+        <author>
+            <name>vivian</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美CDC在奥运会前放宽了对日本和其他国家的旅游限制]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1138339.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1138339.htm"/>
+        <updated>2021-06-09T00:01:01.000Z</updated>
+        <summary type="html"><![CDATA[据外媒报道，美国疾病控制与预防中心(CDC)日前修订了前往日本旅游的建议。据路透社报道，美CDC于当地时间周一将日本的风险评估从高度禁止的4级降到相对宽松的3级，进而使其跟该其他61个国家的排名并列。另外，美CDC还告诉路透社，另有50个国家降至2级或1级。
+ 阅读全文]]></summary>
+        <author>
+            <name>teikaei</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[图]tvOS 15新特性：可用iPhone的FaceID/TouchID登录应用]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1138337.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1138337.htm"/>
+        <updated>2021-06-08T23:59:07.000Z</updated>
+        <summary type="html"><![CDATA[在 tvOS 15 中，苹果简化了使用 iPhone 来替代常规账号密码的过程，允许用户使用 Face ID 和 Touch ID 进行认证。开发人员能实现新的 tvOS 功能，通过 iPhone 端的 Touch ID 和 Face ID 来验证购买和签署应用程序。
+ 阅读全文]]></summary>
+        <author>
+            <name>study875</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NASA“朱诺号”探测器捕捉到了冰冷卫星“木卫三”惊人新画面]]></title>
+        <id>https://www.cnbeta.com/articles/science/1138335.htm</id>
+        <link href="https://www.cnbeta.com/articles/science/1138335.htm"/>
+        <updated>2021-06-08T23:51:24.000Z</updated>
+        <summary type="html"><![CDATA[据外媒报道，今年1月，NASA延长了研究木星的“朱诺号”宇宙飞船的任务并赋予了它一个新的探索领域：这颗气体巨星的狂野卫星。现在，“朱诺号”给我们带来了木星最大卫星--木卫三令人惊叹的最新特写图像。
+ 阅读全文]]></summary>
+        <author>
+            <name>teikaei</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NASA调查太阳上戏剧性的“罗塞塔石碑”喷发事件]]></title>
+        <id>https://www.cnbeta.com/articles/science/1138333.htm</id>
+        <link href="https://www.cnbeta.com/articles/science/1138333.htm"/>
+        <updated>2021-06-08T23:45:47.000Z</updated>
+        <summary type="html"><![CDATA[据外媒CNET报道，在我们太阳系的中心有一颗“喜怒无常”的炎热星球，科学家想知道是什么原因导致它偶尔爆发。一个“戏剧性的、多阶段的喷发”是一项新研究的主题。美国宇航局（NASA）将其称为 "太阳罗塞塔石碑"。
+ 阅读全文]]></summary>
+        <author>
+            <name>vivian</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Electrify America推2级家用充电器：更易安装、售价649美元]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1138331.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1138331.htm"/>
+        <updated>2021-06-08T23:40:55.000Z</updated>
+        <summary type="html"><![CDATA[据外媒报道，Electrify America 2级家用充电器现已面向消费者推出，Electrify Home HomeStation承诺为用户带来跟公共充电及智能电源管理更平滑的同步服务。这款充电器最高可充电9.6 kW，是该公司推出的最快的家用充电器，虽然这仍意味着消费者无法获得Electrify America在公共场所看到的那种直流快速充电速率，但它仍比许多竞争对手快。
+ 阅读全文]]></summary>
+        <author>
+            <name>teikaei</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[快递行业竞争加码 企业纷纷以低价吸引电商]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1138329.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1138329.htm"/>
+        <updated>2021-06-08T23:39:02.000Z</updated>
+        <summary type="html"><![CDATA[同城和异地快递均价“倒挂”、头部企业财务状况承压、基层快递网点经营举步维艰、快递员派费收入不断压缩……近几年格局相对稳定的快递行业又掀起新一轮价格战。随着“6·18”大促将至，快递企业纷纷以低价吸引电商。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[福奇：不能让自印度发现的新冠病毒变异株在美国广泛传播]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1138327.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1138327.htm"/>
+        <updated>2021-06-08T23:37:27.000Z</updated>
+        <summary type="html"><![CDATA[在美国白宫当地时间6月8日召开的疫情简报会上，美国国家过敏和传染病研究所所长福奇（Anthony Fauci）呼吁民众尽快接种新冠疫苗，以防止自印度发现的新冠病毒变异株在美国成为主要毒株，在美国广泛传播。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[电动汽车初创公司Lordstown资金告急：可能熬不过一年]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1138325.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1138325.htm"/>
+        <updated>2021-06-08T23:36:54.000Z</updated>
+        <summary type="html"><![CDATA[去年10月末上市的电动汽车初创公司Lordstown Motors周二在一份监管文件中披露，可能没有足够的资金将其首款皮卡推向市场，而且如果不能筹集到更多资金，可能也无法在未来12个月内继续作为一家公司存在下去。
+ 阅读全文]]></summary>
+        <author>
+            <name>vivian</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[比特币技术面看跌 日线图濒临“死亡交叉”]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1138323.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1138323.htm"/>
+        <updated>2021-06-08T23:36:47.000Z</updated>
+        <summary type="html"><![CDATA[随着比特币本周下跌，敏锐的技术分析师注意到一个可能不祥的技术突破即将形成：名为“死亡交叉”的看跌形态。这个全球最大的数字货币价格下跌，导致50日均线正在接近200日均线。如果跌破，则形成那个可怕的形态。
+ 阅读全文]]></summary>
+        <author>
+            <name>teikaei</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美议员批评阿尔兹海默症新药每年5.6万美元定价过高]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1138321.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1138321.htm"/>
+        <updated>2021-06-08T23:36:11.000Z</updated>
+        <summary type="html"><![CDATA[百健（Biogen）研发的阿尔茨海默症治疗药物刚刚获得美国监管机构批准一天后，其价格就遭到了民主党议员的批评。美国众议院监督委员会主席卡罗琳·马洛尼（Carolyn Maloney）在一份电子邮件声明中表示，百健的Aduhelm售价为每年5.6万美元，“可能会让联邦医疗保险计划（Medicare）花费数十亿美元”。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[《瑞奇与叮当：分离》已证明不加班也能做出好游戏]]></title>
+        <id>https://hot.cnbeta.com/articles/game/1138319.htm</id>
+        <link href="https://hot.cnbeta.com/articles/game/1138319.htm"/>
+        <updated>2021-06-08T23:33:37.000Z</updated>
+        <summary type="html"><![CDATA[随着游戏规模的不断扩大，不知道从什么时候开始加班已经成为游戏行业内司空见惯的常态，特别是《荒野大镖客2》《赛博朋克2077》这样的大制作，为了保证游戏按时发售，开发团队成员都经历过严重的加班，但是对于一款即将发售的PS5独占动作游戏来说，它的制作人员却都很幸运地没有加过班。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[人人视频遭下架 影视盗版江湖终将消亡]]></title>
+        <id>https://hot.cnbeta.com/articles/movie/1138317.htm</id>
+        <link href="https://hot.cnbeta.com/articles/movie/1138317.htm"/>
+        <updated>2021-06-08T23:31:40.000Z</updated>
+        <summary type="html"><![CDATA[6月6日，人人视频App突遭下架。截至6月8日发稿，记者在App Store的应用商店中仍未搜索到相关应用，尽管已下载的用户使用不受影响，但是App中的短视频栏目“快看”宣布停更整改。目前打开“快看”栏目显示的是官方发布的整改通知，通知称将“针对问题内容进行坚决治理，对问题严重、影响恶劣的账号及违规内容，从严从重处置。”
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[教育部关于湖北省某高考考生考中作弊事件有关情况的通报]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1138315.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1138315.htm"/>
+        <updated>2021-06-08T23:30:25.000Z</updated>
+        <summary type="html"><![CDATA[6月7日湖北省某高考考生手机作弊事件，为考生开考后用手机拍照发送考题，系考中个人作弊，不存在考前泄题。教育部第一时间责成湖北省立即开展调查，严肃处理。经查，该考生在进入考场接受安检时，将手机藏于手拿的薄衣内，高举双手避开了安检，违规将手机带入考场。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[叮咚买菜向美SEC提交IPO招股书：暂定筹资1亿美元]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1138313.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1138313.htm"/>
+        <updated>2021-06-08T23:26:38.000Z</updated>
+        <summary type="html"><![CDATA[新浪科技讯 叮咚买菜今日向美国证券交易委员会（SEC）提交了IPO（首次公开招股）上市申请文件。招股书显示，叮咚买菜计划在纽约证券交易所挂牌上市，摩根士丹利（MS.N）、美国银行、瑞士信贷等均为IPO承销商，股票代码为“DDL”，用作“占位符”的暂定最高筹资额为1亿美元，但这一数字并无实际意义。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[俄亥俄州提起诉讼 欲将谷歌列为公共事业单位]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1138311.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1138311.htm"/>
+        <updated>2021-06-08T23:25:52.000Z</updated>
+        <summary type="html"><![CDATA[本周二，俄亥俄州（Ohio）要求一家法院宣布Alphabet旗下的谷歌公司为公共事业公司。该州共和党司法部长表示，这一举措将禁止这家搜索和广告巨头为自己的产品提供优惠待遇。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[任天堂Switch Pro配置曝光：5nm CPU、原生120帧]]></title>
+        <id>https://hot.cnbeta.com/articles/game/1138309.htm</id>
+        <link href="https://hot.cnbeta.com/articles/game/1138309.htm"/>
+        <updated>2021-06-08T23:24:36.000Z</updated>
+        <summary type="html"><![CDATA[任天堂定于北京时间6月16日0点举办E3直面会，除了游戏，主角还可能包括Switch Pro。最新消息称，Switch Pro换装的是一颗5nm CPU，相较于初代的Tegra X1（20nm）或长续航版的Tegra X1+（16nm）可谓升级巨大。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[升了，又好像没升 苹果iOS 15上手体验]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1138307.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1138307.htm"/>
+        <updated>2021-06-08T23:15:43.000Z</updated>
+        <summary type="html"><![CDATA[北京时间6月8日凌晨，一年一度的苹果WWDC大会在线上正式举行。本次大会苹果带来了以iPadOS 15、macOS Monterey、watchOS8为代表的OS全家桶，哦对了还有令人大失所望的iOS 15。更令人失望的是，本次WWDC大会上并没有见到此前被传得沸沸扬扬的M1芯片版MacBook Pro 16&AirPods 3等新硬件的身影。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[特斯拉上海车展维权女车主凌晨发声 自称被网友人身攻击和污蔑]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1138305.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1138305.htm"/>
+        <updated>2021-06-08T23:11:00.000Z</updated>
+        <summary type="html"><![CDATA[6月9日凌晨1点，曾经在上海车展特斯拉展台维权的女车主张女士发声。张女士发文表示，从车站维权事件开始，本人遭受到了很多人身攻击以及污蔑。比如最近有人用老赖、失信人等谣言对张女士进行污化，将其塑造为一名老赖。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Xcode 13 测试版确认 Mac Pro 即将迎来英特尔处理器更新]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1138303.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1138303.htm"/>
+        <updated>2021-06-08T23:09:41.000Z</updated>
+        <summary type="html"><![CDATA[在 Xcode 13 测试版中，确认 Mac Pro 未来可能会升级全新 Intel 处理器。这款处理器是至强 Scalable ，Ice Lake SP。这款处理器今年4月发布，提供先进的性能、安全、效率，内置的 AI 加速处理物联网工作负载并提供更强大的 AI 功能。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[macOS Monterey：这些新功能是 M1 Mac 专属]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1138301.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1138301.htm"/>
+        <updated>2021-06-08T23:08:24.000Z</updated>
+        <summary type="html"><![CDATA[苹果在 WWDC21 上正式发布了 macOS 12 Monterey，主打功能包括全新设计的 Safari、通用控制等功能。虽然苹果没有专门介绍，但 macOS Monterey 某些新功能仅限于 M1 Mac，Intel Mac 并不支持。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[第三代垃圾收集器问世 阻止塑料垃圾进入海洋]]></title>
         <id>https://www.cnbeta.com/articles/tech/1138299.htm</id>
@@ -77,6 +396,17 @@
         <link href="https://www.cnbeta.com/articles/tech/1138289.htm"/>
         <updated>2021-06-08T19:57:30.000Z</updated>
         <summary type="html"><![CDATA[劳斯莱斯的船尾车是一款极其豪华独一无二的汽车，它在成本上没有任何让步。劳斯莱斯现在希望将其设计精神带到手表上。该汽车制造商与有近200年历史的瑞士钟表公司Bovet 1822合作，创造了一对高度复杂和独特的计时器，不仅可以戴在手腕上，还可以用作台钟或怀表，但更有趣的是，它们可以放在船尾车仪表板的钛合金外壳中，作为汽车的时钟使用。
+ 阅读全文]]></summary>
+        <author>
+            <name>maomao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[勒索软件黑客攻击了又一家管道公司 70GB数据已经泄露]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1138287.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1138287.htm"/>
+        <updated>2021-06-08T19:29:12.000Z</updated>
+        <summary type="html"><![CDATA[当勒索软件黑客上个月攻击Colonial Pipeline并关闭了美国东海岸大部分地区的天然气输送时，世界意识到石化管道行业被黑客破坏的危险。现在看来，另一家以管道为重点的企业也在同一时间受到勒索软件的攻击，但它却对自己的漏洞却保持沉默，即使黑客已经在暗网上公布了70GB的内部文件。
  阅读全文]]></summary>
         <author>
             <name>maomao</name>
