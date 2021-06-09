@@ -1386,6 +1386,114 @@
       "siteUrl": "https://www.cnbeta.com",
       "articles": [
         {
+          "id": "https://www.cnbeta.com/articles/tech/1138501.htm",
+          "author": "raymon725",
+          "description": "苹果为 iOS 15 引入了多项以隐私为重点的改进，比如为邮件 App 内置了全新的反追踪防护措施、在 App 权限描述部分提示对敏感信息（比如定位）的访问频次、以及可在本机设备上完成的 Siri 语音处理等。与此同时，iOS 15 也有诸多相对微小的体验改进，比如为开发者提供了可内置于 App 中的全新的“安全粘贴”功能。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1138501.htm",
+          "publishedOn": "2021-06-09T04:26:29.000Z",
+          "wordCount": 245,
+          "title": "严管剪贴板访问：iOS 15内置了安全粘贴功能"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1138499.htm",
+          "author": "study875",
+          "description": "在 Find X 加速破局，致力成为中国高端手机 TOP3 玩家的同时，OPPO 的 Reno 系列也在深耕年轻大众市场，以高颜值.优手感为敲门砖、以强影像、快充为特色，不断满足年轻用户的核心需求。自 2019 年 3 月官宣以来，Reno 系列如今已发展到了第 6 代，已经从年轻群体辐射出去覆盖更多的用户群体。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1138499.htm",
+          "publishedOn": "2021-06-09T04:00:01.000Z",
+          "wordCount": 613,
+          "title": "[图]OPPO Reno6 Pro评测：高颜值 强影像 重游戏"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1138497.htm",
+          "author": "ugmbbc",
+          "description": "众所周知，心血管疾病是全球第一大死因，而心脏支架作为心脏介入手术中常用的医疗器械，拥有着巨大的市场。随着去年心脏支架国家集采落地，心脏支架的价格从数万元降至几百元，那么数百元的支架还能安全使用吗？\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1138497.htm",
+          "publishedOn": "2021-06-09T03:56:22.000Z",
+          "wordCount": 187,
+          "title": "心脏支架从数万元降至几百元能安全使用吗？官方回应：放心使用"
+        },
+        {
+          "id": "https://hot.cnbeta.com/articles/game/1138495.htm",
+          "author": "raymon725",
+          "description": "作为应用程序与游戏设计师 Panic 在硬件方面的初次尝试，配备单色屏幕的手摇式复古掌机 Playdate 终于敲定了售价和上市日期。自 2019 年以来，我们已经听说了一系列惊喜功能。感兴趣的朋友，可在下月开启的预售窗口期内，拿出 179 美元（约 1145 RMB）去支持一下。\n 阅读全文",
+          "link": "https://hot.cnbeta.com/articles/game/1138495.htm",
+          "publishedOn": "2021-06-09T03:50:11.000Z",
+          "wordCount": 223,
+          "title": "Playdate掌机将于下月开放预购：24款单色游戏 售179美元"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1138493.htm",
+          "author": "ugmbbc",
+          "description": "东京奥组委主席桥本圣子昨天表示，东京奥运会期间将利用手机GPS定位系统严格跟踪来自海外媒体人士的活动范围，媒体酒店也将从之前的350家集中到150家。东京奥组委昨天召开理事会，这也是东京奥运会开幕前的最后一次理事会。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1138493.htm",
+          "publishedOn": "2021-06-09T03:49:48.000Z",
+          "wordCount": 192,
+          "title": "东京奥组委将用GPS跟踪记者 媒体酒店数量减半"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1138491.htm",
+          "author": "study875",
+          "description": "在今天早些时候发布 Hammerhead True Wireless X 新款耳机之前，雷蛇（Razer）对 Android 端的 Razer Audio 应用进行了更新。在最新的 3.2.0.924 版本更新中，在罗列的兼容性列表中出现了一个尚未发布的新设备。该应用中显示兼容 Razer Opus X，这应该是尚未发布的耳罩式耳机，有多种有吸引力的颜色。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1138491.htm",
+          "publishedOn": "2021-06-09T03:49:01.000Z",
+          "wordCount": 272,
+          "title": "[图]雷蛇Razer Opus X耳罩式耳机偷跑 多种颜色 配USB-C端口"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/science/1138489.htm",
+          "author": "teikaei",
+          "description": "据外媒报道，来自巴斯大学的物理学家通过跟美国的研究人员合作发现了一种使磁性和超导性在同一种材料中共存的新机制。截止到目前，科学家们只能猜测这种不寻常的共存是如何成为可能的。这一发现可能会为绿色能源技术和超导设备如下一代计算机硬件的开发中带来应用。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/science/1138489.htm",
+          "publishedOn": "2021-06-09T03:36:06.000Z",
+          "wordCount": 191,
+          "title": "物理学家发现能使磁性和超导共存于同一材料的新机制"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1138487.htm",
+          "author": "study875",
+          "description": "最新曝光的美国国税局 （IRS） 机密税务文件显示 ，2007 年和 2011 年，亚马逊CEO、 亿万富翁杰夫·贝索斯 （Jeff Bezos） 没有缴纳任何联邦所得税。贝索斯目前被《福布斯》列为全球首富，净资产达到 1888 亿美元。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1138487.htm",
+          "publishedOn": "2021-06-09T03:34:25.000Z",
+          "wordCount": 264,
+          "title": "净资产 1888 亿美元 全球首富贝索斯 2007 至 2011 年税款为零"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/science/1138485.htm",
+          "author": "study875",
+          "description": "不久前，美国国防部宣布，将于 6 月 25 日向国会提交一份关于不明飞行物（下文简称为 UFO） 的报告。这份报告中，将会出现近 20 年足足 120 多起的，被筛选过的 UFO 目击事件和资料。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/science/1138485.htm",
+          "publishedOn": "2021-06-09T03:33:35.000Z",
+          "wordCount": 288,
+          "title": "美军到底在 51 区藏了多少外星人？"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/science/1138483.htm",
+          "author": "study875",
+          "description": "美国宇航局今日公布了朱诺号木星探测器拍摄的木卫三近距离照片。这也是自 2000 年 5 月 20 日伽利略号探测器近距离飞掠木卫三之后 ，21 年来首次有航天器近距离探测木卫三。朱诺号是在北京时间 6 月 8 日凌晨 1 时 35 分开始近距离飞掠木卫三的，距离木卫三最近只有 1038 公里。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/science/1138483.htm",
+          "publishedOn": "2021-06-09T03:32:36.000Z",
+          "wordCount": 245,
+          "title": "NASA“朱诺号”探测器发回太阳系最大卫星“木卫三”惊人新画面"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1138481.htm",
+          "author": "raymon725",
+          "description": "近日有传闻称，AMD 有望在同一时间段内推出下一代 Zen 4 处理器和 RDNA 3 显卡新品。知名爆料人 @Broly_X1 在 Twitter 上透露，此事或于 2020 年 4 季度发生，届时影响全球半导体行业的芯片短缺状况或得到有效缓解。此前，他还抢先泄露过 AMD 的台北电脑展主题演讲内容，并在 Radeon Pro 专业卡发布前放出了风声。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1138481.htm",
+          "publishedOn": "2021-06-09T03:32:24.000Z",
+          "wordCount": 288,
+          "title": "AMD锐龙7000 CPU和Radeon 7000系列显卡或于明年4季度到来"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1138479.htm",
+          "author": "study875",
+          "description": "据半导体行业观察记者从多方获悉，本土手机巨头小米正在招募团队，重新杀入手机芯片赛道。知情人士告诉半导体行业观察记者，小米现在正在与相关 IP 供应商正在进行授权谈判，但公司已经开始在外面招募团队。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1138479.htm",
+          "publishedOn": "2021-06-09T03:31:20.000Z",
+          "wordCount": 320,
+          "title": "小米重组团队，做手机芯片"
+        },
+        {
           "id": "https://hot.cnbeta.com/articles/game/1138477.htm",
           "author": "study875",
           "description": "来自世界各地的独立开发者捐赠了 1000 多款游戏，为巴勒斯坦援助组织筹集资金。外国独立游戏网站 itch.io 上的巴勒斯坦援助独立捆绑包目前包含 1019 个游戏，包括开发者和媒体创作者捐赠的游戏本体、游戏制作资源和配乐。\n 阅读全文",
