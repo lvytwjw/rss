@@ -844,6 +844,15 @@
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
         {
+          "id": "60bfa4d4d3126007592d5160",
+          "author": null,
+          "description": "Throughout this post we’ll deploy your freeCodeCamp front end project using various services on AWS like S3, ElasticBeanstalk, and Lambda.",
+          "link": "https://www.freecodecamp.org/news/how-to-deploy-your-freecodecamp-project-on-aws/",
+          "publishedOn": "2021-06-08T23:47:43.000Z",
+          "wordCount": 9491,
+          "title": "How to Deploy Your freeCodeCamp Project on AWS – A Beginner&#x27;s Guide to the Cloud"
+        },
+        {
           "id": "60bfd986d3126007592d53a1",
           "author": null,
           "description": "Arduino is an open-source electronics platform based on easy-to-use hardware and software. Arduino boards are able to read inputs - light on a sensor, a finger on a button, or a Twitter message - and turn it into an output - activating a motor, turning on an LED, publishing something",
@@ -1408,6 +1417,15 @@
       "feedUrl": "https://www.cnbeta.com/backend.php",
       "siteUrl": "https://www.cnbeta.com",
       "articles": [
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1138781.htm",
+          "author": "maomao",
+          "description": "HMD Global在俄罗斯推出了一款新的入门级智能手机诺基亚C01 Plus，它属于诺基亚C系列经济型智能手机。诺基亚C01 Plus预装Android 11 Go操作系统，它是一个为硬件资源较少的智能手机量身定做的精简版操作系统。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1138781.htm",
+          "publishedOn": "2021-06-09T18:10:48.000Z",
+          "wordCount": 220,
+          "title": "诺基亚在俄罗斯推出C01 Plus入门级智能手机 采用展讯芯片组"
+        },
         {
           "id": "https://hot.cnbeta.com/articles/game/1138779.htm",
           "author": "ugmbbc",

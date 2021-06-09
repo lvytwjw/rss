@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://lvytwjw.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-09T17:37:08.538Z</updated>
+    <updated>2021-06-09T18:26:07.767Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://lvytwjw.github.io/rss/index.html"/>
     <link rel="self" href="https://lvytwjw.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[诺基亚在俄罗斯推出C01 Plus入门级智能手机 采用展讯芯片组]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1138781.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1138781.htm"/>
+        <updated>2021-06-09T18:10:48.000Z</updated>
+        <summary type="html"><![CDATA[HMD Global在俄罗斯推出了一款新的入门级智能手机诺基亚C01 Plus，它属于诺基亚C系列经济型智能手机。诺基亚C01 Plus预装Android 11 Go操作系统，它是一个为硬件资源较少的智能手机量身定做的精简版操作系统。
+ 阅读全文]]></summary>
+        <author>
+            <name>maomao</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[《战地2042》10月23日发售 6月13公开实机演示]]></title>
         <id>https://hot.cnbeta.com/articles/game/1138779.htm</id>
@@ -2450,6 +2461,16 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
  阅读全文]]></summary>
         <author>
             <name>teikaei</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Deploy Your freeCodeCamp Project on AWS – A Beginner&#x27;s Guide to the Cloud]]></title>
+        <id>60bfa4d4d3126007592d5160</id>
+        <link href="https://www.freecodecamp.org/news/how-to-deploy-your-freecodecamp-project-on-aws/"/>
+        <updated>2021-06-08T23:47:43.000Z</updated>
+        <summary type="html"><![CDATA[Throughout this post we’ll deploy your freeCodeCamp front end project using various services on AWS like S3, ElasticBeanstalk, and Lambda.]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
         </author>
     </entry>
     <entry>
