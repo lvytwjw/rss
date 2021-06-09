@@ -844,6 +844,15 @@
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
         {
+          "id": "60c0ccbed3126007592d5781",
+          "author": null,
+          "description": "Here's the bottom line: you don't need much to get started as a freelance developer.  The biggest obstacle developers face when they're thinking about getting started is that they tend to overcomplicate things.  Most are intimidated by the sheer number of different paths or skills deemed necessary by various blog",
+          "link": "https://www.freecodecamp.org/news/the-skills-you-need-to-start-freelancing/",
+          "publishedOn": "2021-06-09T19:45:20.000Z",
+          "wordCount": 1731,
+          "title": "The Skills You Need to Start Freelancing as a Developer"
+        },
+        {
           "id": "60c10a1dd3126007592d5988",
           "author": null,
           "description": "Bootstrap is one of the most popular CSS frameworks and Sass is one of the most popular preprocessors for CSS. We just released a course on the freeCodeCamp.org YouTube channel that will teach you about Bootstrap 5 and Sass by building a portfolio website. Patrick Muriungi developed this course.",
@@ -1426,6 +1435,15 @@
       "feedUrl": "https://www.cnbeta.com/backend.php",
       "siteUrl": "https://www.cnbeta.com",
       "articles": [
+        {
+          "id": "https://www.cnbeta.com/articles/soft/1138793.htm",
+          "author": "maomao",
+          "description": "上个月，端对端加密电子邮件服务ProtonMail正式宣布在全球范围内获得超过5千万用户。现在，ProtonMail更新了其设计，采用更简洁的外观和更可定制的用户界面，其中包括用户对主题选择的能力。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/soft/1138793.htm",
+          "publishedOn": "2021-06-09T19:29:18.000Z",
+          "wordCount": 200,
+          "title": "ProtonMail更新外界设计 采用更简洁的外观并且用户可以选择不同主题"
+        },
         {
           "id": "https://www.cnbeta.com/articles/tech/1138791.htm",
           "author": "ugmbbc",

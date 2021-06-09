@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://lvytwjw.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-09T19:21:42.468Z</updated>
+    <updated>2021-06-09T20:06:59.867Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://lvytwjw.github.io/rss/index.html"/>
     <link rel="self" href="https://lvytwjw.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[The Skills You Need to Start Freelancing as a Developer]]></title>
+        <id>60c0ccbed3126007592d5781</id>
+        <link href="https://www.freecodecamp.org/news/the-skills-you-need-to-start-freelancing/"/>
+        <updated>2021-06-09T19:45:20.000Z</updated>
+        <summary type="html"><![CDATA[Here's the bottom line: you don't need much to get started as a freelance developer.  The biggest obstacle developers face when they're thinking about getting started is that they tend to overcomplicate things.  Most are intimidated by the sheer number of different paths or skills deemed necessary by various blog]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ProtonMail更新外界设计 采用更简洁的外观并且用户可以选择不同主题]]></title>
+        <id>https://www.cnbeta.com/articles/soft/1138793.htm</id>
+        <link href="https://www.cnbeta.com/articles/soft/1138793.htm"/>
+        <updated>2021-06-09T19:29:18.000Z</updated>
+        <summary type="html"><![CDATA[上个月，端对端加密电子邮件服务ProtonMail正式宣布在全球范围内获得超过5千万用户。现在，ProtonMail更新了其设计，采用更简洁的外观和更可定制的用户界面，其中包括用户对主题选择的能力。
+ 阅读全文]]></summary>
+        <author>
+            <name>maomao</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[官方页面显示Windows将迎来类似于macOS的代号命名法]]></title>
         <id>https://www.cnbeta.com/articles/tech/1138791.htm</id>
