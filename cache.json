@@ -844,6 +844,15 @@
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
         {
+          "id": "60c10a1dd3126007592d5988",
+          "author": null,
+          "description": "Bootstrap is one of the most popular CSS frameworks and Sass is one of the most popular preprocessors for CSS. We just released a course on the freeCodeCamp.org YouTube channel that will teach you about Bootstrap 5 and Sass by building a portfolio website. Patrick Muriungi developed this course.",
+          "link": "https://www.freecodecamp.org/news/learn-bootstrap-5-and-sass-by-building-a-portfolio-website/",
+          "publishedOn": "2021-06-09T18:43:07.000Z",
+          "wordCount": 336,
+          "title": "Learn Bootstrap 5 and SASS by Building a Portfolio Website"
+        },
+        {
           "id": "60bfa4d4d3126007592d5160",
           "author": null,
           "description": "Throughout this post we’ll deploy your freeCodeCamp front end project using various services on AWS like S3, ElasticBeanstalk, and Lambda.",
@@ -1417,6 +1426,51 @@
       "feedUrl": "https://www.cnbeta.com/backend.php",
       "siteUrl": "https://www.cnbeta.com",
       "articles": [
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1138791.htm",
+          "author": "ugmbbc",
+          "description": "微软意外地泄露了其下一个操作系统的名称 -- 它可能不是Windows 11。6月24日，微软将举办一个大型活动，届时公司将公布其Windows操作系统的未来。尽管我们知道操作系统的外观和功能将发生变化，但我们不知道的是这个新改进的Windows版本将被称为什么。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1138791.htm",
+          "publishedOn": "2021-06-09T18:55:00.000Z",
+          "wordCount": 224,
+          "title": "官方页面显示Windows将迎来类似于macOS的代号命名法"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/soft/1138789.htm",
+          "author": "maomao",
+          "description": "谷歌AR计划多年来一直在变化，从独立的Project Tango到现代基于网络的努力。但今天谷歌关闭了基于AR的Measure应用。这款应用利用支持ARCore的设备摄像头，测量东西的尺寸，现在它已经退役了。谷歌已经停止支持和更新Measure应用。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/soft/1138789.htm",
+          "publishedOn": "2021-06-09T18:52:37.000Z",
+          "wordCount": 198,
+          "title": "谷歌今天宣布停止支持和更新基于AR的测量应用Measure"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1138787.htm",
+          "author": "ugmbbc",
+          "description": "据报道，东南亚网约车和快递服务巨头Grab今日宣布，与“特殊目的收购公司”（SPAC）Altimeter Growth合并交易的完成日期将推迟到今年第四季度。Grab表示，这主要是因为公司需要更多时间对过去三年的财务进行审计。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1138787.htm",
+          "publishedOn": "2021-06-09T18:40:34.000Z",
+          "wordCount": 198,
+          "title": "东南亚网约车巨头Grab合并交易完成日期被推迟"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1138785.htm",
+          "author": "ugmbbc",
+          "description": "据报道，Facebook旗下社交应用Instagram负责人亚当·莫塞里（Adam Mosseri）今日表示，Facebook计划为开发者创造线下交易机会，从而避开苹果公司收取的30%的营收分成。莫塞里今日在接受采访时称：\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1138785.htm",
+          "publishedOn": "2021-06-09T18:39:52.000Z",
+          "wordCount": 197,
+          "title": "Facebook将为开发者创造线下交易 绕过苹果30%的分成"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1138783.htm",
+          "author": "ugmbbc",
+          "description": "比特币要充当“数字黄金”——一种稳定的储存财富、对冲经济趋势的现代方式，似乎还不太够。比特币的波动仍然高企，价格急剧下跌，从4月中的高点约63000美元跌至今天的约35000美元。其波动远远超过了黄金的走势，而比特币的价格变动在很大程度上是不规律的。这意味着该数字代币在对冲方面不及黄金。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1138783.htm",
+          "publishedOn": "2021-06-09T18:38:54.000Z",
+          "wordCount": 200,
+          "title": "比特币要成为“数字黄金” 前路漫漫其修远兮"
+        },
         {
           "id": "https://www.cnbeta.com/articles/tech/1138781.htm",
           "author": "maomao",
