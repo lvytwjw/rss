@@ -2,10 +2,274 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://lvytwjw.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-10T06:13:33.703Z</updated>
+    <updated>2021-06-10T07:17:11.526Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://lvytwjw.github.io/rss/index.html"/>
     <link rel="self" href="https://lvytwjw.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[苹果要求从创作者应用Fanhouse抽成30% 否则8月下架]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1139073.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1139073.htm"/>
+        <updated>2021-06-10T07:14:58.000Z</updated>
+        <summary type="html"><![CDATA[就应用内支付给创作者的款项是否应该抽成，苹果和创作者平台 Fanhouse 发生了冲突。这一事件突显了苹果公司对创作者经济了解匮乏，最终的结果是进入创作者口袋的钱更少，而流向苹果的钱越多。
+ 阅读全文]]></summary>
+        <author>
+            <name>study875</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[科学家打造可自我维持的绿色神经形态传感器]]></title>
+        <id>https://www.cnbeta.com/articles/science/1139071.htm</id>
+        <link href="https://www.cnbeta.com/articles/science/1139071.htm"/>
+        <updated>2021-06-10T07:05:43.000Z</updated>
+        <summary type="html"><![CDATA[马萨诸塞大学阿默斯特分校的一支研究团队，刚刚展示了他们最新打造的一套电子微系统。其特点是能够在没有任何外部能量输入的情况下，对信息输入做出智能的响应，就像一个自主的生物体那样。在本周一（6 月 7 日）发表于《自然通讯》期刊上的一项开创性研究论文中，该校团队详细介绍了一种能够处理超低电子信号的新型电子设备。
+ 阅读全文]]></summary>
+        <author>
+            <name>raymon725</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[全球哪些地区可欣赏到今日上演的“火环”日食？]]></title>
+        <id>https://www.cnbeta.com/articles/science/1139069.htm</id>
+        <link href="https://www.cnbeta.com/articles/science/1139069.htm"/>
+        <updated>2021-06-10T07:02:24.000Z</updated>
+        <summary type="html"><![CDATA[据外媒报道，2021年6月10日（今天），北半球的人们将有机会欣赏到日环食或日偏食。加拿大、格陵兰岛和俄罗斯北部等部分地区的人们可以看到“火环”日食。日环食是指当月球在太阳和地球之间，但是距离地球较远，不能完全遮住太阳时而形成的天文景观。
+ 阅读全文]]></summary>
+        <author>
+            <name>vivian</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[灵神星值1000万万亿美元？新研究标明金属密度低于预期]]></title>
+        <id>https://www.cnbeta.com/articles/science/1139067.htm</id>
+        <link href="https://www.cnbeta.com/articles/science/1139067.htm"/>
+        <updated>2021-06-10T06:59:10.000Z</updated>
+        <summary type="html"><![CDATA[1852年，一位意大利天文学家发现了一颗小行星，并将其命名为“灵神星”（16 Psyche）。去年 10 月发表在《行星科学期刊》上的最新研究称，灵神星是太阳系内质量最大的天体之一，可能完全由铁和镍组成，其价值约为 1000 万万亿（10的19次方）美元。
+ 阅读全文]]></summary>
+        <author>
+            <name>study875</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[实探：7天1000万，华为鸿蒙到底有多火？]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1139065.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1139065.htm"/>
+        <updated>2021-06-10T06:47:57.000Z</updated>
+        <summary type="html"><![CDATA[近期鸿蒙概念股在A股市场异军突起，股价一骑绝尘，其中数码视讯、润和软件由于参与鸿蒙系统较深，所以股价涨幅最为凶猛。数码视讯短期股价已经翻倍，润和软件就更生猛了。短期已经两倍涨好了。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TikTok为反欺凌活动聘请了一些受欢迎的动画师]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1139063.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1139063.htm"/>
+        <updated>2021-06-10T06:46:32.000Z</updated>
+        <summary type="html"><![CDATA[据外媒The Verge报道，从周三开始，用户可能会看到一些漂亮的新动画发布到TikTok的账户上。该公司与平台上六位受欢迎的动画师合作，为反对欺凌的活动制作视频。这些视频都是由这些动画师创作的，旨在提供他们对平台上创作者所面临的压力的看法，即使是那些爆红的人。
+ 阅读全文]]></summary>
+        <author>
+            <name>vivian</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[希捷和西部数据提高硬盘产量以满足Chia矿工需求]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1139061.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1139061.htm"/>
+        <updated>2021-06-10T06:41:16.000Z</updated>
+        <summary type="html"><![CDATA[最近一段时间，由于Chia加密货币的开采，对HDD的需求大幅增加，短时间内造成了硬盘产品紧缺和零售价格的上涨。希捷和西部数据正在通过提高现有生产线的利用率来增加其高容量硬盘型号的产量，试图满足这一需求。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Edge优化沉浸阅读器：可自动进入 新增三种字体]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1139059.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1139059.htm"/>
+        <updated>2021-06-10T06:40:36.000Z</updated>
+        <summary type="html"><![CDATA[Edge 浏览器的沉浸阅读器可以从网页中剥离出干扰因素，从而获得更优秀的阅读体验。现在该功能变得更加完善，在最新的 Edge Canary 频道版本中可以设置为符合条件的网页提供自动进入沉浸阅读器的能力，并增加了三种新字体供用户选择。
+ 阅读全文]]></summary>
+        <author>
+            <name>study875</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[索尼Airpeak S1官方定价9000美元：载重续航12分钟 今年秋季上市]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1139057.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1139057.htm"/>
+        <updated>2021-06-10T06:39:24.000Z</updated>
+        <summary type="html"><![CDATA[尽管大疆（DJI）已经成为了消费级无人机市场的头号选手，但摄影爱好者们对索尼的信仰依然强烈。早在今年 1 月的 CES 2021 消费电子展上，索尼就已经全面展示过 Airpeak S1 无人机。现在，该公司终于正式宣布了这款售价 9000 美元（5.7 万+ RMB）的无人机云台。如果你有索尼 A7S3 + 24mm 镜头套装，不妨试着将它挂接到 Airpeak 单独出售的万向节配件上。
+ 阅读全文]]></summary>
+        <author>
+            <name>raymon725</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[一图看懂OpenHarmony：自主研发下一代开源操作系统]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1139055.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1139055.htm"/>
+        <updated>2021-06-10T06:36:10.000Z</updated>
+        <summary type="html"><![CDATA[自主研发芯片和操作系统一直是国产计算机行业的短板，华为带来了很大希望。在推出鸿蒙操作系统（HarmonyOS）之后，华为已于2020年、2021年分两次把鸿蒙操作系统的基础能力全部捐献给开放原子开源基金会，并由基金会整合其它参与者贡献形成OpenHarmony项目。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[《东京国际动画节2022》确定2022年3月举行 作品征集开启]]></title>
+        <id>https://hot.cnbeta.com/articles/comic/1139053.htm</id>
+        <link href="https://hot.cnbeta.com/articles/comic/1139053.htm"/>
+        <updated>2021-06-10T06:34:15.000Z</updated>
+        <summary type="html"><![CDATA[国际动画界盛事、《东京国际动画节2022》将于2022年3月11日～14日在日本东京·池袋举行，6月10日今天官方公布了这个消息，同时宣布参评作品征集正式启动。《东京国际动画节2022》本着发掘、鼓励、表彰来自世界各地的优秀动画作品、动画人才的宗旨，自2014年启动以来，至今已经举行了8届，是世界最大规模级别的综合动画大会。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[迪士尼新版《小美人鱼》片场照 王子救了黑美人鱼]]></title>
+        <id>https://hot.cnbeta.com/articles/movie/1139051.htm</id>
+        <link href="https://hot.cnbeta.com/articles/movie/1139051.htm"/>
+        <updated>2021-06-10T06:33:51.000Z</updated>
+        <summary type="html"><![CDATA[近日迪士尼真人电影《小美人鱼》意大利片场照首次曝光，可以看到哈莉·贝利(Halle Bailey)扮演的小美人鱼和乔纳·豪尔-金(Jonah Hauer-King)扮演的王子坐在沙滩上。王子救了小美人鱼，和她非常亲昵，还能看到鱼尾。不知道大家看了片场照后，是什么感觉？
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Model S Plaid还未开始交付 特斯拉宣布涨价1万美元]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1139049.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1139049.htm"/>
+        <updated>2021-06-10T06:31:58.000Z</updated>
+        <summary type="html"><![CDATA[6月10日消息，电动汽车制造商特斯拉已经定于美国当地时间6月10日在加州弗里蒙特工厂举行活动，向客户交付备受期待的新款旗舰轿车Model S Plaid。然而，这款车型还未正式亮相，特斯拉就已经宣布价格上调1万美元。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[女子得怪病后发现空调制冷剂泄漏 销售方被判赔偿近11万元]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1139047.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1139047.htm"/>
+        <updated>2021-06-10T06:31:42.000Z</updated>
+        <summary type="html"><![CDATA[杭州拱墅区法院日前审理一起因空调二氟甲烷泄漏引发的民事纠纷案，判决空调销售方及其售后服务公司赔偿原告医疗费等损失10.93万元。去年夏天开始，杭州的陈小姐得了“怪病”，经常头晕，走不了路，还有耳鸣、呕吐。她辗转几家医院治疗，花费数万元也没查不出病因。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[研究称特发性血小板减少性紫癜在极少数情况下可能与阿斯利康疫苗有关]]></title>
+        <id>https://www.cnbeta.com/articles/science/1139045.htm</id>
+        <link href="https://www.cnbeta.com/articles/science/1139045.htm"/>
+        <updated>2021-06-10T06:30:24.000Z</updated>
+        <summary type="html"><![CDATA[据外媒报道，一项新研究表明，一种影响血液的疾病，即特发性血小板减少性紫癜（ITP），在极少数情况下可能与牛津-阿斯利康疫苗有关。这种情况的风险增加非常小--其特点是血小板数量低--估计每百万人中可能出现11例，类似于在流感和MMR疫苗中看到的数字。
+ 阅读全文]]></summary>
+        <author>
+            <name>vivian</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[阿里CTO程立：达摩院和菜鸟正在研发无人卡车]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1139043.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1139043.htm"/>
+        <updated>2021-06-10T06:29:31.000Z</updated>
+        <summary type="html"><![CDATA[6月10日消息，在2021全球智慧物流峰会上，阿里巴巴首席技术官兼菜鸟首席技术官程立透露，阿里正在研发无人卡车，达摩院和菜鸟已启动了公开道路无人物流卡车的定义与研究。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[评论]现在的共享充电宝 就像2013年的ATM机]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1139041.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1139041.htm"/>
+        <updated>2021-06-10T06:28:30.000Z</updated>
+        <summary type="html"><![CDATA[“共享充电宝要是能成我吃翔，立帖为证。”2017年5月5日凌晨5点，王思聪发了一条16字的朋友圈，成为了整个共享充电宝行业中最具戏剧性的时刻之一。作为一个充满争议性的行业，共享充电宝在“创新产业”与“伪需求”的口水战中成长起来。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[雷军造访长城汽车 此前曾传双方将合作造车]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1139039.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1139039.htm"/>
+        <updated>2021-06-10T06:26:58.000Z</updated>
+        <summary type="html"><![CDATA[近日小米董事长雷军到访长城汽车研发中心，再次引发双方合作造车传闻。小米方面对此暂未置评。据报道，6月8日晚间，雷军来到位于保定的长城汽车研发中心，小米及长城汽车方面均未对外公布此次雷军造访的目的。不过有外界猜测，雷军此次到访，应与小米汽车制造有直接关系。今日长城汽车股价也出现大涨。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[传闻布兰森将先于贝索斯上太空 维珍银河未予以否认]]></title>
+        <id>https://www.cnbeta.com/articles/science/1139037.htm</id>
+        <link href="https://www.cnbeta.com/articles/science/1139037.htm"/>
+        <updated>2021-06-10T06:25:07.000Z</updated>
+        <summary type="html"><![CDATA[据报道，亿万富翁的太空竞争似乎正如火如荼地进行着，各方之间的差距也在不断缩小。比如，杰夫·贝索斯（Jeff Bezos）和理查德·布兰森爵士（Sir Richard Branson）好像都打算在下个月赶赴太空。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[突破52万分！荣耀50系列安兔兔跑分曝光：首发骁龙778G]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1139035.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1139035.htm"/>
+        <updated>2021-06-10T06:23:39.000Z</updated>
+        <summary type="html"><![CDATA[6月10日消息，近日，安兔兔官方通过微博表示，在其后台数据库中发现了一款型号为RNA-AN00的荣耀新机，结合此前信息来看，该设备为荣耀50系列的机型。配置方面，该机配备2676*1236分辨率屏幕，除了搭载高通骁龙778G处理器外，该机还拥有8GB内存和256GB存储空间。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[图]realme X9定妆照发布：6.55吋屏幕+Android 11系统]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1139033.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1139033.htm"/>
+        <updated>2021-06-10T06:23:31.000Z</updated>
+        <summary type="html"><![CDATA[本周早些时候，型号为“RMX3366”的 realme 新机通过了工信部认证。当时该网站只是披露了关键规格参数，包括 6.55 英寸屏幕、运行 Android 11 等。现在，工信部官方更新了该机的定妆照，展示了该机的外观设计，基本可以确认就是传闻中的 realme X9。
+ 阅读全文]]></summary>
+        <author>
+            <name>study875</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[斯坦福大学发明低碳水泥 原材料由石灰石换成火山岩]]></title>
+        <id>https://www.cnbeta.com/articles/science/1139031.htm</id>
+        <link href="https://www.cnbeta.com/articles/science/1139031.htm"/>
+        <updated>2021-06-10T06:23:15.000Z</updated>
+        <summary type="html"><![CDATA[水泥生产中臭名昭著的巨大碳足迹是研究人员寻求解决气候变化问题的主要目标，我们已经看到这可能涉及到对配方的各种调整。斯坦福大学的科学家们展示了另一种方法，用零碳火山岩替代波特兰水泥中的麻烦石灰石，这可能有助于加强成品。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dracula Technologies正探索印刷太阳能电池技术 将环境光转化为能源]]></title>
+        <id>https://www.cnbeta.com/articles/science/1139029.htm</id>
+        <link href="https://www.cnbeta.com/articles/science/1139029.htm"/>
+        <updated>2021-06-10T06:19:53.000Z</updated>
+        <summary type="html"><![CDATA[物联网设备正在激增，使许多人的日常工作更加方便，但这是有代价的。联合国预计，今年全球产生的电子垃圾将达到5220万吨，其中相当大的一部分是用坏的电池。德古拉科技公司（Dracula Technologies）是一家法国初创公司，目前正在Computex上进行虚拟展览，它使用喷墨打印机中常见的有机光伏（OPV，或有机太阳能电池）技术来研发供电技术。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[新的高分辨率猪脑图拓展了人类神经科学的发现]]></title>
+        <id>https://www.cnbeta.com/articles/science/1139027.htm</id>
+        <link href="https://www.cnbeta.com/articles/science/1139027.htm"/>
+        <updated>2021-06-10T06:15:55.000Z</updated>
+        <summary type="html"><![CDATA[伊利诺伊大学的研究人员发表了最新的、高分辨率的幼年动物的猪脑图谱。该图谱是生物医学研究的一个重要组成部分，特别是与婴儿大脑发育和营养有关的研究。当科学家需要了解新的婴儿配方奶粉成分对大脑发育的影响时，他们很少有可能以人类为对象进行初步的安全研究。毕竟，很少有父母愿意交出他们的新生儿来测试未经证实的成分。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Google将很快向美国卫生官员展示区域性疫苗接种相关搜索趋势]]></title>
         <id>https://www.cnbeta.com/articles/tech/1139025.htm</id>
