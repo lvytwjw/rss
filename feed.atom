@@ -2,10 +2,131 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://lvytwjw.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-10T08:07:51.960Z</updated>
+    <updated>2021-06-10T09:07:00.815Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://lvytwjw.github.io/rss/index.html"/>
     <link rel="self" href="https://lvytwjw.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[印度报告单日有超过6000人死于新冠 创下历史新高]]></title>
+        <id>https://www.cnbeta.com/articles/science/1139123.htm</id>
+        <link href="https://www.cnbeta.com/articles/science/1139123.htm"/>
+        <updated>2021-06-10T09:03:00.000Z</updated>
+        <summary type="html"><![CDATA[据外媒CNBC报道，周四，印度报告的单日新冠肺炎死亡人数创下历史新高：有超过6000人死于该疾病。这超过了美国今年报告的单日新冠死亡人数的记录。
+ 阅读全文]]></summary>
+        <author>
+            <name>vivian</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[腾讯10年FPS大作《CFHD》 今日全面开放：虚幻引擎打造]]></title>
+        <id>https://hot.cnbeta.com/articles/game/1139121.htm</id>
+        <link href="https://hot.cnbeta.com/articles/game/1139121.htm"/>
+        <updated>2021-06-10T08:58:52.000Z</updated>
+        <summary type="html"><![CDATA[相信不少 80、90 后网友都听过“三亿鼠标的枪战梦想”这句话，这是当年红极一时的 《CF》（ 穿越火线）的标语，也是当年许多玩家的启蒙游戏。但随着大家对画质的不断追求 ，《CF》 游戏也渐渐没落，为此腾讯去年正式宣布了 《CFHD》 高清竞技大区。
+ 阅读全文]]></summary>
+        <author>
+            <name>study875</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[萨博采纳仿生显示方案 有效减少飞行模拟器的混合现实算力需求]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1139119.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1139119.htm"/>
+        <updated>2021-06-10T08:50:38.000Z</updated>
+        <summary type="html"><![CDATA[考虑到模拟器已成为飞行员训练中不可或缺的一环，高性能战斗机的训练更是对其倚赖有加。近日有报道称，萨博（Saab）正与 Varjo Technologies 携手开发一项低成本、高分辨率的混合现实（XR）新技术，以便为该公司 Gripen E/F 多用途战斗机的飞行员训练系统提供支持。可知这项被称作“仿生显示”（Bionic Display）的方案，能够利用人员的工作方式，来缓解计算机的算力需求。
+ 阅读全文]]></summary>
+        <author>
+            <name>raymon725</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[三星狂砸170亿美元奏效 韩总统态度转变“很可能”特赦李在镕]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1139117.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1139117.htm"/>
+        <updated>2021-06-10T08:47:35.000Z</updated>
+        <summary type="html"><![CDATA[北京时间6月10日消息，据《日经亚洲》报道，作为一位固执的进步派人士，韩国总统文在寅一度十分厌恶前任对被定罪的企业大亨发布特赦令，但是在是否特赦三星电子副会长李在镕(Lee Jae-yong)问题上，他的态度可能已经发生了改变。
+ 阅读全文]]></summary>
+        <author>
+            <name>vivian</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Intel 12代酷睿无死角曝光：未来混合架构的第一步]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1139115.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1139115.htm"/>
+        <updated>2021-06-10T08:47:20.000Z</updated>
+        <summary type="html"><![CDATA[Intel将在年底发布Alder Lake 12代酷睿，堪称近年来最重磅的一代产品，桌面第一次10nm工艺和大小核架构，首次支持DDR5、PCIe 5.0，新的LGA1700封装接口、600系列主板。其中，大小核无疑是最受关注的，但也面临不少争议，尤其是调度效率问题。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[《最终幻想7： 重制版》PS5与PS4版对比 画质提升载入速度加快]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1139113.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1139113.htm"/>
+        <updated>2021-06-10T08:32:08.000Z</updated>
+        <summary type="html"><![CDATA[今日 （6 月 10 日），《最终幻想 7： 重制版 Intergrade》 在 PSN 港服商店正式开售。除了加入尤菲的新篇章外，游戏还针对 PS5 主机进行了专门的优化升级，让我们一起来看看 PS4 版和 PS5 版之间的区别吧。
+ 阅读全文]]></summary>
+        <author>
+            <name>study875</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[缅甸一军用飞机失事已致13死：原因不详]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1139111.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1139111.htm"/>
+        <updated>2021-06-10T08:20:39.000Z</updated>
+        <summary type="html"><![CDATA[据缅甸方面的消息，当地时间6月10日上午8时许，一架军用飞机在缅甸曼德勒省彬乌伦附近失事，目前已造成至少13人死亡、3人受伤。伤者中包括飞行员、一名妇女、一名儿童，其中飞行员受重伤。
+ 阅读全文]]></summary>
+        <author>
+            <name>vivian</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美国两年内拟向全球捐赠5亿剂辉瑞疫苗 或在G7峰会官宣]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1139109.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1139109.htm"/>
+        <updated>2021-06-10T08:18:44.000Z</updated>
+        <summary type="html"><![CDATA[当地时间9日，知情人士表示，美国将购买5亿剂辉瑞疫苗并在未来两年内将其捐献给全球近100个国家。美国消费者新闻与商业频道（CNBC）9日报道援引知情人士的话指出，在预计购买的5亿剂辉瑞疫苗中，美国将于今年通过新冠疫苗实施计划（COVAX）向全球近100个国家分享其中的2亿剂，并在2022年上半年捐赠剩下的份额。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[打造完整仿真系统：Tachyum推出Prodigy FGPA DDR-IO主板配件]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1139107.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1139107.htm"/>
+        <updated>2021-06-10T08:16:16.000Z</updated>
+        <summary type="html"><![CDATA[Tachyum 今日宣布，其已为 Prodigy 通用处理器硬件仿真器的客户提供了一款 IO 主板。在与此前发布的 FPGA 仿真系统板完成连接后，即可获得完整的原型系统体验。据悉，该平台集成了 CPU、内存、PCI Express 总线、网络、以及 BMC 管理子系统。系统一端为 Tachyum Prodigy FGPA DDR-IO 板，另一端则是 Prodigy FPGA CPU 板。
+ 阅读全文]]></summary>
+        <author>
+            <name>raymon725</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[7月4日：传布兰森可能先于贝索斯两周进入太空]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1139105.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1139105.htm"/>
+        <updated>2021-06-10T08:08:21.000Z</updated>
+        <summary type="html"><![CDATA[据匿名消息人士透露，英国大亨理查德·布兰森（Richard Branson）很有可能击败亚马逊创始人杰夫·贝索斯（Jeff Bezos），成为首位进入太空的超富。布兰森可能于7月4日搭乘维珍银河公司亚轨道飞船进入太空，这将比贝索斯的计划早两周。
+ 阅读全文]]></summary>
+        <author>
+            <name>vivian</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft Accessory Center上架：可一站式管理微软配件]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1139103.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1139103.htm"/>
+        <updated>2021-06-10T08:07:53.000Z</updated>
+        <summary type="html"><![CDATA[今年 4 月，互联网上就有关于 Microsoft Accessory Center 的爆料。它是一款全新的综合应用，用于管理大部分微软配件，并能根据用户偏好进行设置。现在这款应用程序已经上架 Microsoft Store，感兴趣的用户可以进行下载。
+ 阅读全文]]></summary>
+        <author>
+            <name>study875</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[传美联航正在洽谈采购至少100架波音737 Max飞机]]></title>
         <id>https://www.cnbeta.com/articles/tech/1139101.htm</id>
