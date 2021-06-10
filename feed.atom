@@ -2,10 +2,384 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://lvytwjw.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-10T00:25:03.711Z</updated>
+    <updated>2021-06-10T02:09:28.429Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://lvytwjw.github.io/rss/index.html"/>
     <link rel="self" href="https://lvytwjw.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[安静该如何定义？科学家正探索新的测量方式]]></title>
+        <id>https://www.cnbeta.com/articles/science/1138929.htm</id>
+        <link href="https://www.cnbeta.com/articles/science/1138929.htm"/>
+        <updated>2021-06-10T02:08:54.000Z</updated>
+        <summary type="html"><![CDATA[来自爱情海大学的 Aggelos Tsaligopoulos 将描述如何测量安静，希望能更好地了解它对人们的影响。噪音在日常生活中如此普遍，以至于舒适的安静的概念和实现很难定义。
+ 阅读全文]]></summary>
+        <author>
+            <name>study875</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[乐高新推出的复古打字机套装看起来像一件艺术品]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1138927.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1138927.htm"/>
+        <updated>2021-06-10T02:05:26.000Z</updated>
+        <summary type="html"><![CDATA[据外媒报道，从远处看，乐高创意套装21327-打字机（Typewriter），看起来并不像常规的乐高产品。它的32个键都有打印零件，还有一个工作的打字机装置，以及一个复制打字机色带的新的乐高布元素，它看起来就像它要模仿的复古打字工具。
+ 阅读全文]]></summary>
+        <author>
+            <name>vivian</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Moto G Stylus 5G入门新机将于6月14日上市 仅售399美元]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1138925.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1138925.htm"/>
+        <updated>2021-06-10T02:03:25.000Z</updated>
+        <summary type="html"><![CDATA[摩托罗拉正式向美国市场了推出了 Moto G Stylus 5G 入门新机，售价仅为 399 美元（约 2548 RMB）。作为一款主打手写体验的移动设备，其不仅配备了 5000 mAh 的大电池，还支持 6GHz 以下的 5G 网络连接。其它方面，它与 4G 版本的 Moto G Stylus 并没有太大的差别。
+ 阅读全文]]></summary>
+        <author>
+            <name>raymon725</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[庆祝发布30周年 Arcade1Up重推《辛普森一家》游戏街机]]></title>
+        <id>https://hot.cnbeta.com/articles/game/1138923.htm</id>
+        <link href="https://hot.cnbeta.com/articles/game/1138923.htm"/>
+        <updated>2021-06-10T01:53:38.000Z</updated>
+        <summary type="html"><![CDATA[为庆祝街机游戏《辛普森一家》发布 30 周年，今天 Arcade1Up 公司将重新发布该游戏。《辛普森一家》是在 1991 年由 Konami 发布的街机游戏，你和三个好友分别扮演 Homer, Marge, Bart 和 Lisa Simpson，通过和坏蛋作战来解救 Maggie。
+ 阅读全文]]></summary>
+        <author>
+            <name>study875</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[科学家对章鱼视力的研究导致快速简单的测试  有助于对抗人类视力丧失]]></title>
+        <id>https://www.cnbeta.com/articles/science/1138921.htm</id>
+        <link href="https://www.cnbeta.com/articles/science/1138921.htm"/>
+        <updated>2021-06-10T01:52:52.000Z</updated>
+        <summary type="html"><![CDATA[据外媒报道，布里斯托大学研究人员对章鱼视力的研究导致了一种快速而简单的测试，它可以帮助验光师识别那些患黄斑变性风险较大的人，黄斑变性是导致无法治愈的视力丧失的主要原因。
+ 阅读全文]]></summary>
+        <author>
+            <name>vivian</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SpaceX星链就机上Wi-Fi服务与“数家”航空公司接洽]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1138919.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1138919.htm"/>
+        <updated>2021-06-10T01:46:14.000Z</updated>
+        <summary type="html"><![CDATA[据报道，SpaceX的卫星互联网项目“星链”（Starlink）如今发展正盛。最近，该项目的副总裁在一次小组讨论会上表示，星链的团队正在与“数家”航空公司接洽，希望在他们的航班上传输互联网。随着今年晚些时候SpaceX计划加快步伐商业化宽带网络，将星链项目从偏远家庭扩展到航空公司，对于埃隆·马斯克（Elon Musk）的这家太空公司而言，应该是意料之中的一步。
+ 阅读全文]]></summary>
+        <author>
+            <name>raymon725</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[电信设备认证机构再曝Beats Studio Buds真无线耳机 或很快上市]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1138917.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1138917.htm"/>
+        <updated>2021-06-10T01:43:55.000Z</updated>
+        <summary type="html"><![CDATA[中国台湾地区的通讯设备入网监管部门（NCC），刚刚曝光了 Beats Studio Buds 真无线耳机的“证件照”。此前，我们已经在许多地方见到过它的身影。比如勒布朗·詹姆斯的 Instagram 晒图，以及罗迪·里奇的《Late At Night》音乐录影带中。
+ 阅读全文]]></summary>
+        <author>
+            <name>raymon725</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[macOS端OneDrive即将升级 可在M1 Mac设备上原生运行]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1138915.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1138915.htm"/>
+        <updated>2021-06-10T01:39:34.000Z</updated>
+        <summary type="html"><![CDATA[微软宣布将会对 macOS 端的 OneDrive 应用进行升级，使其能够原生支持 2021 年之后发布的苹果 M1 Mac 设备，同时还计划引入其他性能改进。微软计划在今年晚些时候更新 OneDrive for Mac 应用，以便于能够在 M1 Mac 上原生运行。
+ 阅读全文]]></summary>
+        <author>
+            <name>study875</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[怕副作用不敢打？美国或有数十万剂强生疫苗面临过期]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1138913.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1138913.htm"/>
+        <updated>2021-06-10T01:38:00.000Z</updated>
+        <summary type="html"><![CDATA[据美国全国广播公司（NBC）8日报道，在强生新冠疫苗4月传出血栓疑虑后，即使目前已重新开放施打，许多美国民众仍不愿意接种，可能导致数十万、甚至数百万剂疫苗因过期而浪费。据报道，由于有民众在施打强生疫苗后出现血栓及血小板数量减少的症状，美国疾病控制和预防中心（CDC）和美国食品药品监督管理局（FDA）4月一度宣布暂停施打。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MIT科研人员设计出配制疏水性药物的新方法  可能带来更小的药丸]]></title>
+        <id>https://www.cnbeta.com/articles/science/1138911.htm</id>
+        <link href="https://www.cnbeta.com/articles/science/1138911.htm"/>
+        <updated>2021-06-10T01:37:53.000Z</updated>
+        <summary type="html"><![CDATA[据外媒报道，麻省理工学院（MIT）的化学工程师已经找到了一种方法，可以将更多的药物装入片剂中，然后可以使其更小，更容易吞咽。市场上大约60%的药物都有疏水分子作为其活性成分。这些不溶于水的药物可能难以配制成片剂，因为它们需要被分解成非常小的晶体才能被人体吸收。
+ 阅读全文]]></summary>
+        <author>
+            <name>vivian</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[甲型H1N1流感会卷土重来吗？]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1138909.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1138909.htm"/>
+        <updated>2021-06-10T01:37:33.000Z</updated>
+        <summary type="html"><![CDATA[据世界卫生组织（WHO）报道，本周全球死于某种疾病的人数增加了700多，达到5700人；在欧洲，乌克兰关闭了学校和电影院，并禁止公众集会；在英国，感染病例每周翻倍；而在美国，总统宣布全国进入紧急状态。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[新证据表明微软正开发适用于Windows 11的Android模拟器]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1138907.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1138907.htm"/>
+        <updated>2021-06-10T01:33:31.000Z</updated>
+        <summary type="html"><![CDATA[去年 11 月，有消息称 Windows 10 21H2 功能更新即将支持 Android 应用程序。今天又有了新的证据，微软首席软件设计工程师 Hideyuki Nagase 做了一些准备工作，能够让 Android 模拟器在 Windows Subsystem for Linux 下良好运行。
+ 阅读全文]]></summary>
+        <author>
+            <name>study875</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google Chrome v91.0.4472.101 正式版发布]]></title>
+        <id>https://www.cnbeta.com/articles/soft/1138905.htm</id>
+        <link href="https://www.cnbeta.com/articles/soft/1138905.htm"/>
+        <updated>2021-06-10T01:33:05.000Z</updated>
+        <summary type="html"><![CDATA[谷歌浏览器Google Chrome正式版迎来v91第二个维护版本发布，详细版本号为v91.0.4472.101，上一个正式版v91.0.4472.77发布于5月26日，时隔15天Google又发布了新版Chrome浏览器，本次升级主要是更新了安全修复和稳定性改进及用户体验。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google Stadia云游戏完成测试 现可在iPhone和iPad上体验]]></title>
+        <id>https://hot.cnbeta.com/articles/game/1138903.htm</id>
+        <link href="https://hot.cnbeta.com/articles/game/1138903.htm"/>
+        <updated>2021-06-10T01:29:06.000Z</updated>
+        <summary type="html"><![CDATA[谷歌刚刚宣布，旗下 Stadia 游戏串流服务已完成 iOS 平台的实验阶段，现可在广大苹果用户的 iPhone 智能机 / iPad 平板电脑上获得丰富的游戏体验。Apple Insider 指出，Stadia 是以基于 Safari 浏览器的“渐进式 Web 应用”（PWA）的形式，而于去年 12 月登陆 iOS 和 iPadOS 平台的。
+ 阅读全文]]></summary>
+        <author>
+            <name>raymon725</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[4000多年前的古蜀先民以何为食 以何为居?]]></title>
+        <id>https://www.cnbeta.com/articles/science/1138899.htm</id>
+        <link href="https://www.cnbeta.com/articles/science/1138899.htm"/>
+        <updated>2021-06-10T01:23:05.000Z</updated>
+        <summary type="html"><![CDATA[4000多年前，成都平原的古蜀先民以何为食？这一问题有了答案。成都文物考古研究院日前对外公布宝墩遗址最新年度田野考古发掘成果，在该遗址内发现了距今4000多年前的水稻田遗迹，这是成都平原迄今为止发现得最早的水稻田，也是长江上游发现得最早的水稻田，对了解长江上游和成都平原史前水稻种植史具有重大意义。
+ 阅读全文]]></summary>
+        <author>
+            <name>vivian</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[科学家开发WomBot机器人 用于探索和分析袋熊的洞穴]]></title>
+        <id>https://www.cnbeta.com/articles/science/1138897.htm</id>
+        <link href="https://www.cnbeta.com/articles/science/1138897.htm"/>
+        <updated>2021-06-10T01:20:48.000Z</updated>
+        <summary type="html"><![CDATA[据外媒New Atlas报道，袋熊除了以其方块状的粪便而闻名外，还不幸患上了弧形疥癣病。为了更好地了解导致疥癣的螨虫是如何在袋熊之间传播的，科学家们开发了一个洞穴探索机器人。
+ 阅读全文]]></summary>
+        <author>
+            <name>vivian</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[多家公司想用“亚马逊Care”远程医疗服务]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1138895.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1138895.htm"/>
+        <updated>2021-06-10T01:20:21.000Z</updated>
+        <summary type="html"><![CDATA[亚马逊设立远程医疗服务“亚马逊Care”，公司高管透露，已经有多家公司有兴趣与“亚马逊Care”合作。亚马逊Care副总裁巴巴克·帕尔维兹（Babak Parviz）参加会议时表示：“其它公司也有很有兴趣使用我们的服务。”他还说，今年夏天晚些时候将会公布哪些企业签约使用服务。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[萨尔瓦多考虑利用火山地热能开采比特币]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1138893.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1138893.htm"/>
+        <updated>2021-06-10T01:18:54.000Z</updated>
+        <summary type="html"><![CDATA[萨尔瓦多总统纳伊布-布克莱（Nayib Bukele） 周三表示，他已指示国有地热电力公司LaGeo制定一项计划，利用来自该国火山的可再生能源进行比特币开采。此前萨尔瓦多刚刚通过立法，成为全球首个采纳比特币作为法定货币的主权国家。
+ 阅读全文]]></summary>
+        <author>
+            <name>vivian</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[环球时报：年轻人“币圈”暴富梦该醒了]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1138891.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1138891.htm"/>
+        <updated>2021-06-10T01:18:28.000Z</updated>
+        <summary type="html"><![CDATA[“持有加密货币的日子，心情并不轻松。”这可能是众多“币圈”年轻人的心声。过去半年间，全球掀起新一波投机热潮，以比特币为代表的加密货币市场一路暴涨，频频登上国内外社交媒体热搜榜单。面对就业、购房、结婚等压力，一些年轻人带着“一夜暴富”的心理冲进了这个波动剧烈、缺乏监管的投机市场。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美国众议院立法官员将推出反垄断新法案 直指科技巨头]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1138889.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1138889.htm"/>
+        <updated>2021-06-10T01:17:49.000Z</updated>
+        <summary type="html"><![CDATA[据三位知情人士透露，美国众议院的立法者们正在起草五项与发垄断有关的法案，其中四项旨在直接对大型科技企业进行约束，立法机构有可能在几天内正式推出这些法案。外媒已经阅读了这五项法案的讨论稿。熟悉这一进程的消息人士透露，这些措施在正式出台之前依然有被修改的可能。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[神经网络完成芯片设计仅需几小时]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1138887.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1138887.htm"/>
+        <updated>2021-06-10T01:17:45.000Z</updated>
+        <summary type="html"><![CDATA[英国《自然》杂志9日发表一项人工智能突破性成就，美国科学家团队报告机器学习工具已可以极大地加速计算机芯片设计。研究显示，该方法能给出可行的芯片设计，且芯片性能不亚于人类工程师的设计，而整个设计过程只要几个小时，而不是几个月，这为今后的每一代计算机芯片设计节省数千小时的人力。这种方法已经被Google用来设计下一代人工智能计算机系统。
+ 阅读全文]]></summary>
+        <author>
+            <name>raymon725</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[白宫回应万亿巨富缴税为零：未授权信息行为非法 正调查]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1138885.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1138885.htm"/>
+        <updated>2021-06-10T01:13:29.000Z</updated>
+        <summary type="html"><![CDATA[按照福布斯实时统计，贝索斯和马斯克最新身家分别是1900亿美元(约合1.2万亿人民币)和1670亿美元(约合1万亿人民币)，分别位列世界富豪榜第一和第三位。按道理，富人会缴纳更多的所得税款，即便缴纳更多的税，其负担相比普通打工人来说仍然较小。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[拜登任内首次外访 白宫记者团专机却因蝉延误近7小时]]></title>
+        <id>https://hot.cnbeta.com/articles/funny/1138883.htm</id>
+        <link href="https://hot.cnbeta.com/articles/funny/1138883.htm"/>
+        <updated>2021-06-10T01:12:42.000Z</updated>
+        <summary type="html"><![CDATA[美国总统拜登本周出访欧洲，随行白宫记者团搭乘的飞机原定8日晚出发，却遭遇延误，但是此次延误并非因天气原因或是飞行员迟到，而是因为蝉群引发的机械故障。据报道，这些蝉跑到了飞机引擎中，迫使白宫助手紧急为白宫记者团更换另一架飞机，好让他们前往欧洲报道拜登上任后的首次海外访问。
+ 阅读全文]]></summary>
+        <author>
+            <name>raymon725</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[哈工大“会发光的录取通知书”登上热搜]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1138881.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1138881.htm"/>
+        <updated>2021-06-10T01:12:29.000Z</updated>
+        <summary type="html"><![CDATA[6月9日，全新设计的哈工大2021本科录取通知书曝光后，迅速登上微博热搜。据悉，此次录取通知书的主视觉运用了镭射材质的呈现特点。这种材质表面不发光，但在光的照射下，每一个角度都会呈现出不同的色彩。代表着只要有舞台，哈工大人就能绽放出炫目的光芒。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[云南离群独象掉队12公里 现状照片公布]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1138879.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1138879.htm"/>
+        <updated>2021-06-10T01:10:08.000Z</updated>
+        <summary type="html"><![CDATA[截至6月9日17时，象群总体朝西南方向迁移3.7公里，持续在玉溪市易门县十街乡活动。独象离群4天，于6月8日18时30分进入昆明安宁，在八街街道西南方的密林里活动，云南离群独象掉队12公里。按照官方通告的情况看，目前，人象平安。但现场持续雷阵雨，监测防控困难，安全风险加大。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[《纽约时报》闹乌龙：将有关火星西瓜的假文章错发出去]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1138877.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1138877.htm"/>
+        <updated>2021-06-10T01:07:57.000Z</updated>
+        <summary type="html"><![CDATA[据外媒报道，当地时间6月8日，《纽约时报》发表了一篇简短的报道，标题为“警方称，火星上发现了大片西瓜地(Fields of Watermelons Found On Mars, Police Say)”。这篇文章很快就被删除了，但在此之前，很多人发现了它、把它存档并猜测它的含义。
+ 阅读全文]]></summary>
+        <author>
+            <name>teikaei</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NASA拒绝了前往木星和海王星的怪异卫星的任务]]></title>
+        <id>https://www.cnbeta.com/articles/science/1138875.htm</id>
+        <link href="https://www.cnbeta.com/articles/science/1138875.htm"/>
+        <updated>2021-06-10T01:05:59.000Z</updated>
+        <summary type="html"><![CDATA[据外媒报道，自美国宇航局（NASA）航天器上次访问金星以来，已经过去了30年，即1990年“麦哲伦”号探测器访问金星。现在，两个新的任务已经被选中，以探索金星致命的大气层、破碎的压力和火山景观。
+ 阅读全文]]></summary>
+        <author>
+            <name>vivian</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[iOS 15对照片回忆中的人物和地点引入更细粒度控制]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1138873.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1138873.htm"/>
+        <updated>2021-06-10T01:00:36.000Z</updated>
+        <summary type="html"><![CDATA[据外媒报道，在iOS 15中，苹果对照片回忆(Photos Memories)中的人物和地点引入了更细粒度的控制，它能让用户可以调整在‌照片‌应用和‌照片小部件中随机出现的人。
+ 阅读全文]]></summary>
+        <author>
+            <name>teikaei</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[一加Nord 2规格曝光：6.43吋屏幕+天玑1200芯片+5000万主摄]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1138871.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1138871.htm"/>
+        <updated>2021-06-10T00:59:41.000Z</updated>
+        <summary type="html"><![CDATA[和知名爆料人士@OnLeaks合作，外媒 91Mobile 今天分享了 OnePlus Nord 2 的关键规格参数。该机预估将会在今年 7 月份发布，信息显示该机搭载 6.43 英寸的 FHD+ AMOLED 屏幕，刷新率为 90Hz，屏下指纹传感器。
+ 阅读全文]]></summary>
+        <author>
+            <name>study875</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[苹果：macOS部分新功能无法在Intel Mac上使用]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1138869.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1138869.htm"/>
+        <updated>2021-06-10T00:51:11.000Z</updated>
+        <summary type="html"><![CDATA[macOS Monterey 引入了很多非常棒的新功能，不过苹果公司表示其中有几项功能是 Intel Mac 无法使用的。在 macOS Monterey 功能页面上，苹果用小字写道，以下功能需要在配备 M1 芯片的 Mac 设备上运行，包括 2020 年 11 月之后发布的所有MacBook Air、13 英寸 MacBook Pro、Mac mini 和 iMac 型号。
+ 阅读全文]]></summary>
+        <author>
+            <name>study875</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[重大科学飞跃：研究人员创造了一种量子显微镜]]></title>
+        <id>https://www.cnbeta.com/articles/science/1138867.htm</id>
+        <link href="https://www.cnbeta.com/articles/science/1138867.htm"/>
+        <updated>2021-06-10T00:44:53.000Z</updated>
+        <summary type="html"><![CDATA[据外媒报道，在一次重大的科学飞跃中，昆士兰大学的研究人员创造了一种量子显微镜，可以显示出原本不可能看到的生物结构。这为生物技术的应用铺平了道路，并可能远远超出这一范围，延伸到从导航到医学成像等领域。该显微镜由量子纠缠科学提供动力，爱因斯坦将这种效应描述为“幽灵般的远距效应”。
+ 阅读全文]]></summary>
+        <author>
+            <name>vivian</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[视频]Android 12 Beta 2新特性一览：优化网络管理 增强隐私保护]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1138865.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1138865.htm"/>
+        <updated>2021-06-10T00:33:23.000Z</updated>
+        <summary type="html"><![CDATA[面向 Pixel 手机，Google今天推出的 Android 12 的第 2 个测试版。新版本中增加一些在今年 I/O 大会上宣布，但是没有出现在第 1 个测试版中的功能，例如管理网络连接的新方法。
+ 阅读全文]]></summary>
+        <author>
+            <name>study875</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NASA称月球尘埃是个大问题  但该机构正在研究解决方案]]></title>
+        <id>https://www.cnbeta.com/articles/science/1138863.htm</id>
+        <link href="https://www.cnbeta.com/articles/science/1138863.htm"/>
+        <updated>2021-06-10T00:32:16.000Z</updated>
+        <summary type="html"><![CDATA[据外媒报道，月球上充满了尘埃，美国宇航局（NASA）在阿波罗任务期间了解到，与地球上的尘埃相比，月球尘埃可能是一个更大的问题。地球上的灰尘通常被侵蚀成暗淡的圆形，而月球表面的微小灰尘颗粒则是尖锐的，像玻璃一样，使它们对设备及对人类肺部造成损害。不过很快，NASA将开始测试一个解决这个问题的方案。
+ 阅读全文]]></summary>
+        <author>
+            <name>vivian</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[一次独特的爆发让科学家们得以一窥太阳频繁爆发的潜在机制]]></title>
+        <id>https://www.cnbeta.com/articles/science/1138861.htm</id>
+        <link href="https://www.cnbeta.com/articles/science/1138861.htm"/>
+        <updated>2021-06-10T00:28:21.000Z</updated>
+        <summary type="html"><![CDATA[据外媒报道，太阳是我们今天聚集在这里的重要原因之一。没有它，生命很可能就不会在地球上扎根或至少今天覆盖在地球上的生命就不可能存在。尽管如此，我们对这颗恒星仍有很多不了解，更重要的是，当它开始发怒时可能会构成威胁。现在，一场非常有趣的恒星爆发让研究人员得以一窥太阳频繁爆发的潜在机制。
+ 阅读全文]]></summary>
+        <author>
+            <name>teikaei</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[半月谈：治理校外培训乱象，关键在于做强学校主阵地]]></title>
         <id>https://www.cnbeta.com/articles/tech/1138859.htm</id>
@@ -46436,16 +46810,6 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <summary type="html"><![CDATA[Today marks the day we sent out our 300th edition of the Smashing Newsletter. This article is a little celebration in which we share little Smashing stories from people working behind the scenes.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Primer On CSS Container Queries]]></title>
-        <id>https://smashingmagazine.com/2021/05/complete-guide-css-container-queries/</id>
-        <link href="https://smashingmagazine.com/2021/05/complete-guide-css-container-queries/"/>
-        <updated>2021-05-11T13:30:00.000Z</updated>
-        <summary type="html"><![CDATA[A prototype of the long-awaited CSS container queries has landed in Chrome Canary and is available for experimentation. Let’s look at what problem is being solved, learn how container queries work, and see how they compare with and complement existing CSS features for layout.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Stephanie Eckles)</name>
         </author>
     </entry>
 </feed>
