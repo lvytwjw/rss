@@ -1491,6 +1491,51 @@
       "siteUrl": "https://www.cnbeta.com",
       "articles": [
         {
+          "id": "https://hot.cnbeta.com/articles/movie/1139279.htm",
+          "author": "ugmbbc",
+          "description": "近日，中国网络视听节目服务协会发布《2021中国网络视听发展研究报告》。数据显示，我国网络视听用户规模达9.44亿，网络视听产业规模破6000亿元。值得关注的是，28.2%的网络视频用户不按“原速”观看视频节目。特别是00后群体，有近四成选择倍速观看方式。\n 阅读全文",
+          "link": "https://hot.cnbeta.com/articles/movie/1139279.htm",
+          "publishedOn": "2021-06-10T18:09:14.000Z",
+          "wordCount": 199,
+          "title": "近四成年轻人倍速看视频 倍速会改变网络视频生产吗？"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1139277.htm",
+          "author": "ugmbbc",
+          "description": "疫情下，方便面的需求快速增长，这也使得方便面生产商受到投资者青睐。最近，菲律宾的一家方便面生产商上市，缔造了这个国家历史上最大规模的IPO纪录。在疫情初期的封锁阶段，很多国家民众都囤积过方便面，凭借着方便快速的优势，疫情下，方便面受到全球消费者青睐。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1139277.htm",
+          "publishedOn": "2021-06-10T18:07:54.000Z",
+          "wordCount": 195,
+          "title": "菲律宾最大IPO造就“方便面行业亿万富翁”"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1139275.htm",
+          "author": "ugmbbc",
+          "description": "当地时间10日，空客集团宣布将与赛峰集团、达索航空及法国航空航天实验室在今年底进行一次飞行测试，目的是测量单通道客机在完全由可持续航空燃料驱动下的排放情况，并分析研究非混合可持续航空燃料与客机引擎和燃料系统的适配性。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1139275.htm",
+          "publishedOn": "2021-06-10T18:06:50.000Z",
+          "wordCount": 193,
+          "title": "法国将使用可持续航空燃料进行单通道客机飞行测试"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1139273.htm",
+          "author": "ugmbbc",
+          "description": "据多家印度媒体当地时间6月10日报道称，位于新德里的全印医学科学研究所（AIIMS）公布的一份研究报告显示，在接种了新冠疫苗后仍被感染的患者群体中，该国流行的变异毒株Delta所感染的人数占据了多数，变异毒株Delta是印度最早发现的病毒变体。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1139273.htm",
+          "publishedOn": "2021-06-10T18:05:41.000Z",
+          "wordCount": 190,
+          "title": "印度研究机构：变异毒株Delta对接种过疫苗的人仍具有高度传染性"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1139271.htm",
+          "author": "ugmbbc",
+          "description": "2021了还需要入门级显卡吗？谁也没想到数字货币能这么火，中高端的显卡在市场上要么特别贵，要么买不到，日前，微星端出了GeForce GT 730。GT 730发布于2014年，使用的GK208B，还是28nm Kepler架构的，核心面积只有87mm2。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1139271.htm",
+          "publishedOn": "2021-06-10T17:38:52.000Z",
+          "wordCount": 210,
+          "title": "微星复活GT 730：7年前的老显卡重新出山"
+        },
+        {
           "id": "https://www.cnbeta.com/articles/science/1139269.htm",
           "author": "maomao",
           "description": "在《自然-通讯》上发表的一篇论文中，来自渥太华大学的研究人员提出了一种新的光学元件 - 空间板，它可以极大地微型化光学设备，可能会影响到我们生活中的许多应用。光在传播时会自然\"散开\"，每一个光学设备都依赖于这种散开；如果没有它，我们就不知道如何设计相机。\n 阅读全文",
