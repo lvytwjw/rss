@@ -1491,6 +1491,51 @@
       "siteUrl": "https://www.cnbeta.com",
       "articles": [
         {
+          "id": "https://www.cnbeta.com/articles/tech/1139289.htm",
+          "author": "maomao",
+          "description": "苹果用户早就发现Mac mini的扬声器很糟糕，而iMac的扬声器很出色。一份新的文件显示，苹果从2019年底开始为新的24英寸iMac内小空间研究有效的扬声器。\"扬声器组件\"是一项新披露的苹果专利申请，最初于2019年12月提交。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1139289.htm",
+          "publishedOn": "2021-06-10T19:11:43.000Z",
+          "wordCount": 198,
+          "title": "新专利申请显示苹果2019年以来一直在研究新iMac的扬声器设计"
+        },
+        {
+          "id": "https://hot.cnbeta.com/articles/game/1139287.htm",
+          "author": "ugmbbc",
+          "description": "在夏季游戏节开赛直播中，Dotemu和SNK透露了合金弹头全新主题游戏《合金弹头：战略版》（Metal Slug Tactics）。正如其名，这是一款基于网格的战术策略游戏。没错，这不是开玩笑，基本上游戏是《XCOM》和《合金弹头》的完美结合。除此之外，游戏采用复古的像素风格，当然对于喜好这类游戏的玩家来说这可以算是一种福利。\n 阅读全文",
+          "link": "https://hot.cnbeta.com/articles/game/1139287.htm",
+          "publishedOn": "2021-06-10T18:55:48.000Z",
+          "wordCount": 201,
+          "title": "E3 2021：幽浮附体！《合金弹头：战略版》公布"
+        },
+        {
+          "id": "https://hot.cnbeta.com/articles/game/1139285.htm",
+          "author": "ugmbbc",
+          "description": "《死亡搁浅》的创作者小岛秀夫现身夏季游戏节直播节目，讨论最近发生的活动。虽然他没有透露自己的下一款游戏，但表示会有《死亡搁浅：导演剪辑版》（Death Stranding Director’s Cut）推出。\n 阅读全文",
+          "link": "https://hot.cnbeta.com/articles/game/1139285.htm",
+          "publishedOn": "2021-06-10T18:51:14.000Z",
+          "wordCount": 202,
+          "title": "E3 2021：《死亡搁浅：导演剪辑版》将登陆PS5"
+        },
+        {
+          "id": "https://hot.cnbeta.com/articles/game/1139283.htm",
+          "author": "ugmbbc",
+          "description": "在夏季游戏节直播上，Frontier正式宣布了《侏罗纪世界：进化》的续作《侏罗纪世界：进化2》（Jurassic World Evolution 2）。与第一款游戏类似，新作自然也是设施建造类游戏，并将于2021年内推出。\n 阅读全文",
+          "link": "https://hot.cnbeta.com/articles/game/1139283.htm",
+          "publishedOn": "2021-06-10T18:49:57.000Z",
+          "wordCount": 203,
+          "title": "E3 2021：《侏罗纪世界：进化2》公布 2021年推出"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/science/1139281.htm",
+          "author": "maomao",
+          "description": "被广泛研究的16 Psyche金属小行星长期以来被认为是一个暴露的小行星铁芯，在太阳系最早时期未能形成行星。但是亚利桑那大学新研究表明，这颗小行星可能并不像曾经认为的那样具有金属性或密度，并暗示了一个非常不同的起源故事。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/science/1139281.htm",
+          "publishedOn": "2021-06-10T18:35:36.000Z",
+          "wordCount": 201,
+          "title": "新研究认为16 Psyche金属小行星可能只是一个太空瓦砾堆"
+        },
+        {
           "id": "https://hot.cnbeta.com/articles/movie/1139279.htm",
           "author": "ugmbbc",
           "description": "近日，中国网络视听节目服务协会发布《2021中国网络视听发展研究报告》。数据显示，我国网络视听用户规模达9.44亿，网络视听产业规模破6000亿元。值得关注的是，28.2%的网络视频用户不按“原速”观看视频节目。特别是00后群体，有近四成选择倍速观看方式。\n 阅读全文",
