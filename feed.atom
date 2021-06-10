@@ -2,10 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://lvytwjw.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-10T04:22:18.247Z</updated>
+    <updated>2021-06-10T05:27:05.789Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://lvytwjw.github.io/rss/index.html"/>
     <link rel="self" href="https://lvytwjw.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[0.64μm：三星发布ISOCELL JN1 业内最小50MP移动影像传感器]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1138987.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1138987.htm"/>
+        <updated>2021-06-10T05:24:57.000Z</updated>
+        <summary type="html"><![CDATA[随着移动拍摄的重要性日渐提升，OEM 厂商也在努力为自家设备塞入更高规格的影像传感器。今日，三星官宣了业内像素尺寸最小的 ISOCELL JN1 。可知其在提供 5000 万像素的基础上，还将像素尺寸缩小到了极致的 0.64 μm 。尽管许多人担心过小的像素尺寸会影响成像质量，但 ISOCELL JN1 还是设法增强了光灵敏度和相位检测等能力。
+ 阅读全文]]></summary>
+        <author>
+            <name>raymon725</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Windows 10六月更新发布：推进和改善新闻和兴趣功能]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1138985.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1138985.htm"/>
+        <updated>2021-06-10T04:46:21.000Z</updated>
+        <summary type="html"><![CDATA[在本月的补丁星期二活动日中，微软面向尚处于支持状态的 Windows 10 发布了累积更新。本次更新面向 21H1、20H2、Version 2004、Version 1909 功能更新，主要修复了几个关键 BUG，包括内存泄露、某些应用高资源使用率等。
+ 阅读全文]]></summary>
+        <author>
+            <name>study875</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[为防止倒车事故 日本规定 ：2022 年 5 月起新车必须标配后摄像头]]></title>
         <id>https://www.cnbeta.com/articles/tech/1138983.htm</id>
