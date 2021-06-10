@@ -2,10 +2,109 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://lvytwjw.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-10T14:10:18.838Z</updated>
+    <updated>2021-06-10T15:07:32.141Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://lvytwjw.github.io/rss/index.html"/>
     <link rel="self" href="https://lvytwjw.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Moderna宣布向美国政府申请授权在青少年中使用公司新冠疫苗]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1139231.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1139231.htm"/>
+        <updated>2021-06-10T15:02:22.000Z</updated>
+        <summary type="html"><![CDATA[据Moderna公司(MRNA.US)周四表示，公司已向美国政府申请授权在12至17岁的青少年中使用新冠疫苗，主要为了在秋季返校前为医疗保健提供商和儿科医生提供更容易储存的疫苗。据了解，随着美国试图为更多年轻人接种疫苗，该公司是第二家寻求监管部门批准在这一年龄组使用该疫苗的制药商。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[以色列考古学家发现一枚千年鸡蛋：外形与新蛋几乎无异]]></title>
+        <id>https://www.cnbeta.com/articles/science/1139229.htm</id>
+        <link href="https://www.cnbeta.com/articles/science/1139229.htm"/>
+        <updated>2021-06-10T14:35:41.000Z</updated>
+        <summary type="html"><![CDATA[众所周知，鸡蛋在常温条件下，保质期也就在15天左右。而一枚拥有千年历史的鸡蛋，会是什么样子？据媒体报道，日前，以色列考古学家在进行考古挖掘时，发现了一枚拥有千年历史的鸡蛋。让人意外的是，这枚鸡蛋的外形保存十分良好，几乎与新蛋无异。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[买特斯拉遇上贷款 消费者质疑被招商银行“汽车分期”坑了]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1139227.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1139227.htm"/>
+        <updated>2021-06-10T14:32:43.000Z</updated>
+        <summary type="html"><![CDATA[今年5月中旬，杨先生准备在杭州购买一辆特斯拉，随后特斯拉的工作人员给杨先生建了专门的微信群，还拉进了一位姓尤的经理。据群里介绍，尤经理是招商银行（下文简称“招行”）的客户经理，而招行是特斯拉金融服务的官方合作机构之一，可进行汽车分期等贷款业务。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[瓜子二手车母公司车好多完成3亿美元融资]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1139225.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1139225.htm"/>
+        <updated>2021-06-10T14:29:48.000Z</updated>
+        <summary type="html"><![CDATA[6月10日，瓜子二手车母公司车好多集团宣布，已完成3亿美元新一轮融资，本轮由H Capital领投，红杉中国、IDG、杨浩涌个人基金跟投，投后估值超100亿美元。本次融资距上次2亿美元D+轮一年多，未公布具体轮数。截至目前，车好多已累计获得融资近40亿美元。
+ 阅读全文]]></summary>
+        <author>
+            <name>LonelyJames</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[消息称台积电计划在日本建立首家芯片工厂 毗邻索尼工厂]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1139223.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1139223.htm"/>
+        <updated>2021-06-10T14:18:58.000Z</updated>
+        <summary type="html"><![CDATA[据日经新闻报道，四位知情人士今日称，台积电正考虑在日本建造其第一家芯片工厂，此举正值日本政府敦促企业扩大其在日本的半导体生产之际。这些知情人士称，台积电正评估在日本西部的熊本县（Kumamoto Prefecture）建厂的计划。台积电是全球最大的芯片代工厂商，也是索尼和其他日本芯片制造商的主要供应商。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[华为注册开发者数量已超400万 HMS Core 6.0即将上线]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1139221.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1139221.htm"/>
+        <updated>2021-06-10T14:17:44.000Z</updated>
+        <summary type="html"><![CDATA[2021华为HMS全球应用创新大赛（Apps UP）今日正式启动，激励全球开发者集成华为HMS Core开放能力开发创新应用。据悉，截至2021年5月底，华为注册开发者数量已超400万，全球集成HMS Core的应用达到13.4万。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[欧美疫苗价差巨大：美国普遍价格高 最高超30%]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1139219.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1139219.htm"/>
+        <updated>2021-06-10T14:14:00.000Z</updated>
+        <summary type="html"><![CDATA[目前全球已接种的新冠疫苗超过20亿剂，但统计显示，欧美各国为疫苗支付的价格相差巨大。虽然欧美各国对于不同型号疫苗支付价格不尽相同。但整体而言，欧盟在一系列新冠疫苗上支付的费用明显低于美国。其中在辉瑞疫苗上的价格差最为巨大，平均每剂疫苗美国的支付价格要高出32.1%。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[字节跳动披露B端布局：开放推荐算法等多项核心技术]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1139217.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1139217.htm"/>
+        <updated>2021-06-10T14:13:12.000Z</updated>
+        <summary type="html"><![CDATA[飞书、巨量引擎、火山引擎，字节跳动B端技术布局平台逐渐展露在公众面前。6月10日，字节跳动宣布将自身的推荐算法、数据分析、人工智能等核心技术，通过“火山引擎”开放给企业客户。火山引擎的助推器包括智能应用、视觉智能、数据智能与多媒体技术。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[消息称蔚来汽车筹划推出副品牌 定位低于蔚来]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1139215.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1139215.htm"/>
+        <updated>2021-06-10T14:11:44.000Z</updated>
+        <summary type="html"><![CDATA[记者独家获悉，蔚来汽车正筹划推出一个新的品牌，定位低于蔚来，内部人称之为副品牌。前几日该公司对外宣布的即将于明年推出的新产品“Gemini”，确认将沿用蔚来品牌，并保持高端定位。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[上海光机所计算光刻技术研究取得进展]]></title>
         <id>https://www.cnbeta.com/articles/tech/1139213.htm</id>
