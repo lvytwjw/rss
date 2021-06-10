@@ -76,6 +76,24 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=341894",
+          "author": "Kevin Powell",
+          "description": "As awesome as flexbox is, what it’s doing under the hood is actually a little strange because, by default, it is doing two things at once. It first looks at the content size which is what we would get if by declaring width: max-content on an element. But on top of that, flex-shrink is also doing some work allowing the items to be smaller, but only if needed.\nLet’s break those two down and see how they work together.\nThe post Equal Columns With Flexbox: It’s More Complicated Than You Might Think appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/equal-columns-with-flexbox-its-more-complicated-than-you-might-think/",
+          "publishedOn": "2021-06-10T14:34:22.000Z",
+          "wordCount": 4182,
+          "title": "Equal Columns With Flexbox: It’s More Complicated Than You Might Think"
+        },
+        {
+          "id": "https://css-tricks.com/?p=342182",
+          "author": "Ikeh Akinyemi",
+          "description": "In this tutorial, we will learn and use headless CMS, Fauna, and Vercel functions to build a blogging platform, Blogify After that, you can easily build any web application using a headless CMS, Fauna and Vercel functions.\nThe post Building a Headless CMS with Fauna and Vercel Functions appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/building-a-headless-cms-with-fauna-and-vercel-functions/",
+          "publishedOn": "2021-06-10T14:26:47.000Z",
+          "wordCount": 2892,
+          "title": "Building a Headless CMS with Fauna and Vercel Functions"
+        },
+        {
           "id": "https://css-tricks.com/?p=340967",
           "author": "Geoff Graham",
           "description": "I don’t know about y’all, but my feeds have been flooded with articles about CSS Container Queries these past few weeks. The buzz about container queries actually started back in December after Miriam Suzanne posted a proposal (picking up on …\nThe post A Cornucopia of Container Queries appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
@@ -514,6 +532,20 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2021/06/useful-frontend-boilerplates-starter-kits/",
+          "author": "hello@smashingmagazine.com (Cosima Mielke)",
+          "description": "We don’t need to write everything from scratch every single time. With boilerplates and starter kits, we can set up our projects faster, and get to work immediately.",
+          "link": "https://smashingmagazine.com/2021/06/useful-frontend-boilerplates-starter-kits/",
+          "publishedOn": "2021-06-10T15:00:00.000Z",
+          "wordCount": 4864,
+          "title": "Useful Front-End Boilerplates And Starter Kits",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/598e7f3e-9dca-4922-b17d-76089efab46f/25-frontend-boilerplates-starter-kits.png",
+            "length": "0",
+            "type": "image/png"
+          }
+        },
         {
           "id": "https://smashingmagazine.com/2021/06/three-frontend-auditing-tools/",
           "author": "hello@smashingmagazine.com (Stefan Judis)",
@@ -1458,6 +1490,132 @@
       "feedUrl": "https://www.cnbeta.com/backend.php",
       "siteUrl": "https://www.cnbeta.com",
       "articles": [
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1139259.htm",
+          "author": "ugmbbc",
+          "description": "当地时间10日下午，法新社援引汽车制造集团Stellantis的消息称，其下属的雪铁龙公司于当天早些时候被巴黎司法法庭传唤后，受到正式立案审查，原因是雪铁龙2009年到2015年在法国销售的欧洲第五代排放标准柴油车型涉嫌尾气排放“欺诈”。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1139259.htm",
+          "publishedOn": "2021-06-10T16:13:33.000Z",
+          "wordCount": 195,
+          "title": "柴油车尾气排放或涉“欺诈” 雪铁龙成法国第三个被立案审查的品牌"
+        },
+        {
+          "id": "https://hot.cnbeta.com/articles/game/1139257.htm",
+          "author": "ugmbbc",
+          "description": "微软游戏业务总裁Phil Spencer在其E3 2021发布会前夕通过媒体批评了竞争对手索尼，他指出“其他公司”几年之后把主机游戏带到PC平台，再一次收割玩家。Spencer显然在暗指索尼。Guerrilla开发的《地平线：黎明曙光》在登陆PS4三年之后登陆了PC平台。无独有偶，Bend工作室的《往日不再》在发售两年后登陆了PC。\n 阅读全文",
+          "link": "https://hot.cnbeta.com/articles/game/1139257.htm",
+          "publishedOn": "2021-06-10T16:12:23.000Z",
+          "wordCount": 206,
+          "title": "微软批评索尼：老游戏几年之后登陆PC 再收割一波"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1139255.htm",
+          "author": "ugmbbc",
+          "description": "据美国媒体于当地时间6月10日报道，因反对美国食物和药物管理局（FDA）批准美国Biogen公司生产的药物aducanumab用于治疗阿尔茨海默症，该机构咨询委员会的2名专家组成员决定辞职。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1139255.htm",
+          "publishedOn": "2021-06-10T16:11:11.000Z",
+          "wordCount": 201,
+          "title": "反对批准阿尔茨海默症药物 2名美国FDA专家辞职"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1139253.htm",
+          "author": "ugmbbc",
+          "description": "欧洲反垄断委员会主席玛格丽特-维斯塔格（Margrethe Vestager）希望苹果公司允许备用应用程序商店，以便在其平台上实现适当的竞争。Epic对苹果的审判并不是对苹果在iPhone上的商业行为进行审查的结束。欧盟反垄断监管机构维斯塔格希望通过新的法规来推动苹果和其他科技公司的开放。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1139253.htm",
+          "publishedOn": "2021-06-10T16:06:03.000Z",
+          "wordCount": 193,
+          "title": "欧盟反垄断监管机构负责人希望苹果公司允许提供第二应用程序商店"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1139251.htm",
+          "author": "ugmbbc",
+          "description": "OnePlus已经宣布为其中档手机阵容增加一款新产品，即Nord CE。据该公司称，\"CE \"代表 \"核心版\"（Core Edition），这表明该公司正专注于实现一款可以满足基本用户需求的产品，而不是用军备竞赛的形式充实设备的规格表。这款手机将在欧洲和印度率先推出，目前还没有在美国发布的计划。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1139251.htm",
+          "publishedOn": "2021-06-10T16:02:02.000Z",
+          "wordCount": 233,
+          "title": "一加发布中档机型OnePlus Nord CE 配备750G处理器 找回耳机插孔"
+        },
+        {
+          "id": "https://hot.cnbeta.com/articles/music/1139249.htm",
+          "author": "ugmbbc",
+          "description": "6月10日晚，腾讯公司官方微博发文称，最近，听歌时发现QQ音乐有了新伙伴：微信翻译（就是你们用的那个微信翻译）。它让很多小众的英文歌曲，有了高品质的歌词翻译，以后听歌再也不用担心不懂歌词了。\n 阅读全文",
+          "link": "https://hot.cnbeta.com/articles/music/1139249.htm",
+          "publishedOn": "2021-06-10T15:56:49.000Z",
+          "wordCount": 195,
+          "title": "QQ音乐新增微信翻译功能：再也不用担心不懂歌词了"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1139247.htm",
+          "author": "ugmbbc",
+          "description": "iOS 15中引入的一个小而有用的新功能是，客户可以直接在应用内购买的产品中申请退款，而不必使用苹果网站上的报告问题页面。通常而言写邮件退款需要较高的解释成本和长时间的等待。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1139247.htm",
+          "publishedOn": "2021-06-10T15:52:18.000Z",
+          "wordCount": 208,
+          "title": "iOS 15允许用户在应用内直接申请内购产品的退款"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1139245.htm",
+          "author": "ugmbbc",
+          "description": "美国邮政局发布了一份图表，对2020年各个城市和州的狗袭击事件进行排名。这不是美国邮政总署第一次发布这样的图表。他们本次公布了前25个城市和前10个州的邮递员被狗袭击事件的数字。虽然这肯定不是一个州应该引以为豪的排名，但看看哪些州在过去一年里有最多针对邮政工作人员的狗袭击事件，以及哪些州自排名系统开始统计以来有最多的狗袭击事件报告，是很有意思的。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1139245.htm",
+          "publishedOn": "2021-06-10T15:48:04.000Z",
+          "wordCount": 195,
+          "title": "奇怪的知识增加了：USPS公布美国各州邮递员遭狗攻击次数排行"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1139243.htm",
+          "author": "ugmbbc",
+          "description": "在iOS和iPadOS 15上，我们可以看到苹果正在为去年推出的WidgetKit增加的新功能，允许开发者在他们的小工具中对被认为是敏感的个人信息进行分类，这意味着特定的信息只有在用户解锁他们的设备时才能在锁屏上看到。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1139243.htm",
+          "publishedOn": "2021-06-10T15:38:11.000Z",
+          "wordCount": 211,
+          "title": "iOS 15让开发者将个人信息隐藏在锁屏小工具中 直到iPhone被解锁为止"
+        },
+        {
+          "id": "https://hot.cnbeta.com/articles/game/1139241.htm",
+          "author": "ugmbbc",
+          "description": "《瑞奇与叮当：分离》即将于6月11日登陆PS5，发行商索尼互娱公开了游戏的上市预告，目前该作获得了大多数媒体的好评，是一款不可错过的佳作。《瑞奇与叮当：分离》上市预告：\n 阅读全文",
+          "link": "https://hot.cnbeta.com/articles/game/1139241.htm",
+          "publishedOn": "2021-06-10T15:28:02.000Z",
+          "wordCount": 197,
+          "title": "《瑞奇与叮当：分离》上市预告 惊人的视觉特效"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1139239.htm",
+          "author": "ugmbbc",
+          "description": "6月10日，据华尔街日报报道，知情人士透露，由于数据隐私问题，欧盟一家隐私监管机构提议对亚马逊公司处以4.25亿美元的罚款。这可能是在欧盟隐私法之下，迄今为止开出的最大罚单。知情人士表示，卢森堡的数据保护委员会 （CNPD） 已向欧盟其他26个国家数据保护机构分发了一项决定草案，该决定草案提出制裁亚马逊的隐私问题，并提议罚款。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1139239.htm",
+          "publishedOn": "2021-06-10T15:25:28.000Z",
+          "wordCount": 192,
+          "title": "亚马逊或因数据隐私问题面临欧盟4.25亿美元罚款"
+        },
+        {
+          "id": "https://hot.cnbeta.com/articles/game/1139237.htm",
+          "author": "ugmbbc",
+          "description": "微软确认他们已经在开发新的主机了，显然去年11月发售的Xbox Series X|S不会是最后一代Xbox。微软游戏体验&平台副总裁Liz Hamren透漏，他们已经在开发新的硬件，其中一些直到几年之后才会曝光。\n 阅读全文",
+          "link": "https://hot.cnbeta.com/articles/game/1139237.htm",
+          "publishedOn": "2021-06-10T15:23:27.000Z",
+          "wordCount": 208,
+          "title": "微软已在开发新的Xbox主机 但几年之后才会公开"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1139235.htm",
+          "author": "ugmbbc",
+          "description": "到目前为止，苹果公司将业务转移到印度已经创造了约2万个就业机会，供应商承诺在2022年3月前继续增加就业，实现比现在超过三倍的数字。苹果的供应链非常庞大，多年来主要依赖中国的供应商。来自监管机构、股票持有人和政府层面的的压力，促使苹果寻求替代方案，其中之一就是印度。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1139235.htm",
+          "publishedOn": "2021-06-10T15:16:53.000Z",
+          "wordCount": 200,
+          "title": "报告显示苹果公司在印度现已创造了约20000个工作机会"
+        },
+        {
+          "id": "https://hot.cnbeta.com/articles/game/1139233.htm",
+          "author": "ugmbbc",
+          "description": "美国国家音乐出版商协会（NMPA）在一份新闻稿中说，该组织已经对Roblox提出了2亿美元的诉讼，因为它允许非法使用了音乐版权作品。与此同时，该组织还对Twitch发起了 \"重大升级 \"的攻坚行动，指控该平台未能获得音乐许可。\n 阅读全文",
+          "link": "https://hot.cnbeta.com/articles/game/1139233.htm",
+          "publishedOn": "2021-06-10T15:09:09.000Z",
+          "wordCount": 202,
+          "title": "Roblox因涉嫌侵犯音乐版权而遭到高达2亿美元的索赔"
+        },
         {
           "id": "https://www.cnbeta.com/articles/tech/1139231.htm",
           "author": "ugmbbc",
