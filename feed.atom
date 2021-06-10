@@ -2,10 +2,362 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://lvytwjw.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-09T23:07:15.603Z</updated>
+    <updated>2021-06-10T00:25:03.711Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://lvytwjw.github.io/rss/index.html"/>
     <link rel="self" href="https://lvytwjw.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[半月谈：治理校外培训乱象，关键在于做强学校主阵地]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1138859.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1138859.htm"/>
+        <updated>2021-06-10T00:22:04.000Z</updated>
+        <summary type="html"><![CDATA[5月21日召开的中央全面深化改革委员会第十九次会议审议通过《关于进一步减轻义务教育阶段学生作业负担和校外培训负担的意见》，习近平总书记强调要充分发挥学校教书育人主体功能，强化线上线下校外培训机构规范管理。
+ 阅读全文]]></summary>
+        <author>
+            <name>teikaei</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[爱因斯坦错了吗？新时空理论动摇相对论王座]]></title>
+        <id>https://www.cnbeta.com/articles/science/1138857.htm</id>
+        <link href="https://www.cnbeta.com/articles/science/1138857.htm"/>
+        <updated>2021-06-10T00:20:19.000Z</updated>
+        <summary type="html"><![CDATA[美国趣味科学网站5月24日发表题为《爱因斯坦错了吗？为什么一些天体物理学家质疑时空理论》的文章，作者是科林·斯图尔特。全文摘编如下：
+ 阅读全文]]></summary>
+        <author>
+            <name>teikaei</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[上海专家率先实现自体胰岛细胞移植“自救” 提升患者生活质量]]></title>
+        <id>https://www.cnbeta.com/articles/science/1138855.htm</id>
+        <link href="https://www.cnbeta.com/articles/science/1138855.htm"/>
+        <updated>2021-06-10T00:18:26.000Z</updated>
+        <summary type="html"><![CDATA[“胰腺良性肿瘤术后会导致严重的糖尿病，需终身注射胰岛素”，这让许多患者痛苦不堪。随着医疗技术的进步及多学科融合理念的推进，肿瘤切除后通过胰岛细胞移植“自救”当下已成为可能。记者9日从上海长征医院获悉，该院多学科团队和瑞金医院胰腺外科携手，率先成功完成了腹腔镜胰体尾切除联合自体胰岛细胞移植术。
+ 阅读全文]]></summary>
+        <author>
+            <name>teikaei</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[看雪花蛇鳝如何以非同寻常的方式吞下寿司点心]]></title>
+        <id>https://www.cnbeta.com/articles/science/1138853.htm</id>
+        <link href="https://www.cnbeta.com/articles/science/1138853.htm"/>
+        <updated>2021-06-10T00:16:37.000Z</updated>
+        <summary type="html"><![CDATA[据外媒CNET报道，对于鱼类和海鳗等在水中活动的动物来说，水是将食物送入它们肚子的必要条件。然而，雪花蛇鳝（snowflake moray eel）违背了人们的期望。一项新研究发现，雪花蛇鳝具有在陆地上进食的非凡天赋，不需要水。
+ 阅读全文]]></summary>
+        <author>
+            <name>vivian</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[中国火箭残骸落区控制更准了]]></title>
+        <id>https://www.cnbeta.com/articles/science/1138851.htm</id>
+        <link href="https://www.cnbeta.com/articles/science/1138851.htm"/>
+        <updated>2021-06-10T00:14:55.000Z</updated>
+        <summary type="html"><![CDATA[6月3日，由中国航天科技集团所属中国运载火箭技术研究院抓总研制的长征三号乙运载火箭在西昌卫星发射中心起飞，将风云四号02星准确送入预定轨道，发射取得圆满成功。不少航天爱好者发现，此次发射的长三乙运载火箭有一枚助推器跟其它3个长得不太一样——身上多了“两道杠”，头上还有一顶“黄帽子”。
+ 阅读全文]]></summary>
+        <author>
+            <name>vivian</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[加拿大公司宣布终止美加输油管道延伸项目]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1138849.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1138849.htm"/>
+        <updated>2021-06-10T00:14:20.000Z</updated>
+        <summary type="html"><![CDATA[当地时间9日，加拿大TC能源公司宣布终止“拱心石”XL输油管道项目。美媒认为，此举对加拿大石油生产商和加拿大政府来说是一个重大打击。据美国《国会山报》等美媒报道，TC能源公司在声明中表示，对其备选方案进行全面评估并与加拿大阿尔伯塔政府公司进行了咨询后，决定终止该项目。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[马斯克：已卖掉加州所有房产 现在德州租住5万美元的房子]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1138847.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1138847.htm"/>
+        <updated>2021-06-10T00:13:45.000Z</updated>
+        <summary type="html"><![CDATA[特斯拉CEO埃隆-马斯克表示，尽管他去年搬到了德克萨斯州，但他仍将在加州缴纳与他在该州度过的“大量”时间成比例的所得税。在一连串讨论他的财富和税收的帖子中，马斯克还透露，他已经卖掉了在加州的所有房子，除了一套用于出租举办活动的房子。
+ 阅读全文]]></summary>
+        <author>
+            <name>vivian</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[肉食巨头JBS向黑客支付1100万美元比特币赎金]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1138845.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1138845.htm"/>
+        <updated>2021-06-10T00:13:07.000Z</updated>
+        <summary type="html"><![CDATA[全球最大肉类生产商巴西JBS集团美国分公司的CEO周三表示，该公司向网络犯罪分子支付了价值1100万美元的比特币赎金，以解决上周遭受的网络攻击，这次攻击迫使该公司暂时关闭了加工美国约五分之一肉类产品的工厂。
+ 阅读全文]]></summary>
+        <author>
+            <name>vivian</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[德eVTOL制造商Lilium将与Honeywell联合开发飞行控制与航电系统]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1138843.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1138843.htm"/>
+        <updated>2021-06-10T00:05:48.000Z</updated>
+        <summary type="html"><![CDATA[据外媒报道，德国电动空中移动公司Lilium跟航空制造商Honeywell合作为7座Lilium Jet开发电子和机械系统，这是该公司的首款eVTOL产品。Honeywell将提供其紧凑的线控飞行系统--一种飞行控制组件，它将负责控制喷气机的所有活动部件以及飞机的航空电子系统。
+ 阅读全文]]></summary>
+        <author>
+            <name>teikaei</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[旅客自称是新冠患者致飞机返航：核酸检测阴性 或涉人为制造恐慌]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1138841.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1138841.htm"/>
+        <updated>2021-06-10T00:02:31.000Z</updated>
+        <summary type="html"><![CDATA[6月9日，网传上海浦东国际机场一旅客声称自己是新冠患者，造成飞机滑出后返航。9日晚，极目新闻记者从相关渠道获悉，确有此事，但该乘客核酸检测结果为阴性。浦东人民医院一名工作人员证实，该旅客核酸检测结果的确是阴性，但仍处于隔离中，还将作进一步检查。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[下载]外媒分享macOS Monterey默认壁纸 分辨率6106*6106]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1138839.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1138839.htm"/>
+        <updated>2021-06-09T23:59:16.000Z</updated>
+        <summary type="html"><![CDATA[在日前分享 iOS/iPadOS 15 的最新壁纸之后，外媒 Wccftech 今天再次分享了 macOS Monterey 的默认壁纸。这两张壁纸的分辨率均为 6016*6016 像素，因此适用于 4K/5K 分辨率屏幕上，甚至于在 Pro Display XDR 这样的显示器上也有超级清晰的细节。
+ 阅读全文]]></summary>
+        <author>
+            <name>study875</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“罗塞塔石碑”事件有助于解开太阳不可预测的喷发原因的谜团]]></title>
+        <id>https://www.cnbeta.com/articles/science/1138837.htm</id>
+        <link href="https://www.cnbeta.com/articles/science/1138837.htm"/>
+        <updated>2021-06-09T23:59:09.000Z</updated>
+        <summary type="html"><![CDATA[据外媒报道，太阳经历了一次多阶段的喷发，美国宇航局（NASA）表示，这次喷发揭示了新的线索，可以帮助科学家解决一些长期以来困扰他们的谜题，即是什么原因导致了这种强大而不可预测的喷发。NASA正试图揭开基本的物理学，以帮助科学家更好地预测未来这种类型的喷发。NASA望能够预测这种喷发，因为它们可能导致地球上危险的太空天气事件。
+ 阅读全文]]></summary>
+        <author>
+            <name>vivian</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[凝胶贴片：未来或能通过鼻子将多发性硬化症药物送入大脑]]></title>
+        <id>https://www.cnbeta.com/articles/science/1138835.htm</id>
+        <link href="https://www.cnbeta.com/articles/science/1138835.htm"/>
+        <updated>2021-06-09T23:49:03.000Z</updated>
+        <summary type="html"><![CDATA[据外媒报道，由于人体的血脑屏障具有保护作用，让传统的药物进入大脑是一项挑战。然而在病人的鼻子上塞一块贴片可能会带来新的希望。血脑屏障通常是一件好事，因为它有助于阻止血液中的病原体进入大脑。然而不幸的是，它也限制了用于治疗多发性硬化症(MS)等脑部疾病的口服或静脉注射药物--及鼻腔喷雾剂的有效性。
+ 阅读全文]]></summary>
+        <author>
+            <name>teikaei</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[科学家们发现了新冠病毒的“致命弱点”]]></title>
+        <id>https://www.cnbeta.com/articles/science/1138833.htm</id>
+        <link href="https://www.cnbeta.com/articles/science/1138833.htm"/>
+        <updated>2021-06-09T23:46:42.000Z</updated>
+        <summary type="html"><![CDATA[据外媒报道，近日科学家们发现，SARS-CoV-2基因组的一个独特特征控制着蛋白质的合成，是COVID-19病毒的一个“致命弱点”。病毒需要被感染细胞的资源来复制，然后感染更多的细胞，并转移到其他个体。病毒生命周期的一个重要步骤是根据病毒RNA基因组中的“指令”生产新的病毒蛋白。按照这些构建计划，细胞自身的蛋白质“合成机器”——核糖体，生产病毒蛋白质。
+ 阅读全文]]></summary>
+        <author>
+            <name>vivian</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[智能手机普及老年人沉迷网络 “网瘾老人”为何越来越多]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1138831.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1138831.htm"/>
+        <updated>2021-06-09T23:40:54.000Z</updated>
+        <summary type="html"><![CDATA[凌晨两点半，家中的一间房内还隐约透着亮光，北京市民王明（化名）知道，这是他年近七旬的爷爷又躲在被窝偷偷刷短视频。“现在天天也不出去遛弯了，只要一没事就玩手机，有次家里烧水没注意，差点把厨房烧了。他本来眼睛就有问题，晚上玩手机还不开灯。”王明说，自己劝了爷爷好多次，但往往过几分钟他又会把手机拿起来。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[又出花样：主播诱导场外下单、拉黑“跑路”]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1138829.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1138829.htm"/>
+        <updated>2021-06-09T23:40:06.000Z</updated>
+        <summary type="html"><![CDATA[随着互联网交易不断升级，直播带货销售模式迅猛崛起。与此同时，其存在的夸大宣传、诱导场外交易、假冒伪劣、售后服务保障难等侵害消费者权益的问题也日益凸显。日前，长春消费者王丽（化名）在某短视频平台一直播间工作人员引导下，微信扫码付款669元购买产品，因售后未达成一致意见，卖家直接拉黑微信玩“跑路”。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[叫板Apple Watch？消息称Facebook明年夏季将推出首款智能手表]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1138827.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1138827.htm"/>
+        <updated>2021-06-09T23:37:02.000Z</updated>
+        <summary type="html"><![CDATA[据报道，Facebook计划在明年夏季推出首款带有两个摄像头和心率监测器的智能手表，以对抗竞争对手苹果公司和 Fitbit 的所有者Google。据报道，这款智能手表将配备一个带有两个摄像头的显示屏，摄像头可拆卸，以便拍摄照片和视频，并快速分享到包括 Instagram 在内的平台。
+ 阅读全文]]></summary>
+        <author>
+            <name>study875</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[打了疫苗六个月内不能怀孕？新冠疫苗不背这锅]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1138825.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1138825.htm"/>
+        <updated>2021-06-09T23:34:40.000Z</updated>
+        <summary type="html"><![CDATA[昨天（6月8日），2021年亚布力中国企业家论坛活动中，中国飞鹤董事长冷友斌表示，“因为注射疫苗的影响，很多宝妈宝爸6个月内不能怀孕，预计奶粉销量在接下来一两年会出现断崖式的下跌。”“自曝”式发言貌似影响了飞鹤的股价。今日，中国飞鹤乳业股价曾一度下跌至8.54%，疑似冷友斌“祸从口出”。
+ 阅读全文]]></summary>
+        <author>
+            <name>vivian</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[《战地2042》没有单人战役模式 暂未考虑吃鸡玩法]]></title>
+        <id>https://hot.cnbeta.com/articles/game/1138823.htm</id>
+        <link href="https://hot.cnbeta.com/articles/game/1138823.htm"/>
+        <updated>2021-06-09T23:34:15.000Z</updated>
+        <summary type="html"><![CDATA[昨天深夜，EA终于正式公布了战地系列的最新作《战地2042》。这款游戏一改系列近几年的历史写实主题，转变为近未来科幻风格，根据官方发布的进一步消息也确定在《战地2042》中没有系列传统的单人剧情战役模式，而且目前也没有打算推出这几年流行的“吃鸡”玩法。
+ 阅读全文]]></summary>
+        <author>
+            <name>teikaei</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[劝雷军别造车？王传福：别浪费钱和时间]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1138821.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1138821.htm"/>
+        <updated>2021-06-09T23:33:41.000Z</updated>
+        <summary type="html"><![CDATA[6月10日早间消息，在亚布力中国企业家论坛上 ，比亚迪董事长兼总裁王传福调侃了一波小米造车，表示很多大咖进来造车，50亿不算钱。比如说像雷军，1000个亿。但现在具有造车优势的企业并不多，雷总别亏了钱还浪费了时间。
+ 阅读全文]]></summary>
+        <author>
+            <name>teikaei</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[市监总局通报10大类19批次食品抽检不合格  天猫多家旗舰店被点名]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1138819.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1138819.htm"/>
+        <updated>2021-06-09T23:33:25.000Z</updated>
+        <summary type="html"><![CDATA[近期，市场监管总局组织食品安全监督抽检，抽取食用农产品、食糖、茶叶及相关制品、乳制品、饮料、酒类、糕点、炒货食品及坚果制品、淀粉及淀粉制品、方便食品、薯类和膨化食品、蛋制品、豆制品、蜂产品、罐头、蔬菜制品、肉制品、水产制品、调味品、糖果制品、婴幼儿配方食品和食用油、油脂及其制品等22大类食品657批次样品，检出其中食用农产品、食糖、糕点、淀粉及淀粉制品、方便食品、薯类和膨化食品、蜂产品、水果制品、肉制品和调味品等10大类食品19批次样品不合格。
+ 阅读全文]]></summary>
+        <author>
+            <name>vivian</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[萨尔瓦多拥抱比特币令币价日内一度大涨15%]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1138817.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1138817.htm"/>
+        <updated>2021-06-09T23:32:49.000Z</updated>
+        <summary type="html"><![CDATA[在萨尔瓦多采用比特币作为法币的利好刺激之下，比特币从24小时之内31000美元的低位快速拉起，发稿前曾一度触及37000美元，24小时大涨约15%，随后涨幅有所收窄。根据最新行情，目前比特币报35894美元，24小时上涨9.51%。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[《守望先锋》即将加入PC与主机间跨平台联机功能]]></title>
+        <id>https://hot.cnbeta.com/articles/game/1138815.htm</id>
+        <link href="https://hot.cnbeta.com/articles/game/1138815.htm"/>
+        <updated>2021-06-09T23:31:49.000Z</updated>
+        <summary type="html"><![CDATA[有关《守望先锋》支持跨平台联机游戏的呼声已经出现很久了，到了今天（6月10日）早上，暴雪的开发人员终于通过一段视频宣布《守望先锋》即将支持这一功能，虽然目前还没有确定跨平台功能具体的上线时间，不过官方已经确定会准备一个金色箱子来庆祝这一重大更新。
+ 阅读全文]]></summary>
+        <author>
+            <name>vivian</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[维珍轨道六月底发射任务将在YouTube上进行直播]]></title>
+        <id>https://www.cnbeta.com/articles/science/1138813.htm</id>
+        <link href="https://www.cnbeta.com/articles/science/1138813.htm"/>
+        <updated>2021-06-09T23:31:43.000Z</updated>
+        <summary type="html"><![CDATA[据外媒报道，维珍轨道公司(Virgin Orbit)正在准备发射下一次太空任务，目标窗口将在本月底。这将是该公司在今年1月首次成功轨道发射后的首次飞行，它为包括美国国防部和荷兰皇家空军在内的客户携带了七颗小型卫星。
+ 阅读全文]]></summary>
+        <author>
+            <name>teikaei</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[《空中大灌篮》第二部预告发布 詹姆斯变身卡通人物]]></title>
+        <id>https://hot.cnbeta.com/articles/movie/1138811.htm</id>
+        <link href="https://hot.cnbeta.com/articles/movie/1138811.htm"/>
+        <updated>2021-06-09T23:31:04.000Z</updated>
+        <summary type="html"><![CDATA[今天（6月10日）凌晨，华纳兄弟电影公布了《空中大灌篮：新传奇》第二弹预告片。视频中展示了勒布朗·詹姆斯变成卡通片人物并与兔八哥等角色在球场上一同比赛的桥段。
+ 阅读全文]]></summary>
+        <author>
+            <name>vivian</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[苹果自曝M1X处理器确实存在：CPU升到10核 GPU数量大增]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1138809.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1138809.htm"/>
+        <updated>2021-06-09T23:28:38.000Z</updated>
+        <summary type="html"><![CDATA[今年 WWDC 举行前夕，很多消息人士预测苹果会在今年WWDC发布会上正式推出全新14英寸和16英寸 MacBook Pro，不过最终传言没能成为现实。发布会结束后，苹果将发布会视频上传至网络，有人网友发现，这段WWDC21视频中包含了“ m1x MacBook Pro”这样的标签，其他标签包括iOS 15、M1X、iOS开发者大会等。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Facebook允许所有员工疫情后申请继续远程工作]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1138807.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1138807.htm"/>
+        <updated>2021-06-09T23:24:37.000Z</updated>
+        <summary type="html"><![CDATA[Facebook正在加大其弹性工作制政策的力度，周三向员工宣布，从6月15日开始，公司各级员工都可以在疫情之后后申请继续远程全职工作。该公司一位发言人表示，在此之前，只有特定级别的员工才有资格要求远程办公，而不同部门的政策也有所不同。
+ 阅读全文]]></summary>
+        <author>
+            <name>teikaei</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[世界最宜居城市排名大幅改变：欧洲排名整体下降 有城市从榜首掉出前10]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1138805.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1138805.htm"/>
+        <updated>2021-06-09T23:24:06.000Z</updated>
+        <summary type="html"><![CDATA[世界最宜居城市排名在疫情下悄然发生改变。《经济学人》9日发布的年度调查显示，欧洲城市排名整体下降。法新社9日报道称，新西兰的奥克兰在《经济学人》调查中成为2021年世界上最宜居的城市，紧随其后的是日本的大阪和东京、澳大利亚的阿德莱德和新西兰的惠灵顿。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[拜登政府撤销对TikTok和WeChat禁令 代之以新评估]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1138803.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1138803.htm"/>
+        <updated>2021-06-09T23:22:37.000Z</updated>
+        <summary type="html"><![CDATA[美国总统拜登9日签署行政令，撤销上届政府针对抖音海外版(TikTok)、微信(WeChat)以及其他8款通讯和金融软件应用程序的禁令，并指示美商务部对“外国对手”的软件应用程序进行评估，并酌情采取行动。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[诱导消费卷钱跑路 起底医美分期黑心“美容贷”]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1138801.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1138801.htm"/>
+        <updated>2021-06-09T23:15:20.000Z</updated>
+        <summary type="html"><![CDATA[水光针、热玛吉、光子嫩肤……这类医美界的热门项目近年来颇受消费者追捧，尤其是部分年轻群体的心头好，但高额的费用却成为一道阻碍。这一大背景下，医美分期成为了金融机构角逐的新赛道，而美容机构诱导用户贷款、圈钱跑路等问题也开始频发。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[无人配送有望率先成自动驾驶落地场景]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1138799.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1138799.htm"/>
+        <updated>2021-06-09T23:10:52.000Z</updated>
+        <summary type="html"><![CDATA[日前，北京市高级别自动驾驶示范区向京东、美团、新石器等头部企业颁发了无人配送车车辆编码，在国内首次实现对无人配送车辆赋予合法路权。分析人士指出，无人驾驶正在进入以场景落地为主的时期。未来三年，无人配送车成本将降至10万元以下，无人配送赛道将率先迎来爆发。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[IBM：美国员工将在9月7日当周回到办公室上班]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1138797.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1138797.htm"/>
+        <updated>2021-06-09T23:08:28.000Z</updated>
+        <summary type="html"><![CDATA[据报道，IBM首席人力资源官尼克·拉莫罗（Nickle Lamoreaux）向公司员工发出备忘录称，该公司的美国员工将在9月7日当周回到办公室上班。拉莫罗表示，IBM正在为已经完全接种疫苗的员工制定协议，让他们在办公室工作时可以不戴口罩。他还表示，IBM正在为员工的商务旅行和与公司外部客户的会议制定健康和安全协议。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[From the Slums of Mumbai to a Rented Apartment – My 30-Year Developer Journey]]></title>
         <id>60b357ad11ffb70827ef9a90</id>
@@ -50,6 +402,17 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[ProtonMail更新界面设计 采用更简洁的外观并且用户可以选择不同主题]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1138793.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1138793.htm"/>
+        <updated>2021-06-09T19:29:18.000Z</updated>
+        <summary type="html"><![CDATA[上个月，端对端加密电子邮件服务ProtonMail正式宣布在全球范围内获得超过5千万用户。现在，ProtonMail更新了其设计，采用更简洁的外观和更可定制的用户界面，其中包括用户对主题选择的能力。
+ 阅读全文]]></summary>
+        <author>
+            <name>maomao</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[ProtonMail更新外界设计 采用更简洁的外观并且用户可以选择不同主题]]></title>
         <id>https://www.cnbeta.com/articles/soft/1138793.htm</id>
         <link href="https://www.cnbeta.com/articles/soft/1138793.htm"/>
@@ -69,6 +432,17 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
  阅读全文]]></summary>
         <author>
             <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google宣布停止支持和更新基于AR的测量应用Measure]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1138789.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1138789.htm"/>
+        <updated>2021-06-09T18:52:37.000Z</updated>
+        <summary type="html"><![CDATA[谷歌AR计划多年来一直在变化，从独立的Project Tango到现代基于网络的努力。但今天谷歌关闭了基于AR的Measure应用。这款应用利用支持ARCore的设备摄像头，测量东西的尺寸，现在它已经退役了。谷歌已经停止支持和更新Measure应用。
+ 阅读全文]]></summary>
+        <author>
+            <name>maomao</name>
         </author>
     </entry>
     <entry>
