@@ -1436,6 +1436,42 @@
       "siteUrl": "https://www.cnbeta.com",
       "articles": [
         {
+          "id": "https://www.cnbeta.com/articles/tech/1138983.htm",
+          "author": "study875",
+          "description": "目前，很多国家并未对倒车视频影像这一汽车配置作出要求。然而，日本却对此项配置做出了硬性规定。近日，据易车网报道，日本国土交通省宣布，从 2022 年 5 月起，新车将必须标配后摄像头，提供倒车影像功能。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1138983.htm",
+          "publishedOn": "2021-06-10T04:10:36.000Z",
+          "wordCount": 217,
+          "title": "为防止倒车事故 日本规定 ：2022 年 5 月起新车必须标配后摄像头"
+        },
+        {
+          "id": "https://hot.cnbeta.com/articles/game/1138981.htm",
+          "author": "raymon725",
+          "description": "作为一款在全球拥有无数粉丝的现象级游戏，大家对于《Minecraft》的破圈联动早已见怪不怪。本文要为大家介绍的，就是刚刚在百思买上架上手的一款 Windows 10 笔记本电脑，即 GeoBook 120“我的世界”特别版。不过除了 Windows 10，《我的世界》也支持在 macOS、Linux、Android、iPhone、以及各大游戏主机平台上运行。\n 阅读全文",
+          "link": "https://hot.cnbeta.com/articles/game/1138981.htm",
+          "publishedOn": "2021-06-10T03:47:52.000Z",
+          "wordCount": 283,
+          "title": "百思买上架《我的世界》特别版GeoBook 120笔记本：售259.99美元"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1138979.htm",
+          "author": "study875",
+          "description": "曾震惊全球的大众“排放门”沸沸扬扬已经闹了数年，但是目前该事件仍未结束，而作为当时大众汽车 （Volkswagen） 前 CEO 的马丁·温特科恩 （Martin Winterkorn）， 也将为此付出沉重的代价。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1138979.htm",
+          "publishedOn": "2021-06-10T03:33:07.000Z",
+          "wordCount": 251,
+          "title": "造成公司损失 320 亿欧元 大众前 CEO 同意向公司赔偿 1120 万欧元"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1138977.htm",
+          "author": "study875",
+          "description": "Linux 中的 RAW 驱动（RAW_DRIVER）主要用于提供对块设备的直接 I/O 访问，不过即将推出的 Linux Kernel 5.14 内核中将移除该驱动。该驱动原本计划在 2000 年年中的时候就要废弃，而且在更早的时候就已经被阻止使用了。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1138977.htm",
+          "publishedOn": "2021-06-10T03:29:26.000Z",
+          "wordCount": 230,
+          "title": "Linux Kernel 5.14将移除已淘汰的RAW驱动"
+        },
+        {
           "id": "https://www.cnbeta.com/articles/science/1138975.htm",
           "author": "study875",
           "description": "在人类生存的整个过程中，银河系都保持相对稳定的状态。不过再快进 45 亿年，银河系将会和附近的仙女座星系碰撞。值得庆幸的是我们不必等到 45 亿年之后才看到这种碰撞，被称为 Arp 299 的星系是由两个处于合并过程中的星系组成的。\n 阅读全文",
