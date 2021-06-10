@@ -2,10 +2,43 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://lvytwjw.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-10T13:24:08.528Z</updated>
+    <updated>2021-06-10T14:10:18.838Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://lvytwjw.github.io/rss/index.html"/>
     <link rel="self" href="https://lvytwjw.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[上海光机所计算光刻技术研究取得进展]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1139213.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1139213.htm"/>
+        <updated>2021-06-10T13:26:37.000Z</updated>
+        <summary type="html"><![CDATA[近日，中国科学院上海光学精密机械研究所信息光学与光电技术实验室提出一种基于虚拟边（Virtual Edge）与双采样率像素化掩模图形（Mask pixelation with two-phase sampling）的快速光学邻近效应修正技术（Optical proximity correction, OPC），仿真结果表明该技术具有较高的修正效率。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[北京傍晚日偏食实拍：像被咬了一小口的蛋黄]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1139211.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1139211.htm"/>
+        <updated>2021-06-10T13:26:13.000Z</updated>
+        <summary type="html"><![CDATA[6月10日16时12分，今年全球唯一一次日环食登陆天宇，21时11分将结束，历时5个小时。据了解，此次环食从加拿大南部开始，经过加拿大北部、格林兰岛西部、北冰洋，在俄罗斯东北部结束。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[科学家发现瞳孔越大的人大脑越敏锐]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1139209.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1139209.htm"/>
+        <updated>2021-06-10T13:25:46.000Z</updated>
+        <summary type="html"><![CDATA[众所周知，智力商数（IQ）衡量个人智力高低的标准之一。现在，不用测试IQ，通过观察眼睛就能够看出人是否聪明。据外媒报道，美国乔治亚理工学院的一项新研究指出，人类的瞳孔大小与其认知能力有着密切关系，即瞳孔越大的人，大脑就越敏锐。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Waymo与卡车公司JB Hunt合作 在德克萨斯州进行自主货物运输]]></title>
         <id>https://www.cnbeta.com/articles/tech/1139207.htm</id>

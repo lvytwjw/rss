@@ -1459,6 +1459,33 @@
       "siteUrl": "https://www.cnbeta.com",
       "articles": [
         {
+          "id": "https://www.cnbeta.com/articles/tech/1139213.htm",
+          "author": "ugmbbc",
+          "description": "近日，中国科学院上海光学精密机械研究所信息光学与光电技术实验室提出一种基于虚拟边（Virtual Edge）与双采样率像素化掩模图形（Mask pixelation with two-phase sampling）的快速光学邻近效应修正技术（Optical proximity correction, OPC），仿真结果表明该技术具有较高的修正效率。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1139213.htm",
+          "publishedOn": "2021-06-10T13:26:37.000Z",
+          "wordCount": 204,
+          "title": "上海光机所计算光刻技术研究取得进展"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1139211.htm",
+          "author": "ugmbbc",
+          "description": "6月10日16时12分，今年全球唯一一次日环食登陆天宇，21时11分将结束，历时5个小时。据了解，此次环食从加拿大南部开始，经过加拿大北部、格林兰岛西部、北冰洋，在俄罗斯东北部结束。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1139211.htm",
+          "publishedOn": "2021-06-10T13:26:13.000Z",
+          "wordCount": 192,
+          "title": "北京傍晚日偏食实拍：像被咬了一小口的蛋黄"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1139209.htm",
+          "author": "ugmbbc",
+          "description": "众所周知，智力商数（IQ）衡量个人智力高低的标准之一。现在，不用测试IQ，通过观察眼睛就能够看出人是否聪明。据外媒报道，美国乔治亚理工学院的一项新研究指出，人类的瞳孔大小与其认知能力有着密切关系，即瞳孔越大的人，大脑就越敏锐。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1139209.htm",
+          "publishedOn": "2021-06-10T13:25:46.000Z",
+          "wordCount": 193,
+          "title": "科学家发现瞳孔越大的人大脑越敏锐"
+        },
+        {
           "id": "https://www.cnbeta.com/articles/tech/1139207.htm",
           "author": "ugmbbc",
           "description": "Waymo的自动驾驶卡车部门得到了推动，它宣布将与JB Hunt运输服务公司合作，这是一家位于阿肯色州的已有56年历史的运输公司。这两家公司将合作开展一个试点项目，评估使用Waymo的自动驾驶技术来自主运输货物。\n 阅读全文",
