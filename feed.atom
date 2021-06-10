@@ -2,10 +2,87 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://lvytwjw.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-10T19:19:10.631Z</updated>
+    <updated>2021-06-10T20:06:50.163Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://lvytwjw.github.io/rss/index.html"/>
     <link rel="self" href="https://lvytwjw.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[科学家现在对疟疾自然免疫力有了新认识]]></title>
+        <id>https://www.cnbeta.com/articles/science/1139303.htm</id>
+        <link href="https://www.cnbeta.com/articles/science/1139303.htm"/>
+        <updated>2021-06-10T20:05:18.000Z</updated>
+        <summary type="html"><![CDATA[2019年有40.9万人死于疟疾，大多数是撒哈拉以南非洲地区的幼童。疟疾每年仅对非洲造成的经济损失就达120亿美元。现在，通过广泛实地考察和对布基纳法索农村地区儿童的密切跟踪，一项新研究发现了一种改变感染免疫反应的分子机制。
+ 阅读全文]]></summary>
+        <author>
+            <name>maomao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[微软计划在今年晚些时候让Xbox用户在下载游戏之前先试玩游戏]]></title>
+        <id>https://hot.cnbeta.com/articles/game/1139301.htm</id>
+        <link href="https://hot.cnbeta.com/articles/game/1139301.htm"/>
+        <updated>2021-06-10T19:54:56.000Z</updated>
+        <summary type="html"><![CDATA[微软正计划在今年晚些时候让Xbox主机用户在下载游戏之前先试玩游戏。新的Xbox仪表板功能将允许主机玩家通过微软的Xbox云游戏（xCloud）服务即时串流游戏。这将推动xCloud更多地整合到Xbox游戏机和Windows PC上的Xbox应用当中。
+ 阅读全文]]></summary>
+        <author>
+            <name>maomao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[E3 2021：双点工作室新作《双点校园》公布]]></title>
+        <id>https://hot.cnbeta.com/articles/game/1139299.htm</id>
+        <link href="https://hot.cnbeta.com/articles/game/1139299.htm"/>
+        <updated>2021-06-10T19:50:51.000Z</updated>
+        <summary type="html"><![CDATA[双点工作室业务范围已经超过了医院，现在它的目标是帮助你在大学里培养年轻活跃的思想。这款名为《双点校园》（Two Points Campus）的全新模拟游戏已在夏季游戏节直播上公布。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[E3 2021：《CoD17》及战区第四季实机预告片]]></title>
+        <id>https://hot.cnbeta.com/articles/game/1139297.htm</id>
+        <link href="https://hot.cnbeta.com/articles/game/1139297.htm"/>
+        <updated>2021-06-10T19:50:15.000Z</updated>
+        <summary type="html"><![CDATA[在夏季游戏节的直播中，动视发布了《使命召唤17：黑色行动冷战》和战区第四季的最新游戏预告片。在下面的视频中，你可以看到6月17日免费更新发布时预计会出现的所有新内容。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[新数据显示过去一年针对欧洲关键目标的重大网络攻击数量翻倍]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1139295.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1139295.htm"/>
+        <updated>2021-06-10T19:47:51.000Z</updated>
+        <summary type="html"><![CDATA[根据CNN获得的新的欧盟数字，过去一年针对欧洲关键目标的重大网络攻击增加了一倍。欧盟网络安全局（ENISA）告诉CNN，2020年有304起针对 "关键部门 "的重大恶意攻击，是前一年146起的两倍多。
+ 阅读全文]]></summary>
+        <author>
+            <name>maomao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[科学家意外发现垂死的超大质量黑洞 其光回波长达3千光年]]></title>
+        <id>https://www.cnbeta.com/articles/science/1139293.htm</id>
+        <link href="https://www.cnbeta.com/articles/science/1139293.htm"/>
+        <updated>2021-06-10T19:33:59.000Z</updated>
+        <summary type="html"><![CDATA[超大质量黑洞（SMBH）占据着星系的中心，其质量从100万到100亿太阳质量不等。一些SMBHs处于明亮的阶段，称为活跃的星系核（AGN）。AGNs最终会燃烧殆尽，因为SMBHs有一个最大的质量限制，科学家们早就在思考这个过程发生的时间。
+ 阅读全文]]></summary>
+        <author>
+            <name>maomao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[一份研究发现到2050年实现深度脱碳目前是不可能的]]></title>
+        <id>https://www.cnbeta.com/articles/science/1139291.htm</id>
+        <link href="https://www.cnbeta.com/articles/science/1139291.htm"/>
+        <updated>2021-06-10T19:25:10.000Z</updated>
+        <summary type="html"><![CDATA[今天，位于汉堡的CLICCS组织发表了一项关于气候未来的新研究。该研究代表了首次系统性地尝试调查净零碳排放气候未来是否是可能的，而且是否是可信的。作者从技术经济的角度研究了可信性，同时也研究了这样一个未来所需的社会变革。他们的结论是，到2050年实现深度脱碳目前是不可能的，目前为实现社会转型所做的努力需要更多努力。
+ 阅读全文]]></summary>
+        <author>
+            <name>maomao</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[新专利申请显示苹果2019年以来一直在研究新iMac的扬声器设计]]></title>
         <id>https://www.cnbeta.com/articles/tech/1139289.htm</id>
@@ -48800,16 +48877,6 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <link href="https://smashingmagazine.com/2021/05/frustrating-design-patterns-birthday-picker/"/>
         <updated>2021-05-12T12:42:00.000Z</updated>
         <summary type="html"><![CDATA[In this new series of articles on UX, we take a closer look at some frustrating design patterns and explore better alternatives, along with plenty of examples to keep in mind when building or designing one. Let’s start with an infamous birthday picker.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Little Smashing Stories]]></title>
-        <id>https://smashingmagazine.com/2021/05/little-smashing-stories/</id>
-        <link href="https://smashingmagazine.com/2021/05/little-smashing-stories/"/>
-        <updated>2021-05-12T08:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Today marks the day we sent out our 300th edition of the Smashing Newsletter. This article is a little celebration in which we share little Smashing stories from people working behind the scenes.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
         </author>
