@@ -2,10 +2,65 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://lvytwjw.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-10T16:18:18.200Z</updated>
+    <updated>2021-06-10T17:37:55.718Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://lvytwjw.github.io/rss/index.html"/>
     <link rel="self" href="https://lvytwjw.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[研究人员开发空间板 这种新的光学元件可极大缩小相机体积]]></title>
+        <id>https://www.cnbeta.com/articles/science/1139269.htm</id>
+        <link href="https://www.cnbeta.com/articles/science/1139269.htm"/>
+        <updated>2021-06-10T17:29:21.000Z</updated>
+        <summary type="html"><![CDATA[在《自然-通讯》上发表的一篇论文中，来自渥太华大学的研究人员提出了一种新的光学元件 - 空间板，它可以极大地微型化光学设备，可能会影响到我们生活中的许多应用。光在传播时会自然"散开"，每一个光学设备都依赖于这种散开；如果没有它，我们就不知道如何设计相机。
+ 阅读全文]]></summary>
+        <author>
+            <name>maomao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[科学家模仿蜘蛛丝创造聚合物薄膜以取代一次性塑料制品]]></title>
+        <id>https://www.cnbeta.com/articles/science/1139267.htm</id>
+        <link href="https://www.cnbeta.com/articles/science/1139267.htm"/>
+        <updated>2021-06-10T17:06:43.000Z</updated>
+        <summary type="html"><![CDATA[来自剑桥大学的研究人员通过模仿蜘蛛丝的特性创造了一种聚合物薄膜，蜘蛛丝是自然界中最坚固的材料之一。这种新材料的强度与今天使用的许多普通塑料一样，可以取代许多普通家用产品中的塑料。
+ 阅读全文]]></summary>
+        <author>
+            <name>maomao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[摩托罗拉推出Moto G Stylus 5G智能手机 采用骁龙480 5G芯片组]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1139265.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1139265.htm"/>
+        <updated>2021-06-10T16:48:45.000Z</updated>
+        <summary type="html"><![CDATA[摩托罗拉宣布推出Moto G Stylus 5G，这是摩托罗拉非5G预算友好型手写笔手机的新版本。它提供的硬件与4G版本大致相似，但采用骁龙480 5G芯片组，支持6GHz以下的5G连接，内建更大的5000mAh电池，售价为399美元，将于6月14日上市销售。
+ 阅读全文]]></summary>
+        <author>
+            <name>maomao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Facebook Messenger增加二维码支付功能 用于个人小额付款]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1139263.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1139263.htm"/>
+        <updated>2021-06-10T16:36:26.000Z</updated>
+        <summary type="html"><![CDATA[今年春天，Facebook证实它正在测试类似于Venmo的二维码，用于在美国的应用程序中进行人对人的支付。今天，该公司宣布新功能现在向所有美国用户公开推出，允许任何人通过Facebook Pay发送或请求付款，即使他们不是Facebook好友。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[北京傍晚出现日偏食：一大波美图来了]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1139261.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1139261.htm"/>
+        <updated>2021-06-10T16:31:41.000Z</updated>
+        <summary type="html"><![CDATA[6月10日傍晚19时30分左右，北京出现日偏食，正在落山的夕阳如同如被咬了一小口的蛋黄，很萌很可爱。这次其实是一次日环食，也是今年全球唯一一次，16时12分开始，21时11分结束，历时整整5个小时。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[柴油车尾气排放或涉“欺诈” 雪铁龙成法国第三个被立案审查的品牌]]></title>
         <id>https://www.cnbeta.com/articles/tech/1139259.htm</id>

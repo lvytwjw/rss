@@ -1491,6 +1491,51 @@
       "siteUrl": "https://www.cnbeta.com",
       "articles": [
         {
+          "id": "https://www.cnbeta.com/articles/science/1139269.htm",
+          "author": "maomao",
+          "description": "在《自然-通讯》上发表的一篇论文中，来自渥太华大学的研究人员提出了一种新的光学元件 - 空间板，它可以极大地微型化光学设备，可能会影响到我们生活中的许多应用。光在传播时会自然\"散开\"，每一个光学设备都依赖于这种散开；如果没有它，我们就不知道如何设计相机。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/science/1139269.htm",
+          "publishedOn": "2021-06-10T17:29:21.000Z",
+          "wordCount": 196,
+          "title": "研究人员开发空间板 这种新的光学元件可极大缩小相机体积"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/science/1139267.htm",
+          "author": "maomao",
+          "description": "来自剑桥大学的研究人员通过模仿蜘蛛丝的特性创造了一种聚合物薄膜，蜘蛛丝是自然界中最坚固的材料之一。这种新材料的强度与今天使用的许多普通塑料一样，可以取代许多普通家用产品中的塑料。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/science/1139267.htm",
+          "publishedOn": "2021-06-10T17:06:43.000Z",
+          "wordCount": 189,
+          "title": "科学家模仿蜘蛛丝创造聚合物薄膜以取代一次性塑料制品"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1139265.htm",
+          "author": "maomao",
+          "description": "摩托罗拉宣布推出Moto G Stylus 5G，这是摩托罗拉非5G预算友好型手写笔手机的新版本。它提供的硬件与4G版本大致相似，但采用骁龙480 5G芯片组，支持6GHz以下的5G连接，内建更大的5000mAh电池，售价为399美元，将于6月14日上市销售。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1139265.htm",
+          "publishedOn": "2021-06-10T16:48:45.000Z",
+          "wordCount": 242,
+          "title": "摩托罗拉推出Moto G Stylus 5G智能手机 采用骁龙480 5G芯片组"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1139263.htm",
+          "author": "ugmbbc",
+          "description": "今年春天，Facebook证实它正在测试类似于Venmo的二维码，用于在美国的应用程序中进行人对人的支付。今天，该公司宣布新功能现在向所有美国用户公开推出，允许任何人通过Facebook Pay发送或请求付款，即使他们不是Facebook好友。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1139263.htm",
+          "publishedOn": "2021-06-10T16:36:26.000Z",
+          "wordCount": 207,
+          "title": "Facebook Messenger增加二维码支付功能 用于个人小额付款"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1139261.htm",
+          "author": "ugmbbc",
+          "description": "6月10日傍晚19时30分左右，北京出现日偏食，正在落山的夕阳如同如被咬了一小口的蛋黄，很萌很可爱。这次其实是一次日环食，也是今年全球唯一一次，16时12分开始，21时11分结束，历时整整5个小时。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1139261.htm",
+          "publishedOn": "2021-06-10T16:31:41.000Z",
+          "wordCount": 191,
+          "title": "北京傍晚出现日偏食：一大波美图来了"
+        },
+        {
           "id": "https://www.cnbeta.com/articles/tech/1139259.htm",
           "author": "ugmbbc",
           "description": "当地时间10日下午，法新社援引汽车制造集团Stellantis的消息称，其下属的雪铁龙公司于当天早些时候被巴黎司法法庭传唤后，受到正式立案审查，原因是雪铁龙2009年到2015年在法国销售的欧洲第五代排放标准柴油车型涉嫌尾气排放“欺诈”。\n 阅读全文",
