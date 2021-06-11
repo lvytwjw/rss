@@ -2,10 +2,340 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://lvytwjw.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-11T01:58:44.023Z</updated>
+    <updated>2021-06-11T02:45:24.379Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://lvytwjw.github.io/rss/index.html"/>
     <link rel="self" href="https://lvytwjw.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[鸿蒙概念热度空前：10只个股涨超10%]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1139465.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1139465.htm"/>
+        <updated>2021-06-11T02:43:53.000Z</updated>
+        <summary type="html"><![CDATA[华为鸿蒙操作系统（HarmonyOS 2）发布一周后，市场对鸿蒙的关注热度依旧空前。6月10日，东方财富鸿蒙概念指数大涨8.42%，润和软件、科蓝软件、先进数通、诚迈科技等超10只个股涨超10%。
+ 阅读全文]]></summary>
+        <author>
+            <name>teikaei</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[贝佐斯时隔两周重夺全球首富宝座]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1139463.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1139463.htm"/>
+        <updated>2021-06-11T02:43:28.000Z</updated>
+        <summary type="html"><![CDATA[据福布斯实时富豪榜，亚马逊CEO杰夫-贝佐斯周四重新成为全球首富，路威酩轩CEO伯纳德-阿诺特时隔两周跌落首富宝座，这也是阿诺特占据富豪榜榜首时间最长的一次。
+ 阅读全文]]></summary>
+        <author>
+            <name>vivian</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[真美国最大农田主：麦当劳土豆竟来自比尔盖茨的农场]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1139461.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1139461.htm"/>
+        <updated>2021-06-11T02:42:36.000Z</updated>
+        <summary type="html"><![CDATA[微软联合创始人比尔-盖茨是美国最大的私人农田主，在18个州拥有26.9万英亩耕地，超过纽约州的总面积。根据一份最新报告，快餐巨头麦当劳的炸薯条所使用的土豆就来自比尔-盖茨的农场。
+ 阅读全文]]></summary>
+        <author>
+            <name>vivian</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[疫苗“混打”的后果……]]></title>
+        <id>https://www.cnbeta.com/articles/science/1139459.htm</id>
+        <link href="https://www.cnbeta.com/articles/science/1139459.htm"/>
+        <updated>2021-06-11T02:41:37.000Z</updated>
+        <summary type="html"><![CDATA[疫苗能“混打”吗？各位小伙伴别着急随便打，这“混打”也是有讲究的。根据《新冠病毒疫苗接种技术指南（第一版）》，现阶段建议用同一个疫苗产品完成接种。如遇疫苗无法继续供应、受种者异地接种等特殊情况，无法用同一个疫苗产品完成接种时，可采用相同种类的其他生产企业的疫苗产品完成接种。
+ 阅读全文]]></summary>
+        <author>
+            <name>teikaei</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[迪士尼新流媒体服务 Star +在拉丁美洲遭商标侵权诉讼]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1139457.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1139457.htm"/>
+        <updated>2021-06-11T02:41:24.000Z</updated>
+        <summary type="html"><![CDATA[据报道，迪士尼将于 8 月份在拉丁美洲推出独立的流媒体服务 Star +，但是 Starz 却先在墨西哥、巴西和阿根廷等国家提起诉讼，指控迪士尼侵犯其品牌形象，以及即将推出的新服务会使消费者感到困惑。
+ 阅读全文]]></summary>
+        <author>
+            <name>study875</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Facebook成性贩卖犯罪分子诱骗受害者的主渠道]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1139455.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1139455.htm"/>
+        <updated>2021-06-11T02:41:03.000Z</updated>
+        <summary type="html"><![CDATA[北京时间6月11日早间消息，据报道，人口贩卖研究院（Human Trafficking Institute）表示，2020年，美国活跃性贩卖案件的大多数网络诱骗活动都是通过Facebook完成的。
+ 阅读全文]]></summary>
+        <author>
+            <name>vivian</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Linus Torvalds鼓励内核开发者在内的所有人都去接种疫苗]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1139453.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1139453.htm"/>
+        <updated>2021-06-11T02:39:52.000Z</updated>
+        <summary type="html"><![CDATA[Linus Torvalds 习惯在 Linux Kernel Mailing List（LKML）上言辞激烈地表达自己的想法，不过在今天发布的文章中，围绕着 COVID-19 疫苗接种问题进行了一次热情且重要的探讨。
+ 阅读全文]]></summary>
+        <author>
+            <name>study875</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[罗永浩被执行1853万元 涉及质押合同纠纷]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1139451.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1139451.htm"/>
+        <updated>2021-06-11T02:39:41.000Z</updated>
+        <summary type="html"><![CDATA[6月11日上午消息，天眼查App显示，近日，罗永浩再成被执行人，案号为（2021）粤0304执22626号，执行标的18533340元，执行法院为深圳市福田区人民法院。相关案件涉及北京腾信创新网络营销技术股份有限公司与罗永浩质押合同纠纷。
+ 阅读全文]]></summary>
+        <author>
+            <name>teikaei</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美CDC警告称RSV非典型激增会导致儿童面临患严重疾病风险]]></title>
+        <id>https://www.cnbeta.com/articles/science/1139449.htm</id>
+        <link href="https://www.cnbeta.com/articles/science/1139449.htm"/>
+        <updated>2021-06-11T02:39:12.000Z</updated>
+        <summary type="html"><![CDATA[据外媒报道，美国疾病控制中心(CDC)表示，一种名为呼吸道合胞病毒(RSV)的普通感冒病毒在美国南部地区异常活跃。这种病毒通常在秋季和冬季活跃，可以导致包括儿童在内的一些人患上严重疾病。然而由于跟新冠大流行相关的社会变化，这种病毒现在出现得比平常晚。
+ 阅读全文]]></summary>
+        <author>
+            <name>teikaei</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[为什么“古怪”的人很有吸引力？]]></title>
+        <id>https://www.cnbeta.com/articles/science/1139447.htm</id>
+        <link href="https://www.cnbeta.com/articles/science/1139447.htm"/>
+        <updated>2021-06-11T02:38:06.000Z</updated>
+        <summary type="html"><![CDATA[北京时间6月11日消息，丰腴的模特斜倚在躺椅上，手里拿着一把孔雀羽扇，目光越过肩膀望向作画的艺术家。这是一幅绘于19世纪初的油画，名为《大宫女》（La Grande Odalisque）。法国画家、新古典主义画派最后一位代表人物让·奥古斯特·多米尼克·安格尔捕捉到了这位土耳其宫女的阴柔之美，但有些地方似乎不太对劲。当这幅画公布于众时，引来了许多人的严厉批评，因为画中女性的骨盆和背部被刻意拉长，她的身体也朝向多个不同的方向。
+ 阅读全文]]></summary>
+        <author>
+            <name>vivian</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[苹果收购一年后 iOS天气应用Dark Sky计划2022年底停止服务]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1139445.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1139445.htm"/>
+        <updated>2021-06-11T02:34:51.000Z</updated>
+        <summary type="html"><![CDATA[大约一年前，苹果宣布其正在收购热门 iOS 天气应用开发商 Dark Sky 。当时苹果表示，面向第三方的 Dark Sky 应用程序接口（API）将于 2021 年底关闭。不过根据最新的计划，Dark Sky 还是额外延长了一年的服务期限。除了 API，其 iOS 客户端和网站也将顺延到 2022 年底。
+ 阅读全文]]></summary>
+        <author>
+            <name>raymon725</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[东风风行正式更换劲狮Logo：中国版“兰博基尼”]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1139441.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1139441.htm"/>
+        <updated>2021-06-11T02:29:38.000Z</updated>
+        <summary type="html"><![CDATA[东风汽车集团是国内四大汽车集团之一，其自主品牌乘用车已形成东风风神、东风风行、东风风光、东风风度、东风启辰等多个子品牌。除开东风启辰外，东风风神、东风风行、东风风光、东风风度四个子品牌，全部采用东风集团的“双飞燕”LOGO，这在一定程度上限制了品牌的发展。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[小米200W快充会不会伤电池？回应称800次循环后能量保持在80%以上]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1139439.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1139439.htm"/>
+        <updated>2021-06-11T02:29:06.000Z</updated>
+        <summary type="html"><![CDATA[继首发商用120W快充技术后，小米将手机快充推向了新高度。6月11日消息，小米公司邀请了部分米粉代表体验了小米200W有线快充和120W无线快充，二者都做到了行业顶级水平，是迄今为止充电速度最快的技术。官方数据显示，200W有线8分钟充满、120W无线15分钟充满。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[打个疫苗还能遇到爱情？ 泉州市发诈骗中心提醒来了......]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1139437.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1139437.htm"/>
+        <updated>2021-06-11T02:27:27.000Z</updated>
+        <summary type="html"><![CDATA[“帅哥，我是为你接种疫苗的护士......你像极了我的初恋，试着交往下.......”面对这种突如其来的表白，你心动了吗？近日，不少市民前往接种疫苗，而打个疫苗还能收获爱情？泉州市反诈骗中心提醒，市民如果收到这样的短信，千万别信，这是诈骗短信！
+ 阅读全文]]></summary>
+        <author>
+            <name>teikaei</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[F-150 Lighting预订量超10万，福特公布电动汽车新路线图]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1139435.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1139435.htm"/>
+        <updated>2021-06-11T02:26:35.000Z</updated>
+        <summary type="html"><![CDATA[据外媒报道，福特全电动皮卡F-150 Lightning已获得超过10万辆的预订，该公司正在展望其大型电动汽车战略的下一步走向。这款于上个月发布的2022年F-150 Lightning将福特最畅销的车型改造为双电机电动传动系统并承诺最高可达300英里的续航里程。
+ 阅读全文]]></summary>
+        <author>
+            <name>teikaei</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[天问一号探测器着陆火星首批科学影像图揭幕]]></title>
+        <id>https://www.cnbeta.com/articles/science/1139433.htm</id>
+        <link href="https://www.cnbeta.com/articles/science/1139433.htm"/>
+        <updated>2021-06-11T02:22:52.000Z</updated>
+        <summary type="html"><![CDATA[6月11日，国家航天局在京举行天问一号探测器着陆火星首批科学影像图揭幕仪式，公布了由“祝融号”火星车拍摄的着陆点全景、火星地形地貌、“中国印迹”和“着巡合影”等影像图。首批科学影像图的发布，标志着我国首次火星探测任务取得圆满成功。
+ 阅读全文]]></summary>
+        <author>
+            <name>vivian</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[6·18大促：京东电脑数码爆款万件5折起、天猫电子品类狂欢]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1139431.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1139431.htm"/>
+        <updated>2021-06-11T02:21:47.000Z</updated>
+        <summary type="html"><![CDATA[618大促继续，6月11日，京东电脑数码爆款万件5折抢，叠加头号京贴每满200减30元。与此同时，天猫智家日消费电子品类狂促继续，购物津贴跨店每满200减30元。此外，天猫分享领红包活动已经正式上线，领完红包分享给好友，助力满额成功领16元。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[研究称关闭“湿货市场”不是保障人类健康和生物多样性的有效政策解决方案]]></title>
+        <id>https://www.cnbeta.com/articles/science/1139429.htm</id>
+        <link href="https://www.cnbeta.com/articles/science/1139429.htm"/>
+        <updated>2021-06-11T02:19:45.000Z</updated>
+        <summary type="html"><![CDATA[据外媒报道，围绕着SARS-CoV-2的起源仍然存在着巨大的不确定性。普林斯顿大学的研究人员报告说，作为回应，各国政府已经推动关闭世界各地的所谓“湿货市场”（wet market），但这不是一个有效的政策解决方案。
+ 阅读全文]]></summary>
+        <author>
+            <name>vivian</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美执法部门再下一城：取缔交易失窃登录凭证的SlilPP黑市]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1139425.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1139425.htm"/>
+        <updated>2021-06-11T02:19:06.000Z</updated>
+        <summary type="html"><![CDATA[美国司法部今日宣布，其已取缔臭名昭著的 SlilPP 线上市场的服务器和域名。据悉，在美国、德国、荷兰、以及罗马尼亚的执法机构展开联合行动之前，曾有许多犯罪集团聚集在这里交易被盗的登录凭据。自 2012 年上线以来，SlilPP 一直允许任何人注册账户、并在该平台上交易被劫盗的信息。
+ 阅读全文]]></summary>
+        <author>
+            <name>raymon725</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[华北豹、豺……全国多地大型食肉动物踪迹频现]]></title>
+        <id>https://www.cnbeta.com/articles/science/1139423.htm</id>
+        <link href="https://www.cnbeta.com/articles/science/1139423.htm"/>
+        <updated>2021-06-11T02:17:32.000Z</updated>
+        <summary type="html"><![CDATA[除了北迁的野象群，6月9日我们节目报道了在东北虎豹国家公园，“虎妈”带娃巡视领地。其实，近段时期，豺狼虎豹等大型食肉动物在全国多个地方踪迹频现，这些大型食肉动物都是生态系统内的顶级捕食者，如今也都是国家重点保护野生动物，它们的出现说明我国的生态环境正在不断改善。
+ 阅读全文]]></summary>
+        <author>
+            <name>teikaei</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[端午小长假明日开启 这些出行信息提前了解]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1139421.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1139421.htm"/>
+        <updated>2021-06-11T02:16:03.000Z</updated>
+        <summary type="html"><![CDATA[明天起，2021年端午小长假大幕将正式开启。作为今年上半年最后一个小长假，这个假期预计将有1亿人次出游。哪些目的地最热门？国内疫情防控部署如何？小长假期间天气怎么样？一起先睹为快！
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[满血小屏旗舰 三星Galaxy S21 FE跑分曝光]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1139419.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1139419.htm"/>
+        <updated>2021-06-11T02:10:34.000Z</updated>
+        <summary type="html"><![CDATA[据此前消息，三星今年将会延续去年的策略，为S21系列推出一款小屏旗舰机型，名为三星Galaxy S21 FE。消息称，三星在去年的Galaxy S20 FE尝到了一些甜头，因为其配备了与顶级旗舰相同的核心配置，但售价却更低，以极高的性价比获得了全球消费者的青睐，能拉拢许多之前被S系列的高昂售价拒之门外的用户。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[金字招牌效应明显 小康股份新能源车销量5月同比暴涨75.51%]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1139417.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1139417.htm"/>
+        <updated>2021-06-11T02:10:10.000Z</updated>
+        <summary type="html"><![CDATA[日前，小康股份发布的最新数据显示，5月汽车销量为27959辆，同比增长31.19%；1-5月累计销量为111455辆，同比增长26.07%。分类显示，小康股份新能源车5月销量3038辆，同比增长75.51%；1-5月累计销量破万辆，达到10631辆，同比增长110.81%。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[又涨了：贝索斯宇宙飞船船票拍卖价达400万美元]]></title>
+        <id>https://www.cnbeta.com/articles/science/1139415.htm</id>
+        <link href="https://www.cnbeta.com/articles/science/1139415.htm"/>
+        <updated>2021-06-11T02:09:43.000Z</updated>
+        <summary type="html"><![CDATA[北京时间6月11日早间消息，亚马逊CEO杰夫·贝索斯（Jeff Bezos）旗下太空探索公司蓝色起源的官网显示，截至当地周四，竞购New Shepard宇宙飞船船票的出价已达到400万美元。
+ 阅读全文]]></summary>
+        <author>
+            <name>vivian</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[特斯拉在美国主要城市招聘自动驾驶测试员]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1139413.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1139413.htm"/>
+        <updated>2021-06-11T02:08:41.000Z</updated>
+        <summary type="html"><![CDATA[北京时间6月11日早间消息，据报道，特斯拉正在不断提升自动驾驶技术，最新消息称该公司开始在美国主要城市招聘Autopilot系统和完全自动驾驶平台的测试员。
+ 阅读全文]]></summary>
+        <author>
+            <name>vivian</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[特斯拉的销量在舆论风暴中暴涨]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1139411.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1139411.htm"/>
+        <updated>2021-06-11T02:08:12.000Z</updated>
+        <summary type="html"><![CDATA[从销售数据上来看，特斯拉五月份的销量非但没有持续 4 月份的惨状，反而出现了大幅增长。根据乘联会统计的数据显示，2021 年 5 月份特斯拉中国批发销量为 33463 辆，其中包括出口的 11527 辆和在华销售的 21936 辆。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[中车美国工厂举办洛杉矶地铁首批车辆揭幕仪式]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1139409.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1139409.htm"/>
+        <updated>2021-06-11T02:07:17.000Z</updated>
+        <summary type="html"><![CDATA[美东时间2021年6月8日上午，中车长客股份公司在马萨诸塞州的春田工厂举办了洛杉矶地铁项目首批车揭幕仪式。春田市市长多米尼克·萨诺表示，感谢中国中车对春田市的持续信任和支持，中国中车为春田培养了很多具有良好素质的工人，期待麻州春田工厂制造的地铁车辆能够行驶在更多的美国城市。
+ 阅读全文]]></summary>
+        <author>
+            <name>teikaei</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NVIDIA收购高清地图初创公司DeepMap]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1139407.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1139407.htm"/>
+        <updated>2021-06-11T02:02:54.000Z</updated>
+        <summary type="html"><![CDATA[芯片制造商 Nvidia 正计划收购 DeepMap，后者是一家高清地图初创公司。DeepMap 在今天发布的新闻稿中表示，公司的地图知识产权将为 Nvidia 的自动驾驶技术部门 Nvidia Drive 提供帮助。
+ 阅读全文]]></summary>
+        <author>
+            <name>study875</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[研究警告：“健康”的肥胖仍然伴随着重大风险]]></title>
+        <id>https://www.cnbeta.com/articles/science/1139405.htm</id>
+        <link href="https://www.cnbeta.com/articles/science/1139405.htm"/>
+        <updated>2021-06-11T02:02:12.000Z</updated>
+        <summary type="html"><![CDATA[据外媒报道，格拉斯哥大学健康和福利研究所的一项新研究警告说，由于肥胖症带来的疾病风险增加，确实没有所谓的“健康”肥胖症。各种疾病的风险增加是在那些肥胖但在测试时可能有正常代谢情况的人身上发现的。
+ 阅读全文]]></summary>
+        <author>
+            <name>vivian</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[新研究揭示COVID-19对人类肾细胞影响]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1139403.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1139403.htm"/>
+        <updated>2021-06-11T02:00:04.000Z</updated>
+        <summary type="html"><![CDATA[据外媒报道，研究人员在实验室中研究了人类肾脏细胞以检验COVID-19对肾脏健康的影响。该研究结果已发表在即将出版的《JASN》上。许多患COVID-19的人同时还会遭受肾脏损害，但尚不清楚这是病毒感染的直接结果还是其他疾病或身体对感染的反应的结果。
+ 阅读全文]]></summary>
+        <author>
+            <name>teikaei</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[拜登政府倡议向AI研究人员提供更多政府数据]]></title>
         <id>https://www.cnbeta.com/articles/tech/1139401.htm</id>
