@@ -76,6 +76,15 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=342164",
+          "author": "Joel Olawanle",
+          "description": "Why would we need to apply shadows to SVG?\nShadows are a common design feature that can help elements, like icons, stand out. They could be persistent, or applied in different states (e.g. :hover, :focus, or :active) \n…\nThe post Adding Shadows to SVG Icons With CSS and SVG Filters appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/adding-shadows-to-svg-icons-with-css-and-svg-filters/",
+          "publishedOn": "2021-06-11T14:30:29.000Z",
+          "wordCount": 2255,
+          "title": "Adding Shadows to SVG Icons With CSS and SVG Filters"
+        },
+        {
           "id": "https://css-tricks.com/?p=342050",
           "author": "Chris Coyier",
           "description": "One thing that can be just a smidge funky about the <details> element is that, when open, it’s not always 100% clear what is inside that element and what isn’t. I’m not saying that always matters or that it’s a …\nThe post Put a Background on Open Details Elements appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
@@ -542,6 +551,20 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2021/06/web-design-done-well-audio/",
+          "author": "hello@smashingmagazine.com (Frederick O’Brien)",
+          "description": "Design often revolves around visuals, but the other senses deserve love too. In this article, we tune in to audio features that are making sites sing.",
+          "link": "https://smashingmagazine.com/2021/06/web-design-done-well-audio/",
+          "publishedOn": "2021-06-11T15:00:00.000Z",
+          "wordCount": 1550,
+          "title": "Web Design Done Well: Making Use Of Audio",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/bf0cbb26-546e-43b7-9b9a-9077259ea84b/making-use-of-audio.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          }
+        },
+        {
           "id": "https://smashingmagazine.com/2021/06/useful-frontend-boilerplates-starter-kits/",
           "author": "hello@smashingmagazine.com (Cosima Mielke)",
           "description": "We don’t need to write everything from scratch every single time. With boilerplates and starter kits, we can set up our projects faster, and get to work immediately.",
@@ -871,6 +894,15 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
+        {
+          "id": "60c24cf8d3126007592d61d5",
+          "author": null,
+          "description": "Do you write conditionals correctly within your React applications?  Good conditionals are an essential part of any React application. We use conditionals to show or hide elements or components in our applications.  In short – to be an effective React developer, you must know how to write good conditionals. Let's go",
+          "link": "https://www.freecodecamp.org/news/learn-react-conditionals/",
+          "publishedOn": "2021-06-11T16:04:46.000Z",
+          "wordCount": 1323,
+          "title": "How to Level Up Your React Conditionals"
+        },
         {
           "id": "60b93afaacb62507dd1d8915",
           "author": null,

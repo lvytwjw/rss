@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://lvytwjw.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-11T15:06:49.839Z</updated>
+    <updated>2021-06-11T16:13:18.604Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://lvytwjw.github.io/rss/index.html"/>
     <link rel="self" href="https://lvytwjw.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to Level Up Your React Conditionals]]></title>
+        <id>60c24cf8d3126007592d61d5</id>
+        <link href="https://www.freecodecamp.org/news/learn-react-conditionals/"/>
+        <updated>2021-06-11T16:04:46.000Z</updated>
+        <summary type="html"><![CDATA[Do you write conditionals correctly within your React applications?  Good conditionals are an essential part of any React application. We use conditionals to show or hide elements or components in our applications.  In short – to be an effective React developer, you must know how to write good conditionals. Let's go]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Web Design Done Well: Making Use Of Audio]]></title>
+        <id>https://smashingmagazine.com/2021/06/web-design-done-well-audio/</id>
+        <link href="https://smashingmagazine.com/2021/06/web-design-done-well-audio/"/>
+        <updated>2021-06-11T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Design often revolves around visuals, but the other senses deserve love too. In this article, we tune in to audio features that are making sites sing.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Frederick O’Brien)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[消息称《绝地求生》开发商Krafton下周启动IPO  至少融资50亿美元]]></title>
         <id>https://www.cnbeta.com/articles/tech/1139711.htm</id>
@@ -37,6 +57,20 @@
  阅读全文]]></summary>
         <author>
             <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Adding Shadows to SVG Icons With CSS and SVG Filters]]></title>
+        <id>https://css-tricks.com/?p=342164</id>
+        <link href="https://css-tricks.com/adding-shadows-to-svg-icons-with-css-and-svg-filters/"/>
+        <updated>2021-06-11T14:30:29.000Z</updated>
+        <summary type="html"><![CDATA[Why would we need to apply shadows to SVG?
+Shadows are a common design feature that can help elements, like icons, stand out. They could be persistent, or applied in different states (e.g. :hover, :focus, or :active) 
+…
+The post Adding Shadows to SVG Icons With CSS and SVG Filters appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Joel Olawanle</name>
         </author>
     </entry>
     <entry>
