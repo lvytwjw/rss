@@ -1482,6 +1482,168 @@
       "siteUrl": "https://www.cnbeta.com",
       "articles": [
         {
+          "id": "https://www.cnbeta.com/articles/tech/1139573.htm",
+          "author": "study875",
+          "description": "Gartner 的统计数据显示，在经历了 2020 年的大幅下降之后 ，2021 年第一季度全球终端用户智能手机销售量增长了 26%。全球前三大智能手机厂商三星、苹果、小米，在 2021 年第一季度继续保持各自的排名。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1139573.htm",
+          "publishedOn": "2021-06-11T07:00:36.000Z",
+          "wordCount": 232,
+          "title": "Gartner：2021 年 Q1 全球智能手机销售量增长 26% 手机平均售价或上升"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1139571.htm",
+          "author": "teikaei",
+          "description": "据外媒报道，网络安全专家表示，目前网络安全问题趋势已从窃取健康和信用卡信息的数据转向使用勒索软件，这种勒索软件有效地劫持企业，一直到它们用比特币支付为止。勒索软件是一种在支付赎金之前阻止用户进入系统的软件，支付通常使用的是比特币等加密货币。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1139571.htm",
+          "publishedOn": "2021-06-11T06:59:43.000Z",
+          "wordCount": 196,
+          "title": "网络安全专家称加密货币助长了勒索软件攻击"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1139569.htm",
+          "author": "teikaei",
+          "description": "众所周知，互联网企业加班多、加班强度高已成常态，大厂尤甚。不过，今日一则#腾讯试点强制6点下班#的话题登上微博热搜榜第一，引发网友热议。综合媒体报道，6月9日，腾讯员工在职场平台发表了“如何看待IEG光子工作室要求不加班”的帖子，帖子内容曝光了光子工作室的详细的加班管理机制。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1139569.htm",
+          "publishedOn": "2021-06-11T06:59:11.000Z",
+          "wordCount": 196,
+          "title": "曝腾讯试点强制6点下班：员工全面双休 加班需申请"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1139567.htm",
+          "author": "teikaei",
+          "description": "今年1月，百度公司与吉利控股发布公告，宣布组建一家智能汽车公司，3月2日，百度与吉利合资的集度汽车有限公司正式成立。在集度汽车举行2021年Q2沟通会上，集度汽车CEO夏一平表示，集度汽车第一款车将于2022年北京车展时亮相，首款车定价将在20万元以上。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1139567.htm",
+          "publishedOn": "2021-06-11T06:58:28.000Z",
+          "wordCount": 196,
+          "title": "集度首款车型油泥模型曝光 2022北京车展亮相"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1139565.htm",
+          "author": "study875",
+          "description": "作为桌面第一大浏览器，Chrome 的每项调整都可能影响很多人。为了遏制网络钓鱼骗局，去年Google进行了一项实验，将隐藏网站的所有域名，希望它能帮助用户更容易区分“google.com”和“gooogle.com”。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1139565.htm",
+          "publishedOn": "2021-06-11T06:38:12.000Z",
+          "wordCount": 205,
+          "title": "简化域名方案宣告失败 谷歌遏制网络钓鱼一次探索"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/science/1139563.htm",
+          "author": "vivian",
+          "description": "据外媒报道，天文学家在超过25000光年外的银河系中心发现了一颗巨大的“闪烁”恒星。一个国际天文学家小组观察到这颗名为VVV-WIT-08的恒星亮度只有原来的1/30，以至于它几乎从天空中消失了。虽然许多恒星因为脉动或被双星系统中的另一颗恒星遮挡而改变了亮度，但一颗恒星在几个月的时间里变得越来越暗，然后又变得越来越亮，这是异常罕见的。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/science/1139563.htm",
+          "publishedOn": "2021-06-11T06:37:03.000Z",
+          "wordCount": 201,
+          "title": "天文学家在银河系中心附近发现一颗奇怪的“闪烁巨星”"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1139561.htm",
+          "author": "raymon725",
+          "description": "在美国参议院旗下银行、住房与城市事务委员会的经济政策小组委员会的听证会期间，来自马萨诸塞州的民主党参议员 Elizabeth Warren 就对包括 BTC 在内的加密货币展开了猛烈的抨击。不过本次听证会的主要议题，还是讨论央行数字货币（CBDC）可为那些被排除在传统银行系统之外、或在与大银行打交道时碰壁的美国人带来哪些益处。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1139561.htm",
+          "publishedOn": "2021-06-11T06:36:19.000Z",
+          "wordCount": 238,
+          "title": "美参议员在听证会上痛批加密货币：市场失序混乱且浪费巨量能源"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/science/1139559.htm",
+          "author": "teikaei",
+          "description": "据外媒报道，2012年，一颗约25000光年远的巨大恒星向地球眨眼，我们有点困惑地回头看。天文学家使用智利的VISTA望远镜观察到这颗恒星亮度急剧下降，然后在约200天的时间内再次变亮。团队有一种预感，那就是一个围绕这颗巨星运行的大天体短暂地遮挡了我们对它的视线，但这个天体的性质还不确定。他们将这一事件命名为VVV-WIT-08。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/science/1139559.htm",
+          "publishedOn": "2021-06-11T06:34:39.000Z",
+          "wordCount": 199,
+          "title": "天文学家观察到巨大恒星在未知来源的天体后面短暂消失"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/science/1139557.htm",
+          "author": "teikaei",
+          "description": "当全世界都在集中注意力对付COVID-19的时候，冠状病毒家族在继续忙活。最近，Science和Nature都拉响了新的警报——在COVID-19之外，冠状病毒家族冒出了两种全新的可以感染人类的新病毒。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/science/1139557.htm",
+          "publishedOn": "2021-06-11T06:32:14.000Z",
+          "wordCount": 192,
+          "title": "Science：又发现两种可感染人的冠状病毒"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/science/1139555.htm",
+          "author": "teikaei",
+          "description": "目前，全球已有超过3亿抑郁症患者。虽然针对抑郁症有多种治疗手段（药物治疗、心理疗法等），但只有不到一半的患者接受了正规治疗。这其中一个重要原因是抑郁症诊断困难。在抑郁症初筛过程中，一方面专科医生数量严重不足，另一方面初级保健医生难以准确识别轻度抑郁症患者，甚至可能造成误诊。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/science/1139555.htm",
+          "publishedOn": "2021-06-11T06:31:09.000Z",
+          "wordCount": 195,
+          "title": "中国科学报：有没有抑郁，走两步"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1139553.htm",
+          "author": "study875",
+          "description": "前几天提到国行的锐龙 5 5600X 处理器破发，不仅现货而且到手价只要 1879 元，现在高端的锐龙 9 也便宜了 ，12 核锐龙 9 5900X 只要 4399 元。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1139553.htm",
+          "publishedOn": "2021-06-11T06:28:05.000Z",
+          "wordCount": 283,
+          "title": "12 核锐龙 9 5900X 大降价 4399 元国行新低"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1139551.htm",
+          "author": "study875",
+          "description": "在特斯拉新款 Model S Plaid 交付现场直播中，埃隆·马斯克展示了重新设计的车载娱乐信息系统中玩 CD Projekt Red 公司的《Cyberpunk 2077》游戏。由于现场环境比较黑暗，因此很难看清到底是谁在玩这款游戏，不过视频画面中可以看到确实有人在玩这款游戏。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1139551.htm",
+          "publishedOn": "2021-06-11T06:26:52.000Z",
+          "wordCount": 247,
+          "title": "马斯克在特斯拉Model S Plaid上演示运行《Cyberpunk 2077》"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1139549.htm",
+          "author": "ugmbbc",
+          "description": "从不止一起的车主故障反馈来看，特斯拉Model 3充电时趴窝，很可能不是个例现象，前后也已有多位车主反映，在充电时遭遇了此种状况。今日，数码大V“科技新一”爆料称，自己的特斯拉Model 3遭遇了“吓人一幕”，在充电时车辆突然中断充电，然后重新插入充电口充电也充不进去。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1139549.htm",
+          "publishedOn": "2021-06-11T06:24:04.000Z",
+          "wordCount": 204,
+          "title": "特斯拉Model 3充电时趴窝 数码大V发帖吐槽"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1139547.htm",
+          "author": "ugmbbc",
+          "description": "6月11日消息，从企查查网站了解到，罗永浩于6月9日被深圳市福田区人民法院列为被执行人，案号为（2021）粤0304执22626号，执行标的约1853.33万元。企查查显示，该案件涉及北京腾信创新网络营销技术股份有限公司与罗永浩质押合同纠纷，罗永浩承担赔偿责任。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1139547.htm",
+          "publishedOn": "2021-06-11T06:22:49.000Z",
+          "wordCount": 196,
+          "title": "罗永浩被执行超1800万 交个朋友回应：已和解"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1139545.htm",
+          "author": "study875",
+          "description": "美国总统拜登的政府周四与加州达成一项和解，将恢复前任总统特朗普试图取消的一笔 9.29 亿美元的高铁项目拨款。根据和解协议，加州高速铁路局和美国运输部的联邦铁路局同意在三天内恢复拨款。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1139545.htm",
+          "publishedOn": "2021-06-11T06:18:52.000Z",
+          "wordCount": 207,
+          "title": "拜登政府将恢复特朗普取消的近10亿美元加州高铁项目拨款"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/science/1139543.htm",
+          "author": "teikaei",
+          "description": "6月11日，国家航天局在京举行天问一号探测器着陆火星首批科学影像图揭幕仪式，公布了由“祝融号”火星车拍摄的着陆点全景、火星地形地貌、“中国印迹”和“着巡合影”等影像图。首批科学影像图的发布，标志着我国首次火星探测任务取得圆满成功。至此，我国首次火星探测任务一次性完成了“绕、着、巡”三步。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/science/1139543.htm",
+          "publishedOn": "2021-06-11T06:14:00.000Z",
+          "wordCount": 191,
+          "title": "从地球到火星：回顾红色星球上的中国印记"
+        },
+        {
+          "id": "https://hot.cnbeta.com/articles/game/1139541.htm",
+          "author": "study875",
+          "description": "今日 (6 月 11 日)万代南梦宫官方放出了《Elden Ring》繁中版预告，游戏将于 2022 年 1 月 21 日在全球同步隆重推出。此外官方还确认 《Elden Ring》 中文译名是《艾尔登法环》。\n 阅读全文",
+          "link": "https://hot.cnbeta.com/articles/game/1139541.htm",
+          "publishedOn": "2021-06-11T06:11:19.000Z",
+          "wordCount": 232,
+          "title": "《Elden Ring》 中文预告 官中译名确定为艾尔登法环"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1139539.htm",
+          "author": "teikaei",
+          "description": "据外媒报道，法国总统马克龙在巴黎艾丽榭宫举行的新闻发布会上重申了他对网络监管的关注，特别是对毒化内容的监管。本周晚些时候，七国集团(G7)峰会将在英国举行，马克龙呼吁加强国际合作。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1139539.htm",
+          "publishedOn": "2021-06-11T06:10:22.000Z",
+          "wordCount": 190,
+          "title": "马克龙呼吁G7应携手解决网络毒化内容问题"
+        },
+        {
           "id": "https://www.cnbeta.com/articles/tech/1139537.htm",
           "author": "ugmbbc",
           "description": "当地时间6月10日，智利卫生部通报，该国单日新增新冠肺炎确诊病例7716例，累计确诊1453478例。新增死亡病例198例，累计死亡病例达30339例。累计治愈病患1376335人。智利卫生部10日宣布，由于圣地亚哥首都区的新增病例持续增加并导致该地区医疗系统压力上升，因此，从当地时间6月12日起，将对首都区下辖的全部52个市镇恢复实行全面社会防疫隔离管控。\n 阅读全文",
