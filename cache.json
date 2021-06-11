@@ -1523,6 +1523,15 @@
       "siteUrl": "https://www.cnbeta.com",
       "articles": [
         {
+          "id": "https://www.cnbeta.com/articles/science/1139735.htm",
+          "author": "maomao",
+          "description": "信号可以被最佳数量的噪声放大，但这种所谓的随机共振是一种相当脆弱的现象。AMOLF的研究人员首次在一个充满油的光学微腔中研究记忆对这种现象的作用。以前的研究从未考虑过慢速非线性（即记忆）对随机共振的影响，但这些实验表明，当系统有记忆时，随机共振对信号频率的变化变得稳健。这在物理学和能源技术的许多领域都有影响。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/science/1139735.htm",
+          "publishedOn": "2021-06-11T18:45:34.000Z",
+          "wordCount": 190,
+          "title": "科学家揭开了有记忆系统中噪声辅助信号放大的面纱"
+        },
+        {
           "id": "https://www.cnbeta.com/articles/tech/1139733.htm",
           "author": "ugmbbc",
           "description": "Razer宣布推出Opus X，一组新的罩耳式无线耳机，提供主动降噪功能的同时价格仅为100美元。与它去年推出的价格较高的Opus耳机相比，差异不大，而且似乎性能上也没有重大妥协。\n 阅读全文",

@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://lvytwjw.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-11T18:10:09.496Z</updated>
+    <updated>2021-06-11T19:07:19.121Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://lvytwjw.github.io/rss/index.html"/>
     <link rel="self" href="https://lvytwjw.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[科学家揭开了有记忆系统中噪声辅助信号放大的面纱]]></title>
+        <id>https://www.cnbeta.com/articles/science/1139735.htm</id>
+        <link href="https://www.cnbeta.com/articles/science/1139735.htm"/>
+        <updated>2021-06-11T18:45:34.000Z</updated>
+        <summary type="html"><![CDATA[信号可以被最佳数量的噪声放大，但这种所谓的随机共振是一种相当脆弱的现象。AMOLF的研究人员首次在一个充满油的光学微腔中研究记忆对这种现象的作用。以前的研究从未考虑过慢速非线性（即记忆）对随机共振的影响，但这些实验表明，当系统有记忆时，随机共振对信号频率的变化变得稳健。这在物理学和能源技术的许多领域都有影响。
+ 阅读全文]]></summary>
+        <author>
+            <name>maomao</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Ask Good Technical Questions – the Ultimate Guide]]></title>
         <id>60bc0444acb62507dd1d9a31</id>
