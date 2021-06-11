@@ -2,10 +2,253 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://lvytwjw.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-11T00:22:53.454Z</updated>
+    <updated>2021-06-11T01:58:44.023Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://lvytwjw.github.io/rss/index.html"/>
     <link rel="self" href="https://lvytwjw.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[拜登政府倡议向AI研究人员提供更多政府数据]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1139401.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1139401.htm"/>
+        <updated>2021-06-11T01:57:11.000Z</updated>
+        <summary type="html"><![CDATA[拜登政府本周四发起一项倡议，向人工智能研究人员提供更多的政府数据，旨在巩固美国在该关键新技术的前沿地位。美国国家人工智能研究资源工作组将起草一份创建人工智能研究资源的战略，其中一部分可以让研究人员安全地访问关于美国人的匿名数据存储，从人口统计到健康和驾驶习惯。
+ 阅读全文]]></summary>
+        <author>
+            <name>study875</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[新研究称噪声与光污染会改变鸟类造访家庭后院的习惯]]></title>
+        <id>https://www.cnbeta.com/articles/science/1139399.htm</id>
+        <link href="https://www.cnbeta.com/articles/science/1139399.htm"/>
+        <updated>2021-06-11T01:50:45.000Z</updated>
+        <summary type="html"><![CDATA[尽管许多美国人习惯了在后院为鸟类朋友准备食物，但近日发表于《全球变化生物学》上的一项新研究报告称，若存在声光污染，动物还是会趋向于远离。据悉，研究团队使用了来自 Program FeederWatch 社区科学项目的数据，分析了针对美国大陆 140 种不同鸟类的超 340 万次观察结果。
+ 阅读全文]]></summary>
+        <author>
+            <name>raymon725</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[研究人员首次用X射线测量人类染色体的质量  比之前预期的要重得多]]></title>
+        <id>https://www.cnbeta.com/articles/science/1139397.htm</id>
+        <link href="https://www.cnbeta.com/articles/science/1139397.htm"/>
+        <updated>2021-06-11T01:48:01.000Z</updated>
+        <summary type="html"><![CDATA[在伦敦大学学院（UCL）研究人员领导的一项新研究中，首次用X射线测量了人类染色体的质量，这些染色体几乎包含了我们身体每个细胞的生命“指令”。在这项发表在《染色体研究》上的研究中，研究人员利用 英国“钻石”同步辐射光源的强大X射线束来确定46条染色体中的电子数量，他们用它来计算质量。
+ 阅读全文]]></summary>
+        <author>
+            <name>vivian</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[图]苹果完善辅助功能 为身体障碍人士提供更多帮助]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1139395.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1139395.htm"/>
+        <updated>2021-06-11T01:43:07.000Z</updated>
+        <summary type="html"><![CDATA[在 WWDC 2021 大会上，苹果进一步完善了辅助功能，在更多场景下为那些身体障碍人士提供帮助。尤其针对那些无法以普通方式触控进行常规交互的人，苹果通过辅助性触摸、声音控制和其他方式，让他们也能通过 iPhone、Apple Watch 进行交互。
+ 阅读全文]]></summary>
+        <author>
+            <name>study875</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[因气候变化和花粉传播  过敏季节开始得更早、持续时间更久]]></title>
+        <id>https://www.cnbeta.com/articles/science/1139393.htm</id>
+        <link href="https://www.cnbeta.com/articles/science/1139393.htm"/>
+        <updated>2021-06-11T01:31:37.000Z</updated>
+        <summary type="html"><![CDATA[据外媒报道，慕尼黑的科学家们研究了来自远方的花粉（有时是数百公里外的花粉）如何影响德国过敏季节的长度。过敏症患者对花粉的问题并不陌生。但是现在--由于气候变化--花粉季节比以前持续的时间更长，开始的时间更早，这意味着他们可能面临更多天的眼睛发痒和流鼻涕等症状。温暖的温度导致花朵提前绽放，而更高的二氧化碳水平导致产生更多的花粉。
+ 阅读全文]]></summary>
+        <author>
+            <name>vivian</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Revue宣布即将在Twitter个人资料中推出简讯注册按钮]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1139391.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1139391.htm"/>
+        <updated>2021-06-11T01:27:14.000Z</updated>
+        <summary type="html"><![CDATA[据外媒报道，Twitter今年1月收购了时事通讯编辑服务Revue并将其所有专业功能免费提供。现在，Revue在Twitter上宣布，很快将在Twitter个人资料上出现一个简讯的注册按钮，进而方便用户注册。订阅按钮将首先出现在网页和Android上，iOS计划在今年晚些时候推出。
+ 阅读全文]]></summary>
+        <author>
+            <name>teikaei</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Twitter将在“个人资料”页面新增“时事通讯”订阅按钮]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1139389.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1139389.htm"/>
+        <updated>2021-06-11T01:21:34.000Z</updated>
+        <summary type="html"><![CDATA[时事通讯（Newsletters）即将入驻 Twitter 应用的“个人资料”中。在接下来的几周中，Twitter 将会继续对该社交媒体的“个人资料”进行改进和测试，并添加一个时事通讯订阅按钮。
+ 阅读全文]]></summary>
+        <author>
+            <name>study875</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[印度北阿坎德邦的泥石流导致200多人死亡或失踪  它可能再次发生]]></title>
+        <id>https://www.cnbeta.com/articles/science/1139387.htm</id>
+        <link href="https://www.cnbeta.com/articles/science/1139387.htm"/>
+        <updated>2021-06-11T01:14:17.000Z</updated>
+        <summary type="html"><![CDATA[据外媒报道，导致印度北阿坎德邦致命的冬季泥石流的原因和范围已经被确定。2021年2月7日，印度的北阿坎德邦地区经历了一场人道主义悲剧，出现了一场毁灭性的泥石流。事件的起因是一块承载冰川的楔形岩石从喜马拉雅山脉的陡峭山脊上断裂。由此产生的碎石流摧毁了两个水电设施，并导致200多人死亡或失踪。
+ 阅读全文]]></summary>
+        <author>
+            <name>vivian</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[苹果计划用Face ID/Touch ID密匙来淘汰密码]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1139385.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1139385.htm"/>
+        <updated>2021-06-11T01:11:22.000Z</updated>
+        <summary type="html"><![CDATA[据外媒报道，苹果工程师Garrett Davidson在全球开发者大会(WWDC)上表示，苹果正在开发一种新的密码认证功能，用户可以使用基于Face ID和Touch ID的账户认证来代替密码。iOS 15和macOS Monterey中的一个功能--iCloud钥匙串中的密钥(Passkeys in iCloud Keychain)会在‌iCloud‌钥匙串中存储一个名为“密钥(passkey)”的新WebAuthn证书。
+ 阅读全文]]></summary>
+        <author>
+            <name>teikaei</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[报告称AMD锐龙PRO与英特尔博锐CPU平台的企业部署差异甚微]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1139383.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1139383.htm"/>
+        <updated>2021-06-11T01:09:17.000Z</updated>
+        <summary type="html"><![CDATA[受 AMD 委托，知名技术顾问公司 Principled Technologies 刚刚发布了一份技术报告 —— 其中强调了部署 AMD 企业移动解决方案所需的操作时间，其实与 Intel vPRO 竞品并无任何不同。显然，这份报告旨在消除企业的顾虑，从而在为办公环境选购相应设备时，同样考虑 AMD 的锐龙 PRO 系列移动处理器平台。
+ 阅读全文]]></summary>
+        <author>
+            <name>raymon725</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[宇树科技推起价1.6万元的Go1机器狗：能陪你跑步帮你搬东西]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1139381.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1139381.htm"/>
+        <updated>2021-06-11T01:04:13.000Z</updated>
+        <summary type="html"><![CDATA[机器人往往分为几个不同的类别。一些机器人是针对爱好者的廉价玩具，而另一些则是针对紧急服务、军队和研究人员的极其昂贵的产品。那些针对专业领域和科学用途的机器人往往非常昂贵，例如波士顿动力的 Spot 四足机器狗，售价就高达 74000 美元。而近日，国内公司宇树科技（Unitree Robotics）推出了一款 1.6 万元人民币起售的机器狗。
+ 阅读全文]]></summary>
+        <author>
+            <name>study875</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[研究发现阿司匹林有助于本地植物在修复的土地上生长]]></title>
+        <id>https://www.cnbeta.com/articles/science/1139379.htm</id>
+        <link href="https://www.cnbeta.com/articles/science/1139379.htm"/>
+        <updated>2021-06-11T00:57:03.000Z</updated>
+        <summary type="html"><![CDATA[据外媒报道，在将以前的工业或农业用地恢复到自然状态时，重建地被植物（如本地植物）是非常重要的。根据一项新研究，添加阿司匹林有助于这些植物的生长。我们所知道的阿司匹林药物实际上是一种叫做水杨酸的天然化合物的合成形式，它存在于柳树的树皮和其他植物中。以前的研究表明，它可以提高像西红柿这样的农业植物的“抗压能力”。
+ 阅读全文]]></summary>
+        <author>
+            <name>vivian</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[研究：素食和鱼素饮食或可大幅降低COVID-19严重风险]]></title>
+        <id>https://www.cnbeta.com/articles/science/1139377.htm</id>
+        <link href="https://www.cnbeta.com/articles/science/1139377.htm"/>
+        <updated>2021-06-11T00:56:23.000Z</updated>
+        <summary type="html"><![CDATA[据外媒报道，一项涉及六个国家参与者的研究表明，食用植物性饮食或鱼素饮食跟患中度或重度COVID-19感染的几率显著降低有关。该研究对来自美国、英国、德国、法国、西班牙和意大利的“大量接触”COVID-19患者的医护人员进行了在线调查。
+ 阅读全文]]></summary>
+        <author>
+            <name>teikaei</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[苹果被吐槽拿最丑的Android智能机来演示FaceTime Links邀请功能]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1139375.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1139375.htm"/>
+        <updated>2021-06-11T00:44:33.000Z</updated>
+        <summary type="html"><![CDATA[苹果在几天前的 WWDC 2021 开发者大会上宣布了许多软件更新，其中就包括一项期待已久的 FaceTime 服务改进 —— 允许大家通过网络邀请的方式，与 Android / Windows 用户展开直接沟通。这意味着，即便没有本机应用程序，苹果用户仍可与使用 Android / Windows 软硬件的亲朋好友们，通过分享的 Web 链接来开展 FaceTime 音视频通话。
+ 阅读全文]]></summary>
+        <author>
+            <name>raymon725</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美国胡佛水坝形成的米德湖水库的水位处于历史低位]]></title>
+        <id>https://www.cnbeta.com/articles/science/1139373.htm</id>
+        <link href="https://www.cnbeta.com/articles/science/1139373.htm"/>
+        <updated>2021-06-11T00:44:30.000Z</updated>
+        <summary type="html"><![CDATA[据外媒报道，米德湖-这个由胡佛水坝(Hoover Dam)形成的水库，为美国西部各州2500万人口提供水源，目前其水位处于历史低位。6月9日，水位下降到1071.57英尺，打破了上次在2016年创下的最低水位纪录。
+ 阅读全文]]></summary>
+        <author>
+            <name>vivian</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[研究：COVID-19会造成听力和平衡障碍进而加重耳鸣症状]]></title>
+        <id>https://www.cnbeta.com/articles/science/1139371.htm</id>
+        <link href="https://www.cnbeta.com/articles/science/1139371.htm"/>
+        <updated>2021-06-11T00:40:30.000Z</updated>
+        <summary type="html"><![CDATA[据外媒报道，COVID-19的生理影响似乎是无限的。并发症可以从失去味觉到呼吸困难，许多影响会持续数月。证据表明，听觉和前庭效应应该被列入不断增加的症状列表。
+ 阅读全文]]></summary>
+        <author>
+            <name>teikaei</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Netflix 开网店 出售热播剧限量版周边]]></title>
+        <id>https://hot.cnbeta.com/articles/movie/1139369.htm</id>
+        <link href="https://hot.cnbeta.com/articles/movie/1139369.htm"/>
+        <updated>2021-06-11T00:38:23.000Z</updated>
+        <summary type="html"><![CDATA[Netflix将会开设网店，销售与《怪奇物语》、《罗宾 》（Lupin） 等热门剧集有关的商品，比如限量版服装、生活品、收藏品。从周四开始 ，Netflix.shop 就会上线，未来几个月推广到其它国家 。
+ 阅读全文]]></summary>
+        <author>
+            <name>study875</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[EA承认遭到网络攻击 780G游戏、引擎源代码和内部开发工具泄露]]></title>
+        <id>https://hot.cnbeta.com/articles/game/1139367.htm</id>
+        <link href="https://hot.cnbeta.com/articles/game/1139367.htm"/>
+        <updated>2021-06-11T00:36:17.000Z</updated>
+        <summary type="html"><![CDATA[知名游戏公司艺电（Electronic Arts）近日遭到网络攻击，导致包括游戏和引擎源代码、内部开发工具在内的庞大数据池被破坏和泄露。在网站上详细报告了 780GB 的数据泄露之后，EA 向外媒 Vice 证实了这次攻击。
+ 阅读全文]]></summary>
+        <author>
+            <name>study875</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[造就英国：树莓派基金会出新书回顾个人计算机发展历史]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1139365.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1139365.htm"/>
+        <updated>2021-06-11T00:28:38.000Z</updated>
+        <summary type="html"><![CDATA[树莓派基金会刚刚推出了一本名为《造就英国的计算机》的新书，作者 Tim Danton 在其中回顾了 1980 年代在英国掀起的家用计算机热潮。在 19 款不同的计算机中，包括了 ZX Spectrum、BBC Micro、以及 Commodore 64 等耳熟能详的系列型号。不过在讲述计算机发展历史的同时，Danton 也分享了不少幕后故事和独到见解。
+ 阅读全文]]></summary>
+        <author>
+            <name>raymon725</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ESA和NASA合作进行第三个金星探测任务]]></title>
+        <id>https://www.cnbeta.com/articles/science/1139363.htm</id>
+        <link href="https://www.cnbeta.com/articles/science/1139363.htm"/>
+        <updated>2021-06-11T00:27:47.000Z</updated>
+        <summary type="html"><![CDATA[据外媒报道，美国宇航局（NASA）和欧空局（ESA）正在合作开发一个新的金星探测器，EnVision将作为三个航天器的一部分，前往我们遥远的太阳系邻居，以解开前所未有的洞察力。欧空局今天宣布EnVision获得了绿灯，新的金星轨道器将携带NASA的合成孔径雷达。
+ 阅读全文]]></summary>
+        <author>
+            <name>vivian</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LibreOffice 7.1.4社区版发布：提高和微软Office兼容性]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1139361.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1139361.htm"/>
+        <updated>2021-06-11T00:26:30.000Z</updated>
+        <summary type="html"><![CDATA[过去、现在和可预见的未来，LibreOffice 都是 Microsoft Office 的最佳替代品之一。这不仅在于文档基金会不断开发新的功能，更重要的是提高了和微软 Office 的互操作性，从而使从 Microsoft 的生产力套件到 LibreOffice 的传输尽可能容易。
+ 阅读全文]]></summary>
+        <author>
+            <name>study875</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Put a Background on Open Details Elements]]></title>
+        <id>https://css-tricks.com/?p=342050</id>
+        <link href="https://css-tricks.com/put-a-background-on-open-details-elements/"/>
+        <updated>2021-06-11T00:16:28.000Z</updated>
+        <summary type="html"><![CDATA[One thing that can be just a smidge funky about the <details> element is that, when open, it’s not always 100% clear what is inside that element and what isn’t. I’m not saying that always matters or that it’s a …
+The post Put a Background on Open Details Elements appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Uber提出为司机的健康保险买单  但两周后又取消了这一提议]]></title>
         <id>https://www.cnbeta.com/articles/tech/1139359.htm</id>
@@ -49177,16 +49420,6 @@ The post DevTools for CSS layouts 2021 edition appeared first on CSS-Tricks.
 You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <author>
             <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Frustrating Design Patterns That Need Fixing: Birthday Picker]]></title>
-        <id>https://smashingmagazine.com/2021/05/frustrating-design-patterns-birthday-picker/</id>
-        <link href="https://smashingmagazine.com/2021/05/frustrating-design-patterns-birthday-picker/"/>
-        <updated>2021-05-12T12:42:00.000Z</updated>
-        <summary type="html"><![CDATA[In this new series of articles on UX, we take a closer look at some frustrating design patterns and explore better alternatives, along with plenty of examples to keep in mind when building or designing one. Let’s start with an infamous birthday picker.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
         </author>
     </entry>
 </feed>
