@@ -895,6 +895,24 @@
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
         {
+          "id": "6063b9189618b008528a9d81",
+          "author": null,
+          "description": "Today I'm gonna show you how you can center and align your content with CSS. Along the way, we'll look at various alignment techniques. So, let's get started! 🥇 Table of Contents -> How to Use Flexbox to center anything horizontally center anything vertically center both horizontally & Vertically How",
+          "link": "https://www.freecodecamp.org/news/how-to-center-objects-using-css/",
+          "publishedOn": "2021-06-11T20:40:17.000Z",
+          "wordCount": 1427,
+          "title": "How to Center Anything in CSS Using Flexbox and Grid ✨"
+        },
+        {
+          "id": "5f9c97e9740569d1a4ca1768",
+          "author": null,
+          "description": "How you can design an inclusive and accessible org chart experience and solutions to common development challenges you will face.",
+          "link": "https://www.freecodecamp.org/news/designing-keyboard-accessibility-for-complex-react-experiences/",
+          "publishedOn": "2021-06-11T19:10:00.000Z",
+          "wordCount": 2180,
+          "title": "How to Design Keyboard Accessibility for Complex React Experiences"
+        },
+        {
           "id": "60bc0444acb62507dd1d9a31",
           "author": null,
           "description": "Knowing how to ask effective technical questions is an essential skill every software engineer should have.  You may be stuck with a bug, unable to figure out why your program isn't working correctly, or you might be having trouble learning how to implement a certain algorithm. In all of these",
@@ -1522,6 +1540,87 @@
       "feedUrl": "https://www.cnbeta.com/backend.php",
       "siteUrl": "https://www.cnbeta.com",
       "articles": [
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1139755.htm",
+          "author": "ugmbbc",
+          "description": "今年早些时候，Google宣布将Chrome浏览器的发布周期改为四周，这缩短了消费者版本的发布间隔时间。这一变化预计将在Chrome 94版本中出现。今天，该公司宣布了其对Chrome OS 96的计划以及即将到来的发布时间表的变化。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1139755.htm",
+          "publishedOn": "2021-06-11T21:01:01.000Z",
+          "wordCount": 210,
+          "title": "Google将跳过Chrome 95版本 以适应新的四周的发布周期"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1139753.htm",
+          "author": "ugmbbc",
+          "description": "来自英国多个政党的国会议员（MPs）要求拜登总统撤销对朱利安·阿桑奇的指控，这些指控导致他在过去十年中躲藏在不同的地方，并最终被捕。该请求是以信函的形式提出的，并由来自保守党、工党、绿党和苏格兰民族党的24名议员签署，维基解密在Twitter上的官方账户发布了这封信的全文。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1139753.htm",
+          "publishedOn": "2021-06-11T20:58:43.000Z",
+          "wordCount": 191,
+          "title": "英国议员利用G7行程要求拜登总统放弃对朱利安·阿桑奇的指控"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1139751.htm",
+          "author": "maomao",
+          "description": "初创公司London Electric Cars正在利用旧的日产Leaf动力系统，为英国的标志性车辆mini注入新的全电动活力。 英国汽车公司在1959年8月为大众推出了一款新的紧凑型汽车mini，由亚历克-伊西戈尼斯爵士设计，到2000年生产结束时，已经生产了500多万辆mini。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1139751.htm",
+          "publishedOn": "2021-06-11T20:56:06.000Z",
+          "wordCount": 201,
+          "title": "伦敦初创公司将经典mini老爷车纳入电动车改装行列"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1139749.htm",
+          "author": "ugmbbc",
+          "description": "苹果的下一代iPad mini已经被传闻了一段时间，重大的重新设计即将到来，著名的泄密者Jon Prosser和FrontPageTech团队根据所谓的设备原理图和真机图像制作了一组渲染图。所谓的 \"iPad mini 6\"将进行大修，其设计更类似苹果公司的其他平板电脑。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1139749.htm",
+          "publishedOn": "2021-06-11T20:53:16.000Z",
+          "wordCount": 232,
+          "title": "iPad mini 6渲染图出现 窄边框+无Home按钮"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1139747.htm",
+          "author": "maomao",
+          "description": "近年来，可穿戴电子设备普及率急剧上升，特别是智能手表的普及率。虽然这些设备通常是防水的，但它们肯定不能像洗衣服那样清洗。普渡大学的工程师们已经开发出一种新方法，将现有的布质物品转化为耐洗的无电池可穿戴设备。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1139747.htm",
+          "publishedOn": "2021-06-11T20:40:18.000Z",
+          "wordCount": 193,
+          "title": "工程师开发新技术 用可清洗的布制造出无电池可穿戴设备"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1139745.htm",
+          "author": "maomao",
+          "description": "Realme公司正准备在6月15日在全球范围内发布Realme GT 5G，但是Realme可能正在开发Realme 9系列。它将作为今年早些时候Realme 8系列的继任者。最近有人在Realme网站上发现了Realme 9系列身影。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1139745.htm",
+          "publishedOn": "2021-06-11T20:34:15.000Z",
+          "wordCount": 212,
+          "title": "传Realme 9渲染图曝光 提供耳机插孔侧面指纹传感器6400万像素摄像头"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1139743.htm",
+          "author": "ugmbbc",
+          "description": "作为WWDC结束时对开发者进行的年度调查的一部分，苹果正在询问社区成员，在以数字形式举行会议两年后，他们是否愿意在明年重新开始参加现场会议。由于全球健康危机，在过去两年中，苹果公司以全数字形式举行了其通常需要抢到邀请函并亲临现场的全球开发者大会。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1139743.htm",
+          "publishedOn": "2021-06-11T20:34:01.000Z",
+          "wordCount": 193,
+          "title": "苹果询问开发者是否会在两年的线上会议之后回归线下WWDC"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/soft/1139741.htm",
+          "author": "maomao",
+          "description": "安全研究人员在三星预装的安卓应用中发现了多个关键的安全漏洞，如果成功利用这些漏洞，可能会让黑客在未经用户同意的情况下访问个人数据，并控制设备。移动安全初创公司Oversecured的创始人Sergey Toshin在周四发表的分析报告中表示，这些漏洞可能允许攻击者访问和编辑受害者的联系人、电话、短信/彩信，以设备管理员的权限安装任意应用程序，或以系统用户身份读写任意文件，并且可能改变设备的设置。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/soft/1139741.htm",
+          "publishedOn": "2021-06-11T20:25:53.000Z",
+          "wordCount": 202,
+          "title": "黑客利用三星设备预装应用程序漏洞来监视用户"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/soft/1139739.htm",
+          "author": "maomao",
+          "description": "美国去年遭受了6.5万次勒索软件攻击，即每小时超过7次。而且情况可能会变得更糟。由于网络犯罪分子瞄准了美国基础设施的关键部分，以前被视为讨厌的事情正迅速成为一个国家安全问题。最近对Colonial Pipeline输油管道网络系统的攻击引发了恐慌性购买，清空了整个东南地区的许多加油站，而对JBS的另一次攻击则引起了对美国国内牛肉供应的担忧。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/soft/1139739.htm",
+          "publishedOn": "2021-06-11T20:09:31.000Z",
+          "wordCount": 195,
+          "title": "美国每小时遭受超过7次勒索软件攻击  它已经成为国家安全风险"
+        },
         {
           "id": "https://www.cnbeta.com/articles/science/1139737.htm",
           "author": "maomao",
