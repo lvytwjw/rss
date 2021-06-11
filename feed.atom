@@ -2,10 +2,142 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://lvytwjw.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-11T09:06:26.850Z</updated>
+    <updated>2021-06-11T10:07:26.447Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://lvytwjw.github.io/rss/index.html"/>
     <link rel="self" href="https://lvytwjw.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[民航局回应粉丝闯头等舱追星：严打相关违法违规行为]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1139653.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1139653.htm"/>
+        <updated>2021-06-11T09:57:18.000Z</updated>
+        <summary type="html"><![CDATA[近日，杭州到北京一航班落地滑行阶段，有粉丝不听机组劝阻，前往头等舱追星，引发公众关注。6月11日，民航局公安局副局长李岩在发布会上表示，民航是公众出行的主要方式之一，粉丝在明星出行过程中追星的情况时有发生。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[国家气象信息中心和郑州商品交易所合作开发天气指数期货等衍生品]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1139651.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1139651.htm"/>
+        <updated>2021-06-11T09:54:15.000Z</updated>
+        <summary type="html"><![CDATA[近日，国家气象信息中心和郑州商品交易所签署战略合作框架协议，双方将联合开发天气指数期货等天气衍生品，深入挖掘气象数据价值。天气指数期货，本质上是一种风险管理手段，利用金融市场，破解“靠天吃饭”不稳定的难题。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[乌克兰一女子涉嫌盗走研究机构里的禽鸟类纽卡斯尔病毒毒株]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1139649.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1139649.htm"/>
+        <updated>2021-06-11T09:53:06.000Z</updated>
+        <summary type="html"><![CDATA[乌克兰一女子涉嫌盗走保存在该国国家微生物毒株中心的禽鸟类纽卡斯尔病毒毒株，目前正被调查，或面临5年监禁。据俄罗斯卫星通讯社报道，乌克兰总检察长办公室网站上消息称，涉事女子为乌克兰国家生物技术和微生物毒株科学控制研究所前工作人员。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Windows 10 KB5003637更新可能会让任务栏与打印机无法正常运行]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1139647.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1139647.htm"/>
+        <updated>2021-06-11T09:50:46.000Z</updated>
+        <summary type="html"><![CDATA[Windows 10出现了一个新的错误，本月常规安全补丁 "KB5003637"正在搞乱任务栏和桌面上的图标。这个问题在上个月用户安装可选时就首次被报告，但这个月它似乎已经溜到了强制安全更新中。Windows 10 KB5003637现在已经是一个强制性安全补丁，它是2021年6月补丁星期二更新的一部分。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[黑客可向邮件服务器发送数据以干扰HTTPS连接]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1139645.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1139645.htm"/>
+        <updated>2021-06-11T09:48:09.000Z</updated>
+        <summary type="html"><![CDATA[当通过受保护的 HTTPS 连接访问服务时，浏览器不会在验证完网站的数字证书之前将数据传递给网络服务器。该方案可防止监控 / 篡改数据类的中间人攻击，避免用户被收集身份验证 cookie、或在受害者的设备上运行恶意软件。然而 Ars Technica 报道称，近期曝出的一种黑客攻击手段，表明攻击者仍可诱使浏览器连接到使用兼容证书的 Email / FTP 服务器，进而引发相应的风险。
+ 阅读全文]]></summary>
+        <author>
+            <name>raymon725</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[苹果公司在欧亚经济委员会注册了数款iPhone 13型号]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1139643.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1139643.htm"/>
+        <updated>2021-06-11T09:46:29.000Z</updated>
+        <summary type="html"><![CDATA[欧亚经济委员会（EEC）数据库中出现了一份新的俄语监管文件，证据指向苹果计划在秋季推出的几款iPhone 13型号。运行iOS 14的iPhone版本被列出，型号为A2628、A2630、A2634、A2635、A2640、A2643和A2645，这些数字都不符合苹果现有的智能手机阵容。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[阿里云6·18新玩法上线：邀好友下单 有机会得iPhone 12 Pro！]]></title>
+        <id>https://click.aliyun.com/m/1000277877/</id>
+        <link href="https://click.aliyun.com/m/1000277877/"/>
+        <updated>2021-06-11T09:38:05.000Z</updated>
+        <summary type="html"><![CDATA[近日，阿里云618会场上线了新的活动，邀请1名新客即得猫超卡！从页面活动规则中我们了解到，邀好友最高可获500元，更有iPhone12 Pro等你拿！该活动对象是阿里云官网已实名认证的注册会员用户。活动时间是2021年6月11日0点到6月30日24点。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[国际货币基金组织计划会见萨尔瓦多总统 或讨论其比特币举措]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1139639.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1139639.htm"/>
+        <updated>2021-06-11T09:36:10.000Z</updated>
+        <summary type="html"><![CDATA[国际货币基金组织(International Monetary Fund)表示，萨尔瓦多让比特币成为该国法定货币的决定可能会引发法律和金融方面的担忧。国际货币基金组织发言人格里 · 赖斯在星期四的新闻发布会上表示，国际货币基金组织的一个小组今天将与总统纳伊布•布克勒(Nayib Bukele)会晤，并暗示可能就最近该国比特币法进行讨论。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[投资人谈《你好李焕英》：演得不怎么好 看不下去]]></title>
+        <id>https://hot.cnbeta.com/articles/movie/1139637.htm</id>
+        <link href="https://hot.cnbeta.com/articles/movie/1139637.htm"/>
+        <updated>2021-06-11T09:35:36.000Z</updated>
+        <summary type="html"><![CDATA[6月11日，在第四届中国影视资本峰会上，赛富亚洲投资基金创始管理合伙人阎焱表示：电影《你好李焕英》演的其实不怎么好，我看了一会看不下去了，但是票房超过50亿。后来我们唯一给出的解释就是，疫情把人给憋坏了，憋的大家都出不来，有这么一个电影 ，然后大家结着伴儿去看电影。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[腾讯员工谈“强制6点下班”：965不可能一步到位 关键在落实]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1139635.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1139635.htm"/>
+        <updated>2021-06-11T09:33:33.000Z</updated>
+        <summary type="html"><![CDATA[6月11日消息，近日腾讯旗下光子工作室要求员工保持有规律的健康作息，发布了一个加班管理及指标，该工作室严格限制了上下班时间，除周三18：00下班外，其余时间必须在21:00之前下班，同时周末全面双休，节假日休假严格按照国家法定节假日安排休假。该机制将于2021年6月14日开始实行。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FDA批准强生疫苗的保存期限从3个月延长至4.5个月]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1139633.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1139633.htm"/>
+        <updated>2021-06-11T09:29:48.000Z</updated>
+        <summary type="html"><![CDATA[据美国媒体报道，数百万剂未使用的强生新冠疫苗本月末即将过期。强生公司10日表示，美国食品和药物管理局已批准强生疫苗的保存期限从3个月延长至4.5个月。强生公司在一份声明中说，延长保存期限这一决定是基于正在进行中的疫苗稳定性评估研究数据。研究表明，强生疫苗在2至8摄氏度条件下冷藏时，疫苗稳定性可长达4.5个月。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[餐饮服务供应商Edward Don遭遇勒索软件网络攻击]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1139631.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1139631.htm"/>
+        <updated>2021-06-11T09:12:02.000Z</updated>
+        <summary type="html"><![CDATA[Bleeping Computer 报道称，美餐饮配送巨头 Edward Don 于近日遭受了 Qbot 勒索软件的网络攻击，迫使该公司锁定部分网络以防止感染进一步蔓延。作为餐饮服务设备及用品的主要经销商，Edward Don 的产品线包括了厨房配件、酒吧用品、以及各种餐具。然而受本次攻击事件的影响，该公司正常运营（包括电话、网络和邮件）都受到了严重的影响。
+ 阅读全文]]></summary>
+        <author>
+            <name>raymon725</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[制程越来越小，才是芯片一直缺货的原因]]></title>
         <id>https://www.cnbeta.com/articles/tech/1139629.htm</id>
