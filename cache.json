@@ -1482,6 +1482,51 @@
       "siteUrl": "https://www.cnbeta.com",
       "articles": [
         {
+          "id": "https://www.cnbeta.com/articles/tech/1139711.htm",
+          "author": "ugmbbc",
+          "description": "多位知情人士今日称，《绝地求生》开发商Krafton（蓝洞公司）将于下周启动IPO（首次公开招股），这可能成为韩国十一年来规模最大的一次上市活动。今年4月，韩国交易所已批准Krafton的初步上市计划。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1139711.htm",
+          "publishedOn": "2021-06-11T14:48:46.000Z",
+          "wordCount": 193,
+          "title": "消息称《绝地求生》开发商Krafton下周启动IPO  至少融资50亿美元"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1139709.htm",
+          "author": "ugmbbc",
+          "description": "正在为地球以外的服务建立卫星互联网网络的初创公司开普勒通信公司在新一轮融资中筹集了6000万美元，以帮助这家位于多伦多的公司发展，包括在美国的扩张。开普勒公司不直接向地球上的企业销售网络，而专注于向空间站、其他卫星提供通信，使它们能够将信息实时带回地球。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1139709.htm",
+          "publishedOn": "2021-06-11T14:47:08.000Z",
+          "wordCount": 199,
+          "title": "卫星公司开普勒融资6000万美元 以扩大空间数据通信网络"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/science/1139707.htm",
+          "author": "ugmbbc",
+          "description": "哥白尼哨兵2号卫星图像本周带我们游重庆，这是中国最大的直辖市。重庆位于中国的中南部，面积超过8万平方公里，大约相当于奥地利的面积。重庆位于一片被河流和山脉纵横交错的广大区域。这些山脉包括北部的大巴山，东部的巫山，东南的武陵山和南部的大娄山。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/science/1139707.htm",
+          "publishedOn": "2021-06-11T14:41:28.000Z",
+          "wordCount": 194,
+          "title": "哥白尼哨兵2号《太空探索地球》本周带我们鸟瞰中国重庆"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1139705.htm",
+          "author": "ugmbbc",
+          "description": "足球明星亚历克斯·摩根在Instagram上分享了一张照片，她上镜时戴着苹果尚未公布的\"Beats Studio Buds\"。苹果公司尚未发布预计将被称为Beats Studio Buds的产品，但它们继续被发现在一些明星手里开始试用。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1139705.htm",
+          "publishedOn": "2021-06-11T14:19:33.000Z",
+          "wordCount": 206,
+          "title": "未公布的\"Beats Studio Buds\"耳塞再次出现在名人社交媒体上"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1139703.htm",
+          "author": "ugmbbc",
+          "description": "大众汽车公司称，在其一家供应商在互联网上留下的客户数据缓存没有安全保障，导致超过330万客户的信息被暴露。这家汽车制造商在一封信中说，大众汽车、其子公司奥迪以及美国和加拿大的授权经销商所共同使用的供应商，在2019年8月至2021年5月的两年时间里，没有保护好横跨2014年至2019年的客户数据。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1139703.htm",
+          "publishedOn": "2021-06-11T14:17:19.000Z",
+          "wordCount": 190,
+          "title": "大众汽车公司称一供应商的安全漏洞暴露了330万名司机的信息"
+        },
+        {
           "id": "https://www.cnbeta.com/articles/tech/1139701.htm",
           "author": "ugmbbc",
           "description": "6月10日，湖北石首在进行堤防白蚁整治时，发现一个超大蚁穴，挖出一对蚁王、蚁后，蚁后体长5厘米，巢穴形成已有60多年。目前，工作人员用挖机挖开了较大的施工面，并且，超大蚁穴的洞口已经被完全挖开，洞口直径约1.8米。\n 阅读全文",
