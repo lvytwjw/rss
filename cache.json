@@ -1523,6 +1523,15 @@
       "siteUrl": "https://www.cnbeta.com",
       "articles": [
         {
+          "id": "https://www.cnbeta.com/articles/science/1139737.htm",
+          "author": "maomao",
+          "description": "加州大学圣地亚哥分校医学院的研究人员使用一种人工智能（AI）算法筛选了数千兆字节的基因表达数据，确定在感染期间哪些基因是 \"开启\"或 \"关闭\"的，以寻找过去病毒大流行感染患者的共同模式，包括SARS、MERS和猪流感。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/science/1139737.htm",
+          "publishedOn": "2021-06-11T19:37:31.000Z",
+          "wordCount": 195,
+          "title": "科学家用遗传数据训练人工智能 预测病毒感染患者病情发展"
+        },
+        {
           "id": "https://www.cnbeta.com/articles/science/1139735.htm",
           "author": "maomao",
           "description": "信号可以被最佳数量的噪声放大，但这种所谓的随机共振是一种相当脆弱的现象。AMOLF的研究人员首次在一个充满油的光学微腔中研究记忆对这种现象的作用。以前的研究从未考虑过慢速非线性（即记忆）对随机共振的影响，但这些实验表明，当系统有记忆时，随机共振对信号频率的变化变得稳健。这在物理学和能源技术的许多领域都有影响。\n 阅读全文",

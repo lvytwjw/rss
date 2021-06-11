@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://lvytwjw.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-11T19:07:19.121Z</updated>
+    <updated>2021-06-11T20:06:36.828Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://lvytwjw.github.io/rss/index.html"/>
     <link rel="self" href="https://lvytwjw.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[科学家用遗传数据训练人工智能 预测病毒感染患者病情发展]]></title>
+        <id>https://www.cnbeta.com/articles/science/1139737.htm</id>
+        <link href="https://www.cnbeta.com/articles/science/1139737.htm"/>
+        <updated>2021-06-11T19:37:31.000Z</updated>
+        <summary type="html"><![CDATA[加州大学圣地亚哥分校医学院的研究人员使用一种人工智能（AI）算法筛选了数千兆字节的基因表达数据，确定在感染期间哪些基因是 "开启"或 "关闭"的，以寻找过去病毒大流行感染患者的共同模式，包括SARS、MERS和猪流感。
+ 阅读全文]]></summary>
+        <author>
+            <name>maomao</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[科学家揭开了有记忆系统中噪声辅助信号放大的面纱]]></title>
         <id>https://www.cnbeta.com/articles/science/1139735.htm</id>
