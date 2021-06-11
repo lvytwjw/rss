@@ -2,10 +2,175 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://lvytwjw.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-11T08:07:33.207Z</updated>
+    <updated>2021-06-11T09:06:26.850Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://lvytwjw.github.io/rss/index.html"/>
     <link rel="self" href="https://lvytwjw.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[制程越来越小，才是芯片一直缺货的原因]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1139629.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1139629.htm"/>
+        <updated>2021-06-11T09:00:44.000Z</updated>
+        <summary type="html"><![CDATA[5 月 7 日，低调的蓝色巨头 IBM 宣布在芯片制造工艺上取得重大突破，据他们说，已经打造出全球首个 2nm 芯片制造技术，与 7nm 芯片相比，计算速度快 45%， 能源效率搞 75%， 并且相比 5nm 芯片拥有更小的体积和更快的速度，有助于提升网络连接和数据处理速度，并提升自动驾驶汽车检测物体的反应时间。
+ 阅读全文]]></summary>
+        <author>
+            <name>study875</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[5月国内汽车销量下降3.1% 中汽协：最大问题是芯片短缺]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1139627.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1139627.htm"/>
+        <updated>2021-06-11T09:00:03.000Z</updated>
+        <summary type="html"><![CDATA[日前，中国汽车工业协会（简称中汽协）发布了2021年5月汽车工业经济运行情况。数据显示，今年5月，汽车市场产销分别完成204万辆和212.8万辆，环比分别下降8.7%和5.5%，同比分别下降6.8%和3.1%；与2019年同比相比，产销同比增长10.3%和11.1%。
+ 阅读全文]]></summary>
+        <author>
+            <name>teikaei</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[腾讯员工谈“强制 6 点下班 ”：965 不可能一步到位 关键在落实]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1139625.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1139625.htm"/>
+        <updated>2021-06-11T08:58:38.000Z</updated>
+        <summary type="html"><![CDATA[近日腾讯旗下光子工作室要求员工保持有规律的健康作息，发布了一个加班管理及指标，该工作室严格限制了上下班时间，除周三 18：00 下班外，其余时间必须在 21:00 之前下班，同时周末全面双休，节假日休假严格按照国家法定节假日安排休假。该机制将于 2021 年 6 月 14 日开始实行。
+ 阅读全文]]></summary>
+        <author>
+            <name>study875</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[拆解报告：MI小米65W 1A1C氮化镓充电器AD652G]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1139623.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1139623.htm"/>
+        <updated>2021-06-11T08:55:29.000Z</updated>
+        <summary type="html"><![CDATA[早在氮化镓快充市场爆发时，MI小米就推出了自家首款65W单C口氮化镓充电器AD65G，凭借小巧的体积以及不错的做工用料，获得不少人的喜爱。而后小米又陆续推出了55W和33W功率两款氮化镓快充，其中33W氮化镓充电器AD33G还有“小钢炮”之称，小巧而性能强悍。充电头网还对小米这三款氮化镓充电器进行了简单的汇总对比。
+ 阅读全文]]></summary>
+        <author>
+            <name>study875</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[比特币或被列入风险最高资产 前景祸福难料]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1139621.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1139621.htm"/>
+        <updated>2021-06-11T08:40:06.000Z</updated>
+        <summary type="html"><![CDATA[国际性银行监管机构有关把比特币列入风险最高资产的提议，把加密货币进一步拖入主流金融世界。它还将让银行在资产负债表上持有数字货币的成本非常高，这可能会延迟加密货币的进一步普及。
+ 阅读全文]]></summary>
+        <author>
+            <name>teikaei</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mozilla继续炮轰谷歌FLoC广告追踪政策：隐私风险依然很大！]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1139619.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1139619.htm"/>
+        <updated>2021-06-11T08:39:10.000Z</updated>
+        <summary type="html"><![CDATA[在周四的一篇博客文章中，Firefox 浏览器开发商 Mozilla 再次对谷歌的定向广告追踪新提案给出了警告。理由是这项简称 FLoC 的“联合学习队列”技术，仍有诸多对用户构成“重大”隐私风险的特性。文章作者 Eric Rescorla 表示，尽管谷歌宣称新的“隐私保护”机制可用于替代第三方 cookie 以开展广告追踪，但 FLoC 本身仍存在重大的隐私问题。
+ 阅读全文]]></summary>
+        <author>
+            <name>raymon725</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HarmonyOS+骁龙865加持：华为MatePad 11上市时间首曝]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1139617.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1139617.htm"/>
+        <updated>2021-06-11T08:38:00.000Z</updated>
+        <summary type="html"><![CDATA[前不久，华为正式发布了HarmonyOS操作系统，并同时推出了首款预装HarmonyOS的平板设备MatePad Pro 12.6。同时，华为消费者业务COO何刚还在发布会上透露，将会在后续推出一款全新的MatePad 11平板电脑，而该机将搭载高通处理器。
+ 阅读全文]]></summary>
+        <author>
+            <name>teikaei</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[中疾控：引起广州疫情变异病毒传播能力比老毒株提高1倍]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1139615.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1139615.htm"/>
+        <updated>2021-06-11T08:37:52.000Z</updated>
+        <summary type="html"><![CDATA[6月11日，国务院联防联控机制举行新闻发布会，中国疾控中心研究员冯子健介绍，自5月21日广东疫情发生以来，病例数已经超过百例，存在家庭和公共场所内传播的现象，通过流行病学调查，病例间的传播关系都比较明确，近期报告病例多来自封闭管控的区域以及隔离观察的人员。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[许诺美女、百万年薪、千万别墅招人 椰树集团被罚40万]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1139613.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1139613.htm"/>
+        <updated>2021-06-11T08:37:31.000Z</updated>
+        <summary type="html"><![CDATA[还记得3月份椰树集团许诺的美女帅哥、百万年薪、千万别墅招聘广告吗？被网友称为老司机的椰树公司因此被海南市场监督管理局罚款40万元。从企查查信息来看，针对这次的广告宣传活动，4月30日，海南监管部门对椰树集团海南椰汁饮料有限公司下发了行政处罚，罚款40万元，理由是“妨碍社会公共秩序或者违背社会良好风尚。”
+ 阅读全文]]></summary>
+        <author>
+            <name>teikaei</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[德国量子技术与应用联盟成立 为实现量子计算工业化应用奠定基础]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1139611.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1139611.htm"/>
+        <updated>2021-06-11T08:32:44.000Z</updated>
+        <summary type="html"><![CDATA[十家领先的德国公司联合成立了量子技术与应用联盟 (QUTAC)。QUTAC 的目标是在量子计算的现有基础上将其进一步发展为可用的工业应用。具体而言，技术、化学和制药、保险和汽车行业的应用将进入市场成熟期。此举旨在为量子计算在德国和欧洲实现工业化应用奠定基础。
+ 阅读全文]]></summary>
+        <author>
+            <name>study875</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[国家已批准 3-17 岁人群可以紧急使用新冠病毒灭活疫苗]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1139609.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1139609.htm"/>
+        <updated>2021-06-11T08:20:25.000Z</updated>
+        <summary type="html"><![CDATA[国家卫生健康委疾控局二级巡视员崔钢 11 日在国务院联防联控机制新闻发布会上介绍，目前，我国新冠病毒疫苗接种主要是在 18 岁以上人群开展，国家有关部门已经批准 3-17 岁人群可以开展新冠病毒灭活疫苗的紧急使用。
+ 阅读全文]]></summary>
+        <author>
+            <name>study875</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[违法违规收集使用个人信息Keep等129款App被通报]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1139607.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1139607.htm"/>
+        <updated>2021-06-11T08:20:03.000Z</updated>
+        <summary type="html"><![CDATA[近期，针对人民群众反映强烈的App非法获取、超范围收集、过度索权等侵害个人信息的现象，国家互联网信息办公室依据《中华人民共和国网络安全法》《App违法违规收集使用个人信息行为认定方法》《常见类型移动互联网应用程序必要个人信息范围规定》等法律和有关规定，组织对运动健身、新闻资讯、网络直播、应用商店、女性健康等常见类型公众大量使用的部分App的个人信息收集使用情况进行了检测。
+ 阅读全文]]></summary>
+        <author>
+            <name>teikaei</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[完全无线化 小米工程师：明年或有厂商取消手机充电口]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1139605.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1139605.htm"/>
+        <updated>2021-06-11T08:19:37.000Z</updated>
+        <summary type="html"><![CDATA[前不久，小米正式公布了全新一代的快充技术，首次在业内实现了 200W 有线快充+ 120W 无线快充的规格，将手机充电时间带到 8 分钟。上周，小米官方征集了米粉关于 200W 有线快充+ 120W 无线快充的问题，并邀请米粉代表当面询问小米工程师。
+ 阅读全文]]></summary>
+        <author>
+            <name>study875</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[穆长春谈数字货币：想藏私房钱 也可以用子钱包形式实现]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1139603.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1139603.htm"/>
+        <updated>2021-06-11T08:17:39.000Z</updated>
+        <summary type="html"><![CDATA[6月11日消息，“第十三届陆家嘴论坛”于2021年6月10日至11日在上海举办。中国人民银行数字货币研究所所长穆长春表示，数字人民币按照权限归属，可以分为母钱包和子钱包，“比如说有些人要藏个私房钱，也可以用子钱包的形式来实现。”　
+ 阅读全文]]></summary>
+        <author>
+            <name>teikaei</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[伊朗黑客入侵一家非洲银行和一家美国联邦图书馆的网站]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1139601.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1139601.htm"/>
+        <updated>2021-06-11T08:15:55.000Z</updated>
+        <summary type="html"><![CDATA[据外媒《Iran Briefing》报道，自称来自伊朗的黑客攻击了塞拉利昂非洲商业银行和美国联邦寄存图书馆计划的网站，并发布了亲伊朗的评论和图片。 Google搜索结果显示塞拉利昂商业银行的网站为“H4ck3D IRANIAN HACKER”。
+ 阅读全文]]></summary>
+        <author>
+            <name>vivian</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[连姆·尼森否认参与《欧比旺》剧集 调侃“他们钱不够”]]></title>
         <id>https://hot.cnbeta.com/articles/movie/1139599.htm</id>
