@@ -2,10 +2,307 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://lvytwjw.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-10T23:06:52.237Z</updated>
+    <updated>2021-06-11T00:22:53.454Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://lvytwjw.github.io/rss/index.html"/>
     <link rel="self" href="https://lvytwjw.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Uber提出为司机的健康保险买单  但两周后又取消了这一提议]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1139359.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1139359.htm"/>
+        <updated>2021-06-11T00:12:28.000Z</updated>
+        <summary type="html"><![CDATA[据外媒The Verge报道，上个月，Uber错误地给一些司机和送餐员发送了一封电子邮件，表示愿意承担他们的部分健康保险费用--但两周后又取消了这一提议。
+ 阅读全文]]></summary>
+        <author>
+            <name>vivian</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[为什么二氧化碳会成为地球的温室气体？]]></title>
+        <id>https://www.cnbeta.com/articles/science/1139357.htm</id>
+        <link href="https://www.cnbeta.com/articles/science/1139357.htm"/>
+        <updated>2021-06-11T00:10:47.000Z</updated>
+        <summary type="html"><![CDATA[为什么二氧化碳被人们称为温室气体呢？二氧化碳是一种红外活性分子，它能吸收地球表面释放的长红外辐射。1856年夏季，科学家尤妮斯·福特试图找出影响太阳光热量的因素，她的实验结论显示，在阳光照射下，富含碳酸气体（现在被称为二氧化碳）的封闭环境比在普通空气环境中升温更快，当远离阳光直射时，它的冷却速度要慢很多。
+ 阅读全文]]></summary>
+        <author>
+            <name>raymon725</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[蜜蜂能减少摩擦的毛发或有助于科研人员打造出更持久的设备]]></title>
+        <id>https://www.cnbeta.com/articles/science/1139355.htm</id>
+        <link href="https://www.cnbeta.com/articles/science/1139355.htm"/>
+        <updated>2021-06-11T00:10:43.000Z</updated>
+        <summary type="html"><![CDATA[据外媒报道，当蜜蜂从花朵中采集花粉和花蜜时，它们会反复地弯曲和伸直腹部--但摩擦却很小。科学家们现在已经发现了是什么使这成为可能，并且这种机制可以应用到人类技术中。在北京理工大学Jieliang Zhao和清华大学Shaoze Yan的带领下，一组中国科学家最近研究了构成蜜蜂腹部外骨骼的重叠外板。
+ 阅读全文]]></summary>
+        <author>
+            <name>teikaei</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[预热Windows 11 微软推出慢放4000%的历代Windows开机音乐]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1139353.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1139353.htm"/>
+        <updated>2021-06-11T00:10:41.000Z</updated>
+        <summary type="html"><![CDATA[在 Build 2021 开发者大会上，微软首席执行官纳德拉（Satya Nadella）表示公司正在打造“十年来最重要 Windows 更新之一”。他所谈论的显然就是代号为 Sun Valley 的 Windows 10 21H2 功能更新更新，表明将会在 Windows 系统上迎来重大更新 。
+ 阅读全文]]></summary>
+        <author>
+            <name>study875</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[为什么我们会看到不存在的东西？]]></title>
+        <id>https://www.cnbeta.com/articles/science/1139351.htm</id>
+        <link href="https://www.cnbeta.com/articles/science/1139351.htm"/>
+        <updated>2021-06-11T00:03:40.000Z</updated>
+        <summary type="html"><![CDATA[北京时间6月11日消息，几周前，我们讨论了错误的发现，即科学家们声称他们发现了外星生命的证据。但是，为什么我们这么容易上当又妄下结论呢？这么做有多糟糕？我们又该如何避免这种情况呢？今天，我们就来谈谈这些问题。
+ 阅读全文]]></summary>
+        <author>
+            <name>vivian</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google用AI设计AI芯片 6小时完成工程师数月工作]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1139349.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1139349.htm"/>
+        <updated>2021-06-11T00:02:34.000Z</updated>
+        <summary type="html"><![CDATA[6月11日消息，谷歌称其正在使用机器学习系统帮助工程师设计新一代机器学习芯片。谷歌工程师表示，算法设计的芯片质量和人工设计“相当”甚至“还要更好”，但完成速度要快得多。谷歌表示，人工智能可以在不到6小时的时间内完成人工需要数月时间完成的芯片设计工作。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[IMF警告：萨尔瓦多采纳比特币将引发重大风险和监管问题]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1139347.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1139347.htm"/>
+        <updated>2021-06-11T00:02:22.000Z</updated>
+        <summary type="html"><![CDATA[国际货币基金组织（IMF）发言人格里-赖斯（Gerry Rice）周四表示，萨尔瓦多采用比特币作为法定货币的决定可能会带来一系列风险和监管挑战。
+ 阅读全文]]></summary>
+        <author>
+            <name>vivian</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[国际航空运输协会推出COVID“疫苗护照”App  可在选定的航空公司试用]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1139345.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1139345.htm"/>
+        <updated>2021-06-10T23:58:04.000Z</updated>
+        <summary type="html"><![CDATA[据外媒AppleInsider报道，国际航空运输协会（IATA）推出的一款新的旅行通行证iPhone应用，旨在成为航空公司检查乘客是否接种过新冠疫苗的方式。之前报道的国际航空运输协会的“疫苗护照”应用程序现在可以在选定的航空公司试用。
+ 阅读全文]]></summary>
+        <author>
+            <name>vivian</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SecuriAlert：福特新推的一款跟智能手机相连的汽车报警系统]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1139343.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1139343.htm"/>
+        <updated>2021-06-10T23:55:25.000Z</updated>
+        <summary type="html"><![CDATA[据外媒报道，福特正在推出一种新的互联安全系统，希望借此能给车主带来更多的安心。这款跟智能手机相连的系统被称为SecuriAlert（前身为Guard Mode），继今年早些时候在商用汽车上成功推出后现首次向消费者推出。
+ 阅读全文]]></summary>
+        <author>
+            <name>teikaei</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2021年度Apple Design Awards名单公布 原神等12款App上榜]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1139341.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1139341.htm"/>
+        <updated>2021-06-10T23:54:38.000Z</updated>
+        <summary type="html"><![CDATA[在今天举办的年度 Apple Design Awards 颁奖礼上，苹果表彰了来自全球开发者的 12 款 APP 和游戏。在苹果官方更新的名单中，包括原神、CARROT Weather、Genshin Impact和Be My Eyes等。
+ 阅读全文]]></summary>
+        <author>
+            <name>study875</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[机构公布2021 Q1出货量数据：华为占比4%跌至全球第六]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1139339.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1139339.htm"/>
+        <updated>2021-06-10T23:49:34.000Z</updated>
+        <summary type="html"><![CDATA[6月11日早间消息，调研机构Counterpoint Research公布了今年一季度全球智能手机、功能手机出货量数据。结果显示，当季全球总出货3.54亿部，同比增加20%，环比下滑10%。厂商方面，三星出货份额占比22%、苹果17%、小米14%，华为以4%的出货量占比仅列第六位。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NASA“毅力号”火星车开始主要科学任务：寻找古代微生物生命的迹象]]></title>
+        <id>https://www.cnbeta.com/articles/science/1139337.htm</id>
+        <link href="https://www.cnbeta.com/articles/science/1139337.htm"/>
+        <updated>2021-06-10T23:45:33.000Z</updated>
+        <summary type="html"><![CDATA[据外媒CNET报道，美国宇航局（NASA）的“毅力号”漫游车已经开始了它的主要科学任务：在火星的杰泽罗陨石坑寻找古代微生物生命的迹象。“直到最近，漫游车一直在进行系统测试或调试，并支持机智号（Ingenuity）火星直升机一个月的飞行测试，”NASA周三在一份声明中说。
+ 阅读全文]]></summary>
+        <author>
+            <name>vivian</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[为什么我不建议你去看《哆啦A梦：伴我同行2》？]]></title>
+        <id>https://hot.cnbeta.com/articles/comic/1139335.htm</id>
+        <link href="https://hot.cnbeta.com/articles/comic/1139335.htm"/>
+        <updated>2021-06-10T23:43:19.000Z</updated>
+        <summary type="html"><![CDATA[5月28日上映的《哆啦A梦：伴我同行2》在3天后票房破亿，此后的六一儿童节当天，“伴我同行2”不出意外地斩获5500余万票房，夺得“六一档”当日最高票房的桂冠，这个成绩并不让人意外。基于蓝胖子，也就是“哆啦A梦”IP巨大的影响力，早在2019年底公布消息时，话题“2020年有两部哆啦A梦”就曾经登上过热搜，而在去年12月《哆啦A梦：大雄的新恐龙》上映后，观众们期待的目光自然投向了《哆啦A梦：伴我同行2》。
+ 阅读全文]]></summary>
+        <author>
+            <name>vivian</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[《速激9》贴片《侏罗纪世界：统治》预告：蚊子的故事即将上演]]></title>
+        <id>https://hot.cnbeta.com/articles/movie/1139333.htm</id>
+        <link href="https://hot.cnbeta.com/articles/movie/1139333.htm"/>
+        <updated>2021-06-10T23:39:23.000Z</updated>
+        <summary type="html"><![CDATA[据外媒报道，我们已经从人类的角度看过《侏罗纪公园》了。现在，距离《侏罗纪世界：统治(Jurassic World: Dominion)》上映还有整整一年时间，届时，大家将能看到蚊子的故事了。
+ 阅读全文]]></summary>
+        <author>
+            <name>teikaei</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Switch版《天国：拯救》官宣疑似泄露Switch Pro]]></title>
+        <id>https://hot.cnbeta.com/articles/game/1139331.htm</id>
+        <link href="https://hot.cnbeta.com/articles/game/1139331.htm"/>
+        <updated>2021-06-10T23:37:44.000Z</updated>
+        <summary type="html"><![CDATA[经过传言，否认之后，最终主视角美式RPG《天国：拯救》还是在今天（6月11日）被证实确定会登陆任天堂Switch平台。以上消息并非空穴来风，而是来自于本作的开发商Warhorse Studios。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[索尼与使命召唤系列制作人新公司签约打造全新IP]]></title>
+        <id>https://hot.cnbeta.com/articles/game/1139329.htm</id>
+        <link href="https://hot.cnbeta.com/articles/game/1139329.htm"/>
+        <updated>2021-06-10T23:37:27.000Z</updated>
+        <summary type="html"><![CDATA[今天（6月11日），索尼PS官方博客发布了一篇长篇文章，宣布确定同一家新成立的工作室Deviation Games合力打造一款全新的游戏作品，而这个工作室虽然刚刚在行业内露脸，不过却有着使命召唤等知名游戏的背景。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[E3：《Elden Ring》炫酷实机新预告 1月21日发行]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1139327.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1139327.htm"/>
+        <updated>2021-06-10T23:37:05.000Z</updated>
+        <summary type="html"><![CDATA[作为夏季游戏节直播节目的压轴戏，《Elden Ring》终于在千呼万唤后出现了。《Elden Ring》作为宫崎英高的最新魂系游戏，此次还将引入知名奇幻作家乔治R·R马丁为其撰写背景设定。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[程维及柳青发布创始人信：20年内共享出行普及率将从目前的2％提高到24％]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1139325.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1139325.htm"/>
+        <updated>2021-06-10T23:35:39.000Z</updated>
+        <summary type="html"><![CDATA[北京时间6月11日，滴滴正式向SEC递交了IPO招股书，股票代码为“DIDI”，高盛、摩根士丹利、摩根大通、华兴资本担任承销商。随后，滴滴创始人程维及CEO柳青发布了创始人信。程维在信中回顾了做滴滴出行的初衷，就是让人们更容易叫到出租车。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[滴滴豪华董事会：腾讯刘炽平阿里张勇在列 软银代表拟辞任]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1139323.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1139323.htm"/>
+        <updated>2021-06-10T23:33:30.000Z</updated>
+        <summary type="html"><![CDATA[美东时间6月10日，滴滴正式向美国证监会（SEC）递交了上市（IPO）招股书，计划以“DIDI”为股票代码，于纽交所挂牌上市。滴滴董事会名单随之披露。招股书显示，滴滴的董事长为创始人、CEO程维，管理层中，联合创始人、总裁柳青，高级副总裁朱景士均有一席董事席位。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美国国税局表示富豪纳税信息泄露一事调查力度加大 FBI已介入]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1139321.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1139321.htm"/>
+        <updated>2021-06-10T23:30:38.000Z</updated>
+        <summary type="html"><![CDATA[美国国税局一位官员表示，一些美国富豪的个人收入和纳税数据被披露一事已提交给其他联邦调查人员，以调查机密信息的泄露情况。“财政部昨天宣布，他们已将调查转给他们的监察长办公室以及联邦调查局和哥伦比亚特区美国检察官办公室，”国税局负责服务和执法的副局长Douglas O’Donnell周四告诉众议院筹款委员会。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[参会者称迈阿密比特币大会成新冠疫情热点：1万多人聚集 戴口罩者寥寥]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1139319.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1139319.htm"/>
+        <updated>2021-06-10T23:29:26.000Z</updated>
+        <summary type="html"><![CDATA[加密货币播客主卢克·马丁（Luke Martin）表示，他上周在迈阿密举行的“比特币2021”大会上感染了新冠病毒，这是疫情爆发以来美国举办的最大现场活动之一。加密货币新闻和信息网站Block的研究主管拉里·塞马克（Larry Cermak）表示，他本人没有感染，但在三天的会议和派对期间和他混在一起的“每个人”都感染了。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[消息称Intel欲斥资逾127亿元收购SiFive：将RISC-V架构收入囊中]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1139317.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1139317.htm"/>
+        <updated>2021-06-10T23:25:02.000Z</updated>
+        <summary type="html"><![CDATA[据媒体援引消息人士报道，半导体初创企业SiFive收到了包括英特尔在内的多家公司的收购要约，其中，英特尔提出以超过20亿美元（编者注：约合127亿元人民币）的价格收购SiFive。知情人士透露，目前谈判还处在早期阶段，尚不能保证一定会达成协议，SiFive可能会选择保持独立。此外，也有多家公司表态愿意投资SiFive，而这一选择可能更具备可操作性。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[华为鸿蒙“朋友圈”扩容 金融机构“跑步入场”]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1139315.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1139315.htm"/>
+        <updated>2021-06-10T23:22:21.000Z</updated>
+        <summary type="html"><![CDATA[华为HarmonyOS（下称：鸿蒙）系统正吸引一众金融机构的目光。日前，中国银行、中信银行、广发银行、马上消费金融和众安保险相继官宣接入鸿蒙，支持操作系统国产化，参与鸿蒙生态建设。多位业内专家表示，从金融机构角度来看，结合鸿蒙系统强大的功能和延展性，有利于为用户推出更高效的产品和服务，预计未来会有更多金融机构参与。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[搭上华为进京卖车 赛力斯准备好了吗？]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1139313.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1139313.htm"/>
+        <updated>2021-06-10T23:16:01.000Z</updated>
+        <summary type="html"><![CDATA[官宣“卖车”一个多月，赛力斯展车终于开进华为北京授权店。北京商报记者走访发现，“华为版”赛力斯SF5已悄然进驻北京金地广场华为授权店。该店工作人员表示，新车到店后吸引不少进店消费者关注，但“为什么不是华为制造”“赛力斯是谁”等，也成为他日常最多解答的问题。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[亚马逊要求办公室员工9月复岗 每周可远程工作2天]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1139311.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1139311.htm"/>
+        <updated>2021-06-10T23:13:17.000Z</updated>
+        <summary type="html"><![CDATA[6月11日消息，美国当地时间周四，亚马逊宣布了经过调整的员工复岗计划，将施行远程和现场办公相结合的混合办公模式。亚马逊宣布，员工将在9月初复岗，每周可远程工作两天。
+ 阅读全文]]></summary>
+        <author>
+            <name>study875</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[苹果挖来宝马前高管 曾主导i3电动车开发]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1139309.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1139309.htm"/>
+        <updated>2021-06-10T23:09:31.000Z</updated>
+        <summary type="html"><![CDATA[根据彭博社报告，前宝马高管 Ulrich Kranz 已经加入苹果，将负责苹果公司自动驾驶汽车项目。Ulrich Kranz 在宝马工作了 30 年，曾经主导开发了 i3 和 i8 电动车。离开宝马之后，Ulrich Kranz 创立了 Canoo 公司，这是一家自动驾驶汽车初创公司。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[滴滴正式递交招股书 已进入全球15个国家4000多个城市]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1139307.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1139307.htm"/>
+        <updated>2021-06-10T23:08:40.000Z</updated>
+        <summary type="html"><![CDATA[北京时间6月11日凌晨，美东时间6月10日，滴滴出行正式向美国证券交易委员会（SEC）递交IPO申请，拟于纽交所挂牌上市，股票代码为“DIDI“。高盛、摩根士丹利、摩根大通、华兴资本担任承销商。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[研究发现全球珊瑚礁可能在2054年左右停止钙化]]></title>
         <id>https://www.cnbeta.com/articles/science/1139305.htm</id>
