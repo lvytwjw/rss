@@ -1482,6 +1482,15 @@
       "siteUrl": "https://www.cnbeta.com",
       "articles": [
         {
+          "id": "https://www.cnbeta.com/articles/science/1139655.htm",
+          "author": "raymon725",
+          "description": "布里斯托大学的一支研究团队，刚刚观察到了可导致人类感染“非洲昏睡病”的锥虫（trypanosomes）是如何产生性细胞的。作为一种单细胞寄生虫、同时也是一种真核生物，减数分裂也是它的一个主要特征 —— 每个生殖细胞依次从负责传递基因的亲代生殖细胞分裂出来。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/science/1139655.htm",
+          "publishedOn": "2021-06-11T10:31:08.000Z",
+          "wordCount": 232,
+          "title": "可导致昏睡病的锥虫 被发现具有独特的性细胞产生过程"
+        },
+        {
           "id": "https://www.cnbeta.com/articles/tech/1139653.htm",
           "author": "ugmbbc",
           "description": "近日，杭州到北京一航班落地滑行阶段，有粉丝不听机组劝阻，前往头等舱追星，引发公众关注。6月11日，民航局公安局副局长李岩在发布会上表示，民航是公众出行的主要方式之一，粉丝在明星出行过程中追星的情况时有发生。\n 阅读全文",
