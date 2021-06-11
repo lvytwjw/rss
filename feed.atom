@@ -2,10 +2,87 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://lvytwjw.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-11T16:13:18.604Z</updated>
+    <updated>2021-06-11T17:25:15.408Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://lvytwjw.github.io/rss/index.html"/>
     <link rel="self" href="https://lvytwjw.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[苹果再次融合iPad和Mac iPadOS和macOS会合并吗？]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1139725.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1139725.htm"/>
+        <updated>2021-06-11T17:22:08.000Z</updated>
+        <summary type="html"><![CDATA[我们知道苹果已经在iPad Pro中用上了桌面级的M1芯片，iPad和新一代MacBook拥有了相同的硬件平台；而在更早前，苹果统一了Mac和iPad的开发套件，利用Mac Catalyst即可为macOS和iPadOS开发出同时兼容两个平台的应用程序，新的M1版MacBook甚至还能运行iPad App……
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[下代Windows将至？有关微软“Windows 11”的畅想]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1139723.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1139723.htm"/>
+        <updated>2021-06-11T17:20:31.000Z</updated>
+        <summary type="html"><![CDATA[从未见过微软对一件事能捂得这么“严”，2021年6月3日，微软宣布将于6月24日发布下一代Windows（Next generation of Windows），很多媒体都将其理解为Windows 11将至。纳尼……有些怪是吗？六年前，同样也是这家公司，昭告天下说Windows 10将是微软的最后一版操作系统！这……似乎让事情变得有些复杂。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[苹果在BootCamp中增加对Windows Precision触摸板手势的支持]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1139721.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1139721.htm"/>
+        <updated>2021-06-11T17:13:40.000Z</updated>
+        <summary type="html"><![CDATA[苹果在BootCamp中增加了对Windows Precision触摸板手势的支持，对于利用BootCamp在Mac计算机上运行Windows 10的用户来说，这将是一个受欢迎的补充，这带来了一个原生解决方案，不仅可以在MacBook触控板上使用Windows特定的手势，还可以在Magic Trackpad等外部产品上使用，且无需安装第三方驱动和软件。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[苹果公司高塔剧院旗舰店6月24日在洛杉矶开业]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1139719.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1139719.htm"/>
+        <updated>2021-06-11T16:53:48.000Z</updated>
+        <summary type="html"><![CDATA[苹果公司多年来一直致力于在洛杉矶标志性的高塔剧院开设Apple Store，新店将于本月晚些时候6月24日开业。苹果高塔剧院店是洛杉矶市中心的第一家零售店，它位于洛杉矶历史悠久的百老汇剧院区。这个地方在二十世纪上半叶是城市的零售中心，现在是十几家剧院的所在地。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[《黑寡妇》发布新预告和片段 双寡姐遭追击]]></title>
+        <id>https://hot.cnbeta.com/articles/movie/1139717.htm</id>
+        <link href="https://hot.cnbeta.com/articles/movie/1139717.htm"/>
+        <updated>2021-06-11T16:43:35.000Z</updated>
+        <summary type="html"><![CDATA[漫威发布《黑寡妇》新预告，并向外媒公开了一段一分多钟的正片片段。预告和片段中都有非常高能的动作戏。尤其是这次公布的正片片段中，出现了两个寡姐一同战斗的场景。电影讲述黑寡妇遭遇了一场与她的过去相关的危险阴谋，她将要面对成为复仇者联盟成员前的黑暗经历。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[云南北迁象群向西南迁移：独象相距16公里]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1139715.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1139715.htm"/>
+        <updated>2021-06-11T16:42:32.000Z</updated>
+        <summary type="html"><![CDATA[云南北迁象群现在走到哪里了？情况如何？6月11日晚间，云南省北迁亚洲象群安全防范工作省级指挥部发布了最新通报。截至6月11日17时，北迁象群总体向西南方向迁移8.12公里，持续在玉溪市易门县十街乡活动。独象已经离群6天，位于昆明市八街街道密林内，与象群直线距离约16公里。目前人象平安。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[特斯拉新款Model 3自动换挡方式曝光 网友：这是有多恨车主？]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1139713.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1139713.htm"/>
+        <updated>2021-06-11T16:42:00.000Z</updated>
+        <summary type="html"><![CDATA[1月28日，特斯拉正式发布了新款Model S车型，新车外观部分没有进行太大的变化，但是内饰可以说是彻底变了。此前车型上的超大尺寸的竖屏被取消，换装为了17.0英寸的横置显示屏。同时，特斯拉还带来了“椭圆矩形”方向盘，科幻感十足。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Level Up Your React Conditionals]]></title>
         <id>60c24cf8d3126007592d61d5</id>
