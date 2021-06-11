@@ -2,10 +2,58 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://lvytwjw.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-11T22:06:39.302Z</updated>
+    <updated>2021-06-11T23:06:58.657Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://lvytwjw.github.io/rss/index.html"/>
     <link rel="self" href="https://lvytwjw.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[美国众议员提出5项法案以限制科技巨头权力]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1139765.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1139765.htm"/>
+        <updated>2021-06-11T23:03:55.000Z</updated>
+        <summary type="html"><![CDATA[据报道，美国众议院议员周五提出了5项法案，其中4项旨在限制科技巨头的权力。一名国会助理官员表示，这是一场反垄断革命。在这5项法案中，有2项涉及亚马逊和Alphabet旗下谷歌公司等科技巨头，这些公司都为其他企业创建了一个平台，然后与这些企业展开竞争。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What is a Disaster Recovery Plan? How to Use RTO and RPO to Protect your Business]]></title>
+        <id>60b72d5facb62507dd1d777b</id>
+        <link href="https://www.freecodecamp.org/news/disaster-recovery-plan-what-are-rto-and-rpo/"/>
+        <updated>2021-06-11T22:56:56.000Z</updated>
+        <summary type="html"><![CDATA[If you're in the world of tech, you will inevitably run into a work-related disaster now and then. These setbacks come in many forms such as cyber-attacks, theft, leaks, and corruption. And every business must be ready to face these things and plan for them. Sir Benjamin Franklin famously said,]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Safari 15: New UI, Theme Colors, and… a CSS-Tricks Cameo?]]></title>
+        <id>https://css-tricks.com/?p=342429</id>
+        <link href="https://css-tricks.com/safari-15-new-ui-theme-colors-and-a-css-tricks-cameo/"/>
+        <updated>2021-06-11T21:38:48.000Z</updated>
+        <summary type="html"><![CDATA[There’s a 33-minute video (and resources) over on apple.com covering the upcoming Safari changes we saw in the WWDC keynote this year in much more detail. Look who’s got a little cameo in there:
+Perhaps the most noticeable thing there …
+The post Safari 15: New UI, Theme Colors, and… a CSS-Tricks Cameo? appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Possibilities of Syndication]]></title>
+        <id>https://css-tricks.com/?p=342237</id>
+        <link href="https://css-tricks.com/the-possibilities-of-syndication/"/>
+        <updated>2021-06-11T21:25:56.000Z</updated>
+        <summary type="html"><![CDATA[That’s the one word that isn’t an adjective in the acronym RSS. 
+Really Simple Syndication.
+RSS isn’t just about RSS readers. Even though, gosh if I don’t love RSS readers. It’s about putting content in a format that is …
+The post The Possibilities of Syndication appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[研究发现现代鲨鱼牙齿不能用来研究脊椎动物牙齿进化过程]]></title>
         <id>https://www.cnbeta.com/articles/science/1139763.htm</id>
