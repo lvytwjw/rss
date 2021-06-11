@@ -2,10 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://lvytwjw.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-11T13:19:06.383Z</updated>
+    <updated>2021-06-11T14:06:44.589Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://lvytwjw.github.io/rss/index.html"/>
     <link rel="self" href="https://lvytwjw.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[湖北发现超大蚁穴挖出超大蚁后：体长5厘米 巢穴形成超60年]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1139701.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1139701.htm"/>
+        <updated>2021-06-11T13:29:16.000Z</updated>
+        <summary type="html"><![CDATA[6月10日，湖北石首在进行堤防白蚁整治时，发现一个超大蚁穴，挖出一对蚁王、蚁后，蚁后体长5厘米，巢穴形成已有60多年。目前，工作人员用挖机挖开了较大的施工面，并且，超大蚁穴的洞口已经被完全挖开，洞口直径约1.8米。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[理想ONE车主沟通会：退一赔三太过分 只求原价退车]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1139699.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1139699.htm"/>
+        <updated>2021-06-11T13:28:46.000Z</updated>
+        <summary type="html"><![CDATA[5月25日，2021款理想ONE正式上市，售价为33.8万元，而选装特别版颜色的车型，售价需要增加一万为34.8万元。新车进行了多项升级，并且智能辅助驾驶功能，软硬件提升巨大，但是价格只增加了1万元，不少老车主肯定更想要购买新款车型。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[加密资产专家称比特币将在6年内飙升至百万美元]]></title>
         <id>https://www.cnbeta.com/articles/tech/1139697.htm</id>
