@@ -2,10 +2,43 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://lvytwjw.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-11T04:09:59.167Z</updated>
+    <updated>2021-06-11T05:13:56.863Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://lvytwjw.github.io/rss/index.html"/>
     <link rel="self" href="https://lvytwjw.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[未来30年非洲类人猿活动范围或锐减]]></title>
+        <id>https://www.cnbeta.com/articles/science/1139505.htm</id>
+        <link href="https://www.cnbeta.com/articles/science/1139505.htm"/>
+        <updated>2021-06-11T04:40:01.000Z</updated>
+        <summary type="html"><![CDATA[一个国际科研团队在最新一期《多样性和分布》杂志发布预测结果称，在未来30年，由于气候变化、土地利用变化和人口增长的影响，非洲大猩猩、黑猩猩和倭黑猩猩等大型类人猿的活动范围将大幅减少，政府应采取相应措施，保护这些物种的生存环境。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美博彩赔率显示：比特币今年跌至1万美元概率接近六成]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1139503.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1139503.htm"/>
+        <updated>2021-06-11T04:30:01.000Z</updated>
+        <summary type="html"><![CDATA[比特币在过去两个月下跌了40%以上，博彩公司开始押注这种加密货币未来的跌幅会更大。美国博彩公司Bookies.com的数据显示，比特币今年跌至1万美元的赔率已提高到了8/11，隐含概率为57.9%。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[特斯拉中国供应商着力跟进巨型压铸机技术]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1139501.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1139501.htm"/>
+        <updated>2021-06-11T04:16:49.000Z</updated>
+        <summary type="html"><![CDATA[特斯拉用于生产 Model Y 的 6000 吨 Giga Press 巨型压铸机和用于生产 Cybertruck 的 8000 吨 Giga Press 巨型压铸机已在电动汽车界引发了广泛讨论。特斯拉的中国供应商似乎也一直在密切关注此事的进展。
+ 阅读全文]]></summary>
+        <author>
+            <name>study875</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[M1 iPad Pro暴力测试：屏幕素质亮眼 抗弯折表现平平]]></title>
         <id>https://www.cnbeta.com/articles/tech/1139499.htm</id>
