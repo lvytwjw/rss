@@ -2,10 +2,64 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://lvytwjw.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-11T17:25:15.408Z</updated>
+    <updated>2021-06-11T18:10:09.496Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://lvytwjw.github.io/rss/index.html"/>
     <link rel="self" href="https://lvytwjw.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to Ask Good Technical Questions – the Ultimate Guide]]></title>
+        <id>60bc0444acb62507dd1d9a31</id>
+        <link href="https://www.freecodecamp.org/news/how-to-ask-good-technical-questions/"/>
+        <updated>2021-06-11T17:39:28.000Z</updated>
+        <summary type="html"><![CDATA[Knowing how to ask effective technical questions is an essential skill every software engineer should have.  You may be stuck with a bug, unable to figure out why your program isn't working correctly, or you might be having trouble learning how to implement a certain algorithm. In all of these]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[雷蛇发布售价100美元的Opus X耳机 带来降噪和低延迟游戏模式]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1139733.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1139733.htm"/>
+        <updated>2021-06-11T17:37:03.000Z</updated>
+        <summary type="html"><![CDATA[Razer宣布推出Opus X，一组新的罩耳式无线耳机，提供主动降噪功能的同时价格仅为100美元。与它去年推出的价格较高的Opus耳机相比，差异不大，而且似乎性能上也没有重大妥协。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[小摩：亚马逊有望在2022年超越沃尔玛成为美国最大零售商]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1139731.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1139731.htm"/>
+        <updated>2021-06-11T17:27:13.000Z</updated>
+        <summary type="html"><![CDATA[据摩根大通周五发布的研究报告，亚马逊有望在2022年超越沃尔玛成为美国最大的零售商。分析师称，亚马逊的美国零售业务是“规模增长最快的”。2014年至2020年间，亚马逊在美国的商品交易总额（GMV）增长速度“明显快于”调整后的零售额和电子商务的增速。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[麦当劳遭黑客攻击 美国、韩国和中国台湾地区数据遭泄露]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1139729.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1139729.htm"/>
+        <updated>2021-06-11T17:26:29.000Z</updated>
+        <summary type="html"><![CDATA[据美国媒体于当地时间6月11日报道，美国知名快餐品牌麦当劳发布声明称遭到黑客攻击，造成其在美国、韩国和中国台湾地区的数据少量泄露。麦当劳表示，该公司在一周前发现内部安全系统中出现未经授权的活动，于是聘请了第三方顾问展开调查并切断了连接。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BOSS直聘正式登陆纳斯达克：首日开涨70% 市值约133.8亿美元]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1139727.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1139727.htm"/>
+        <updated>2021-06-11T17:25:02.000Z</updated>
+        <summary type="html"><![CDATA[北京时间6月12日凌晨消息，在线招聘平台BOSS直聘今日正式在美上市，上市首日开盘价33.5美元每股，较发行价19美元上涨70%。以此计算，截至目前BOSS直聘市值达到133.8亿美元。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[苹果再次融合iPad和Mac iPadOS和macOS会合并吗？]]></title>
         <id>https://www.cnbeta.com/articles/tech/1139725.htm</id>
