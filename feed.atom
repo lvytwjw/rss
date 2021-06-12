@@ -2,10 +2,43 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://lvytwjw.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-12T05:10:28.776Z</updated>
+    <updated>2021-06-12T06:07:25.278Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://lvytwjw.github.io/rss/index.html"/>
     <link rel="self" href="https://lvytwjw.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Realme或于6月15日推出首款平板与笔记本电脑]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1139891.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1139891.htm"/>
+        <updated>2021-06-12T05:46:01.000Z</updated>
+        <summary type="html"><![CDATA[近年来，Realme 的智能手机业务已经取得了长足进步，所以现在也是时候扩展更多消费电子产品线了。首先，Realme 将于 6 月 15 日举办一场发布会，届时搭载高通骁龙 888 旗舰 SoC 的 Realme GT 5G 新机将正式与大家界面。其次，我们通过 Android Authority 获悉，该公司还在积极酝酿推出首款平板 / 笔记本电脑产品。
+ 阅读全文]]></summary>
+        <author>
+            <name>raymon725</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[macOS Monterey带来了密码管理方面的诸多体验改进]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1139889.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1139889.htm"/>
+        <updated>2021-06-12T05:36:37.000Z</updated>
+        <summary type="html"><![CDATA[在 7 月公测和今秋正式发布之前，苹果已经在 WWDC 2021 开发者大会上宣布了 macOS Monterey 的早期预览。在诸多功能更新中，MacRumors 又于近日发现了 macOS Monterey 包含的针对密码管理功能的大量改进。无论在系统偏好设置、还是内置的身份验证器工具中，我们都可看到专用的密码部分。
+ 阅读全文]]></summary>
+        <author>
+            <name>raymon725</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Windows 10迎来KB5004476紧急补丁 修复XGP游戏订阅服务相关问题]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1139887.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1139887.htm"/>
+        <updated>2021-06-12T05:20:47.000Z</updated>
+        <summary type="html"><![CDATA[Windows Latest 报道称，微软刚刚为运行 Windows 10 21H1 / 20H2 / 2004 操作系统的 PC 用户，发布了编号为 KB5004476 的紧急补丁。这家软件巨头表示，这个“编外”的可选质量更新，旨在修复与 Xbox Game Pass 游戏订阅服务相关的问题。
+ 阅读全文]]></summary>
+        <author>
+            <name>raymon725</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Windows 7/8/8.1系统平台的Game Ready驱动程序更新将于今秋截止]]></title>
         <id>https://www.cnbeta.com/articles/tech/1139885.htm</id>

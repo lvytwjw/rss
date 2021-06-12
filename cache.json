@@ -1568,6 +1568,33 @@
       "siteUrl": "https://www.cnbeta.com",
       "articles": [
         {
+          "id": "https://www.cnbeta.com/articles/tech/1139891.htm",
+          "author": "raymon725",
+          "description": "近年来，Realme 的智能手机业务已经取得了长足进步，所以现在也是时候扩展更多消费电子产品线了。首先，Realme 将于 6 月 15 日举办一场发布会，届时搭载高通骁龙 888 旗舰 SoC 的 Realme GT 5G 新机将正式与大家界面。其次，我们通过 Android Authority 获悉，该公司还在积极酝酿推出首款平板 / 笔记本电脑产品。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1139891.htm",
+          "publishedOn": "2021-06-12T05:46:01.000Z",
+          "wordCount": 242,
+          "title": "Realme或于6月15日推出首款平板与笔记本电脑"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1139889.htm",
+          "author": "raymon725",
+          "description": "在 7 月公测和今秋正式发布之前，苹果已经在 WWDC 2021 开发者大会上宣布了 macOS Monterey 的早期预览。在诸多功能更新中，MacRumors 又于近日发现了 macOS Monterey 包含的针对密码管理功能的大量改进。无论在系统偏好设置、还是内置的身份验证器工具中，我们都可看到专用的密码部分。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1139889.htm",
+          "publishedOn": "2021-06-12T05:36:37.000Z",
+          "wordCount": 275,
+          "title": "macOS Monterey带来了密码管理方面的诸多体验改进"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1139887.htm",
+          "author": "raymon725",
+          "description": "Windows Latest 报道称，微软刚刚为运行 Windows 10 21H1 / 20H2 / 2004 操作系统的 PC 用户，发布了编号为 KB5004476 的紧急补丁。这家软件巨头表示，这个“编外”的可选质量更新，旨在修复与 Xbox Game Pass 游戏订阅服务相关的问题。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1139887.htm",
+          "publishedOn": "2021-06-12T05:20:47.000Z",
+          "wordCount": 289,
+          "title": "Windows 10迎来KB5004476紧急补丁 修复XGP游戏订阅服务相关问题"
+        },
+        {
           "id": "https://www.cnbeta.com/articles/tech/1139885.htm",
           "author": "raymon725",
           "description": "在今日更新的一篇博客文章中，英伟达详细介绍了新版 Game Ready 驱动程序的升级支持计划。可知从 2021 年 10 月起，该公司将不再为 Windows 7、Windows 8 / 8.1 平台提供 Game Ready 系列驱动更新支持。不过英伟达也指出，该公司仍将在 2024 年 9 月之前，为上述系统提供相应的“关键安全更新”。\n 阅读全文",
