@@ -2,10 +2,263 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://lvytwjw.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-12T02:26:07.512Z</updated>
+    <updated>2021-06-12T03:09:20.544Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://lvytwjw.github.io/rss/index.html"/>
     <link rel="self" href="https://lvytwjw.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[在国内被称作神车的五菱宏光 终于被老外发现了]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1139857.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1139857.htm"/>
+        <updated>2021-06-12T03:01:52.000Z</updated>
+        <summary type="html"><![CDATA[前几天看到了彭博社这篇有点迷惑的新闻标题：翻译了半天愣是翻译不明白，中国的电动车怎么就和Cult Status （ 崇拜地位 ） 粘在一起了？于是我又看了看文章内容，发现竟然是讲五菱宏光的……
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[《火线》黑人警长将饰演Netflix《生化危机》威斯克]]></title>
+        <id>https://hot.cnbeta.com/articles/movie/1139855.htm</id>
+        <link href="https://hot.cnbeta.com/articles/movie/1139855.htm"/>
+        <updated>2021-06-12T03:00:53.000Z</updated>
+        <summary type="html"><![CDATA[Netflix今日宣布，将由兰斯·里迪克扮演《生化危机》真人版电视剧中的大反派阿尔伯特·威斯克。除此之外，Netflix还公布了即将参演这部剧集的其他五位女演员。兰斯·里迪克曾在《火线》(Wire)中饰演塞德里克·丹尼尔（Cedric Daniels），还出演过《监狱风云》（OZ）中的侦探约翰·巴塞尔（Johnny Basil），他的身影还出现在热门剧《迷失》（Lost）第四季中。
+ 阅读全文]]></summary>
+        <author>
+            <name>raymon725</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[E3 2021：《双点校园》新演示公布 模拟管理校园]]></title>
+        <id>https://hot.cnbeta.com/articles/game/1139853.htm</id>
+        <link href="https://hot.cnbeta.com/articles/game/1139853.htm"/>
+        <updated>2021-06-12T03:00:23.000Z</updated>
+        <summary type="html"><![CDATA[目前，模拟游戏新作《双点校园》新演示影像已经正式公布，该作预计将于2022年同时登陆PC和各大主机平台。在《双点校园》中，您将负责建造、运营自己的大学。您做出的一切决定都将塑造全体学生与教职员工的人生!您将首次获得进行户外建设的机会，打造属于自己的校园、建筑与周边环境。使用全新简易创造工具，放置宿舍、道路和草丛等!唯一限制你的就只有你的想象力(和你在游戏里的银行存款)。
+ 阅读全文]]></summary>
+        <author>
+            <name>vivian</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[E3：《生化危机：无尽黑暗》开头2分钟片段]]></title>
+        <id>https://hot.cnbeta.com/articles/movie/1139851.htm</id>
+        <link href="https://hot.cnbeta.com/articles/movie/1139851.htm"/>
+        <updated>2021-06-12T02:59:31.000Z</updated>
+        <summary type="html"><![CDATA[网飞发布了《生化危机》CG电影《生化危机：无尽黑暗》的开场片段，2分钟左右。展示的一个虚构国家Penamstan（距离美军基地70英里），在这里生物武器被使用。开场片段展示的场景是2000年，是《生化危机2》和《生化危机3》故事两年后，但比《生化危机4》的故事早四年。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美媒：苹果向美国政府提供大量用户隐私数据信息]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1139849.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1139849.htm"/>
+        <updated>2021-06-12T02:58:48.000Z</updated>
+        <summary type="html"><![CDATA[6月12日消息，《纽约时报》日前报道称，苹果公司向美国政府提供大量用户隐私数据信息，其中包括至少两名美国国会议员。对此报道，苹果当地时间周五回应称，对来自政府索要用户相关信息的请求，该公司已经收紧了相关规定。
+ 阅读全文]]></summary>
+        <author>
+            <name>vivian</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[苹果回应美司法部强取数据：提交了109个标识符 已收紧规则]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1139847.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1139847.htm"/>
+        <updated>2021-06-12T02:57:27.000Z</updated>
+        <summary type="html"><![CDATA[北京时间6月12日消息，《纽约时报》昨天爆料称，在特朗普政府时期，美国司法部向苹果公司发出传票强行索要民主党议员的信息。苹果周五回应称，在那之后，公司已经收紧了部分应对法律要求的规则。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[数字货币来了，现金会消失吗？]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1139845.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1139845.htm"/>
+        <updated>2021-06-12T02:57:23.000Z</updated>
+        <summary type="html"><![CDATA[近年来，全球多国都在加紧研发数字货币，中国央行于2020年5月8日率先推出了自己的法定数字货币DC/EP，并紧锣密鼓地在多个城市进行试点。可以预期，随着各国央行抓紧推出各自的主权数字货币，世界即将进入数字货币和数字支付的崭新时代，那么，现金会被完全取代吗？
+ 阅读全文]]></summary>
+        <author>
+            <name>vivian</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[浙江：2025年实现县城、乡镇及重点行政村5G信号全覆盖]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1139843.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1139843.htm"/>
+        <updated>2021-06-12T02:56:29.000Z</updated>
+        <summary type="html"><![CDATA[1日，记者从浙江省农业农村厅获悉，《浙江省数字乡村建设“十四五”规划》(下称《规划》)近日印发。《规划》明确，到2025年，浙江乡村基础网络体系逐步完备，县城、乡镇及重点行政村5G信号全覆盖。
+ 阅读全文]]></summary>
+        <author>
+            <name>vivian</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[未来人造卫星 有一颗会成为你的专属]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1139841.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1139841.htm"/>
+        <updated>2021-06-12T02:55:42.000Z</updated>
+        <summary type="html"><![CDATA[在未来，卫星会变得非常小，用手机就可以操控，甚至每个人都可能拥有自己的个人卫星。仰望星空，我们看到的是满天繁星，其实，天空飘浮着的还有大量人造卫星。无论是东方红一号，还是北斗导航卫星，都在地球上空的轨道上平稳飞行。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[用魔法打败魔法，科学家以虫治虫]]></title>
+        <id>https://www.cnbeta.com/articles/science/1139839.htm</id>
+        <link href="https://www.cnbeta.com/articles/science/1139839.htm"/>
+        <updated>2021-06-12T02:54:52.000Z</updated>
+        <summary type="html"><![CDATA[《2021年全球粮食危机报告》指出，在2020年，全球有1.55亿人面临重度粮食不安全的问题。目前，我国粮食尚能保证基本自给、口粮安全，但受极端天气、有害生物等不稳定因素的影响，作为人口大国仍要保持警惕，并且需探索出一条可持续发展的农业道路。其中，在人类历史上，农业害虫一直是造成粮食大量减产的重要因素之一。
+ 阅读全文]]></summary>
+        <author>
+            <name>vivian</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[维基百科不缺钱，为什么募捐的时候总要道德绑架？]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1139837.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1139837.htm"/>
+        <updated>2021-06-12T02:52:56.000Z</updated>
+        <summary type="html"><![CDATA[维基百科，世界上规模最大、阅读量最多的在线百科全书，任何人都可以编辑的人类知识免费共享库——就快要20岁了。目前，维基百科是全世界最受欢迎网站的第13位，流量甚至超过 Netflix、Twitter 等流行互联网服务的网站。
+ 阅读全文]]></summary>
+        <author>
+            <name>vivian</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[国家航天局：天问一号任务实现了中国航天史的6个首次]]></title>
+        <id>https://www.cnbeta.com/articles/science/1139835.htm</id>
+        <link href="https://www.cnbeta.com/articles/science/1139835.htm"/>
+        <updated>2021-06-12T02:51:30.000Z</updated>
+        <summary type="html"><![CDATA[中国国家航天局12日在北京举办新闻发布会，介绍我国首次火星探测任务情况。中国国家航天局新闻发言人许洪亮在会上表示，天问一号任务成功是我国航天事业自主创新，跨越发展的标志性成就。
+ 阅读全文]]></summary>
+        <author>
+            <name>vivian</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[全球消灭天花40年后，为什么FDA上周还在批新药？]]></title>
+        <id>https://www.cnbeta.com/articles/science/1139833.htm</id>
+        <link href="https://www.cnbeta.com/articles/science/1139833.htm"/>
+        <updated>2021-06-12T02:50:31.000Z</updated>
+        <summary type="html"><![CDATA[最近几天，FDA 批准阿兹海默症新药的消息引起医疗圈的广泛关注，相较之下，另一则款新药的获批则显得有些无人问津。6 月 4 日，FDA 批准了抗病毒药物 Brincidofovir 治疗天花，该药也成为了人类历史上第二款获批的天花药物。
+ 阅读全文]]></summary>
+        <author>
+            <name>vivian</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[因可能受到污染 约6000万剂强生疫苗将被废弃]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1139831.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1139831.htm"/>
+        <updated>2021-06-12T02:50:07.000Z</updated>
+        <summary type="html"><![CDATA[美国食品药品监督管理局（FDA）告知强生公司，由于可能受到污染，巴尔的摩一家工厂生产的约6000万剂强生疫苗将被废弃。据福克斯新闻网、《纽约时报》11日报道，强生公司证实，美国FDA目前仅批准了两批在巴尔的摩贝维尤工厂生产的疫苗，但未对FDA要求废弃6000万剂疫苗的消息置评。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[科学家打造耳罩式血液酒精浓度检测方案 等效传统呼气式测醉仪]]></title>
+        <id>https://www.cnbeta.com/articles/science/1139829.htm</id>
+        <link href="https://www.cnbeta.com/articles/science/1139829.htm"/>
+        <updated>2021-06-12T02:49:52.000Z</updated>
+        <summary type="html"><![CDATA[在酒驾查处行动中，交警普遍在快速筛查阶段使用呼气式仪器来检测酒精浓度。但为了确保数值的准确性，酒驾者也会被拉到医院接受抽血复核。不过得益于一项新颖的技术，未来这项工作或许可以变得更加无创。由近日发表于《科学报告》期刊上的一篇文章可知，Kohji Mitsubayashi 教授带领的一支研究团队，已提出一种耳罩式的血液酒精浓度测试方案。
+ 阅读全文]]></summary>
+        <author>
+            <name>raymon725</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[家长们的无奈：要下载关注的App、公众号为何那么多]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1139827.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1139827.htm"/>
+        <updated>2021-06-12T02:48:44.000Z</updated>
+        <summary type="html"><![CDATA[“各位家长，请关注×××公众号，点击第二季任意一期进行注册，务必注册”“请大家扫码下载×××App并注册，注册成功请接龙”“请大家尽快填写×××App下载注册个人信息”……最近一周，家住山东青岛崂山区的李女士反复收到孩子班级群内发布的下载App、关注公众号的通知。“班级经常有这样的通知，不注册都不行。”李女士说。
+ 阅读全文]]></summary>
+        <author>
+            <name>vivian</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[马斯克：Model S Plaid比保时捷更快  但比沃尔沃更安全]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1139825.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1139825.htm"/>
+        <updated>2021-06-12T02:42:10.000Z</updated>
+        <summary type="html"><![CDATA[6月12日消息，在电动汽车制造商特斯拉举行的Model S Plaid交付活动中，该公司首席执行官埃隆·马斯克(Elon Musk)宣布，这款旗舰车型正在生产中，首批将交付25辆，下个季度有望每周交付1000辆。
+ 阅读全文]]></summary>
+        <author>
+            <name>vivian</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Android 12 Beta是Android历史上下载量最大的测试版]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1139823.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1139823.htm"/>
+        <updated>2021-06-12T02:41:35.000Z</updated>
+        <summary type="html"><![CDATA[Android工程副总裁戴夫-伯克（Dave Burke）说，Android 12测试版是 "迄今为止我们下载/安装次数最多的测试版"。不过他没有给出任何具体数字，以便我们可以与以前的测试规模进行比较。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[科学家首次成功地将“假肢”直接整合到胡兀鹫的残余腿骨上]]></title>
+        <id>https://www.cnbeta.com/articles/science/1139821.htm</id>
+        <link href="https://www.cnbeta.com/articles/science/1139821.htm"/>
+        <updated>2021-06-12T02:38:34.000Z</updated>
+        <summary type="html"><![CDATA[据外媒New Atlas报道，尽管已经有鸟类接受了绑带式假肢，但科学家们现在报告说，他们首次成功地将“假肢”直接整合到一只胡兀鹫的残余腿骨上。他们将这种动物描述为世界上第一只“仿生鸟”。
+ 阅读全文]]></summary>
+        <author>
+            <name>vivian</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[希捷与昭和电工签署协议 落实HAMR盘片第二供应商]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1139819.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1139819.htm"/>
+        <updated>2021-06-12T02:31:08.000Z</updated>
+        <summary type="html"><![CDATA[希捷本周与昭和电工（Showa Denko）签署了一项协议，以落实其基于热辅助磁记录（HAMR）技术的机械硬盘产品线的第二个盘片来源。去年底的时候，希捷已开始在其 Lyve 存储系统中引入基于 HAMR 技术的 Exos 系列 HDD 产品线。而根据条款，它将评估 SDK 现有的 HAMR 介质，并与合作伙伴携手开发未来的相关材料。
+ 阅读全文]]></summary>
+        <author>
+            <name>raymon725</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[世卫：印度发现的Delta冠状病毒变种导致英国部分地区病例激增]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1139817.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1139817.htm"/>
+        <updated>2021-06-12T02:30:28.000Z</updated>
+        <summary type="html"><![CDATA[据俄罗斯卫星通讯社10日报道，最早在印度发现的新冠病毒Delta变体（B.1.617.2）最近导致了英国部分地区新冠病例激增。到目前为止，英国90%以上的新冠肺炎病例都源于Delta变体。世界卫生组织(WHO)欧洲区主任汉斯·亨利·克鲁格(Hans Henri P. Kluge)在周四的一次会议上表示，世卫组织对Delta变体快速传播的能力越来越关注。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[都是和明星打拳，美国药水哥却能一场赚2000万美刀？]]></title>
+        <id>https://hot.cnbeta.com/articles/movie/1139815.htm</id>
+        <link href="https://hot.cnbeta.com/articles/movie/1139815.htm"/>
+        <updated>2021-06-12T02:26:27.000Z</updated>
+        <summary type="html"><![CDATA[好多人可能不知道，就在前几天，美国结束了一场万众瞩目的拳赛。这场拳赛有多火呢？去油管随便搜个高光视频，播放量就超过了 1000 万……要知道，这只是一场不算结果，连点数都不记录的表演赛啊！
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[报道称苹果未经审查就遵守了特朗普政府调取国会议员数据的要求]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1139813.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1139813.htm"/>
+        <updated>2021-06-12T02:26:04.000Z</updated>
+        <summary type="html"><![CDATA[《纽约时报》日前报道了特朗普政府司法部如何利用科技巨头监视众议院情报委员会的两名成员，试图追踪向新闻界泄密的故事中的一个新变化--即苹果公司没有抗争，也许从来没有机会抗争，因为该公司未经审查就遵守了这一要求。
+ 阅读全文]]></summary>
+        <author>
+            <name>vivian</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[华为P50 Pro最新渲染图曝光]]></title>
         <id>https://www.cnbeta.com/articles/tech/1139811.htm</id>
