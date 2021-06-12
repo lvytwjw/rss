@@ -886,15 +886,6 @@
           "publishedOn": "2021-05-17T11:30:00.000Z",
           "wordCount": 2906,
           "title": "How We Improved Our Core Web Vitals (Case Study)"
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/05/tree-shaking-reference-guide/",
-          "author": "hello@smashingmagazine.com (Átila Fassina)",
-          "description": "“Tree-shaking” is a must-have performance optimization when bundling JavaScript. In this article, we dive deeper on how exactly it works and how specs and practice intertwine to make bundles leaner and more performant. Plus, you’ll get a tree-shaking checklist to use for your projects.",
-          "link": "https://smashingmagazine.com/2021/05/tree-shaking-reference-guide/",
-          "publishedOn": "2021-05-14T10:30:00.000Z",
-          "wordCount": 2393,
-          "title": "Tree-Shaking: A Reference Guide"
         }
       ]
     },
@@ -1558,6 +1549,33 @@
       "feedUrl": "https://www.cnbeta.com/backend.php",
       "siteUrl": "https://www.cnbeta.com",
       "articles": [
+        {
+          "id": "https://www.cnbeta.com/articles/science/1140027.htm",
+          "author": "study875",
+          "description": "对卫星云层观测的一项新分析发现，全球变暖导致海洋上空的低云（low-level clouds）减少，而这又进一步导致变暖的恶性循环。这项工作由劳伦斯·利弗莫尔国家实验室（LLNL）的研究人员领导，与来自斯克里普斯海洋学研究所和美国国家航空航天局兰利研究中心的同事合作，研究成果发表在《Nature Climate Change》上。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/science/1140027.htm",
+          "publishedOn": "2021-06-12T22:38:16.000Z",
+          "wordCount": 205,
+          "title": "新研究表明海洋云层放大了全球变暖的影响"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1140025.htm",
+          "author": "study875",
+          "description": "近日发表在《美国医学会杂志》上的论文中，布里格姆妇女医院对所有死因的死亡率差异进行了研究。基于美国疾控中心（CDC）的数据库，研究人员对 1999-2019 年间发生在美国的所有死亡事件进行了分析。他们发现，农村和城市人口的年龄调整死亡率（AAMRs）都有所下降，但由于农村地区 25-64 岁的白人个体面临的 AAMRs 不断增加，死亡率之间的差距急剧扩大。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1140025.htm",
+          "publishedOn": "2021-06-12T22:25:10.000Z",
+          "wordCount": 221,
+          "title": "美国农村和城市之间死亡率的差距正急剧扩大"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/science/1140023.htm",
+          "author": "study875",
+          "description": "来自美国宾夕法尼亚州立大学的一个研究小组目前正在探索电动垂直起降（eVTOL）飞机的要求，并设计和测试潜在的电池动力源。该大学 William E. Diefender 机械工程讲席教授、电池与储能技术研究院院长王朝阳表示：“我认为飞行汽车有可能节省大量的时间，提高生产力，并为运输打开空中走廊。但是电动垂直起降车对电池来说是非常具有挑战性的技术”。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/science/1140023.htm",
+          "publishedOn": "2021-06-12T22:12:56.000Z",
+          "wordCount": 212,
+          "title": "科学家正起草飞行汽车电池标准 充电5-10分钟飞行50英里"
+        },
         {
           "id": "https://www.cnbeta.com/articles/tech/1140021.htm",
           "author": "study875",

@@ -2,10 +2,43 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://lvytwjw.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-12T22:06:37.987Z</updated>
+    <updated>2021-06-12T23:06:20.063Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://lvytwjw.github.io/rss/index.html"/>
     <link rel="self" href="https://lvytwjw.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[新研究表明海洋云层放大了全球变暖的影响]]></title>
+        <id>https://www.cnbeta.com/articles/science/1140027.htm</id>
+        <link href="https://www.cnbeta.com/articles/science/1140027.htm"/>
+        <updated>2021-06-12T22:38:16.000Z</updated>
+        <summary type="html"><![CDATA[对卫星云层观测的一项新分析发现，全球变暖导致海洋上空的低云（low-level clouds）减少，而这又进一步导致变暖的恶性循环。这项工作由劳伦斯·利弗莫尔国家实验室（LLNL）的研究人员领导，与来自斯克里普斯海洋学研究所和美国国家航空航天局兰利研究中心的同事合作，研究成果发表在《Nature Climate Change》上。
+ 阅读全文]]></summary>
+        <author>
+            <name>study875</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美国农村和城市之间死亡率的差距正急剧扩大]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1140025.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1140025.htm"/>
+        <updated>2021-06-12T22:25:10.000Z</updated>
+        <summary type="html"><![CDATA[近日发表在《美国医学会杂志》上的论文中，布里格姆妇女医院对所有死因的死亡率差异进行了研究。基于美国疾控中心（CDC）的数据库，研究人员对 1999-2019 年间发生在美国的所有死亡事件进行了分析。他们发现，农村和城市人口的年龄调整死亡率（AAMRs）都有所下降，但由于农村地区 25-64 岁的白人个体面临的 AAMRs 不断增加，死亡率之间的差距急剧扩大。
+ 阅读全文]]></summary>
+        <author>
+            <name>study875</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[科学家正起草飞行汽车电池标准 充电5-10分钟飞行50英里]]></title>
+        <id>https://www.cnbeta.com/articles/science/1140023.htm</id>
+        <link href="https://www.cnbeta.com/articles/science/1140023.htm"/>
+        <updated>2021-06-12T22:12:56.000Z</updated>
+        <summary type="html"><![CDATA[来自美国宾夕法尼亚州立大学的一个研究小组目前正在探索电动垂直起降（eVTOL）飞机的要求，并设计和测试潜在的电池动力源。该大学 William E. Diefender 机械工程讲席教授、电池与储能技术研究院院长王朝阳表示：“我认为飞行汽车有可能节省大量的时间，提高生产力，并为运输打开空中走廊。但是电动垂直起降车对电池来说是非常具有挑战性的技术”。
+ 阅读全文]]></summary>
+        <author>
+            <name>study875</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[微软向FCC表明支持SpaceX的卫星互联网网络Starlink]]></title>
         <id>https://www.cnbeta.com/articles/tech/1140021.htm</id>
@@ -52888,16 +52921,6 @@ The post HTML Boilerplates appeared first on CSS-Tricks.
 You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <author>
             <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tree-Shaking: A Reference Guide]]></title>
-        <id>https://smashingmagazine.com/2021/05/tree-shaking-reference-guide/</id>
-        <link href="https://smashingmagazine.com/2021/05/tree-shaking-reference-guide/"/>
-        <updated>2021-05-14T10:30:00.000Z</updated>
-        <summary type="html"><![CDATA[“Tree-shaking” is a must-have performance optimization when bundling JavaScript. In this article, we dive deeper on how exactly it works and how specs and practice intertwine to make bundles leaner and more performant. Plus, you’ll get a tree-shaking checklist to use for your projects.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Átila Fassina)</name>
         </author>
     </entry>
 </feed>
