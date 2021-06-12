@@ -2,10 +2,98 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://lvytwjw.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-11T23:06:58.657Z</updated>
+    <updated>2021-06-12T00:19:21.944Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://lvytwjw.github.io/rss/index.html"/>
     <link rel="self" href="https://lvytwjw.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[NASA透露其前往月球背面的首批两个有效载荷任务]]></title>
+        <id>https://www.cnbeta.com/articles/science/1139781.htm</id>
+        <link href="https://www.cnbeta.com/articles/science/1139781.htm"/>
+        <updated>2021-06-12T00:05:55.000Z</updated>
+        <summary type="html"><![CDATA[据外媒报道，月球背面是月球永远背对地球的那一面，它没有像我们可以直接观察的部分那样得到科学家的关注。然而，这种情况已经慢慢改变，现在美国宇航局（NASA）计划加入这项工作。
+ 阅读全文]]></summary>
+        <author>
+            <name>vivian</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[马斯克调侃NHTSA  在新声明中抨击特斯拉车辆安全的批评者]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1139779.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1139779.htm"/>
+        <updated>2021-06-11T23:54:24.000Z</updated>
+        <summary type="html"><![CDATA[据外媒报道，在特斯拉最新电动车Model S Plaid的交付活动上，该公司首席执行官埃隆·马斯克分享了新的数据，其中强调了特斯拉的车辆安全。在宣布Model S Plaid的演讲中，马斯克透露，虽然新车尚未获得美国政府的安全评级，但特斯拉的内部测试使该公司相信，Model S Plaid可以实现自2011年以来任何车辆测试中的最低受伤概率。
+ 阅读全文]]></summary>
+        <author>
+            <name>vivian</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美众议院公布针对科技巨头的全面反垄断法案]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1139777.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1139777.htm"/>
+        <updated>2021-06-11T23:42:01.000Z</updated>
+        <summary type="html"><![CDATA[据外媒AppleInsider报道，在对科技巨头的市场力量进行调查后，美国众议院立法者提出了一系列全面的法案，旨在削减硅谷巨头的力量。新的立法方案是基于众议院司法委员会长达一个月的调查报告而制定的。该调查对苹果、亚马逊、Facebook和Google等大公司的商业行为进行了调查。
+ 阅读全文]]></summary>
+        <author>
+            <name>vivian</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[作业帮前员工自曝造假套路：用家长名义说话晒缴费截图 有诱导剧本]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1139775.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1139775.htm"/>
+        <updated>2021-06-11T23:24:40.000Z</updated>
+        <summary type="html"><![CDATA[6月7日晚，作业帮西安分公司的40多名试用期员工几乎同步接到了“离职”通知，而此时，他们承担的首期“体验课”尚未结束，距离半年试用期结束也还早。对此，公司相关行政人员表示，这不是裁员，只是正常优化。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[三星Galaxy Z Flip 3和Galaxy Z Fold 3的发布日期被泄露]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1139773.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1139773.htm"/>
+        <updated>2021-06-11T23:21:47.000Z</updated>
+        <summary type="html"><![CDATA[如果你打算在今年秋天购买三星Galaxy Z Fold 3或三星Galaxy Z Flip 3，我们现在知道你到底需要等多久了。可靠的泄密者Max Weinbach在Twitter上发布了一个神秘的预告，主要涉及三星即将推出的旗舰产品。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NVIDIA确认R470驱动发布后放弃 "开普勒"GPU驱动支持]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1139771.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1139771.htm"/>
+        <updated>2021-06-11T23:18:32.000Z</updated>
+        <summary type="html"><![CDATA[上个月，我们报道了CUDA文档，指出NVIDIA 470驱动系列将是最后一个支持GeForce GTX 600/700开普勒GPU的驱动，现在NVIDIA的新指导意见已经更正式地概括了这一点。NVIDIA今天证实，他们的R470驱动系列是最后一个支持开普勒GPU的产品。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美国重大反垄断改革揭开面纱 四家科技巨头有可能因此被拆分]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1139769.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1139769.htm"/>
+        <updated>2021-06-11T23:09:52.000Z</updated>
+        <summary type="html"><![CDATA[6月11日周五，美国国会众议院公布了五项仍以草案形式存在的法案。由两党议员共同支持的反垄断改革可能重塑美国科技巨头的商业规范，亚马逊、苹果、Facebook、谷歌就差被直接点名了。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[滴滴招股书拆解：融资22轮终上市 网约车业务扭亏为盈]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1139767.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1139767.htm"/>
+        <updated>2021-06-11T23:08:45.000Z</updated>
+        <summary type="html"><![CDATA[上市传闻酝酿了3年有余，6月11日早间，滴滴终于递交招股书，启动赴美IPO。据招股书显示，滴滴的股票代码为“DIDI”，高盛、摩根士丹利、摩根大通、华兴资本担任承销商。自成立以来，滴滴已经经历了22轮融资，总融资额近800亿元人民币，是当之无愧的融资能手。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[美国众议员提出5项法案以限制科技巨头权力]]></title>
         <id>https://www.cnbeta.com/articles/tech/1139765.htm</id>
@@ -191,6 +279,17 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <link href="https://www.cnbeta.com/articles/soft/1139741.htm"/>
         <updated>2021-06-11T20:25:53.000Z</updated>
         <summary type="html"><![CDATA[安全研究人员在三星预装的安卓应用中发现了多个关键的安全漏洞，如果成功利用这些漏洞，可能会让黑客在未经用户同意的情况下访问个人数据，并控制设备。移动安全初创公司Oversecured的创始人Sergey Toshin在周四发表的分析报告中表示，这些漏洞可能允许攻击者访问和编辑受害者的联系人、电话、短信/彩信，以设备管理员的权限安装任意应用程序，或以系统用户身份读写任意文件，并且可能改变设备的设置。
+ 阅读全文]]></summary>
+        <author>
+            <name>maomao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美国每小时遭受超过7次勒索软件攻击 已被视为国家安全风险]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1139739.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1139739.htm"/>
+        <updated>2021-06-11T20:09:31.000Z</updated>
+        <summary type="html"><![CDATA[美国去年遭受了6.5万次勒索软件攻击，即每小时超过7次。而且情况可能会变得更糟。由于网络犯罪分子瞄准了美国基础设施的关键部分，以前被视为讨厌的事情正迅速成为一个国家安全问题。最近对Colonial Pipeline输油管道网络系统的攻击引发了恐慌性购买，清空了整个东南地区的许多加油站，而对JBS的另一次攻击则引起了对美国国内牛肉供应的担忧。
  阅读全文]]></summary>
         <author>
             <name>maomao</name>
