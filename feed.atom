@@ -2,10 +2,54 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://lvytwjw.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-12T08:06:57.652Z</updated>
+    <updated>2021-06-12T09:05:59.901Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://lvytwjw.github.io/rss/index.html"/>
     <link rel="self" href="https://lvytwjw.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[诺斯罗普·格鲁曼公司的Minotaur 1火箭将于6月15日发射]]></title>
+        <id>https://www.cnbeta.com/articles/science/1139933.htm</id>
+        <link href="https://www.cnbeta.com/articles/science/1139933.htm"/>
+        <updated>2021-06-12T08:17:59.000Z</updated>
+        <summary type="html"><![CDATA[6月15日早起，住在美国东北部海岸大部分的人们都可以拿起一杯咖啡，看着诺斯罗普·格鲁曼公司的Minotaur 1（米诺陶1号）火箭从弗吉尼亚州的NASA沃勒普斯飞行设施发射到太空。这枚为国家侦察局（NRO）携带三个国家安全载荷的火箭定于6月15日上午7点从瓦洛普斯岛的中大西洋地区航天港（MARS）0B停机坪发射。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[拜登将成为英国女王伊丽莎白二世接见的第13位美国总统]]></title>
+        <id>https://hot.cnbeta.com/articles/funny/1139931.htm</id>
+        <link href="https://hot.cnbeta.com/articles/funny/1139931.htm"/>
+        <updated>2021-06-12T08:11:57.000Z</updated>
+        <summary type="html"><![CDATA[据美联社伦敦消息，在英国西南部举行了七国集团领导人峰会后，美国总统拜登将于当地时间13日在温莎城堡与英国女王伊丽莎白二世茶叙。报道称，拜登将成为第13位与现年95岁高龄的女王坐在一起的美国总统。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[因疫苗短缺 印度中央邦超300个接种中心暂时关闭]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1139929.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1139929.htm"/>
+        <updated>2021-06-12T08:10:32.000Z</updated>
+        <summary type="html"><![CDATA[因疫苗短缺，印度中央邦印多尔市在11日仅开放了350个疫苗接种中心中的9个。据印度亚洲通讯社报道，由于疫苗短缺，印多尔的多家疫苗接种中心已从10日开始关闭。11日，当地卫生部门称只获得了1.1万剂疫苗，当天仅开放9个疫苗接种中心，其他300多个接种中心未开放。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[新设计的​LED灯泡原型发出的蓝光更少]]></title>
+        <id>https://www.cnbeta.com/articles/science/1139927.htm</id>
+        <link href="https://www.cnbeta.com/articles/science/1139927.htm"/>
+        <updated>2021-06-12T08:09:17.000Z</updated>
+        <summary type="html"><![CDATA[与其他类型的照明相比，LED灯泡具有相当大的优势。由于效率更高，它们需要更少的电力来运行。它们不会像老式白炽灯那样散发出不必要的热量，而且最好的灯泡甚至比荧光灯还要长寿。但LED并非没有问题。人们怀疑，过度暴露在当今标准的LED灯泡产生的蓝光下，会导致疲劳、情绪紊乱和失眠等健康问题，这些问题挥之不去。此外，较高的价格会促使购买者考虑其他选择。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[细菌大小的金属机器人可以实现分解微塑料 解决环境难题]]></title>
         <id>https://www.cnbeta.com/articles/science/1139925.htm</id>
