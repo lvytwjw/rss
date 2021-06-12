@@ -1568,6 +1568,60 @@
       "siteUrl": "https://www.cnbeta.com",
       "articles": [
         {
+          "id": "https://www.cnbeta.com/articles/tech/1139811.htm",
+          "author": "ugmbbc",
+          "description": "本月初，期待已久的鸿蒙操作系统及华为全场景新品发布会如期而至，在发布会上，备受瞩目的HarmonyOS 2操作系统正式发布，随之一同亮相的还有新一代MatePad Pro以及华为WATCH 3系列智能手表等新品。不过令人意外的是，在发布会最后，华为首次对外官宣了命运多舛的全新华为P50系列的外观设计细节。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1139811.htm",
+          "publishedOn": "2021-06-12T02:17:54.000Z",
+          "wordCount": 209,
+          "title": "华为P50 Pro最新渲染图曝光"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1139809.htm",
+          "author": "ugmbbc",
+          "description": "可能感到关注度不够，微软再次出面预热所谓的新一代Windows操作系统，阿拉伯数字“11”图形赫然出现在预热动图中，可以说暗示得不要再明显了。值得注意的是，动图中11的两个1中间还有一位正打坐的小人，配合微软关注大脑放松休息的文案，猜测Windows 11系统将加入对远程会议、免打扰、时间管理等更细化的功能特性，方便用户在工作和休息中找到平衡。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1139809.htm",
+          "publishedOn": "2021-06-12T02:09:34.000Z",
+          "wordCount": 205,
+          "title": "微软发“打坐小人”动图明示Windows 11系统"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/science/1139807.htm",
+          "author": "vivian",
+          "description": "根据马萨诸塞州综合医院(MGH)研究人员领导的一项新研究，维生素D的缺乏强烈地加剧了对阿片类药物的渴望和影响，可能会增加依赖和成瘾的风险。发表在《科学进展》上的这些研究结果表明，用廉价的补充剂来解决维生素D缺乏的普遍问题，可以在打击正在进行的阿片类药物成瘾的问题中发挥一定作用。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/science/1139807.htm",
+          "publishedOn": "2021-06-12T02:08:49.000Z",
+          "wordCount": 190,
+          "title": "研究称维生素D的缺乏强烈地加剧了对阿片类药物的渴望和影响"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1139805.htm",
+          "author": "ugmbbc",
+          "description": "不久前，一颗代号为SM8450 “Waipio”的高通新U曝光，引起了众多业内人士与网友的持续关注。据悉，该芯片将作为骁龙888的继任者或在今年下半年登场。日前，据博主@数码闲聊站 消息称，目前国内几家头部手机厂商已基本拿到SM8450芯片的样片，新品迭代的速度可能还会比去年更快。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1139805.htm",
+          "publishedOn": "2021-06-12T02:08:16.000Z",
+          "wordCount": 207,
+          "title": "4nm工艺加持 多家厂商已拿到骁龙888升级版样片"
+        },
+        {
+          "id": "https://hot.cnbeta.com/articles/game/1139803.htm",
+          "author": "raymon725",
+          "description": "TheVerge 资深编辑 Tom Warren 刚刚在 Twitter 上分享了一段视频，证实《微软飞行模拟 2020》游戏已做好在 Xbox Series X 和 Xbox Series S 上发布的准备。但其实早在 4 月，欧洲 PEGU 评级文员会就已经给它颁布了在 Xbox One 主机平台上的评级。\n 阅读全文",
+          "link": "https://hot.cnbeta.com/articles/game/1139803.htm",
+          "publishedOn": "2021-06-12T02:07:16.000Z",
+          "wordCount": 240,
+          "title": "E3 2021前瞻：《微软飞行模拟》或已做好在Xbox主机上亮相的准备"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/science/1139801.htm",
+          "author": "vivian",
+          "description": "如果说鳐鱼还不够特别的话，事实证明它们的精子在动物界也是独一无二的。科学家们现在创造了一个机器人，其灵感来自于这些精子，有朝一日可能会产生在人体内游泳的更小的机器人。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/science/1139801.htm",
+          "publishedOn": "2021-06-12T01:55:55.000Z",
+          "wordCount": 191,
+          "title": "受“全轮驱动”的鳐鱼精子启发  科学家创造出更好的游泳机器人"
+        },
+        {
           "id": "https://hot.cnbeta.com/articles/game/1139799.htm",
           "author": "raymon725",
           "description": "几天前，Arcade1Up 赶在 30 周年庆之际，重新发布了经典的《辛普森一家》游戏街机。现在，该公司又陆续分享了更多细节，比如《忍者神龟》、《街霸 2》、以及《吃豆人》主题的三款街机。无论是游戏还是收藏爱好者，它们都很适合放在家中、邀三五好友，前来重温往日愉快的竞技时光。\n 阅读全文",
