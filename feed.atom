@@ -2,10 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://lvytwjw.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-12T09:05:59.901Z</updated>
+    <updated>2021-06-12T10:07:04.734Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://lvytwjw.github.io/rss/index.html"/>
     <link rel="self" href="https://lvytwjw.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[桌面版Google Chrome的新PWA安装界面首次出现]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1139939.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1139939.htm"/>
+        <updated>2021-06-12T09:42:50.000Z</updated>
+        <summary type="html"><![CDATA[桌面上的Chrome浏览器可能很快就会取代目前的安装对话框，当你在Omnibox中点击PWA应用程序的图标时，会出现一个截图和描述。Google已经为Android上的Chrome做了这件事。希望使PWA的安装与Android和Windows上的本地应用体验一致。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[英特尔计划收购SiFive 进一步巩固“护城河”？]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1139935.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1139935.htm"/>
+        <updated>2021-06-12T09:23:48.000Z</updated>
+        <summary type="html"><![CDATA[一家基于RISC-V指令集的芯片设计商SiFive于日前收到了来自包括英特尔在内的多个收购要约，英特尔对此开出了超过20亿美元的收购价，大约是该公司估值的4倍。但是截至目前，这笔交易尚未完成，SiFive公司正在考虑关于公司独立性的问题。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[诺斯罗普·格鲁曼公司的Minotaur 1火箭将于6月15日发射]]></title>
         <id>https://www.cnbeta.com/articles/science/1139933.htm</id>

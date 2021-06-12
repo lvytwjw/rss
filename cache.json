@@ -1568,6 +1568,24 @@
       "siteUrl": "https://www.cnbeta.com",
       "articles": [
         {
+          "id": "https://www.cnbeta.com/articles/tech/1139939.htm",
+          "author": "ugmbbc",
+          "description": "桌面上的Chrome浏览器可能很快就会取代目前的安装对话框，当你在Omnibox中点击PWA应用程序的图标时，会出现一个截图和描述。Google已经为Android上的Chrome做了这件事。希望使PWA的安装与Android和Windows上的本地应用体验一致。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1139939.htm",
+          "publishedOn": "2021-06-12T09:42:50.000Z",
+          "wordCount": 203,
+          "title": "桌面版Google Chrome的新PWA安装界面首次出现"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1139935.htm",
+          "author": "ugmbbc",
+          "description": "一家基于RISC-V指令集的芯片设计商SiFive于日前收到了来自包括英特尔在内的多个收购要约，英特尔对此开出了超过20亿美元的收购价，大约是该公司估值的4倍。但是截至目前，这笔交易尚未完成，SiFive公司正在考虑关于公司独立性的问题。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1139935.htm",
+          "publishedOn": "2021-06-12T09:23:48.000Z",
+          "wordCount": 209,
+          "title": "英特尔计划收购SiFive 进一步巩固“护城河”？"
+        },
+        {
           "id": "https://www.cnbeta.com/articles/science/1139933.htm",
           "author": "ugmbbc",
           "description": "6月15日早起，住在美国东北部海岸大部分的人们都可以拿起一杯咖啡，看着诺斯罗普·格鲁曼公司的Minotaur 1（米诺陶1号）火箭从弗吉尼亚州的NASA沃勒普斯飞行设施发射到太空。这枚为国家侦察局（NRO）携带三个国家安全载荷的火箭定于6月15日上午7点从瓦洛普斯岛的中大西洋地区航天港（MARS）0B停机坪发射。\n 阅读全文",
