@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://lvytwjw.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-12T06:07:25.278Z</updated>
+    <updated>2021-06-12T07:09:38.168Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://lvytwjw.github.io/rss/index.html"/>
     <link rel="self" href="https://lvytwjw.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[北美移动市场调查：iPhone依然主宰 Android阵营参差不齐]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1139893.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1139893.htm"/>
+        <updated>2021-06-12T06:12:22.000Z</updated>
+        <summary type="html"><![CDATA[早在 4 月份，我就已经通过 Counterpoint Research 分享的销售数据，得知苹果 iPhone 12 系列正在热销。此外由该机构分享的 Market Pulse 报告可知，苹果占据了 2021 年初全球智能机畅销榜前十的 6 个位置。考虑到苹果在年青一代消费者群体中的品牌忠实度，我们也不难想象该公司会在 2021 年的剩余时间里再创佳绩。
+ 阅读全文]]></summary>
+        <author>
+            <name>raymon725</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Realme或于6月15日推出首款平板与笔记本电脑]]></title>
         <id>https://www.cnbeta.com/articles/tech/1139891.htm</id>
