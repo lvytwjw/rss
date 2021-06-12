@@ -1559,6 +1559,42 @@
       "siteUrl": "https://www.cnbeta.com",
       "articles": [
         {
+          "id": "https://hot.cnbeta.com/articles/game/1140009.htm",
+          "author": "ugmbbc",
+          "description": "E3 2021正在火热举行中，育碧经典游戏《彩虹六号》系列新作，《彩虹六号：异种》（Rainbow Six Extraction）最新官方预告以及实机演示公布，一起先睹为快。\n 阅读全文",
+          "link": "https://hot.cnbeta.com/articles/game/1140009.htm",
+          "publishedOn": "2021-06-12T20:03:51.000Z",
+          "wordCount": 207,
+          "title": "E3 2021：《彩虹六号：异种》最新演示 9月16日正式发售"
+        },
+        {
+          "id": "https://hot.cnbeta.com/articles/game/1140007.htm",
+          "author": "ugmbbc",
+          "description": "在今日（6月13日）E3 2021的育碧Forward发布会上，育碧放出了《刺客信条：英灵殿》新DLC“巴黎围城战”/发现之旅预告。《刺客信条：英灵殿》新DLC“巴黎围城战”/发现之旅预告：\n 阅读全文",
+          "link": "https://hot.cnbeta.com/articles/game/1140007.htm",
+          "publishedOn": "2021-06-12T20:02:54.000Z",
+          "wordCount": 205,
+          "title": "E3 2021：《刺客信条：英灵殿》新DLC/发现之旅预告"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1140005.htm",
+          "author": "ugmbbc",
+          "description": "在本周WWDC的平台简报中，苹果公布了iOS15和iPad OS15的新API，使开发者只需几行代码就能在其iPhone和iPad游戏中实现屏幕上的虚拟游戏控制器。虽然许多iPhone和iPad游戏已经提供了屏幕控制，但苹果新的虚拟游戏控制器对所有App开发者都可用。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1140005.htm",
+          "publishedOn": "2021-06-12T20:00:42.000Z",
+          "wordCount": 210,
+          "title": "苹果在iOS 15和iPad OS15中向开发者提供新的屏幕游戏控制器"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/science/1140003.htm",
+          "author": "ugmbbc",
+          "description": "下个月，当杰夫·贝索斯的火箭公司蓝色起源首次将人类送上太空时，座位将由贝索斯、他的兄弟马克和另外两个人填补，其中包括一个愿意为这一经历支付2800万美元（1980万英镑，3630万澳元）的超级富豪。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/science/1140003.htm",
+          "publishedOn": "2021-06-12T19:57:31.000Z",
+          "wordCount": 200,
+          "title": "蓝色起源公司以2800万美元的价格卖出与贝佐斯一起上天的太空票"
+        },
+        {
           "id": "https://www.cnbeta.com/articles/tech/1140001.htm",
           "author": "ugmbbc",
           "description": "两名加密货币基金经理表示，数字美元不会让比特币遭遇厄运。Grayscale的Michael Sonnenshein和Osprey Funds的Greg King本周对记者表示，随着世界各国央行考虑将法定货币数字化，这一趋势实际上可能会推动更多投资者买入加密货币。\n 阅读全文",
