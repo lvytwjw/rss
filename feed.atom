@@ -2,10 +2,76 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://lvytwjw.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-12T14:06:05.805Z</updated>
+    <updated>2021-06-12T15:06:26.142Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://lvytwjw.github.io/rss/index.html"/>
     <link rel="self" href="https://lvytwjw.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Alpha Motor与户外品牌Heimplanet合作 创造出奇妙的车载露营帐篷]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1139985.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1139985.htm"/>
+        <updated>2021-06-12T14:31:10.000Z</updated>
+        <summary type="html"><![CDATA[Alpha Wolf和Wolf+（Wolf Plus）尚未投入生产，但这家位于加利福尼亚州的初创公司Alpha Motor已经在为其首款全电动小型皮卡车开发越野版。车厂已经与德国户外专家Heimplanet合作，创造了一个定制的Cloudbreak帐篷，可以严丝合缝地整合到卡车后方。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[医药公司正在赢得大企业的人气竞赛 科技公司光环消退]]></title>
+        <id>https://www.cnbeta.com/articles/science/1139983.htm</id>
+        <link href="https://www.cnbeta.com/articles/science/1139983.htm"/>
+        <updated>2021-06-12T14:25:41.000Z</updated>
+        <summary type="html"><![CDATA[制药公司曾经是非常容易吸引仇恨的，在药品价格飙升和阿片类药物危机之间，该行业被广泛认为是将利润置于人们的健康之上。在2019年的一项盖洛普调查中，制药业在美国机构中的积极看法排名倒数第一。甚至人们对联邦政府的感觉都比大药厂更积极。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[苹果公司在新广告中以《小美人鱼》音乐剧的形式宣传iPad Pro]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1139981.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1139981.htm"/>
+        <updated>2021-06-12T14:21:16.000Z</updated>
+        <summary type="html"><![CDATA[在YouTube上一则目前尚未开始上映的广告中，苹果正在宣传M1 iPad Pro的多功能性、便携性和强大功能，其灵感来自于《小美人鱼》的 "你的世界的一部分"原声音乐。在这则广告中，主角使用了M1 iPad Pro、Magic Keyboard和Apple Pencil，可以看到多个用户在室内与他们的旧电脑斗争，同时希望有一天他们能用iPad Pro来代替。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NASA批准继续开发用于防御近地小行星的NEO Surveyor太空望远镜]]></title>
+        <id>https://www.cnbeta.com/articles/science/1139979.htm</id>
+        <link href="https://www.cnbeta.com/articles/science/1139979.htm"/>
+        <updated>2021-06-12T14:17:59.000Z</updated>
+        <summary type="html"><![CDATA[美国国家航空航天局（NASA）已经批准近地天体勘测者太空望远镜（NEO Surveyor）在任务审查成功后进入任务开发的下一阶段，授权该任务进入初步设计阶段（称为关键决策点-B）。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ExoMars Rover复制品在“火星地形模拟器”中开始了基于地球的任务]]></title>
+        <id>https://www.cnbeta.com/articles/science/1139977.htm</id>
+        <link href="https://www.cnbeta.com/articles/science/1139977.htm"/>
+        <updated>2021-06-12T14:15:45.000Z</updated>
+        <summary type="html"><![CDATA[将被用于漫游者操作控制中心以支持任务培训和操作的ExoMars Rover复制品已经完全组装完毕，并在意大利都灵的ALTEC公司的火星地形模拟器上完成了它的第一次驾驶。在未来几个月里，漫游车 "地面测试模型"（GTM）将发挥关键作用，漫游车操作员将为罗莎琳·富兰克林探测器于2023年6月抵达火星的奥克西亚·普朗姆区域做准备。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[诺基亚新机XR20在Geekbench上被曝光：骁龙480+4GB内存]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1139975.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1139975.htm"/>
+        <updated>2021-06-12T14:08:34.000Z</updated>
+        <summary type="html"><![CDATA[HMD Global在诺基亚X系列下准备发售一款新的预算级5G智能手机。它将被称为诺基亚XR20，它将使用高通最便宜的5G芯片组，这款智能手机刚刚出现在Geekbench上，然而，Geekbench列表只显示了一些规格。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[《光环》真人电视剧首批画面泄露 和1代游戏相似]]></title>
         <id>https://hot.cnbeta.com/articles/game/1139973.htm</id>
