@@ -2,10 +2,65 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://lvytwjw.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-12T12:08:51.070Z</updated>
+    <updated>2021-06-12T13:17:59.902Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://lvytwjw.github.io/rss/index.html"/>
     <link rel="self" href="https://lvytwjw.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[中国造货轮比世界最大航母长60米 海上巨无霸亮相]]></title>
+        <id>https://www.cnbeta.com/articles/science/1139967.htm</id>
+        <link href="https://www.cnbeta.com/articles/science/1139967.htm"/>
+        <updated>2021-06-12T12:24:47.000Z</updated>
+        <summary type="html"><![CDATA[动力装备的制造能力是衡量国家实力的重要标志。中国是全世界唯一拥有联合国产业分类中所列全部工业门类的国家。2017年，中国船舶工业集团与法国达飞集团正式签订了9艘23000标准集装箱船的建造合同。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[七彩虹预告其旗舰GeForce RTX 3090 iGAME KUDAN显卡即将发售]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1139965.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1139965.htm"/>
+        <updated>2021-06-12T12:19:45.000Z</updated>
+        <summary type="html"><![CDATA[Colorful（七彩虹）预告了其旗舰GeForce RTX 30系列显卡，RTX 3090 iGAME KUDAN。该产品是由Colorful的韩国Facebook页面预告的，该页面发布了即将推出的显卡的剪影。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[松岛冰川的冰架正在自我撕裂 加速南极关键冰川的脱离速度]]></title>
+        <id>https://www.cnbeta.com/articles/science/1139963.htm</id>
+        <link href="https://www.cnbeta.com/articles/science/1139963.htm"/>
+        <updated>2021-06-12T12:14:44.000Z</updated>
+        <summary type="html"><![CDATA[几十年来，帮助阻挡南极洲移动最快的冰川之一的冰架已经逐渐变薄。对卫星图像的分析显示，近年来有一个更戏剧性的过程。从2017年到2020年，冰架边缘的大冰山断裂，冰川加速熔融和分离。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[在COVID-19大流行期间 常规儿童疫苗接种率有所下降]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1139961.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1139961.htm"/>
+        <updated>2021-06-12T12:11:30.000Z</updated>
+        <summary type="html"><![CDATA[尽管疫苗接种率有所回升，但许多年龄段的儿童接种比例仍在下降或恶化。凯撒医疗集团发表在《儿科》杂志上的一项的研究表明，在2020年3月13日因COVID-19大流行而宣布全国进入紧急状态后，向儿童接种的推荐疫苗剂量，包括麻疹疫苗的数量急剧下降。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[引力在基本粒子的形成中的作用可能比科学家们想象的要大]]></title>
+        <id>https://www.cnbeta.com/articles/science/1139959.htm</id>
+        <link href="https://www.cnbeta.com/articles/science/1139959.htm"/>
+        <updated>2021-06-12T12:08:50.000Z</updated>
+        <summary type="html"><![CDATA[引力在基本粒子的形成中发挥的作用可能比科学家过去认为的要大。来自RUDN大学的一个物理学家团队获得了描述粒子状波的半经典模型的解决方案。他们还计算了粒子的引力相互作用和它们的电荷相互作用之间的比率。这项研究的结果发表在《宇宙》杂志上。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[电池技术的突破：从原子层面看待富含锂元素的电池]]></title>
         <id>https://www.cnbeta.com/articles/science/1139957.htm</id>
