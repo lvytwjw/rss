@@ -2,10 +2,43 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://lvytwjw.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-12T04:07:54.720Z</updated>
+    <updated>2021-06-12T05:10:28.776Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://lvytwjw.github.io/rss/index.html"/>
     <link rel="self" href="https://lvytwjw.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Windows 7/8/8.1系统平台的Game Ready驱动程序更新将于今秋截止]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1139885.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1139885.htm"/>
+        <updated>2021-06-12T04:56:37.000Z</updated>
+        <summary type="html"><![CDATA[在今日更新的一篇博客文章中，英伟达详细介绍了新版 Game Ready 驱动程序的升级支持计划。可知从 2021 年 10 月起，该公司将不再为 Windows 7、Windows 8 / 8.1 平台提供 Game Ready 系列驱动更新支持。不过英伟达也指出，该公司仍将在 2024 年 9 月之前，为上述系统提供相应的“关键安全更新”。
+ 阅读全文]]></summary>
+        <author>
+            <name>raymon725</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[苹果被诉侵犯Smart Mobile的13项无线通信专利]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1139883.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1139883.htm"/>
+        <updated>2021-06-12T04:42:48.000Z</updated>
+        <summary type="html"><![CDATA[近日一家名叫 Smart Mobile, LLC 的非执业实体，于美国德州西区地方法院向苹果提出了专利侵权诉讼。原告声称，包括 iPhone 和 iPad 在内的诸多设备，侵犯了其持有的一组无线通信专利。尽管具体到 13 项专利主张，但几乎所有专利都有一个共同点，且部分属于 1999 年提交的相关专利申请的拓展延续。
+ 阅读全文]]></summary>
+        <author>
+            <name>raymon725</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Facebook收购《Population：One》游戏开发工作室BigBox VR]]></title>
+        <id>https://hot.cnbeta.com/articles/game/1139881.htm</id>
+        <link href="https://hot.cnbeta.com/articles/game/1139881.htm"/>
+        <updated>2021-06-12T04:30:38.000Z</updated>
+        <summary type="html"><![CDATA[过去几年，Facebook 已经收购了多家虚拟现实（VR）游戏工作室。周五的时候，这家社交网络巨头又将总部位于西雅图的 BigBox VR 公司纳入了麾下。该工作室热门作品，包括了 Oculus Quest 2 头显发布后的《Population：One》。在借鉴了《堡垒之夜》游戏玩法的基础上，它还针对 VR 体验进行了调整、辅以自己独特的艺术风格。
+ 阅读全文]]></summary>
+        <author>
+            <name>raymon725</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[爆料称Beats Studio Buds真无线耳机将于7月21日发布]]></title>
         <id>https://www.cnbeta.com/articles/tech/1139879.htm</id>
