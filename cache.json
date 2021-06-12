@@ -1559,6 +1559,51 @@
       "siteUrl": "https://www.cnbeta.com",
       "articles": [
         {
+          "id": "https://www.cnbeta.com/articles/tech/1140021.htm",
+          "author": "study875",
+          "description": "本月早些时候在和联邦通信委员会（FCC）代表的会晤中，微软高管表达了他们对 SpaceX 卫星互联网网络 Starlink 的支持。目前，Starlink 和其他非对地固定卫星服务（NGSO FSS）供应商在 12GHz 频谱的管理规则上存在分歧，这包括 Michael Dell 的 RS Access LLC 在内的地面 5G 运营商以及包括 DBS 在内的卫星服务提供商。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1140021.htm",
+          "publishedOn": "2021-06-12T22:01:18.000Z",
+          "wordCount": 241,
+          "title": "微软向FCC表明支持SpaceX的卫星互联网网络Starlink"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/science/1140019.htm",
+          "author": "study875",
+          "description": "在人类探索火星的征途中，“毅力号”无疑扮演着非常重要的角色。它从地球起飞经过漫长旅程成功登陆火星，并和“机智号”无人机合作已探索了一小块火星表面。现在，Mars 2020 任务终于进入科学阶段，“毅力号”将进一步展现自己的科学探索能力。美国宇航局喷气推进实验室今天发布了一段新视频，介绍新阶段的一些新技能。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/science/1140019.htm",
+          "publishedOn": "2021-06-12T21:47:40.000Z",
+          "wordCount": 213,
+          "title": "NASA解锁“毅力号”新技能：SuperCam可蒸发23英尺外的岩石"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1140017.htm",
+          "author": "study875",
+          "description": "装备酷睿 i9-11900KB CPU 的英特尔 NUC 11 Extreme 'Beast Canyon' PC 性能测试数据已经在网络上曝光。从来自 3DMark 数据库的最新成绩来看，NUC 11 Extreme 的成绩已接近同配置的标准游戏 PC。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1140017.htm",
+          "publishedOn": "2021-06-12T21:34:19.000Z",
+          "wordCount": 284,
+          "title": "[图]英特尔NUC 11 Extreme跑分曝光：和同配置游戏PC无差别"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/science/1140015.htm",
+          "author": "study875",
+          "description": "近日，科学家发现了能提高硅光致发光（PL）的方法。硅是所有现代电子产品的核心，同时它在光子发射器和吸收器上的表现非常糟糕。而科学家的这项发现可能为光子集成电路铺平道路，提升其性能。这篇论文发表在《Laser and Photonics Reviews》杂志上。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/science/1140015.htm",
+          "publishedOn": "2021-06-12T21:21:34.000Z",
+          "wordCount": 216,
+          "title": "为光子集成电路铺平道路 科学家发现提高硅光致发光方法"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1140013.htm",
+          "author": "study875",
+          "description": "在 Twitter 和 Instagram 等社交平台上近日刮起了一阵卡通风，你可能时不时的在信息流中看到某人的卡通造型。这主要归功于最新应用程序 Voila AI Artist，它允许用户从相册上传或者现场自拍，然后将照片调整成为 2D 和 3D 卡通造型，使自己看起来像迪士尼和皮克斯风格的人物。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1140013.htm",
+          "publishedOn": "2021-06-12T21:10:10.000Z",
+          "wordCount": 227,
+          "title": "Voila AI Artist风靡社交网络：将照片变成2D/3D卡通造型"
+        },
+        {
           "id": "https://www.cnbeta.com/articles/tech/1140011.htm",
           "author": "study875",
           "description": "英特尔下一代 Sapphire Rapids Xeon CPU 的 die shots 图已经在网络上曝光。图片显示该 CPU 将会采用 MCM 设计，最多可以容纳 60 个内存。下面这张照片来自于国内数码博主@结城安穗 -YuuKi_AnS，展示了第四代 Xeon CPU 的 dies 特写。\n 阅读全文",
