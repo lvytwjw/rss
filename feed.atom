@@ -2,10 +2,133 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://lvytwjw.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-12T03:09:20.544Z</updated>
+    <updated>2021-06-12T04:07:54.720Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://lvytwjw.github.io/rss/index.html"/>
     <link rel="self" href="https://lvytwjw.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[爆料称Beats Studio Buds真无线耳机将于7月21日发布]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1139879.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1139879.htm"/>
+        <updated>2021-06-12T04:00:11.000Z</updated>
+        <summary type="html"><![CDATA[知名爆料人 Jon Prosser 指出，近期频繁泄露的 Beats Studio Buds 真无线耳机，或于 7 月 21 日正式与大家见面。尽管苹果方面尚未官宣，但已有好几位名人曝出了疑似产品，比如勒布朗·詹姆斯在 Instagram 上晒出的白色耳机照片、以及罗迪·里奇在《Late At Night》音乐录影带中的细节特写。
+ 阅读全文]]></summary>
+        <author>
+            <name>raymon725</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美国西部遭遇极端干旱 多地进入“缺水紧急状态”]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1139877.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1139877.htm"/>
+        <updated>2021-06-12T03:52:16.000Z</updated>
+        <summary type="html"><![CDATA[“为了更好地应对紧急情况，今天我的董事会成员和我一致宣布圣克拉拉县进入缺水紧急状态。”美国西部加利福尼亚州的圣克拉拉县水务负责人埃斯特雷梅拉10日称，不能等到当地和整个加州的供水受到威胁时再采取行动。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[玛莎拉蒂分享GranTurismo EV双门电动轿跑路试照片]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1139875.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1139875.htm"/>
+        <updated>2021-06-12T03:43:06.000Z</updated>
+        <summary type="html"><![CDATA[近年来，越来越多的传统车企开始积极拥抱电气化，玛莎拉蒂（Maserati）也不例外。早在 2014 年，该公司就介绍过 Alfieri Coupe 概念车，并在 2018 年展示过 EV 版本，且当时甚至计划要在 2020 年推出一款量产型号。遗憾的是，这件事最终没能发生。好消息是，尽管尚未做好准备，但这并不妨碍玛莎拉蒂放出首款 GranTurismo EV 原型的预告。
+ 阅读全文]]></summary>
+        <author>
+            <name>raymon725</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“界限越来越模糊”：小行星和彗星可能比科学家此前认为的更相似]]></title>
+        <id>https://www.cnbeta.com/articles/science/1139873.htm</id>
+        <link href="https://www.cnbeta.com/articles/science/1139873.htm"/>
+        <updated>2021-06-12T03:31:16.000Z</updated>
+        <summary type="html"><![CDATA[据外媒报道，正如任何曾经试图打扫房间的人所知道的那样，清除灰尘是一项艰难的工作。没有哪个表面能长期保持无尘状态。事实证明，太空也有些类似。太空中充满了行星际尘埃，地球在围绕太阳运行的过程中不断收集这些尘埃--在轨道上，在大气中，如果它足够大的话，在地面上就会成为微陨石。虽然标本可能不大，但事实证明，这种尘埃粒子正在改变科学家对小行星和彗星的概念，并足以重建太阳系历史中的整个场景。
+ 阅读全文]]></summary>
+        <author>
+            <name>vivian</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[《海王2》全名为：《海王与失落的国度》]]></title>
+        <id>https://hot.cnbeta.com/articles/movie/1139871.htm</id>
+        <link href="https://hot.cnbeta.com/articles/movie/1139871.htm"/>
+        <updated>2021-06-12T03:29:07.000Z</updated>
+        <summary type="html"><![CDATA[导演温子仁发ins透露《海王2》片名：《海王与失落的国度》(Aquaman and the Lost Kingdom)，并透露已在召开制作会议，“涨潮了”。目前影片定档2022年12月16日北美上映。
+ 阅读全文]]></summary>
+        <author>
+            <name>vivian</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[国家航天局：火星探测＂一步实现绕着巡，二步完成采样回＂]]></title>
+        <id>https://www.cnbeta.com/articles/science/1139869.htm</id>
+        <link href="https://www.cnbeta.com/articles/science/1139869.htm"/>
+        <updated>2021-06-12T03:28:10.000Z</updated>
+        <summary type="html"><![CDATA[为何我国首次火星探测任务要选择一次任务完成火星环绕、着陆和巡视三大目标这样的高风险方案？6月12日，国家航天局在京举办新闻发布会，介绍我国首次火星探测任务情况。我国首次火星探测任务工程总设计师张荣桥表示，跟国外相比，我国火星探测起步较晚。在论证时，在与国外还存在着不小差距的情况下，有个基本共识：不能仅仅考虑风险，更要考虑对航天技术发展和科学研究的牵引、带动作用。
+ 阅读全文]]></summary>
+        <author>
+            <name>vivian</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[拓展私人太空旅行项目：NASA提出两项商业合作新建议]]></title>
+        <id>https://www.cnbeta.com/articles/science/1139867.htm</id>
+        <link href="https://www.cnbeta.com/articles/science/1139867.htm"/>
+        <updated>2021-06-12T03:25:40.000Z</updated>
+        <summary type="html"><![CDATA[今年 5 月的时候，NASA 就透露过想要在明年将 4 位私人宇航员送到国际空间站旅游 8 天的想法。周五的时候，这家宇航机构又提出了两项征求商业合作的新建议。可知初次任务或在 2022 年秋至 2023 年中展开，而第二次任务或在 2023 年中到 2023 年底之间的某个时间点进行。
+ 阅读全文]]></summary>
+        <author>
+            <name>raymon725</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[优麒麟20.04 LTS Pro发布会将于6月20日在北京举办]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1139865.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1139865.htm"/>
+        <updated>2021-06-12T03:15:19.000Z</updated>
+        <summary type="html"><![CDATA[感谢优麒麟的投递
+
+伴随着优麒麟 20.04 LTS Pro 版本的发布和第十届“麒麟杯”全国开源应用软件开发大赛的举行，由中国软件行业协会、中国开源软件推进联盟、中国科协传播中心、开放原子开源基金会、“科创中国”开源创新联合体主办。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[空中出租初创企业Kitty Hawk寻求收购3D Robotics]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1139863.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1139863.htm"/>
+        <updated>2021-06-12T03:10:47.000Z</updated>
+        <summary type="html"><![CDATA[由谷歌联合创始人拉里·佩奇（Larry Page）支持的空中出租初创企业 Kitty Hawk，正打算收购曾经的大疆无人机竞争对手 —— 3D Robotics 。周五的时候，《福布斯》杂志率先爆料了此事，并且详细介绍了 Kitty Hawk 的现状、及其对开发远程式电动垂直起降（eVTOL）客机的重点展望。
+ 阅读全文]]></summary>
+        <author>
+            <name>raymon725</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“氧气控制假说”：地球早期的含氧量增加是否有助于多细胞生命的进化？]]></title>
+        <id>https://www.cnbeta.com/articles/science/1139861.htm</id>
+        <link href="https://www.cnbeta.com/articles/science/1139861.htm"/>
+        <updated>2021-06-12T03:09:36.000Z</updated>
+        <summary type="html"><![CDATA[据外媒报道，一项新研究将早期地球的含氧量与更大、更复杂的生物体联系起来的假说推翻了。佐治亚理工学院的研究人员报告了一个更复杂的影响。科学家们长期以来一直认为，大气中氧气的增加（始于25亿年前的大氧化事件）与大型复杂多细胞生物的兴起之间有直接的联系。
+ 阅读全文]]></summary>
+        <author>
+            <name>vivian</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[多图]新增插混车型 大众T7 Multivan官图发布]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1139859.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1139859.htm"/>
+        <updated>2021-06-12T03:09:08.000Z</updated>
+        <summary type="html"><![CDATA[日前，大众汽车官方发布了T7 Multivan官图，新车基于MQB平台打造，且采用了全新的外观和内饰。动力上，新车除了提供汽油版、柴油版车型外。还推出了插电混动车型可选。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[在国内被称作神车的五菱宏光 终于被老外发现了]]></title>
         <id>https://www.cnbeta.com/articles/tech/1139857.htm</id>
