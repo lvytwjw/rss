@@ -1568,6 +1568,150 @@
       "siteUrl": "https://www.cnbeta.com",
       "articles": [
         {
+          "id": "https://www.cnbeta.com/articles/science/1139925.htm",
+          "author": "ugmbbc",
+          "description": "极其小块的塑料无处不在，从城市环境到原始的荒野。如果任其自生自灭，它们可能需要数百年的时间才能完全降解。由阳光激活的催化剂可以加速这一过程，但让这些化合物与微型塑料发生作用是很困难的。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/science/1139925.htm",
+          "publishedOn": "2021-06-12T08:03:40.000Z",
+          "wordCount": 192,
+          "title": "细菌大小的金属机器人可以实现分解微塑料 解决环境难题"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1139923.htm",
+          "author": "ugmbbc",
+          "description": "一款未来小米设备的规格已经出现，表明该公司正计划推出一款比小米11 Ultra更高级的智能手机。据泄密者数码闲聊站称，下一个小米旗舰机的代号为 \"M2106118C\"，将配备几个令人印象深刻的功能。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1139923.htm",
+          "publishedOn": "2021-06-12T08:00:13.000Z",
+          "wordCount": 201,
+          "title": "小米今年将发布配备屏下摄像头和UWB技术的旗舰手机"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1139921.htm",
+          "author": "ugmbbc",
+          "description": "近日，Facebook再次出手，收购了一家VR游戏开发商BigBox VR。BigBox VR是VR游戏《Population：One》的游戏开发商，《Population：One》是一款第一人称射击游戏（FPS），这款游戏同时也是在Oculus Quest平台上拿到超过千万美元收入的六款游戏之一，而这，已经是Facebook收购的第五个VR游戏团队。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1139921.htm",
+          "publishedOn": "2021-06-12T07:53:28.000Z",
+          "wordCount": 234,
+          "title": "Facebook的“VR吃鸡”：低配操作 高配体验"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/science/1139919.htm",
+          "author": "ugmbbc",
+          "description": "国家航天局秘书长许洪亮在今天召开的新闻发布会上，向媒体正式发布了“十四五”及未来一个时期发展重点规划。“十四五”及未来一个时期，中国航天将按照国家对航天强国建设的决策部署，加快推动空间科学、空间技术、空间应用全面发展，重点提升航天科技创新动力、经济社会发展支撑能力，积极开展更广泛的国际交流合作。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/science/1139919.htm",
+          "publishedOn": "2021-06-12T07:52:00.000Z",
+          "wordCount": 192,
+          "title": "中国拟于2028年实施火星取样返回 2029年实施木星系及行星际穿越探测"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1139917.htm",
+          "author": "ugmbbc",
+          "description": "英美两国同意在新的《大西洋宪章》（Atlantic Charter）框架下加强科学和技术方面的联系。他们将建立一种新的科技伙伴关系，以促进两国关系、创造就业机会，并保护公民的安全。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1139917.htm",
+          "publishedOn": "2021-06-12T07:50:34.000Z",
+          "wordCount": 201,
+          "title": "英美两国建立新的科技伙伴关系 加强在AI、6G等领域的合作"
+        },
+        {
+          "id": "https://hot.cnbeta.com/articles/game/1139915.htm",
+          "author": "ugmbbc",
+          "description": "周刊少年JUMP应该是日本最成功的漫画刊物了。多少年来，在这本杂志上有大量经典的漫画形象诞生，而各种投票排行和比拼自然也少不了。在最近的一次投票中，读者针对心目中最为成功的漫改动画发表了意见。\n 阅读全文",
+          "link": "https://hot.cnbeta.com/articles/game/1139915.htm",
+          "publishedOn": "2021-06-12T07:47:01.000Z",
+          "wordCount": 195,
+          "title": "日本读者票选最成功的漫改动画 《海贼王》碾压"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1139913.htm",
+          "author": "ugmbbc",
+          "description": "二手消费电子产品交易和服务平台万物新生（爱回收）集团于美东时间6月11日向美国证券交易委员会（SEC）递交红鲱鱼版招股说明书，计划本月中下旬正式以“RERE”为证券代码在纽约证券交易所挂牌上市。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1139913.htm",
+          "publishedOn": "2021-06-12T07:46:24.000Z",
+          "wordCount": 191,
+          "title": "万物新生拟6月中下旬纽交所上市 IPO估值或达40亿美元"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1139911.htm",
+          "author": "ugmbbc",
+          "description": "昨日（6月11日），中国疾控中心研究员冯子健在国务院联防联控机制新闻发布会上表示，从国内本土的这轮疫情看，在印度最早出现的德尔塔病毒变异株的传染性和传播能力显著增强，潜伏期或者传代间隔都缩短了，在短短的10天内就传了五六代，病毒的传播速度在加快。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1139911.htm",
+          "publishedOn": "2021-06-12T07:43:52.000Z",
+          "wordCount": 192,
+          "title": "病毒的传播速度在加快 B.1.617.2变异株10天内传了五六代"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1139909.htm",
+          "author": "ugmbbc",
+          "description": "尽管挖矿有利可图，但同时也面临着浪费能源、逃避金融监管等问题，在我国尚无明确的法定地位。据媒体报道，云南能源局相关人士确认，根据通知要求及时组织各用电部门开展联合检查，在今年6月底完成比特币挖矿企业用电清理整顿。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1139909.htm",
+          "publishedOn": "2021-06-12T07:42:06.000Z",
+          "wordCount": 191,
+          "title": "云南能源局：6月底完成比特币挖矿企业清理整顿"
+        },
+        {
+          "id": "https://hot.cnbeta.com/articles/game/1139907.htm",
+          "author": "ugmbbc",
+          "description": "作为RTS（即时战略）游戏中的经典翘楚，在重制完前三部后，微软的精力已经完全转移到第四部上来。日前，有网友曝光了微软Xbox工作室更新后秒删的Steam页面，发售日期显示仍为今年秋季（8月份）。\n 阅读全文",
+          "link": "https://hot.cnbeta.com/articles/game/1139907.htm",
+          "publishedOn": "2021-06-12T07:41:29.000Z",
+          "wordCount": 198,
+          "title": "微软RTS大作 《帝国时代4》新图曝光：八大文明、支持1v7"
+        },
+        {
+          "id": "https://hot.cnbeta.com/articles/game/1139905.htm",
+          "author": "ugmbbc",
+          "description": "今日（6月12日），据@开天工作室官方微博公布的消息，他们联合软星工作室共同推出《仙剑奇侠传》林月如雕像，目前公布了灰模图片，价格和发售日期待定。这款手办由开天工作室的创始人罗其胜老师打造，“侠骨柔肠，风华如玉”。\n 阅读全文",
+          "link": "https://hot.cnbeta.com/articles/game/1139905.htm",
+          "publishedOn": "2021-06-12T07:40:01.000Z",
+          "wordCount": 201,
+          "title": "开天工作室 x 软星推出《仙剑奇侠传》林月如雕像"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/science/1139903.htm",
+          "author": "ugmbbc",
+          "description": "中国国家航天局12日在北京举办新闻发布会，介绍中国首次火星探测任务情况。中国国家航天局新闻发言人许洪亮在会上表示，为了保证火星探测器在轨卫星安全，近期中国正在与美国国家航天局(NASA)、欧空局开展火星探测器轨道数据交换合作。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/science/1139903.htm",
+          "publishedOn": "2021-06-12T07:15:07.000Z",
+          "wordCount": 187,
+          "title": "国家航天局：近期正与NASA、ESA开展火星探测器轨道数据交换合作"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1139901.htm",
+          "author": "ugmbbc",
+          "description": "虽然受到了美国的巨额罚款处罚，但是大众排放门一事还没有结束，并且因为其旗下的品牌众多，就连保时捷也被牵扯其中。同样的，保时捷也没能逃脱罚款的尴尬局面。不过而今，保时捷的汽油发动机也牵扯到油耗作假中。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1139901.htm",
+          "publishedOn": "2021-06-12T07:13:29.000Z",
+          "wordCount": 196,
+          "title": "德国车管局开始调查保时捷油耗数据"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1139899.htm",
+          "author": "ugmbbc",
+          "description": "阿根廷卫生部11日宣布，授权批准中国康希诺生物股份公司新冠疫苗在阿根廷的紧急使用许可。这是继中国国药集团中国生物新冠灭活疫苗之后，第二款获得阿根廷紧急使用审批的中国新冠疫苗。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1139899.htm",
+          "publishedOn": "2021-06-12T07:11:53.000Z",
+          "wordCount": 188,
+          "title": "阿根廷批准中国康希诺生物新冠疫苗在该国紧急使用"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1139897.htm",
+          "author": "ugmbbc",
+          "description": "昨日，彭博社报道SiFive收到了英特尔20亿美元收购的邀约。对于这一消息，英特尔和SiFive都拒绝置评。讨论收购能否最终达成为时尚早，但通过SiFive现任CEO James Prior对RISC-V进入AI、数据中心市场的看法，这或许能够部分解答为什么会出现这样的传闻。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1139897.htm",
+          "publishedOn": "2021-06-12T07:10:51.000Z",
+          "wordCount": 219,
+          "title": "英特尔为什么会对RISC-V明星公司SiFive感兴趣？"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1139895.htm",
+          "author": "ugmbbc",
+          "description": "6月12日消息，腾讯今日宣布，为落实2021年“清朗”系列专项行动要求，即日起，腾讯开展“饭圈乱象”专项整治行动，清理有害信息，抵制饭圈不良风气，整治“诱导未成年人无底线追星”行为，净化网络环境。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1139895.htm",
+          "publishedOn": "2021-06-12T07:09:27.000Z",
+          "wordCount": 192,
+          "title": "腾讯发布“饭圈乱象”整治公告：严厉打击水军刷榜、挑动对立等"
+        },
+        {
           "id": "https://www.cnbeta.com/articles/tech/1139893.htm",
           "author": "raymon725",
           "description": "早在 4 月份，我就已经通过 Counterpoint Research 分享的销售数据，得知苹果 iPhone 12 系列正在热销。此外由该机构分享的 Market Pulse 报告可知，苹果占据了 2021 年初全球智能机畅销榜前十的 6 个位置。考虑到苹果在年青一代消费者群体中的品牌忠实度，我们也不难想象该公司会在 2021 年的剩余时间里再创佳绩。\n 阅读全文",
