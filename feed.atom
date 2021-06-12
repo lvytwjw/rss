@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://lvytwjw.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-12T20:06:49.483Z</updated>
+    <updated>2021-06-12T21:05:47.856Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://lvytwjw.github.io/rss/index.html"/>
     <link rel="self" href="https://lvytwjw.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[英特尔Sapphire Rapids Xeon CPU的Die Shots图曝光]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1140011.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1140011.htm"/>
+        <updated>2021-06-12T20:57:01.000Z</updated>
+        <summary type="html"><![CDATA[英特尔下一代 Sapphire Rapids Xeon CPU 的 die shots 图已经在网络上曝光。图片显示该 CPU 将会采用 MCM 设计，最多可以容纳 60 个内存。下面这张照片来自于国内数码博主@结城安穗 -YuuKi_AnS，展示了第四代 Xeon CPU 的 dies 特写。
+ 阅读全文]]></summary>
+        <author>
+            <name>study875</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[E3 2021：《彩虹六号：异种》最新演示 9月16日正式发售]]></title>
         <id>https://hot.cnbeta.com/articles/game/1140009.htm</id>

@@ -1559,6 +1559,15 @@
       "siteUrl": "https://www.cnbeta.com",
       "articles": [
         {
+          "id": "https://www.cnbeta.com/articles/tech/1140011.htm",
+          "author": "study875",
+          "description": "英特尔下一代 Sapphire Rapids Xeon CPU 的 die shots 图已经在网络上曝光。图片显示该 CPU 将会采用 MCM 设计，最多可以容纳 60 个内存。下面这张照片来自于国内数码博主@结城安穗 -YuuKi_AnS，展示了第四代 Xeon CPU 的 dies 特写。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1140011.htm",
+          "publishedOn": "2021-06-12T20:57:01.000Z",
+          "wordCount": 306,
+          "title": "英特尔Sapphire Rapids Xeon CPU的Die Shots图曝光"
+        },
+        {
           "id": "https://hot.cnbeta.com/articles/game/1140009.htm",
           "author": "ugmbbc",
           "description": "E3 2021正在火热举行中，育碧经典游戏《彩虹六号》系列新作，《彩虹六号：异种》（Rainbow Six Extraction）最新官方预告以及实机演示公布，一起先睹为快。\n 阅读全文",
