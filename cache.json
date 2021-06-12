@@ -551,15 +551,6 @@
           "publishedOn": "2021-05-14T14:13:07.000Z",
           "wordCount": 781,
           "title": "HTML Boilerplates"
-        },
-        {
-          "id": "https://css-tricks.com/?p=340490",
-          "author": "Chris Coyier",
-          "description": "Chen Hui Jing covers some recent movement in DevTools:\nFirefox’s grid inspector was pretty full-featured from the get-to and released together with CSS grid in Firefox 52. It was constantly improved upon since. Chrome added a basic grid inspector \n…\nThe post DevTools for CSS layouts 2021 edition appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://chenhuijing.com/blog/devtools-for-css-layouts-2021-edition/#%F0%9F%9A%B2",
-          "publishedOn": "2021-05-13T23:22:45.000Z",
-          "wordCount": 1594,
-          "title": "DevTools for CSS layouts 2021 edition"
         }
       ]
     },
@@ -1567,6 +1558,87 @@
       "feedUrl": "https://www.cnbeta.com/backend.php",
       "siteUrl": "https://www.cnbeta.com",
       "articles": [
+        {
+          "id": "https://www.cnbeta.com/articles/science/1139957.htm",
+          "author": "ugmbbc",
+          "description": "自从200年前伏打首次将铜盘和锌盘堆在一起以来，电池技术已经取得了长足的进步。虽然技术不断从铅酸电池发展到锂离子电池，但仍存在许多挑战，如实现更高的密度和抑制枝晶生长。专家们正在竞相解决全球对高能效和安全电池日益增长的需求。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/science/1139957.htm",
+          "publishedOn": "2021-06-12T12:06:40.000Z",
+          "wordCount": 198,
+          "title": "电池技术的突破：从原子层面看待富含锂元素的电池"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1139955.htm",
+          "author": "ugmbbc",
+          "description": "helloSystem是近来最有前途的基于BSD的桌面发行版之一，它希望成为BSD中的macOS，并具有良好的桌面体验。近几个月来，helloSystem一直在朝着他们的目标取得良好进展，本周末现在发布了0.5版本。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1139955.htm",
+          "publishedOn": "2021-06-12T12:04:10.000Z",
+          "wordCount": 212,
+          "title": "BSD也有好界面 由macOS启发的HelloSystem 0.5发行版上线"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1139953.htm",
+          "author": "ugmbbc",
+          "description": "据印度-亚洲新闻社（IANS）援引业内人士的话报道，我们从4月份就开始听说的三星Galaxy M32很可能在6月的第四周在印度推出。IANS还称，Galaxy M32在印度的售价将在15000印度卢比（205美元/170欧元）和20000印度卢比（270美元/225欧元）之间。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1139953.htm",
+          "publishedOn": "2021-06-12T12:01:31.000Z",
+          "wordCount": 225,
+          "title": "三星Galaxy M32印度零售价格泄露 预计月底出货"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1139951.htm",
+          "author": "ugmbbc",
+          "description": "最近才宣布加入量子计算竞赛的霍尼韦尔和专注于为量子计算机构建软件的剑桥量子计算公司（CQ）今天宣布，他们将把霍尼韦尔的量子解决方案（HQS）业务与剑桥量子公司以新的合资企业形式结合起来。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1139951.htm",
+          "publishedOn": "2021-06-12T11:58:33.000Z",
+          "wordCount": 203,
+          "title": "霍尼韦尔和剑桥量子公司成立合资公司 建立全栈式量子业务"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1139949.htm",
+          "author": "ugmbbc",
+          "description": "目前，国外的一些新冠疫苗已经正式批准或正在考虑扩大新冠疫苗的接种年龄，我国的国产疫苗在这方面有何进展？国家已经正式批准了两款灭活疫苗紧急使用的年龄范围扩大到3岁以上，这么做的依据是什么？\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1139949.htm",
+          "publishedOn": "2021-06-12T11:52:10.000Z",
+          "wordCount": 199,
+          "title": "中疾控：雾化吸入、鼻喷式疫苗正在研发"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1139947.htm",
+          "author": "ugmbbc",
+          "description": "据中国地震台网正式测定，6月12日18时00分，云南德宏州盈江县（北纬24.96度，东经97.89度）发生5.0级地震，震源深度16千米。地震造成当地震感强烈，芒市、腾冲等地有感。震中距盈江29公里，距腾冲61公里，距芒市92公里，距昆明486公里。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1139947.htm",
+          "publishedOn": "2021-06-12T11:51:29.000Z",
+          "wordCount": 197,
+          "title": "云南德宏州盈江县发生5.0级地震 当地震感强烈"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1139945.htm",
+          "author": "ugmbbc",
+          "description": "任天堂定于北京时间6月16日0点举办E3直面会，除了游戏，主角还可能包括Switch Pro。关于Switch Pro的核心SoC，有了新爆料。消息人士kopite7kimi晒出NVIDIA Orin芯片内核“果照”，并对CPU、GPU等单元进行标注。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1139945.htm",
+          "publishedOn": "2021-06-12T11:48:23.000Z",
+          "wordCount": 216,
+          "title": "曝Switch Pro搭载NVIDIA Orin芯片：7nm、GPU性能堪比RTX 3050"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1139943.htm",
+          "author": "ugmbbc",
+          "description": "诈骗、洗钱、价格操纵……虚拟货币市场乱象丛生，而“山寨币”大行其道，也让普通民众成为被收割的目标。近日，韩国曝出一桩打着虚拟货币幌子的庞氏骗局，6.9万人被骗了3.85万亿韩元，约合人民币221亿元。其中，不少受骗者是老年人。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1139943.htm",
+          "publishedOn": "2021-06-12T11:33:50.000Z",
+          "wordCount": 205,
+          "title": "6.9万人被骗221亿元 韩国“V Global”虚拟币大骗局曝光"
+        },
+        {
+          "id": "https://hot.cnbeta.com/articles/movie/1139941.htm",
+          "author": "ugmbbc",
+          "description": "近日，苹果TV+热剧《看见》第二季首曝官方预告，巴蒂斯塔加盟第二季扮演伊多沃斯将军，最后与杰森·莫玛扮演的巴巴·沃斯对决。第二季将于8月27日播出，第三季已续订。《看见》第二季预告：\n 阅读全文",
+          "link": "https://hot.cnbeta.com/articles/movie/1139941.htm",
+          "publishedOn": "2021-06-12T11:31:01.000Z",
+          "wordCount": 196,
+          "title": "杰森·莫玛主演科幻剧《看见》第二季曝预告 巴蒂斯塔加盟"
+        },
         {
           "id": "https://www.cnbeta.com/articles/tech/1139939.htm",
           "author": "ugmbbc",

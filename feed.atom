@@ -2,10 +2,109 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://lvytwjw.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-12T11:05:42.036Z</updated>
+    <updated>2021-06-12T12:08:51.070Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://lvytwjw.github.io/rss/index.html"/>
     <link rel="self" href="https://lvytwjw.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[电池技术的突破：从原子层面看待富含锂元素的电池]]></title>
+        <id>https://www.cnbeta.com/articles/science/1139957.htm</id>
+        <link href="https://www.cnbeta.com/articles/science/1139957.htm"/>
+        <updated>2021-06-12T12:06:40.000Z</updated>
+        <summary type="html"><![CDATA[自从200年前伏打首次将铜盘和锌盘堆在一起以来，电池技术已经取得了长足的进步。虽然技术不断从铅酸电池发展到锂离子电池，但仍存在许多挑战，如实现更高的密度和抑制枝晶生长。专家们正在竞相解决全球对高能效和安全电池日益增长的需求。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BSD也有好界面 由macOS启发的HelloSystem 0.5发行版上线]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1139955.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1139955.htm"/>
+        <updated>2021-06-12T12:04:10.000Z</updated>
+        <summary type="html"><![CDATA[helloSystem是近来最有前途的基于BSD的桌面发行版之一，它希望成为BSD中的macOS，并具有良好的桌面体验。近几个月来，helloSystem一直在朝着他们的目标取得良好进展，本周末现在发布了0.5版本。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[三星Galaxy M32印度零售价格泄露 预计月底出货]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1139953.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1139953.htm"/>
+        <updated>2021-06-12T12:01:31.000Z</updated>
+        <summary type="html"><![CDATA[据印度-亚洲新闻社（IANS）援引业内人士的话报道，我们从4月份就开始听说的三星Galaxy M32很可能在6月的第四周在印度推出。IANS还称，Galaxy M32在印度的售价将在15000印度卢比（205美元/170欧元）和20000印度卢比（270美元/225欧元）之间。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[霍尼韦尔和剑桥量子公司成立合资公司 建立全栈式量子业务]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1139951.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1139951.htm"/>
+        <updated>2021-06-12T11:58:33.000Z</updated>
+        <summary type="html"><![CDATA[最近才宣布加入量子计算竞赛的霍尼韦尔和专注于为量子计算机构建软件的剑桥量子计算公司（CQ）今天宣布，他们将把霍尼韦尔的量子解决方案（HQS）业务与剑桥量子公司以新的合资企业形式结合起来。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[中疾控：雾化吸入、鼻喷式疫苗正在研发]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1139949.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1139949.htm"/>
+        <updated>2021-06-12T11:52:10.000Z</updated>
+        <summary type="html"><![CDATA[目前，国外的一些新冠疫苗已经正式批准或正在考虑扩大新冠疫苗的接种年龄，我国的国产疫苗在这方面有何进展？国家已经正式批准了两款灭活疫苗紧急使用的年龄范围扩大到3岁以上，这么做的依据是什么？
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[云南德宏州盈江县发生5.0级地震 当地震感强烈]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1139947.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1139947.htm"/>
+        <updated>2021-06-12T11:51:29.000Z</updated>
+        <summary type="html"><![CDATA[据中国地震台网正式测定，6月12日18时00分，云南德宏州盈江县（北纬24.96度，东经97.89度）发生5.0级地震，震源深度16千米。地震造成当地震感强烈，芒市、腾冲等地有感。震中距盈江29公里，距腾冲61公里，距芒市92公里，距昆明486公里。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[曝Switch Pro搭载NVIDIA Orin芯片：7nm、GPU性能堪比RTX 3050]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1139945.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1139945.htm"/>
+        <updated>2021-06-12T11:48:23.000Z</updated>
+        <summary type="html"><![CDATA[任天堂定于北京时间6月16日0点举办E3直面会，除了游戏，主角还可能包括Switch Pro。关于Switch Pro的核心SoC，有了新爆料。消息人士kopite7kimi晒出NVIDIA Orin芯片内核“果照”，并对CPU、GPU等单元进行标注。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[6.9万人被骗221亿元 韩国“V Global”虚拟币大骗局曝光]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1139943.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1139943.htm"/>
+        <updated>2021-06-12T11:33:50.000Z</updated>
+        <summary type="html"><![CDATA[诈骗、洗钱、价格操纵……虚拟货币市场乱象丛生，而“山寨币”大行其道，也让普通民众成为被收割的目标。近日，韩国曝出一桩打着虚拟货币幌子的庞氏骗局，6.9万人被骗了3.85万亿韩元，约合人民币221亿元。其中，不少受骗者是老年人。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[杰森·莫玛主演科幻剧《看见》第二季曝预告 巴蒂斯塔加盟]]></title>
+        <id>https://hot.cnbeta.com/articles/movie/1139941.htm</id>
+        <link href="https://hot.cnbeta.com/articles/movie/1139941.htm"/>
+        <updated>2021-06-12T11:31:01.000Z</updated>
+        <summary type="html"><![CDATA[近日，苹果TV+热剧《看见》第二季首曝官方预告，巴蒂斯塔加盟第二季扮演伊多沃斯将军，最后与杰森·莫玛扮演的巴巴·沃斯对决。第二季将于8月27日播出，第三季已续订。《看见》第二季预告：
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[桌面版Google Chrome的新PWA安装界面首次出现]]></title>
         <id>https://www.cnbeta.com/articles/tech/1139939.htm</id>
@@ -52447,20 +52546,6 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <summary type="html"><![CDATA[“Tree-shaking” is a must-have performance optimization when bundling JavaScript. In this article, we dive deeper on how exactly it works and how specs and practice intertwine to make bundles leaner and more performant. Plus, you’ll get a tree-shaking checklist to use for your projects.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Átila Fassina)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DevTools for CSS layouts 2021 edition]]></title>
-        <id>https://css-tricks.com/?p=340490</id>
-        <link href="https://chenhuijing.com/blog/devtools-for-css-layouts-2021-edition/#%F0%9F%9A%B2"/>
-        <updated>2021-05-13T23:22:45.000Z</updated>
-        <summary type="html"><![CDATA[Chen Hui Jing covers some recent movement in DevTools:
-Firefox’s grid inspector was pretty full-featured from the get-to and released together with CSS grid in Firefox 52. It was constantly improved upon since. Chrome added a basic grid inspector 
-…
-The post DevTools for CSS layouts 2021 edition appeared first on CSS-Tricks.
-You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
         </author>
     </entry>
 </feed>
