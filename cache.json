@@ -1568,6 +1568,87 @@
       "siteUrl": "https://www.cnbeta.com",
       "articles": [
         {
+          "id": "https://hot.cnbeta.com/articles/game/1139799.htm",
+          "author": "raymon725",
+          "description": "几天前，Arcade1Up 赶在 30 周年庆之际，重新发布了经典的《辛普森一家》游戏街机。现在，该公司又陆续分享了更多细节，比如《忍者神龟》、《街霸 2》、以及《吃豆人》主题的三款街机。无论是游戏还是收藏爱好者，它们都很适合放在家中、邀三五好友，前来重温往日愉快的竞技时光。\n 阅读全文",
+          "link": "https://hot.cnbeta.com/articles/game/1139799.htm",
+          "publishedOn": "2021-06-12T01:41:39.000Z",
+          "wordCount": 259,
+          "title": "Arcade1Up预告《忍者神龟》、《街霸2》、以及《吃豆人》复古街机"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/science/1139797.htm",
+          "author": "vivian",
+          "description": "据外媒BGR报道，当天文学家窥视作为我们家园的银河系的深处时，他们可以看到很多东西正在发生，但是有一个光源引起了研究人员的注意，他们正试图了解它到底是什么。它是一颗恒星......但它在“闪烁”。这个天体被称为VVV-WIT-08，它可能属于一个全新的巨型恒星类别，被称为 “闪烁巨星”。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/science/1139797.htm",
+          "publishedOn": "2021-06-12T01:40:44.000Z",
+          "wordCount": 193,
+          "title": "天文学家发现一颗神秘的天体在银河系中心附近“闪烁”"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/science/1139795.htm",
+          "author": "vivian",
+          "description": "据外媒报道，白尾燕和灰丛鸦生活在“气候救生艇”中，它们的小范围受到温度和降雨模式的全面限制。即使在温和的气候变暖下，模型预测在未来50年内这些鸟类将严重失去适宜的气候--极大地提高了它们的灭绝风险。在最近发表在《PLOS ONE》杂志上的研究中，科学家们说，监测这些鸟类对气候变化的反应，对于验证广泛使用的气候模型的预测能力至关重要。它也将帮助保护主义者想出有效的方法，防止其他物种在野外灭绝。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/science/1139795.htm",
+          "publishedOn": "2021-06-12T01:26:34.000Z",
+          "wordCount": 197,
+          "title": "随着全球气温上升 监测濒临灭绝的物种或有助于拯救其他物种"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1139793.htm",
+          "author": "raymon725",
+          "description": "在最近的一次Linux内核更新中，AMD工程师终于确认，基于下一代CDNA2架构的加速计算卡，将会采用双芯封装。去年11月，AMD发布了顶级加速计算卡Instinct MI100，首次采用针对HPC高性能计算、AI人工智能全新设计的CDNA架构，和游戏向的RDNA架构截然不同。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1139793.htm",
+          "publishedOn": "2021-06-12T01:17:50.000Z",
+          "wordCount": 207,
+          "title": "AMD官方确认：下一代计算卡采用双芯封装"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/science/1139791.htm",
+          "author": "vivian",
+          "description": "据外媒报道，所谓的 \"好脂肪酸 \"对人类健康至关重要，也是那些试图健康饮食的人所追求的。在 Omega-3脂肪酸中，DHA或二十二碳六烯酸对大脑功能、视觉和调节炎症现象至关重要。除了这些优点外，DHA还被认为与减少癌症的发病率有关。它是如何工作的，是鲁汶大学（UCLouvain）研究人员的一个多学科小组的重大发现的主题，他们刚刚阐明了使DHA和其他相关脂肪酸减缓肿瘤发展的生化机制。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/science/1139791.htm",
+          "publishedOn": "2021-06-12T01:13:25.000Z",
+          "wordCount": 195,
+          "title": "科学家发现使DHA和其他相关脂肪酸减缓肿瘤发展的生化机制"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/science/1139789.htm",
+          "author": "vivian",
+          "description": "一段新公布的视频显示，从南极洲松岛冰川的大冰架上脱落的冰山急剧增加。随着过去几年冰川融化速度的加快，科学家警告说，冰山落入海洋之前所需的时间可能会大大缩短。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/science/1139789.htm",
+          "publishedOn": "2021-06-12T00:59:07.000Z",
+          "wordCount": 194,
+          "title": "研究称南极洲松岛冰川冰架崩塌的速度超过预期"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1139787.htm",
+          "author": "vivian",
+          "description": "据外媒SlashGear报道，美国国防部高级研究计划局(DARPA)已经完成了一个系统的工作，该系统旨在击落在爆炸性反措施无法接受的地方运行的小型无人机。简单地说，该系统包括向空中发射一个装置，一旦探测到无人机，就向空中发射巨大的“彩带”。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1139787.htm",
+          "publishedOn": "2021-06-12T00:46:04.000Z",
+          "wordCount": 198,
+          "title": "DARPA的非爆炸性无人机拦截系统使用巨大的 \"派对彩带\""
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1139785.htm",
+          "author": "vivian",
+          "description": "据外媒报道，当地时间周五，美国宽带行业赢得了一项法庭命令，禁止纽约州执行一项要求互联网服务供应商(ISP)向低收入家庭出售每月15美元宽带计划的州法律。互联网服务供应商的游说团体起诉纽约州，要求阻止原定于6月15日生效的法律，并在周五获得了美国纽约东区地方法院的初步禁令。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1139785.htm",
+          "publishedOn": "2021-06-12T00:34:07.000Z",
+          "wordCount": 221,
+          "title": "法官裁定：纽约州不能强迫ISP提供15美元的低收入宽带计划"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1139783.htm",
+          "author": "vivian",
+          "description": "据外媒Neowin报道，Facebook在周五推出了TextStyleBrush研究项目，该公司的新AI工具可以复制和再现图像中的文本样式。该模型甚至可以只用一个例子的源头深度伪造风格就能做到。不仅是图像文本样式，TextStyleBrush对手写体也能有效地工作。该技术基于自我监督学习，这意味着该模型所需的手动输入量很低，使其总体上很快速。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1139783.htm",
+          "publishedOn": "2021-06-12T00:18:55.000Z",
+          "wordCount": 188,
+          "title": "Facebook的新AI工具只用一个例子就能深度伪造图片中的文本样式"
+        },
+        {
           "id": "https://www.cnbeta.com/articles/science/1139781.htm",
           "author": "vivian",
           "description": "据外媒报道，月球背面是月球永远背对地球的那一面，它没有像我们可以直接观察的部分那样得到科学家的关注。然而，这种情况已经慢慢改变，现在美国宇航局（NASA）计划加入这项工作。\n 阅读全文",
