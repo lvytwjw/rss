@@ -2,10 +2,65 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://lvytwjw.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-13T03:09:43.568Z</updated>
+    <updated>2021-06-13T04:08:02.718Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://lvytwjw.github.io/rss/index.html"/>
     <link rel="self" href="https://lvytwjw.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[核武器在近地球表面爆炸会有多大杀伤力？科学家正建模预估]]></title>
+        <id>https://www.cnbeta.com/articles/science/1140107.htm</id>
+        <link href="https://www.cnbeta.com/articles/science/1140107.htm"/>
+        <updated>2021-06-13T03:42:09.000Z</updated>
+        <summary type="html"><![CDATA[近日发表在《英国皇家学会》的一篇论文中，强调了劳伦斯·利弗莫尔国家实验室（LLNL）的一项发现，即靠近地球表面的核武器爆炸所产生的杀伤力和覆盖范围方面的复杂情况。这项工作被刊登在该出版物的封面上。
+ 阅读全文]]></summary>
+        <author>
+            <name>study875</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[苹果承认干预App Store算法：搜索Dropbox优先跳出自家Files]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1140105.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1140105.htm"/>
+        <updated>2021-06-13T03:25:35.000Z</updated>
+        <summary type="html"><![CDATA[2019 年，《华尔街日报》和《纽约时报》联合对 App Store 进行了广泛调查，重点针对苹果自家应用程序明显的、持续的排在竞争对手前面。当时，苹果公司回应称整个推荐都是由 42 个不同变量的秘密算法按照规定进行的，公司高管一再强调不会对搜索结果进行手动干预。
+ 阅读全文]]></summary>
+        <author>
+            <name>study875</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美国再生能源Invenergy证实遭黑客组织袭击]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1140103.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1140103.htm"/>
+        <updated>2021-06-13T03:17:41.000Z</updated>
+        <summary type="html"><![CDATA[俄罗斯黑客组织REvil近期再度发动网络袭击，全球再生能源巨擘Invenergy证实其作业系统遭到入侵。该组织宣称已经获得公司执行长迈克尔·波尔斯基（Michael Polsky）的机密消息，但面对着黑客组织的胁迫，公司强调将不打算支付任何赎金。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[首家火箭公司要上市了，但不是SpaceX]]></title>
+        <id>https://www.cnbeta.com/articles/science/1140101.htm</id>
+        <link href="https://www.cnbeta.com/articles/science/1140101.htm"/>
+        <updated>2021-06-13T03:16:44.000Z</updated>
+        <summary type="html"><![CDATA[维珍轨道正在筹划通过SPAC借壳上市，估值约30亿美元。维珍轨道是维珍银河分拆出来的卫星发射公司，该公司当前正在与NextGen Acquisition II这家由前高盛合伙人及前铂金埃尔默CEO领导的SPAC公司进行借壳上市谈判。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[App Store前十应用平均容量是5年前4倍 Gmail增长19倍]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1140099.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1140099.htm"/>
+        <updated>2021-06-13T03:11:09.000Z</updated>
+        <summary type="html"><![CDATA[根据市场调查机构 Sensor Tower 公布的最新报告，App Store 上排名前十应用程序的容量是 5 年前的 4 倍，而且应用程序容量每年还在不断增长。而且伴随着 iOS 15 的推出，更多的新技术和 API 导致应用在 iPhone 上占用更多空间。
+ 阅读全文]]></summary>
+        <author>
+            <name>study875</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[匈牙利专家：统计数据似乎越来越能够确定冠状病毒传播有季节性]]></title>
         <id>https://www.cnbeta.com/articles/tech/1140097.htm</id>

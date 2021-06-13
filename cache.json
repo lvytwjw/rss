@@ -1532,6 +1532,51 @@
       "siteUrl": "https://www.cnbeta.com",
       "articles": [
         {
+          "id": "https://www.cnbeta.com/articles/science/1140107.htm",
+          "author": "study875",
+          "description": "近日发表在《英国皇家学会》的一篇论文中，强调了劳伦斯·利弗莫尔国家实验室（LLNL）的一项发现，即靠近地球表面的核武器爆炸所产生的杀伤力和覆盖范围方面的复杂情况。这项工作被刊登在该出版物的封面上。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/science/1140107.htm",
+          "publishedOn": "2021-06-13T03:42:09.000Z",
+          "wordCount": 210,
+          "title": "核武器在近地球表面爆炸会有多大杀伤力？科学家正建模预估"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1140105.htm",
+          "author": "study875",
+          "description": "2019 年，《华尔街日报》和《纽约时报》联合对 App Store 进行了广泛调查，重点针对苹果自家应用程序明显的、持续的排在竞争对手前面。当时，苹果公司回应称整个推荐都是由 42 个不同变量的秘密算法按照规定进行的，公司高管一再强调不会对搜索结果进行手动干预。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1140105.htm",
+          "publishedOn": "2021-06-13T03:25:35.000Z",
+          "wordCount": 242,
+          "title": "苹果承认干预App Store算法：搜索Dropbox优先跳出自家Files"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1140103.htm",
+          "author": "ugmbbc",
+          "description": "俄罗斯黑客组织REvil近期再度发动网络袭击，全球再生能源巨擘Invenergy证实其作业系统遭到入侵。该组织宣称已经获得公司执行长迈克尔·波尔斯基（Michael Polsky）的机密消息，但面对着黑客组织的胁迫，公司强调将不打算支付任何赎金。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1140103.htm",
+          "publishedOn": "2021-06-13T03:17:41.000Z",
+          "wordCount": 205,
+          "title": "美国再生能源Invenergy证实遭黑客组织袭击"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/science/1140101.htm",
+          "author": "ugmbbc",
+          "description": "维珍轨道正在筹划通过SPAC借壳上市，估值约30亿美元。维珍轨道是维珍银河分拆出来的卫星发射公司，该公司当前正在与NextGen Acquisition II这家由前高盛合伙人及前铂金埃尔默CEO领导的SPAC公司进行借壳上市谈判。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/science/1140101.htm",
+          "publishedOn": "2021-06-13T03:16:44.000Z",
+          "wordCount": 198,
+          "title": "首家火箭公司要上市了，但不是SpaceX"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1140099.htm",
+          "author": "study875",
+          "description": "根据市场调查机构 Sensor Tower 公布的最新报告，App Store 上排名前十应用程序的容量是 5 年前的 4 倍，而且应用程序容量每年还在不断增长。而且伴随着 iOS 15 的推出，更多的新技术和 API 导致应用在 iPhone 上占用更多空间。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1140099.htm",
+          "publishedOn": "2021-06-13T03:11:09.000Z",
+          "wordCount": 258,
+          "title": "App Store前十应用平均容量是5年前4倍 Gmail增长19倍"
+        },
+        {
           "id": "https://www.cnbeta.com/articles/tech/1140097.htm",
           "author": "ugmbbc",
           "description": "匈牙利老布达大学生物统计学家兼副教授 Tamás Ferenci在接受 Portfolio 采访时谈到了冠状病毒的季节性趋势。据专家介绍，越来越多的证据表明，冠状病毒遵循季节性模式，即在没有外部限制措施的情况下，它会在一年内自行发生。\n 阅读全文",
