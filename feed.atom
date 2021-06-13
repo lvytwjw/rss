@@ -2,10 +2,65 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://lvytwjw.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-13T00:24:17.138Z</updated>
+    <updated>2021-06-13T01:55:55.345Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://lvytwjw.github.io/rss/index.html"/>
     <link rel="self" href="https://lvytwjw.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[[图]Android 12对话小部件隐藏特性：可根据内容改变背景]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1140057.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1140057.htm"/>
+        <updated>2021-06-13T01:40:47.000Z</updated>
+        <summary type="html"><![CDATA[几天前，Google放出了 Android 12 的第 2 个测试版本。它带来了新版系统最令人兴奋的功能之一：根据你的壁纸来自动更改背景色。在对新版本进行深度挖掘之后，外媒 XDA 还发现了备受期待的 Conversations 小部件，而且它的背景可以根据信息内容的不同而改变。
+ 阅读全文]]></summary>
+        <author>
+            <name>study875</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[继苹果之后 微软也承认向美国司法部移交了相关数据]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1140055.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1140055.htm"/>
+        <updated>2021-06-13T01:32:39.000Z</updated>
+        <summary type="html"><![CDATA[近期有消息称，在唐纳德·特朗普任职期间美国司法部曾于 2017 年对白宫泄密事件展开了广泛的调查。在调查过程中，要求多家美国科技公司提供一些民主党国会议员及其家人和熟人的信息。在苹果承认提供了多名民主党议员的数据之后，现在微软也承认向美国司法部移交了相关数据。
+ 阅读全文]]></summary>
+        <author>
+            <name>study875</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SpaceX申请运营第二代Starlink终端 天线输出功率减半]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1140053.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1140053.htm"/>
+        <updated>2021-06-13T01:22:11.000Z</updated>
+        <summary type="html"><![CDATA[在寻求美国联邦通信委员会（FCC）批准测试新的 Starlink 用户终端不到 1 周，SpaceX 又向该监管机构提交了一份申请。这份申请和该公司在 2019 年提交的申请类似，一样要求 FCC 授权 SpaceX 在美国运营超过 100 万个新 Starlink 终端用户的天线。
+ 阅读全文]]></summary>
+        <author>
+            <name>study875</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[新的COVID-19病理学细胞图谱揭示了新冠病毒如何破坏肺部]]></title>
+        <id>https://www.cnbeta.com/articles/science/1140051.htm</id>
+        <link href="https://www.cnbeta.com/articles/science/1140051.htm"/>
+        <updated>2021-06-13T01:00:23.000Z</updated>
+        <summary type="html"><![CDATA[近日发表在《Nature》上的研究报告中，来自多家医院和研究中心的科研人员对 COVID-19 新冠患者的尸检样本进行了单细胞分析，展示了肺部如何反复尝试并失败地进行自我修复。
+ 阅读全文]]></summary>
+        <author>
+            <name>study875</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[图]iOS 15新特性：可实现iPad的跨应用拖放功能]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1140049.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1140049.htm"/>
+        <updated>2021-06-13T00:40:34.000Z</updated>
+        <summary type="html"><![CDATA[在本周发布的 iOS 15 预览版更新中，苹果添加了一项非常小但实用的新功能，就是允许用户在 iPhone 上的应用之间拖放图片、文本、文件等等。MacStories 主编 Federico Viticci 在一条推文中演示了这项新功能。
+ 阅读全文]]></summary>
+        <author>
+            <name>study875</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[纳米光学技术的突破：研究人员首次在二维材料中观察到声光脉冲]]></title>
         <id>https://www.cnbeta.com/articles/science/1140047.htm</id>
