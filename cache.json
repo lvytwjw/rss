@@ -1550,6 +1550,96 @@
       "siteUrl": "https://www.cnbeta.com",
       "articles": [
         {
+          "id": "https://www.cnbeta.com/articles/science/1140047.htm",
+          "author": "ugmbbc",
+          "description": "来自以色列理工学院的研究人员利用一台超高速透射电子显微镜，首次记录了组合声波和光波在原子级薄材料中的传播。实验是在安德鲁和厄纳-维特比电气与计算机工程学院和固体研究所的伊多-卡米纳教授领导的罗伯特和鲁思-马吉德电子束量子动力学实验室进行的。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/science/1140047.htm",
+          "publishedOn": "2021-06-13T00:11:00.000Z",
+          "wordCount": 209,
+          "title": "纳米光学技术的突破：研究人员首次在二维材料中观察到声光脉冲"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1140045.htm",
+          "author": "study875",
+          "description": "Windows 10 May 2021（21H1）功能更新正在全球推广中，在该版本中也发现了几个问题，其中部分微软已经提供了解决方案。在近日更新的支持文档中，微软承认在 21H1 功能更新之上那些需要访问事件日志的应用程序会出现问题。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1140045.htm",
+          "publishedOn": "2021-06-13T00:08:55.000Z",
+          "wordCount": 263,
+          "title": "微软承认Windows 10 21H1存在事件日志无法访问等问题"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1140043.htm",
+          "author": "ugmbbc",
+          "description": "日前，在2021重庆车展上，全新汽车品牌——北汽瑞翔全新品牌正式发布，同时旗下首款SUV车型—瑞翔X5正式亮相。这也意味着，北汽银翔经历了破产重组后获得“新生”，北汽银翔更名为北汽瑞翔，但是其股东以及子公司并未发生改变。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1140043.htm",
+          "publishedOn": "2021-06-13T00:01:35.000Z",
+          "wordCount": 199,
+          "title": "北汽银翔“复活” 全新瑞翔品牌发布"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/science/1140041.htm",
+          "author": "ugmbbc",
+          "description": "由麦戈文研究所研究人员开发的新方法可能导致更安全、更高效的基因疗法。基因编辑，或有目的地改变一个基因的DNA序列，是研究突变如何导致疾病，以及为治疗目的改变一个人的DNA的有力工具。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/science/1140041.htm",
+          "publishedOn": "2021-06-12T23:59:40.000Z",
+          "wordCount": 205,
+          "title": "纠正致病突变的新技术可带来高效的基因治疗方法"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/science/1140039.htm",
+          "author": "ugmbbc",
+          "description": "一项新的研究表明，埃塞俄比亚、苏丹和埃及之间围绕非洲最大的水电站--新的大埃塞俄比亚复兴大坝（GERD）的一些分歧，可以通过在该地区大规模地扩大太阳能和风能发电来缓解。调整GERD的运行以支持太阳能和风能的并网，将为所有相关国家提供切实的能源和水的好处，创造区域性的双赢局面。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/science/1140039.htm",
+          "publishedOn": "2021-06-12T23:56:50.000Z",
+          "wordCount": 202,
+          "title": "太阳能和风能可以缓解非洲东北部围绕大埃塞俄比亚复兴大坝的冲突"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1140037.htm",
+          "author": "ugmbbc",
+          "description": "6月12日，京东面向天津、浙江、福建、河北、江西、宁夏6地消费者的消费券同日开启发放，在惠及当地居民的同时，推动区域经济高质量发展。而自5月31日以来，北京、上海、广州、成都等多地的消费者，都已经从京东上领取并使用了消费券。上京东APP领券，享受实实在在的优惠，已经成为这个京东618很多消费者的习惯。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1140037.htm",
+          "publishedOn": "2021-06-12T23:40:19.000Z",
+          "wordCount": 200,
+          "title": "京东6·18期间将累计发放百亿消费券 已惠及北京等14地消费者"
+        },
+        {
+          "id": "https://hot.cnbeta.com/articles/game/1140035.htm",
+          "author": "ugmbbc",
+          "description": "在育碧今天凌晨举行的E3专题前瞻会上，该公司老总在节目的最后带来了ubi massive团队开发多年的阿凡达改编游戏新作《阿凡达：潘多拉边界（Avatar: Frontiers of Pandora）》，本作是一款面向PC和次世代主机的游戏，不会退出PS4和XboxOne版本。\n 阅读全文",
+          "link": "https://hot.cnbeta.com/articles/game/1140035.htm",
+          "publishedOn": "2021-06-12T23:38:27.000Z",
+          "wordCount": 207,
+          "title": "E3 2021：主视角开放世界游戏《阿凡达：潘多拉边界》2022上市"
+        },
+        {
+          "id": "https://hot.cnbeta.com/articles/game/1140033.htm",
+          "author": "ugmbbc",
+          "description": "E3 2021正在火热举行中，育碧经典游戏新篇《马里奥与疯狂兔子：希望之星》公布了最新预告，同时官方宣布本作将于2022年登陆NS发售，敬请期待。《马里奥与疯狂兔子：希望之星》是育碧与任天堂合作打造的策略游戏最新作，在这部作品中，玩家可以操控包括疯狂兔子马里奥系列的大量角色。在不同的战场上和不同的敌人进行策略上的对决。\n 阅读全文",
+          "link": "https://hot.cnbeta.com/articles/game/1140033.htm",
+          "publishedOn": "2021-06-12T23:35:57.000Z",
+          "wordCount": 207,
+          "title": "E3 2021：《马里奥与疯狂兔子：希望之星》新预告2022年登NS"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1140031.htm",
+          "author": "ugmbbc",
+          "description": "尽管事情已经过去了仅6年，但震惊全球的大众汽车集团“排放门”事件还远远未结束，而作为前CEO的马丁·文德恩，也为此付出了沉重的代价。日前，有外媒报道称，大众集团和其前CEO文德恩就“排放门”赔偿金达成协议，包括文德恩在内的四名前高管和保险公司将向大众支付2.88亿欧元（约合人民币22.3亿元）。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1140031.htm",
+          "publishedOn": "2021-06-12T23:35:07.000Z",
+          "wordCount": 204,
+          "title": "大众集团四位前高管就“排放门”赔偿2.88亿欧元"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1140029.htm",
+          "author": "ugmbbc",
+          "description": "当前半导体已经成为全球电子产业的命脉，但产业的基本规律——摩尔定律正逼近物理、技术和成本的极限，在6月9至11日的2021世界半导体大会暨南京国际半导体博览会上，产业界对此进行探讨，并分化出两条路径：延续摩尔定律或者绕道，但两者都困难重重。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1140029.htm",
+          "publishedOn": "2021-06-12T23:29:32.000Z",
+          "wordCount": 194,
+          "title": "半导体将在中国超越摩尔定律"
+        },
+        {
           "id": "https://www.cnbeta.com/articles/science/1140027.htm",
           "author": "study875",
           "description": "对卫星云层观测的一项新分析发现，全球变暖导致海洋上空的低云（low-level clouds）减少，而这又进一步导致变暖的恶性循环。这项工作由劳伦斯·利弗莫尔国家实验室（LLNL）的研究人员领导，与来自斯克里普斯海洋学研究所和美国国家航空航天局兰利研究中心的同事合作，研究成果发表在《Nature Climate Change》上。\n 阅读全文",
