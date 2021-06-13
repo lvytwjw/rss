@@ -2,10 +2,65 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://lvytwjw.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-13T17:22:07.890Z</updated>
+    <updated>2021-06-13T18:06:38.860Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://lvytwjw.github.io/rss/index.html"/>
     <link rel="self" href="https://lvytwjw.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[欧空局初步确定Voyage 2050任务主题]]></title>
+        <id>https://www.cnbeta.com/articles/science/1140211.htm</id>
+        <link href="https://www.cnbeta.com/articles/science/1140211.htm"/>
+        <updated>2021-06-13T17:38:15.000Z</updated>
+        <summary type="html"><![CDATA[欧空局已经为2035年和2050年之间的时间框架初步确定了其大型科学任务主题。这些任务属于Voyage 2050的范畴，并将部分关注围绕太阳系中一些大质量行星的卫星。该任务还将调查温带系外行星和早期宇宙。欧空局科学主任冈瑟·哈辛格说，"Voyage 2050 "主题的选择对欧空局的科学计划来说是至关重要的。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美国CDC称已完全接种疫苗的旅行者可在户外交通枢纽不用佩戴口罩]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1140209.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1140209.htm"/>
+        <updated>2021-06-13T17:35:14.000Z</updated>
+        <summary type="html"><![CDATA[作为1月份口罩令的一部分，美国疾病控制中心CDC表示，在乘坐公共汽车和火车等公共交通工具时，以及在地铁站和轮渡码头等交通枢纽时，都需要使用口罩。现在，该机构已经更新了关于使用口罩的指引，已经放宽了关于交通方面的规定，但只是在涉及到户外交通枢纽时。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[除了Windows，你可知微软出品了这么多“神器”？]]></title>
+        <id>https://www.cnbeta.com/articles/soft/1140207.htm</id>
+        <link href="https://www.cnbeta.com/articles/soft/1140207.htm"/>
+        <updated>2021-06-13T17:27:52.000Z</updated>
+        <summary type="html"><![CDATA[提到微软，大家脑海中最先浮现的肯定就是Windows了。作为一家已经成立了46年之久的顶级科技公司，微软其实每天也在做着很多软件公司都在做的事——开发软件。那么除了Windows以外，微软到底还开发过哪些“巨硬神器”？接下来这篇文章，就为您大致梳理一下。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[《黑寡妇》全新电视广告 大量新镜头亮相]]></title>
+        <id>https://hot.cnbeta.com/articles/movie/1140205.htm</id>
+        <link href="https://hot.cnbeta.com/articles/movie/1140205.htm"/>
+        <updated>2021-06-13T17:23:47.000Z</updated>
+        <summary type="html"><![CDATA[《黑寡妇》全新电视预告片曝光，大量新镜头曝光。 导演Cate Shortland透露，《黑寡妇》充满了出色的动作戏，会有很多爱和动情时刻，也会展现更黑暗的一面。《黑寡妇》目前已在北美开启预售，影片将于7月9日在美国上映，同步登陆流媒体。国内档期未定。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[E3：《星空》首曝预告 明年11月11日发售 首发XGP]]></title>
+        <id>https://hot.cnbeta.com/articles/game/1140203.htm</id>
+        <link href="https://hot.cnbeta.com/articles/game/1140203.htm"/>
+        <updated>2021-06-13T17:22:16.000Z</updated>
+        <summary type="html"><![CDATA[今日（6月14日），在E3 2021上B社公布了科幻RPG大作《星空》的首支预告，B社新作《星空》（Starfield）将于2022年11月11日发售，登陆Xbox Series X|S和PC平台，发售首日加入Xbox Game Pass。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[全球航运混乱有多严重？家得宝承包了自己的集装箱船作为保障]]></title>
         <id>https://www.cnbeta.com/articles/tech/1140201.htm</id>

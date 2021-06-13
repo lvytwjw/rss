@@ -1523,6 +1523,51 @@
       "siteUrl": "https://www.cnbeta.com",
       "articles": [
         {
+          "id": "https://www.cnbeta.com/articles/science/1140211.htm",
+          "author": "ugmbbc",
+          "description": "欧空局已经为2035年和2050年之间的时间框架初步确定了其大型科学任务主题。这些任务属于Voyage 2050的范畴，并将部分关注围绕太阳系中一些大质量行星的卫星。该任务还将调查温带系外行星和早期宇宙。欧空局科学主任冈瑟·哈辛格说，\"Voyage 2050 \"主题的选择对欧空局的科学计划来说是至关重要的。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/science/1140211.htm",
+          "publishedOn": "2021-06-13T17:38:15.000Z",
+          "wordCount": 202,
+          "title": "欧空局初步确定Voyage 2050任务主题"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1140209.htm",
+          "author": "ugmbbc",
+          "description": "作为1月份口罩令的一部分，美国疾病控制中心CDC表示，在乘坐公共汽车和火车等公共交通工具时，以及在地铁站和轮渡码头等交通枢纽时，都需要使用口罩。现在，该机构已经更新了关于使用口罩的指引，已经放宽了关于交通方面的规定，但只是在涉及到户外交通枢纽时。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1140209.htm",
+          "publishedOn": "2021-06-13T17:35:14.000Z",
+          "wordCount": 199,
+          "title": "美国CDC称已完全接种疫苗的旅行者可在户外交通枢纽不用佩戴口罩"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/soft/1140207.htm",
+          "author": "ugmbbc",
+          "description": "提到微软，大家脑海中最先浮现的肯定就是Windows了。作为一家已经成立了46年之久的顶级科技公司，微软其实每天也在做着很多软件公司都在做的事——开发软件。那么除了Windows以外，微软到底还开发过哪些“巨硬神器”？接下来这篇文章，就为您大致梳理一下。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/soft/1140207.htm",
+          "publishedOn": "2021-06-13T17:27:52.000Z",
+          "wordCount": 222,
+          "title": "除了Windows，你可知微软出品了这么多“神器”？"
+        },
+        {
+          "id": "https://hot.cnbeta.com/articles/movie/1140205.htm",
+          "author": "ugmbbc",
+          "description": "《黑寡妇》全新电视预告片曝光，大量新镜头曝光。 导演Cate Shortland透露，《黑寡妇》充满了出色的动作戏，会有很多爱和动情时刻，也会展现更黑暗的一面。《黑寡妇》目前已在北美开启预售，影片将于7月9日在美国上映，同步登陆流媒体。国内档期未定。\n 阅读全文",
+          "link": "https://hot.cnbeta.com/articles/movie/1140205.htm",
+          "publishedOn": "2021-06-13T17:23:47.000Z",
+          "wordCount": 197,
+          "title": "《黑寡妇》全新电视广告 大量新镜头亮相"
+        },
+        {
+          "id": "https://hot.cnbeta.com/articles/game/1140203.htm",
+          "author": "ugmbbc",
+          "description": "今日（6月14日），在E3 2021上B社公布了科幻RPG大作《星空》的首支预告，B社新作《星空》（Starfield）将于2022年11月11日发售，登陆Xbox Series X|S和PC平台，发售首日加入Xbox Game Pass。\n 阅读全文",
+          "link": "https://hot.cnbeta.com/articles/game/1140203.htm",
+          "publishedOn": "2021-06-13T17:22:16.000Z",
+          "wordCount": 207,
+          "title": "E3：《星空》首曝预告 明年11月11日发售 首发XGP"
+        },
+        {
           "id": "https://www.cnbeta.com/articles/tech/1140201.htm",
           "author": "ugmbbc",
           "description": "家得宝是美国最大的进口商之一。然而，由于港口拥堵、集装箱短缺和新冠疫情导致发货放缓，该公司做出决定：是时候拥有自己的船了。该公司CEO泰德德克尔在接受采访时说：“我们有一艘完全属于我们的船，它会以100%专用于家得宝的方式来回往返。”这是该公司首次迈出这样的一步。\n 阅读全文",
