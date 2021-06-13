@@ -1532,6 +1532,78 @@
       "siteUrl": "https://www.cnbeta.com",
       "articles": [
         {
+          "id": "https://www.cnbeta.com/articles/tech/1140123.htm",
+          "author": "ugmbbc",
+          "description": "当前，手机中的各类App，已成为人们社交、购物甚至工作中必不可少的应用。但大部分App在启动的第一时间，使用者并不能直接进入应用主页，而是会先看到数秒第三方广告，一些广告还设置各种“套路”诱导使用者点击，让不少人反感。“新华视点”记者发现，这类广告不仅无法关闭，在其背后还存在着窃取用户隐私等问题。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1140123.htm",
+          "publishedOn": "2021-06-13T07:07:03.000Z",
+          "wordCount": 206,
+          "title": "新华社关注手机App开屏诱导点击套路用户 老年人最“受伤”"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1140121.htm",
+          "author": "ugmbbc",
+          "description": "据《日本经济新闻》网站6月12日报道，日本政府正计划对苹果和谷歌展开反垄断调查，以判断是否存在“阻碍公平竞争”的情况。目前，苹果和谷歌两家公司占据了日本智能手机操作系统90%以上的市场份额。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1140121.htm",
+          "publishedOn": "2021-06-13T07:05:33.000Z",
+          "wordCount": 196,
+          "title": "苹果谷歌市场份额超90% 日本将展开反垄断调查"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1140119.htm",
+          "author": "ugmbbc",
+          "description": "比特币将迎来重大升级，这也将使其更加灵活和更加隐匿。据外媒报道，日前，比特币四年来的首次升级已经获得了全球矿工的投票批准，升级名为Taproot。该升级一旦成功，不仅将大大提高比特币的交易隐私和效率，还将进一步释放智能合约的潜力。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1140119.htm",
+          "publishedOn": "2021-06-13T07:02:09.000Z",
+          "wordCount": 199,
+          "title": "比特币近年来最重要的Taproot升级已投票通过 交易更灵活更隐秘"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1140117.htm",
+          "author": "ugmbbc",
+          "description": "之前，很多用户对微信不能在多款手机登陆一个微信账号耿耿于怀，不过有博主发现，自己的微信登录界面出现了出现“作为副设备登录”的功能选项，疑似即将上线。从博主曝光的界面显示，该登录选项为“作为副设备登录”，点击之后会出现二维码，以及“请使用微信扫描二维码登录”的提示。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1140117.htm",
+          "publishedOn": "2021-06-13T06:56:55.000Z",
+          "wordCount": 195,
+          "title": "多终端一号共存来了？微信“副设备登录”界面曝光"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1140115.htm",
+          "author": "ugmbbc",
+          "description": "日前，长安福特官方正式发布了EVOS ST-Line车型。该车基于FNV智能互联全网架构打造，其亮点在于采用了跨界风格的车身造型。目前新车已经开始线上首订。据了解，长安福特EVOS最早于上海车展首发，此次发布的EVOS ST-Line可视为其运动版本。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1140115.htm",
+          "publishedOn": "2021-06-13T06:56:26.000Z",
+          "wordCount": 208,
+          "title": "福特EVOS ST-Line国产首发 内置1.1米超大“液晶电视”"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1140113.htm",
+          "author": "ugmbbc",
+          "description": "6月11日，二手消费电子产品交易和服务平台万物新生集团（爱回收品牌升级）在美国证券交易委员会（SEC）更新IPO招股书文件，信息显示，爱回收发行价区间为13-15美元/ADS，拟发行1623.3万股。同时，公司赋予承销商243.5万股ADS超额配售权，连同超额配售发行股数，其募资规模至多可达到2.8亿美元，估值区间约为34.5-39.8亿美元。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1140113.htm",
+          "publishedOn": "2021-06-13T06:51:54.000Z",
+          "wordCount": 218,
+          "title": "创始人IPO前夕疑似折价套现 万物新生集团前景如何？"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/science/1140111.htm",
+          "author": "ugmbbc",
+          "description": "软物质材料的制备、性能表征和光学应用研究已成为当前研究热点。蓝相液晶作为典型的软物质材料，介于各向同性态和胆甾相之间的相态具有不同的晶体对称性，从各向同性态开始降温，依次出现非晶态蓝相III (BPIII)，具有O2 (P4232)对称性的蓝相II (BPII)和具有O8 (I4132)对称性的蓝相I (BPI)。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/science/1140111.htm",
+          "publishedOn": "2021-06-13T06:49:13.000Z",
+          "wordCount": 220,
+          "title": "中科院理化所等在蓝相液晶光子晶体研究中取得进展"
+        },
+        {
+          "id": "https://hot.cnbeta.com/articles/game/1140109.htm",
+          "author": "ugmbbc",
+          "description": "知名游戏《绝地求生》开发商Krafton将于下周启动IPO，至少融资50亿美元。Krafton公司前身是中国玩家耳熟能详的“蓝洞”，2007年成立，该公司曾经再2013年发布了PC网游“TERA”而名声大噪，真正让其走上巅峰的产品，是2017年全球发布的《绝地求生》。\n 阅读全文",
+          "link": "https://hot.cnbeta.com/articles/game/1140109.htm",
+          "publishedOn": "2021-06-13T06:46:35.000Z",
+          "wordCount": 202,
+          "title": "《绝地求生》开发商Krafton下周IPO 腾讯为第二大股东"
+        },
+        {
           "id": "https://www.cnbeta.com/articles/science/1140107.htm",
           "author": "study875",
           "description": "近日发表在《英国皇家学会》的一篇论文中，强调了劳伦斯·利弗莫尔国家实验室（LLNL）的一项发现，即靠近地球表面的核武器爆炸所产生的杀伤力和覆盖范围方面的复杂情况。这项工作被刊登在该出版物的封面上。\n 阅读全文",
