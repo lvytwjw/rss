@@ -2,10 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://lvytwjw.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-13T08:07:04.474Z</updated>
+    <updated>2021-06-13T09:06:13.089Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://lvytwjw.github.io/rss/index.html"/>
     <link rel="self" href="https://lvytwjw.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Edge 92可以更容易地在Internet Explorer模式下加载网站]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1140153.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1140153.htm"/>
+        <updated>2021-06-13T08:12:09.000Z</updated>
+        <summary type="html"><![CDATA[微软将在明年6月15日彻底退役Windows 10上的Internet Explorer 11。新的Microsoft Edge明确成为未来的发展方向。对于需要兼容旧Web技术的用户而言，新Edge内置IE模式，可以打开需要IE的基于旧技术的顽固网站和Web应用。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[报告因芯片短缺 三星暂停Galaxy S21 FE的生产]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1140151.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1140151.htm"/>
+        <updated>2021-06-13T08:06:52.000Z</updated>
+        <summary type="html"><![CDATA[我们中的许多人一直在等待Galaxy S21 FE，因为这款手机本应使三星的高端Galaxy S21系列更容易被大众所接受。然而现在有一些坏消息传来，因为一份报告表明，在全球芯片短缺影响全球移动技术进展的背景下，三星已经暂停生产Galaxy S21 FE。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[一文搞懂USB PD3.1与PD3.0、PD2.0的最大区别是什么？]]></title>
         <id>https://www.cnbeta.com/articles/tech/1140149.htm</id>
@@ -53554,18 +53576,6 @@ Chore: rendering logic refactoring. Adopting functional paradigm.
 Thank you @tianheg, @onnyyonn]]></summary>
         <author>
             <name>Release notes from osmosfeed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Auto-Generated Social Media Images]]></title>
-        <id>https://css-tricks.com/?p=340136</id>
-        <link href="https://css-tricks.com/auto-generated-social-media-images/"/>
-        <updated>2021-05-14T20:34:49.000Z</updated>
-        <summary type="html"><![CDATA[I’ve been thinking about social media images again. You know, the images that (can) show up when you share a link in places like Twitter, Facebook, or iMessage. You’re essentially leaving money on the table without them, because they …
-The post Auto-Generated Social Media Images appeared first on CSS-Tricks.
-You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
         </author>
     </entry>
 </feed>
