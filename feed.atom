@@ -2,10 +2,43 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://lvytwjw.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-13T16:12:44.456Z</updated>
+    <updated>2021-06-13T17:22:07.890Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://lvytwjw.github.io/rss/index.html"/>
     <link rel="self" href="https://lvytwjw.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[全球航运混乱有多严重？家得宝承包了自己的集装箱船作为保障]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1140201.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1140201.htm"/>
+        <updated>2021-06-13T17:20:45.000Z</updated>
+        <summary type="html"><![CDATA[家得宝是美国最大的进口商之一。然而，由于港口拥堵、集装箱短缺和新冠疫情导致发货放缓，该公司做出决定：是时候拥有自己的船了。该公司CEO泰德德克尔在接受采访时说：“我们有一艘完全属于我们的船，它会以100%专用于家得宝的方式来回往返。”这是该公司首次迈出这样的一步。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[谁是鸿蒙最好的朋友？]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1140199.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1140199.htm"/>
+        <updated>2021-06-13T17:19:13.000Z</updated>
+        <summary type="html"><![CDATA[不到一周时间里升级用户数超过 1000 万、各个机构、企业纷纷支持华为……Harmony OS 2发布仅十几天就迎来了许多好消息。相关数据显示，目前已有超过1000家硬件厂商、300多家App服务商以及50万以上的开发者共同参与鸿蒙生态建设。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CallKit回归？有iOS用户称可在手机主界面接微信电话]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1140197.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1140197.htm"/>
+        <updated>2021-06-13T17:17:25.000Z</updated>
+        <summary type="html"><![CDATA[许多iOS用户近日在不同平台表示微信语音通话可以在iPhone系统主界面接听了，意思是可以像接电话一样接微信电话了，而不用进入到微信里接听。为了测试该功能，新浪科技在iOS 14.6版本的iPhone上利用最新的8.0.7版本微信进行测试，并没有发现这些用户所声称的CallKit功能。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[B站首个播放量破亿的视频诞生 你看过吗？]]></title>
         <id>https://hot.cnbeta.com/articles/movie/1140195.htm</id>

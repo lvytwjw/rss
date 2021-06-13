@@ -1523,6 +1523,33 @@
       "siteUrl": "https://www.cnbeta.com",
       "articles": [
         {
+          "id": "https://www.cnbeta.com/articles/tech/1140201.htm",
+          "author": "ugmbbc",
+          "description": "家得宝是美国最大的进口商之一。然而，由于港口拥堵、集装箱短缺和新冠疫情导致发货放缓，该公司做出决定：是时候拥有自己的船了。该公司CEO泰德德克尔在接受采访时说：“我们有一艘完全属于我们的船，它会以100%专用于家得宝的方式来回往返。”这是该公司首次迈出这样的一步。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1140201.htm",
+          "publishedOn": "2021-06-13T17:20:45.000Z",
+          "wordCount": 198,
+          "title": "全球航运混乱有多严重？家得宝承包了自己的集装箱船作为保障"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1140199.htm",
+          "author": "ugmbbc",
+          "description": "不到一周时间里升级用户数超过 1000 万、各个机构、企业纷纷支持华为……Harmony OS 2发布仅十几天就迎来了许多好消息。相关数据显示，目前已有超过1000家硬件厂商、300多家App服务商以及50万以上的开发者共同参与鸿蒙生态建设。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1140199.htm",
+          "publishedOn": "2021-06-13T17:19:13.000Z",
+          "wordCount": 223,
+          "title": "谁是鸿蒙最好的朋友？"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1140197.htm",
+          "author": "ugmbbc",
+          "description": "许多iOS用户近日在不同平台表示微信语音通话可以在iPhone系统主界面接听了，意思是可以像接电话一样接微信电话了，而不用进入到微信里接听。为了测试该功能，新浪科技在iOS 14.6版本的iPhone上利用最新的8.0.7版本微信进行测试，并没有发现这些用户所声称的CallKit功能。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1140197.htm",
+          "publishedOn": "2021-06-13T17:17:25.000Z",
+          "wordCount": 198,
+          "title": "CallKit回归？有iOS用户称可在手机主界面接微信电话"
+        },
+        {
           "id": "https://hot.cnbeta.com/articles/movie/1140195.htm",
           "author": "ugmbbc",
           "description": "6月13日，B站官方宣布，该网站首个播放量破亿视频诞生。同时猛男舞团IconX通过B站官方账号发文庆祝了1亿播放量纪录，并向大家表示了感谢。该视频名称为《【猛男版】新宝岛》，于2019年5月28日在B站发布，至今已累计获得1.0亿播放、61.5万弹幕、360万点赞，155万投币，241万收藏、166万转发。\n 阅读全文",
