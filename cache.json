@@ -1523,6 +1523,42 @@
       "siteUrl": "https://www.cnbeta.com",
       "articles": [
         {
+          "id": "https://www.cnbeta.com/articles/tech/1140161.htm",
+          "author": "ugmbbc",
+          "description": "日前有报告指出，印度实际的新冠死亡人数可能比官方数字高出“5到7倍”。当地时间12日，印度卫生部驳斥称，该评估是“基于没有任何流行病学证据的数据推断”，同时称印度政府“在新冠数据管理方面一直是透明的”。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1140161.htm",
+          "publishedOn": "2021-06-13T09:38:37.000Z",
+          "wordCount": 194,
+          "title": "印度实际新冠死亡数比官方统计高5到7倍？官方否认"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1140159.htm",
+          "author": "ugmbbc",
+          "description": "在推特（Twitter）公司删除尼日利亚总统推文后，该国政府上周宣布“无期限”封禁推特，让后者在非洲市场遭遇重击。在印度，推特的日子也不好过，连月来一直在和莫迪政府的社交媒体新政“作斗争”，还被下了“最后通牒”。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1140159.htm",
+          "publishedOn": "2021-06-13T09:37:36.000Z",
+          "wordCount": 202,
+          "title": "尼日利亚不怕封禁推特 印度可能是下一个"
+        },
+        {
+          "id": "https://hot.cnbeta.com/articles/game/1140157.htm",
+          "author": "ugmbbc",
+          "description": "和去年一样，UploadVR在今年的E3展会期间举办了一场VR游戏的发布盛会“Upload VR Showcase 2021”，公开了20余款VR游戏的宣传片，这里为大家做一个汇总报道。\n 阅读全文",
+          "link": "https://hot.cnbeta.com/articles/game/1140157.htm",
+          "publishedOn": "2021-06-13T09:36:06.000Z",
+          "wordCount": 485,
+          "title": "E3：Upload VR Showcase 2021汇总 《狙击精英VR》等演示释出"
+        },
+        {
+          "id": "https://hot.cnbeta.com/articles/game/1140155.htm",
+          "author": "ugmbbc",
+          "description": "国产独立动作游戏《动物派对》于今日（6月13日）发表推文，暗示将在6月14日凌晨E3的Xbox发布会上亮相，而且根据官方公开的动图内容，游戏很可能会登陆Xbox Series X平台。\n 阅读全文",
+          "link": "https://hot.cnbeta.com/articles/game/1140155.htm",
+          "publishedOn": "2021-06-13T09:33:38.000Z",
+          "wordCount": 199,
+          "title": "E3：国产游戏《动物派对》暗示将亮相Xbox发布会"
+        },
+        {
           "id": "https://www.cnbeta.com/articles/tech/1140153.htm",
           "author": "ugmbbc",
           "description": "微软将在明年6月15日彻底退役Windows 10上的Internet Explorer 11。新的Microsoft Edge明确成为未来的发展方向。对于需要兼容旧Web技术的用户而言，新Edge内置IE模式，可以打开需要IE的基于旧技术的顽固网站和Web应用。\n 阅读全文",
