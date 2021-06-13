@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://lvytwjw.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-13T13:19:14.592Z</updated>
+    <updated>2021-06-13T14:05:54.545Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://lvytwjw.github.io/rss/index.html"/>
     <link rel="self" href="https://lvytwjw.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[世界需要新的工具来遏制防止植物大流行病传播对粮食安全的威胁]]></title>
+        <id>https://www.cnbeta.com/articles/science/1140191.htm</id>
+        <link href="https://www.cnbeta.com/articles/science/1140191.htm"/>
+        <updated>2021-06-13T13:20:24.000Z</updated>
+        <summary type="html"><![CDATA[植物病害不会在国境线上停留，相隔几千公里的海洋也不会阻止其传播。一个研究小组在《美国国家科学院院刊》上发表的一篇新评论中说，这就是为什么植物疾病监测、改进的检测系统和全球预测性疾病模型对于缓解未来疾病爆发和保护全球食品供应是必要的。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[张文宏：病毒传播速度越来越快 疫苗对变异株保护作用渐清晰]]></title>
         <id>https://www.cnbeta.com/articles/tech/1140189.htm</id>
