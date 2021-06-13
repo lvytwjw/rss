@@ -1532,6 +1532,114 @@
       "siteUrl": "https://www.cnbeta.com",
       "articles": [
         {
+          "id": "https://www.cnbeta.com/articles/tech/1140149.htm",
+          "author": "ugmbbc",
+          "description": "近日，USB-IF协会发布了最新的USB PD3.1快充标准，充电功率从原有的100W提升至240W，并支持最大48V的电压输出，一时间在行业获得广泛关注并引发热议。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1140149.htm",
+          "publishedOn": "2021-06-13T08:03:34.000Z",
+          "wordCount": 251,
+          "title": "一文搞懂USB PD3.1与PD3.0、PD2.0的最大区别是什么？"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/science/1140145.htm",
+          "author": "ugmbbc",
+          "description": "近日，南京大学王发印教授团队联合云南大学西南天文研究所王海峰博士利用美国凌星系外行星巡天望远镜TESS和我国重大科技基础设施LAMOST的数据对恒星超级耀斑进行了研究，他们利用恒星的光度变化以及光谱信息揭示了恒星超级耀斑的活动规律，为进一步研究超级耀斑的物理机制提供了数据支撑。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/science/1140145.htm",
+          "publishedOn": "2021-06-13T08:00:05.000Z",
+          "wordCount": 198,
+          "title": "科研人员基于LAMOST和TESS数据揭示超级耀斑活动规律"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1140143.htm",
+          "author": "ugmbbc",
+          "description": "此前，在亚布力中国企业家论坛“中国商业心灵”活动中，比亚迪董事长兼总裁王传福就新能源汽车行业发展进行了分享，并以小米科技创始人雷军造车进行了举例，而这一举例却被媒体误读了。据媒体报道，日前，比亚迪董事长王传福在2021中国汽车重庆论坛上表示，劝雷军别造车是误读，正和小米洽在汽车领域洽谈合作。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1140143.htm",
+          "publishedOn": "2021-06-13T07:58:47.000Z",
+          "wordCount": 199,
+          "title": "王传福：劝雷军别造车是误读 正和小米洽谈造车合作"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1140141.htm",
+          "author": "ugmbbc",
+          "description": "美国西部正在遭遇有史以来最严重的干旱天气。根据美国国家气象局最新数据，截至当地时间6月8日，美国西部有28.11%的地区为极度干旱，26.77%的地区甚至属于极端干旱，受影响人口超过5838万。愈发炎热的气候正在威胁当地水资源的供应，部分州已经开始实施限水措施。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1140141.htm",
+          "publishedOn": "2021-06-13T07:58:04.000Z",
+          "wordCount": 199,
+          "title": "极端干旱天气侵袭美国 多地宣布进入“缺水紧急状态”"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/science/1140139.htm",
+          "author": "ugmbbc",
+          "description": "在一项新的研究中，由维也纳大学的Sebastian Stumpf领导的一个国际团队描述了一个古代鲨鱼的化石骨架，它被归入一个新的、以前未知的属种。这一罕见的化石发现来自英格兰的金梅里奇粘土层，这是一系列沉积岩，在大约1.5亿年前的上侏罗纪时期，在一个浅水的热带-亚热带海域形成。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/science/1140139.htm",
+          "publishedOn": "2021-06-13T07:54:52.000Z",
+          "wordCount": 206,
+          "title": "远古鲨鱼的新品种Durnonovariaodus Maiseyi被发现"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1140137.htm",
+          "author": "ugmbbc",
+          "description": "和英特尔的做法差不多，AMD也一直在研究自己的混合处理器架构，其中包括大核和小核。我们去年从一个泄露的专利中曾了解到这一点。今天我们有了关于这一发展的新信息，Twitter用户@Kepler_L2发现了AMD几天前发布的与big.LITTLE有关的一项新专利。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1140137.htm",
+          "publishedOn": "2021-06-13T07:45:44.000Z",
+          "wordCount": 210,
+          "title": "AMD big.LITTLE CPU架构的更多工作原理细节泄漏"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1140135.htm",
+          "author": "ugmbbc",
+          "description": "AMD的第二代RDNA架构（RDNA 2）尽管与RDNA采用相同的7纳米节点，但由于其能够实现的性能和电源效率的提升而受到业内评论人士的普遍赞扬。然而，这仅仅是AMD第一次以硬件加速形式实施光线追踪（RT），但这一代与NVIDIA的RT功能相比，其结果远没有那么令人印象深刻。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1140135.htm",
+          "publishedOn": "2021-06-13T07:43:33.000Z",
+          "wordCount": 224,
+          "title": "传闻AMD的下一代RDNA 3架构性能跃升相当疯狂"
+        },
+        {
+          "id": "https://hot.cnbeta.com/articles/game/1140133.htm",
+          "author": "ugmbbc",
+          "description": "随着E3的热度不断上升，曝料、泄露等信息接踵而至，有些是谣言，有些则被证实。之前在Reddit论坛上就有人透露E3展部分游戏名单，如今Xbox E3发布会临近，知名记者Jeff Grubb也按耐不住性子发推称Xbox这些游戏不会发布，并列出一份名单：\n 阅读全文",
+          "link": "https://hot.cnbeta.com/articles/game/1140133.htm",
+          "publishedOn": "2021-06-13T07:31:45.000Z",
+          "wordCount": 207,
+          "title": "知名记者Jeff Grubb发推：这些游戏不会在E3上发布"
+        },
+        {
+          "id": "https://hot.cnbeta.com/articles/funny/1140131.htm",
+          "author": "ugmbbc",
+          "description": "智能汽车已经成为了当今汽车工业发展的潮流和趋势，大家都希望通过智能汽车获得更加舒适的出行体验。就目前来说，不少智能汽车支持通过手机或其他设备进行一定限度的远程遥控。近日，有程序员小哥通过手机操控自己的特斯拉汽车实现规避停车费的操作引起了网友们的热议。\n 阅读全文",
+          "link": "https://hot.cnbeta.com/articles/funny/1140131.htm",
+          "publishedOn": "2021-06-13T07:30:58.000Z",
+          "wordCount": 200,
+          "title": "实现停车永久免费？程序员远程操控特斯拉换停车位"
+        },
+        {
+          "id": "https://hot.cnbeta.com/articles/game/1140129.htm",
+          "author": "ugmbbc",
+          "description": "Take-Two Interactive将于北京时间6月15日凌晨1点45分举办E3 2021发布会。很多玩家听到这个消息可能已经感觉《侠盗猎车6》的曙光就在眼前了。然而，该公司并不打算趁此机会公布《侠盗猎车6》，就连《生化奇兵4》也不会有。\n 阅读全文",
+          "link": "https://hot.cnbeta.com/articles/game/1140129.htm",
+          "publishedOn": "2021-06-13T07:22:35.000Z",
+          "wordCount": 204,
+          "title": "E3：T2发布会没有《侠盗猎车6》和《生化奇兵4》"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1140127.htm",
+          "author": "ugmbbc",
+          "description": "据日本共同社报道，关于旨在向东京奥运会和残奥会参赛国家和地区表达对东日本大地震支援的谢意的“感谢重建Host Town”，12日采访各地方政府透露，做了登记并计划邀请运动员在赛后进行交流的岩手、宫城、福岛三县的23个市町村中，除1个市之外，其他的均取消了计划，或者尚无实施计划。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1140127.htm",
+          "publishedOn": "2021-06-13T07:19:32.000Z",
+          "wordCount": 197,
+          "title": "日媒：3·11东日本大地震灾区三县难以接待奥运选手"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1140125.htm",
+          "author": "ugmbbc",
+          "description": "欧洲药品管理局（EMA）检测到阿斯利康（AZN.US）新冠疫苗接种后有概率出现一种新的罕见副作用，称为毛细血管渗漏综合征（CLS）。根据EMA的声明，毛细血管渗漏综合征是一种严重的疾病，它会导致液体从毛细血管渗漏，引起低血压，主要出现在接种疫苗4天内的女性身上。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1140125.htm",
+          "publishedOn": "2021-06-13T07:16:01.000Z",
+          "wordCount": 197,
+          "title": "EMA发现阿斯利康新冠疫苗又一副作用 CLS患者不应接种该疫苗"
+        },
+        {
           "id": "https://www.cnbeta.com/articles/tech/1140123.htm",
           "author": "ugmbbc",
           "description": "当前，手机中的各类App，已成为人们社交、购物甚至工作中必不可少的应用。但大部分App在启动的第一时间，使用者并不能直接进入应用主页，而是会先看到数秒第三方广告，一些广告还设置各种“套路”诱导使用者点击，让不少人反感。“新华视点”记者发现，这类广告不仅无法关闭，在其背后还存在着窃取用户隐私等问题。\n 阅读全文",
@@ -2367,6 +2475,15 @@
           "publishedOn": "2021-06-12T09:42:50.000Z",
           "wordCount": 203,
           "title": "桌面版Google Chrome的新PWA安装界面首次出现"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1139937.htm",
+          "author": "ugmbbc",
+          "description": "6月12日，京东超市“618扫货党”活动，好物低至5折，可领百亿购物金，跨店每满200减30、每满1000减60，部分商品叠券满139减100、满199减100、满239减120。最后一天，错过再无！\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1139937.htm",
+          "publishedOn": "2021-06-12T09:25:01.000Z",
+          "wordCount": 203,
+          "title": "京东超市5折狂促 涵盖食品生鲜、日用百货、母婴用品等多各种品类"
         },
         {
           "id": "https://www.cnbeta.com/articles/tech/1139935.htm",

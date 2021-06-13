@@ -2,10 +2,142 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://lvytwjw.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-13T07:10:00.532Z</updated>
+    <updated>2021-06-13T08:07:04.474Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://lvytwjw.github.io/rss/index.html"/>
     <link rel="self" href="https://lvytwjw.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[一文搞懂USB PD3.1与PD3.0、PD2.0的最大区别是什么？]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1140149.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1140149.htm"/>
+        <updated>2021-06-13T08:03:34.000Z</updated>
+        <summary type="html"><![CDATA[近日，USB-IF协会发布了最新的USB PD3.1快充标准，充电功率从原有的100W提升至240W，并支持最大48V的电压输出，一时间在行业获得广泛关注并引发热议。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[科研人员基于LAMOST和TESS数据揭示超级耀斑活动规律]]></title>
+        <id>https://www.cnbeta.com/articles/science/1140145.htm</id>
+        <link href="https://www.cnbeta.com/articles/science/1140145.htm"/>
+        <updated>2021-06-13T08:00:05.000Z</updated>
+        <summary type="html"><![CDATA[近日，南京大学王发印教授团队联合云南大学西南天文研究所王海峰博士利用美国凌星系外行星巡天望远镜TESS和我国重大科技基础设施LAMOST的数据对恒星超级耀斑进行了研究，他们利用恒星的光度变化以及光谱信息揭示了恒星超级耀斑的活动规律，为进一步研究超级耀斑的物理机制提供了数据支撑。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[王传福：劝雷军别造车是误读 正和小米洽谈造车合作]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1140143.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1140143.htm"/>
+        <updated>2021-06-13T07:58:47.000Z</updated>
+        <summary type="html"><![CDATA[此前，在亚布力中国企业家论坛“中国商业心灵”活动中，比亚迪董事长兼总裁王传福就新能源汽车行业发展进行了分享，并以小米科技创始人雷军造车进行了举例，而这一举例却被媒体误读了。据媒体报道，日前，比亚迪董事长王传福在2021中国汽车重庆论坛上表示，劝雷军别造车是误读，正和小米洽在汽车领域洽谈合作。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[极端干旱天气侵袭美国 多地宣布进入“缺水紧急状态”]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1140141.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1140141.htm"/>
+        <updated>2021-06-13T07:58:04.000Z</updated>
+        <summary type="html"><![CDATA[美国西部正在遭遇有史以来最严重的干旱天气。根据美国国家气象局最新数据，截至当地时间6月8日，美国西部有28.11%的地区为极度干旱，26.77%的地区甚至属于极端干旱，受影响人口超过5838万。愈发炎热的气候正在威胁当地水资源的供应，部分州已经开始实施限水措施。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[远古鲨鱼的新品种Durnonovariaodus Maiseyi被发现]]></title>
+        <id>https://www.cnbeta.com/articles/science/1140139.htm</id>
+        <link href="https://www.cnbeta.com/articles/science/1140139.htm"/>
+        <updated>2021-06-13T07:54:52.000Z</updated>
+        <summary type="html"><![CDATA[在一项新的研究中，由维也纳大学的Sebastian Stumpf领导的一个国际团队描述了一个古代鲨鱼的化石骨架，它被归入一个新的、以前未知的属种。这一罕见的化石发现来自英格兰的金梅里奇粘土层，这是一系列沉积岩，在大约1.5亿年前的上侏罗纪时期，在一个浅水的热带-亚热带海域形成。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AMD big.LITTLE CPU架构的更多工作原理细节泄漏]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1140137.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1140137.htm"/>
+        <updated>2021-06-13T07:45:44.000Z</updated>
+        <summary type="html"><![CDATA[和英特尔的做法差不多，AMD也一直在研究自己的混合处理器架构，其中包括大核和小核。我们去年从一个泄露的专利中曾了解到这一点。今天我们有了关于这一发展的新信息，Twitter用户@Kepler_L2发现了AMD几天前发布的与big.LITTLE有关的一项新专利。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[传闻AMD的下一代RDNA 3架构性能跃升相当疯狂]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1140135.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1140135.htm"/>
+        <updated>2021-06-13T07:43:33.000Z</updated>
+        <summary type="html"><![CDATA[AMD的第二代RDNA架构（RDNA 2）尽管与RDNA采用相同的7纳米节点，但由于其能够实现的性能和电源效率的提升而受到业内评论人士的普遍赞扬。然而，这仅仅是AMD第一次以硬件加速形式实施光线追踪（RT），但这一代与NVIDIA的RT功能相比，其结果远没有那么令人印象深刻。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[知名记者Jeff Grubb发推：这些游戏不会在E3上发布]]></title>
+        <id>https://hot.cnbeta.com/articles/game/1140133.htm</id>
+        <link href="https://hot.cnbeta.com/articles/game/1140133.htm"/>
+        <updated>2021-06-13T07:31:45.000Z</updated>
+        <summary type="html"><![CDATA[随着E3的热度不断上升，曝料、泄露等信息接踵而至，有些是谣言，有些则被证实。之前在Reddit论坛上就有人透露E3展部分游戏名单，如今Xbox E3发布会临近，知名记者Jeff Grubb也按耐不住性子发推称Xbox这些游戏不会发布，并列出一份名单：
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[实现停车永久免费？程序员远程操控特斯拉换停车位]]></title>
+        <id>https://hot.cnbeta.com/articles/funny/1140131.htm</id>
+        <link href="https://hot.cnbeta.com/articles/funny/1140131.htm"/>
+        <updated>2021-06-13T07:30:58.000Z</updated>
+        <summary type="html"><![CDATA[智能汽车已经成为了当今汽车工业发展的潮流和趋势，大家都希望通过智能汽车获得更加舒适的出行体验。就目前来说，不少智能汽车支持通过手机或其他设备进行一定限度的远程遥控。近日，有程序员小哥通过手机操控自己的特斯拉汽车实现规避停车费的操作引起了网友们的热议。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[E3：T2发布会没有《侠盗猎车6》和《生化奇兵4》]]></title>
+        <id>https://hot.cnbeta.com/articles/game/1140129.htm</id>
+        <link href="https://hot.cnbeta.com/articles/game/1140129.htm"/>
+        <updated>2021-06-13T07:22:35.000Z</updated>
+        <summary type="html"><![CDATA[Take-Two Interactive将于北京时间6月15日凌晨1点45分举办E3 2021发布会。很多玩家听到这个消息可能已经感觉《侠盗猎车6》的曙光就在眼前了。然而，该公司并不打算趁此机会公布《侠盗猎车6》，就连《生化奇兵4》也不会有。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[日媒：3·11东日本大地震灾区三县难以接待奥运选手]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1140127.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1140127.htm"/>
+        <updated>2021-06-13T07:19:32.000Z</updated>
+        <summary type="html"><![CDATA[据日本共同社报道，关于旨在向东京奥运会和残奥会参赛国家和地区表达对东日本大地震支援的谢意的“感谢重建Host Town”，12日采访各地方政府透露，做了登记并计划邀请运动员在赛后进行交流的岩手、宫城、福岛三县的23个市町村中，除1个市之外，其他的均取消了计划，或者尚无实施计划。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[EMA发现阿斯利康新冠疫苗又一副作用 CLS患者不应接种该疫苗]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1140125.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1140125.htm"/>
+        <updated>2021-06-13T07:16:01.000Z</updated>
+        <summary type="html"><![CDATA[欧洲药品管理局（EMA）检测到阿斯利康（AZN.US）新冠疫苗接种后有概率出现一种新的罕见副作用，称为毛细血管渗漏综合征（CLS）。根据EMA的声明，毛细血管渗漏综合征是一种严重的疾病，它会导致液体从毛细血管渗漏，引起低血压，主要出现在接种疫苗4天内的女性身上。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[新华社关注手机App开屏诱导点击套路用户 老年人最“受伤”]]></title>
         <id>https://www.cnbeta.com/articles/tech/1140123.htm</id>
@@ -1024,6 +1156,17 @@
         <link href="https://www.cnbeta.com/articles/tech/1139939.htm"/>
         <updated>2021-06-12T09:42:50.000Z</updated>
         <summary type="html"><![CDATA[桌面上的Chrome浏览器可能很快就会取代目前的安装对话框，当你在Omnibox中点击PWA应用程序的图标时，会出现一个截图和描述。Google已经为Android上的Chrome做了这件事。希望使PWA的安装与Android和Windows上的本地应用体验一致。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[京东超市5折狂促 涵盖食品生鲜、日用百货、母婴用品等多各种品类]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1139937.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1139937.htm"/>
+        <updated>2021-06-12T09:25:01.000Z</updated>
+        <summary type="html"><![CDATA[6月12日，京东超市“618扫货党”活动，好物低至5折，可领百亿购物金，跨店每满200减30、每满1000减60，部分商品叠券满139减100、满199减100、满239减120。最后一天，错过再无！
  阅读全文]]></summary>
         <author>
             <name>ugmbbc</name>
