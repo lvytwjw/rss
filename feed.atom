@@ -2,10 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://lvytwjw.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-13T14:05:54.545Z</updated>
+    <updated>2021-06-13T15:06:32.260Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://lvytwjw.github.io/rss/index.html"/>
     <link rel="self" href="https://lvytwjw.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[B站首个播放量破亿的视频诞生 你看过吗？]]></title>
+        <id>https://hot.cnbeta.com/articles/movie/1140195.htm</id>
+        <link href="https://hot.cnbeta.com/articles/movie/1140195.htm"/>
+        <updated>2021-06-13T14:29:59.000Z</updated>
+        <summary type="html"><![CDATA[6月13日，B站官方宣布，该网站首个播放量破亿视频诞生。同时猛男舞团IconX通过B站官方账号发文庆祝了1亿播放量纪录，并向大家表示了感谢。该视频名称为《【猛男版】新宝岛》，于2019年5月28日在B站发布，至今已累计获得1.0亿播放、61.5万弹幕、360万点赞，155万投币，241万收藏、166万转发。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[欧洲药管局官员: 应暂停对60岁以上人员使用阿斯利康疫苗]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1140193.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1140193.htm"/>
+        <updated>2021-06-13T14:29:02.000Z</updated>
+        <summary type="html"><![CDATA[欧洲药管局新冠疫情任务小组负责人马可·卡瓦莱里13日在接受意大利《新闻报》采访时表示，除年轻人群之外，各国还应避免对60岁以上人员使用阿斯利康新冠疫苗。欧洲药管局此前曾表示，阿斯利康疫苗是安全的，可供18岁以上所有人使用。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[世界需要新的工具来遏制防止植物大流行病传播对粮食安全的威胁]]></title>
         <id>https://www.cnbeta.com/articles/science/1140191.htm</id>
