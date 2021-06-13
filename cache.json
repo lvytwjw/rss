@@ -1523,6 +1523,42 @@
       "siteUrl": "https://www.cnbeta.com",
       "articles": [
         {
+          "id": "https://www.cnbeta.com/articles/science/1140173.htm",
+          "author": "ugmbbc",
+          "description": "为了适应穴居和挖掘，哺乳动物们进行了哪些演化“操作”？来自中国科学院古脊椎动物与古人类研究所等单位的研究人员，报道了1.2亿年前的早白垩热河生物群的两个哺乳形动物新属新种，分别是产自九佛堂组的三列齿兽中国掘兽和义县组的真三尖齿兽陈氏掘齿兽。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/science/1140173.htm",
+          "publishedOn": "2021-06-13T11:36:50.000Z",
+          "wordCount": 191,
+          "title": "中科院专家证明1.2亿年前的动物独立进化出了“掘土穴居”的特征"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1140171.htm",
+          "author": "ugmbbc",
+          "description": "微软为Windows 10发布了一个计划外的更新，用于解决操作系统20H1、20H2和21H1版本中的0x80073D26和0x8007139F错误。KB5004327更新是针对那些在安装或打开Xbox Games Pass游戏时遇到问题的系统。任何受该问题影响的人在错误发生时都会被重定向到微软商店的游戏服务页面。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1140171.htm",
+          "publishedOn": "2021-06-13T11:32:53.000Z",
+          "wordCount": 220,
+          "title": "微软为Windows 10发布KB5004327计划外更新 修复多个版本中的报错问题"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1140169.htm",
+          "author": "ugmbbc",
+          "description": "十年前，只有集成显卡的开发任务需要完成的英特尔的开源Linux图形驱动工程师宣布不支持TTM，而是设计了图形执行管理器（GEM）来满足内核图形内存管理的需要，但现在英特尔开始推出独立显卡和专用显存存，这时候TTM内存管理的需求就显得迫切了起来。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1140169.htm",
+          "publishedOn": "2021-06-13T11:27:23.000Z",
+          "wordCount": 220,
+          "title": "Linux 5.14 即将为英特尔独立显卡启用图形TTM内存管理初始位"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1140167.htm",
+          "author": "ugmbbc",
+          "description": "标签组是Google Chrome浏览器最有用的UI创新之一，但Google在完善该功能所需的功能集方面进展相当缓慢。最新研发中的功能是保存关闭的标签的名称和组，使用户能够轻松找到并重新打开先前关闭的单个和整个标签组。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1140167.htm",
+          "publishedOn": "2021-06-13T11:21:16.000Z",
+          "wordCount": 216,
+          "title": "Google Chrome 历史板块终于开始支持为标签组添加子菜单"
+        },
+        {
           "id": "https://www.cnbeta.com/articles/tech/1140165.htm",
           "author": "ugmbbc",
           "description": "据报道，北京时间6月13日凌晨0:00，欧洲杯B组第一轮，丹麦对阵芬兰。半场结束前，丹麦球员埃里克森在无身体对抗的情况下突然倒地不起，瞬间人事不省。在埃里克森突然倒地后，医疗人员很快发现埃里克森出现了心脏停跳，他们立刻使用除颤器（AED）对其进行了心肺复苏。\n 阅读全文",
