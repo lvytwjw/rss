@@ -2,10 +2,111 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://lvytwjw.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-13T18:06:38.860Z</updated>
+    <updated>2021-06-13T19:08:06.792Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://lvytwjw.github.io/rss/index.html"/>
     <link rel="self" href="https://lvytwjw.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[E3 2021：《暗黑破坏神2：重制版》最新预告9月23日发售]]></title>
+        <id>https://hot.cnbeta.com/articles/game/1140229.htm</id>
+        <link href="https://hot.cnbeta.com/articles/game/1140229.htm"/>
+        <updated>2021-06-13T18:59:27.000Z</updated>
+        <summary type="html"><![CDATA[E3 2021正在火热举行中，在微软B社发布会上，公布了《暗黑破坏神2：重制版》最新预告，显示将于2021年9月23日登陆Xbox系以及PC平台发售，如无意外也将同时登陆其他主流平台，敬请期待。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[E3 2021：《光环：无限》新预告公布 多人游戏支持120帧]]></title>
+        <id>https://hot.cnbeta.com/articles/game/1140227.htm</id>
+        <link href="https://hot.cnbeta.com/articles/game/1140227.htm"/>
+        <updated>2021-06-13T18:58:49.000Z</updated>
+        <summary type="html"><![CDATA[《光环 无限》新宣传片和多人模式实机预告公开，本应该被删除的Cortana流程被中止，士官长临时更改了任务。本作将于今年底推出，包含战役模式和多人赛季第一季。多人模式可免费游玩，支持120帧。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[E3 2021：《战地2042》实机演示宣传片 火爆激烈画面升级]]></title>
+        <id>https://hot.cnbeta.com/articles/game/1140225.htm</id>
+        <link href="https://hot.cnbeta.com/articles/game/1140225.htm"/>
+        <updated>2021-06-13T18:57:35.000Z</updated>
+        <summary type="html"><![CDATA[E3 2021正在火热举行中，在微软发布会上公布了期待大作《战地2042》的最新实机演示宣传片，火爆激烈画面升级，一起欣赏下。《战地2042》将不会拥有单人游戏模式，玩家可以自定义武器、装备和载具，还能呼唤专为战争设计的机器狗，使用抓钩和翼装在不同的地形中穿行。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[E3 2021：《帝国时代4》首曝实机预告 10月28日发售]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1140223.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1140223.htm"/>
+        <updated>2021-06-13T18:56:49.000Z</updated>
+        <summary type="html"><![CDATA[在今日（6月14日）的E3 2021微软Xbox发布会上，经典RTS新作《帝国时代4》首次公布了游戏的实机预告，本作将于今年10月28日发售，登陆PC平台，首日加入XGP。
+《帝国时代4》实机预告：
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[E3 2021：《孤岛惊魂6》最新实机演示 10月7日发售]]></title>
+        <id>https://hot.cnbeta.com/articles/game/1140221.htm</id>
+        <link href="https://hot.cnbeta.com/articles/game/1140221.htm"/>
+        <updated>2021-06-13T18:55:33.000Z</updated>
+        <summary type="html"><![CDATA[E3 2021正在火热举行中，在微软B社发布会上，公布了《孤岛惊魂6》的最新实机演示，一起来欣赏下。《孤岛惊魂6》是一款开放世界第一人称射击游戏，玩家将被带入位于当代游击革命的心脏地带。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[E3 2021：《微软飞行模拟》7月27日登陆XSX/S平台]]></title>
+        <id>https://hot.cnbeta.com/articles/game/1140219.htm</id>
+        <link href="https://hot.cnbeta.com/articles/game/1140219.htm"/>
+        <updated>2021-06-13T18:54:57.000Z</updated>
+        <summary type="html"><![CDATA[微软在E3发布会直播活动上公布了自家最新模拟类力作《微软飞行模拟》的新计划。这款游戏在刚推出时只发行了PC版本，现在XSX/S次世代版将于今年7月27日推出，并可通过Xbox Game Pass在首日玩上。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[E3 2021：《极限竞速：地平线5》预告&实机演示 11月9日发售]]></title>
+        <id>https://hot.cnbeta.com/articles/game/1140217.htm</id>
+        <link href="https://hot.cnbeta.com/articles/game/1140217.htm"/>
+        <updated>2021-06-13T18:54:23.000Z</updated>
+        <summary type="html"><![CDATA[在今日（6月14日）的E3 2021微软Xbox发布会上，《极限竞速：地平线5》公布了首支预告以及Demo的实机演示，本作将于11月9日正式发售，并且首发加入XGP。
+《极限竞速：地平线5》预告：
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[诺斯罗普·格鲁曼公司确认为美国国家安全基金会成功发射载荷]]></title>
+        <id>https://www.cnbeta.com/articles/science/1140215.htm</id>
+        <link href="https://www.cnbeta.com/articles/science/1140215.htm"/>
+        <updated>2021-06-13T18:52:05.000Z</updated>
+        <summary type="html"><![CDATA[诺斯罗普·格鲁曼公司已确认于2021年6月13日成功发射了一枚“飞马座”火箭，将战术响应发射-2（TacRL-2）有效载荷送入USSF（美国太空部队）的轨道。该有效载荷使用诺斯罗普·格鲁曼“飞马座”XL火箭搭乘在飞机上，从范德堡航天部队基地起飞并发射。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apple Store本周将取消对已接种疫苗顾客的口罩要求]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1140213.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1140213.htm"/>
+        <updated>2021-06-13T18:44:15.000Z</updated>
+        <summary type="html"><![CDATA[据彭博社报道，苹果公司将不再强制要求接种疫苗的顾客在美国的零售店内戴口罩，与上个月相比，这是政策上的重大转变。预计将于周二生效的新变化将不再要求已经完全接种COVID-19疫苗的顾客在美国的Apple Store内戴口罩。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[欧空局初步确定Voyage 2050任务主题]]></title>
         <id>https://www.cnbeta.com/articles/science/1140211.htm</id>
