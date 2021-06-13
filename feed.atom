@@ -2,10 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://lvytwjw.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-13T10:07:06.657Z</updated>
+    <updated>2021-06-13T11:05:33.252Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://lvytwjw.github.io/rss/index.html"/>
     <link rel="self" href="https://lvytwjw.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[欧锦赛史上最恐怖10分钟：救醒埃里克森的“救命神器”火了]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1140165.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1140165.htm"/>
+        <updated>2021-06-13T10:15:27.000Z</updated>
+        <summary type="html"><![CDATA[据报道，北京时间6月13日凌晨0:00，欧洲杯B组第一轮，丹麦对阵芬兰。半场结束前，丹麦球员埃里克森在无身体对抗的情况下突然倒地不起，瞬间人事不省。在埃里克森突然倒地后，医疗人员很快发现埃里克森出现了心脏停跳，他们立刻使用除颤器（AED）对其进行了心肺复苏。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[用户抱怨Windows 10任务栏上的新闻和天气小部件做成了一个烂摊子]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1140163.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1140163.htm"/>
+        <updated>2021-06-13T10:12:12.000Z</updated>
+        <summary type="html"><![CDATA[今年早些时候，微软开始测试任务栏上的一项新功能，名为 "新闻和兴趣"。它基本上是一个基于微软MSN的小部件，用户可以瞥一眼任务栏上的Feed，根据他们的网络浏览活动获得个性化的内容，除了个性化的新闻源，还可以获得天气和交通的更新。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[印度实际新冠死亡数比官方统计高5到7倍？官方否认]]></title>
         <id>https://www.cnbeta.com/articles/tech/1140161.htm</id>

@@ -1523,6 +1523,24 @@
       "siteUrl": "https://www.cnbeta.com",
       "articles": [
         {
+          "id": "https://www.cnbeta.com/articles/tech/1140165.htm",
+          "author": "ugmbbc",
+          "description": "据报道，北京时间6月13日凌晨0:00，欧洲杯B组第一轮，丹麦对阵芬兰。半场结束前，丹麦球员埃里克森在无身体对抗的情况下突然倒地不起，瞬间人事不省。在埃里克森突然倒地后，医疗人员很快发现埃里克森出现了心脏停跳，他们立刻使用除颤器（AED）对其进行了心肺复苏。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1140165.htm",
+          "publishedOn": "2021-06-13T10:15:27.000Z",
+          "wordCount": 207,
+          "title": "欧锦赛史上最恐怖10分钟：救醒埃里克森的“救命神器”火了"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1140163.htm",
+          "author": "ugmbbc",
+          "description": "今年早些时候，微软开始测试任务栏上的一项新功能，名为 \"新闻和兴趣\"。它基本上是一个基于微软MSN的小部件，用户可以瞥一眼任务栏上的Feed，根据他们的网络浏览活动获得个性化的内容，除了个性化的新闻源，还可以获得天气和交通的更新。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1140163.htm",
+          "publishedOn": "2021-06-13T10:12:12.000Z",
+          "wordCount": 211,
+          "title": "用户抱怨Windows 10任务栏上的新闻和天气小部件做成了一个烂摊子"
+        },
+        {
           "id": "https://www.cnbeta.com/articles/tech/1140161.htm",
           "author": "ugmbbc",
           "description": "日前有报告指出，印度实际的新冠死亡人数可能比官方数字高出“5到7倍”。当地时间12日，印度卫生部驳斥称，该评估是“基于没有任何流行病学证据的数据推断”，同时称印度政府“在新冠数据管理方面一直是透明的”。\n 阅读全文",
