@@ -1523,6 +1523,78 @@
       "siteUrl": "https://www.cnbeta.com",
       "articles": [
         {
+          "id": "https://www.cnbeta.com/articles/science/1140317.htm",
+          "author": "teikaei",
+          "description": "据外媒报道，跟普遍的看法相反，并不是所有的行星都围绕恒星运行--有些行星自己在宇宙中自由漂移。这些寒冷、黑暗的世界并不适合孕育生命，但一项新研究表明，它们的卫星可能比看起来更适合居住。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/science/1140317.htm",
+          "publishedOn": "2021-06-14T02:31:28.000Z",
+          "wordCount": 189,
+          "title": "研究：“流浪行星”系外卫星可能存在水和生命"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/science/1140315.htm",
+          "author": "teikaei",
+          "description": "据外媒报道，细胞中含有一种机制，它能将DNA复制成一组新的DNA然后再进入一个新形成的细胞。这类被称为聚合酶的机器也可以构建RNA信息，这些信息就像从食谱中心DNA库复制的笔记，因此它们可以被更有效地解读为蛋白质。但聚合酶被认为只在DNA到DNA或RNA的一个方向上起作用。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/science/1140315.htm",
+          "publishedOn": "2021-06-14T02:22:19.000Z",
+          "wordCount": 195,
+          "title": "新发现表明人类细胞可将RNA序列写回DNA"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1140313.htm",
+          "author": "teikaei",
+          "description": "根据此前多方预测的消息，今年苹果将继续在9月推出全新的iPhone 13系列机型（也有消息称为iPhone 12s系列），按照往年惯例，今年的新iPhone的升级可能并不会太大，但依旧吸引了大家关注的目光。现在有最新消息，近日有外媒发布信息称，iPhone 13系列机型的认证信息已出现在欧亚经济委员会（EEC）数据库中。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1140313.htm",
+          "publishedOn": "2021-06-14T02:05:12.000Z",
+          "wordCount": 227,
+          "title": "iPhone 13系列7款新机已通过EEC认证：或继续9月亮相"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1140311.htm",
+          "author": "teikaei",
+          "description": "七国集团承诺以创造就业、投资基础设施、推动创新为手段，使任何地方的任何个体，无论年龄、种族或性别都不会被落下。当地时间6月13日下午，七国集团峰会英国康沃尔郡卡比斯湾落下帷幕。经过三天的对话和磋商，七国集团领导人宣布，在抗击疫情、重建经济、贸易改革、绿色转型等方面达成一定共识，并以峰会公报形式予以公布。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1140311.htm",
+          "publishedOn": "2021-06-14T02:03:58.000Z",
+          "wordCount": 193,
+          "title": "G7峰会落幕，公报首提经济转型确保“没人被落下”"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1140309.htm",
+          "author": "teikaei",
+          "description": "不久前，华为举办了备受瞩目的华为鸿蒙操作系统及华为全场景新品发布会，此次发布会的主角自然非HarmonyOS 2系统以及全新MatePad Pro平板电脑等新品莫属，同时在发布会的结尾，华为也给我们带来了命运多舛的全新华为P50系列旗舰的更多细节，让大家对这款旗舰究竟何时亮相越发期待。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1140309.htm",
+          "publishedOn": "2021-06-14T01:58:15.000Z",
+          "wordCount": 200,
+          "title": "消息称华为P50系列已确定发布时间：不会等特别久"
+        },
+        {
+          "id": "https://hot.cnbeta.com/articles/game/1140307.htm",
+          "author": "teikaei",
+          "description": "《战地2042》中文版实机预告片发布，抢先观看《战地2042》官方先锋测试游戏画面！本作将于10月23日发售。游戏支持128名玩家（注），带来了史无前例的全球规模广袤环境，玩家可以参与征服和突破等全面升级的多人模式，以及全新的危险地带等超大规模游戏体验。用战斗来定义因失序而面目全非的世界。\n 阅读全文",
+          "link": "https://hot.cnbeta.com/articles/game/1140307.htm",
+          "publishedOn": "2021-06-14T01:57:27.000Z",
+          "wordCount": 216,
+          "title": "E3 2021：《战地2042》中文版实机预告片"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1140305.htm",
+          "author": "ugmbbc",
+          "description": "人们必须等待很长时间才能获得手机和电脑的更新的日子已经过去了。即使是微软也已经转向更有规律和更短的节奏，即每年两次功能更新，中间有很多滚动更新。某些应用程序的软件更新甚至更加频繁，特别是网络浏览器，它们需要应对同样快速发展的漏洞和恶意软件。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1140305.htm",
+          "publishedOn": "2021-06-14T01:57:02.000Z",
+          "wordCount": 214,
+          "title": "Chromebook今后每月都有Chrome OS更新以保证安全"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/science/1140303.htm",
+          "author": "teikaei",
+          "description": "据外媒报道，据估计，阿舍利人早在20万年前就灭绝了，但新的发现表明，它可能持续了更长的时间且跟尼安德特人和早期现代人创造的更先进的技术重叠超过10万年。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/science/1140303.htm",
+          "publishedOn": "2021-06-14T01:55:10.000Z",
+          "wordCount": 214,
+          "title": "研究：尼安德特人和早期现代人类的文化与古老传统共存超10万年"
+        },
+        {
           "id": "https://hot.cnbeta.com/articles/game/1140301.htm",
           "author": "ugmbbc",
           "description": "国产独立游戏《动物派对》在今日（6月14日）凌晨的 Xbox&B社 发布会上亮相，公开了该作的主机版预告片。《动物派对》计划于2022年正式登陆Xbox One、Xbox Series X/S、Xbox云游戏平台，并且将在发售首日加入XGP阵容。\n 阅读全文",
