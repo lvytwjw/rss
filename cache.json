@@ -49,15 +49,6 @@
           "publishedOn": "2021-05-17T05:32:19.000Z",
           "wordCount": 340,
           "title": "v1.7.2"
-        },
-        {
-          "id": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.7.1",
-          "author": null,
-          "description": "Fixed: static files were unnecessarily copied for custom templates.",
-          "link": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.7.1",
-          "publishedOn": "2021-05-16T02:33:58.000Z",
-          "wordCount": 276,
-          "title": "v1.7.1"
         }
       ]
     },
@@ -1536,6 +1527,42 @@
       "feedUrl": "https://www.cnbeta.com/backend.php",
       "siteUrl": "https://www.cnbeta.com",
       "articles": [
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1140511.htm",
+          "author": "ugmbbc",
+          "description": "据报道，摩托罗拉公司将摩托罗拉RAZR 3的上市时间将被推迟到2022年，这让RAZR粉丝感到失望。早在去年11月我们就报道了摩托罗拉正在开发第三代RAZR手机。当时还公布了一些关于即将推出的可折叠手机的显示屏的细节。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1140511.htm",
+          "publishedOn": "2021-06-14T15:05:51.000Z",
+          "wordCount": 231,
+          "title": "摩托罗拉RAZR 3的上市时间将被推迟到2022年"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1140509.htm",
+          "author": "ugmbbc",
+          "description": "Galaxy S21系列是一个成功的产品，这一点毋庸置疑，但考虑到我们离2022年越来越近，关于Galaxy S22系列的传言已经四起。最新的传言指出，三星正在进一步加大该系列中三款设备之间的差异化因素。据最新线索表明，Galaxy S22 Ultra将是整个系列中唯一一款会使用“高级材料”的手机。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1140509.htm",
+          "publishedOn": "2021-06-14T14:46:13.000Z",
+          "wordCount": 228,
+          "title": "Galaxy S22 Ultra将成为三星S22系列中唯一采用高级材料的手机"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/science/1140507.htm",
+          "author": "ugmbbc",
+          "description": "美国国家航空航天局（NASA）太空发射系统（SLS）火箭的完全堆叠的双固体火箭助推器在该机构位于佛罗里达州的肯尼迪航天中心的移动发射塔上开始构建，这是NASA的Artemis I任务的堆叠和装配计划中的一部分。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/science/1140507.htm",
+          "publishedOn": "2021-06-14T14:39:58.000Z",
+          "wordCount": 196,
+          "title": "NASA开始组装大型月球火箭SLS的核心级"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1140505.htm",
+          "author": "ugmbbc",
+          "description": "6月14日晚，微信官方宣布城市服务中的“疫情专区”迎来更新，用户可点击“我-支付-城市服务-疫情专区”查看。官方介绍，微信城市服务“疫情专区”支持查看每天疫情数据动态，同时上线了病例活动轨迹地图，可查看附近的中高风险地区。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1140505.htm",
+          "publishedOn": "2021-06-14T14:34:38.000Z",
+          "wordCount": 196,
+          "title": "微信“疫情专区”更新：可随时查看病例活动轨迹地图"
+        },
         {
           "id": "https://www.cnbeta.com/articles/tech/1140503.htm",
           "author": "ugmbbc",
