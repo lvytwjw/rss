@@ -533,6 +533,20 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2021/06/css-javascript-requirements-accessible-components/",
+          "author": "hello@smashingmagazine.com (Stephanie Eckles)",
+          "description": "Spoiler alert: tooltips, modals, tabs, carousels, and dropdown menus are some of the user interface components that require more than CSS. To ensure accessibility of your interface, JavaScript is a necessary addition to accomplish focus management, respond to keyboard events, and toggle ARIA attributes.",
+          "link": "https://smashingmagazine.com/2021/06/css-javascript-requirements-accessible-components/",
+          "publishedOn": "2021-06-14T10:30:00.000Z",
+          "wordCount": 3439,
+          "title": "When CSS Isn’t Enough: JavaScript Requirements For Accessible Components",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/9982fa1e-806c-4343-9de1-eb804a48451e/css-javascript-requirements-accessible-components.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          }
+        },
+        {
           "id": "https://smashingmagazine.com/2021/06/web-design-done-well-audio/",
           "author": "hello@smashingmagazine.com (Frederick O’Brien)",
           "description": "Design often revolves around visuals, but the other senses deserve love too. In this article, we tune in to audio features that are making sites sing.",

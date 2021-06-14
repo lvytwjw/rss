@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://lvytwjw.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-14T10:07:37.498Z</updated>
+    <updated>2021-06-14T11:05:48.091Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://lvytwjw.github.io/rss/index.html"/>
     <link rel="self" href="https://lvytwjw.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[When CSS Isn’t Enough: JavaScript Requirements For Accessible Components]]></title>
+        <id>https://smashingmagazine.com/2021/06/css-javascript-requirements-accessible-components/</id>
+        <link href="https://smashingmagazine.com/2021/06/css-javascript-requirements-accessible-components/"/>
+        <updated>2021-06-14T10:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Spoiler alert: tooltips, modals, tabs, carousels, and dropdown menus are some of the user interface components that require more than CSS. To ensure accessibility of your interface, JavaScript is a necessary addition to accomplish focus management, respond to keyboard events, and toggle ARIA attributes.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Stephanie Eckles)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[遭遇来自俄罗斯的间谍与操纵威胁后 意大利宣布成立网络安全机构]]></title>
         <id>https://www.cnbeta.com/articles/tech/1140437.htm</id>
