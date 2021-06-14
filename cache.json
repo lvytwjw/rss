@@ -1523,6 +1523,60 @@
       "siteUrl": "https://www.cnbeta.com",
       "articles": [
         {
+          "id": "https://www.cnbeta.com/articles/tech/1140413.htm",
+          "author": "ugmbbc",
+          "description": "苹果公司停产的HomePod的库存在美国似乎终于卖完，截至周一上午，苹果在线商店的全尺寸HomePod的交付选项被列为 \"售罄\"，包括黑色和白色。直到最近，黑色型号在美国已经售罄，但白色都保持长时间有货，只是\"库存有限\"，但从今天起情况不再如此。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1140413.htm",
+          "publishedOn": "2021-06-14T07:46:47.000Z",
+          "wordCount": 200,
+          "title": "苹果美国在线商店的全尺寸HomePod已宣告售罄"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1140411.htm",
+          "author": "ugmbbc",
+          "description": "三星最近回应了一份市场报告，该报告称该公司已经暂停了一款名为Galaxy S21 FE的手机的生产。韩国出版物ETNews周末称，由于半导体短缺，这款未公布的手机的生产已经停止，高通处理器已被重新分配给即将在8月份发布的可折叠设备。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1140411.htm",
+          "publishedOn": "2021-06-14T07:39:20.000Z",
+          "wordCount": 238,
+          "title": "三星表示尚未决定是否停止Galaxy S21 FE的生产"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1140409.htm",
+          "author": "ugmbbc",
+          "description": "《卫报》报道，根据GCHQ的网络安全负责人的说法，勒索软件（Ransomware）是英国大多数人和组织的最大网络安全威胁。 国家网络安全中心首席执行官林迪·卡梅伦指出，黑客加密数据并要求支付款项恢复数据的问题正在升级，并变得更加专业化。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1140409.htm",
+          "publishedOn": "2021-06-14T07:36:45.000Z",
+          "wordCount": 194,
+          "title": "GCHQ负责人警告说勒索软件已上升成为英国的头号网络安全威胁"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1140407.htm",
+          "author": "ugmbbc",
+          "description": "三星Galaxy M32智能手机将于6月21日正式到货。印度亚马逊已经公布了这款手机的发布日期，页面还透露了这款定位于中端手机的一些关键规格--大电池、明亮的屏幕和四摄像头设置。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1140407.htm",
+          "publishedOn": "2021-06-14T07:27:35.000Z",
+          "wordCount": 225,
+          "title": "三星Galaxy M32将于6月21日上市 配备6000毫安时电池"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1140405.htm",
+          "author": "ugmbbc",
+          "description": "Arm宣布，从2023年起，其所有新智能手机CPU内核都将仅为64位，且没有32位兼容模式。2013年，苹果就在iPhone 5s中使用了64位A7处理器，我们开始拥有支持64位的智能手机处理器。不久之后，64位CPU同样出现在安卓手机中，不过所有这些CPU既能运行32位代码又能运行64位代码。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1140405.htm",
+          "publishedOn": "2021-06-14T07:17:29.000Z",
+          "wordCount": 292,
+          "title": "32位渐行渐远 对Android和苹果意味着什么？"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1140403.htm",
+          "author": "ugmbbc",
+          "description": "在今年早些时候，业界不少人士预测三星将于8月中旬左右举办Unpacked活动。届时三星将发布年度新品三星Galaxy Z Fold3、三星Galaxy Z Flip3、三星Galaxy S21 FE、三星Galaxy Watch4和三星Galaxy Watch Active4等。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1140403.htm",
+          "publishedOn": "2021-06-14T07:16:51.000Z",
+          "wordCount": 265,
+          "title": "三星Galaxy Z Fold3八月发布 配备屏下摄像头+骁龙888 Pro"
+        },
+        {
           "id": "https://www.cnbeta.com/articles/tech/1140401.htm",
           "author": "ugmbbc",
           "description": "一对美国前特种兵父子周一在东京一家法院承认他们非法帮助前日产汽车公司董事长卡洛斯·戈恩于2019年底躲在一个盒子里乘一架私人飞机逃离日本的指控。\n 阅读全文",

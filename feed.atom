@@ -2,10 +2,76 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://lvytwjw.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-14T07:12:26.744Z</updated>
+    <updated>2021-06-14T08:07:42.718Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://lvytwjw.github.io/rss/index.html"/>
     <link rel="self" href="https://lvytwjw.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[苹果美国在线商店的全尺寸HomePod已宣告售罄]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1140413.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1140413.htm"/>
+        <updated>2021-06-14T07:46:47.000Z</updated>
+        <summary type="html"><![CDATA[苹果公司停产的HomePod的库存在美国似乎终于卖完，截至周一上午，苹果在线商店的全尺寸HomePod的交付选项被列为 "售罄"，包括黑色和白色。直到最近，黑色型号在美国已经售罄，但白色都保持长时间有货，只是"库存有限"，但从今天起情况不再如此。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[三星表示尚未决定是否停止Galaxy S21 FE的生产]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1140411.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1140411.htm"/>
+        <updated>2021-06-14T07:39:20.000Z</updated>
+        <summary type="html"><![CDATA[三星最近回应了一份市场报告，该报告称该公司已经暂停了一款名为Galaxy S21 FE的手机的生产。韩国出版物ETNews周末称，由于半导体短缺，这款未公布的手机的生产已经停止，高通处理器已被重新分配给即将在8月份发布的可折叠设备。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GCHQ负责人警告说勒索软件已上升成为英国的头号网络安全威胁]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1140409.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1140409.htm"/>
+        <updated>2021-06-14T07:36:45.000Z</updated>
+        <summary type="html"><![CDATA[《卫报》报道，根据GCHQ的网络安全负责人的说法，勒索软件（Ransomware）是英国大多数人和组织的最大网络安全威胁。 国家网络安全中心首席执行官林迪·卡梅伦指出，黑客加密数据并要求支付款项恢复数据的问题正在升级，并变得更加专业化。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[三星Galaxy M32将于6月21日上市 配备6000毫安时电池]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1140407.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1140407.htm"/>
+        <updated>2021-06-14T07:27:35.000Z</updated>
+        <summary type="html"><![CDATA[三星Galaxy M32智能手机将于6月21日正式到货。印度亚马逊已经公布了这款手机的发布日期，页面还透露了这款定位于中端手机的一些关键规格--大电池、明亮的屏幕和四摄像头设置。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[32位渐行渐远 对Android和苹果意味着什么？]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1140405.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1140405.htm"/>
+        <updated>2021-06-14T07:17:29.000Z</updated>
+        <summary type="html"><![CDATA[Arm宣布，从2023年起，其所有新智能手机CPU内核都将仅为64位，且没有32位兼容模式。2013年，苹果就在iPhone 5s中使用了64位A7处理器，我们开始拥有支持64位的智能手机处理器。不久之后，64位CPU同样出现在安卓手机中，不过所有这些CPU既能运行32位代码又能运行64位代码。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[三星Galaxy Z Fold3八月发布 配备屏下摄像头+骁龙888 Pro]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1140403.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1140403.htm"/>
+        <updated>2021-06-14T07:16:51.000Z</updated>
+        <summary type="html"><![CDATA[在今年早些时候，业界不少人士预测三星将于8月中旬左右举办Unpacked活动。届时三星将发布年度新品三星Galaxy Z Fold3、三星Galaxy Z Flip3、三星Galaxy S21 FE、三星Galaxy Watch4和三星Galaxy Watch Active4等。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[协助戈恩逃离日本的美国雇佣兵父子认罪 面临最高三年监禁]]></title>
         <id>https://www.cnbeta.com/articles/tech/1140401.htm</id>
