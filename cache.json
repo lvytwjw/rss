@@ -58,6 +58,15 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=342229",
+          "author": "Chris Coyier",
+          "description": "Just a little link roundup of some off-site stuff I’ve done recently. As I’m wont to do from time to time. \nDevJourney Podcast\n#151 Chris Coyier from ceramics to CSS-Tricks and CodePen‘\nChris took us from playing on \n…\nThe post CSS-Tricks Chronicle XXXX appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/css-tricks-chronicle-xxxx/",
+          "publishedOn": "2021-06-14T18:20:17.000Z",
+          "wordCount": 730,
+          "title": "CSS-Tricks Chronicle XXXX"
+        },
+        {
           "id": "https://css-tricks.com/?p=342070",
           "author": "Khari McMillian",
           "description": "When you load a file from an external server, you’re trusting that the content you request is what you expect it to be. Since you don’t manage the server yourself, you’re relying on the security of yet another third party …\nThe post Securing Your Website With Subresource Integrity appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
@@ -873,6 +882,15 @@
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
         {
+          "id": "60c4b35ed3126007592d71bc",
+          "author": null,
+          "description": "Africa has over 2000 languages, but these languages are not well-represented in the existing Natural Language Processing ecosystem.  One challenge is the lack of useful African language datasets that we can use to solve different social and economic problems. In this article, I have compiled a list of African language",
+          "link": "https://www.freecodecamp.org/news/african-language-datasets-for-data-science-projects/",
+          "publishedOn": "2021-06-14T18:37:44.000Z",
+          "wordCount": 1599,
+          "title": "10 Best African Language Datasets for Data Science Projects"
+        },
+        {
           "id": "60b72d5facb62507dd1d777b",
           "author": null,
           "description": "If you're in the world of tech, you will inevitably run into a work-related disaster now and then. These setbacks come in many forms such as cyber-attacks, theft, leaks, and corruption. And every business must be ready to face these things and plan for them. Sir Benjamin Franklin famously said,",
@@ -1527,6 +1545,15 @@
       "feedUrl": "https://www.cnbeta.com/backend.php",
       "siteUrl": "https://www.cnbeta.com",
       "articles": [
+        {
+          "id": "https://www.cnbeta.com/articles/science/1140537.htm",
+          "author": "maomao",
+          "description": "悉尼大学的新研究发现，人类正在创造或加剧可能导致下一次传染病大流行的环境条件。悉尼兽医学院建模表明，生态系统压力、气候变化和经济发展是与病原体（致病因子，如病毒和细菌）多样化有关的关键因素。这有可能导致下一次传染疾病的暴发。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/science/1140537.htm",
+          "publishedOn": "2021-06-14T18:08:44.000Z",
+          "wordCount": 197,
+          "title": "研究认为人类正在创造可能导致下一次疾病大流行的条件"
+        },
         {
           "id": "https://www.cnbeta.com/articles/tech/1140535.htm",
           "author": "maomao",
