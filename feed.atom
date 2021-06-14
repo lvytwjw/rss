@@ -2,10 +2,76 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://lvytwjw.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-14T04:08:49.707Z</updated>
+    <updated>2021-06-14T05:11:43.956Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://lvytwjw.github.io/rss/index.html"/>
     <link rel="self" href="https://lvytwjw.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[研究：远程工作者工作时间虽更长，但效率变低]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1140367.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1140367.htm"/>
+        <updated>2021-06-14T04:49:44.000Z</updated>
+        <summary type="html"><![CDATA[据外媒报道，在一项新的研究发现远程工作降低了工作效率之后，员工们开始及时地回到办公室。根据最近的一份报告，这项研究调查了一家亚洲科技公司在2019年4月至2020年8月期间的1万名员工的远程工作习惯，结果发现产出下降了20%。
+ 阅读全文]]></summary>
+        <author>
+            <name>teikaei</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[这个新韩国女子组合有点特殊 - 由AI和深度伪造技术创建]]></title>
+        <id>https://hot.cnbeta.com/articles/music/1140365.htm</id>
+        <link href="https://hot.cnbeta.com/articles/music/1140365.htm"/>
+        <updated>2021-06-14T04:39:46.000Z</updated>
+        <summary type="html"><![CDATA[据外媒报道，韩国近日横空出世了一个非常特别的女子组合Eternity。为什么说它非常特别呢？--这个组合的成员实际上不是真实的人类。据悉，这个新行组合是人工智能图形公司Pulse 9的产品，其使用了深度伪造技术模拟出韩国流行明星的超现实图像。
+ 阅读全文]]></summary>
+        <author>
+            <name>teikaei</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[科学家开发新工具以协助氢动力汽车开发工作并提高效率]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1140363.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1140363.htm"/>
+        <updated>2021-06-14T04:26:27.000Z</updated>
+        <summary type="html"><![CDATA[据外媒报道，若想要氢动力汽车得到广泛采用需要用到燃料电池，这种电池可以将氢和氧安全地转化为水。现在，来自科罗拉多大学博尔德分校的研究人员正在开发新的计算工具和模型以便更好地理解和管理转换过程进而解决这一障碍的一个方面。
+ 阅读全文]]></summary>
+        <author>
+            <name>teikaei</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[梁建章谈教育的深度内卷：为什么应该普及大学通识教育？]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1140361.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1140361.htm"/>
+        <updated>2021-06-14T04:25:56.000Z</updated>
+        <summary type="html"><![CDATA[最近发布的第七次人口普查的数据，使得低生育率在中国进一步成为令人担忧的社会问题。年轻夫妇不愿意生小孩的最主要原因，就是教育的深度内卷——教育孩子实在太费力费钱了！
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[黑夜中回荡的嘈杂叫声带来了新物种的发现]]></title>
+        <id>https://www.cnbeta.com/articles/science/1140359.htm</id>
+        <link href="https://www.cnbeta.com/articles/science/1140359.htm"/>
+        <updated>2021-06-14T04:23:12.000Z</updated>
+        <summary type="html"><![CDATA[树蹄兔 - 一种小型食草哺乳动物的聒噪叫声在非洲西部和中部的森林中回荡，但它们的声音因地点不同而不同。生活在沃尔塔河和尼日尔河之间的树蹄兔发出一种吠叫声，与居住在非洲森林地带其他地区的树蹄兔发出的尖叫发声不同。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Plextor发布M10P系列PCIe 4.0 AIC和M.2 NVMe SSD]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1140357.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1140357.htm"/>
+        <updated>2021-06-14T04:14:19.000Z</updated>
+        <summary type="html"><![CDATA[Plextor宣布推出M10P系列PCIe Gen4固态硬盘（SSD）。M10P系列固态硬盘具有更快的速度、更高的容量和稳定性，采用了下一代PCIe，即Gen4规范，其读写速度可达7000/5000 MB/s，比上一代快约2倍，结合Plextor专有的PlexNitro II技术，使用SLC缓存机制作为缓冲器来提高读写速度。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[云南野象群最新活动范围被成功追踪 再次被拍到熟睡画面]]></title>
         <id>https://www.cnbeta.com/articles/tech/1140355.htm</id>
