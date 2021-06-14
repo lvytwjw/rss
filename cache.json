@@ -1523,6 +1523,132 @@
       "siteUrl": "https://www.cnbeta.com",
       "articles": [
         {
+          "id": "https://hot.cnbeta.com/articles/game/1140301.htm",
+          "author": "ugmbbc",
+          "description": "国产独立游戏《动物派对》在今日（6月14日）凌晨的 Xbox&B社 发布会上亮相，公开了该作的主机版预告片。《动物派对》计划于2022年正式登陆Xbox One、Xbox Series X/S、Xbox云游戏平台，并且将在发售首日加入XGP阵容。\n 阅读全文",
+          "link": "https://hot.cnbeta.com/articles/game/1140301.htm",
+          "publishedOn": "2021-06-14T01:49:45.000Z",
+          "wordCount": 209,
+          "title": "E3：国产独立游戏《动物派对》2022年登陆Xbox主机 首日加入XGP"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1140299.htm",
+          "author": "ugmbbc",
+          "description": "据两名知情人士透露，2018年2月，美国司法部通过法院向苹果发出传票，要求提供有关前总统唐纳德·特朗普(Donald J·Trump）时任白宫法律顾问唐纳德·F·麦加恩二世(Donald F·McGahn II)账户的信息，并禁止该公司向后者透露此事。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1140299.htm",
+          "publishedOn": "2021-06-14T01:46:23.000Z",
+          "wordCount": 216,
+          "title": "苹果传票事件发酵 被曝曾交出特朗普白宫法律顾问数据"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1140297.htm",
+          "author": "ugmbbc",
+          "description": "随着全球多地疫苗接种率提升，疫情形势趋于稳定，不少国家或地区正跃跃欲试，尝试向国际游客部分放开限制。当地时间6月8日，泰国巴育总理在每周内阁会议后表示，泰国内阁原则上同意普吉岛7月1日重新向外国游客开放的“沙盒计划”。普吉岛将成为泰国第一个正式恢复接待国际游客的旅游目的地。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1140297.htm",
+          "publishedOn": "2021-06-14T01:45:14.000Z",
+          "wordCount": 201,
+          "title": "全球打响游客争夺战 国际旅游今夏能否重启？"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/science/1140295.htm",
+          "author": "teikaei",
+          "description": "据外媒报道，博洛尼亚大学药学系和生物技术系的一个研究小组分析了100多万个SARS-CoV-2基因组序列。这一分析让他们得到了一种新变种的发现，在过去的几周里，它主要在墨西哥传播，但现在在欧洲也有发现。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/science/1140295.htm",
+          "publishedOn": "2021-06-14T01:44:38.000Z",
+          "wordCount": 198,
+          "title": "新型COVID-19“墨西哥变种”已确认开始在北美蔓延"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1140293.htm",
+          "author": "ugmbbc",
+          "description": "日本新冠疫苗接种再次被曝出现失误。综合日本媒体13日的报道，在东京，四位老人被接种了已决定报废的疫苗；在川崎市，近6400剂疫苗因保管不当报废。据TBS电视台报道，13日上午，在东京千代田区的一个新冠疫苗接种点，四位70多岁到80多岁的老人“被错误地接种了因保管不当而预定报废的疫苗”。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1140293.htm",
+          "publishedOn": "2021-06-14T01:44:12.000Z",
+          "wordCount": 198,
+          "title": "日本新冠疫苗接种频现失误 多位老人接种报废疫苗"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1140291.htm",
+          "author": "ugmbbc",
+          "description": "美国墨西哥风味连锁餐厅运营商Chipotle Mexican Grill上周宣布提价，以抵消美国“用工荒”下员工工资的上涨。现在，一些消费者还发现了一件奇怪的事情，他们在Chipotle得到的食品份量减少了。顾客们纷纷在社交媒体上晒出了自己的小份量卷饼，并用钞票、尺子和啤酒罐作为尺寸参考。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1140291.htm",
+          "publishedOn": "2021-06-14T01:41:38.000Z",
+          "wordCount": 199,
+          "title": "“缩水式通胀”：美快餐巨头不仅提价 还偷偷减少了食品份量"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1140289.htm",
+          "author": "ugmbbc",
+          "description": "美国民主党参议员伊丽莎白-沃伦近日毫不留情地批评了亚马逊CEO贝佐斯，称他上太空用的是其他纳税人的钱，是对所有合法纳税的美国公民的嘲笑。美国名人八卦网站TMZ的记者上周四在华盛顿的机场遇到了沃伦，并利用这个机会向这位参议员询问她对贝佐斯飞往太空计划的看法。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1140289.htm",
+          "publishedOn": "2021-06-14T01:41:15.000Z",
+          "wordCount": 193,
+          "title": "沃伦痛批贝佐斯上太空：你在嘲笑所有纳税公民"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1140287.htm",
+          "author": "ugmbbc",
+          "description": "想要整形手里又拿不出那么多钱，这是很多求美者会遇到的难题。为此，部分金融机构和第三方医美机构合作推出“医美分期”“医美贷”等产品。但记者近日采访发现，一些类似贷款产品存在诱导消费者过度借贷、相关金融产品和服务息费不透明且定价过高等问题。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1140287.htm",
+          "publishedOn": "2021-06-14T01:40:27.000Z",
+          "wordCount": 194,
+          "title": "部分“医美分期”“医美贷”背后猫腻多：诱导贷款后利息高"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1140285.htm",
+          "author": "teikaei",
+          "description": "据外媒报道，宝马汽车公司可能没有很早就进入电动摩托车的派对，但这家公司现在正在弥补，它可能成为该行业首款带传动轴的电动摩托车。宝马喜欢它的传动轴摩托车，但电动摩托车行业对它们不感兴趣。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1140285.htm",
+          "publishedOn": "2021-06-14T01:34:07.000Z",
+          "wordCount": 198,
+          "title": "行业第一：宝马专利揭示新电动摩托车或将靠传动轴驱动"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1140283.htm",
+          "author": "ugmbbc",
+          "description": "近日，第十三届陆家嘴论坛在上海举行，主题为“全球大变局下的中国金融改革与开放”。央行行长易纲，银保监会主席郭树清，证监会主席易会满，央行副行长、国家外汇管理局局长潘功胜和人民银行原行长周小川，分别在论坛上发表演讲。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1140283.htm",
+          "publishedOn": "2021-06-14T01:27:35.000Z",
+          "wordCount": 204,
+          "title": "第13届陆家嘴论坛 周小川、郭树清、易纲多次提及金融科技问题"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1140281.htm",
+          "author": "ugmbbc",
+          "description": "6月8日，全球首台SD17E-X纯电动推土机交机仪式在国家电投贵州金元某电厂举行。山推SD17E-X纯电动推土机主打绿色动力、节能环保，噪音小、零排放，相比传统燃油设备使用成本降低60%以上，同时，动力输出响应快，可持续输出恒定牵引力，作业效率提升10%以上。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1140281.htm",
+          "publishedOn": "2021-06-14T01:20:05.000Z",
+          "wordCount": 194,
+          "title": "山推全球首台纯电动推土机SD17E-X交付使用"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1140279.htm",
+          "author": "teikaei",
+          "description": "据外媒CNBC报道，研究公司Cybersecurity Ventures称，今年每11秒就会有一家企业成为勒索软件攻击的受害者。他们中的一些人如Colonial Pipeline已经承认他们没有一个计划来应对这种情况。有几家企业甚至从未交易过比特币，比特币是几乎所有赎金支付的首选货币。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1140279.htm",
+          "publishedOn": "2021-06-14T01:10:42.000Z",
+          "wordCount": 199,
+          "title": "当勒索软件攻击时，DigitalMint为受害者提供比特币支付服务"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/science/1140277.htm",
+          "author": "teikaei",
+          "description": "据外媒报道，这是一个残酷的现实，心脏的自愈能力非常有限，这意味着那些在心脏病发作后存活下来的人往往会面对更多这样的情况。现在，伦敦大学学院(UCL)的研究人员已经从干细胞中培养出心脏细胞，然后将它们植入微球中并将它们注射到受损的心脏中以此来达到修复的目的。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/science/1140277.htm",
+          "publishedOn": "2021-06-14T00:40:47.000Z",
+          "wordCount": 190,
+          "title": "研究：包裹在干细胞中的微球可以帮助修复受损的心脏"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1140275.htm",
+          "author": "teikaei",
+          "description": "据外媒报道，任何跟踪电动汽车的人都知道，它们的速度快得令人难以置信。一个很好的例子是特斯拉Model S Plaid，这是世界上最快的汽车之一。美国汽车制造商道奇(Dodge)曾制造过一些速度非常快的肌肉车，包括配备V8增压引擎的道奇地狱猫(Hellcat)。现在一份新的报告指出，道奇计划打造一款让打败地狱猫的电动汽车。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1140275.htm",
+          "publishedOn": "2021-06-14T00:25:34.000Z",
+          "wordCount": 201,
+          "title": "道奇计划制造一款能击败地狱猫的电动汽车"
+        },
+        {
           "id": "https://www.cnbeta.com/articles/tech/1140273.htm",
           "author": "teikaei",
           "description": "据外媒报道，迈凯轮在世界各地的多个区段大量参与汽车比赛。一份新的报告已经浮出了表面，迈凯轮打算进入另一个赛车系列--Extreme E。这是一个独特的赛车系列，迈凯轮从来没有参加过，因为它涉及赛车电动SUV。\n 阅读全文",
