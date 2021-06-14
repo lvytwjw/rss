@@ -2,10 +2,64 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://lvytwjw.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-14T19:07:21.196Z</updated>
+    <updated>2021-06-14T20:06:59.278Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://lvytwjw.github.io/rss/index.html"/>
     <link rel="self" href="https://lvytwjw.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[辉瑞和阿斯利康新冠疫苗可高度有效预防Delta毒株住院病例]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1140545.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1140545.htm"/>
+        <updated>2021-06-14T19:44:08.000Z</updated>
+        <summary type="html"><![CDATA[英格兰卫生官员称，辉瑞和阿斯利康新冠疫苗接种两剂后都能高度有效预防因感染delta毒株而住院，这突显了完全接种疫苗的紧迫性。英格兰公共卫生部周一表示，接种两剂后，辉瑞和BioNTech SE疫苗预防住院的有效率为96%，阿斯利康疫苗为92%。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[整顿挖矿、屏蔽交易所 币圈“绝地封杀”开启]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1140543.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1140543.htm"/>
+        <updated>2021-06-14T19:42:45.000Z</updated>
+        <summary type="html"><![CDATA[继监管定调后，币圈正面临四面楚歌。6月14日，北京商报记者梳理发现，近日来，包括内蒙古、四川、新疆、青海等多地监管纷纷“亮剑”，对虚拟资产挖矿行为进行排查整顿；除挖矿行为遭监管围剿外，币圈交易所也首次遭到搜索平台和社交平台的“封杀”。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[世卫组织：新冠病毒传播速度超过了疫苗分发速度]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1140541.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1140541.htm"/>
+        <updated>2021-06-14T19:41:28.000Z</updated>
+        <summary type="html"><![CDATA[当地时间14日，世卫组织举行新冠肺炎例行发布会，世卫组织总干事谭德塞表示，现有证据表明，变异新冠病毒显著增加了新冠肺炎在全球范围内的传播，导致全球大部分人的感染风险增加，这些人并未得到保护。目前新冠病毒的传播速度超过了疫苗的分发速度。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[又一次6·18年中大促 平台和商家的热情在哪里？]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1140539.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1140539.htm"/>
+        <updated>2021-06-14T19:40:08.000Z</updated>
+        <summary type="html"><![CDATA[“上半年的大促是不是有点儿多呀？妇女节刚过没几天，已经买了一波。现在各家又在打折，有点儿买不动了。”95后的妹妹有一丝丝“抱怨”。目前看来，各家公布6·18战报时成绩大概率依然喜人，毕竟以前才是一天的销售额，现在前后算上预售延长不止两周。不过，在一片繁荣背后隐隐地能感觉到各家陷入了增长的困境之中。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Backup Squarespace-Managed Styles using AWS Cloud]]></title>
+        <id>60c794e64dc1a607ed7b25ba</id>
+        <link href="https://www.freecodecamp.org/news/how-to-backup-squarespace-managed-styles-using-aws-cloud/"/>
+        <updated>2021-06-14T19:19:42.000Z</updated>
+        <summary type="html"><![CDATA[A while ago, I was doing side gig for a client who had a website hosted on Squarespace. They asked me to implement an advanced design for a page that wasn't possible with the site's current DIY tools. For an experienced and battle-tested web developer like me, this was a]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[10 Best African Language Datasets for Data Science Projects]]></title>
         <id>60c4b35ed3126007592d71bc</id>
