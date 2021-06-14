@@ -58,15 +58,6 @@
           "publishedOn": "2021-05-16T02:33:58.000Z",
           "wordCount": 276,
           "title": "v1.7.1"
-        },
-        {
-          "id": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.7.0",
-          "author": null,
-          "description": "Added: templating system. Demo | Source | Docs\nChore: rendering logic refactoring. Adopting functional paradigm.\nThank you @tianheg, @onnyyonn",
-          "link": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.7.0",
-          "publishedOn": "2021-05-16T01:42:24.000Z",
-          "wordCount": 286,
-          "title": "v1.7.0"
         }
       ]
     },
@@ -75,6 +66,15 @@
       "feedUrl": "https://css-tricks.com/feed/",
       "siteUrl": "https://css-tricks.com",
       "articles": [
+        {
+          "id": "https://css-tricks.com/?p=342070",
+          "author": "Khari McMillian",
+          "description": "When you load a file from an external server, you’re trusting that the content you request is what you expect it to be. Since you don’t manage the server yourself, you’re relying on the security of yet another third party …\nThe post Securing Your Website With Subresource Integrity appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/securing-your-website-with-subresource-integrity/",
+          "publishedOn": "2021-06-14T13:30:27.000Z",
+          "wordCount": 3232,
+          "title": "Securing Your Website With Subresource Integrity"
+        },
         {
           "id": "https://css-tricks.com/?p=342429",
           "author": "Chris Coyier",
@@ -1536,6 +1536,24 @@
       "feedUrl": "https://www.cnbeta.com/backend.php",
       "siteUrl": "https://www.cnbeta.com",
       "articles": [
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1140503.htm",
+          "author": "ugmbbc",
+          "description": "任天堂Switch Pro主机的SoC型号可能被泄露在网络上，曝光了一些额外的细节。爆料一向非常准确的推主Kopite7kimi最近发推，公布了一张英伟达Tegra Orin芯片的die shot，型号是T234。他认为，任天堂Switch Pro将采用T239芯片，将是一个定制Orin芯片。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1140503.htm",
+          "publishedOn": "2021-06-14T13:31:22.000Z",
+          "wordCount": 217,
+          "title": "消息称Switch Pro的处理器SoC可能是来自英伟达的Tegra Orin芯片"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1140501.htm",
+          "author": "ugmbbc",
+          "description": "微软将于2025年10月14日结束对Windows 10的支持。这将标志着自该操作系统首次推出以来刚刚超过10年。微软在更新的操作系统支持生命周期页面中透露了Windows 10的退休日期。一直专注于微软技术的博客Thurrott报道说，这是微软第一次描述对Windows 10的支持结束。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1140501.htm",
+          "publishedOn": "2021-06-14T13:26:28.000Z",
+          "wordCount": 225,
+          "title": "微软于2025年10月14日结束对Windows 10的整体支持说法系首次提出"
+        },
         {
           "id": "https://www.cnbeta.com/articles/tech/1140499.htm",
           "author": "ugmbbc",
