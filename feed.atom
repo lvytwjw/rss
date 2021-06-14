@@ -2,10 +2,65 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://lvytwjw.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-14T16:13:37.502Z</updated>
+    <updated>2021-06-14T17:23:29.940Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://lvytwjw.github.io/rss/index.html"/>
     <link rel="self" href="https://lvytwjw.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[NASA认证了罗曼太空望远镜全部24个探测器]]></title>
+        <id>https://www.cnbeta.com/articles/science/1140529.htm</id>
+        <link href="https://www.cnbeta.com/articles/science/1140529.htm"/>
+        <updated>2021-06-14T17:11:26.000Z</updated>
+        <summary type="html"><![CDATA[美国宇航局的南希-格雷斯-罗曼太空望远镜团队最近对该任务所需的全部24个探测器进行了飞行认证。南希-格雷斯-罗曼太空望远镜计划在2020年代中期发射，这些设备将把星光转换为电信号，然后将其解码为3亿像素的大块天空图像。这些图像将使天文学家能够探索大量的天体和现象，使科学家更快地解决许多紧迫的宇宙之谜。
+ 阅读全文]]></summary>
+        <author>
+            <name>maomao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[新冠病毒Delta变种导致感染者住院风险提高一倍]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1140527.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1140527.htm"/>
+        <updated>2021-06-14T17:04:33.000Z</updated>
+        <summary type="html"><![CDATA[相比于去年在英国发现的新冠病毒Alpha变种，首现于印度的delta变种可能导致感染者住院率提高一倍。研究人员周一表示，来自辉瑞公司和阿斯利康的疫苗可以抵御delta变种。他们在苏格兰的一项大型研究中发现，辉瑞-BioNTech疫苗能够提供更好的保护。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[比特币涨至逾两周最高点 技术面上看5万美元]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1140525.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1140525.htm"/>
+        <updated>2021-06-14T17:03:34.000Z</updated>
+        <summary type="html"><![CDATA[在经历一个动荡周末之后，比特币再次迈过40000美元，达到两周多以来最高水平。这种全球最大加密货币周一连续第二天上扬，盘中最高涨3.9%，至40795美元左右。上周五以来，比特币已累计上涨约9%。跟踪主要加密货币的彭博Galaxy加密货币指数一度上涨7.7%。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Novavax的新冠疫苗在试验中表现出对病毒变种的高效性]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1140523.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1140523.htm"/>
+        <updated>2021-06-14T17:02:16.000Z</updated>
+        <summary type="html"><![CDATA[Novavax Inc.的新冠肺炎候选疫苗在一项大型试验中显示出对冠状病毒的强大功效，说明仍然迫切需要防范新冠病毒及其变种的全球社区将会拥有一个新的选择。这家美国生物技术公司在周一发布声明称，该疫苗对防范有症状感染具有90%的功效，对防范中重症感染有100%的功效。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[白俄罗斯将就瑞安航空公司事件寻求国际法律援助]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1140521.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1140521.htm"/>
+        <updated>2021-06-14T17:01:31.000Z</updated>
+        <summary type="html"><![CDATA[白俄罗斯国家通讯社14日报道称，在当天于白俄罗斯首都明斯克举行的有关瑞安航空公司事件的发布会上，白俄罗斯调查委员会主席德米特里·戈拉表示，白俄罗斯正着手准备就瑞安航空公司事件寻求国际法律援助。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[RTX 2060复活之后又遭限制 NVIDIA希望优先保证RTX 3060显卡产能]]></title>
         <id>https://www.cnbeta.com/articles/tech/1140519.htm</id>
