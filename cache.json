@@ -1523,6 +1523,204 @@
       "siteUrl": "https://www.cnbeta.com",
       "articles": [
         {
+          "id": "https://www.cnbeta.com/articles/tech/1140273.htm",
+          "author": "teikaei",
+          "description": "据外媒报道，迈凯轮在世界各地的多个区段大量参与汽车比赛。一份新的报告已经浮出了表面，迈凯轮打算进入另一个赛车系列--Extreme E。这是一个独特的赛车系列，迈凯轮从来没有参加过，因为它涉及赛车电动SUV。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1140273.htm",
+          "publishedOn": "2021-06-14T00:10:43.000Z",
+          "wordCount": 203,
+          "title": "迈凯轮打算参加明年的Extreme E系列比赛"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1140271.htm",
+          "author": "ugmbbc",
+          "description": "据知情人士称，荷兰皇家壳牌公司正考虑出售其在美国最大油田的持股，这标志着壳牌从化石燃料转型的关键时刻，该公司正面临越来越大的削减碳排放压力。此次出售的可能是壳牌在美国二叠纪盆地的部分或全部业务。该项业务占壳牌去年油气总产量的6%左右。这些资产的价值可能超过100亿美元。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1140271.htm",
+          "publishedOn": "2021-06-14T00:00:53.000Z",
+          "wordCount": 198,
+          "title": "消息称壳牌考虑出售美国页岩油气资产 价值超100亿美元"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1140269.htm",
+          "author": "ugmbbc",
+          "description": "根据美国交通安全管理局（TSA）的数据，自去年3月新冠疫情爆发以来，美国单日航空客运量首次超过200万人次，达到2019年同日记录的近四分之三。TSA在一份声明中称，上周五（6月11日），美国机场安检人员总计检查了2028961人，比去年同日增加了150万人，是两年前同一天的74%。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1140269.htm",
+          "publishedOn": "2021-06-13T23:56:38.000Z",
+          "wordCount": 197,
+          "title": "美国单日航空流量自疫情开始以来首次超过200万人次"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1140267.htm",
+          "author": "ugmbbc",
+          "description": "北京时间6月14日消息，华为公司公布了英国部门去年的营收和利润数据，英国政府的5G禁令对华为的财务影响开始显现。华为英国运营部门华为技术有限公司称，2020年营收同比下降27%至9.13亿英镑，息税前营业利润下降四分之一至3640万英镑。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1140267.htm",
+          "publishedOn": "2021-06-13T23:56:00.000Z",
+          "wordCount": 194,
+          "title": "华为英国去年营收、营业利润下滑逾20%"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/science/1140265.htm",
+          "author": "teikaei",
+          "description": "据外媒报道，太空发射系统(SLS)是NASA有史以来建造的最强大的火箭，作为Artemis计划的一部分，它将向月球发射航天器和宇航员。现在，这个巨大的核心级已经被提升到在佛罗里达州NASA肯尼迪航天中心的两个巨大的助推器的位置上。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/science/1140265.htm",
+          "publishedOn": "2021-06-13T23:54:29.000Z",
+          "wordCount": 193,
+          "title": "NASA巨型火箭SLS核心级已完成“站立”"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1140263.htm",
+          "author": "ugmbbc",
+          "description": "6月14日消息，据媒体报道，华为北京授权店开卖赛力斯SF5高性能电驱轿跑SUV。目前赛力斯SF5高性能电驱轿跑SUV已在华为官网上架，四驱版价格是24.68万元，两驱版价格是21.68万元。据悉，这次开卖赛力斯SF5的授权店位于北京金地广场。该店工作人员表示，新车到店后吸引进店消费者关注。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1140263.htm",
+          "publishedOn": "2021-06-13T23:53:58.000Z",
+          "wordCount": 202,
+          "title": "华为授权店开售赛力斯SF5：消费者纷纷驻足围观"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/science/1140261.htm",
+          "author": "ugmbbc",
+          "description": "Red2Onco是一种创新的遗传小鼠模型，可以检测引发癌症发展的最初步骤。Red2Onco的多色标记系统可以在单细胞水平上追踪第一个致癌物撞击后的肠道肿瘤发展。这一门来自IMBA奥地利科学院分子生物技术研究所和剑桥大学进行的研究现在发表在《自然》杂志上。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/science/1140261.htm",
+          "publishedOn": "2021-06-13T23:46:00.000Z",
+          "wordCount": 209,
+          "title": "给肿瘤着色的方法可揭示引发癌症发展的最初阶段"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1140259.htm",
+          "author": "teikaei",
+          "description": "据外媒报道，据一份报告称，美国前总统唐纳德·特朗普的白宫法律顾问是司法部(DOJ)向苹果申请索取账户数据一案的传票的目标之一，眼下，受调查影响的知名人士的数量还在继续增加。当地时间周五，有消息称，美DOJ已向苹果发出传票，要求其提供至少两名众议院民主党人及其助手和家人的数据。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1140259.htm",
+          "publishedOn": "2021-06-13T23:45:22.000Z",
+          "wordCount": 203,
+          "title": "特朗普白宫法律顾问曾是苹果公司提交账户数据案的传票目标之一"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1140257.htm",
+          "author": "ugmbbc",
+          "description": "三星每年会在一月份左右推出旗舰产品Galaxy S系列手机，并且会在国际上首发高通骁龙新一代旗舰处理器，因此也备受全球用户关注。据海外媒体报道，三星下一代旗舰手机Galaxy S22系列也依然会在1月份左右发布，并且会在国际首发骁龙895芯片（暂定名）。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1140257.htm",
+          "publishedOn": "2021-06-13T23:41:06.000Z",
+          "wordCount": 228,
+          "title": "首发2亿像素主摄 三星Galaxy S22全系规格曝光"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1140255.htm",
+          "author": "ugmbbc",
+          "description": "经过几周的5.13-rc的不断更新，其中的变化比Linus Torvalds希望看到的要多，Linux 5.13-rc6现在已经发布了，这一次的变化规模较小，而对于内核开发的后期阶段来说，这是一个好现象。Torvalds在5.13-rc6公告中评论说：\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1140255.htm",
+          "publishedOn": "2021-06-13T23:39:32.000Z",
+          "wordCount": 213,
+          "title": "Linux 5.13-rc6发布 新版内核发布周期临近"
+        },
+        {
+          "id": "https://hot.cnbeta.com/articles/game/1140253.htm",
+          "author": "ugmbbc",
+          "description": "去年微软公布新一代主机Xbox Series X（简称XSX）的时候，网友吐槽造型太像冰箱了，说的多了大家反而更想要。在今天的E3展会上，微软宣布推出Xbox迷你冰箱，造型跟XSX简直一模一样。\n 阅读全文",
+          "link": "https://hot.cnbeta.com/articles/game/1140253.htm",
+          "publishedOn": "2021-06-13T23:36:16.000Z",
+          "wordCount": 202,
+          "title": "官方玩梗成真：微软确认Xbox冰箱假期发售 与XSX造型一致"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1140251.htm",
+          "author": "ugmbbc",
+          "description": "微软正在在6月24日宣布之前敲定Windows Sun Valley，也就是所谓的 \"下一代Windows\"。作为其中的一部分，在预览版中有一些设计调整，如圆角窗口和对话框，但看起来该公司的任务是 \"使Windows用户体验的现有部分现代化\"。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1140251.htm",
+          "publishedOn": "2021-06-13T23:33:29.000Z",
+          "wordCount": 221,
+          "title": "微软希望对Windows 10用户体验的现有部分进行现代化改造"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1140249.htm",
+          "author": "teikaei",
+          "description": "特斯拉首席执行官埃隆马斯克周日表示，一旦确认矿工合理使用清洁能源，公司将恢复比特币交易。“当确认未来趋势积极的矿工合理（约50%）使用清洁能源时，特斯拉将恢复允许比特币交易。”\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1140249.htm",
+          "publishedOn": "2021-06-13T23:30:03.000Z",
+          "wordCount": 201,
+          "title": "马斯克：随着加密矿工使用更多清洁能源，特斯拉将再次接受比特币"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1140247.htm",
+          "author": "ugmbbc",
+          "description": "将于6月30日起接任首席执行官职位的高通总裁克里斯蒂亚诺· 阿蒙表示，如果软银决定让芯片设计公司Arm上市而非将其出售给英伟达，该公司将与行业其他公司一起收购Arm的股份。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1140247.htm",
+          "publishedOn": "2021-06-13T23:26:56.000Z",
+          "wordCount": 204,
+          "title": "若英伟达交易失败 高通有意投资Arm"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1140245.htm",
+          "author": "ugmbbc",
+          "description": "据南非媒体6月13日报道，南非卫生专家表示，该国可能存在多达30多种新冠变异病毒，专家们担心晚期艾滋病毒患者可能成为“全球新冠病毒的变异工厂”。2020年9月，夸祖鲁-纳塔尔省一名患有晚期艾滋病毒的妇女新冠检测呈阳性后，南非科学家们陆续发现该病毒相继产生了13个突变的刺突蛋白和其他19个可能改变病毒行为的基因转变。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1140245.htm",
+          "publishedOn": "2021-06-13T23:26:25.000Z",
+          "wordCount": 196,
+          "title": "南非卫生专家认为当地可能存在30多种变异新冠病毒"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1140243.htm",
+          "author": "ugmbbc",
+          "description": "面对顶级工会的长期斗争，亚马逊周五表示，将保证其德国仓库的最低工资为每小时12欧元（合15美元）。德国是亚马逊仅次于美国的最大市场，威尔第工会自2013年以来一直在德国组织亚马逊罢工，抗议亚马逊的低工资和恶劣的工作条件。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1140243.htm",
+          "publishedOn": "2021-06-13T23:25:02.000Z",
+          "wordCount": 195,
+          "title": "亚马逊将德国仓库的最低工资提高到每小时12欧元"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1140241.htm",
+          "author": "ugmbbc",
+          "description": "比特币美东时间周日晚间一度飙升近10%，至39035.47美元，较此前收盘价上涨近3500美元。以太坊一度上涨7%，至2532.77美元，较此前收盘价上涨约165美元。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1140241.htm",
+          "publishedOn": "2021-06-13T23:24:23.000Z",
+          "wordCount": 196,
+          "title": "比特币一度重返39000美元 马斯克称可能再度接受比特币"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1140239.htm",
+          "author": "ugmbbc",
+          "description": "在“朝阳预存宝”上，王女士买了张500元的剪发卡，这笔预付款没进商家的口袋，而是打进了银行的资金监管账户，即便商家跑路她的钱也丢不了。今年，“预付式消费退费难”被列入接诉即办“每月一题”重点解决督办事项，北京青年报记者了解到，本市正在研究出台单用途预付卡管理地方立法，《北京市单用途预付卡管理条例》（征求意见稿）已开始公开征求意见；\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1140239.htm",
+          "publishedOn": "2021-06-13T23:23:12.000Z",
+          "wordCount": 208,
+          "title": "北京多区实招解决预付式消费退费难：“预存宝” 保证金先行赔付"
+        },
+        {
+          "id": "https://hot.cnbeta.com/articles/game/1140237.htm",
+          "author": "ugmbbc",
+          "description": "今天（6月14日），外媒公开了《索尼克：色彩终极版》中外星过山车关卡的试玩视频，一起来看看这款根据2010年《索尼克色彩》重制作品的表现力如何。\n《索尼克：色彩终极版》试玩视频：\n 阅读全文",
+          "link": "https://hot.cnbeta.com/articles/game/1140237.htm",
+          "publishedOn": "2021-06-13T23:20:29.000Z",
+          "wordCount": 208,
+          "title": "E3 2021：《索尼克：色彩终极版》试玩视频"
+        },
+        {
+          "id": "https://hot.cnbeta.com/articles/game/1140235.htm",
+          "author": "ugmbbc",
+          "description": "E3 2021正在火热举行中，在史艾的发布会上宣布一大波冷饭即将到来，经典RPG《最终幻想》究极重置计划公布，并非重制，FF1代到6代将于近期复刻登陆Steam以及移动平台，敬请期待。\n 阅读全文",
+          "link": "https://hot.cnbeta.com/articles/game/1140235.htm",
+          "publishedOn": "2021-06-13T23:19:26.000Z",
+          "wordCount": 208,
+          "title": "E3 2021：《最终幻想》究极重置公布 FF1代到6代"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1140233.htm",
+          "author": "ugmbbc",
+          "description": "渐进式网络应用程序（PWA）在未来可能是Windows 10应用商店的重要转变之一，微软正在慢慢地用渐进式网络应用程序的功能更新其网络服务，如离线模式支持和推送通知。看起来，微软的OneDrive将在7月最终成为一个成熟的渐进式网络应用程序。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1140233.htm",
+          "publishedOn": "2021-06-13T23:14:54.000Z",
+          "wordCount": 213,
+          "title": "微软的OneDrive正在成为一个PWA应用"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1140231.htm",
+          "author": "ugmbbc",
+          "description": "在6月10日的一份通知中，德克萨斯州银行监管部门给州政府特许银行发放了托管加密货币资产的许可。该通知是一个简单的肯定，即银行需要证明本身的标准风险评估足以提供加密货币托管。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1140231.htm",
+          "publishedOn": "2021-06-13T23:10:42.000Z",
+          "wordCount": 195,
+          "title": "德克萨斯州为特许银行托管加密货币业务开绿灯"
+        },
+        {
           "id": "https://hot.cnbeta.com/articles/game/1140229.htm",
           "author": "ugmbbc",
           "description": "E3 2021正在火热举行中，在微软B社发布会上，公布了《暗黑破坏神2：重制版》最新预告，显示将于2021年9月23日登陆Xbox系以及PC平台发售，如无意外也将同时登陆其他主流平台，敬请期待。\n 阅读全文",
