@@ -2,10 +2,186 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://lvytwjw.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-14T11:05:48.091Z</updated>
+    <updated>2021-06-14T12:09:30.671Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://lvytwjw.github.io/rss/index.html"/>
     <link rel="self" href="https://lvytwjw.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[KINGMAX推出AX448系列M.2 NVMe固态硬盘]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1140469.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1140469.htm"/>
+        <updated>2021-06-14T12:08:29.000Z</updated>
+        <summary type="html"><![CDATA[KINGMAX今天发布了AX448系列的M.2 NVMe固态硬盘。这些硬盘有1TB、2TB和4TB的大容量版本，可利用PCI-Express 4.0 x4主机接口和NVMe协议的高带宽优势提升传输性能。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HyperX为Spectre Mission游戏眼镜系列增加了新的款式]]></title>
+        <id>https://hot.cnbeta.com/articles/game/1140467.htm</id>
+        <link href="https://hot.cnbeta.com/articles/game/1140467.htm"/>
+        <updated>2021-06-14T12:06:01.000Z</updated>
+        <summary type="html"><![CDATA[惠普公司的游戏外设团队、游戏和电竞领域的品牌HyperX今天宣布了HyperX Spectre Mission游戏眼镜新系列。新的眼镜设计是为延长游戏时间或在数字屏幕前度过的时间而设计的，它可以提供具有蓝光和紫外线保护的HyperX游戏级镜片。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[西部数据可能在2025年左右推出五层单元（PLC）NAND闪存]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1140465.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1140465.htm"/>
+        <updated>2021-06-14T12:03:22.000Z</updated>
+        <summary type="html"><![CDATA[西部数据已将基于五层单元Penta Layer Cell（PLC）的NAND闪存的推出时间推迟到2025年。该公司早在2019年就已经披露了对该技术的开发，大约在东芝宣布该技术的同时（东芝存储现在已经演变为Kioxia，也是西数开发该技术的合作伙伴）。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[新合成的化学化合物揭示了最小碳纳米管的基本特性]]></title>
+        <id>https://www.cnbeta.com/articles/science/1140463.htm</id>
+        <link href="https://www.cnbeta.com/articles/science/1140463.htm"/>
+        <updated>2021-06-14T12:01:54.000Z</updated>
+        <summary type="html"><![CDATA[碳和氢原子的化学环弯曲形成相对稳定的结构，能够实现导电和更多特性，但当引入新的成分时，这些弯曲的系统会缠身什么样的变化？日本的研究人员发现，仅仅通过一些亚原子的添加，这些特性就可以枢转到不同的系统状态和行为，这一点通过一种新合成的化合物得到了证明。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[业余天文学家们联手通过TESS项目发现两颗气态系外行星]]></title>
+        <id>https://www.cnbeta.com/articles/science/1140461.htm</id>
+        <link href="https://www.cnbeta.com/articles/science/1140461.htm"/>
+        <updated>2021-06-14T11:57:08.000Z</updated>
+        <summary type="html"><![CDATA[塞萨尔·鲁比奥和他7岁的儿子米格尔喜欢在晚上谈论星星，这位父亲说，他试图培养儿子的这种好奇心。白天，鲁比奥是一位来自加利福尼亚的机械师，为采矿和发电设备制造零件，这对父子兵最近在天文学界出了名，它们以及其它十几位公民科学家帮助天文学界发现了新的气态系外行星。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[抖音公告：即日起开展专项整治行动打击无底线追星行为]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1140459.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1140459.htm"/>
+        <updated>2021-06-14T11:52:26.000Z</updated>
+        <summary type="html"><![CDATA[前段时间，粉丝为偶像打榜倒奶时间引起了各界的关注，随后又有粉丝在飞机尚未停机时，直接强行冲入头等舱只为追星，带来了极大的安全隐患。这些极端追星事件，给整个社会都带来了较为恶略的影响，对此抖音今日率先开启了对此类事件的整顿。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[中国第一股民“杨百万”去世：A股标志性人物 曾赚超百万]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1140457.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1140457.htm"/>
+        <updated>2021-06-14T11:52:09.000Z</updated>
+        <summary type="html"><![CDATA[“中国第一股民”你知道是哪位大神吗？东方网·纵相新闻记者今天（6月14日）从杨怀定家属处获悉，有“杨百万”“中国第一股民”之称的资深股民杨怀定于2021年6月13日凌晨去世，享年71岁。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Avaddon勒索软件背后的黑客向安全研究人员主动寄出解密密钥]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1140455.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1140455.htm"/>
+        <updated>2021-06-14T11:50:15.000Z</updated>
+        <summary type="html"><![CDATA[最近，勒索软件困扰着美国和世界上的许多大公司。不久前，美国的一次攻击关闭了一条输油管，导致一些地区出现燃料短缺，拥有该输油管的公司支付了数百万美元来解密其文件。另一个备受瞩目的勒索软件攻击看到一家美国食品公司向黑客支付了数百万美元，以解密他们的系统并防止文件被泄露。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[研究人员利用人体作为传输媒介为可穿戴设备供电]]></title>
+        <id>https://www.cnbeta.com/articles/science/1140453.htm</id>
+        <link href="https://www.cnbeta.com/articles/science/1140453.htm"/>
+        <updated>2021-06-14T11:47:55.000Z</updated>
+        <summary type="html"><![CDATA[可穿戴设备，如智能手表在今天极为流行，它们最显著的缺点之一是需要经常给它们充电。电池电量的小尺寸和低容量通常意味着它们需要每天充电，而且为多个设备充电是不方便的。新加坡国立大学的一组研究人员在为可穿戴设备供电方面取得了突破，包括那些在医疗环境中使用的设备，方法是利用人体作为传输媒介。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Linux 5.14内核主线预计能够与Raspberry Pi 400实现兼容]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1140451.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1140451.htm"/>
+        <updated>2021-06-14T11:45:17.000Z</updated>
+        <summary type="html"><![CDATA[去年11月推出的Raspberry Pi 400是一款Raspberry Pi键盘电脑，它实际上是将Raspberry Pi 4 SBC嵌入到键盘中，并整合到一个大铝块上。对于一贯简约的树莓派产品而言，这是一个很好的小设备，并且从Linux 5.14开始，它看起来应该可以和主线内核完美兼容。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[苹果计划推出新一代Apple Watch SE 以及“极限运动”型号]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1140449.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1140449.htm"/>
+        <updated>2021-06-14T11:37:37.000Z</updated>
+        <summary type="html"><![CDATA[最新消息显示，2021年的 "Apple Watch Series 7"运行速度将更快，且有更好的屏幕。并且苹果正在开发更多的健康功能，以及在2022年更新入门级Apple Watch SE的同时，开发一个极限运动型号。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gmail完成重大改版 新的协作工具Spaces上线以提升生产力]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1140447.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1140447.htm"/>
+        <updated>2021-06-14T11:26:00.000Z</updated>
+        <summary type="html"><![CDATA[Google周一宣布对Gmail进行重大改版，增加了一系列新的生产力工具，这些工具将在该公司的其他应用中发挥作用，如Docs和Sheet，目的是将该服务变成一个规划项目和与其他人合作的中心。这个想法是要把Google独立的生产力应用都带到同一个地方，并由Gmail作为指挥中心。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[银幕被男童踢坏影院索赔1.5万元遭拒 业内人士：1.5万元赔偿额很低了]]></title>
+        <id>https://hot.cnbeta.com/articles/movie/1140445.htm</id>
+        <link href="https://hot.cnbeta.com/articles/movie/1140445.htm"/>
+        <updated>2021-06-14T11:17:37.000Z</updated>
+        <summary type="html"><![CDATA[上个月在河南洛阳，一男童拍坏电影院银幕，家长拒绝赔偿引发网友热议。据媒体报道，2021年5月29日，影院工作人员通过监控发现，有一小孩在观影时不停在影厅内跑跑跳跳，还多次用手触碰和拍打银幕，时间长达半小时，最终造成银幕损坏。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[《我不是药神》导演出新作！电影《奇迹》开机：易烊千玺主演]]></title>
+        <id>https://hot.cnbeta.com/articles/movie/1140443.htm</id>
+        <link href="https://hot.cnbeta.com/articles/movie/1140443.htm"/>
+        <updated>2021-06-14T11:11:38.000Z</updated>
+        <summary type="html"><![CDATA[6月14日消息，据媒体报道，知名导演宁浩对外透露，本人担任监制、文牧野担任导演的电影新作《奇迹》已经开机。据悉，电影《奇迹》是文牧野、宁浩继《我不是药神》后的再次合作，继续聚焦现实主义题材，由易烊千玺主演。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[高考录取通知书物流信息已可扫码查询]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1140441.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1140441.htm"/>
+        <updated>2021-06-14T11:11:01.000Z</updated>
+        <summary type="html"><![CDATA[6月14日消息，据媒体报道，各地录取工作将于7月上旬开始，8月底前结束。考生可扫描高考录取通知书运单查询码（如下图所示），凭准考证号（考生号）或录取通知书快递单号查询，及时掌握录取通知书发放时间、投递时间及寄达时间。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[iOS 15 照片将显示保存的图片来自哪些应用]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1140439.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1140439.htm"/>
+        <updated>2021-06-14T11:09:04.000Z</updated>
+        <summary type="html"><![CDATA[在iOS 15中，苹果对照片应用做了一些受欢迎的改进，比如可以看到照片的EXIF数据。通过一个新的 "信息 "按钮来实现的，该按钮还为所选照片提供了一个标题字段、照片的拍摄地点以及查询信息。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[When CSS Isn’t Enough: JavaScript Requirements For Accessible Components]]></title>
         <id>https://smashingmagazine.com/2021/06/css-javascript-requirements-accessible-components/</id>
