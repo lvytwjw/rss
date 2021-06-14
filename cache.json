@@ -58,6 +58,15 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=342294",
+          "author": "Chris Coyier",
+          "description": "It wasn’t long ago when I looked at sticky headers and footers in HTML <table>s in the blog post A table with both a sticky header and a sticky first column. In it, I never used position: sticky on …\nThe post Making Tables With Sticky Header and Footers Got a Bit Easier appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/making-tables-with-sticky-header-and-footers-got-a-bit-easier/",
+          "publishedOn": "2021-06-14T22:04:41.000Z",
+          "wordCount": 711,
+          "title": "Making Tables With Sticky Header and Footers Got a Bit Easier"
+        },
+        {
           "id": "https://css-tricks.com/?p=342229",
           "author": "Chris Coyier",
           "description": "Just a little link roundup of some off-site stuff I’ve done recently. As I’m wont to do from time to time. \nDevJourney Podcast\n#151 Chris Coyier from ceramics to CSS-Tricks and CodePen‘\nChris took us from playing on \n…\nThe post CSS-Tricks Chronicle XXXX appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
@@ -881,6 +890,24 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
+        {
+          "id": "60873d1fdd38b9088c2c0842",
+          "author": null,
+          "description": "System Design is an important topic to understand if you want to advance further in your career as a software engineer. Even if you are just beginning your coding journey, it's a good idea to get a head start on learning about system design.  Early in your career you will",
+          "link": "https://www.freecodecamp.org/news/system-design-interview-practice-tutorial/",
+          "publishedOn": "2021-06-14T22:46:31.000Z",
+          "wordCount": 2704,
+          "title": "System Design Interview Tutorial – The Beginner&#x27;s Guide to System Design"
+        },
+        {
+          "id": "60c3b862d3126007592d689b",
+          "author": null,
+          "description": "Have you ever used the CSS order or direction properties? You've probably used them dozens of times, but did you realize that these properties will cause a disconnect between what's being displayed and what's actually in the DOM? Using the order property will create a disconnect between the visual presentation",
+          "link": "https://www.freecodecamp.org/news/html-roving-tabindex-attribute-explained-with-examples/",
+          "publishedOn": "2021-06-14T20:15:00.000Z",
+          "wordCount": 1297,
+          "title": "HTML Roving tabindex Attribute Explained with Examples"
+        },
         {
           "id": "60c794e64dc1a607ed7b25ba",
           "author": null,

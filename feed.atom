@@ -2,10 +2,42 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://lvytwjw.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-14T22:07:40.317Z</updated>
+    <updated>2021-06-14T23:06:50.002Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://lvytwjw.github.io/rss/index.html"/>
     <link rel="self" href="https://lvytwjw.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[System Design Interview Tutorial – The Beginner&#x27;s Guide to System Design]]></title>
+        <id>60873d1fdd38b9088c2c0842</id>
+        <link href="https://www.freecodecamp.org/news/system-design-interview-practice-tutorial/"/>
+        <updated>2021-06-14T22:46:31.000Z</updated>
+        <summary type="html"><![CDATA[System Design is an important topic to understand if you want to advance further in your career as a software engineer. Even if you are just beginning your coding journey, it's a good idea to get a head start on learning about system design.  Early in your career you will]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Making Tables With Sticky Header and Footers Got a Bit Easier]]></title>
+        <id>https://css-tricks.com/?p=342294</id>
+        <link href="https://css-tricks.com/making-tables-with-sticky-header-and-footers-got-a-bit-easier/"/>
+        <updated>2021-06-14T22:04:41.000Z</updated>
+        <summary type="html"><![CDATA[It wasn’t long ago when I looked at sticky headers and footers in HTML <table>s in the blog post A table with both a sticky header and a sticky first column. In it, I never used position: sticky on …
+The post Making Tables With Sticky Header and Footers Got a Bit Easier appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HTML Roving tabindex Attribute Explained with Examples]]></title>
+        <id>60c3b862d3126007592d689b</id>
+        <link href="https://www.freecodecamp.org/news/html-roving-tabindex-attribute-explained-with-examples/"/>
+        <updated>2021-06-14T20:15:00.000Z</updated>
+        <summary type="html"><![CDATA[Have you ever used the CSS order or direction properties? You've probably used them dozens of times, but did you realize that these properties will cause a disconnect between what's being displayed and what's actually in the DOM? Using the order property will create a disconnect between the visual presentation]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[辉瑞和阿斯利康新冠疫苗可高度有效预防Delta毒株住院病例]]></title>
         <id>https://www.cnbeta.com/articles/tech/1140545.htm</id>
