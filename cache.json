@@ -1523,6 +1523,132 @@
       "siteUrl": "https://www.cnbeta.com",
       "articles": [
         {
+          "id": "https://www.cnbeta.com/articles/tech/1140355.htm",
+          "author": "ugmbbc",
+          "description": "据央视新闻报道称，目前，野象群在云南易门县十街乡附近山体小范围迂回活动，无人机再次拍到它们睡觉。视频中，一小象踩了另一小象的背；被踩的小象“伸伸懒腰”，踩到一旁大象的鼻子和脸，目前附近村庄安装大象识别系统，只要大象出现在监测范围内，就会报警提醒村民。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1140355.htm",
+          "publishedOn": "2021-06-14T04:01:23.000Z",
+          "wordCount": 196,
+          "title": "云南野象群最新活动范围被成功追踪 再次被拍到熟睡画面"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/science/1140353.htm",
+          "author": "teikaei",
+          "description": "据外媒报道，无论是在感染时还是之后的好几个月，COVID-19被发现跟各种意想不到的症状存在关联。目前尚不完全清楚导致这些症状的原因，但有一种可能性是，COVID-19正在触发一种自身免疫过程，这种过程会使免疫系统被误导进而攻击自身。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/science/1140353.htm",
+          "publishedOn": "2021-06-14T03:51:48.000Z",
+          "wordCount": 199,
+          "title": "研究：许多COVID-19患者会产生攻击自身组织和器官的免疫反应"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1140351.htm",
+          "author": "ugmbbc",
+          "description": "6月9日，索尼宣布研发出一种环保的可持续性纸质材料 ——“原生混合材料（Original Blended Material）”，这种菜陆奥由竹子、甘蔗纤维和消费后的再生纸制成，材料可实现明确溯源。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1140351.htm",
+          "publishedOn": "2021-06-14T03:44:42.000Z",
+          "wordCount": 211,
+          "title": "索尼研发出名为“原生混合材料”的可持续性纸质材料"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/science/1140349.htm",
+          "author": "teikaei",
+          "description": "据外媒报道，三个相距遥远的矮星系同时出现了新恒星的“婴儿潮”，这一意外发现挑战了有关星系如何成长的现有理论并可能增强我们人类对宇宙的理解。就何时产生新恒星而言，距离超100万光年的星系应该有完全独立的生命。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/science/1140349.htm",
+          "publishedOn": "2021-06-14T03:42:39.000Z",
+          "wordCount": 197,
+          "title": "研究发现36个矮星系同时出现新恒星诞生“婴儿潮”"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1140347.htm",
+          "author": "teikaei",
+          "description": "“比特币教主”马斯克又发话了。因为他在Twitter上的一席话，比特币价格再一次一飞冲天。北京时间6月14日凌晨，马斯克周日在Twitter上表示，当确认矿工使用合理比例（约50%）的清洁能源且未来趋势向好时，特斯拉线上商店将恢复接受比特币付款，用于购买特斯拉汽车。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1140347.htm",
+          "publishedOn": "2021-06-14T03:41:31.000Z",
+          "wordCount": 198,
+          "title": "教主“翻云覆雨”：马斯克一句话 比特币冲上39000美元"
+        },
+        {
+          "id": "https://hot.cnbeta.com/articles/game/1140345.htm",
+          "author": "teikaei",
+          "description": "世嘉今天早间发布了《索尼克：色彩终极版》（Sonic Colors: Ultimate）的E3 2021预告片。正如标题所示，《索尼克：色彩终极版》是2010年平台跳跃游戏作品《索尼克：色彩》的复刻版本。本作将于9月7日发售，登陆Epic游戏商城。\n 阅读全文",
+          "link": "https://hot.cnbeta.com/articles/game/1140345.htm",
+          "publishedOn": "2021-06-14T03:40:00.000Z",
+          "wordCount": 205,
+          "title": "E3 2021：世嘉发布《索尼克：色彩终极版》预告片"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/science/1140343.htm",
+          "author": "teikaei",
+          "description": "大象北上昆明，刷爆全网，引发关注。然而有很多关于大象的有趣行为，可能大家并不了解，今天来给大家讲个关于大象的有趣故事：每头大象其实都是个“屁精”！据科学家估算，每头大象每天放的屁（主要是甲烷），如果换算成汽车高效利用的话，可以开出去30公里远，和它一天行走的距离差不多。因此把大象称之为屁神或屁精，丝毫没有任何夸张或贬低大象的含义。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/science/1140343.htm",
+          "publishedOn": "2021-06-14T03:27:54.000Z",
+          "wordCount": 192,
+          "title": "每天放屁3400升：你不知道的“屁精”大象"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1140341.htm",
+          "author": "ugmbbc",
+          "description": "在过去的几年里，Google已经大大改善了Android系统处理后台应用程序的方式。Doze和App Standby Buckets等优化措施有助于将系统资源分配给最需要的应用程序，同时确保滥用的应用程序不会在后台肆意运行。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1140341.htm",
+          "publishedOn": "2021-06-14T03:26:10.000Z",
+          "wordCount": 205,
+          "title": "Google正调查手机厂商在杀Android后台进程时过于激进的问题"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/science/1140339.htm",
+          "author": "teikaei",
+          "description": "随着夏天的到来，你是不是听到熟悉的“嗡嗡”声就下意识想起蚊子包带来的瘙痒感呢？许多人也开始囤积驱蚊剂“备战”。别小看驱蚊剂的作用，比起止痒，最重要的是，它们能让蚊子在靠近皮肤前就自动逃开，从而预防由蚊子传播的各种疾病。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/science/1140339.htm",
+          "publishedOn": "2021-06-14T03:26:03.000Z",
+          "wordCount": 195,
+          "title": "和烦人的蚊子说“拜拜” 华人团队揭秘驱蚊剂的防蚊原理"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1140337.htm",
+          "author": "teikaei",
+          "description": "6月13日消息，万物新生集团（爱回收）更新招股书，招股书显示，公司计划发行1623.3万股美国存托股票(ADS)，发行价区间为13-15美元/ADS。同时，万物新生赋予承销商243.5万股ADS超额配售权，连同超额配售发行股数，其募资规模至多可达到2.8亿美元，其IPO估值区间约为34.5亿-39.8亿美元。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1140337.htm",
+          "publishedOn": "2021-06-14T03:21:31.000Z",
+          "wordCount": 207,
+          "title": "爱回收更新招股书：预计6月18日正式登陆纽交所 创始人IPO前减持"
+        },
+        {
+          "id": "https://hot.cnbeta.com/articles/movie/1140335.htm",
+          "author": "teikaei",
+          "description": "“前几年小成本（网络大电影）上一部骂一部，被瞧不起；现在，捶着捶着反而成了平台（优爱腾）抢夺的优质资源，有热度、有钱赚，地位不一样了，所以骂的人少了，研究的人多了。”导演张闯（化名）觉得，如今网络电影已经成为优爱腾抢夺会员的重要筹码（网络自制剧、网络电影、网络综艺）之一。\n 阅读全文",
+          "link": "https://hot.cnbeta.com/articles/movie/1140335.htm",
+          "publishedOn": "2021-06-14T03:20:43.000Z",
+          "wordCount": 198,
+          "title": "边骂边追的网络电影，为什么越活越滋润？"
+        },
+        {
+          "id": "https://hot.cnbeta.com/articles/game/1140333.htm",
+          "author": "teikaei",
+          "description": "今天举行的E3 Xbox和B社展示上，微软旗下游戏订阅服务Xbox Game Pass发布了全新游戏阵容。E3 2021：XGP发布全新游戏阵容 三十多款新作首日游玩该列表中包括了此次最新发布的许多3A大作；在今天XGP会员立刻可以享受到的新游戏包括《毁灭战士》、《恶灵附身2》、《如龙7》以及《辐射》系列1到3作等。\n 阅读全文",
+          "link": "https://hot.cnbeta.com/articles/game/1140333.htm",
+          "publishedOn": "2021-06-14T03:18:45.000Z",
+          "wordCount": 212,
+          "title": "E3 2021：XGP发布全新游戏阵容 三十多款新作首日游玩"
+        },
+        {
+          "id": "https://hot.cnbeta.com/articles/game/1140331.htm",
+          "author": "teikaei",
+          "description": "《史莱姆牧场》是一款于2017年由Monomi Park开发并发行的第一人称开放世界冒险养成模拟独立游戏。在今天的Xbox和Bethesda展会上，该作续作《史莱姆牧场2》公布了最新预告。\n 阅读全文",
+          "link": "https://hot.cnbeta.com/articles/game/1140331.htm",
+          "publishedOn": "2021-06-14T03:17:52.000Z",
+          "wordCount": 214,
+          "title": "E3 2021：《史莱姆牧场2》公布最新预告 2022年XGP首发"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/science/1140329.htm",
+          "author": "teikaei",
+          "description": "据外媒报道，科学家在非洲的马拉维湖发现了第一个夜间活动的丽鱼物种，这为睡眠的进化提供了线索。由于觅食策略、社会行为和躲避捕食者的欲望，动物的睡眠和活动模式非常多样化。据悉，这些淡水鱼有着3000多种丽鱼科，其可能是世界上种类最丰富的鱼类之一。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/science/1140329.htm",
+          "publishedOn": "2021-06-14T03:16:35.000Z",
+          "wordCount": 191,
+          "title": "研究人员发现首个在夜间活动的丽鱼物种"
+        },
+        {
           "id": "https://hot.cnbeta.com/articles/game/1140327.htm",
           "author": "ugmbbc",
           "description": "《切尔诺贝利人》（Chernobylite）是一款第一人称求生恐怖RPG，在本次E3 2021的PC游戏秀展会上，我们随着演示一起筹备物资，最后突破封锁进入切尔诺贝利核电站。玩家将要寻找亲爱的Tatyana，不过小队里的其他人则各自心怀鬼胎。\n 阅读全文",
