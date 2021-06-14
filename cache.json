@@ -1523,6 +1523,51 @@
       "siteUrl": "https://www.cnbeta.com",
       "articles": [
         {
+          "id": "https://hot.cnbeta.com/articles/game/1140327.htm",
+          "author": "ugmbbc",
+          "description": "《切尔诺贝利人》（Chernobylite）是一款第一人称求生恐怖RPG，在本次E3 2021的PC游戏秀展会上，我们随着演示一起筹备物资，最后突破封锁进入切尔诺贝利核电站。玩家将要寻找亲爱的Tatyana，不过小队里的其他人则各自心怀鬼胎。\n 阅读全文",
+          "link": "https://hot.cnbeta.com/articles/game/1140327.htm",
+          "publishedOn": "2021-06-14T03:08:48.000Z",
+          "wordCount": 201,
+          "title": "E3 2021：《切尔诺贝利人》PC游戏秀公布新演示"
+        },
+        {
+          "id": "https://hot.cnbeta.com/articles/music/1140325.htm",
+          "author": "ugmbbc",
+          "description": "美国非知名音乐人“DJ D-Sol”近日发布了他的最新单曲《学会爱我》（Learn to Love Me），他的另一个身份是华尔街顶级投行高盛集团的CEO大卫-所罗门。这首单曲出现在高盛预期重返办公室的前几天。上周五，所罗门在他的个人社交媒体账户上发布了这首歌。\n 阅读全文",
+          "link": "https://hot.cnbeta.com/articles/music/1140325.htm",
+          "publishedOn": "2021-06-14T03:06:37.000Z",
+          "wordCount": 196,
+          "title": "“不务正业”的高盛CEO又发单曲《学会爱我》"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1140323.htm",
+          "author": "ugmbbc",
+          "description": "Intel今年底会推出12代酷睿Alder Lake处理器，升级10nm ESF工艺，首次使用Golden Cove大核及Gracemont小核心组成的大小核架构，还有LGA1700插槽，支持DDR5、PCIe 5.0等先进技术。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1140323.htm",
+          "publishedOn": "2021-06-14T03:01:28.000Z",
+          "wordCount": 215,
+          "title": "Intel 7nm流星湖处理器有望年底出样"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/science/1140321.htm",
+          "author": "teikaei",
+          "description": "据外媒报道，根据一项新研究显示，吃得快或更大口吃的人更有可能在吃饭的时候吃得更多。这项研究在NUTRITION 2021 LIVE ONLINE上公布，其为可能导致暴饮暴食的因素提供了新的见解。这项研究还新增了表明当人们被给予更大分量吃得更多的更多证据。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/science/1140321.htm",
+          "publishedOn": "2021-06-14T02:52:00.000Z",
+          "wordCount": 202,
+          "title": "如何避免暴饮暴食？研究人员发现饮食方式对非常重要"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/science/1140319.htm",
+          "author": "teikaei",
+          "description": "据外媒报道，随着气象夏季的到来，北半球部分地区在2021年6月初就已经感受到了高温。特别是初季的热浪已经炙烤了整个中东国家。下面的地图显示了该地区2021年6月6日的气温。该地图来自戈达德地球观测系统(GEOS)模型，其描绘了地面以上2米的空气温度。其中，最暗的红色区域代表的是温度在50°C左右的地方。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/science/1140319.htm",
+          "publishedOn": "2021-06-14T02:42:57.000Z",
+          "wordCount": 193,
+          "title": "GOES模型地图形象展示被热浪炙烤的中东地区"
+        },
+        {
           "id": "https://www.cnbeta.com/articles/science/1140317.htm",
           "author": "teikaei",
           "description": "据外媒报道，跟普遍的看法相反，并不是所有的行星都围绕恒星运行--有些行星自己在宇宙中自由漂移。这些寒冷、黑暗的世界并不适合孕育生命，但一项新研究表明，它们的卫星可能比看起来更适合居住。\n 阅读全文",

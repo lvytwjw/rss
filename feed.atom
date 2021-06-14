@@ -2,10 +2,65 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://lvytwjw.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-14T02:32:27.502Z</updated>
+    <updated>2021-06-14T03:10:27.553Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://lvytwjw.github.io/rss/index.html"/>
     <link rel="self" href="https://lvytwjw.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[E3 2021：《切尔诺贝利人》PC游戏秀公布新演示]]></title>
+        <id>https://hot.cnbeta.com/articles/game/1140327.htm</id>
+        <link href="https://hot.cnbeta.com/articles/game/1140327.htm"/>
+        <updated>2021-06-14T03:08:48.000Z</updated>
+        <summary type="html"><![CDATA[《切尔诺贝利人》（Chernobylite）是一款第一人称求生恐怖RPG，在本次E3 2021的PC游戏秀展会上，我们随着演示一起筹备物资，最后突破封锁进入切尔诺贝利核电站。玩家将要寻找亲爱的Tatyana，不过小队里的其他人则各自心怀鬼胎。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“不务正业”的高盛CEO又发单曲《学会爱我》]]></title>
+        <id>https://hot.cnbeta.com/articles/music/1140325.htm</id>
+        <link href="https://hot.cnbeta.com/articles/music/1140325.htm"/>
+        <updated>2021-06-14T03:06:37.000Z</updated>
+        <summary type="html"><![CDATA[美国非知名音乐人“DJ D-Sol”近日发布了他的最新单曲《学会爱我》（Learn to Love Me），他的另一个身份是华尔街顶级投行高盛集团的CEO大卫-所罗门。这首单曲出现在高盛预期重返办公室的前几天。上周五，所罗门在他的个人社交媒体账户上发布了这首歌。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Intel 7nm流星湖处理器有望年底出样]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1140323.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1140323.htm"/>
+        <updated>2021-06-14T03:01:28.000Z</updated>
+        <summary type="html"><![CDATA[Intel今年底会推出12代酷睿Alder Lake处理器，升级10nm ESF工艺，首次使用Golden Cove大核及Gracemont小核心组成的大小核架构，还有LGA1700插槽，支持DDR5、PCIe 5.0等先进技术。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[如何避免暴饮暴食？研究人员发现饮食方式对非常重要]]></title>
+        <id>https://www.cnbeta.com/articles/science/1140321.htm</id>
+        <link href="https://www.cnbeta.com/articles/science/1140321.htm"/>
+        <updated>2021-06-14T02:52:00.000Z</updated>
+        <summary type="html"><![CDATA[据外媒报道，根据一项新研究显示，吃得快或更大口吃的人更有可能在吃饭的时候吃得更多。这项研究在NUTRITION 2021 LIVE ONLINE上公布，其为可能导致暴饮暴食的因素提供了新的见解。这项研究还新增了表明当人们被给予更大分量吃得更多的更多证据。
+ 阅读全文]]></summary>
+        <author>
+            <name>teikaei</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GOES模型地图形象展示被热浪炙烤的中东地区]]></title>
+        <id>https://www.cnbeta.com/articles/science/1140319.htm</id>
+        <link href="https://www.cnbeta.com/articles/science/1140319.htm"/>
+        <updated>2021-06-14T02:42:57.000Z</updated>
+        <summary type="html"><![CDATA[据外媒报道，随着气象夏季的到来，北半球部分地区在2021年6月初就已经感受到了高温。特别是初季的热浪已经炙烤了整个中东国家。下面的地图显示了该地区2021年6月6日的气温。该地图来自戈达德地球观测系统(GEOS)模型，其描绘了地面以上2米的空气温度。其中，最暗的红色区域代表的是温度在50°C左右的地方。
+ 阅读全文]]></summary>
+        <author>
+            <name>teikaei</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[研究：“流浪行星”系外卫星可能存在水和生命]]></title>
         <id>https://www.cnbeta.com/articles/science/1140317.htm</id>
