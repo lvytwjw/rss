@@ -2,10 +2,54 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://lvytwjw.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-14T15:07:03.992Z</updated>
+    <updated>2021-06-14T16:13:37.502Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://lvytwjw.github.io/rss/index.html"/>
     <link rel="self" href="https://lvytwjw.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[RTX 2060复活之后又遭限制 NVIDIA希望优先保证RTX 3060显卡产能]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1140519.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1140519.htm"/>
+        <updated>2021-06-14T15:56:43.000Z</updated>
+        <summary type="html"><![CDATA[最近这一年，由于半导体芯片产能紧张及挖矿的影响，显卡市场很多时候真让人捉摸不透，除了畸形的价格之外，现在还有很多奇葩事，比如因为缺货而被复活的RTX 2060显卡现在又被限制了。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[三星Galaxy Watch 4出现在FCC认证列表中]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1140517.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1140517.htm"/>
+        <updated>2021-06-14T15:48:45.000Z</updated>
+        <summary type="html"><![CDATA[根据最近的传言，三星希望在8月27日Galaxy Z Fold3和Z Flip3发布会之前，于8月11日发布其Galaxy Watch 4系列。现在，即将推出的Galaxy Watch的LTE和Wi-Fi版本都出现在FCC数据库中，其中揭示了一些关键规格。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google涂鸦纪念美国偶像：儿童电影明星秀兰·邓波儿]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1140515.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1140515.htm"/>
+        <updated>2021-06-14T15:33:20.000Z</updated>
+        <summary type="html"><![CDATA[秀兰-邓波儿载歌载舞，成为有史以来最受欢迎的儿童演员之一，在大萧条时期帮助数百万经济困难的美国人振作精神渡过难关。当她还是个孩子的时候，她就在20世纪30年代中期的几年里成为票房冠军，然后长大后又成为一名外交官。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Beats Studio Buds无线降噪耳塞发布 在iOS与Android设备上表现一样好]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1140513.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1140513.htm"/>
+        <updated>2021-06-14T15:25:45.000Z</updated>
+        <summary type="html"><![CDATA[Beats推出了其第一款真无线耳塞，也是迄今为止外形最小的一款Beats产品，Studio Buds的发布标志着Beats加入了苹果的AirPods Pro和索尼的WF-1000XM4占据的主动降噪耳塞的主战场。Studio Buds的设计一开始就考虑让其在iOS系统和Android设备上的表现一样好，与此同时它还支持Apple Music的杜比全景声空间音乐。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[摩托罗拉RAZR 3的上市时间将被推迟到2022年]]></title>
         <id>https://www.cnbeta.com/articles/tech/1140511.htm</id>
