@@ -1523,6 +1523,33 @@
       "siteUrl": "https://www.cnbeta.com",
       "articles": [
         {
+          "id": "https://www.cnbeta.com/articles/tech/1140437.htm",
+          "author": "ugmbbc",
+          "description": "《安全周刊》报道，在欧洲各国明白需要更好地保护自己免受俄罗斯干涉的警告之后，意大利率先创建了一个国家网络安全机构。这个新机构是由内阁在周四的一次通宵会议上批准的。意大利政府在一份声明中说，它必须在捍卫国家利益的同时，保护国家的服务和关键活动免受网络威胁。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1140437.htm",
+          "publishedOn": "2021-06-14T09:49:23.000Z",
+          "wordCount": 202,
+          "title": "遭遇来自俄罗斯的间谍与操纵威胁后 意大利宣布成立网络安全机构"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/science/1140435.htm",
+          "author": "ugmbbc",
+          "description": "研究人员利用阿塔卡马大型毫米/亚毫米阵列（ALMA）发现了131亿年前由一个超大质量黑洞驱动的巨大星系风。这是迄今为止最早观察到的这种风的例子，也是一个明显的迹象，这表明巨大的黑洞在宇宙的早期历史中就对星系的成长产生了深刻的影响。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/science/1140435.htm",
+          "publishedOn": "2021-06-14T09:42:45.000Z",
+          "wordCount": 196,
+          "title": "最早的巨大黑洞风暴被发现：关于宇宙早期历史的提示性信号"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1140433.htm",
+          "author": "ugmbbc",
+          "description": "在刚刚结束的 2021上海果粉嘉年华活动上，紫米展出了一款未上市的产品，拥有65W大功率输出，双输出接口，修长的外观设计，它就是紫米 65W 1A1C氮化镓充电器。紫米 65W 1A1C氮化镓充电器采用目前最为主流的条形柱状外观设计，1A1C 双口配置，主体采用黑色外观设计，风格较为沉稳商务。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1140433.htm",
+          "publishedOn": "2021-06-14T09:38:59.000Z",
+          "wordCount": 268,
+          "title": "高功率密度 紫米65W 1A1C氮化镓充电器谍照放出"
+        },
+        {
           "id": "https://www.cnbeta.com/articles/tech/1140431.htm",
           "author": "ugmbbc",
           "description": "英国的竞争监管机构即竞争和市场管理局（CMA）宣布将与Google合作，试图重新制定在线广告定位。是因为Google正试图逐步停止使用第三方cookies来跟踪和定位用户的广告，而是使用一套新的技术，它称之为隐私沙盒。\n 阅读全文",
