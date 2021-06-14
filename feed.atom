@@ -2,10 +2,43 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://lvytwjw.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-14T17:23:29.940Z</updated>
+    <updated>2021-06-14T18:08:07.852Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://lvytwjw.github.io/rss/index.html"/>
     <link rel="self" href="https://lvytwjw.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[分析师预测今年智能手机出货量增长 5G机型出货量明年击败4G手机]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1140535.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1140535.htm"/>
+        <updated>2021-06-14T17:56:24.000Z</updated>
+        <summary type="html"><![CDATA[2020年，由于新冠疫情造成的市场状况，智能手机增长大幅下滑，出货量下降7%。Canalys的分析师预测，2021年将看到市场复苏，他们还预测，在采用5G方面将接近一个转折点。
+ 阅读全文]]></summary>
+        <author>
+            <name>maomao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[比特币大涨13%重上4万美元 除了马斯克还有这些助推剂]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1140533.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1140533.htm"/>
+        <updated>2021-06-14T17:54:06.000Z</updated>
+        <summary type="html"><![CDATA[6月14日周一，比特币在美股盘前半小时重返4万美元关口上方，为5月27日以来近三周首次，也是两日连涨且涨幅均为两位数百分比。据Coindesk数据，周一美股盘初，比特币在24小时内保持逾13%的涨幅，交投40600美元上方，最高曾突破4.1万美元整数位，日振幅超过5200美元之巨，周日大涨前交投35800美元一线。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“垃圾轮”先生正在巴尔的摩港口吞噬数百万磅的垃圾]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1140531.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1140531.htm"/>
+        <updated>2021-06-14T17:23:59.000Z</updated>
+        <summary type="html"><![CDATA[巴尔的摩最大的人物之一不在运动场上打球，也不在市政厅占据一个办公室。相反，它正在执行一项相当普通的任务，即清洁城市的水道。但这正是使它出名的原因，目前它有数以百万计的推特粉丝。
+ 阅读全文]]></summary>
+        <author>
+            <name>maomao</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[NASA认证了罗曼太空望远镜全部24个探测器]]></title>
         <id>https://www.cnbeta.com/articles/science/1140529.htm</id>
