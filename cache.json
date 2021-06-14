@@ -1537,6 +1537,141 @@
       "siteUrl": "https://www.cnbeta.com",
       "articles": [
         {
+          "id": "https://www.cnbeta.com/articles/tech/1140499.htm",
+          "author": "ugmbbc",
+          "description": "按照以往惯例，苹果将会在今年9月份召开秋季新品发布会，其中将会带来最新一代手机产品——iPhone 12s系列。随着WWDC的大会的开始，iPhone 12s系列即将预装的iOS 15系统已经首次亮相，这也令人越发关注iPhone 12s系列新机，对该机的各种爆料也层出不穷。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1140499.htm",
+          "publishedOn": "2021-06-14T12:44:34.000Z",
+          "wordCount": 218,
+          "title": "iPhone 12s高清渲染图曝光：后摄引入透明探索版设计"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1140497.htm",
+          "author": "ugmbbc",
+          "description": "AppleCare+是果粉们都很熟悉的一项付费服务，你去逛 Apple Store 时店员不一定会推销 iPhone，但买单时大概率会被安利一波 AppleCare+。说白了就是意外险，一旦苹果设备出现碎屏、浸液、开不了机等问题，都能支付一笔极低的金额获取维修或者换新的权益。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1140497.htm",
+          "publishedOn": "2021-06-14T12:43:55.000Z",
+          "wordCount": 343,
+          "title": "羊毛党求你停手吧 苹果的福利都被你们折腾废了"
+        },
+        {
+          "id": "https://hot.cnbeta.com/articles/game/1140495.htm",
+          "author": "ugmbbc",
+          "description": "今日（6月14日）凌晨时分，B社科幻RPG《星空（Starfield）》的首支预告发布，该作将于2022年11月11日发售，登陆Xbox Series X|S和PC平台，发售首日加入Xbox Game Pass。在《星空》预告片发布的同时，B社游戏总监Todd Howard的几篇采访稿也随之发布，他谈到了该作的部分细节：\n 阅读全文",
+          "link": "https://hot.cnbeta.com/articles/game/1140495.htm",
+          "publishedOn": "2021-06-14T12:42:59.000Z",
+          "wordCount": 222,
+          "title": "《星空》概念图曝光 制作人称其为太空版《天际》"
+        },
+        {
+          "id": "https://hot.cnbeta.com/articles/game/1140493.htm",
+          "author": "ugmbbc",
+          "description": "在微软Xbox E3 2021发表会过后，有传言指出竞争对手索尼将在接下来的几周内准备他们自己的PlayStation夏季发布会。消息来自于舅舅党Navtra，他在Resetera论坛上发布了这个消息。他说如果一切不变的话，那么玩家只需要再等2个星期。\n 阅读全文",
+          "link": "https://hot.cnbeta.com/articles/game/1140493.htm",
+          "publishedOn": "2021-06-14T12:42:06.000Z",
+          "wordCount": 206,
+          "title": "传索尼PlayStation夏季发布会几周后举行"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/science/1140491.htm",
+          "author": "ugmbbc",
+          "description": "世界第三大经济体——日本，在过去的一个多世纪以来，凭借石油、天然气和煤炭打造出一整套完整的工业体系。但如今，日本正在加足马力，把一大部分能源需求转化为更加清洁的能源——氢能。此前，氢能一度被认为成本过高以及效率过低。这样的抉择，被外界看来是日本在整个工业体系上的最大赌注。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/science/1140491.htm",
+          "publishedOn": "2021-06-14T12:41:50.000Z",
+          "wordCount": 193,
+          "title": "豪赌氢能源 日本会成为全球能源业真正的“游戏改变者”吗？"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1140489.htm",
+          "author": "ugmbbc",
+          "description": "美国生技公司诺瓦瓦克斯（Novavax）14日表示，在近3万名美国和墨西哥民众参与的第三期临床实验中，证明该公司研发新冠疫苗安全且总体效力达90.4%。此外，他们发现注射两剂Novavax疫苗后，可100%预防染疫者演变至中度和重症患者，且在对抗某些变种病毒效力会有93%。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1140489.htm",
+          "publishedOn": "2021-06-14T12:41:03.000Z",
+          "wordCount": 201,
+          "title": "Novavax称疫苗效力达90% 拟今年第三季向美FDA申请授权"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1140487.htm",
+          "author": "ugmbbc",
+          "description": "英国当局预计，可以在6月底前让所有成年人至少接种一针新冠疫苗，有望提前一个月实现卫生大臣Matt Hancock的目标。知情人士称，在上周向25岁以上成年人开放疫苗项目之后，有望6月30日之前向18岁以上成年人开放。官方目标依然是7月底前为所有成年人接种至少一针疫苗。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1140487.htm",
+          "publishedOn": "2021-06-14T12:38:35.000Z",
+          "wordCount": 203,
+          "title": "英国有望提前一个月实现疫苗接种目标 但新感染病例仍在激增"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1140485.htm",
+          "author": "ugmbbc",
+          "description": "新华社北京6月14日电（记者乔颖）为推动新冠疫苗接种，俄罗斯首都莫斯科市市长谢尔盖·索比亚宁13日宣布，莫斯科将面向疫苗接种者举办抽奖活动，每周抽取5名中奖者，奖励每人一辆小汽车。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1140485.htm",
+          "publishedOn": "2021-06-14T12:37:40.000Z",
+          "wordCount": 198,
+          "title": "莫斯科抽奖促接种 奖品是汽车"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1140483.htm",
+          "author": "ugmbbc",
+          "description": "“平台抽成比例太高了，分配机制不公开透明，明明就要拿到奖励金了，但就是不给你派单。”6月的一天，一位从北京北五环开车到大兴机场的网约车司机对第一财经记者说。另一位网约车司机告诉记者，“没办法，现在只能先在平台上接单，客人上车后再取消行程，用线下结算的办法，尽量减少平台抽成。”\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1140483.htm",
+          "publishedOn": "2021-06-14T12:37:23.000Z",
+          "wordCount": 200,
+          "title": "平台抽成比例太高 报告称网约车垄断格局不会长期存在"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/science/1140481.htm",
+          "author": "ugmbbc",
+          "description": "建造和发射卫星是昂贵的行动，世界各地都有公司希望使之更加便宜。欧空局最近宣布它将把第一颗木制卫星送入轨道，它被称为WISA Woodsat，它是一个10x10x10厘米的CubeSat纳米卫星，由标准化的盒子建成。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/science/1140481.htm",
+          "publishedOn": "2021-06-14T12:32:54.000Z",
+          "wordCount": 197,
+          "title": "欧空局表态向木质的WISA Woodsat廉价小卫星任务提供支持"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1140479.htm",
+          "author": "ugmbbc",
+          "description": "亚马逊将于6月21日和22日（亚马逊总理日）向所有亚马逊Prime会员开放其游戏流媒体服务Luna的访问权。在这之前要测试Luna，必须请求访问或从支持的Fire TV设备上注册。Luna可在Windows PC、Mac、Fire TV上使用，也可通过网络在iPhone、iPad和 \"特定Android手机\"上使用。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1140479.htm",
+          "publishedOn": "2021-06-14T12:27:51.000Z",
+          "wordCount": 207,
+          "title": "亚马逊游戏流媒体服务Luna将于6月21、22日向所有Prime会员开放"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1140477.htm",
+          "author": "ugmbbc",
+          "description": "Niantic公司正在从可爱的小动物扩展到巨型机器人。今天，这个游戏开发商宣布了它的下一个项目：一个名为《变形金刚：重金属》的基于位置的增强现实游戏。这款游戏预计将于今年在全球范围内推出，并 \"很快\"在部分国家启动试玩。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1140477.htm",
+          "publishedOn": "2021-06-14T12:24:16.000Z",
+          "wordCount": 204,
+          "title": "《精灵宝可梦Go》的开发商Niantic正在制作一款变形金刚游戏"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1140475.htm",
+          "author": "ugmbbc",
+          "description": "仅去年一年，Google Docs已经变得无处不在，但无数使用它的工作场所经常忽略的一个主要批评是，它不是端对端加密的，这样一来它会允许Google或任何请求的政府机构访问公司的文件。但是，Google终于通过一轮更新来解决这一关键问题，让客户通过存储自己的加密密钥来保护他们的数据。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1140475.htm",
+          "publishedOn": "2021-06-14T12:21:13.000Z",
+          "wordCount": 205,
+          "title": "Google将让企业存储其Google Workspace的加密密钥"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1140473.htm",
+          "author": "ugmbbc",
+          "description": "LG在美国为其4K G1 OLED提供延长的5年保修期，涵盖标准一年保修期后面板出现的任何问题。在英国，延保政策也适用于其Z1 8K OLED。目前还不清楚LG在其他多少个国家提供延长保修。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1140473.htm",
+          "publishedOn": "2021-06-14T12:17:28.000Z",
+          "wordCount": 218,
+          "title": "LG G1 OLED高端电视开始在美国和英国提供延长至5年的保修"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1140471.htm",
+          "author": "ugmbbc",
+          "description": "最近几个月，全球半导体面临产能紧张的问题，进而引发了多次大涨价，国内很多芯片，尤其是高端芯片依赖国外公司，受影响更严重。目前国内也在大力提升半导体制造能力，不过高端芯片瓶颈很大。对于这个问题，TCL创始人、董事长李东生日前在采访中也谈到了国产高端芯片的发展情况。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1140471.htm",
+          "publishedOn": "2021-06-14T12:11:49.000Z",
+          "wordCount": 204,
+          "title": "TCL创始人李东生谈国产高端芯片：5年后搞定5nm就很了不起了"
+        },
+        {
           "id": "https://www.cnbeta.com/articles/tech/1140469.htm",
           "author": "ugmbbc",
           "description": "KINGMAX今天发布了AX448系列的M.2 NVMe固态硬盘。这些硬盘有1TB、2TB和4TB的大容量版本，可利用PCI-Express 4.0 x4主机接口和NVMe协议的高带宽优势提升传输性能。\n 阅读全文",
