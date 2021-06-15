@@ -1664,6 +1664,60 @@
       "siteUrl": "https://www.cnbeta.com",
       "articles": [
         {
+          "id": "https://hot.cnbeta.com/articles/game/1140997.htm",
+          "author": "ugmbbc",
+          "description": "据娱乐软件协会 （ESA） 数据，电子游戏既不是专属于年轻人的消遣，也不是以男性玩家为主导，事实上恰恰相反：美国所有游戏玩家中有41%是女性，电子游戏玩家的平均年龄范围为35-44岁。\n 阅读全文",
+          "link": "https://hot.cnbeta.com/articles/game/1140997.htm",
+          "publishedOn": "2021-06-15T18:33:15.000Z",
+          "wordCount": 206,
+          "title": "ESA：电子游戏既不专属于年轻人 也不以男性玩家为主导"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1140995.htm",
+          "author": "ugmbbc",
+          "description": "纽约州州长安德鲁·库莫取消了纽约州的防疫规定，称现在70%的成年人口已经接种了至少一针冠状病毒疫苗。纽约是美国疫情的早期中心，但库莫表现目前纽约州的检测阳性率是全美最低。他宣布取消针对工商业和居民的所有剩余规定和限制。他还写了一本介绍自己在疫情中的领导力。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1140995.htm",
+          "publishedOn": "2021-06-15T18:30:40.000Z",
+          "wordCount": 197,
+          "title": "纽约州疫苗接种率达到70%的目标 州长宣布取消防疫规定和限制"
+        },
+        {
+          "id": "https://hot.cnbeta.com/articles/game/1140993.htm",
+          "author": "ugmbbc",
+          "description": "在今天凌晨进行的E3任天堂游戏发布会上，《塞尔达传说：旷野之息2》作为压轴作品登场，公开了全新的预告，并宣布将于2022年发售，登陆Switch平台。《塞尔达传说：旷野之息2》全新预告：\n 阅读全文",
+          "link": "https://hot.cnbeta.com/articles/game/1140993.htm",
+          "publishedOn": "2021-06-15T18:25:07.000Z",
+          "wordCount": 201,
+          "title": "E3：《塞尔达传说：旷野之息2》2022年登陆Switch"
+        },
+        {
+          "id": "https://hot.cnbeta.com/articles/game/1140991.htm",
+          "author": "ugmbbc",
+          "description": "在今天凌晨进行的E3任天堂游戏发布会上，收录了4部塞尔达传说系列作品的怀旧掌机“Game & Watch塞尔达传说版”，除了游玩这四款游戏之外，这款掌机还具备时钟功能，预计于11月12日发售，售价5480日元（约319人民币）。\n 阅读全文",
+          "link": "https://hot.cnbeta.com/articles/game/1140991.htm",
+          "publishedOn": "2021-06-15T18:22:14.000Z",
+          "wordCount": 207,
+          "title": "E3：塞尔达怀旧掌机公布 11月12日发售 约320元"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1140989.htm",
+          "author": "ugmbbc",
+          "description": "通用汽车（GM.US）总裁Mark Reuss昨日受访时表示，公司计划在本周晚些时候宣布在美国建立更多的电池工厂，但Mark Reuss目前并未透露工厂的具体位置。通用汽车发言人Jim Cain周一不愿对上述声明置评，但他指出，通用汽车此前曾表示，随着电动汽车销量的增长，公司将建设更多的电池工厂以满足需求。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1140989.htm",
+          "publishedOn": "2021-06-15T18:19:46.000Z",
+          "wordCount": 202,
+          "title": "通用汽车将于本周宣布在美国再建电池工厂"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1140987.htm",
+          "author": "ugmbbc",
+          "description": "鸿蒙概念板块开始降温。6月15日，同花顺鸿蒙概念板块跌幅居首，收跌6.52%。个股方面，仅有传智教育微涨1.47%，其余个股纷纷下跌，九联科技跌停，润和软件收跌3.88%，诚迈科技收跌11.83%。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1140987.htm",
+          "publishedOn": "2021-06-15T18:17:19.000Z",
+          "wordCount": 196,
+          "title": "鸿蒙概念板块降温 多只个股提示短线风险"
+        },
+        {
           "id": "https://www.cnbeta.com/articles/science/1140985.htm",
           "author": "maomao",
           "description": "在20世纪70年代引进一种外来的捕食性蜗牛后，南太平洋社会群岛的50多种树蜗牛被消灭了，但白壳的P. hyalina蜗牛却幸存下来。现在，密歇根大学生物学家和拥有世界上最小计算机的工程师之间展开合作，让科学家们明白了P. hyalina幸存的原因。\n 阅读全文",
