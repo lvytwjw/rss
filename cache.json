@@ -542,6 +542,20 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2021/06/multiple-wordpress-sites-locally-devkinsta/",
+          "author": "hello@smashingmagazine.com (Leonardo Losoviz)",
+          "description": "When developing themes and plugins for WordPress, we need to test them in different environments. How can we create multiple testing sites on our computer, quickly and easily, without having to become a sysadmin?",
+          "link": "https://smashingmagazine.com/2021/06/multiple-wordpress-sites-locally-devkinsta/",
+          "publishedOn": "2021-06-15T10:15:00.000Z",
+          "wordCount": 2381,
+          "title": "Spinning Up Multiple WordPress Sites Locally With DevKinsta",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/2798d879-8878-49e3-bc0f-a1b2008210c0/devkinsta-frontpage.png",
+            "length": "0",
+            "type": "image/png"
+          }
+        },
+        {
           "id": "https://smashingmagazine.com/2021/06/smashing-podcast-episode-39/",
           "author": "hello@smashingmagazine.com (Drew McLellan)",
           "description": "In this episode of the Smashing Podcast, we’re talking about image optimization. What steps should we follow for performant images in 2021? We talk to expert Addy Osmani to find out.",
@@ -1604,6 +1618,87 @@
       "feedUrl": "https://www.cnbeta.com/backend.php",
       "siteUrl": "https://www.cnbeta.com",
       "articles": [
+        {
+          "id": "https://www.cnbeta.com/articles/science/1140921.htm",
+          "author": "ugmbbc",
+          "description": "6月15日消息，日前有网友发布了一条“在乾陵博物馆看到这两件文物长毛了，是咋回事……保存温湿度不到位吗？”的微博。在网友发出的图片中，一件类似于陶制人像的文物四周长满了小绒毛，在光线的照射下仿若一只“金丝猴”。网友纷纷留言“毛未免太多了点吧”“貂裘大衣不错嘛”。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/science/1140921.htm",
+          "publishedOn": "2021-06-15T11:01:38.000Z",
+          "wordCount": 201,
+          "title": "网友发现乾陵博物馆文物长毛 官方：已做处理"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1140919.htm",
+          "author": "ugmbbc",
+          "description": "四川绵阳50多岁的王某某和刘某，在他人介绍下建立恋爱关系并同居生活，但仅仅4个月后，两人就分手了。交往期间，王某某通过微信转款、发红包的方式，给刘某发了3200余元，还给刘某买了价值8000元的首饰。分手后，王某某认为刘某以耍朋友为名骗取钱财，于是向法院起诉，要求返还微信红包，以及购买首饰的8000元钱。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1140919.htm",
+          "publishedOn": "2021-06-15T11:01:18.000Z",
+          "wordCount": 199,
+          "title": "恋爱4个月分手 男方起诉女方返还微信红包 法院这样判"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/science/1140917.htm",
+          "author": "ugmbbc",
+          "description": "据中国载人航天办公室通报，经监测分析，2021年6月15日16时49分±1分钟，长征七号遥三火箭末级残骸已再入大气层。陨落区域中心点位于南太平洋海域（西经129.4°、南纬16.5°），绝大部分器件在再入大气层过程中烧蚀销毁。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/science/1140917.htm",
+          "publishedOn": "2021-06-15T10:59:35.000Z",
+          "wordCount": 193,
+          "title": "长征七号遥三火箭残骸再入地球 箭体绝大部分已烧毁"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1140915.htm",
+          "author": "ugmbbc",
+          "description": "Intel下一代可扩展至强代号Sapphire Rapids，将在明年正式发布，继续采用10nm工艺，但会全面升级架构，核心数也是大幅增加。早先有消息称，Sapphire Rapids最多集成60个核心，内部分成四组，每组15个，类似AMD的小芯片设计，但只会开启56个，后来还有说法称，最多会做到80个核心。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1140915.htm",
+          "publishedOn": "2021-06-15T10:57:41.000Z",
+          "wordCount": 213,
+          "title": "Intel 60核心至强内核照首曝：出厂就屏蔽4个"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1140913.htm",
+          "author": "ugmbbc",
+          "description": "韩国金融服务委员会(Financial Services Commission，简称 FSC)宣布的新规定，指示韩国银行将加密货币交易所视为高风险客户。FSC表示，新指导方针旨在确保加密交易所加强对交易的监控，并维护用户身份要求，交易所必须终止非实名账户或未经必要身份检查核实的账户进行的交易。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1140913.htm",
+          "publishedOn": "2021-06-15T10:53:52.000Z",
+          "wordCount": 200,
+          "title": "韩国金融监管机构：银行需将加密交易所客户列为高风险客户"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1140911.htm",
+          "author": "ugmbbc",
+          "description": "美国和欧盟当地时间周二将举行2014年以来的首次峰会，两国就一项长达17年的飞机补贴争端接近达成协议。美国总统拜登（Joe Biden）和欧盟的同行们迫切希望表明，跨大西洋关系出现了新的势头。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1140911.htm",
+          "publishedOn": "2021-06-15T10:49:57.000Z",
+          "wordCount": 199,
+          "title": "美国和欧盟即将就波音和空客的争端达成停火协议"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1140909.htm",
+          "author": "ugmbbc",
+          "description": "据《日本经济新闻》6月13日报道，通过人体给手机充电将不再是遥远的梦。报道称，30%的人可能患有一种新的现代疾病——“电池恐惧症”。人们需要携带的电子设备数量增加，电池“剩余容量为零”成为了一种可怕的事情。大家固然知道应该在什么时候充电，但却经常忘记。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1140909.htm",
+          "publishedOn": "2021-06-15T10:49:28.000Z",
+          "wordCount": 194,
+          "title": "日媒：“人体电池”未来可给手机充电"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1140907.htm",
+          "author": "ugmbbc",
+          "description": "在中国科技企业中，OPPO向来是比较低调的一个。不过今早，关于这家公司的讨论登上了知乎热搜榜首，原因是他们给芯片方向的应届生开出了超过40万的高薪。根据网友上传的应届生薪资爆料小程序OfferShow截图，OPPO给上海地区芯片设计、芯片验证等岗位应届生都开出了41万的年薪，而数字IC岗位年薪更是达到了45万。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1140907.htm",
+          "publishedOn": "2021-06-15T10:45:38.000Z",
+          "wordCount": 208,
+          "title": "应届生开40万年薪？OPPO大手笔招揽芯片人才引热议"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1140905.htm",
+          "author": "raymon725",
+          "description": "去年秋天，谷歌内部孵化器 Area 120 推出了一款名叫“Tables”的工作追踪工具。作为 AirTable 的竞争对手，它能够帮助用户更有效地追踪相关项目。今天，谷歌宣布 Tables 已正式从 Area 120“毕业”，且预计明年可成为 Google Cloud 全家桶的新成员。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1140905.htm",
+          "publishedOn": "2021-06-15T10:45:03.000Z",
+          "wordCount": 266,
+          "title": "谷歌宣布Tables已完成测试 并将加入Google Cloud全家桶"
+        },
         {
           "id": "https://www.cnbeta.com/articles/tech/1140903.htm",
           "author": "raymon725",
