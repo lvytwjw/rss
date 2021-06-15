@@ -49,6 +49,15 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=342519",
+          "author": "Chris Coyier",
+          "description": "Max Böck took me up on my challenge to look through a codebase and see how many of the @media queries could ultimately become @container queries.\nI took the bait and had a look at some of my projects – \n…\nThe post Media Queries in Times of @container appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://mxb.dev/blog/media-queries-in-times-of-container-queries/",
+          "publishedOn": "2021-06-15T19:51:32.000Z",
+          "wordCount": 1907,
+          "title": "Media Queries in Times of @container"
+        },
+        {
           "id": "https://css-tricks.com/?p=342248",
           "author": "Chris Coyier",
           "description": "I wonder where headless WordPress will land. And by “headless” I mean only using the WordPress admin and building out the user-facing site through the WordPress REST API rather than the traditional WordPress theme structure.\nIs it… big? The future …\nThe post Just How Niche is Headless WordPress? appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
@@ -1663,6 +1672,69 @@
       "feedUrl": "https://www.cnbeta.com/backend.php",
       "siteUrl": "https://www.cnbeta.com",
       "articles": [
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1141019.htm",
+          "author": "maomao",
+          "description": "苹果公司正在继续完善Siri在设备间共享信息和背景，以便实现更细微的、有位置意识的语音命令。苹果周二获得了一项 名为\"数字助理硬件抽象\"的专利，该专利涉及在具有智能助理功能一组设备之间进行智能上下文共享和任务执行。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1141019.htm",
+          "publishedOn": "2021-06-15T20:57:31.000Z",
+          "wordCount": 203,
+          "title": "新专利显示苹果研究网络广播强度 以完善Siri基于位置的反应"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1141017.htm",
+          "author": "maomao",
+          "description": "Nuro已将其无人驾驶运货车用于运送从披萨到处方的任何东西。很快，它的努力将以一种更大方式扩展，这部分归功于物流业一个主要参与者。Nuro周二宣布，它已经与联邦快递建立了合作关系，Nuro自动送货车将被用于最后一英里的业务。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1141017.htm",
+          "publishedOn": "2021-06-15T20:49:42.000Z",
+          "wordCount": 192,
+          "title": "联邦快递正在部署Nuro公司研发的无人驾驶送货车"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1141015.htm",
+          "author": "maomao",
+          "description": "Sonos和宜家已经披露了他们最新的SYMFONISK扬声器，两家公司今天已经确认了一些关键细节。这款相框式音箱是我们迄今为止从Sonos或宜家看到的最明显的壁挂式音箱，旨在模糊艺术作品和音乐硬件之间的区别。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1141015.htm",
+          "publishedOn": "2021-06-15T20:37:23.000Z",
+          "wordCount": 205,
+          "title": "Sonos和宜家正式推出Picture Frame壁挂式音箱"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1141013.htm",
+          "author": "maomao",
+          "description": "法国创业公司Klaxoon宣布对其白板协作平台进行产品更新，并推出新的硬件产品。该公司将出售即用型会议室，优化目前办公室用户和外出路上用户之间的混合会议。去年，该公司推出了Board，一个让你在视频通话中和同事一起工作的视觉界面。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1141013.htm",
+          "publishedOn": "2021-06-15T20:25:40.000Z",
+          "wordCount": 193,
+          "title": "法国初创公司Klaxoon推出以白板为重点的混合工作会议室"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1141011.htm",
+          "author": "ugmbbc",
+          "description": "领不到优惠券？你被黑灰产“抢先”了。随着“6·18”大促的临近，广大“剁手党”们已经在为购物摩拳擦掌。与此同时，电商大促也成为黑灰产薅商家“羊毛”以及对网购用户进行各类诈骗的高峰期。新京报贝壳财经记者调查发现，对商家优惠券“薅羊毛”，以及对网购用户以“假客服”、“假快递”等为名设立骗局是几类常见的“套路”。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1141011.htm",
+          "publishedOn": "2021-06-15T20:24:30.000Z",
+          "wordCount": 194,
+          "title": "优惠券难领背后：薅羊毛“套路”多"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1141009.htm",
+          "author": "ugmbbc",
+          "description": "据美国福克斯商业频道当地时间6月15日报道，美国西南航空公司的系统故障问题已经持续两天，导致大量乘客滞留在各地的机场候机楼。据悉，西南航空公司的第三方天气数据提供商于14日出现系统故障，致使该航空所有航班停飞数小时。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1141009.htm",
+          "publishedOn": "2021-06-15T20:23:50.000Z",
+          "wordCount": 197,
+          "title": "美国西南航空系统故障问题已持续两天 致使大量乘客滞留机场"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/science/1141007.htm",
+          "author": "maomao",
+          "description": "人工智能可能提供了一种准确判断一个人是否感染了COVID-19的方法。一项国际回顾性研究发现，感染SARS-CoV-2（导致COVID-19的病毒）会在心脏中产生微妙的电变化。AI增强型心电图可以检测到这些变化，并有可能被用作快速、可靠的COVID-19筛选测试，以排除COVID-19感染。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/science/1141007.htm",
+          "publishedOn": "2021-06-15T20:16:31.000Z",
+          "wordCount": 191,
+          "title": "研究发现人工智能可用于快速排除COVID-19感染"
+        },
         {
           "id": "https://www.cnbeta.com/articles/tech/1141005.htm",
           "author": "maomao",
