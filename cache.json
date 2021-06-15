@@ -40,15 +40,6 @@
           "publishedOn": "2021-05-23T05:12:08.000Z",
           "wordCount": 337,
           "title": "v1.8.0"
-        },
-        {
-          "id": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.7.2",
-          "author": null,
-          "description": "⚠ Deprecated: To accommodate the monorepo setup, the node version in all templates/demos/examples has changed from 14 to 16. This is not a breaking change as our compile target is still node 14, and node 16 is backward compatible. We still recommend you start using node-version: \"16\" in your .github/workflows/update-feed.yaml today to get the performance/security improvements from the newer node. See example\nChore: Reorganize to monorepo with npm workspace.",
-          "link": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.7.2",
-          "publishedOn": "2021-05-17T05:32:19.000Z",
-          "wordCount": 340,
-          "title": "v1.7.2"
         }
       ]
     },
@@ -928,6 +919,24 @@
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
         {
+          "id": "60c3dcb3d3126007592d6c6d",
+          "author": null,
+          "description": "Python decorators allow you to change the behavior of a function without modifying the function itself. In this article I will show you how to create and use decorators. You will see how easy it is to use this advanced Python feature. In this article I will discuss the following",
+          "link": "https://www.freecodecamp.org/news/python-decorators-explained-with-examples/",
+          "publishedOn": "2021-06-15T17:57:54.000Z",
+          "wordCount": 1409,
+          "title": "Python Decorators – How to Create and Use Decorators in Python With Examples"
+        },
+        {
+          "id": "602aaaf60a2838549dcc5c7f",
+          "author": null,
+          "description": "Any sufficiently old codebase eventually starts to contain legacy code. Architecture, performance, comments, and more begin to degrade the moment after they are written. Some parts of the codebase last longer than other parts, but inevitably new coding standards emerge to reduce technical debt. Then you have to rework a",
+          "link": "https://www.freecodecamp.org/news/what-is-the-strangler-pattern-in-software-development/",
+          "publishedOn": "2021-06-15T17:43:43.000Z",
+          "wordCount": 1292,
+          "title": "What is the Strangler Fig Pattern and How it Helps Manage Legacy Code"
+        },
+        {
           "id": "60b7cb6aacb62507dd1d7c1a",
           "author": null,
           "description": "You can now open anything (that you have access to) on GitHub directly from VS Code.",
@@ -1654,6 +1663,60 @@
       "feedUrl": "https://www.cnbeta.com/backend.php",
       "siteUrl": "https://www.cnbeta.com",
       "articles": [
+        {
+          "id": "https://www.cnbeta.com/articles/science/1140985.htm",
+          "author": "maomao",
+          "description": "在20世纪70年代引进一种外来的捕食性蜗牛后，南太平洋社会群岛的50多种树蜗牛被消灭了，但白壳的P. hyalina蜗牛却幸存下来。现在，密歇根大学生物学家和拥有世界上最小计算机的工程师之间展开合作，让科学家们明白了P. hyalina幸存的原因。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/science/1140985.htm",
+          "publishedOn": "2021-06-15T17:58:52.000Z",
+          "wordCount": 205,
+          "title": "研究人员让蜗牛带上全球最小计算机 以解开它们从捕食者口中幸存的原因"
+        },
+        {
+          "id": "https://hot.cnbeta.com/articles/funny/1140983.htm",
+          "author": "ugmbbc",
+          "description": "6月16日消息，西安一高校同学雷潇凡，在大三时考研时把所学制成一张高2米，宽1米多的思维导图海报，整理了相关知识点。在今年毕业时将其留了下来，贴在实验室里，让学弟学妹们继续使用。\n 阅读全文",
+          "link": "https://hot.cnbeta.com/articles/funny/1140983.htm",
+          "publishedOn": "2021-06-15T17:34:14.000Z",
+          "wordCount": 195,
+          "title": "毕业生把考研知识制成2米长思维导图：留给学弟学妹"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1140981.htm",
+          "author": "ugmbbc",
+          "description": "说起来这是一个有点悲伤的故事，最近在某平台上买的二手 iPad 翻车了，而且我感觉我的智商还遭到了店家的严重鄙视……事情具体的起因是这样的。前阵子苹果不是在 WWDC 2021 开发者大会上推出了全新的 iOS、iPadOS、watchOS、tvOS 和 macOS 系统，并且公布了各大新系统的兼容机型名单嘛？\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1140981.htm",
+          "publishedOn": "2021-06-15T17:30:52.000Z",
+          "wordCount": 475,
+          "title": "一不小心 我在某平台买的二手iPad竟然翻车了"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/science/1140979.htm",
+          "author": "ugmbbc",
+          "description": "北京时间6月15日21点35分，在美国弗吉尼亚州瓦卢普斯中大西洋太空港，一枚冷战时期库存的导弹改装的的火箭“米诺陶1号”发射升空，将三颗为美国政府间谍卫星机构NRO设计的绝密卫星进入轨道。这是自2000年以来，米诺陶火箭的第28次飞行、第18次轨道发射，也是米诺陶1型火箭的第12次发射。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/science/1140979.htm",
+          "publishedOn": "2021-06-15T17:28:46.000Z",
+          "wordCount": 190,
+          "title": "55岁美国冷战库存导弹改装火箭成功发射绝密间谍卫星"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1140977.htm",
+          "author": "ugmbbc",
+          "description": "近日，腾讯手机QQ迎来了8.8.5版本，加入了QQ超清小黄脸，特定的几个小黄脸单独发都会出现大表情，还是动态的，让大家在聊天的时候不无聊，发送表情为你带来更多的乐趣，据了解，这组全新超清小黄脸采用了lottie动画技术，并且画面帧率比大电影要高。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1140977.htm",
+          "publishedOn": "2021-06-15T17:27:41.000Z",
+          "wordCount": 196,
+          "title": "QQ新表情“大菜汪”霸屏：无论手机屏幕多大绝不会模糊"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1140975.htm",
+          "author": "ugmbbc",
+          "description": "微软正计划在下周的一个线上活动中公布其下一个Windows的主要更新。在这次活动之前，今天在网上泄露了一个Windows 11版本。这个泄露的版本确认了新的桌面UI、新的设置体验和更多内容，详情请参考我们之前的报道。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1140975.htm",
+          "publishedOn": "2021-06-15T17:26:44.000Z",
+          "wordCount": 206,
+          "title": "Windows 11的默认壁纸现在可供下载 含深色和浅色主题版本"
+        },
         {
           "id": "https://www.cnbeta.com/articles/tech/1140973.htm",
           "author": "ugmbbc",
