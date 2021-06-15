@@ -542,6 +542,20 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2021/06/smashing-podcast-episode-39/",
+          "author": "hello@smashingmagazine.com (Drew McLellan)",
+          "description": "In this episode of the Smashing Podcast, we’re talking about image optimization. What steps should we follow for performant images in 2021? We talk to expert Addy Osmani to find out.",
+          "link": "https://smashingmagazine.com/2021/06/smashing-podcast-episode-39/",
+          "publishedOn": "2021-06-15T07:00:00.000Z",
+          "wordCount": 10715,
+          "title": "Smashing Podcast Episode 39 With Addy Osmani: Image Optimization",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/bf1aeccc-a603-4cb3-b716-69bd0c86d33a/smashing-podcast-episode-39.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          }
+        },
+        {
           "id": "https://smashingmagazine.com/2021/06/css-javascript-requirements-accessible-components/",
           "author": "hello@smashingmagazine.com (Stephanie Eckles)",
           "description": "Spoiler alert: tooltips, modals, tabs, carousels, and dropdown menus are some of the user interface components that require more than CSS. To ensure accessibility of your interface, JavaScript is a necessary addition to accomplish focus management, respond to keyboard events, and toggle ARIA attributes.",
@@ -1590,6 +1604,195 @@
       "feedUrl": "https://www.cnbeta.com/backend.php",
       "siteUrl": "https://www.cnbeta.com",
       "articles": [
+        {
+          "id": "https://hot.cnbeta.com/articles/game/1140861.htm",
+          "author": "study875",
+          "description": "虽然说已经发售半年多了，国行也已经发售，但是 PS5 依旧是供不应求的状态，而且有大量的黄牛在进行抢购和倒卖，近日，索尼互娱 CEO 吉姆‧瑞安在接受采访时表示，他对大量黄牛抢购 PS5 的情况感到失望。\n 阅读全文",
+          "link": "https://hot.cnbeta.com/articles/game/1140861.htm",
+          "publishedOn": "2021-06-15T08:04:42.000Z",
+          "wordCount": 228,
+          "title": "索尼互娱CEO对大量黄牛抢购PS5的情况感到失望"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1140859.htm",
+          "author": "study875",
+          "description": "长沙消费者亚女士在唯品会上给孩子买了双鞋，试穿之后发现尺码偏小，准备退换时发现该童鞋的价格已从 71 元降至 63 元。亚女士想退货重新购买，却被告知整单退货需收 5 元运费。因商品还在 10 天的价保有效期内，亚女士按平台规则申请价保，却多次申请均未通过，理由是“商品未发生降价”。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1140859.htm",
+          "publishedOn": "2021-06-15T08:01:50.000Z",
+          "wordCount": 244,
+          "title": "消费者遇商品降价申请价保失败，唯品会客服：剔除优惠券没降价"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1140857.htm",
+          "author": "study875",
+          "description": "本周二，亚马逊宣布将会在美国华盛顿州开设首家完整规模（full-size）的杂货店。全新的 Amazon Fresh 门店将会采用“Just Walk Out”技术，也就是说你不需要在收银台排队付款就能立即拿货走人。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1140857.htm",
+          "publishedOn": "2021-06-15T08:00:39.000Z",
+          "wordCount": 220,
+          "title": "亚马逊将开设首家完整规模的Fresh门店 同样无需收银排队"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1140855.htm",
+          "author": "raymon725",
+          "description": "在 CES 2021 上展示了 Project Hazel 智能概念面罩之后，Razer CEO 陈民亮又于 E3 2021 活动期间宣布了 Project Hazel 将于今年 4 季度通过官网渠道限量发售。与此同时，该公司还介绍了 Project Hazel 原型自年初公告以来发生的一些细微变化。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1140855.htm",
+          "publishedOn": "2021-06-15T07:58:59.000Z",
+          "wordCount": 242,
+          "title": "Razer宣布今年4季度限量发售Project Hazel智能概念面罩"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1140853.htm",
+          "author": "study875",
+          "description": "在今天发布的官方博文中，Google宣布开源全同态加密（Fully Homomorphic Encryption，简称 FHE）。目前相关源代码已经托管在 GitHub 上了。这是Google首创的通用转码器，这将使开发人员无法访问个人身份信息的前提下，能够在加密数据上进行计算。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1140853.htm",
+          "publishedOn": "2021-06-15T07:50:44.000Z",
+          "wordCount": 207,
+          "title": "谷歌宣布开源FHE：可在不解密情况下处理加密数据"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1140851.htm",
+          "author": "vivian",
+          "description": "中国商飞研发的C919大飞机已经完成了制造、首飞等过程，今年底将交付首架，全部订单多达815架。再往下就是超远程宽体飞机CR929（也有叫做C929）了，航程可达1.2万公里，预计今年开始建造。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1140851.htm",
+          "publishedOn": "2021-06-15T07:50:36.000Z",
+          "wordCount": 198,
+          "title": "消息称中俄合作的CR929超远程飞机年底开造 2023年首飞"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/science/1140849.htm",
+          "author": "vivian",
+          "description": "国家卫健委6月15日通报，全国新冠疫苗接种超过9亿剂次，距离超8亿剂次仅过去6天。专家表示，我国现有疫苗对变异病毒有可观保护效果，接种疫苗仍是预防新冠肺炎的有效办法。积极接种疫苗，“免疫长城”还需你我再添一把力。（徐鹏航、陈席元；海报设计：肖循）\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/science/1140849.htm",
+          "publishedOn": "2021-06-15T07:49:35.000Z",
+          "wordCount": 195,
+          "title": "国家卫健委：全国新冠疫苗接种剂次超9亿"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1140847.htm",
+          "author": "ugmbbc",
+          "description": "早在5年前，各大车企纷纷发力紧凑型SUV领域的时候，广汽传祺就推出了中国首款打破20万元天花板的中型SUV——GS8。该车上市后的第五个月就实现了单月销量破万，甚至还一度超越了汉兰达。但可惜，传祺GS8近两年后劲不足，销量逐渐走低。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1140847.htm",
+          "publishedOn": "2021-06-15T07:49:08.000Z",
+          "wordCount": 203,
+          "title": "全新传祺GS8申报：丰田四代THS混动加持 续航超1000公里"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1140845.htm",
+          "author": "ugmbbc",
+          "description": "在新能源汽车阵营中，国产车中的奇瑞明显没有跟上主流品牌的步伐，为此，奇瑞也推出了瑞腾这一全新新能源汽车品牌。日前，我们与工信部新车申报目录中，发现了奇瑞瑞腾RT-1的申报图，新车将基于奇瑞LFS全铝平台打造，NEDC续航里程将会达到600公里左右。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1140845.htm",
+          "publishedOn": "2021-06-15T07:48:37.000Z",
+          "wordCount": 205,
+          "title": "凯迪拉克“大灯” 全铝车身 奇瑞全新电动车瑞腾RT-1现身"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1140843.htm",
+          "author": "raymon725",
+          "description": "作为坚固型固态硬盘技术的创新领导者，Foremay 刚刚推出了速度领先的 VPX SSD 新品，且最高单盘容量可达 18 TB 。作为今日公告的重头戏，该公司推出的 EC188 系列 VPX SSD 主要面向军事与航空航天领域。性能方面，其顺序读写可达 6.5 和 6.2 GB/s，4K 随机性能也高达 550k / 600k IOPS 。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1140843.htm",
+          "publishedOn": "2021-06-15T07:44:21.000Z",
+          "wordCount": 273,
+          "title": "Foremay推出EC188系列军规级SSD驱动器：极速、耐用、且稳定"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1140841.htm",
+          "author": "study875",
+          "description": "Microsoft Edge 浏览器的密码管理器近日获得重大升级，新增了密码健康（Password Health）功能。如果存储的密码被泄露、重复使用或者为弱密码，就会向你发出警告。你可以从密码管理页面轻松改变受影响的密码。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1140841.htm",
+          "publishedOn": "2021-06-15T07:39:26.000Z",
+          "wordCount": 216,
+          "title": "Edge强化密码管理：新增密码健康功能让你掌控密码状况"
+        },
+        {
+          "id": "https://hot.cnbeta.com/articles/game/1140839.htm",
+          "author": "study875",
+          "description": "根据零售清单显示，微软可能正计划对适用于 Xbox Series X 的游戏包装盒进行重新设计。包括《光环：无限》（Halo Infinite）和《微软飞行模拟器》（Microsoft Flight Simulator）在内，目前在百思买上至少有两款采用全新设计的 Xbox 包装盒。\n 阅读全文",
+          "link": "https://hot.cnbeta.com/articles/game/1140839.htm",
+          "publishedOn": "2021-06-15T07:31:18.000Z",
+          "wordCount": 217,
+          "title": "[图]微软似乎正重新设计Xbox游戏包装盒"
+        },
+        {
+          "id": "https://hot.cnbeta.com/articles/movie/1140837.htm",
+          "author": "teikaei",
+          "description": "在多年的筹备之后，华纳兄弟旗下的 《闪电侠》独立电影终于在今年4月开始制作，Ezra Miller 将再次出演巴里·艾伦。《小丑回魂2》导演安德斯·穆斯切蒂 (Andy Muschietti) 执导该片，他在今日通过 Instagram 分享了一张《闪电侠》的LOGO图，疑似为闪电侠的新战衣特写。\n 阅读全文",
+          "link": "https://hot.cnbeta.com/articles/movie/1140837.htm",
+          "publishedOn": "2021-06-15T07:29:42.000Z",
+          "wordCount": 224,
+          "title": "《闪电侠》电影导演公开LOGO图 疑似新战衣特写镜头"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1140835.htm",
+          "author": "teikaei",
+          "description": "高盛数字资产部门主管Mathew McDermott近日表示，高盛计划向客户提供以太坊期权和期货交易。今年早些时候，高盛创建了一个加密货币交易平台，并开始交易两种与比特币相关的衍生品，重新启动了一项据称在2018年被搁置的计划。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1140835.htm",
+          "publishedOn": "2021-06-15T07:29:06.000Z",
+          "wordCount": 205,
+          "title": "以太坊更受市场追捧 高盛将推出以太坊期权和期货交易"
+        },
+        {
+          "id": "https://hot.cnbeta.com/articles/comic/1140833.htm",
+          "author": "ugmbbc",
+          "description": "如今各种类型手工作品百花齐放，其中@kumattaojisan就是一位专门用棉棒制作各种动漫游戏角色的高玩，近日晒出新作品EVA初号机引发网友热议点赞，一起来欣赏下。\n 阅读全文",
+          "link": "https://hot.cnbeta.com/articles/comic/1140833.htm",
+          "publishedOn": "2021-06-15T07:28:41.000Z",
+          "wordCount": 200,
+          "title": "独特魅力完美还原 日本高玩用棉棒打造EVA初号机引热赞"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1140831.htm",
+          "author": "teikaei",
+          "description": "6月15日下午消息，滴滴网约车CEO孙枢今日发布给司机的一封信 ，详解了拼车的计价规则。他同时宣布，6月14日起，滴滴在太原、南京、烟台、绍兴等城市试行工作日早7点到10点“早高峰拼成0佣金”计划，并陆续覆盖到全国范围。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1140831.htm",
+          "publishedOn": "2021-06-15T07:27:35.000Z",
+          "wordCount": 202,
+          "title": "滴滴孙枢详解拼车计价规则 试行拼车早高峰0佣金"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1140829.htm",
+          "author": "raymon725",
+          "description": "ESENCORE 旗下的科赋（KELVV）存储品牌，刚刚迎来了 M.2 2280 外形的 CRAS C920 / C720 固态硬盘新品。其中 C920 系列采用了支持 PCIe 4.0 x4 接口的群联 E18 主控 + 3D TLC NAND 闪存，可选 1TB / 2TB 容量，顺序读取均高达 7000 MB/s、持续写入则是 6850 和 5500 MB/s 。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1140829.htm",
+          "publishedOn": "2021-06-15T07:26:40.000Z",
+          "wordCount": 284,
+          "title": "科赋推出CRAS C920与C720系列M.2 NVMe固态硬盘"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1140827.htm",
+          "author": "teikaei",
+          "description": "新华财经北京6月15日消息，近日，滴滴出行正式向美国证券交易委员会递交了IPO申请，拟于纽交所挂牌上市。自2012年7月成立以来，滴滴经历了约20轮融资，其在非公开市场的市值已经达到950亿美元。然而，外界针对滴滴垄断的质疑从未停止。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1140827.htm",
+          "publishedOn": "2021-06-15T07:26:09.000Z",
+          "wordCount": 201,
+          "title": "央媒调查：涉嫌垄断还遭用户“不满”，“悬顶之剑”下的网约车平台"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1140825.htm",
+          "author": "ugmbbc",
+          "description": "除了已经发布的Xe LP低功耗架构、Xe HP/HPG主流游戏架构，Intel这次重返独立显卡市场，还准备了专门面向高性能计算的Xe HPC顶级架构，定位于超级计算机加速器，开发代号“Ponte Vecchio”，官方也曾多次预告。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1140825.htm",
+          "publishedOn": "2021-06-15T07:23:55.000Z",
+          "wordCount": 225,
+          "title": "Intel顶级显卡功耗超600W 标配水冷、五层结构"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1140823.htm",
+          "author": "study875",
+          "description": "近日，一款型号为“DE2117”的未知一加手机现身 GeekBench 跑分库，有理由相信应该是即将推出的一加 Nord N200 5G 手机。根据跑分库信息，该机运行 Android 11 系统，4GB 的内存，主板部分为“holi”，CPU 部分显示为 6 个 1.80GHz 核心和 2 个 2.04GHz 核心，表明应该是高通骁龙 480 SoC。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1140823.htm",
+          "publishedOn": "2021-06-15T07:21:44.000Z",
+          "wordCount": 263,
+          "title": "[图]一加Nord N200 5G现身跑分库：骁龙480+4GB内存"
+        },
+        {
+          "id": "https://hot.cnbeta.com/articles/game/1140821.htm",
+          "author": "ugmbbc",
+          "description": "知名移动应用数据分析公司Sensor Tower公布了2021年5月全球热门移动游戏排行榜，榜单包括全球App Store和Google Play的收入排名。报告显示，2021年5月腾讯《王者荣耀》在全球App Store和Google Play吸金超过2.64亿美元（约合人民币16.9亿元）。\n 阅读全文",
+          "link": "https://hot.cnbeta.com/articles/game/1140821.htm",
+          "publishedOn": "2021-06-15T07:21:29.000Z",
+          "wordCount": 210,
+          "title": "《王者荣耀》蝉联全球手游销冠：月吸金超16亿"
+        },
         {
           "id": "https://www.cnbeta.com/articles/tech/1140817.htm",
           "author": "ugmbbc",
