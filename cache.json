@@ -1664,6 +1664,42 @@
       "siteUrl": "https://www.cnbeta.com",
       "articles": [
         {
+          "id": "https://www.cnbeta.com/articles/tech/1141005.htm",
+          "author": "maomao",
+          "description": "一加Nord N200 5G已经在美国的B&H网站上销售，价格为239美元。主要规格包括6.49英寸FHD+液晶屏，1300万像素三个后置摄像头，4GB内存。OnePlus Nord N200的发布预计在美国时间6月15日进行，该手机将在美国销售。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1141005.htm",
+          "publishedOn": "2021-06-15T20:00:43.000Z",
+          "wordCount": 258,
+          "title": "一加Nord N200 5G智能手机规格价格和供应细节曝光"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1141003.htm",
+          "author": "ugmbbc",
+          "description": "今天在网络上突然出现的Windows 11截屏实际上全部来自于一个泄露的Windows 11 Build 21996.1 Dev版ISO镜像，虚拟机内安装了Windows 11 build 21996.1，这一版本大概是一个Windows 11的早期版本，安装体验令人愉快的，更多浅色和新设计语言的引入让视觉柔和了很多，而不再是我们在Windows 8和10中习惯的刺眼的深蓝色和黑色。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1141003.htm",
+          "publishedOn": "2021-06-15T19:59:21.000Z",
+          "wordCount": 220,
+          "title": "[多图]最新泄露的Windows 11 Build 21996.1 Dev版截图画廊"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/soft/1141001.htm",
+          "author": "maomao",
+          "description": "一些用户在应用Windows 10的2021年6月累积更新后遇到了严重问题。根据各种报告和我们自己的测试，强制性安全更新KB5003637可能破坏任务栏图标。在某些情况下，由于图标重叠，用户也无法访问行动中心。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/soft/1141001.htm",
+          "publishedOn": "2021-06-15T19:44:05.000Z",
+          "wordCount": 209,
+          "title": "微软确认Windows 10最新更新导致任务栏文字图形模糊"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1140999.htm",
+          "author": "maomao",
+          "description": "哥本哈根初创公司Seaborg Technologies已经筹集了一笔八位数的资金，开始建造一种新型廉价、便携、灵活和超级安全的核反应堆。这些紧凑型熔盐反应堆只有一个集装箱大小，可以被迅速地大规模制造，然后放置在浮动的驳船上，在全世界范围内部署，并且有可能打破能源行业的模式。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1140999.htm",
+          "publishedOn": "2021-06-15T19:34:41.000Z",
+          "wordCount": 193,
+          "title": "丹麦初创公司Seaborg计划生产廉价的浮动核反应堆"
+        },
+        {
           "id": "https://hot.cnbeta.com/articles/game/1140997.htm",
           "author": "ugmbbc",
           "description": "据娱乐软件协会 （ESA） 数据，电子游戏既不是专属于年轻人的消遣，也不是以男性玩家为主导，事实上恰恰相反：美国所有游戏玩家中有41%是女性，电子游戏玩家的平均年龄范围为35-44岁。\n 阅读全文",
