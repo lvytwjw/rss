@@ -2,16 +2,324 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://lvytwjw.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-14T23:06:50.002Z</updated>
+    <updated>2021-06-15T00:22:31.616Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://lvytwjw.github.io/rss/index.html"/>
     <link rel="self" href="https://lvytwjw.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Apple Watch Series 7将迎来重大升级：边框更窄 能测体温]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1140599.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1140599.htm"/>
+        <updated>2021-06-15T00:17:40.000Z</updated>
+        <summary type="html"><![CDATA[援引彭博社报道，Apple Watch Series 7 将会迎来重大升级，配备了更快的处理器、更好的无线网络连接以及更优秀的屏幕。据内部知情人士透露，苹果正努力让 2021 年款 Apple Watch 边框更窄，并采用全新的层压技术，使显示屏更靠近前盖。
+ 阅读全文]]></summary>
+        <author>
+            <name>study875</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[电动微型车Microlino的第三款原型车已完成设计]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1140597.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1140597.htm"/>
+        <updated>2021-06-15T00:13:07.000Z</updated>
+        <summary type="html"><![CDATA[据外媒报道，Micro Mobility Systems AG的Microlino电动泡泡车的第三款原型车已经研发了5年多，原计划在2019年完全重新设计结束之前投产，现在已经完成。早在2月份，开发团队就分享了Microlino 2.0原型的测试视频并立即开始了第二个原型的开发工作。
+ 阅读全文]]></summary>
+        <author>
+            <name>teikaei</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NASA和SpaceX的目标是在万圣节期间发射Crew-3载人航天任务]]></title>
+        <id>https://www.cnbeta.com/articles/science/1140595.htm</id>
+        <link href="https://www.cnbeta.com/articles/science/1140595.htm"/>
+        <updated>2021-06-15T00:10:03.000Z</updated>
+        <summary type="html"><![CDATA[据外媒CNET报道，当地时间周一，美国宇航局（NASA）宣布SpaceX的Crew-3前往国际空间站任务的新目标发射日期为10月31日。它将发射日期从之前的10月23日推迟了约一周。
+ 阅读全文]]></summary>
+        <author>
+            <name>vivian</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[电动汽车制造商Lordstown两高管突然离职 此前曾发破产警告]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1140593.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1140593.htm"/>
+        <updated>2021-06-15T00:01:11.000Z</updated>
+        <summary type="html"><![CDATA[去年10月上市的美国电动汽车初创公司Lordstown Motors周一宣布两名高管突然离职。该公司上周刚刚警告称，可能没有足够的资金将其首款皮卡推向市场，而且如果不能筹集到更多资金，可能无法在未来12个月内继续作为一家公司存在下去。
+ 阅读全文]]></summary>
+        <author>
+            <name>teikaei</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美国运通称美国旅游和餐饮消费接近全面复苏]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1140591.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1140591.htm"/>
+        <updated>2021-06-15T00:00:41.000Z</updated>
+        <summary type="html"><![CDATA[美国运通CEO施恺睿（Stephen Squeri）周一表示，随着新冠疫情限制的放松和旅游需求的回升，美国人正越来越多地利用他们的信贷额度。这家以同名信用卡而闻名的支付公司报告称，在受到疫情封锁的沉重打击后，目前美国国内旅游预订量已接近全面复苏。
+ 阅读全文]]></summary>
+        <author>
+            <name>vivian</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[180万投资一间店，一年半就回本：奶茶的钱这么好赚？]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1140589.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1140589.htm"/>
+        <updated>2021-06-15T00:00:04.000Z</updated>
+        <summary type="html"><![CDATA[近日，“新式茶饮”再次成为了市场关注的焦点。先是中国邮政跨界卖奶茶，吸引不少消费者排队购买；紧接着奈雪的茶终于通过上市聆讯，成为准“新式茶饮第一股”，且打破了此前“流血上市”的传言，2020年经调整净利润1664.3万元人民币，扭亏为盈。
+ 阅读全文]]></summary>
+        <author>
+            <name>teikaei</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[办个卡没用完商家却不见了？看北京如何有效治理预付卡退费难]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1140587.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1140587.htm"/>
+        <updated>2021-06-14T23:59:15.000Z</updated>
+        <summary type="html"><![CDATA[预付卡退费难一直以来都是消费者维权的一大痛点，不过，在北京，这一问题有望得到加速解决。据报道，今年，“预付式消费退费难”被列入北京接诉即办“每月一题”重点解决督办事项，有关部门、各区先行先试，因地制宜探索出一揽子预付式消费管理新举措，提升了消费者的获得感、幸福感、安全感。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[做局-吸金-收割-跑路：别被“币圈”投资给忽悠了]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1140585.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1140585.htm"/>
+        <updated>2021-06-14T23:58:52.000Z</updated>
+        <summary type="html"><![CDATA[随着数字货币概念大火，各类虚拟货币、数字货币投资热度不减。一些不法分子利用投资者追求高回报率的心态，欺骗、拉拢投资者对虚构的虚拟货币项目进行投资，成为一种新型投资骗局。
+ 阅读全文]]></summary>
+        <author>
+            <name>vivian</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[专家们为何特别担心在美国迅速蔓延的COVID-19 Delta变异毒株？]]></title>
+        <id>https://www.cnbeta.com/articles/science/1140583.htm</id>
+        <link href="https://www.cnbeta.com/articles/science/1140583.htm"/>
+        <updated>2021-06-14T23:56:50.000Z</updated>
+        <summary type="html"><![CDATA[据外媒报道，一些专家警告说，拖延疫苗接种工作可能导致COVID-19的感染、住院和死亡人数激增，最新的Delta冠状病毒变体被证明比以前的毒株更加危险。COVID-19 Delta病毒已经在美国迅速蔓延，这是一个不祥的信号，因为新的研究表明，感染该病毒的人住院的风险几乎增加了一倍。
+ 阅读全文]]></summary>
+        <author>
+            <name>vivian</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[雄安新区首笔“链上”数字人民币工资成功代发]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1140581.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1140581.htm"/>
+        <updated>2021-06-14T23:55:37.000Z</updated>
+        <summary type="html"><![CDATA[据中国雄安官网消息，雄安新区作为全国首批数字人民币试点城市，将智能城市规划建设与数字人民币试点工作紧密结合，不断创新特色应用场景，切实为新区建设企业和广大人民群众带来数字化、智能化金融服务，力求依托“金融 科技”力量，全面提升服务能力，优化服务体验。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ConceptsiPhone分享“iPhone 13”标准版机型概念渲染视频]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1140579.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1140579.htm"/>
+        <updated>2021-06-14T23:55:00.000Z</updated>
+        <summary type="html"><![CDATA[尽管苹果要到今秋（传统 9 月档期）才会发布下一代 iPhone 13 系列智能机，但还是挡不住网络上密集的传闻和泄露。近日，Concepts iPhone 又在油管上分享了一段“iPhone 13”（而不是 Pro 衍生版本）的概念渲染视频。虽然科技爱好者们更关心高端旗舰型号会有哪些新功能，但标准版机型依然是不少人的心头好。
+ 阅读全文]]></summary>
+        <author>
+            <name>raymon725</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[图]微软再推稳定性补丁 为即将到来功能更新做准备]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1140577.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1140577.htm"/>
+        <updated>2021-06-14T23:51:42.000Z</updated>
+        <summary type="html"><![CDATA[部分运行 Windows 10 May 2021 功能更新及此前版本的用户，近日获得了一个新的可靠性补丁，主要为即将到来的累积更新或者功能更新做好准备。该更新编号为 KB4023057，它在 2018 年首次推出，现在微软再次推出了该补丁。
+ 阅读全文]]></summary>
+        <author>
+            <name>study875</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[不止首发自研SoC 谷歌Pixel 6还支持更高功率的无线充电]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1140575.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1140575.htm"/>
+        <updated>2021-06-14T23:51:04.000Z</updated>
+        <summary type="html"><![CDATA[Android 12 Beta版已经推送，新版本系统曝光了谷歌即将发布的新品。6月15日消息，据9to5Google报道，开发者在Android 12 Beta 2代码中发现了Google Pixel Stand的信息。Pixel Stand将会伴随着Pixel 6同台亮相，这意味着Google Pixel 6将支持无线充电。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Android版Apple Music测试版开始分发 带来空间音频和无损音乐]]></title>
+        <id>https://hot.cnbeta.com/articles/music/1140573.htm</id>
+        <link href="https://hot.cnbeta.com/articles/music/1140573.htm"/>
+        <updated>2021-06-14T23:47:39.000Z</updated>
+        <summary type="html"><![CDATA[Android版Apple Music已经可以在苹果自己的设备上使用，只要你注册一个测试者的身份，就可以马上获得更新以带来不久前WWDC上公布的空间音频和无损的支持。注册测试版是非常容易的，您可以通过以下的网页地址进行：
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Canonical宣布为Google Cloud 提供Ubuntu Pro及长达十年支持]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1140571.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1140571.htm"/>
+        <updated>2021-06-14T23:41:45.000Z</updated>
+        <summary type="html"><![CDATA[Canonical宣布，Ubuntu Pro现在可以在Google Cloud上使用。据该公司称，Ubuntu Pro是针对企业和生产使用的高级版本的Ubuntu，它有几个额外的功能，包括实时内核补丁，长达10年的维护支持承诺，以及Ubuntu宇宙软件库中的软件补丁。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[苹果下架伪装成数独游戏的盗版电影应用Zoshy+]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1140569.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1140569.htm"/>
+        <updated>2021-06-14T23:39:54.000Z</updated>
+        <summary type="html"><![CDATA[据外媒报道，苹果公司希望确保每个应用程序在发布到App Store之前都要经过严格的审核；毕竟，该公司曾吹嘘其应用商店在安全方面可能是最好的地方。但是，时不时地，一些应用程序还是会出现问题。在最近的案例中，我们看到的是Zoshy+。这款应用在App Store的益智游戏排行榜上相当受欢迎，根据截图和应用描述，它是一款数独游戏。
+ 阅读全文]]></summary>
+        <author>
+            <name>vivian</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AMD Radeon RX 6600M移动GPU性能实测：略逊于英伟达RTX 3060]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1140567.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1140567.htm"/>
+        <updated>2021-06-14T23:39:09.000Z</updated>
+        <summary type="html"><![CDATA[HXL（@9550pro）刚刚在 Twitter 上分享了采用“Navi 23”RDNA 2 GPU 架构的 AMD Radeon RX6600M 移动显卡的的基准测试成绩。按照计划，RX 6600M 将主攻主流笔记本市场。但略逊于英伟达 Ampere RTX 3060 的表现、以及 GPU-Z 工具软件中汇报的检测数据，还是让我们感到有些疑惑。
+ 阅读全文]]></summary>
+        <author>
+            <name>raymon725</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Canalys：尽管缺芯 今年全球智能机出货量仍会增长12%]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1140565.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1140565.htm"/>
+        <updated>2021-06-14T23:23:58.000Z</updated>
+        <summary type="html"><![CDATA[市场研究公司Canalys发布报告称，尽管面临芯片短缺的挑战，但是2021年全球智能机出货量将达到14亿部，同比增长12%，和2020年相比强势复苏。由于去年暴发了新冠肺炎疫情，全球智能机出货量同比下降了7%。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Windows 11下周发布 微软股价形成杯底形态]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1140563.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1140563.htm"/>
+        <updated>2021-06-14T23:23:25.000Z</updated>
+        <summary type="html"><![CDATA[微软股价的下一个催化剂可能是6月24日的Windows发布会，虽然目前外界尚不清楚微软届时将会发布的产品，但分析师认为微软将会发布Windows 11——Windows 10后续产品。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[担忧新电池设计 看多分析师把特斯拉目标股价下调162美元]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1140561.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1140561.htm"/>
+        <updated>2021-06-14T23:22:36.000Z</updated>
+        <summary type="html"><![CDATA[投资公司Canaccord分析师乔纳森·多西海默（Jonathan Dorsheimer）星期一将特斯拉目标股价由974美元下调162美元至812美元，下调幅度达17%，不过他依旧维持对特斯拉股票的“买进”评级。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[微软总裁批评美政府强行索要数据：秘密传票伤害科技公司]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1140559.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1140559.htm"/>
+        <updated>2021-06-14T23:21:09.000Z</updated>
+        <summary type="html"><![CDATA[北京时间6月15日消息，微软公司总裁兼首席法务官布拉德·史密斯(Brad Smith)周一批评了美国政府向微软、苹果等云服务提供商发出秘密数据传票的做法，认为美政府在索要个人信息的同时发布禁言令破坏了自由，伤害在欧洲的美国科技公司。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美媒：萨尔瓦多渔村试吃比特币“螃蟹”]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1140557.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1140557.htm"/>
+        <updated>2021-06-14T23:19:59.000Z</updated>
+        <summary type="html"><![CDATA[美国《基督教科学箴言报》6月11日文章，原题：在萨尔瓦多的农村，一窥加密货币经济  埃尔松特是萨尔瓦多的一个渔村，因其汹涌的海浪而为冲浪者所熟知。过去一年，该村一直在使用加密货币。日前，萨尔瓦多国会将比特币定为法定货币。于是，人们的目光转向了这个位于太平洋沿岸的渔村。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[冰箱、空调、洗衣机等家电为何涨价？消费者咋选择？]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1140555.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1140555.htm"/>
+        <updated>2021-06-14T23:18:14.000Z</updated>
+        <summary type="html"><![CDATA[“6·18”在即，不少消费者期盼着以更低价格购入家用电器。然而在线下家电卖场中，许多产品悄然涨价了。从去年下半年开始，冰箱、空调、洗衣机等家电产品多次调价，部分产品价格涨幅甚至超过25%。在许多消费者印象中，家电特别是传统的大家电，其价格多年来处于比较稳定甚至下降的通道中。此次家电为何纷纷涨价？消费者怎么选择？
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[YouTube主页顶部不再接受政治选举、酒类、赌博和处方药广告]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1140553.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1140553.htm"/>
+        <updated>2021-06-14T23:16:29.000Z</updated>
+        <summary type="html"><![CDATA[YouTube周一发布消息称，网站及App主页顶部禁止出现政治或者竞选广告，也不再允许出现酒类、赌博和处方药广告。YouTube发邮件给广告主，去年不再允许广告主预订整天Masthead Ads，今天的变化是建立在去年调整之上的。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[得了诺奖的彩色照相术失传100多年 现在终于被找回来了]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1140551.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1140551.htm"/>
+        <updated>2021-06-14T23:12:59.000Z</updated>
+        <summary type="html"><![CDATA[一张彩色照片诞生，其实非常简单，就是对红蓝绿（RGB）三种颜色曝光。但是你知道吗？早在130年前，已经有人发明了一种透明的照片，没有三种颜色叠加，依然能让你看到彩色。以上就是在1891年，法国物理学家加布里埃尔·李普曼（Gabriel Lippmann）拍摄的一种彩色照片。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[苹果发布iOS 14.7、12.5.4等更新 解决iPhone安全问题]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1140549.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1140549.htm"/>
+        <updated>2021-06-14T23:10:58.000Z</updated>
+        <summary type="html"><![CDATA[苹果今天为无法升级至iOS 14的设备推送了安全更新，iOS 12.5.4 和 iPadOS 12.5.4。这次是安全更新，修复了严重的安全问题。值得一提的是，苹果今天还发布了iOS 14.7和macOS Big Sur 11.5第三个开发者测试版，距离首个测试版相隔两周时间。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“神仙姐姐”刘亦菲又上热搜 网友：灵动甜美鬼马少女回归]]></title>
+        <id>https://hot.cnbeta.com/articles/movie/1140547.htm</id>
+        <link href="https://hot.cnbeta.com/articles/movie/1140547.htm"/>
+        <updated>2021-06-14T23:06:58.000Z</updated>
+        <summary type="html"><![CDATA[刘亦菲又上热搜了，这次是她新的造型，引起了众多网友的围观。神仙姐姐最新齐刘海公主切造型在社交网络上吸引了众多网友的围观，而据悉，这次是刘亦菲的齐刘海，公主切，以全新造型出镜大秀预告短片。 
+
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[System Design Interview Tutorial – The Beginner&#x27;s Guide to System Design]]></title>
         <id>60873d1fdd38b9088c2c0842</id>
         <link href="https://www.freecodecamp.org/news/system-design-interview-practice-tutorial/"/>
         <updated>2021-06-14T22:46:31.000Z</updated>
         <summary type="html"><![CDATA[System Design is an important topic to understand if you want to advance further in your career as a software engineer. Even if you are just beginning your coding journey, it's a good idea to get a head start on learning about system design.  Early in your career you will]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build a Custom Pagination Component in React]]></title>
+        <id>60bce373acb62507dd1d9f19</id>
+        <link href="https://www.freecodecamp.org/news/build-a-custom-pagination-component-in-react/"/>
+        <updated>2021-06-14T22:39:00.000Z</updated>
+        <summary type="html"><![CDATA[We often work with web applications that need to fetch large amounts of data from a server through APIs and render it on the screen. For example, in a Social media application we fetch and render users' posts and comments. In an HR dashboard we display information about candidates who]]></summary>
         <author>
             <name>freeCodeCamp.org</name>
         </author>
