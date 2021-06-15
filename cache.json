@@ -1591,6 +1591,141 @@
       "siteUrl": "https://www.cnbeta.com",
       "articles": [
         {
+          "id": "https://www.cnbeta.com/articles/science/1140749.htm",
+          "author": "vivian",
+          "description": "结合系统观测和宇宙学模拟的一项新研究发现，令人惊讶的是，黑洞可以帮助某些星系形成新的恒星。在星系的尺度上，超大质量黑洞对恒星形成的作用以前被认为是破坏性的--活跃的黑洞会剥夺星系形成新恒星所需的气体。发表在《自然》杂志上的新结果显示，活跃的黑洞反而可以为在星系群或星系团内运行的星系“开路”，使这些星系在飞过周围的星系间气体时不会被破坏其恒星形成。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/science/1140749.htm",
+          "publishedOn": "2021-06-15T03:59:34.000Z",
+          "wordCount": 203,
+          "title": "研究发现黑洞可以帮助某些星系形成新的恒星"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1140747.htm",
+          "author": "study875",
+          "description": "在推出搭载 AMD 芯片的灵刃 14 游戏笔记本和战鹰 27 英寸游戏显示器之后，在 E3 2021 大展上雷蛇（Razer）还推出了一个高功率的 USB-C 充电器。这款名为 Razer GaN USB Type-C 的充电器外观紧凑，提供 2 个 USB-A 和 2 个 USB-C 端口，最高支持 130W 的输出。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1140747.htm",
+          "publishedOn": "2021-06-15T03:58:09.000Z",
+          "wordCount": 251,
+          "title": "[图]雷蛇推GaN USB Type-C充电器：4个端口 最高130W"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1140745.htm",
+          "author": "raymon725",
+          "description": "在周一下午的 E3 2021 活动期间，知名游戏外设厂商雷蛇（Razer）隆重发布了其广受欢迎的 Blade 14 游戏笔记本电脑的最新版本。其最大的特点，就是用上了 AMD 在年初的消费电子展（CES 2021）上发布的锐龙 5000 系列移动处理器，并且搭配了英伟达的 GeForce RTX 30 系显卡。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1140745.htm",
+          "publishedOn": "2021-06-15T03:57:53.000Z",
+          "wordCount": 371,
+          "title": "Razer开售锐龙版Blade 14游戏本：采用R9-5900HX处理器+RTX 30系独显"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1140743.htm",
+          "author": "study875",
+          "description": "Android 12 对用户界面进行了重大的重新设计，在正式发布之前Google正在进行细节上的打磨。上周，Google面向 Pixel 系列推出了 Android 12 Beta 2 更新，其中一个值得注意的细节就是通过状态栏的指示器，让使人们更容易掌握当前通话的长度。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1140743.htm",
+          "publishedOn": "2021-06-15T03:43:42.000Z",
+          "wordCount": 228,
+          "title": "[图]Android 12细节改进：状态栏新chip可显示通话时长"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/science/1140741.htm",
+          "author": "teikaei",
+          "description": "据外媒报道，混凝土有着大量的碳足迹，因此提高其性能并使其更持久的技术可能对环境有深远的好处。为此，这带来了自我修复混凝土的发展，据悉这种混凝土可以修复自身的裂缝。现在，科学家们展示了这种材料的一种令人兴奋的新形式，其利用的是人类血液中的一种酶。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/science/1140741.htm",
+          "publishedOn": "2021-06-15T03:37:22.000Z",
+          "wordCount": 191,
+          "title": "科学家开发出能在24小时内修复自身裂缝的混凝土"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/science/1140739.htm",
+          "author": "vivian",
+          "description": "据外媒报道，生活在其造礁珊瑚宿主体内并为其提供营养的微观藻类可能正在与它们所居住的珊瑚同步进化，因此每个物种都被微调以满足彼此的需求。宾夕法尼亚州立大学生物学家的一项新研究显示，这些微藻类共生体物种内部的遗传差异与它们所居住的珊瑚物种相对应，这一发现可能对这些濒危珊瑚的保护产生影响。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/science/1140739.htm",
+          "publishedOn": "2021-06-15T03:36:46.000Z",
+          "wordCount": 200,
+          "title": "研究称造礁珊瑚和为其提供营养的微观藻类在基因上同步进化"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1140737.htm",
+          "author": "teikaei",
+          "description": "自从特斯拉开始进军加密货币以后，其CEO马斯克便频频发言，试图“操控”加密货币市场，今年比特币等货币的几次大涨大跌都与他的发言有所关联。在比特币价值巅峰的时期，有分析机构表示特斯拉通过炒币在仅仅几个月的时间中，已经获得了超过2020年全年卖车所获利润，成为特斯拉的第一大盈利点。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1140737.htm",
+          "publishedOn": "2021-06-15T03:23:05.000Z",
+          "wordCount": 199,
+          "title": "马斯克决定卖掉最后一处房产租房住"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1140735.htm",
+          "author": "raymon725",
+          "description": "在 Radeon RX 6000M 系列游戏 GPU 发布会上，AMD 已经预告了首批搭载锐龙移动 CPU + Radeon 移动 GPU 的“Advantage”认证笔记本，其中包括了华硕 ROG Strix G15 和惠普 Omen 16 。最新消息是，知名连锁零售巨头百思买已经开售惠普 Omen 16 机型，价格为 1479.99 美元（约 9479 RMB）。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1140735.htm",
+          "publishedOn": "2021-06-15T03:21:47.000Z",
+          "wordCount": 350,
+          "title": "惠普Omen 16笔记本上架百思买：搭载AMD Radeon RX 6600M独显"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/science/1140733.htm",
+          "author": "vivian",
+          "description": "据外媒报道，一种能够进入并杀死细菌和癌细胞、而不伤害附近健康细胞的光活化药物已经被成功测试。科学家们发现，将这种微小的杀灭细菌的分子与一种化学食物化合物相结合，可以诱使细菌摄取这种药物。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/science/1140733.htm",
+          "publishedOn": "2021-06-15T03:19:07.000Z",
+          "wordCount": 195,
+          "title": "研究人员将光敏药物作为“特洛伊木马”杀死癌细胞"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/science/1140731.htm",
+          "author": "teikaei",
+          "description": "美国太空探索技术公司SpaceX又实现了新的里程碑，美国国防部首次允许该公司使用回收火箭发射军事任务，将其国家安全卫星送入轨道。SpaceX将于美国东部时间周四从佛罗里达为太空军发射GPS III SV05卫星，使用的是去年11月发射GPS III SV04卫星的猎鹰9号火箭回收助推器。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/science/1140731.htm",
+          "publishedOn": "2021-06-15T03:18:39.000Z",
+          "wordCount": 207,
+          "title": "美国防部首次允许SpaceX使用回收火箭发射卫星"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1140729.htm",
+          "author": "study875",
+          "description": "美国《纽约时报》网站 13 日称，全球首富、亚马逊公司创始人杰夫·贝索斯将在 7 月 20 日乘坐“新谢泼德”号火箭进入太空游览。除了贝索斯和他的弟弟马克之外，还有一名尚未透露姓名的超级富豪花费 2800 万美元拍得这次太空旅游的机会。为什么这些超级富豪们如此信任“新谢泼德”号火箭？\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1140729.htm",
+          "publishedOn": "2021-06-15T03:15:58.000Z",
+          "wordCount": 226,
+          "title": "世界首富准备搭乘的太空舱什么样"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1140727.htm",
+          "author": "teikaei",
+          "description": "6月15日早间，在苏宁易购发布了股东被动减持，以及董事长张近东股份被司法冻结的两则公告后，苏宁易购开盘低开低走，盘中触及跌停。截至发稿，苏宁易购报5.67元，跌8.7%。具体来看两则引发股价“大震”的公告。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1140727.htm",
+          "publishedOn": "2021-06-15T03:15:07.000Z",
+          "wordCount": 203,
+          "title": "苏宁易购盘中触及跌停：苏宁电器被动减持，张近东股份被冻结"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/science/1140725.htm",
+          "author": "teikaei",
+          "description": "据外媒报道，一项新研究显示，人们能回忆起的最早记忆可追溯到他们平均两岁半的时候。这项研究结果发表在同行评议的《Memory》上，它将先前关于最早记忆的平均年龄的结论向后推了一整年。研究人员是在一项新21年研究中提出的，据悉，该研究是对现有数据的回顾。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/science/1140725.htm",
+          "publishedOn": "2021-06-15T03:14:19.000Z",
+          "wordCount": 192,
+          "title": "你最早的记忆是什么？研究表明孩子可以从两岁半开始"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1140723.htm",
+          "author": "study875",
+          "description": "鉴于有关其仓库，尤其是配备有机器人的仓库不安全的说法甚嚣尘上，亚马逊决定借助技术提高仓库工作环境的安全性。亚马逊机器人和先进技术实验室开发出两款机器人——伯特 （Bert） 和欧尼 （Ernie）， 提高亚马逊仓库员工的安全性。它们采用了动作捕获技术。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1140723.htm",
+          "publishedOn": "2021-06-15T03:13:57.000Z",
+          "wordCount": 245,
+          "title": "抢饭碗还是保护人类？ 亚马逊四款仓库机器人大揭秘"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1140721.htm",
+          "author": "study875",
+          "description": "英特尔希望通过全新的 M.2 通讯模组来增强 EVO 笔记本和 Chromebook 的商用。在推进过程中英特尔的工程师一直在研究将“IOSM”作为 M.2 通讯模组的驱动程序，在经过数月的代码开发之后，该驱动将会在 Linux 5.14 内核中首次亮相。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1140721.htm",
+          "publishedOn": "2021-06-15T03:12:38.000Z",
+          "wordCount": 242,
+          "title": "英特尔M.2 Modem驱动IOSM即将整合到Linux 5.14内核中"
+        },
+        {
           "id": "https://www.cnbeta.com/articles/tech/1140719.htm",
           "author": "ugmbbc",
           "description": "相较于丰田本田混动在国内大放异彩，日产混动则显的姗姗来迟，不过好饭不怕晚。6月15日消息，从工信部获取了一组东风日产轩逸e-POWER的申报信息，新车最大不同就是搭载了日产e-POWER增程技术，百公里油耗低至4.1L，并有望于三季度正式发布。\n 阅读全文",
