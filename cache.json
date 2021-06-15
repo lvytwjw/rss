@@ -58,6 +58,15 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=342248",
+          "author": "Chris Coyier",
+          "description": "I wonder where headless WordPress will land. And by “headless” I mean only using the WordPress admin and building out the user-facing site through the WordPress REST API rather than the traditional WordPress theme structure.\nIs it… big? The future …\nThe post Just How Niche is Headless WordPress? appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/just-how-niche-is-headless-wordpress/",
+          "publishedOn": "2021-06-15T14:31:34.000Z",
+          "wordCount": 1610,
+          "title": "Just How Niche is Headless WordPress?"
+        },
+        {
           "id": "https://css-tricks.com/?p=342294",
           "author": "Chris Coyier",
           "description": "It wasn’t long ago when I looked at sticky headers and footers in HTML <table>s in the blog post A table with both a sticky header and a sticky first column. In it, I never used position: sticky on …\nThe post Making Tables With Sticky Header and Footers Got a Bit Easier appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
@@ -1618,6 +1627,42 @@
       "feedUrl": "https://www.cnbeta.com/backend.php",
       "siteUrl": "https://www.cnbeta.com",
       "articles": [
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1140961.htm",
+          "author": "ugmbbc",
+          "description": "市场情报公司 Counterpoint 发布了关于全球平板电脑市场的最新报告，报告显示，第一季度iPad的市场份额同比增加。苹果在2020年的iPad销量已经比2019年多了33%，数据显示，这个好消息持续到今年第一季度。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1140961.htm",
+          "publishedOn": "2021-06-15T14:39:09.000Z",
+          "wordCount": 208,
+          "title": "第一季度iPad市场份额增加 各价位机型均有不错表现"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1140959.htm",
+          "author": "ugmbbc",
+          "description": "2021年6月15日是全球苹果店同时营业的第一天。自大流行病开始以来，健康和安全预防措施、区域封锁和反复出现的COVID-19高峰对苹果零售业的运营构成了挑战。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1140959.htm",
+          "publishedOn": "2021-06-15T14:38:44.000Z",
+          "wordCount": 203,
+          "title": "经过艰难的17个月后 全球511家Apple Store今日全部营业"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1140957.htm",
+          "author": "ugmbbc",
+          "description": "1989年，英国计算机科学家蒂姆·伯纳斯·李爵士创造了一些将永远改变世界的东西。你猜对了，万维网（WWW），使我们所知的互联网成为可能。当然世界一直处于非常有趣的发展中，伯纳斯·李已经决定，他将通过以不可伪造的代币（NFT）的形式拍卖网络的源代码来做出一个相当历史性的提议。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1140957.htm",
+          "publishedOn": "2021-06-15T14:35:57.000Z",
+          "wordCount": 196,
+          "title": "万维网源代码将作为NFT被发明者蒂姆·伯纳斯·李爵士拍卖"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1140955.htm",
+          "author": "ugmbbc",
+          "description": "根据Counterpoint的数据，HMD Global每个季度都会出货数百万部功能手机：仅今年第一季度就有1100万部，因此它们是其业务的一个重要部分，并且该公司始终在刷新这一品类保持其阵容的新鲜度。最新推出的产品并没有大张旗鼓，但也是一次重要的升级。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1140955.htm",
+          "publishedOn": "2021-06-15T14:19:34.000Z",
+          "wordCount": 215,
+          "title": "诺基亚110 4G和105 4G功能机发布 支持LTE连接"
+        },
         {
           "id": "https://hot.cnbeta.com/articles/game/1140953.htm",
           "author": "ugmbbc",
