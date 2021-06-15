@@ -1591,6 +1591,24 @@
       "siteUrl": "https://www.cnbeta.com",
       "articles": [
         {
+          "id": "https://www.cnbeta.com/articles/tech/1140753.htm",
+          "author": "raymon725",
+          "description": "由今日在 Day One 官网博客上发布的一篇公告文章可知，在 iOS 和 Mac 上流行的这款日记应用开发商，已被 WordPress.com 母公司 Automattic 给收购。即便如此，Day One 团队仍将继续保持独立运营。除了未来可能要与 WordPress 和 Tumblr 实现更深度的集成，其它方面也将基本保持不变。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1140753.htm",
+          "publishedOn": "2021-06-15T04:16:08.000Z",
+          "wordCount": 251,
+          "title": "日记应用Day One已被WordPress母公司Automattic收购"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1140751.htm",
+          "author": "study875",
+          "description": "5 月 27 日，自由软件联盟（FSF）召开了一次社区会议，讨论了 FSF 和 GNU 官方 Internet Relay Chat (IRC) 频道的未来。2002 年由于当时并没有相关的开发，因此 FSF 和 GNU 宣布选择 Freenode 作为官方 IRC 网络。之所以召开本次会议不仅在于针对 Freenode IRC 网络的管理结构变化，也对各种 Chat 协议进行评估。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1140751.htm",
+          "publishedOn": "2021-06-15T04:12:59.000Z",
+          "wordCount": 244,
+          "title": "FSF和GNU宣布官方IRC频道将迁移至Libera.Chat"
+        },
+        {
           "id": "https://www.cnbeta.com/articles/science/1140749.htm",
           "author": "vivian",
           "description": "结合系统观测和宇宙学模拟的一项新研究发现，令人惊讶的是，黑洞可以帮助某些星系形成新的恒星。在星系的尺度上，超大质量黑洞对恒星形成的作用以前被认为是破坏性的--活跃的黑洞会剥夺星系形成新恒星所需的气体。发表在《自然》杂志上的新结果显示，活跃的黑洞反而可以为在星系群或星系团内运行的星系“开路”，使这些星系在飞过周围的星系间气体时不会被破坏其恒星形成。\n 阅读全文",

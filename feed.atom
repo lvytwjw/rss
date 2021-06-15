@@ -2,10 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://lvytwjw.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-15T04:08:55.004Z</updated>
+    <updated>2021-06-15T05:11:36.997Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://lvytwjw.github.io/rss/index.html"/>
     <link rel="self" href="https://lvytwjw.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[日记应用Day One已被WordPress母公司Automattic收购]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1140753.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1140753.htm"/>
+        <updated>2021-06-15T04:16:08.000Z</updated>
+        <summary type="html"><![CDATA[由今日在 Day One 官网博客上发布的一篇公告文章可知，在 iOS 和 Mac 上流行的这款日记应用开发商，已被 WordPress.com 母公司 Automattic 给收购。即便如此，Day One 团队仍将继续保持独立运营。除了未来可能要与 WordPress 和 Tumblr 实现更深度的集成，其它方面也将基本保持不变。
+ 阅读全文]]></summary>
+        <author>
+            <name>raymon725</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FSF和GNU宣布官方IRC频道将迁移至Libera.Chat]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1140751.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1140751.htm"/>
+        <updated>2021-06-15T04:12:59.000Z</updated>
+        <summary type="html"><![CDATA[5 月 27 日，自由软件联盟（FSF）召开了一次社区会议，讨论了 FSF 和 GNU 官方 Internet Relay Chat (IRC) 频道的未来。2002 年由于当时并没有相关的开发，因此 FSF 和 GNU 宣布选择 Freenode 作为官方 IRC 网络。之所以召开本次会议不仅在于针对 Freenode IRC 网络的管理结构变化，也对各种 Chat 协议进行评估。
+ 阅读全文]]></summary>
+        <author>
+            <name>study875</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[研究发现黑洞可以帮助某些星系形成新的恒星]]></title>
         <id>https://www.cnbeta.com/articles/science/1140749.htm</id>
