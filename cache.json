@@ -1591,6 +1591,141 @@
       "siteUrl": "https://www.cnbeta.com",
       "articles": [
         {
+          "id": "https://www.cnbeta.com/articles/tech/1140817.htm",
+          "author": "ugmbbc",
+          "description": "前不久ARM发布了ARMv9指令集，并基于此推出了Cortex-X2/A710/A510架构，这是10年前推出ARMv8之后的一次更大更新，全面迈向64位指令集。ARM日前更明确表示了这代指令集升级64位的决心，官方声明中指出2023年ARM所有的大小核架构都将采用64位，32位指令届时会被淘汰。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1140817.htm",
+          "publishedOn": "2021-06-15T07:10:10.000Z",
+          "wordCount": 203,
+          "title": "2023年淘汰32位 ARM将全面转向64位CPU架构"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1140815.htm",
+          "author": "ugmbbc",
+          "description": "6月15日消息，日前，从小米公司官网了解到，该公司近日陆续发布大量关于自动驾驶的各类职位，包括数据平台、车载基础架构、决策规划、毫米波算法、开发工具、前端平台开发、嵌入式软件、控制、感知、高精地图、仿真平台等共20个岗位。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1140815.htm",
+          "publishedOn": "2021-06-15T07:09:39.000Z",
+          "wordCount": 201,
+          "title": "小米大规模发布自动驾驶招聘岗位：汽车研发中心或落户北京"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1140811.htm",
+          "author": "study875",
+          "description": "目前，关于 Galaxy Z Fold 3 和 Galaxy Z Flip 3 的发布日期互联网上有两个版本：有人说是 8 月 3 日，有人说是 8 月 27 日。不过援引韩联社报道，这两个日期可能都是正确的，只是方式略有不同。三星将会在 8 月上旬发布，然后在 8 月下旬发售。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1140811.htm",
+          "publishedOn": "2021-06-15T07:04:23.000Z",
+          "wordCount": 276,
+          "title": "新爆料三星Galaxy Z Fold 3/Flip 3将于8月上旬发布 下旬发售"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1140809.htm",
+          "author": "raymon725",
+          "description": "作为先进内存技术的全球领导者，三星电子刚刚宣布，其已开始量产适用于智能机的最新一代 LPDDR5 UFS 多芯片封装（uMCP）解决方案。该系列产品的最大特点，就是集成了高速的 LPDDR5 DRAM + UFS 3.1 NAND 闪存，能够为广大智能机用户带来旗舰级的性能体验。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1140809.htm",
+          "publishedOn": "2021-06-15T06:58:26.000Z",
+          "wordCount": 283,
+          "title": "三星开始量产LPDDR5内存+UFS 3.1闪存的uMCP封装方案"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1140807.htm",
+          "author": "study875",
+          "description": "Debian 11.0 “Bullseye”的第 2 个候选版已经于今天发布，感兴趣的用户可以访问本文下方的链接下载体验。Debian Installer Bullseye RC2 发行版本已经迁移到最新的 Linux 5.10 LTS 内核版本，带来了一个更新的镜像列表，修正了 BIOS 系统上正确重新安装 GRUB 的问题，并对其他各种安装程序进行更新。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1140807.htm",
+          "publishedOn": "2021-06-15T06:58:13.000Z",
+          "wordCount": 241,
+          "title": "Debian 11.0“Bullseye”第2个候选版发布：基于Linux 5.10内核"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1140805.htm",
+          "author": "study875",
+          "description": "在三星 Galaxy S21 系列推出一周后，俄罗斯奢侈品公司 Caviar 就推出了一系列基于该系列的奢华改装版本。而更重要的是，Caviar 还提供了定制选项，能够根据用户的需求进行手工打磨。近日，荷兰科技媒体 LetsGoDigital 就定制了一款 Galaxy S21 Ultra 顶配，整个过程大约花了 6 周时间。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1140805.htm",
+          "publishedOn": "2021-06-15T06:44:56.000Z",
+          "wordCount": 280,
+          "title": "[图]等了6个月 交由Caviar定制的Galaxy S21 Ultra终于到手了"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1140803.htm",
+          "author": "raymon725",
+          "description": "WCCFTech 报道称：华硕已经刷新了旗下的“锁算力”（LHR）版 RTX 30 系显卡产品线，并且涵盖了 DUAL、TUF、KO、TURBO GPU 等细分 SKU 。根据英伟达的官方说法，与早前推出的“无锁标准版”相比，LHR 版本在加密货币挖矿效率上并不受矿老板们的青睐。相信随着新卡的陆续上市，广大玩家将能够更轻松地买到“原价卡”。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1140803.htm",
+          "publishedOn": "2021-06-15T06:41:12.000Z",
+          "wordCount": 276,
+          "title": "华硕刷新锁算力版RTX 30系显卡SKU：RTX 3070 LHR打头阵"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/science/1140801.htm",
+          "author": "vivian",
+          "description": "据外媒报道，在南极栖息地的中心地带，由于人类活动引起的气候变化产生了广泛的负面影响，预计将导致本世纪磷虾的数量减少约30%。然而，科罗拉多大学博尔德分校的新研究发现，这些对这个小而重要的物种的影响将在很大程度上与该地区气候的自然变化无法区分，直到21世纪末。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/science/1140801.htm",
+          "publishedOn": "2021-06-15T06:30:03.000Z",
+          "wordCount": 200,
+          "title": "研究人员尝试检测南大洋磷虾栖息地的气候信号"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/science/1140799.htm",
+          "author": "teikaei",
+          "description": "据外媒报道，工程师们已经找到了一种可以让液态金属在反射表面和散射表面之间转换的方法。这种转变只需要少量的电力就可以用来制造可开关的镜面。液态金属导电并能以跟固态相同的方式与热和光相互作用，然而增加的流动性却开辟了一系列以前不可能实现的新设备。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/science/1140799.htm",
+          "publishedOn": "2021-06-15T06:19:11.000Z",
+          "wordCount": 197,
+          "title": "工程师找到能让液态金属在反射表面和散射表面快速转换的方法"
+        },
+        {
+          "id": "https://hot.cnbeta.com/articles/game/1140797.htm",
+          "author": "raymon725",
+          "description": "知名游戏外设制造商 Turtle Beach 公司，刚刚在 E3 2021 活动期间推出了经济实惠的 VelocityOne Flight 飞行模拟操控装置。据悉，在 VelocityOne Flight 的开发过程中，Turtle Beach 得到了航空工程师与飞行员们的定制支持，旨在提供市面上最真实、现代、身临其境的 PC / Xbox 飞行模拟体验。\n 阅读全文",
+          "link": "https://hot.cnbeta.com/articles/game/1140797.htm",
+          "publishedOn": "2021-06-15T06:14:26.000Z",
+          "wordCount": 293,
+          "title": "Turtle Beach推出VelocityOne Flight一体式模拟飞行外设"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1140795.htm",
+          "author": "study875",
+          "description": "2021 年底，荣耀品牌正式独立，当时荣耀方面就表示将会打出自己的旗舰系列手机，并且会将华为 P、Mate 系列作为对手，打造顶级旗舰机型。此前，赵明曾在采访中表示，今年下半年将会带来荣耀独立后的首款超级旗舰——荣耀 Magic 3。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1140795.htm",
+          "publishedOn": "2021-06-15T06:12:08.000Z",
+          "wordCount": 244,
+          "title": "曝荣耀Magic 3将于8月登场：搭载骁龙888 Pro"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/science/1140793.htm",
+          "author": "teikaei",
+          "description": "6月15日，日本共同社发布消息称，日本汽车制造商本田公司6月14日宣布将与JAXA（日本宇宙航空研究开发机构）共同开展“在月球长期使用的能源循环再生供给系统”可行性研究。据报道，日本希望能够通过这套“能源循环再生供给系统”在本世纪三十年代完成载人月面探测。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/science/1140793.htm",
+          "publishedOn": "2021-06-15T06:10:34.000Z",
+          "wordCount": 196,
+          "title": "本田与JAXA共同开展月面能源循环再生系统可行性研究"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/science/1140791.htm",
+          "author": "vivian",
+          "description": "由马萨诸塞州综合医院的科学家领导的一项新研究发现，阿片类药物成瘾与维生素D缺乏之间存在着密切的联系。研究表明，维生素D水平低的受试者可能会经历阿片类药物带来的高度兴奋效应，使他们更容易上瘾。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/science/1140791.htm",
+          "publishedOn": "2021-06-15T06:08:43.000Z",
+          "wordCount": 198,
+          "title": "研究发现维生素D的缺乏与阿片类药物成瘾有关"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/science/1140789.htm",
+          "author": "study875",
+          "description": "光孤子（optical solitons）是一种非线性的光波包，在传输过程中即便遇到中等强度的干扰也能保持其轮廓，因此在光通信、全光信息处理以及超快激光技术中有着广泛的应用。光孤子之间的相互作用表现出许多类似粒子的特性，几十年来已被广泛研究。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/science/1140789.htm",
+          "publishedOn": "2021-06-15T06:08:37.000Z",
+          "wordCount": 213,
+          "title": "科学家打造平行光孤子反应器 可控制观察孤子分子动态"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1140787.htm",
+          "author": "teikaei",
+          "description": "6月15日，银保监会网站发布《中国银保监会消费者权益保护局关于马上消费金融股份有限公司侵害消费者合法权益的通报》称，马上消费金融股份有限公司存在营销宣传存在夸大误导，告知义务履行不充分；产品定价管理不规范，个别服务定价不合理；学生贷款管理不规范，执行存在偏差；合作商管理制度不健全，管控不严；联合贷款管理不规范，存在监管套利行为；催收管理不到位，存在不合规催收；消费者权益保护体制机制不完善，部分职能未落实到位等7大问题，侵害了消费者的知情权、自主选择权和公平交易权等权益。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1140787.htm",
+          "publishedOn": "2021-06-15T06:08:23.000Z",
+          "wordCount": 203,
+          "title": "马上消费金融被通报：存在学生贷款管理不规范、不合规催收等"
+        },
+        {
           "id": "https://www.cnbeta.com/articles/tech/1140785.htm",
           "author": "teikaei",
           "description": "近日，有网友爆料称，苏宁易购南京总部把员工宿舍卖了，要求员工1个月内搬离，其中一些员工刚交了半年租金就被通知搬走。爆料中还提到：“苏宁易购提供的员工宿舍名叫紫金嘉悦，租金比市价便宜，原本只租给校招生，上个月突然开放给全体员工，并且只接受预交6个月租金，（卖了员工宿舍后）第二个月就赶人出门。”\n 阅读全文",
