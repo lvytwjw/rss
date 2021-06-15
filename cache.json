@@ -1655,6 +1655,60 @@
       "siteUrl": "https://www.cnbeta.com",
       "articles": [
         {
+          "id": "https://www.cnbeta.com/articles/tech/1140973.htm",
+          "author": "ugmbbc",
+          "description": "即使上个月暴跌35%，比特币仍被认为是投机过度的市场，泡沫仍然严重。美国银行调查的基金经理中，约80%认为比特币市场泡沫化，比例高于5月份的75%。共有207人参与了调查，他们所管理的资产总计6450亿美元。这些基金经理认为“做多比特币”是目前第二大拥挤交易，仅次于大宗商品。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1140973.htm",
+          "publishedOn": "2021-06-15T17:22:24.000Z",
+          "wordCount": 203,
+          "title": "美银调查：八成机构认为比特币虚高 逾七成预计通胀只是暂时现象"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1140971.htm",
+          "author": "ugmbbc",
+          "description": "微软即将推出的Windows 11操作系统的截图今天出现在网上，这些图像最初在中国网站百度贴吧上出现，该操作系统在截图中被确定为Windows 11 Pro，这也是这一传闻中的命名首次得到确认。图像还展示了新的Windows 11用户界面和开始菜单。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1140971.htm",
+          "publishedOn": "2021-06-15T17:20:20.000Z",
+          "wordCount": 222,
+          "title": "Windows 11专业版截图泄露 传闻中的命名已经确认"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1140969.htm",
+          "author": "ugmbbc",
+          "description": "6月15日晚间，苏宁易购（002024.SZ）就董事长张近东所持公司部分股份被冻结原因做出说明。张近东等人为苏宁置业与华能信托的30亿元信托贷款提供担保，华能信托将上述债权转让给英铭远晟，英铭远晟申请强制执行，法院冻结张近东持有的公司540181430股股份。苏宁置业已向北京市第二中级人民法院提出执行异议，法院已受理执行异议。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1140969.htm",
+          "publishedOn": "2021-06-15T17:10:39.000Z",
+          "wordCount": 192,
+          "title": "苏宁解释张近东股份被冻原因：为苏宁置业与华能信托贷款担保"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1140967.htm",
+          "author": "ugmbbc",
+          "description": "近日，多名黑龙江农户向澎湃新闻反映，他们花5万多元购买极飞的无人机用作播种、撒肥，但无人机频发故障耽误了农忙，他们要求退机及赔偿。6月15日，针对该情况，广州极飞科技有限公司相关工作人员告诉澎湃新闻，目前，公司已增加人力帮助当地经销商疏导情况，根据农机产品三包规定，如果真实遇到设备故障并符合相关规定，给予退换机服务。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1140967.htm",
+          "publishedOn": "2021-06-15T17:06:31.000Z",
+          "wordCount": 207,
+          "title": "农户称无人机故障耽误农忙欲退机 极飞科技：增派人力处理"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1140965.htm",
+          "author": "ugmbbc",
+          "description": "北京时间6月15日晚间消息，瑞幸咖啡（OTC：LKNCY）今日宣布，已根据之前达成的“重组支持协议”（RSA），完成了“融资里程碑”。今年3月16日，瑞幸咖啡宣布与公司4.6亿美元2025年到期的可转换优先债券的大部分持有者签订了“重组支持协议”。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1140965.htm",
+          "publishedOn": "2021-06-15T17:04:53.000Z",
+          "wordCount": 193,
+          "title": "瑞幸咖啡：重组支持协议下完成融资里程碑"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1140963.htm",
+          "author": "maomao",
+          "description": "根据发表在《科学报告》杂志上的新研究显示，恶意的COVID-19在线内容，包括种族主义内容、虚假信息和错误信息，通过绕过社交媒体平台审核工作在网上蓬勃发展和传播。乔治华盛顿大学的研究人的员通过绘制六大社交媒体平台的在线仇恨集群图，展示了恶意内容如何利用平台之间的路径，强调了社交媒体公司需要重新思考和调整其内容审核政策。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1140963.htm",
+          "publishedOn": "2021-06-15T16:45:15.000Z",
+          "wordCount": 192,
+          "title": "研究显示显示恶意COVID-19内容利用平台之间的路径在网上蓬勃发展"
+        },
+        {
           "id": "https://www.cnbeta.com/articles/tech/1140961.htm",
           "author": "ugmbbc",
           "description": "市场情报公司 Counterpoint 发布了关于全球平板电脑市场的最新报告，报告显示，第一季度iPad的市场份额同比增加。苹果在2020年的iPad销量已经比2019年多了33%，数据显示，这个好消息持续到今年第一季度。\n 阅读全文",
