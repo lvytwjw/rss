@@ -2,10 +2,318 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://lvytwjw.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-15T02:01:02.849Z</updated>
+    <updated>2021-06-15T03:11:59.433Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://lvytwjw.github.io/rss/index.html"/>
     <link rel="self" href="https://lvytwjw.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[国产日产轩逸混动版申报：e-POWER上车 油耗仅4.1L]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1140719.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1140719.htm"/>
+        <updated>2021-06-15T03:09:01.000Z</updated>
+        <summary type="html"><![CDATA[相较于丰田本田混动在国内大放异彩，日产混动则显的姗姗来迟，不过好饭不怕晚。6月15日消息，从工信部获取了一组东风日产轩逸e-POWER的申报信息，新车最大不同就是搭载了日产e-POWER增程技术，百公里油耗低至4.1L，并有望于三季度正式发布。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[科学家发现怪异的已灭绝蜥蜴新物种：曾被误认为是蜂鸟大小的恐龙]]></title>
+        <id>https://www.cnbeta.com/articles/science/1140717.htm</id>
+        <link href="https://www.cnbeta.com/articles/science/1140717.htm"/>
+        <updated>2021-06-15T03:05:09.000Z</updated>
+        <summary type="html"><![CDATA[一个国际研究小组描述了Oculudentavis的一个新物种，提供了进一步的证据，证明这种最初被误认为是蜂鸟大小的恐龙实际上是一种蜥蜴。
+ 阅读全文]]></summary>
+        <author>
+            <name>vivian</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[性质特殊：数学与物理学家提出“量子幻方”新概念]]></title>
+        <id>https://www.cnbeta.com/articles/science/1140715.htm</id>
+        <link href="https://www.cnbeta.com/articles/science/1140715.htm"/>
+        <updated>2021-06-15T03:02:49.000Z</updated>
+        <summary type="html"><![CDATA[对于许多小朋友来说，数学的魅力，在魔方上就体现得淋漓尽致。不过近日，量子物理学家 Gemma De las Cuevas 又携手另外两位数学家（Tim Netzer 和 Tom Drescher），对所谓的“量子幻方”的概念及其性质，展开了更加深入的研究。此前多年，幻方一直停留在人类的想象层面。而已知最古老的幻方，甚至可追溯到 2000 年前的中国。
+ 阅读全文]]></summary>
+        <author>
+            <name>raymon725</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[图]雷蛇升级战鹰27英寸游戏显示器 售价6999元]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1140713.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1140713.htm"/>
+        <updated>2021-06-15T03:01:56.000Z</updated>
+        <summary type="html"><![CDATA[雷蛇（Razer）近日对旗下的战鹰 27 英寸（Raptor 27）游戏显示器进行了升级，添加了低帧率补偿技术的 FreeSync Premium 功能，从而实现更流畅的游戏体验。新款显示器的刷新率也从前代的 144Hz 升级到 165Hz，并通过了 THX 认证，声称可提供出色的色彩、色调和图像准确性。
+ 阅读全文]]></summary>
+        <author>
+            <name>study875</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[捷豹路虎拟基于卫士打造一款氢燃料电池EV]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1140711.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1140711.htm"/>
+        <updated>2021-06-15T02:57:35.000Z</updated>
+        <summary type="html"><![CDATA[据外媒报道，捷豹路虎正在开发一款基于新卫士(Defender)SUV打造的氢燃料电池汽车并计划于明年开始测试原型车。这个被称为“宙斯项目(Project Zeus)”的原型项目是捷豹路虎到20236年仅生产零尾气排放汽车这一更大目标的一部分。捷豹路虎还承诺到2039年在供应链、产品和运营中也都实现零碳排放。
+ 阅读全文]]></summary>
+        <author>
+            <name>teikaei</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[专家报告三星设备存在多个高危漏洞：可监听用户/完全控制]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1140709.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1140709.htm"/>
+        <updated>2021-06-15T02:49:46.000Z</updated>
+        <summary type="html"><![CDATA[通过三星的漏洞悬赏计划，一名安全研究人员向三星报告了多个安全漏洞，而这只是大型漏洞发现中的一小部分。目前三星正努力修复影响其移动设备的多个漏洞，可能已经被黑客用于监听设备或者完全控制系统。
+ 阅读全文]]></summary>
+        <author>
+            <name>study875</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[研究预测经过数十亿年的和谐运行 遥远的恒星系统将在混乱中结束]]></title>
+        <id>https://www.cnbeta.com/articles/science/1140707.htm</id>
+        <link href="https://www.cnbeta.com/articles/science/1140707.htm"/>
+        <updated>2021-06-15T02:49:34.000Z</updated>
+        <summary type="html"><![CDATA[据外媒New Atlas报道，一个天文学家小组利用计算机建模揭示了一个遥远的恒星系统的混乱命运，在这个系统中，行星的轨道几乎完全同步。这项研究还揭示了贯穿我们银河系的古老白矮星是如何被宇宙碎片污染的。
+ 阅读全文]]></summary>
+        <author>
+            <name>vivian</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[看好电动车前景 三星SDI投资11.44亿元扩大锂电池产能]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1140705.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1140705.htm"/>
+        <updated>2021-06-15T02:44:39.000Z</updated>
+        <summary type="html"><![CDATA[6月15日消息，根据韩国媒体TheElec报道，三星SDI计划投资2000亿韩元（约合11.44亿元人民币），扩大其马来西亚锂电池工厂的产能，这家工厂目前主要制造圆柱形锂电池。知情人士透露，新的生产线预计每月可以制造超过100万个电池，如果全为21700规格电池，则每年产能可达2GWh。
+ 阅读全文]]></summary>
+        <author>
+            <name>vivian</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美国口罩需求急剧下降 霍尼韦尔关闭两座口罩工厂]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1140703.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1140703.htm"/>
+        <updated>2021-06-15T02:43:58.000Z</updated>
+        <summary type="html"><![CDATA[霍尼韦尔国际公司宣布，将关闭去年为应对疫情期间的需求激增而仓促投产的两座N95口罩工厂，因为现在随着疫苗的推广，美国戴口罩的人越来越少了。
+ 阅读全文]]></summary>
+        <author>
+            <name>vivian</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[新冠免疫力可维持至少一年 疫苗还能进一步提高]]></title>
+        <id>https://www.cnbeta.com/articles/science/1140701.htm</id>
+        <link href="https://www.cnbeta.com/articles/science/1140701.htm"/>
+        <updated>2021-06-15T02:42:40.000Z</updated>
+        <summary type="html"><![CDATA[《自然》杂志今日以“加速预览”的形式上线了一篇重要文章：科学家们追踪分析了63名曾感染新冠的个体，发现在感染的12个月之后，他们体内依旧存在对新冠病毒的免疫力。而倘若接种过疫苗，这些免疫力的数值还会进一步提高！
+ 阅读全文]]></summary>
+        <author>
+            <name>teikaei</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[喜茶诉小男孩LOGO商标被驳回]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1140699.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1140699.htm"/>
+        <updated>2021-06-15T02:41:53.000Z</updated>
+        <summary type="html"><![CDATA[6月15日上午消息，天眼查App显示，6月11日，深圳美西西餐饮管理有限公司与国家知识产权局其他二审行政判决书公开，案号（2021）京行终2041号，审理法院为北京市高级人民法院，裁判结果为驳回上诉，维持原判。本判决为终审判决。
+ 阅读全文]]></summary>
+        <author>
+            <name>teikaei</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[研究人员打造出新型超薄液晶金属透镜：具备电子缩放功能]]></title>
+        <id>https://www.cnbeta.com/articles/science/1140697.htm</id>
+        <link href="https://www.cnbeta.com/articles/science/1140697.htm"/>
+        <updated>2021-06-15T02:35:20.000Z</updated>
+        <summary type="html"><![CDATA[据外媒报道，康奈尔应用与工程物理学院和三星先进技术研究所的研究人员发明了一种新型金属--一种超材料透镜，它可以通过电压聚焦而不是机械移动其组件。这一概念的验证为一系列紧凑的变焦透镜打开了大门，这些透镜可能用于许多成像应用如卫星、望远镜和显微镜，传统上人们使用的是弯曲透镜聚光。
+ 阅读全文]]></summary>
+        <author>
+            <name>teikaei</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[新研究揭示蓝藻如何进化其光合作用机制]]></title>
+        <id>https://www.cnbeta.com/articles/science/1140695.htm</id>
+        <link href="https://www.cnbeta.com/articles/science/1140695.htm"/>
+        <updated>2021-06-15T02:31:26.000Z</updated>
+        <summary type="html"><![CDATA[利物浦大学的研究人员进行的一项新研究揭示了古老的光合作用生物--蓝藻--是如何进化它们的光合作用机制并组织它们的光合作用膜结构以有效地捕获太阳光和能量转导的。
+ 阅读全文]]></summary>
+        <author>
+            <name>vivian</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[部分用户称 iMac 装配存在问题，会导致屏幕倾斜]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1140693.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1140693.htm"/>
+        <updated>2021-06-15T02:31:24.000Z</updated>
+        <summary type="html"><![CDATA[一些 M1 版新款 iMac 用户称，该设备安装在支架上的装配可能存在问题，导致一些 iMac 左右是不平的。一位买了 M1 iMac 用户在苹果支持社区发帖称，他的 iMac 偏离中心，显示屏左右两侧相差约 1 毫米。另一个人在 Reddit 上抱怨了这个问题，称他们的 iMac“ 不完全水平”。
+ 阅读全文]]></summary>
+        <author>
+            <name>study875</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[图]罗技推限量款Design Collection鼠标 新增7种风格]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1140691.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1140691.htm"/>
+        <updated>2021-06-15T02:29:01.000Z</updated>
+        <summary type="html"><![CDATA[每隔一段时间，罗技（Logitech）就会推出 M325 便携式鼠标的限量版本。这些限量版非常独特，以至于还有人专门收集这些鼠标。今天，罗技带来了全新的 Design Collection，共有 7 种风格供用户选择。
+ 阅读全文]]></summary>
+        <author>
+            <name>study875</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[英特尔发布IPU处理器：面向数据中心与云基础设施]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1140689.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1140689.htm"/>
+        <updated>2021-06-15T02:23:29.000Z</updated>
+        <summary type="html"><![CDATA[芯片巨头英特尔（Intel）刚刚介绍了面向基础设施应用的 IPU 处理器，以满足数据中心和云服务提供商的最新需求。据悉，IPU 全称为“Infrastructure Processing Unit”，官方描述为一种可编程网络设备，旨在帮助云与通信服务提供商减少相关任务对中央处理器（CPU）的资源开销需求，并进一步释放相关平台的性能潜力。
+ 阅读全文]]></summary>
+        <author>
+            <name>raymon725</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Adult Swim播出《Tuca & Bertie》第二季  首集在YouTube上免费播放]]></title>
+        <id>https://hot.cnbeta.com/articles/comic/1140687.htm</id>
+        <link href="https://hot.cnbeta.com/articles/comic/1140687.htm"/>
+        <updated>2021-06-15T02:17:16.000Z</updated>
+        <summary type="html"><![CDATA[据外媒报道，Netflix在《Tuca & Bertie》（鸟姐妹）播出第一季后不久就宣布不再续订这部动画情景喜剧。该剧的创作者曾透露，Netflix不打算续订第二季，但没有透露具体原因。鉴于该剧受到观众和评论家的热烈欢迎，Adult Swim频道在去年宣布续订该剧也就不足为奇了。
+ 阅读全文]]></summary>
+        <author>
+            <name>vivian</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[真全面屏可期 消息称三星已搞定屏下摄像头技术]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1140685.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1140685.htm"/>
+        <updated>2021-06-15T02:16:41.000Z</updated>
+        <summary type="html"><![CDATA[6月15日消息，博主@数码闲聊站爆料，三星搞定了高分辨率下屏下前摄问题。我们知道，目前屏幕PPI大约在400左右，而PPI在这个水平相机中光的透过率是很低的，这样就严重影响了拍照效果。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[梅赛德斯发布2022款AMG GT 4门轿跑：带来更多个性化选择]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1140683.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1140683.htm"/>
+        <updated>2021-06-15T02:13:13.000Z</updated>
+        <summary type="html"><![CDATA[据外媒报道，当地时间周一，梅赛德斯发布了2022款六缸GT43和GT53，虽然更新相当微妙，但却让该车型的提升更加独特。据悉，这款六缸车型的外观造型跟去年没有变化，但有一个新的可选V8配置套件，这使得汽车的前保险杠和后扩压器设计跟GT63相同。
+ 阅读全文]]></summary>
+        <author>
+            <name>teikaei</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[料理包来了，你吃吗？]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1140681.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1140681.htm"/>
+        <updated>2021-06-15T02:12:03.000Z</updated>
+        <summary type="html"><![CDATA[“餐饮开店省时省力更省心”“无需大厨，3分钟快速出餐”“无烟厨房，干净卫生”……近年来，由于外卖行业飞速发展以及懒于做饭的年轻一代逐渐成为厨房主力军等原因，涵盖各种中西菜肴、主食等食品的料理包，受到市场追捧。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AirPods Pro Lite将采用纽扣型电池 LG新能源正着手竞标]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1140679.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1140679.htm"/>
+        <updated>2021-06-15T02:07:53.000Z</updated>
+        <summary type="html"><![CDATA[6月15日消息，LG新能源（LG Energy Solution，LG能源解决方案）正式投入开发钮扣电池，以争取苹果AirPods Pro Lite订单。去年有消息称，苹果将在2021年上半年发布AirPods Pro Lite。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[真人版《高达》电影导演：这部电影是给新人看的]]></title>
+        <id>https://hot.cnbeta.com/articles/movie/1140677.htm</id>
+        <link href="https://hot.cnbeta.com/articles/movie/1140677.htm"/>
+        <updated>2021-06-15T02:07:16.000Z</updated>
+        <summary type="html"><![CDATA[今年4月中旬，Netflix宣布要拍摄《高达》真人版电影，到现在已经两个月了。近日，《高达》真人版电影导演乔丹·沃格-罗伯茨接受了外媒《娱乐周刊》的采访，他在采访中表示，这部电影是给（没有接触过高达的）新人看的。
+ 阅读全文]]></summary>
+        <author>
+            <name>vivian</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[微软畅想“混合式未来办公”本周四举办线上虚拟直播活动]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1140675.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1140675.htm"/>
+        <updated>2021-06-15T02:07:16.000Z</updated>
+        <summary type="html"><![CDATA[今年早些时候，有报道称微软计划举办特别的虚拟活动，以分享有关其各个业务部门的更多信息。通常情况下，微软会在 Build 或 Ignite 等大型会议期间发布许多公告。但根据官网的最新公告，可知微软将在本周晚些时候举办一场专注于“混合式办公”的活动。感兴趣的朋友，可留意美东时间 6 月 17 日（周四）上午 9 点的流媒体直播。
+ 阅读全文]]></summary>
+        <author>
+            <name>raymon725</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[微软曾考虑为Windows 7引入类光线追踪的动画效果]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1140673.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1140673.htm"/>
+        <updated>2021-06-15T02:06:11.000Z</updated>
+        <summary type="html"><![CDATA[Stephan Chapman 是热衷于研究 Windows 历史的爱好者，在他的个人Twitter中发布了不少模拟图、照片和视频等内容，今天他发布了一个短视频，展示了微软考虑在 Windows 7 系统中加入类似于光线追踪的照明动画效果。
+ 阅读全文]]></summary>
+        <author>
+            <name>study875</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[高盛再次“变脸”：加密货币不是一项可行投资]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1140671.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1140671.htm"/>
+        <updated>2021-06-15T02:01:53.000Z</updated>
+        <summary type="html"><![CDATA[高盛集团消费者和财富管理部门在给客户的一份报告中表示，加密货币对于其客户来说“不是一项可行投资。”CoinDesk周一获得的这份报告列举了几个悲观的理由，包括采矿的高能耗、量子计算等技术进步可能会让当前区块链技术过时，以及监管力度加大可能会阻碍加密货币作为投机资产的地位。
+ 阅读全文]]></summary>
+        <author>
+            <name>teikaei</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[这场疫情已经持续了40年  今天仍有4000万人活在梦魇之中]]></title>
+        <id>https://www.cnbeta.com/articles/science/1140669.htm</id>
+        <link href="https://www.cnbeta.com/articles/science/1140669.htm"/>
+        <updated>2021-06-15T02:01:12.000Z</updated>
+        <summary type="html"><![CDATA[40年前，艾滋病首次进入世人的视线。当时的人们或许想不到，最初只在寥寥数人身上出现的罕见疾病，成为已经持续 40 年、深刻影响社会面貌与生活方式的全球性疫情。而在此期间，一系列医学突破也改变了我们看待艾滋病的方式。可以说，艾滋病的发展史，同样是一段人类用科学对抗病毒的波折历史。
+ 阅读全文]]></summary>
+        <author>
+            <name>vivian</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[停止锻炼，人体会在多长时间变得不健康？]]></title>
+        <id>https://www.cnbeta.com/articles/science/1140667.htm</id>
+        <link href="https://www.cnbeta.com/articles/science/1140667.htm"/>
+        <updated>2021-06-15T02:01:03.000Z</updated>
+        <summary type="html"><![CDATA[北京时间6月15日消息，据国外媒体报道，当我们停止锻炼身体时，力量会迅速衰退，可能不用再从零开始，但需要几个月的努力才能达到身体健康状态。保持身材并不容易，但经过锻炼身体、控制饮食等一系列努力，一旦这种自律生活停止，身材还能维持多久呢？
+ 阅读全文]]></summary>
+        <author>
+            <name>teikaei</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TikTok、vivo、Alipay、Hisense……中国品牌“攻陷”欧洲杯]]></title>
+        <id>https://www.cnbeta.com/articles/tech/1140665.htm</id>
+        <link href="https://www.cnbeta.com/articles/tech/1140665.htm"/>
+        <updated>2021-06-15T02:00:22.000Z</updated>
+        <summary type="html"><![CDATA[足球的夏天，终于回来了！2020“欧洲杯”因疫情延期一年后，拉开帷幕。这是2020年全球新冠疫情爆发后首次举办的国际重大体育赛事，也是史上首次间隔5年举行的欧洲杯。欧洲杯又称“没有巴西和阿根廷的世界杯”，是公认的全球最高水平的洲际足球联赛，也是世界上最赚钱的体育赛事之一。
+ 阅读全文]]></summary>
+        <author>
+            <name>ugmbbc</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我们可以把所有数据存储到DNA上吗？]]></title>
         <id>https://www.cnbeta.com/articles/science/1140663.htm</id>
