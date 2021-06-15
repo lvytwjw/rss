@@ -1605,6 +1605,78 @@
       "siteUrl": "https://www.cnbeta.com",
       "articles": [
         {
+          "id": "https://www.cnbeta.com/articles/tech/1140903.htm",
+          "author": "raymon725",
+          "description": "PetaPixel 援引最新消息称，尼康即将推出一款 Z 卡口的复古风格相机，且在设计上与 Df 单反相似。尽管目前只流出了一张谍照，但 Nikon Rumors 还是抢先证实了此事。据说作为一款传闻中的 APS-C 相机，其在性能比肩 Z50 的同时，又套上了独特的胶片风格。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1140903.htm",
+          "publishedOn": "2021-06-15T10:02:56.000Z",
+          "wordCount": 271,
+          "title": "爆料称尼康Zfc是一款复古造型的APS-C相机 或售1000美元"
+        },
+        {
+          "id": "https://hot.cnbeta.com/articles/game/1140901.htm",
+          "author": "raymon725",
+          "description": "近年来，于游戏领域大显身手的虚幻引擎（Unreal Engine），也在努力向影视行业施展拳脚。除了《Outriders》、《星战绝地：坠落秩序》、《骑士 2》、《古惑狼 4》、《脑航员 2》等知名游戏，该引擎也已被用于《曼达洛人》和《西部世界》等剧目的特效制作，以及向《极速车王》和《星战 9：天行者崛起》等大片提供了技术支持。\n 阅读全文",
+          "link": "https://hot.cnbeta.com/articles/game/1140901.htm",
+          "publishedOn": "2021-06-15T09:44:42.000Z",
+          "wordCount": 234,
+          "title": "Tribeca携手Epic Games：向独立电影制作者传授虚幻引擎技能知识"
+        },
+        {
+          "id": "https://hot.cnbeta.com/articles/game/1140899.htm",
+          "author": "ugmbbc",
+          "description": "因为游戏BUG太多导致的玩家退款问题，2020年12月18日，发售不到10天的《赛博朋克2077》从PS商店中暂时下架，此后一直未能重新上架。而就在今日（6月15日），IGN晒出一张PS5主机的PS商店截图，显示《赛博朋克2077》在PS商店重新上架。\n 阅读全文",
+          "link": "https://hot.cnbeta.com/articles/game/1140899.htm",
+          "publishedOn": "2021-06-15T09:37:18.000Z",
+          "wordCount": 196,
+          "title": "历时半年 《赛博朋克2077》疑似重新上架PS商城"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1140897.htm",
+          "author": "ugmbbc",
+          "description": "据报道，在“秘密传票”事件发酵后，苹果公司将面临美国政府的新一轮调查。这突显了科技公司在被迫满足执法要求的同时，自己也陷入了困境。苹果此次所面临的调查，与特朗普时代的“秘密传票”有关。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1140897.htm",
+          "publishedOn": "2021-06-15T09:36:05.000Z",
+          "wordCount": 202,
+          "title": "苹果因“传票事件”面临新一轮审查：科技公司应如何回应传票？"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1140895.htm",
+          "author": "ugmbbc",
+          "description": "荣耀在今年第一和第二季度推出了一系列中端和预算领域的智能手机。似乎该公司不准备很快停止，并准备在6月16日推出其旗舰智能手机系列--荣耀50系列。这家智能手机制造商已经预告了其即将推出的荣耀50系列的设计。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1140895.htm",
+          "publishedOn": "2021-06-15T09:33:33.000Z",
+          "wordCount": 207,
+          "title": "荣耀50、荣耀50 SE所用芯片在Geekbench上曝光"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/science/1140893.htm",
+          "author": "ugmbbc",
+          "description": "行星在旋转，恒星在旋转，星系和星系团都在旋转。但是，这种角动量在链条的上游有多远？天文学家现在发现了宇宙中一些最大尺度的结构也在旋转的证据--一种令人难以置信的巨大丝状结构将星系缠绕在宇宙中。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/science/1140893.htm",
+          "publishedOn": "2021-06-15T09:27:19.000Z",
+          "wordCount": 192,
+          "title": "迄今发现的最大的丝状宇宙旋转结构就像一把“开瓶器”"
+        },
+        {
+          "id": "https://hot.cnbeta.com/articles/funny/1140891.htm",
+          "author": "ugmbbc",
+          "description": "又是一年毕业季。高考结束了，曾经的同窗好友，从此各奔天涯，后续很多人，是此生彼此最后一面。你是如何祝福即将分离的同学的？近日，贵州省毕节一中的一位高三班长火了，因为他给全班48位同学送上了一份最特别的礼物。\n 阅读全文",
+          "link": "https://hot.cnbeta.com/articles/funny/1140891.htm",
+          "publishedOn": "2021-06-15T09:24:03.000Z",
+          "wordCount": 206,
+          "title": "高三班长把全班名字写成诗 深情满满才华横溢"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1140889.htm",
+          "author": "raymon725",
+          "description": "在今年 4 月的 Spring Loaded 春季活动期间，苹果已经预告了全新的播客订阅服务。为了确保最佳的用户体验，该公司并未立即上线，而是直到今天才正式推出。早些时候，苹果已经向 Podcast 用户发送了邮件通知，表示这项服务将于本周二（6 月 15 日）与大家见面。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1140889.htm",
+          "publishedOn": "2021-06-15T09:22:23.000Z",
+          "wordCount": 216,
+          "title": "苹果正式推出Podcasts播客订阅服务"
+        },
+        {
           "id": "https://hot.cnbeta.com/articles/game/1140885.htm",
           "author": "raymon725",
           "description": "初代《毁灭战士》是一款可以追溯到 1993 年的老游戏，但互联网上的创意硬件黑客与软件专家们，正在努力让它在几乎任何具有微处理器的设备上运行。不过最让我们感到匪夷所思的，莫过于 Next-Hack 刚刚在 YouTube 上分享的、针对宜家 Trådfri GU10 RGB LED 灯泡的破解方案。\n 阅读全文",
