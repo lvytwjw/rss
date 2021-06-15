@@ -1619,6 +1619,96 @@
       "siteUrl": "https://www.cnbeta.com",
       "articles": [
         {
+          "id": "https://c.duomai.com/track.php?site_id=242986&euid=&t=https://www.microsoftstore.com.cn/",
+          "author": "ugmbbc",
+          "description": "微软商城618大促活动进入高潮阶段，将一直持续到6月20日。内容包括认证翻新Surface Pro 7 指定机型618闪促约75折、商城通用优惠券满199减20，Xbox手柄、微软键鼠可用、长辈优惠，翻新机额外9.5折、官网优化了商业版机器购机流程，可免息分期购买商用版Laptop 4、Pro 7+等，另有商业版翻新机上线，低至4折起。\n 阅读全文",
+          "link": "https://c.duomai.com/track.php?site_id=242986&euid=&t=https://www.microsoftstore.com.cn/",
+          "publishedOn": "2021-06-15T12:06:22.000Z",
+          "wordCount": 5,
+          "title": "微软中国商城6·18活动进入最终阶段：Surface最低4折起"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1140939.htm",
+          "author": "ugmbbc",
+          "description": "2019年年中的台北电脑展上，猫头鹰展示了一款无风扇、零噪音的散热器，号称散热能力高达120W，可以搞定酷睿i9-9900K(95W)、锐龙7 2700X(105W)这样的桌面旗舰。经过两年的漫长等待，猫头夜终于拿出了成品，型号为“NH-P1”，这也是猫头鹰史上第一款被动散热器，整体设计和当初的原型相比发生了巨大的变化。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1140939.htm",
+          "publishedOn": "2021-06-15T12:05:03.000Z",
+          "wordCount": 210,
+          "title": "猫头鹰正式发布NH-P1无风扇散热器：稳压125W i9-11900K烤机"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1140937.htm",
+          "author": "ugmbbc",
+          "description": "我们已经在渲染图中多次看到即将推出的Google Pixel 6的设计渲染图，它独特的背部设计显然会带来同样非正统的保护壳设计。泄密者Ice Universe发布了该手机的透明塑料外壳图片，首次真实地展示了外壳制造商在制造时必须处理的问题。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1140937.htm",
+          "publishedOn": "2021-06-15T12:02:25.000Z",
+          "wordCount": 208,
+          "title": "Pixel 6的外壳配件首次现身：包含奇特的摄像头模组区域"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/science/1140935.htm",
+          "author": "ugmbbc",
+          "description": "不仅是非常简洁的11年周期，而且所有其他周期性的太阳活动波动都可以由行星吸引力来计时。这是Frank Stefani博士和他的同事从德累斯顿`罗森道夫亥姆霍兹中心（HZDR）的流体动力学研究所和俄罗斯彼尔姆的连续介质力学研究所得出的结论。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/science/1140935.htm",
+          "publishedOn": "2021-06-15T11:54:15.000Z",
+          "wordCount": 198,
+          "title": "周期性的太阳活动可以用行星作为节拍器来计时"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/science/1140933.htm",
+          "author": "ugmbbc",
+          "description": "日光层是地球由太阳风产生的保护性气泡，主要由质子、电子和α粒子流组成。它从太阳延伸到星际空间，保护地球和我们的太阳系免受有害的星际辐射。一组天文学家们宣布，他们已经能够首次绘制日光层的边界。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/science/1140933.htm",
+          "publishedOn": "2021-06-15T11:46:51.000Z",
+          "wordCount": 190,
+          "title": "天文学家们首次绘制了地球日光层的边界图"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1140931.htm",
+          "author": "ugmbbc",
+          "description": "自Twitter推出以来，人们要求最多的功能之一（除了简单、即时、安全的账户验证）就是编辑推文的能力，此前，Twitter改变了时间线的排序方式，并支持发表更长的推文，但人们最想要的依然是编辑推文的能力。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1140931.htm",
+          "publishedOn": "2021-06-15T11:41:38.000Z",
+          "wordCount": 197,
+          "title": "Twitter正在测试让用户消除他人推文中@提及自己的能力"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1140929.htm",
+          "author": "ugmbbc",
+          "description": "几年前，硅谷液体活检公司Theranos的惊世骗局臭名昭著。它曾对外宣称只需一两滴血就能做从血糖到癌症的200多种检验，最终被曝光是个技术造假、数据造假的皮包公司。但这并意味着液体活检一无是处，相反它潜力巨大但技术难度也高。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1140929.htm",
+          "publishedOn": "2021-06-15T11:34:37.000Z",
+          "wordCount": 232,
+          "title": "一次验血测50种癌症？全球首个产品上市 这次不是忽悠"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1140927.htm",
+          "author": "ugmbbc",
+          "description": "据Meritalk报道，在上周末的七国集团会议和6月14日结束的北约峰会上，网络安全和勒索软件都是重要的政策问题清单上的重点。\n成员国在一份联合声明中指出：\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1140927.htm",
+          "publishedOn": "2021-06-15T11:33:45.000Z",
+          "wordCount": 190,
+          "title": "七国集团研究全面网络防御政策"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1140925.htm",
+          "author": "ugmbbc",
+          "description": "2020年12月1日，高通在夏威夷举办的骁龙技术峰会上发布了最新一代的旗舰级SoC——骁龙888。骁龙888采用三星5nm工艺制作，核心设计为1+3+4架构，也就是一个Cortex X1超大核，3个A78中核，四个A55小核，GPU为Adreno 660，性能犹如打了鸡血一样强悍，理所当然地成为2021年手机厂商高性能机型必用的处理器。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1140925.htm",
+          "publishedOn": "2021-06-15T11:29:02.000Z",
+          "wordCount": 413,
+          "title": "26款骁龙888手机快充性能横向对比 差距竟然这么大"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/science/1140923.htm",
+          "author": "ugmbbc",
+          "description": "根据圣母大学（University of Notre Dame）的新研究，在美国和加拿大销售的许多化妆品可能含有高水平的全氟和多氟烷基物质（PFAS），这是一类潜在的有毒化学品，与一些严重的健康状况有关。科学家们测试了200多种化妆品，包括遮瑕膏、粉底、眼睛和眉毛产品以及各种唇部产品。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/science/1140923.htm",
+          "publishedOn": "2021-06-15T11:11:48.000Z",
+          "wordCount": 198,
+          "title": "研究人员在北美销售的化妆品中检测到高含量潜在有毒PFAS化学品"
+        },
+        {
           "id": "https://www.cnbeta.com/articles/science/1140921.htm",
           "author": "ugmbbc",
           "description": "6月15日消息，日前有网友发布了一条“在乾陵博物馆看到这两件文物长毛了，是咋回事……保存温湿度不到位吗？”的微博。在网友发出的图片中，一件类似于陶制人像的文物四周长满了小绒毛，在光线的照射下仿若一只“金丝猴”。网友纷纷留言“毛未免太多了点吧”“貂裘大衣不错嘛”。\n 阅读全文",
