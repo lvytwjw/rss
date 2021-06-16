@@ -1687,6 +1687,69 @@
       "siteUrl": "https://www.cnbeta.com",
       "articles": [
         {
+          "id": "https://www.cnbeta.com/articles/tech/1141435.htm",
+          "author": "ugmbbc",
+          "description": "中新网6月16日电 据日本放送协会（NHK）报道，日本川崎市在6月13日发生了一起因冷库温度上升导致近6400剂新冠疫苗报废事件。对此，6月16日，涉事冷库公司社长召开新闻发布会，鞠躬表达歉意。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1141435.htm",
+          "publishedOn": "2021-06-16T13:19:03.000Z",
+          "wordCount": 193,
+          "title": "日本近6400剂新冠疫苗因冷库温度上升报废 冷库公司致歉"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1141433.htm",
+          "author": "ugmbbc",
+          "description": "6月15日，词作者吴向飞发文控诉自己的十余首音乐作品被台湾环球恶意侵占13年，在采取维权手段后，对方愿意支付版权，但数额却少的可怜。吴向飞举例称，台湾环球提供的版税报表显示，其给陈奕迅写的主打歌《路一直都在》，一年的词曲使用费仅为271元，平均每月22.58元。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1141433.htm",
+          "publishedOn": "2021-06-16T13:09:52.000Z",
+          "wordCount": 196,
+          "title": "陈奕迅作词人控诉环球音乐侵占版权费 网易云音乐、QQ音乐等平台卷入"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1141431.htm",
+          "author": "ugmbbc",
+          "description": "性能车领域，受限于品牌号召力与溢价能力，国产品牌向来很少涉足，不过随着领克03+的到来，凭借着254马力、不到6秒的百公里加速成绩，也给国内消费者带来了一个不错的选择。日前，我们于工信部官方了解到，领克03+新车型也已曝光，新车整体保持了在售车型的风格，不过发动机动力有所增加，同时细节部分调整。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1141431.htm",
+          "publishedOn": "2021-06-16T12:34:42.000Z",
+          "wordCount": 198,
+          "title": "新款领克03+实车亮相 动力增加尾翼增大"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1141429.htm",
+          "author": "ugmbbc",
+          "description": "SpaceX近年来做的更有趣的事情之一是将大量的Starlink卫星发射到轨道上。最终，该卫星星座将为美国各地，甚至可能为全世界提供持续的互联网覆盖。Starlink卫星将互联网连接传送到人们家中和其他地点的地面卫星接收天线上。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1141429.htm",
+          "publishedOn": "2021-06-16T12:16:31.000Z",
+          "wordCount": 193,
+          "title": "Starlink用户发现了其地面卫星天线的一个重大缺陷"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/science/1141427.htm",
+          "author": "ugmbbc",
+          "description": "我们的银河系有一个被称为星系棒旋的部分，它是由数十亿颗聚集的恒星组成的。科学家们说，自银河系形成以来，该星系棒旋的旋转速度减少了大约25%。在伦敦大学和牛津大学研究人员发表的一项研究中，关于旋转速度减缓的新细节浮出水面。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/science/1141427.htm",
+          "publishedOn": "2021-06-16T12:13:40.000Z",
+          "wordCount": 193,
+          "title": "研究认为暗物质减缓了银河系的星系棒旋的旋转速度"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/science/1141425.htm",
+          "author": "ugmbbc",
+          "description": "由明尼苏达大学天体物理学家领导的一项新研究表明，来自小星系的高能光可能在宇宙的早期演化中起到了关键作用。这项研究使人们了解到宇宙是如何重新电离的，这是天文学家多年来一直试图解决的一个问题。该研究发表在《天体物理学杂志》上，这是一份经同行评审的天体物理学和天文学科学杂志。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/science/1141425.htm",
+          "publishedOn": "2021-06-16T12:11:50.000Z",
+          "wordCount": 199,
+          "title": "天文学家首次观测到处于\"吹离\"状态的星系 揭示了宇宙演化的秘密"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1141423.htm",
+          "author": "ugmbbc",
+          "description": "根据匈牙利通讯社MTI消息，周二下午，匈牙利外交与贸易部部长Péter Szijjártó再次宣布了一项来自东方投资者在匈牙利的发展，富士康集团成员Cloud Network Technology Kft.将在科马罗姆Komárom投资50亿福林用于扩展其计算机和通信设备公司。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1141423.htm",
+          "publishedOn": "2021-06-16T12:08:57.000Z",
+          "wordCount": 205,
+          "title": "富士康加大在匈牙利投资用于计算机和通信设备制造"
+        },
+        {
           "id": "https://www.cnbeta.com/articles/tech/1141421.htm",
           "author": "ugmbbc",
           "description": "特斯拉今年的销量或许还将攀上新高峰！前段时间，关于特斯拉 5 月份销量腰斩的传闻层出不穷，特斯拉仿佛已经彻底被市场放弃了。但很快，现实让这些谣言不攻自破。乘联会正式公布的五月份国内新能源汽车市场的销量显示，5 月份，特斯拉的批发量为 33463 台，实现逆势增长。\n 阅读全文",
