@@ -1696,6 +1696,69 @@
       "siteUrl": "https://www.cnbeta.com",
       "articles": [
         {
+          "id": "https://www.cnbeta.com/articles/tech/1141487.htm",
+          "author": "ugmbbc",
+          "description": "6月16日消息，今天荣耀在上海发布了全新荣耀50系列。在发布会后，荣耀CEO赵明接受了媒体采访。在谈到高端市场竞争时，赵明表示荣耀主要竞争对手就是苹果，如何做出一款超越苹果的产品是荣耀的追求。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1141487.htm",
+          "publishedOn": "2021-06-16T16:11:40.000Z",
+          "wordCount": 200,
+          "title": "赵明：荣耀高端市场主要对手就是苹果"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1141485.htm",
+          "author": "ugmbbc",
+          "description": "前不久，苹果发布的 2020 年 TOP200 供应商名单在科技圈炸了锅。大陆新增 12 家厂商，在新增名单中占比最高。而中国供应商数量占比从 2019 年的 52% 增加到了 57%，因此许多人也给出了“苹果对中国供应链依赖加深”的判断。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1141485.htm",
+          "publishedOn": "2021-06-16T16:11:22.000Z",
+          "wordCount": 424,
+          "title": "苹果TOP200供应商有多牛？“拆”了一部 iPhone 后我冷静了"
+        },
+        {
+          "id": "https://hot.cnbeta.com/articles/game/1141483.htm",
+          "author": "ugmbbc",
+          "description": "据外媒IGN报道，日本是目前Xbox玩家增长最快的市场，XSX/S在日本市场拥有很高的占有率，在日本为Xbox主机开发的独立游戏开发者也越来越多。Xbox亚洲区负责人Jeremy Hinton在接受日本IGN采访时表示：\n 阅读全文",
+          "link": "https://hot.cnbeta.com/articles/game/1141483.htm",
+          "publishedOn": "2021-06-16T16:10:18.000Z",
+          "wordCount": 198,
+          "title": "日本成为Xbox玩家增长最快的市场 XSS更受欢迎"
+        },
+        {
+          "id": "https://hot.cnbeta.com/articles/funny/1141481.htm",
+          "author": "ugmbbc",
+          "description": "贝索斯于2000年创立了蓝色起源公司，在上周，蓝色起源公司宣布以2800万美元的价格拍卖了其新谢泼德号（New Shepard）亚轨道飞船首次载人飞行的一个座位。中标者将与亚马逊创始人杰夫·贝索斯（Jeff Bezos）及其弟弟共同于7月20日前往太空边缘。\n 阅读全文",
+          "link": "https://hot.cnbeta.com/articles/funny/1141481.htm",
+          "publishedOn": "2021-06-16T16:04:39.000Z",
+          "wordCount": 194,
+          "title": "超6千人请愿：建议贝索斯前往太空后不要重返地球"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1141479.htm",
+          "author": "ugmbbc",
+          "description": "苹果新的 MusicKit API让开发者提供Apple Music试用版，并对新用户进行奖励，从iOS 15开始，开发者将能够提供Apple Music 试用版，并通过推荐计划获得新用户奖励。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1141479.htm",
+          "publishedOn": "2021-06-16T16:04:21.000Z",
+          "wordCount": 230,
+          "title": "苹果新的 MusicKit API让开发者提供 Apple Music 试听版"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1141477.htm",
+          "author": "maomao",
+          "description": "在一次关于苹果公司在健康领域工作和进展采访中，该公司技术副总裁凯文林奇暗示，苹果公司有朝一日可能会利用AirPods传感器融合来为用户提供更多的健康数据。目前，iPhone和Apple Watch都利用大量的传感器，独立为用户提供健康数据和信息。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1141477.htm",
+          "publishedOn": "2021-06-16T15:57:36.000Z",
+          "wordCount": 201,
+          "title": "苹果高管暗示未来将使用AirPods提供更多健康数据"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1141475.htm",
+          "author": "ugmbbc",
+          "description": "很意外地，AMD刚刚低调发布了新款旗舰显卡“RX 6900 XT Liquid Cooled”，又一款水冷公版卡，上次还是将近四年前的RX Vega 64水冷版。RX 6900 XT水冷版此前已有多家AIC厂商推出，这次的公版与之类似，采用了传说中的特调体质版Navi 21 XTXH核心，全新的造型设计，正面硕大的R字母异常惹眼，双插槽体积，外部搭配单风扇的120mm规格冷排。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1141475.htm",
+          "publishedOn": "2021-06-16T15:10:41.000Z",
+          "wordCount": 225,
+          "title": "AMD正式发布RX 6900 XT水冷版：频率拔高、功耗达330W"
+        },
+        {
           "id": "https://www.cnbeta.com/articles/tech/1141473.htm",
           "author": "ugmbbc",
           "description": "首家Google商店即将开业，如果你不能去纽约市查看新的实体店，那么线上虚拟探店是最好的办法。Google在今年早些时候宣布，它将开设第一个实体店，主要提供设备销售，现在它已经在纽约市切尔西区开门营业。\n 阅读全文",
