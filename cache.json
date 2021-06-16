@@ -1682,6 +1682,177 @@
       "siteUrl": "https://www.cnbeta.com",
       "articles": [
         {
+          "id": "https://www.cnbeta.com/articles/tech/1141341.htm",
+          "author": "teikaei",
+          "description": "随着监管压力的加大，韩国的数字资产交易所已开始停止交易某些被认为对投资者风险过高的加密货币。据当地媒体周三报道，在20家获得了安全管理系统证书的交易所中，有11家已经停止了某些币种的交易或发出警告。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1141341.htm",
+          "publishedOn": "2021-06-16T08:05:42.000Z",
+          "wordCount": 192,
+          "title": "韩国加密货币交易所停止交易部分高风险币种"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1141339.htm",
+          "author": "study875",
+          "description": "彭博报道称，黑石集团即将达成收购办公开发商 SOHO 中国的协议，交易总价可能达到 30 亿美元。报道称，虽然谈判已经进入最后阶段，但仍有可能延长或者破裂。如果一切顺利，交易结果最快可能于本周正式对外宣布。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1141339.htm",
+          "publishedOn": "2021-06-16T08:03:41.000Z",
+          "wordCount": 223,
+          "title": "媒体：黑石接近达成以30亿美元收购SOHO中国的协议"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1141337.htm",
+          "author": "study875",
+          "description": "技术从未停止前进的脚步，在 5G 逐渐成为主流的时候下一代 6G 技术即将到来。目前三星使用太赫兹（THz）频率，已经在 over-the-air 测试中演示了首个 6G 原型系统。正如你所期望的，6G的主要优势是更快的数据速率和更低的延迟。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1141337.htm",
+          "publishedOn": "2021-06-16T08:02:54.000Z",
+          "wordCount": 250,
+          "title": "[图]三星演示首个6G原型系统：已实现6.2Gbps 目标1000Gbps"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1141335.htm",
+          "author": "teikaei",
+          "description": "据外媒报道，XTI Aircraft公司正致力于生产“世界上最快、距离最长的垂直起降飞机(VTOL)”，预计2024年底将获得认证并开始全面生产。据悉，Trifan 600将可搭载8名乘客，飞行距离可达750英里（1200公里），速度可达345mph（555km/h）。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1141335.htm",
+          "publishedOn": "2021-06-16T08:01:52.000Z",
+          "wordCount": 216,
+          "title": "长续航高速混动VTOL Trifan 600承诺在2024年起飞"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1141333.htm",
+          "author": "teikaei",
+          "description": "据知情人士称，英国正与六家公司进行洽谈，讨论在英国建设“超级工厂”生产电动汽车电池的事宜。这六家公司包括福特汽车、日产汽车、LG、三星，以及初创企业Britishvolt和InoBat Auto，他们正与英国政府或地方当局就潜在的工厂选址和资金支持进行谈判。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1141333.htm",
+          "publishedOn": "2021-06-16T08:00:29.000Z",
+          "wordCount": 196,
+          "title": "英国拟建超级工厂生产电动汽车电池 正与六家公司洽谈"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1141331.htm",
+          "author": "vivian",
+          "description": "教育部16日发布校外培训风险提示：学期考试临近、暑假将至，特提醒广大家长，在为孩子选择培训项目、缴纳培训费用时，特别注意以下事项：\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1141331.htm",
+          "publishedOn": "2021-06-16T07:57:44.000Z",
+          "wordCount": 194,
+          "title": "教育部发布校外培训风险提示：警惕虚假宣传诱导缴费"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1141329.htm",
+          "author": "vivian",
+          "description": "北京时间6月16日下午消息，据韩联社报道，三星显示（Samsung Display）工会在宣布涨薪谈判破裂后，决定从21日起罢工。这将是三星显示成立以来第一次罢工，也是三星电子副会长李在镕去年宣布“无工会经营”原则作废后，三星旗下公司首次罢工。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1141329.htm",
+          "publishedOn": "2021-06-16T07:56:20.000Z",
+          "wordCount": 205,
+          "title": "三星显示工会宣布下周起陆续罢工"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/science/1141327.htm",
+          "author": "teikaei",
+          "description": "中国首个进入临床阶段的mRNA疫苗——ARCoV，6月有望启动海外多中心Ⅲ期临床试验。6月15日，在由BioBAY主办的核酸药物研发论坛上，艾博生物创始人兼CEO英博表示，海外多中心III期临床试验的规模是2.8万人左右，合作方是泰格医药，“我们每天都在紧锣密鼓地做这个事情，包括墨西哥、哥伦比亚、巴基斯坦等国家，在齐头并进地推进。”\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/science/1141327.htm",
+          "publishedOn": "2021-06-16T07:54:19.000Z",
+          "wordCount": 197,
+          "title": "无需冷冻保存的国产mRNA疫苗越来越近：本月展开一项关键试验"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1141325.htm",
+          "author": "vivian",
+          "description": "一年一度的高考志愿填报马上就要开始了。近期，陆续有考生和家长反映，社会上有机构或个人通过互联网、电话、面询等方式，向考生和家长开展高校志愿填报指导活动并收取高额服务费，存在政策不准、信息不实、误导甚至诈骗等问题。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1141325.htm",
+          "publishedOn": "2021-06-16T07:53:52.000Z",
+          "wordCount": 190,
+          "title": "高价志愿填报服务靠谱吗？教育部发布预警：谨防诈骗"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1141323.htm",
+          "author": "teikaei",
+          "description": "近日，中国汽车动力电池产业创新联盟公布最新数据显示，5月，我国动力电池装车量9.8GWh，同比上升178.2%，环比上升16.2%。其中，其中磷酸铁锂电池装车4.5GWh，占比45.9%；而三元锂电池的占比下降至53%，装车量为5.2GWh。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1141323.htm",
+          "publishedOn": "2021-06-16T07:49:26.000Z",
+          "wordCount": 191,
+          "title": "动力电池5月装车9.8GWh：磷酸铁锂电池产量超三元锂电池"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1141321.htm",
+          "author": "study875",
+          "description": "6 月 16 日消息，重橙网络发布“关于 Flash 中心上线的公告”。重橙网络表示，自 2021 年 6 月 10 日起，Flash 中国官方将全面推出软件产品 Flash 中心（曾用名 Flash 大厅），内含 Adobe Flash Player 功能，支持 Flash 内容播放、安全更新、问题修复及 Flash 游戏推荐等。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1141321.htm",
+          "publishedOn": "2021-06-16T07:46:19.000Z",
+          "wordCount": 233,
+          "title": "全新软件Flash中心上线：内含Flash Player功能"
+        },
+        {
+          "id": "https://hot.cnbeta.com/articles/game/1141319.htm",
+          "author": "raymon725",
+          "description": "彭博社援引消息人士的话称：索尼或于明年假日季发布新一代 PSVR 虚拟现实头显装置，且预计会采用三星显示器公司的 OLED 面板组件。对于这样的时间节点，我们并不感到惊讶。因为该公司已经开始谈论 PS5 头显的潜力，并于 2 月份首次得到了确认，辅以一些初步的细节。然后 3 月份的时候，该公司又晒出了新款控制器。\n 阅读全文",
+          "link": "https://hot.cnbeta.com/articles/game/1141319.htm",
+          "publishedOn": "2021-06-16T07:43:56.000Z",
+          "wordCount": 238,
+          "title": "索尼或于2022年末推出新一代PSVR装置 预计采用三星OLED面板"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/science/1141317.htm",
+          "author": "vivian",
+          "description": "据外媒报道，研究人员已经确定了两个自我伤害的青少年亚群，并表明有可能在他们开始自残前十年预测那些面临最大风险的人。来自剑桥大学MRC认知和脑科学组的研究小组发现，虽然睡眠问题和低自尊是常见的风险因素，但有两个截然不同的青少年自残概况--一个是有情绪和行为困难，第二个群体没有这些困难，但有不同的风险因素。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/science/1141317.htm",
+          "publishedOn": "2021-06-16T07:31:51.000Z",
+          "wordCount": 193,
+          "title": "研究称自残风险最大的青少年或能提前十年被识别出来"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1141315.htm",
+          "author": "raymon725",
+          "description": "西部数据刚刚推出了高性能 Ultrastar Edge 服务器新品，主要面向重要的数据基础设施。显然，随着 5G、物联网、以及云服务的普及，广大客户对于在边缘摄取、分析和转换数据的需求也在持续增长。通过让计算更接近生成数据的位置，其有助于实现更快的处理、更低的延迟、以及实时性的决策，而且不受网络离线的影响。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1141315.htm",
+          "publishedOn": "2021-06-16T07:31:27.000Z",
+          "wordCount": 274,
+          "title": "西数推出坚固易携带的高性能大容量Ultrastar边缘计算存储解决方案"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1141313.htm",
+          "author": "study875",
+          "description": "根据爱立信公布的一份最新报告，预估到今年年底全球 5G 用户数量将超过 5 亿。爱立信每年都会发布两次移动评估报告，在最新报告中指出到 2021 年年底全球 5G 用户规模将超过 5.8 亿，这比 2020 年的 2.2 亿高出了 1 倍多。到 2026 年底，全球应该有 35 亿 5G 用户，约占所有用户的 40%。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1141313.htm",
+          "publishedOn": "2021-06-16T07:25:14.000Z",
+          "wordCount": 236,
+          "title": "爱立信报告：今年年底全球5G用户数量将突破5.8亿"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1141311.htm",
+          "author": "teikaei",
+          "description": "据外媒报道，早在今年5月，Vision Marine Technologies公司就开放了其全电动E-Motion 180E舷外推进器的预订渠道，其将带来更清洁、更安静的选择。据悉，180E不仅是世界上最强大的电动舷外船，并且它可能还会很快成为最快的。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1141311.htm",
+          "publishedOn": "2021-06-16T07:21:00.000Z",
+          "wordCount": 204,
+          "title": "“全球最强大”电动舷外船开启预订渠道：或很快创造新速度纪录"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1141309.htm",
+          "author": "ugmbbc",
+          "description": "6月16日，海贝音乐官博发文称，在@漫步者 推出的真无线蓝牙耳机NeoBuds Pro中，涉嫌侵犯了海贝公司于2020年6月9日获得的专利技术“一种新型数字分频蓝牙耳机”。海贝表示，此专利最早已应用于“我公司”于2020年6月30日发布的真无线蓝牙耳机HiBy WH3中。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1141309.htm",
+          "publishedOn": "2021-06-16T07:18:33.000Z",
+          "wordCount": 208,
+          "title": "海贝点名漫步者耳机侵权其专利 要求下架NeoBuds Pro"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1141307.htm",
+          "author": "study875",
+          "description": "去年 10 月推出的 Galaxy F41 新机，让三星正式引入了 Galaxy F 系列。随后在今年 2 月，三星再次引入了 Galaxy F62。有消息称，三星正积极扩大 F 系列，即将推出 Galaxy F22。目前该机已经通过了蓝牙 SIG 的认证，表明即将上市发售。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1141307.htm",
+          "publishedOn": "2021-06-16T07:17:22.000Z",
+          "wordCount": 248,
+          "title": "Galaxy F22通过蓝牙SIG认证 即将上市发布"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/science/1141305.htm",
+          "author": "vivian",
+          "description": "据外媒报道，玻璃是我们每天最常见的物体之一，但这种非金属和非液体材料的详细结构一直是科学界的一大谜团。一个由香港城市大学科学家共同领导的研究小组成功地发现，非晶态和晶态的金属玻璃具有相同的结构构块。而正是这些构件之间的连接性区分了材料的晶态和非晶态。这些发现阐明了对玻璃结构的理解。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/science/1141305.htm",
+          "publishedOn": "2021-06-16T07:10:50.000Z",
+          "wordCount": 194,
+          "title": "科学家在解开玻璃的“大科学”结构之谜方面取得突破性进展"
+        },
+        {
           "id": "https://www.cnbeta.com/articles/tech/1141303.htm",
           "author": "study875",
           "description": "多次跳票后，贾跃亭一手打造的 FF 91 量产之路再获重大进展。6 月 16 日 ，Faraday Future（ 法拉第未来，简称 FF） 发布了其最新的全球制造战略，旗舰车型 FF 91 的制造将在其位于加州汉福德的 110 万平方英尺的工厂进行。官方宣称，汉福德工厂内的基础设施已经具备了量产能力，这将大大降低生产成本和交付时间。\n 阅读全文",
