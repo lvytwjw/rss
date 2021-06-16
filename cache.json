@@ -49,6 +49,15 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=342198",
+          "author": "Chris Coyier",
+          "description": "Usually, when “unused” comes up in conversation regarding CSS, it’s about removing chunks of CSS that are not used in your site or, at least, the styles not currently in use on a specific page. The minimal amount of CSS …\nThe post Detect Unused Classes in… HTML appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/detect-unused-classes-in-html/",
+          "publishedOn": "2021-06-15T23:24:20.000Z",
+          "wordCount": 741,
+          "title": "Detect Unused Classes in… HTML"
+        },
+        {
           "id": "https://css-tricks.com/?p=342519",
           "author": "Chris Coyier",
           "description": "Max Böck took me up on my challenge to look through a codebase and see how many of the @media queries could ultimately become @container queries.\nI took the bait and had a look at some of my projects – \n…\nThe post Media Queries in Times of @container appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
@@ -910,15 +919,6 @@
           "publishedOn": "2021-05-18T05:00:00.000Z",
           "wordCount": 9250,
           "title": "Smashing Podcast Episode 37 With Adam Argyle: What Is VisBug?"
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/05/core-web-vitals-case-study/",
-          "author": "hello@smashingmagazine.com (Beau Hartshorne)",
-          "description": "Google’s “Page Experience Update” will start rolling out in June. At first, sites that meet Core Web Vitals thresholds will have a minor ranking advantage in mobile search for all browsers. Search is important to any business, and this is the story of how Beau Hartshorne and his team at Instant Domain Search improved their Core Web Vitals scores.",
-          "link": "https://smashingmagazine.com/2021/05/core-web-vitals-case-study/",
-          "publishedOn": "2021-05-17T11:30:00.000Z",
-          "wordCount": 2906,
-          "title": "How We Improved Our Core Web Vitals (Case Study)"
         }
       ]
     },
@@ -1699,6 +1699,249 @@
       "feedUrl": "https://www.cnbeta.com/backend.php",
       "siteUrl": "https://www.cnbeta.com",
       "articles": [
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1141073.htm",
+          "author": "teikaei",
+          "description": "据外媒报道，许多主流流媒体如Hulu、HBO Max或Sling TV都以某种形式支持广告，但迪士尼的CEO却认为，该公司的招牌服务不会在短期内添加广告。当地时间周二，在瑞士信贷第23届年度沟通大会上，主持人兼瑞士信贷董事总经理Doug mitchell向迪士尼负责人Bob Chapek提问，迪士尼是否计划在未来某个时候引入广告支持的入门级别。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1141073.htm",
+          "publishedOn": "2021-06-16T00:18:37.000Z",
+          "wordCount": 199,
+          "title": "迪士尼CEO：Disney+目前暂无推更低成本的广告版服务计划"
+        },
+        {
+          "id": "https://hot.cnbeta.com/articles/game/1141071.htm",
+          "author": "vivian",
+          "description": "北京时间6月16日早间消息，据报道，索尼PlayStation在线商店将在下周重新上架《赛博朋克2077》电子游戏，此时距离这款高调发布的游戏因为技术故障遭下架已经过去近6个月时间。\n 阅读全文",
+          "link": "https://hot.cnbeta.com/articles/game/1141071.htm",
+          "publishedOn": "2021-06-16T00:10:41.000Z",
+          "wordCount": 211,
+          "title": "索尼PlayStation重新上架《赛博朋克2077》 开发商CD Projekt股价大涨"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/science/1141069.htm",
+          "author": "teikaei",
+          "description": "据外媒报道，耶鲁大学的研究人员发现，鼻病毒是导致普通感冒最常见的原因，暴露于这种病毒可以防止被导致COVID-19的病毒感染。研究人员在一项新研究中发现，普通呼吸道病毒能够启动干扰素刺激基因的活动，干扰素刺激基因是免疫系统中的早期反应分子，它可以阻止SARS-CoV-2病毒在被感冒感染的气道组织内的复制。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/science/1141069.htm",
+          "publishedOn": "2021-06-16T00:09:26.000Z",
+          "wordCount": 196,
+          "title": "研究发现暴露在导致普通感冒的鼻病毒下可预防SARS-CoV-2感染"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1141067.htm",
+          "author": "vivian",
+          "description": "据外媒CNET报道，美国联邦贸易委员会（FTC）表示，美国总统拜登周二已宣布任命民主党人、科技巨头评论家莉娜·可汗(Lina Khan)担任该委员会主席。据CNBC报道，在她宣誓就任后不久，参议院以69票同意、28票反对的投票结果确认了Khan担任FTC委员。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1141067.htm",
+          "publishedOn": "2021-06-16T00:09:13.000Z",
+          "wordCount": 201,
+          "title": "拜登任命科技巨头评论家Lina Khan担任FTC主席"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1141065.htm",
+          "author": "ugmbbc",
+          "description": "网上冲浪经常会遇到这样的广告：一些不知名的公司“担心”你缺钱，然后表示愿意以超低利率主动提供贷款，流程简单，放款迅速，还款期限和方式灵活，让人颇有“不贷白不贷”的念头。结果，按照广告提供的指引一通操作，还款时却发现事情并非那么美妙，里面的套路让人眼花缭乱，最终伤的还是自己的钱包。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1141065.htm",
+          "publishedOn": "2021-06-16T00:09:11.000Z",
+          "wordCount": 192,
+          "title": "[评论]网上“劝贷”之声不绝于耳 消费者切勿“以贷养贷”"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1141063.htm",
+          "author": "teikaei",
+          "description": "北京时间6月16日早间消息，据报道，Alphabet旗下的Google和亚马逊公司各自为其智能音箱业务进行了辩护，此前美国参议员警告说，这些大型科技企业对市场的控制可能会损害竞争，以及消费者的隐私。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1141063.htm",
+          "publishedOn": "2021-06-16T00:07:13.000Z",
+          "wordCount": 213,
+          "title": "被指伤害智能音箱市场竞争 谷歌、亚马逊听证会上展开辩护"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1141061.htm",
+          "author": "study875",
+          "description": "动态磁贴功能最早出现在 Windows Phone 7 系统中，是围绕着“移动优先”体验而设计的。随后这种方块设计先引入到 Windows 8 系统中，在 2015 年发布的 Windows 10 系统中也搭载该功能。该功能默认情况处于开启状态，能够在开始菜单中动态显示新闻、天气等更新。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1141061.htm",
+          "publishedOn": "2021-06-16T00:03:30.000Z",
+          "wordCount": 244,
+          "title": "[小技巧]如何在Windows 11中恢复动态磁贴"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1141059.htm",
+          "author": "ugmbbc",
+          "description": "特斯拉在2021年上半年可谓是赚足了眼球。一方面，特斯拉在全球市场上都取得了傲人战绩，销量与交付量都属于新能源车第一梯队，吸金能力自不必多说。柏林工厂和得州工厂也在如火如荼地建设当中，预计明年或后年这两家工厂都将投产。另一方面，特斯拉的一些举措也引发了不小的争议。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1141059.htm",
+          "publishedOn": "2021-06-16T00:00:13.000Z",
+          "wordCount": 257,
+          "title": "深陷维权风波却又销量不减 这半年特斯拉都做了什么？"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/science/1141057.htm",
+          "author": "vivian",
+          "description": "据外媒报道，大型太空任务需要一个大型火箭，而美国宇航局（NASA）的巨型太空发射系统（SLS）当然符合这一要求。NASA计划将这枚火箭用于让宇航员返回月球的“阿尔忒弥斯”（Artemis）任务--这枚火箭有365英尺（约111米）高。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/science/1141057.htm",
+          "publishedOn": "2021-06-15T23:54:02.000Z",
+          "wordCount": 207,
+          "title": "NASA分享巨型SLS火箭核心级和Artemis I任务假人的照片"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1141055.htm",
+          "author": "teikaei",
+          "description": "据外媒报道，亚马逊正在直接向客户销售自己的COVID-19检测试剂盒。测试结果将显示在亚马逊诊断网站上，该网站最初是为亚马逊员工设计的。Stat News最先报道了这项测试的公开情况。该检测试剂盒售价39.99美元，在美国一些地区可以通过Prime一天送达。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1141055.htm",
+          "publishedOn": "2021-06-15T23:52:11.000Z",
+          "wordCount": 196,
+          "title": "亚马逊现将自家的COVID-19检测试剂盒推向大众市场"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1141053.htm",
+          "author": "vivian",
+          "description": "据外媒报道，苹果公司的iPad系列再次在竞争中占据主导地位，最新统计数据显示，这家科技巨头的平板电脑系列在2021年第一季度获得了37%的市场份额。这标志着与2020年第一季度相比有所增加，当时iPad系列积累了30%的市场份额。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1141053.htm",
+          "publishedOn": "2021-06-15T23:38:29.000Z",
+          "wordCount": 216,
+          "title": "2021年第一季度iPad市场份额增至37%  低价机型出货量最大"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1141051.htm",
+          "author": "teikaei",
+          "description": "据外媒报道，日前，Nomad推出了第六款专门针对AirTag的设备，它可以让AirTag轻松放进用户的钱包中且不会有很大的凸起。这款名为Card for AirTag的产品有着一个坚固的聚碳酸酯框架和柔软的触摸TPU表面。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1141051.htm",
+          "publishedOn": "2021-06-15T23:36:29.000Z",
+          "wordCount": 209,
+          "title": "Card for AirTag：Nomad推出的又一款AirTag配件"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1141049.htm",
+          "author": "ugmbbc",
+          "description": "植物肉有两个问题待解，一个是性价比，一个是口感质地如今端午节的粽子和清明节的青团、中秋节的月饼一样，在商家的推陈出新下内有乾坤，常常有意想不到的口味。“吃货”钱怡珈就在今年端午节第一次吃到植物肉粽子，粽子里有整块的“五花肉”，仿得惟妙惟肖。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1141049.htm",
+          "publishedOn": "2021-06-15T23:35:54.000Z",
+          "wordCount": 208,
+          "title": "超5000家企业下场鏖战 植物肉市场“真香”吗？"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1141047.htm",
+          "author": "ugmbbc",
+          "description": "美国政府周二公布的数据显示，美国5月禽肉加工生产者价格环比上涨2.1%，跃升至历史最高水平，连续第八个月上涨，远远超过整体生产者价格指数（PPI）0.8%的涨幅。最近，美国几家大型连锁快餐厅运营商相继推出了鸡肉三明治产品，以赶上Popeyes在2019年取得的成功。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1141047.htm",
+          "publishedOn": "2021-06-15T23:35:23.000Z",
+          "wordCount": 194,
+          "title": "美国鸡肉三明治旺销 推动鸡肉价格创历史新高"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1141045.htm",
+          "author": "ugmbbc",
+          "description": "“手机就像毒品一样容易上瘾”。英国《泰晤士报》15日报道称，为减少性骚扰发生几率，英国伦敦南部的阿莱恩中学计划禁止学生在校使用手机。该校校长伦农表示，学生通过手机可以接触到大量色情图片和视频。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1141045.htm",
+          "publishedOn": "2021-06-15T23:32:09.000Z",
+          "wordCount": 200,
+          "title": "英媒：为减少性骚扰发生几率 伦敦一中学拟禁止学生用手机"
+        },
+        {
+          "id": "https://hot.cnbeta.com/articles/game/1141043.htm",
+          "author": "ugmbbc",
+          "description": "今天凌晨举行的任天堂E3直面会上公开了马里奥聚会系列的最新作《马里奥聚会：超级星（Mario Party Superstars）》，本作将于2021年10月29日上市。《马里奥聚会：超级星》完全重制了来自N64版《马里奥聚会》的5个经典地图，并从N64系列初代开始移植到WiiU的《马里奥聚会10》中最优秀的100款迷你游戏。\n 阅读全文",
+          "link": "https://hot.cnbeta.com/articles/game/1141043.htm",
+          "publishedOn": "2021-06-15T23:27:44.000Z",
+          "wordCount": 201,
+          "title": "E3：集系列精华《马里奥聚会：超级星》10月发售"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1141041.htm",
+          "author": "ugmbbc",
+          "description": "Google自家的Pixel手机系列虽然是小众市场，由于它能够最快获得Android系统更新，加上优秀的相机算法，因此也收获小部分用户。预计今年第四季度Google会推出Pixel 6系列，将会有Pixel 6和Pixel 6 Pro两个版本。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1141041.htm",
+          "publishedOn": "2021-06-15T23:26:35.000Z",
+          "wordCount": 222,
+          "title": "搭载自研SoC Pixel 6系列保护壳曝光：造型神似防爆盾"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1141039.htm",
+          "author": "study875",
+          "description": "在国内贴吧放出多张 Windows 11 系统的截图之后，Windows 11 整个系统镜像也在网络上曝光。从偷跑镜像截取的图片中，可以看到用户界面、开始菜单等和 Windows 10X 中发现的非常相似。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1141039.htm",
+          "publishedOn": "2021-06-15T23:26:29.000Z",
+          "wordCount": 229,
+          "title": "[图]Windows 11系统镜像偷跑：任务栏和开始菜单等迎来大改"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1141037.htm",
+          "author": "ugmbbc",
+          "description": "如果说苹果改变了手机行业相信没有什么人会质疑，那么汽车呢？自从2014年，苹果开展了一个代号为 Project Titan的自主汽车项目，苹果汽车就成为了众人心目中能够颠覆时代的产物。但项目成立7年，同样2014年成立的蔚来即将推出旗下的第三款车型，而苹果汽车距离我们似乎依旧遥遥无期，这7年来苹果究竟做了些什么？\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1141037.htm",
+          "publishedOn": "2021-06-15T23:25:48.000Z",
+          "wordCount": 265,
+          "title": "项目成立7年 苹果汽车离我们还有多远？"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1141035.htm",
+          "author": "ugmbbc",
+          "description": "美国和欧盟同意搁置围绕空中客车和波音的飞机补贴争议，将关税暂停期延长五年。此前该争端导致美欧这对盟友彼此向对方115亿美元出口商品征收关税。美国贸易代表戴琪周二在布鲁塞尔对记者说，只要双方遵守协议条款，并且努力解决包括已支付补贴在内的问题，关税将继续暂停。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1141035.htm",
+          "publishedOn": "2021-06-15T23:23:36.000Z",
+          "wordCount": 196,
+          "title": "欧盟与美国就波音-空客贸易争端达成为期五年关税休战协议"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1141033.htm",
+          "author": "ugmbbc",
+          "description": "亚马逊创始人杰夫-贝佐斯的前妻麦肯齐-斯科特当地时间周二宣布，她今年已向数百个团体捐赠了超过27亿美元。斯科特在一篇博客文章中写道，她向286个“高影响力组织”进行了捐赠，这些组织专注于各种各样的事业，从艺术、种族公正到高等教育和打击家庭暴力。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1141033.htm",
+          "publishedOn": "2021-06-15T23:22:37.000Z",
+          "wordCount": 195,
+          "title": "贝佐斯前妻再捐27亿美元 迄今已捐逾85亿"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1141031.htm",
+          "author": "ugmbbc",
+          "description": "随着互联网的快速发展，直播带货已成为当下购物的热门方式。越来越多的商家选择网络红人或流量明星，在直播间进行商品线上展示、咨询答疑、导购销售等。直播带货在给消费者带来优惠与便利、给商家带来商机的同时，也暴露出诸多问题，比如辛巴燕窝事件、郭美美售有毒减肥药事件等等，亟须引起重视与警觉。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1141031.htm",
+          "publishedOn": "2021-06-15T23:21:24.000Z",
+          "wordCount": 191,
+          "title": "网红直播带假货最高可判处十年有期徒刑"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1141029.htm",
+          "author": "ugmbbc",
+          "description": "受到疫情的影响，加拿大曾推迟5G拍卖时间，现在组网计划终于启动了。企业为了提供5G服务需要3500MHz频谱。本来加拿大计划2020年6月拍卖，受疫情影响现在才开始，照估计，整个拍卖将会持续几个星期，加拿大政府将会在172个服务区出售1504张许可证。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1141029.htm",
+          "publishedOn": "2021-06-15T23:19:34.000Z",
+          "wordCount": 207,
+          "title": "姗姗来迟 加拿大即将拍卖5G频谱"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1141027.htm",
+          "author": "ugmbbc",
+          "description": "当地时间15日，欧洲首台量子计算机在德国斯图加特附近正式揭幕。这款商用量子计算机在投入使用后也将造福工业界。德国总理默克尔当天通过远程方式与联邦教研部长卡利切克、巴符州州长克莱驰曼一同见证了这台27个量子比特的“IBM Q System One”量子计算机的亮相。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1141027.htm",
+          "publishedOn": "2021-06-15T23:18:11.000Z",
+          "wordCount": 196,
+          "title": "欧洲首台量子计算机在德国斯图加特揭幕"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1141025.htm",
+          "author": "ugmbbc",
+          "description": "在本文开篇之前首先向大家道一声端午安康，很多苹果用户都经历过这样烦恼，苹果手机的数据线用一段时间就会出现开裂，然后逐渐就会坏掉。现在，我的苹果手机线也如期的开裂了，看了看刚出的花呗账单，又看了看苹果官网近150元的原装数据线，我决定要自己动手修补一下，顺便帮大家整理一份苹果线的保护和修补方法，让你的苹果线再战一年。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1141025.htm",
+          "publishedOn": "2021-06-15T23:14:38.000Z",
+          "wordCount": 205,
+          "title": "先别急着买新的 三个方法让你的充电线再战一年"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1141023.htm",
+          "author": "ugmbbc",
+          "description": "作为自律的代表，C罗真是做到了极致。在当地时间6月14日的发布会上，球星C罗 “ 愤怒 ” 挪开桌上两瓶可乐，随后拿来一瓶水说：“喝水，不要可乐 。”报道称，可口可乐是欧洲杯官方赞助商，他们在新闻发布会上展出了该产品，但这位葡萄牙球星甚至连看都没看一眼，就迅速把瓶子移开了，没有心情迎合赞助商。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1141023.htm",
+          "publishedOn": "2021-06-15T23:13:39.000Z",
+          "wordCount": 203,
+          "title": "C罗在欧洲杯发布会上拒绝与可乐同框：“喝水”"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1141021.htm",
+          "author": "ugmbbc",
+          "description": "独自出走的小象已单独生活了10天，大家也很关注它的动态。专家称，象群和独象依然能通过特殊的叫声保持交流，但目前监测显示，独象归队意图不太明显。因指挥部的预警和布防起到很好的引导效果，象群并未进入村庄。无人机拍到大象为酣睡小象驱蚊，母象还用身体为小象遮阴，画面温馨。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1141021.htm",
+          "publishedOn": "2021-06-15T23:10:58.000Z",
+          "wordCount": 195,
+          "title": "专家说独象目前归队意图不明显：象群到底何时回家？"
+        },
         {
           "id": "https://www.cnbeta.com/articles/tech/1141019.htm",
           "author": "maomao",
