@@ -1682,6 +1682,42 @@
       "siteUrl": "https://www.cnbeta.com",
       "articles": [
         {
+          "id": "https://www.cnbeta.com/articles/tech/1141225.htm",
+          "author": "raymon725",
+          "description": "微软安全情报团队刚刚通过 Twitter 平台发出了一则警告，提醒广大软件用户注意提防一款利用了古老且狡猾的手段来传播的新型恶意软件。据悉，疑似 SolarMarker 幕后的恶意软件操纵者，正在通过所谓的“搜索引擎优化中毒”（SEO Poisoning）手段，来将恶意代码植入受害者的计算机。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1141225.htm",
+          "publishedOn": "2021-06-16T05:04:32.000Z",
+          "wordCount": 236,
+          "title": "微软警告SolarMarker恶意软件正在利用狡猾的SEO中毒手段来传播"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1141223.htm",
+          "author": "raymon725",
+          "description": "虽然苹果很遗憾地没有在 WWDC 2021 开发者大会期间发布任何新硬件，但假设芯片供应短缺的状况有所缓解，这家库比蒂诺科技巨头仍有望在今夏带来一些惊喜。知名爆料人 @LeaksApplePro 在 Twitter 上表示，苹果计划在 8 月第一周发布至少一款 Apple Silicon MacBook Pro 新机。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1141223.htm",
+          "publishedOn": "2021-06-16T04:40:14.000Z",
+          "wordCount": 263,
+          "title": "苹果或于8月初发布至少一款Apple Silicon MacBook Pro新机"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/science/1141221.htm",
+          "author": "teikaei",
+          "description": "北京时间6月16日消息，自生命诞生之初起，在自然选择的恩泽下，我们的祖先在不断适应、繁衍和死去的过程中，将微小的基因突变遗传给下一代，最终成就了今天的人类——我们。但最近一项新研究表明，进化不再与基因有密切的关系。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/science/1141221.htm",
+          "publishedOn": "2021-06-16T04:18:18.000Z",
+          "wordCount": 188,
+          "title": "人类或许正使基因进化成为过去式"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1141219.htm",
+          "author": "study875",
+          "description": "在全球产业链被疫情打乱节奏之际，口罩造假、编造核酸检测结果的新闻偶尔出现在社交平台上。因此面对全球日益严重的芯片短缺问题，业内专家开始渐生担忧，市面上充斥以假乱真的半导体产品，可能只是时间的问题。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1141219.htm",
+          "publishedOn": "2021-06-16T04:11:47.000Z",
+          "wordCount": 236,
+          "title": "外媒：芯片短缺正加剧假冒伪劣零件流窜"
+        },
+        {
           "id": "https://www.cnbeta.com/articles/science/1141217.htm",
           "author": "vivian",
           "description": "北京时间6月16日消息，许多海洋生物，例如：海龟、鲨鱼、鲑鱼，它们利用地球磁场至它们想要抵达的区域，甚至会跨越数千公里。地球表面71%是水，现在你想象自己是一条鲨鱼、一只乌龟或者其他水栖生物，在广阔的海洋中畅游，你是如何横跨数千公里在地球巨大水池中航行的呢？毕竟没有任何路标或者地图对这些生物进行提示，事实上，它们是在地球磁场相协调的体内指南针的帮助下找到路线。\n 阅读全文",
