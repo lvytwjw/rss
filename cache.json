@@ -1682,6 +1682,222 @@
       "siteUrl": "https://www.cnbeta.com",
       "articles": [
         {
+          "id": "https://www.cnbeta.com/articles/tech/1141303.htm",
+          "author": "study875",
+          "description": "多次跳票后，贾跃亭一手打造的 FF 91 量产之路再获重大进展。6 月 16 日 ，Faraday Future（ 法拉第未来，简称 FF） 发布了其最新的全球制造战略，旗舰车型 FF 91 的制造将在其位于加州汉福德的 110 万平方英尺的工厂进行。官方宣称，汉福德工厂内的基础设施已经具备了量产能力，这将大大降低生产成本和交付时间。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1141303.htm",
+          "publishedOn": "2021-06-16T07:08:18.000Z",
+          "wordCount": 275,
+          "title": "FF汉福德工厂将投入使用 贾跃亭的FF91就要量产了"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1141301.htm",
+          "author": "study875",
+          "description": "最新爆料称，OPPO 即将在国际市场上推出 Reno6 Z 智能手机。在 5 月下旬，OPPO 正式推出了 Reno6 系列，共有 Reno6、Reno6 Pro和 Reno6 Pro+ 三款型号。而和前代一样，Reno6 Z 的价格会更加亲民，会登陆印度等市场。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1141301.htm",
+          "publishedOn": "2021-06-16T07:07:16.000Z",
+          "wordCount": 240,
+          "title": "OPPO Reno6 Z即将海外发布：联发科Dimensity 800U+30W快充"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/soft/1141299.htm",
+          "author": "ugmbbc",
+          "description": "谷歌浏览器Google Chrome正式版迎来v91第三个维护版本发布，详细版本号为v91.0.4472.106，上一个正式版v91.0.4472.101发布于6月10日，时隔5天Google又发布了新版Chrome浏览器，本次升级主要是更新了安全修复和稳定性改进及用户体验。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/soft/1141299.htm",
+          "publishedOn": "2021-06-16T07:05:46.000Z",
+          "wordCount": 404,
+          "title": "Google Chrome v91.0.4472.106 正式版发布"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1141297.htm",
+          "author": "study875",
+          "description": "今晚 19:30， 期待已久的荣耀 50 系列发布会将正式举行，届时荣耀 50、 荣耀 50 Pro 以及新一代荣耀 Earbuds 无线耳机等多款新品将正式登场。发布会前夕，博主@数码闲聊站 晒出了一组荣耀 50 SE 的官方渲染图，据了解，荣耀 50 SE 配备一块 6.78 英寸居中单打孔 LCD 屏，后置三摄模组，整体风格与荣耀 50 区别不大。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1141297.htm",
+          "publishedOn": "2021-06-16T06:56:52.000Z",
+          "wordCount": 275,
+          "title": "荣耀50 SE渲染图曝光：居中打孔LCD屏 天玑900加持"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1141295.htm",
+          "author": "study875",
+          "description": "虽然说游戏可以适用于全球所有人，但是游戏和游戏平台的设计无法总是考虑到所有人。幸运的是，不少开发商和游戏主机制造商已经在无障碍环境方面取得了进展，其中比较值得称道的就是微软的 Xbox Adaptive Controller。在今年 6 月放出的 Xbox 更新中，微软再次引入了语音转文本、文本转语音功能，能够帮助更多人享受游戏的乐趣。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1141295.htm",
+          "publishedOn": "2021-06-16T06:55:54.000Z",
+          "wordCount": 207,
+          "title": "Xbox增强辅助功能：新增语音转文本和文本转语音"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1141293.htm",
+          "author": "teikaei",
+          "description": "据外媒报道，新冠大流行以许多明显的方式影响着我们的日常生活，从公开场合的掩蔽和社交距离要求，乃至是跟病毒本身相距甚远的事情。如华纳媒体公司决定在影院上映新片时同时在HBO Max上架这些影片。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1141293.htm",
+          "publishedOn": "2021-06-16T06:55:33.000Z",
+          "wordCount": 198,
+          "title": "一个意想不到的新冠大流行副作用：大量女童子军饼干滞销"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1141291.htm",
+          "author": "raymon725",
+          "description": "Facebook 已经放弃了对初代 Rift VR 系统的支持，意味着需要连接到性能强大 PC 的头显设备将淡出历史。展望未来，这家社交网络巨头将把更多精力放在 Quest 产品线上，尤其是 Oculus Quest 2 。比如 4 月份的时候，该公司就推出了 Air Link PC 串流功能。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1141291.htm",
+          "publishedOn": "2021-06-16T06:55:16.000Z",
+          "wordCount": 286,
+          "title": "初代Oculus Quest头显也将迎来Air Link PC串流功能更新"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1141289.htm",
+          "author": "ugmbbc",
+          "description": "大小核CPU架构设计在移动领域已经普及了很多年，现在终于要进入主流桌面和笔记本了。Intel Lakefield是第一次尝试，年底的Alder Lake 12代酷睿将会正式开启这一新的征程，Windows也会同步优化，加入新的任务调度机制。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1141289.htm",
+          "publishedOn": "2021-06-16T06:55:09.000Z",
+          "wordCount": 212,
+          "title": "AMD大小核专利首曝：3nm Zen5＋Zen4D"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/science/1141287.htm",
+          "author": "vivian",
+          "description": "美国国立卫生研究院（简称NIH）和美国疾病控制与预防中心（CDC）的新研究得出结论称，在2020年1月底第一例正式报告的病例之前，导致COVID-19的新型冠状病毒SARS-CoV-2可能已经在美国各地传播了数周。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/science/1141287.htm",
+          "publishedOn": "2021-06-16T06:51:15.000Z",
+          "wordCount": 193,
+          "title": "CDC和NIH的研究发现：2019年12月COVID-19已在美国出现"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1141285.htm",
+          "author": "ugmbbc",
+          "description": "每到夏季中旬的六月，经历了上半年各手机厂商今年新机发布，即将迎来的618大促销活动也会给想要购买新机的用户带来很多价格上的惊喜，因此每年六月左右都会有不少“持币待购”的用户，各家手机品牌也在这期间攒足了各种优惠活动蓄势待发。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1141285.htm",
+          "publishedOn": "2021-06-16T06:39:50.000Z",
+          "wordCount": 339,
+          "title": "6·18购机指南：影像旗舰哪款值得入手？"
+        },
+        {
+          "id": "https://hot.cnbeta.com/articles/game/1141283.htm",
+          "author": "study875",
+          "description": "在今晚的发布会上，任天堂带来了《塞尔达传说：荒野之息 2》 的全新预告，本作将在 2022 年发售，登陆 NS 平台。预告开头展示了部分剧情内容，随后便是林克从空中飞跃而下的场景，以及战斗与探索的镜头，极具美感。从视频中出现的体积云效果和动态环境等细节处，能看出本作的场景刻画较前作有不少进步。林克的传奇冒险旅程明年开启续篇，你准备好了吗？\n 阅读全文",
+          "link": "https://hot.cnbeta.com/articles/game/1141283.htm",
+          "publishedOn": "2021-06-16T06:33:07.000Z",
+          "wordCount": 220,
+          "title": "E3 2021：《塞尔达传说：荒野之息2》2022 年发售 新预告公布"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/science/1141281.htm",
+          "author": "raymon725",
+          "description": "量子光子技术的基础，在于能够只使用一个光子来打开和关闭物理过程。而在芯片级架构中实现的这一点，对于系统的可扩展性也至关重要。近日，由物理学家 Vinod Menon 领导的一支纽约城市学院研究团队，刚刚展示了他们是如何在固态材料中，将“里德堡态”这种特殊的物质状态提升到前所未有的水平的。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/science/1141281.htm",
+          "publishedOn": "2021-06-16T06:32:33.000Z",
+          "wordCount": 228,
+          "title": "单光子开关研究新进展：科学家详解固态材料中的“里德堡态”"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1141279.htm",
+          "author": "teikaei",
+          "description": "据外媒报道，当地时间6月15日，本田对外宣布，计划在今年停止生产氢燃料电池汽车，但该公司与通用汽车联合开发氢燃料车型的项目并未中止，未来会有双方合作的新车型面市。作为结构改革的一环，本田这两年一直致力于国内外工厂的重组，还将陆续砍掉销量低迷的部分车型。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1141279.htm",
+          "publishedOn": "2021-06-16T06:32:31.000Z",
+          "wordCount": 191,
+          "title": "专注电气化：本田将停产氢燃料电池车/燃油版奥德赛"
+        },
+        {
+          "id": "https://hot.cnbeta.com/articles/game/1141277.htm",
+          "author": "teikaei",
+          "description": "微软正在大力宣发其最新次世代主机Xbox Series X，以及一些仅支持在次世代主机上运行的游戏，例如B社新作《星空》。那么已经有些过时的旧世代Xbox One主机的玩家又将何去何从？目前Xbox One上依然有数百万的用户，但是他们在许多情况下甚至无法在1080p下流畅运行游戏。\n 阅读全文",
+          "link": "https://hot.cnbeta.com/articles/game/1141277.htm",
+          "publishedOn": "2021-06-16T06:30:03.000Z",
+          "wordCount": 205,
+          "title": "微软计划在未来将旧的Xbox One变成XGP云游戏主机"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/science/1141275.htm",
+          "author": "teikaei",
+          "description": "据空间站阶段飞行任务总指挥部消息，我国神舟十二号载人飞船将于北京时间6月17日9时22分正式发射。飞船入轨后将采用自主快速交会对接模式，对接于天和核心舱的前向端口，与天和核心舱、天舟二号货运飞船形成组合体，飞行任务由聂海胜、刘伯明、汤洪波3名航天员执行，聂海胜担任指令长。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/science/1141275.htm",
+          "publishedOn": "2021-06-16T06:29:23.000Z",
+          "wordCount": 191,
+          "title": "3位航天员在玻璃房内接受采访：实行最高级别隔离防护"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1141273.htm",
+          "author": "study875",
+          "description": "直播打赏相信不少网友都经历过，而最近处于疫情隔离的日本直播也在悄然流行，许多因疫情不能工作的偶像、牛郎、售酒小姐纷纷转行直播界，将日本的直播业推向一个高潮。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1141273.htm",
+          "publishedOn": "2021-06-16T06:29:04.000Z",
+          "wordCount": 215,
+          "title": "日本直播打赏问题加剧 粉丝为女主播疯狂氪金"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1141271.htm",
+          "author": "teikaei",
+          "description": "中国公司向海外市场发展的过程中，经常会遇到专利诉讼，其中不乏有专业的专利组织狙击。小米之前遭遇Sisvel的多起诉讼，最近英国最高法院判决小米没有侵犯Sisvel专利，小米再次锁定一个胜局。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1141271.htm",
+          "publishedOn": "2021-06-16T06:26:50.000Z",
+          "wordCount": 204,
+          "title": "小米专利战再胜一局 英国裁决未侵犯Sisvel专利"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1141269.htm",
+          "author": "ugmbbc",
+          "description": "玩俄罗斯方块（Tetris），你有没有过这样的经历？总是怕什么来什么，想要什么永远等不来。留下一个缝隙，明明只要来个长条，就能消除得一干二净，但它就是不来，还给你疯狂掉“S”。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1141269.htm",
+          "publishedOn": "2021-06-16T06:26:46.000Z",
+          "wordCount": 210,
+          "title": "“恶意版俄罗斯方块游戏火了：永远给你不想要的方块 世界纪录才消掉31行"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1141267.htm",
+          "author": "teikaei",
+          "description": "北京时间6月16日消息，据韩媒报道，新世界集团旗下易买得和门户网站NAVER有望成为eBay韩国的新东家。eBay韩国已通知易买得和NAVER招投标结果，易买得尚未对此发表立场。收购价格未得到证实，但有消息称，易买得和NAVER提出了收购eBay韩国80%股份的条件。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1141267.htm",
+          "publishedOn": "2021-06-16T06:24:52.000Z",
+          "wordCount": 192,
+          "title": "易买得和NAVER或成为eBay韩国新东家"
+        },
+        {
+          "id": "https://hot.cnbeta.com/articles/game/1141263.htm",
+          "author": "teikaei",
+          "description": "6月16日，#沈腾说自己打游戏经常被说是演员#登上微博热搜。今日凌晨，沈腾转发一条动态回复说：“我更惨，经常被人说是演员，慢慢就好了，现在我都不跟他们生气了”。被沈腾转评“比惨”的动态原文报道称，一个叫小童的“00后”打游戏打到国服前十名，他想当游戏主播，但是被封号了，因为有人说他是演员。\n 阅读全文",
+          "link": "https://hot.cnbeta.com/articles/game/1141263.htm",
+          "publishedOn": "2021-06-16T06:17:58.000Z",
+          "wordCount": 197,
+          "title": "《王者荣耀》打到国服前十被封号 沈腾：经常被说是演员"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1141261.htm",
+          "author": "teikaei",
+          "description": "滴滴上市在即，背后的股东成为近期社交媒体上热议的话题。滴滴成立至今不到10年，但经历2013年-2016年最惨烈的“共享出行烧钱大战”，IPO前滴滴已经完成约20次股权和战略融资。这使得滴滴上市前的股权已经高度分散。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1141261.htm",
+          "publishedOn": "2021-06-16T06:14:34.000Z",
+          "wordCount": 193,
+          "title": "揭秘滴滴上市背后的国资股东：招行中投人寿邮政等近20家在列"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1141259.htm",
+          "author": "ugmbbc",
+          "description": "当地时间6月15日，比亚迪向匈牙利最大的公共交通运营商Volánbusz交付了首台纯电动巴士。这台大巴将投入比亚迪匈牙利工厂所在地科玛罗姆市以及斯洛伐克科马尔诺市两地运营，这也是两国有史以来首台跨国运营的纯电动大巴。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1141259.htm",
+          "publishedOn": "2021-06-16T06:08:39.000Z",
+          "wordCount": 199,
+          "title": "比亚迪向匈牙利交付首台跨国纯电动巴士 载客量80人"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1141257.htm",
+          "author": "teikaei",
+          "description": "端午假期结束，有关共享充电宝涨价的话题引发网友讨论。据扬子晚报报道，端午节小长假期间，有消费者发现，在厦门，共享充电宝普遍收费为半小时3元，一小时6元，比景区的冷饮还要贵。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1141257.htm",
+          "publishedOn": "2021-06-16T06:08:39.000Z",
+          "wordCount": 193,
+          "title": "共享充电宝再涨价“每小时6元”？有客服称不同场景收费不同"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1141255.htm",
+          "author": "teikaei",
+          "description": "马克-扎克伯格（Mark Zuckerberg）在Facebook员工中的支持率进一步下滑，导致他自2013年以来首次跌落美国第二大求职网站Glassdoor的最受欢迎的CEO前100名榜单。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1141255.htm",
+          "publishedOn": "2021-06-16T06:07:24.000Z",
+          "wordCount": 196,
+          "title": "扎克伯格人气急跌 掉落美国最受欢迎百名CEO之外"
+        },
+        {
           "id": "https://www.cnbeta.com/articles/tech/1141253.htm",
           "author": "ugmbbc",
           "description": "中新网6月16日电 据生态环境部官方微信消息，近日，CNN关于台山核电厂有关情况的报道引起一些公众关注。对此，生态环境部(国家核安全局)相关负责人就有关问题回答了记者提问。\n 阅读全文",
