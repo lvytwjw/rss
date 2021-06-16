@@ -1687,6 +1687,51 @@
       "siteUrl": "https://www.cnbeta.com",
       "articles": [
         {
+          "id": "https://www.cnbeta.com/articles/tech/1141445.htm",
+          "author": "ugmbbc",
+          "description": "根据新近分享的原型外壳图片，苹果曾经考虑生产黑色版本的陶瓷 Apple Watch Edition Series 5。陶瓷版苹果手表5系列从来没有黑色的选择，只有醒目的亮白色外观。由于其极其独特的表面处理，苹果公司将白色陶瓷Apple Watch Edition作为高端进行销售，起价1249美元。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1141445.htm",
+          "publishedOn": "2021-06-16T14:04:14.000Z",
+          "wordCount": 230,
+          "title": "黑色陶瓷的 Apple Watch 5 你会喜欢吗？"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1141443.htm",
+          "author": "ugmbbc",
+          "description": "联想推出了最新版本的ThinkPad P系列工作站笔记本电脑，以及Thunderbolt 4坞站和新的ThinkVision显示器，供那些既想要便携性又想要在办公桌前工作的专业人士使用。这些新的工作站笔记本电脑为专业人士提供了最新的NVIDIA显卡、第11代英特尔酷睿和至强CPU选择。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1141443.htm",
+          "publishedOn": "2021-06-16T13:59:27.000Z",
+          "wordCount": 246,
+          "title": "联想发布2021款ThinkPad P系列移动工作站、坞站与显示器"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1141441.htm",
+          "author": "ugmbbc",
+          "description": "荣耀50系列除了荣耀50和荣耀50 Pro之外，还推出了荣耀50机型，整体延续了该系列的家族式设计方案。外观方面，荣耀50 SE与荣耀50标准版基本一致，正面采用了一块6.78英寸的超窄边全视屏，屏幕边框仅为1.1mm，还配备了居中式的挖孔广角前摄，带来了94.3%的高屏占比，正面视觉效果极为出色。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1141441.htm",
+          "publishedOn": "2021-06-16T13:32:08.000Z",
+          "wordCount": 222,
+          "title": "1亿像素+66W快充 荣耀50 SE正式发布：2399元起"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1141439.htm",
+          "author": "ugmbbc",
+          "description": "荣耀今天推出荣耀50和荣耀50 Pro时正式宣布，荣耀50系列将能够搭载Google的应用和服务。在一份声明中，荣耀表示其手机通过Google的安全审查，\"因此，根据Google的许可和治理模式，荣耀设备将可以选择在兼容设备上预装Google移动服务（\"GMS\"）。\"\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1141439.htm",
+          "publishedOn": "2021-06-16T13:31:06.000Z",
+          "wordCount": 204,
+          "title": "荣耀确认GMS应用将通过新的50系列回归其手机中"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1141437.htm",
+          "author": "ugmbbc",
+          "description": "6月16日消息，荣耀在上海召开发布会，推出荣耀50系列手机。该系列主打Vlog视频拍摄，包括荣耀50、荣耀50 Pro和荣耀50 SE三款手机，其中荣耀50和荣耀50 Pro首发搭载骁龙778G移动平台。荣耀50系列售价2399元起。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1141437.htm",
+          "publishedOn": "2021-06-16T13:22:43.000Z",
+          "wordCount": 230,
+          "title": "荣耀50系列发布：主打Vlog拍摄 首发骁龙778G 2399元起"
+        },
+        {
           "id": "https://www.cnbeta.com/articles/tech/1141435.htm",
           "author": "ugmbbc",
           "description": "中新网6月16日电 据日本放送协会（NHK）报道，日本川崎市在6月13日发生了一起因冷库温度上升导致近6400剂新冠疫苗报废事件。对此，6月16日，涉事冷库公司社长召开新闻发布会，鞠躬表达歉意。\n 阅读全文",
