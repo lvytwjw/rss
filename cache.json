@@ -49,6 +49,15 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=342630",
+          "author": "Chris Coyier",
+          "description": "Jim Nielsen: \nIf somebody says a comment isn’t adding any value, I would ask: to whom?\nPersonally, I’ve never liked the advice that writing obvious comments is bad practice—probably because I write obvious comments all the time.\nJim showed …\nThe post Useful and Useless Code Comments appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://blog.jim-nielsen.com/2021/useful-and-usless-code-comments/",
+          "publishedOn": "2021-06-16T19:08:33.000Z",
+          "wordCount": 869,
+          "title": "Useful and Useless Code Comments"
+        },
+        {
           "id": "https://css-tricks.com/?p=342353",
           "author": "Okiki Ojo",
           "description": "The Web Animations API lets us construct animations and control their playback with JavaScript. The API opens the browser’s animation engine to developers and was designed to underlie implementations of both CSS animations and transitions, leaving the door open to …\nThe post How I Used the WAAPI to Build an Animation Library appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
@@ -1695,6 +1704,33 @@
       "feedUrl": "https://www.cnbeta.com/backend.php",
       "siteUrl": "https://www.cnbeta.com",
       "articles": [
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1141511.htm",
+          "author": "ugmbbc",
+          "description": "空客波音补贴案在世贸组织打了17年，在15日举办的欧美峰会上，欧美这一贸易纠纷终于有了缓和的信号。欧盟委员会（下称“欧委会”）和美国贸易代表办公室（USTR）发表联合声明，称双方将暂停对彼此征收惩罚性关税，为期五年，涉及的总金额达110亿美元。在接下来的五年，双方将继续就该问题谈判，寻找解决争端的方法。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1141511.htm",
+          "publishedOn": "2021-06-16T19:42:16.000Z",
+          "wordCount": 201,
+          "title": "空客波音补贴案获实质性突破 将促进欧美贸易关系回暖？"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1141509.htm",
+          "author": "ugmbbc",
+          "description": "“包租公”潘石屹将套现离场又被热炒。市场消息称，黑石接近达成以约30亿美元收购SOHO中国的协议。6月16日晚间，传闻落地。SOHO中国在港交所公告称，Two Cities Master Holdings II Limited（由黑石集团控股）现金要约收购公司全部股份，收购价格为每股5港元，总额236.58亿港元。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1141509.htm",
+          "publishedOn": "2021-06-16T19:41:46.000Z",
+          "wordCount": 198,
+          "title": "潘石屹夫妇离场 SOHO中国卖给黑石"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1141507.htm",
+          "author": "ugmbbc",
+          "description": "蒂姆-库克今天接受了远程采访，作为Viva Tech会议的一部分，该会议被誉为欧洲 \"最大的创业和科技活动\"。在30分钟的远程会议模式谈话中，库克讨论了苹果对隐私的承诺、AR的未来、iOS与Android的不同之处等。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1141507.htm",
+          "publishedOn": "2021-06-16T19:37:20.000Z",
+          "wordCount": 218,
+          "title": "Tim Cook接受Viva Tech会议采访 谈及隐私、AR、iOS与对手"
+        },
         {
           "id": "https://hot.cnbeta.com/articles/funny/1141505.htm",
           "author": "ugmbbc",
