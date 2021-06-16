@@ -1682,6 +1682,132 @@
       "siteUrl": "https://www.cnbeta.com",
       "articles": [
         {
+          "id": "https://www.cnbeta.com/articles/science/1141369.htm",
+          "author": "ugmbbc",
+          "description": "研究显示，气候预测的准确性在很大程度上取决于北大西洋的海洋环流如何被纳入气候模型。30个最先进的IPCC气候模型对北半球，特别是欧洲的气候预测有很大的不同。现在对反应范围的分析显示，这些差异主要归因于各个模型对北大西洋洋流变化的模拟，而不仅仅是如通常假设的大气变化。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/science/1141369.htm",
+          "publishedOn": "2021-06-16T09:06:29.000Z",
+          "wordCount": 195,
+          "title": "了解气候变化的不确定性 海洋环流数据是准确预测的关键"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1141367.htm",
+          "author": "teikaei",
+          "description": "监管机构担心加密货币市场中一个快速增长的领域，对投资者甚至金融系统造成隐藏的风险。他们的焦点是在所谓的稳定币，这是一种具有固定价格（通常为1美元）的加密货币形式，并由实际货币储备的支持。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1141367.htm",
+          "publishedOn": "2021-06-16T09:05:01.000Z",
+          "wordCount": 197,
+          "title": "市值1000亿美元的稳定币引发美国监管当局疑虑 担心成了金融体系隐患"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1141365.htm",
+          "author": "vivian",
+          "description": "阿联酋《海湾时报》（Khaleej Times）周二（6月15日）报道称，随着大型机构和企业参与者继续加大对加密货币资产的配置，曾准确预测2008年金融危机、有“末日博士”之称的鲁比尼（Nouriel Roubini）警告称，比特币的基本价值不是零，而是负数。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1141365.htm",
+          "publishedOn": "2021-06-16T09:04:19.000Z",
+          "wordCount": 202,
+          "title": "“末日博士”鲁比尼：比特币是一个“巨大骗局” 基本价值是负数"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1141363.htm",
+          "author": "study875",
+          "description": "据彭博社报道，印度信实集团 （Reliance） 旗下的 Jio Platforms 与美国Google公司联手开发的廉价智能手机 “Google-Jio” 遇到了供应链断裂的难题。去年 7 月，信实集团 CEO 穆克什・安巴尼 （Mukesh Ambani） 宣布将与Google联手打造 “Google-Jio” 廉价智能手机。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1141363.htm",
+          "publishedOn": "2021-06-16T08:50:57.000Z",
+          "wordCount": 345,
+          "title": "供应链断裂、芯片价格翻倍，印度 Jio 与谷歌联手打造的低端手机遇难题"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/science/1141361.htm",
+          "author": "ugmbbc",
+          "description": "记者15日从中科院南京地质古生物研究所获悉，2020年7月，南京古生物所早期生命研究团队与北京大学、成都理工大学的科研人员合作，对青藏高原柴达木盆地进行野外科学考察的过程中，在柴达木板块北缘的全吉山地区，首次发现了典型的埃迪卡拉生物群化石，相关成果于2021年6月14日在线发表于国际知名地学类综合性期刊《地质学》（Geology）。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/science/1141361.htm",
+          "publishedOn": "2021-06-16T08:41:06.000Z",
+          "wordCount": 192,
+          "title": "青藏科考发现埃迪卡拉生物群化石 5亿年前柴达木板块可能靠近华北板块"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1141359.htm",
+          "author": "vivian",
+          "description": "2020欧洲杯激战正酣，作为卫冕冠军的头号人物，葡萄牙球星C罗的一举一动自然是外界关注的焦点，甚至还能影响股市。北京时间15日，C罗在对阵匈牙利的赛前新闻发布会上，将自己面前的可乐移走，意在展现自己作为专业运动员的自律。他随后还晃了晃手中的矿泉水，示意喝水就行了。这一举动，除了在网络引发热议之外，还让可口可乐公司的股价出现了下跌。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1141359.htm",
+          "publishedOn": "2021-06-16T08:38:29.000Z",
+          "wordCount": 191,
+          "title": "C罗一个动作 可口可乐蒸发40亿美元：有糖可乐喝的人越来越少"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1141357.htm",
+          "author": "raymon725",
+          "description": "尽管基于纯电和混动的汽车平台已经相当普及，但在环保效益上最被人所期待的氢燃料电池汽车的发展，还是远远落后于前者，且目前全球只有三大汽车制造商向公众提供量产版氢燃料电池车型（本田、现代、丰田）。但过不了多久，宝马也将携 i Hydrogen Next 跻身这一行列。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1141357.htm",
+          "publishedOn": "2021-06-16T08:38:18.000Z",
+          "wordCount": 224,
+          "title": "宝马已开启i Hydrogen Next氢燃料电池车型的公共道路测试"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1141355.htm",
+          "author": "vivian",
+          "description": "据外媒Neowin报道，在今天这个围绕着互联网的世界里，对我们私人数据的在线保护始终是一个热门话题。大型科技公司由于收集和管理的数据量大，经常面临监管机构等的冲击。在与此相关的最新进展中，来自爱尔兰公民自由委员会（ICCL）的高级研究员Johnny Ryan博士决定对IAB技术实验室提起诉讼。该诉讼被提交到汉堡地方法院，针对ICCL认为的“全球最大数据泄露事件”。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1141355.htm",
+          "publishedOn": "2021-06-16T08:36:29.000Z",
+          "wordCount": 192,
+          "title": "谷歌、亚马逊等公司将因“全球最大数据泄露事件”被起诉"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1141353.htm",
+          "author": "study875",
+          "description": "据 Uniko's Hardware 的编辑 PJ 称，AMD Socket AM5 主板将于 2022 年第 2 季度到来。这意味着 AMD 首席执行官 Lisa Su 在 Computex 主题演讲中展示的 Zen3 + 3D 垂直缓存芯片，很可能还是会使用 Socket AM4 封装，和现有主板兼容。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1141353.htm",
+          "publishedOn": "2021-06-16T08:29:16.000Z",
+          "wordCount": 240,
+          "title": "AMD Socket AM5主板将于明年二季度到来 Zen3+3D垂直缓存芯片仍用AM4"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1141351.htm",
+          "author": "study875",
+          "description": "目前 ，618 年中大促正在如火如荼的进行中，各大电商平台纷纷推出诸众多超值福利及高额优惠力度，以此吸引广大消费者围观注意。令所有网友意外的是，今日凌晨，三星商城惊现 “Bug 价”，仅需 799 元即可入手一部 8 + 256GB 版本的三星 Galaxy S21。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1141351.htm",
+          "publishedOn": "2021-06-16T08:23:31.000Z",
+          "wordCount": 334,
+          "title": "三星商城惊现Bug价 799元买三星Galaxy S21 满200减4000"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1141349.htm",
+          "author": "teikaei",
+          "description": "6月16日，在最新一期的工信部申报目录上，国产大众纯电轿车 ID.3基本配置信息首次在国内亮相，该车有望于年内发布。工信部申报信息来看，该车长宽高分别为 4261 × 1778 × 1568 mm（比海外版略窄），轴距 2765 mm，属于电动紧凑级车型，该车整备质量 1760 kg，总质量 2220 kg。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1141349.htm",
+          "publishedOn": "2021-06-16T08:20:42.000Z",
+          "wordCount": 207,
+          "title": "大众ID.3工信部申报入册 3种电池容量、WLTP续航最长550km"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1141347.htm",
+          "author": "teikaei",
+          "description": "瑞典萨博集团（SSAB）周三宣布，将与沃尔沃汽车合作，开发用于汽车工业的无化石燃料钢材。萨博在一份声明中表示，沃尔沃汽车将成为第一家使用这种绿色钢材的汽车制造商。沃尔沃汽车将使用这种材料进行测试，并可能用于一款概念车。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1141347.htm",
+          "publishedOn": "2021-06-16T08:12:44.000Z",
+          "wordCount": 193,
+          "title": "沃尔沃汽车将与萨博合作开发无化石燃料钢材"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1141345.htm",
+          "author": "teikaei",
+          "description": "苹果公司因“苹果税”和支付方式唯一被中国消费者告上法庭。6月16日，澎湃新闻记者从上海市高级人民法院网开庭公告获悉，2022年1月12日，原告金某与被告苹果公司（Apple Inc）、苹果电脑贸易（上海）有限公司（以下简称“苹果上海公司”）垄断纠纷案将在上海知识产权法院开庭审理。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1141345.htm",
+          "publishedOn": "2021-06-16T08:10:21.000Z",
+          "wordCount": 202,
+          "title": "用户因“苹果税”和支付方式唯一起诉苹果公司，案件明年开庭"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1141343.htm",
+          "author": "study875",
+          "description": "不出意外，苹果将在今年九月上旬发布新一代iPhone 13系列。据外媒爆料，今年苹果将依旧采取四机齐发的产品策略，带来iPhone 13、iPhone 13 mini、iPhone 13 Pro 以及 iPhone 13 Pro Max 四款新机，为大家提供更加多元化的购机选择。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1141343.htm",
+          "publishedOn": "2021-06-16T08:07:47.000Z",
+          "wordCount": 259,
+          "title": "曝 iPhone 13 将保留 mini 版 网友：大可不必"
+        },
+        {
           "id": "https://www.cnbeta.com/articles/tech/1141341.htm",
           "author": "teikaei",
           "description": "随着监管压力的加大，韩国的数字资产交易所已开始停止交易某些被认为对投资者风险过高的加密货币。据当地媒体周三报道，在20家获得了安全管理系统证书的交易所中，有11家已经停止了某些币种的交易或发出警告。\n 阅读全文",
