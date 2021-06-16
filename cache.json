@@ -1700,6 +1700,249 @@
       "siteUrl": "https://www.cnbeta.com",
       "articles": [
         {
+          "id": "https://www.cnbeta.com/articles/tech/1141127.htm",
+          "author": "ugmbbc",
+          "description": "摩根士丹利分析师估计，数字欧元一旦推出，可能会“吸走”欧元区银行8%的客户存款，而这一比例在欧元区19国中的一些较小国家可能还要高得多。欧洲央行预计将在未来几个月加快数字欧元的工作，尽管正式推出可能需要几年时间，但经济学家正在研究其潜在影响。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1141127.htm",
+          "publishedOn": "2021-06-16T01:52:55.000Z",
+          "wordCount": 193,
+          "title": "摩根士丹利：数字欧元可能“吸走”欧元区银行业8%客户存款"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/science/1141125.htm",
+          "author": "vivian",
+          "description": "根据一项使用无人机拍摄动物的新研究，虎鲸有复杂的社会结构，包括亲密的“友谊”关系。研究结果显示，虎鲸花更多的时间与它们群中的某些个体互动，并倾向于喜欢那些相同性别和相似年龄的个体。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/science/1141125.htm",
+          "publishedOn": "2021-06-16T01:48:07.000Z",
+          "wordCount": 198,
+          "title": "研究人员使用无人机拍摄虎鲸画面  揭示其“社交”秘密"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1141123.htm",
+          "author": "raymon725",
+          "description": "为了与 Clubhouse 等竞品展开竞争，社交网络巨头 Facebook 也在今年 4 月宣布了一系列音频产品，其中就包括 Live Audio Rooms 音频直播会客室服务。自 5 月份以来，Facebook 一直在积极携手公众人物测试相关功能。而今天，该公司也终于在美国本土举办了首次公开测试。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1141123.htm",
+          "publishedOn": "2021-06-16T01:47:11.000Z",
+          "wordCount": 282,
+          "title": "扎克伯克主持了Live Audio Rooms音频会客室服务的首次公开测试"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1141121.htm",
+          "author": "teikaei",
+          "description": "作为“西电东送”的国家重大工程，乌东德水电站今天将实现全部机组投产发电。通过一个短片，一起去了解这座超级水电站。这里是世界第七、中国第四大水电站—乌东德水电站，库区江水碧绿清澈，库容量达到74亿立方米，相当于500多个西湖的蓄水量。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1141121.htm",
+          "publishedOn": "2021-06-16T01:46:58.000Z",
+          "wordCount": 195,
+          "title": "今日全部机组将投产发电 记者探访金沙江乌东德水电站"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1141119.htm",
+          "author": "study875",
+          "description": "在今天偷跑的 Windows 11 Build 21996 镜像中，在对任务栏、开始菜单等进行重大 UI 改进之外，微软还重新引入了开机铃声。自 Windows 8 系统开始微软取消了开机铃声，而在 Windows 10 中也没有提供。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1141119.htm",
+          "publishedOn": "2021-06-16T01:41:59.000Z",
+          "wordCount": 229,
+          "title": "[音频]Windows 11重新引入开机铃声 更加柔和"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1141117.htm",
+          "author": "vivian",
+          "description": "根据一项新研究，不健康的饮食与疲劳度增加有关。研究人员说，这是导致车祸风险升高的关键因素。在线发表在《职业与环境医学》杂志上的研究表明，食用垃圾食品可能通过提高疲劳度增加卡车/货车司机的危险驾驶风险，而疲劳度往往是车辆碰撞的一个关键因素。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1141117.htm",
+          "publishedOn": "2021-06-16T01:35:24.000Z",
+          "wordCount": 192,
+          "title": "研究称食用垃圾食品可能会增加卡车司机危险驾驶的风险"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/science/1141115.htm",
+          "author": "teikaei",
+          "description": "据外媒报道，据项目组织者介绍称，一艘装有由IBM开发的软件的自动驾驶船舶于当地时间周二起航穿越大西洋。五月花号自动驾驶船舶（Mayflower Autonomous Ship，以下简称MAS）是一艘依靠AI、太阳能驱动的海洋研究船，于去年9月完工，它将穿越海洋收集环境数据。这艘船的名字则是为了纪念400年前横渡到美洲大陆的五月花号。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/science/1141115.htm",
+          "publishedOn": "2021-06-16T01:33:10.000Z",
+          "wordCount": 195,
+          "title": "由IBM软件驱动的“五月花号”自动驾驶船将横渡大西洋"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1141113.htm",
+          "author": "vivian",
+          "description": "北京时间6月16日早间消息，据报道，知情人士称，由于欧洲监管机构不愿在夏季假期前考虑此案，英伟达很可能无法在2022年3月预设的最后期限之前完成对英国芯片设计公司ARM的400亿美元收购。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1141113.htm",
+          "publishedOn": "2021-06-16T01:22:20.000Z",
+          "wordCount": 205,
+          "title": "英伟达400亿美元收购ARM交易要黄？欧洲监管部门或成最大阻力"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1141111.htm",
+          "author": "ugmbbc",
+          "description": "简单的T恤衫、牛仔裤、白板鞋，扎一缕马尾辫，背着红色的双肩包……漫步在清华校园里，容貌清秀的她绝对可以称得上是女神。今年，清华大学计算机系提前录取了一名特别的学生——我国首个原创虚拟学生“华智冰”，即日起将在清华园里开启学习和研究生涯。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1141111.htm",
+          "publishedOn": "2021-06-16T01:21:48.000Z",
+          "wordCount": 197,
+          "title": "T恤衫牛仔裤扎马尾 清华大学迎来我国首个虚拟学生“华智冰”"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1141109.htm",
+          "author": "vivian",
+          "description": "昨日，极狐方面宣布将与百度 Apollo 智能驾驶“站在一起”，称两者将开启“共享无人驾驶新纪元”。这让沉寂半年之久的 Apollo再次回归公众视野。不过这一次，外界的关注度似乎降温了，一方面是遭遇了自动驾驶行业“融资潮”，仅仅两个月，该领域的投融资事件就已达到24起，披露投融资总金额为176.4亿。另一方面，作为元老级的存在，Apollo虽然掌控技术优势，但其正被新一轮玩家所赶超。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1141109.htm",
+          "publishedOn": "2021-06-16T01:21:39.000Z",
+          "wordCount": 201,
+          "title": "百度Apollo：老玩家被疯狂追赶，优势殆尽？"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1141107.htm",
+          "author": "teikaei",
+          "description": "北京时间6月16日早间消息 据报道，商业软件制造商甲骨文公司周二表示，因为该公司加大了对云计算业务的投资以对抗微软和亚马逊等竞争对手，预计当前财季利润将低于华尔街预期。该公司计划在2022财年将云业务的资本支出增加一倍，达到近40亿美元，因为该公司受益于新冠肺炎大流行，大多数企业选择了混合工作模式。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1141107.htm",
+          "publishedOn": "2021-06-16T01:20:57.000Z",
+          "wordCount": 199,
+          "title": "甲骨文将增加云业务投资 但收入增长问题仍难解决"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/science/1141105.htm",
+          "author": "vivian",
+          "description": "新华社甘肃酒泉6月16日电（记者黄明、黎云、张汨汨）神舟十二号载人飞船将于6月17日9时22分发射，飞行乘组由航天员聂海胜、刘伯明和汤洪波三人组成。这是中国载人航天工程办公室主任助理季启明16日上午在酒泉卫星发射中心举行的神舟十二号载人飞行任务新闻发布会上宣布的。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/science/1141105.htm",
+          "publishedOn": "2021-06-16T01:19:32.000Z",
+          "wordCount": 195,
+          "title": "神舟十二号17日9时22分发射 飞行乘组确定"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1141103.htm",
+          "author": "teikaei",
+          "description": "据外媒报道，美国空军(USAF)已授予GE Aviation使用增材制造的F110金属油底壳适航资格。这一里程碑式的成就是该公司探路者Pacer Edge项目的一部分，该项目旨在突出工业3D打印在航空航天工业中的应用。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1141103.htm",
+          "publishedOn": "2021-06-16T01:18:10.000Z",
+          "wordCount": 214,
+          "title": "GE Aviation 3D打印金属油底壳获美空军适航资格"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/science/1141101.htm",
+          "author": "vivian",
+          "description": "美国太空探索技术公司SpaceX总裁兼首席运营官格温·肖特维尔(Gwynne Shotwell)最近在向大学毕业班发表的演讲中，出人意料地披露了有关35台猛禽发动机的建造进展，这些发动机将为星际飞船即将进行的首次轨道发射提供动力。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/science/1141101.htm",
+          "publishedOn": "2021-06-16T01:17:53.000Z",
+          "wordCount": 196,
+          "title": "SpaceX披露星际飞船首次轨道发射进展 有望八九月份试飞"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1141099.htm",
+          "author": "raymon725",
+          "description": "在首次推出采用 AMD 锐龙移动处理器的 Blade 14 轻薄游戏本的同时，许多人也对雷蛇（Razer）新款高功率氮化镓（GaN）充电器产生了浓厚的兴趣。虽然售价高达 180 美元（约 1153 RMB），但 130W 的功率，使之能够轻松为大多数移动设备补充能量。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1141099.htm",
+          "publishedOn": "2021-06-16T01:15:10.000Z",
+          "wordCount": 230,
+          "title": "Razer推出外形紧凑的氮化镓快充：四口130W输出 售180美元"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/science/1141097.htm",
+          "author": "vivian",
+          "description": "据外媒报道，全球范围内的溪流和河流中都有药物污染，但对其对动物和生态系统的影响却知之甚少。发表在《Ecosphere》杂志上的一项新研究调查了抗抑郁剂污染对小龙虾的影响。研究发现，仅仅两周的西酞普兰暴露就引起了小龙虾行为的变化，有可能破坏溪流生态系统的进程，如营养循环、氧气水平和藻类生长。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/science/1141097.htm",
+          "publishedOn": "2021-06-16T01:14:32.000Z",
+          "wordCount": 200,
+          "title": "研究发现抗抑郁药污染改变小龙虾行为  影响溪流生态环境"
+        },
+        {
+          "id": "https://hot.cnbeta.com/articles/game/1141095.htm",
+          "author": "study875",
+          "description": "从移动数据和分析公司 App Annie 和市场研究机构 IDC 报告，全球移动游戏下载和支出在第 1 季度都有明显增长。这主要是因为新冠疫情中形成的游戏习惯，而且这种势头依然非常强劲。\n 阅读全文",
+          "link": "https://hot.cnbeta.com/articles/game/1141095.htm",
+          "publishedOn": "2021-06-16T01:13:11.000Z",
+          "wordCount": 243,
+          "title": "疫情推动手游行业快速发展：下载量增长40% 支出增长30%"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/science/1141093.htm",
+          "author": "teikaei",
+          "description": "据外媒报道，人类可以做很多植物做不到的事情。我们可以四处走动、我们可以交谈、我们可以听到声音、看到和触摸东西。但植物比人类有一个主要优势：它们可以直接从太阳中获取能量。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/science/1141093.htm",
+          "publishedOn": "2021-06-16T01:02:49.000Z",
+          "wordCount": 193,
+          "title": "研究人员打造将有望提供清洁、可持续能源的人工光合作用"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/science/1141091.htm",
+          "author": "vivian",
+          "description": "据外媒报道，基于欧空局CryoSat和Envisat任务的海冰厚度数据以及一个新的雪的模型的研究显示，北极沿海地区的海冰变薄的速度可能比科学家以前认为的要快一倍。虽然利用携带类似照相机的仪器的卫星提供的图像监测冰覆盖的陆地和海洋的面积是相对直接的，但科学家需要了解实际体积是如何变化的--为了计算这个，他们需要测量冰的厚度。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/science/1141091.htm",
+          "publishedOn": "2021-06-16T01:02:23.000Z",
+          "wordCount": 194,
+          "title": "研究称北极沿海海冰变薄的速度可能比科学家以前认为的要快一倍"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1141089.htm",
+          "author": "raymon725",
+          "description": "微软原计划下周才宣布的“下一代 Windows”操作系统，已于近日在网络上提前流出了最新的预览版本。除了 UI 设计上“大刀阔斧”的改动，其系统版本号也从 Windows 10 直升到了“Windows 11”。Windows Latest 指出，作为“Sun Valley”更新的一部分，它将于今年晚些时候与广大用户见面。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1141089.htm",
+          "publishedOn": "2021-06-16T00:55:44.000Z",
+          "wordCount": 235,
+          "title": "提前一周抢跑：Windows 11中的新开始菜单长这样！"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1141087.htm",
+          "author": "study875",
+          "description": "你是否曾尝试过使用 Apple Watch 作为床头钟？但最终因为屏幕太小而放弃了吗？现在，通过这个售价为 49.99 美元的 NightWatch 底座，就能完美的解决上述问题。这款底座整合了充电、放大镜和声学放大器的功能，能够将 Apple Watch 变成真正的床头钟。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1141087.htm",
+          "publishedOn": "2021-06-16T00:47:23.000Z",
+          "wordCount": 224,
+          "title": "[视频]NightWatch底座：将Apple Watch变成床头闹钟"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1141085.htm",
+          "author": "teikaei",
+          "description": "据外媒报道，由爱立信赞助的经济学人智库(EIU)的一份新报告发现，为学校接入互联网可以使一个国家的人均GDP提高20%之多。这里的逻辑是，劳动力将能受到更多的教育并创造新的创新，这些都将能带来经济发展和创造就业机会。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1141085.htm",
+          "publishedOn": "2021-06-16T00:44:12.000Z",
+          "wordCount": 195,
+          "title": "报告：为学校接入互联网可使人均GDP增加20%"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1141083.htm",
+          "author": "vivian",
+          "description": "据外媒The Verge报道，Cruise公司正在从通用汽车的金融部门获得50亿美元的信贷额度，因为它开始了Origin无人驾驶专线汽车的预生产。这是对Cruise公司的又一大笔现金注入，可以说使其成为世界上资本雄厚的自动驾驶汽车公司之一。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1141083.htm",
+          "publishedOn": "2021-06-16T00:44:08.000Z",
+          "wordCount": 198,
+          "title": "从通用汽车获50亿美元信贷额度后  Cruise开始预生产其无人驾驶汽车"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1141081.htm",
+          "author": "study875",
+          "description": "为了能够成为符合美国联邦通信委员会（FCC）农村数字机会基金（RDOF）条件的电信运营商，SpaceX 旗下的 Starlink Services, LLC 近日向美国西北部的美国原住民部落保证，在经过接触之后才会在他们的土地上架设卫星互联网地面设备。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1141081.htm",
+          "publishedOn": "2021-06-16T00:38:39.000Z",
+          "wordCount": 218,
+          "title": "SpaceX星链回应 消除美国原住民部落对资金和可靠性的担忧"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1141079.htm",
+          "author": "raymon725",
+          "description": "苹果刚刚在官方 YouTube 频道上分享了一段专门面向欧洲观众的新视频，并且在标题上就充分强调了自家软件生态的隐私保护特性。苹果 CEO 蒂姆·库克在视频开头就重申了该公司在隐私方面的承诺，且诸多新功能将于 iOS 15 和 iPadOS 15 中初登场。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1141079.htm",
+          "publishedOn": "2021-06-16T00:37:37.000Z",
+          "wordCount": 236,
+          "title": "苹果发布6分钟新视频：向欧洲观众重申iOS 15上的隐私保护特性"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/science/1141077.htm",
+          "author": "teikaei",
+          "description": "据外媒报道，没有多少人意识到，除了科学数据和新闻发布，NASA还在其网站上分享了大量的免费资源：电子书、儿童材料、播客等。对于那些拥有3D打印机的人，该机构还提供了大量可供3D打印的模型，包括最受欢迎的航天器、小行星、火山口等。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/science/1141077.htm",
+          "publishedOn": "2021-06-16T00:28:26.000Z",
+          "wordCount": 204,
+          "title": "NASA免费3D模型库：可以让任何人打印宇宙飞船和小行星"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1141075.htm",
+          "author": "vivian",
+          "description": "据外媒TechCrunch报道，鉴于1月6日美国国会大厦骚乱事件的发生，拜登政府正在概述打击美国国内恐怖主义的新计划，社交媒体公司也有自己的职责。白宫周二发布了一项关于打击美国国内恐怖主义的新国家战略。该计划承认网络平台在将暴力思想带入主流方面发挥的关键作用，甚至称社交媒体网站是打击美国国内恐怖主义战争的 “前线”。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1141075.htm",
+          "publishedOn": "2021-06-16T00:27:33.000Z",
+          "wordCount": 205,
+          "title": "拜登政府将与处于美国国内反恐斗争“前线”的社交平台分享更多信息"
+        },
+        {
           "id": "https://www.cnbeta.com/articles/tech/1141073.htm",
           "author": "teikaei",
           "description": "据外媒报道，许多主流流媒体如Hulu、HBO Max或Sling TV都以某种形式支持广告，但迪士尼的CEO却认为，该公司的招牌服务不会在短期内添加广告。当地时间周二，在瑞士信贷第23届年度沟通大会上，主持人兼瑞士信贷董事总经理Doug mitchell向迪士尼负责人Bob Chapek提问，迪士尼是否计划在未来某个时候引入广告支持的入门级别。\n 阅读全文",
