@@ -49,6 +49,15 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=342353",
+          "author": "Okiki Ojo",
+          "description": "The Web Animations API lets us construct animations and control their playback with JavaScript. The API opens the browser’s animation engine to developers and was designed to underlie implementations of both CSS animations and transitions, leaving the door open to …\nThe post How I Used the WAAPI to Build an Animation Library appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/how-i-used-the-waapi-to-build-an-animation-library/",
+          "publishedOn": "2021-06-16T14:26:58.000Z",
+          "wordCount": 2409,
+          "title": "How I Used the WAAPI to Build an Animation Library"
+        },
+        {
           "id": "https://css-tricks.com/?p=342198",
           "author": "Chris Coyier",
           "description": "Usually, when “unused” comes up in conversation regarding CSS, it’s about removing chunks of CSS that are not used in your site or, at least, the styles not currently in use on a specific page. The minimal amount of CSS …\nThe post Detect Unused Classes in… HTML appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
@@ -1686,6 +1695,123 @@
       "feedUrl": "https://www.cnbeta.com/backend.php",
       "siteUrl": "https://www.cnbeta.com",
       "articles": [
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1141473.htm",
+          "author": "ugmbbc",
+          "description": "首家Google商店即将开业，如果你不能去纽约市查看新的实体店，那么线上虚拟探店是最好的办法。Google在今年早些时候宣布，它将开设第一个实体店，主要提供设备销售，现在它已经在纽约市切尔西区开门营业。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1141473.htm",
+          "publishedOn": "2021-06-16T14:59:11.000Z",
+          "wordCount": 201,
+          "title": "[多图]第一家Google Store门店即将在纽约开业 一同前去一探究竟"
+        },
+        {
+          "id": "https://hot.cnbeta.com/articles/funny/1141471.htm",
+          "author": "ugmbbc",
+          "description": "近日，一位48岁大龄男子写给上海市政府的失业求助信引发热议。据悉，写信者王先生(化名)自称高学历，曾任职外企高管，但失业三年求职无门，和妻子育有两子，“一直在申领政府发放的微薄的失业金，加上偶尔挣到的咨询费，以及家里有限的储蓄，勉强度日”。\n 阅读全文",
+          "link": "https://hot.cnbeta.com/articles/funny/1141471.htm",
+          "publishedOn": "2021-06-16T14:46:12.000Z",
+          "wordCount": 192,
+          "title": "上海48岁大龄职场男致信市长求工作：工作1个月离职了"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/science/1141469.htm",
+          "author": "ugmbbc",
+          "description": "中新网北京6月16日电 (马帅莎)记者从国家航天局获悉，在全球空间探索大会期间，中国国家航天局和俄罗斯国家航天集团公司16日通过线上和线下混合方式，共同举办了国际月球科研站路线图全球网络论坛，并联合发布了《国际月球科研站路线图(V1.0)》和《国际月球科研站合作伙伴指南(V1.0))》。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/science/1141469.htm",
+          "publishedOn": "2021-06-16T14:45:34.000Z",
+          "wordCount": 192,
+          "title": "中俄联合发布国际月球科研站路线图和合作伙伴指南1.0版"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1141467.htm",
+          "author": "ugmbbc",
+          "description": "相信各位数码圈铁粉肯定知道，在上个月的高通峰会上，荣耀可谓大刷存在感， 官宣荣耀50系列将首发骁龙778G ，这也是自荣耀宣布和高通合作之后带来的首款产品，凰家评测又是第一时间，把这台全新的荣耀50 Pro搞到了手，那本期就让我们一起来看看新生的荣耀表现如何？\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1141467.htm",
+          "publishedOn": "2021-06-16T14:40:41.000Z",
+          "wordCount": 402,
+          "title": "荣耀50 Pro评测：还能跟鸿蒙生态组队玩耍？"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1141465.htm",
+          "author": "ugmbbc",
+          "description": "6月16日消息，据知情人士透露，汽车制造商福特和日产、韩国企业LG和三星以及初创企业Britishvolt、InoBat Auto等六家公司，正与英国就建设巨型电动汽车电池工厂事宜进行谈判，此举可能帮助确保英国汽车业的未来安全。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1141465.htm",
+          "publishedOn": "2021-06-16T14:37:26.000Z",
+          "wordCount": 203,
+          "title": "传英国正与三星LG等公司谈判 拟建巨型动力电池工厂"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1141463.htm",
+          "author": "ugmbbc",
+          "description": "上周Alphabet旗下Google向法国和英国监管机构低头，提出在全球范围内调整公司的广告追踪做法和交易业务。Google这一行为实属罕见，标志着长期以来欧洲监管机构遏制Google的努力终于出现转折点。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1141463.htm",
+          "publishedOn": "2021-06-16T14:36:49.000Z",
+          "wordCount": 212,
+          "title": "Google与英法监管机构和解 业内称这比罚款有用"
+        },
+        {
+          "id": "https://hot.cnbeta.com/articles/game/1141461.htm",
+          "author": "ugmbbc",
+          "description": "在看到《阿凡达》游戏后，迪士尼确信育碧Massive工作室是《星球大战》游戏的正确合作伙伴。育碧前瞻会上公布的新作《阿凡达：潘多拉边界（Avatar: Frontiers of Pandora）》是今年E3的众多惊喜之一，我们已经知道这款游戏已经开发了多年。\n 阅读全文",
+          "link": "https://hot.cnbeta.com/articles/game/1141461.htm",
+          "publishedOn": "2021-06-16T14:35:46.000Z",
+          "wordCount": 202,
+          "title": "Massive的《阿凡达》打动了迪士尼 允许开发《星战》"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1141457.htm",
+          "author": "ugmbbc",
+          "description": "Moderna Inc．表示，美国政府将增加购买2亿剂该公司的Covid-19疫苗，并可能购买正在试验的其他候选疫苗，包括加强针。该公司周三公告称，新订购的剂量使得美国政府订购的Moderna疫苗总量达到5亿剂；截至6月14日，已交付2.17亿剂。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1141457.htm",
+          "publishedOn": "2021-06-16T14:30:16.000Z",
+          "wordCount": 194,
+          "title": "美国增加采购2亿剂Moderna疫苗 并有采购加强针的选择权"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1141455.htm",
+          "author": "ugmbbc",
+          "description": "据报道，通用汽车今日表示，未来数年将投资约350亿美元研发电动汽车和自动驾驶汽车。这意味着通用汽车将加速研发新能源汽车，并将投资规模提高75%。2020年11月，通用汽车曾预计，从2020年至2025年，该公司在电动汽车和自动驾驶汽车领域的投资将达到200亿美元。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1141455.htm",
+          "publishedOn": "2021-06-16T14:28:23.000Z",
+          "wordCount": 197,
+          "title": "通用汽车：未来4年将投资350亿美元开发自动驾驶汽车"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1141453.htm",
+          "author": "ugmbbc",
+          "description": "除了荣耀50系列手机，荣耀今晚还发布了荣耀Earbuds 2 SE真无线蓝牙耳机，主打超长续航、主动降噪。它的三围尺寸仅为37.5×23.9×21毫米，单只重约5.5克，3D仿生人体工学设计，标配三种不同尺寸的柔软硅胶耳塞，黑白两色可选。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1141453.htm",
+          "publishedOn": "2021-06-16T14:23:53.000Z",
+          "wordCount": 205,
+          "title": "荣耀Earbuds 2 SE真无线耳机发布：32小时超长续航、首发439元"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1141451.htm",
+          "author": "ugmbbc",
+          "description": "Google的兄弟公司Waymo周三宣布了一轮25亿美元的融资，用于推进其自动驾驶技术和壮大团队。在这轮融资之前，Waymo公司首席执行官约翰·科拉菲克（John Krafcik）于今年4月离职，外界批评该公司在技术商业化方面的进展慢于预期。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1141451.htm",
+          "publishedOn": "2021-06-16T14:19:18.000Z",
+          "wordCount": 197,
+          "title": "Waymo融资25亿美元 推进自动驾驶和壮大团队"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1141449.htm",
+          "author": "ugmbbc",
+          "description": "昨天泄露的Windows 11版本仍在被微软爱好者们细细剖析中，其中有人成功地在该版本中发现了一个隐藏的 \"Windows 11 SE\"SKU。Twitter用户Sigma分享了一些关于这个精简版操作系统的截图和细节，它将禁用一些设置和功能，还默认屏蔽了微软商店。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1141449.htm",
+          "publishedOn": "2021-06-16T14:17:19.000Z",
+          "wordCount": 224,
+          "title": "Windows 11 \"SE\"SKU在昨天泄露的构建版本中被发现"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1141447.htm",
+          "author": "ugmbbc",
+          "description": "三星仍然致力于发布价格合理的旗舰智能手机，该公司还没有确定是否像之前报道的那样扼杀其高端Galaxy S系列智能手机的粉丝（FE）版。虽然推迟即将推出的S21 FE的发布日期确实引起了一些疑虑，但这家韩国科技巨头按计划发布Galaxy S21 FE的工作依然在按部就班进行。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1141447.htm",
+          "publishedOn": "2021-06-16T14:14:02.000Z",
+          "wordCount": 229,
+          "title": "认证网站透露三星Galaxy S21 FE将支持25W快速充电"
+        },
         {
           "id": "https://www.cnbeta.com/articles/tech/1141445.htm",
           "author": "ugmbbc",
