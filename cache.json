@@ -906,15 +906,6 @@
           "publishedOn": "2021-05-18T10:30:00.000Z",
           "wordCount": 1796,
           "title": "How To Create, Edit And Animate SVGs All In One Place With SVGator 3.0"
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/05/smashing-podcast-episode-37/",
-          "author": "hello@smashingmagazine.com (Drew McLellan)",
-          "description": "In this episode, we’re talking about VisBug. What is it, and how is it different from the array of options already found in Chrome DevTools? Drew McLellan talks to its creator Adam Argyle to find out.",
-          "link": "https://smashingmagazine.com/2021/05/smashing-podcast-episode-37/",
-          "publishedOn": "2021-05-18T05:00:00.000Z",
-          "wordCount": 9250,
-          "title": "Smashing Podcast Episode 37 With Adam Argyle: What Is VisBug?"
         }
       ]
     },
@@ -923,6 +914,15 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
+        {
+          "id": "60ca30af4dc1a607ed7b4197",
+          "author": null,
+          "description": "You can learn the basics of Data Analytics with 30 days of practice.  We just released a Data Analytics course on the freeCodeCamp.org YouTube channel. The course includes a 40-minute video, as well as a website and Jupyter notebooks. If you follow the plan laid out in these course",
+          "link": "https://www.freecodecamp.org/news/teach-yourself-data-analytics-in-30-days/",
+          "publishedOn": "2021-06-16T17:19:31.000Z",
+          "wordCount": 411,
+          "title": "Teach Yourself Data Analytics in 30 Days"
+        },
         {
           "id": "60c91b2b4dc1a607ed7b389a",
           "author": null,
@@ -1695,6 +1695,69 @@
       "feedUrl": "https://www.cnbeta.com/backend.php",
       "siteUrl": "https://www.cnbeta.com",
       "articles": [
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1141501.htm",
+          "author": "maomao",
+          "description": "Facebook正在推出一套新的工具，以帮助组管理员掌握他们的社区，其中包括一个由AI驱动的功能，Facebook说它可以识别在评论中发生的有争议的或不健康的对话。这个工具被称为\"冲突警报\"，Facebook说它目前只是在测试阶段，所以正式推出日期还不清楚。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1141501.htm",
+          "publishedOn": "2021-06-16T16:38:58.000Z",
+          "wordCount": 189,
+          "title": "Facebook使用AI监控用户评论中争吵并且通知群管理员"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/science/1141499.htm",
+          "author": "ugmbbc",
+          "description": "据美国《大众科学》月刊网站6月13日报道，今年4月一个寒冷的夜晚，在密歇根州，一队科学家拿着手电筒和一张1879年的地图，在夜色的掩护下出发了。地图上标出了一个秘密地点，那里埋藏着不同寻常的宝藏：来自上百年前的若干瓶种子，它们被埋在地下，耐心地等待苏醒的那一天。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/science/1141499.htm",
+          "publishedOn": "2021-06-16T16:24:39.000Z",
+          "wordCount": 190,
+          "title": "埋藏142年种子成功发芽"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1141497.htm",
+          "author": "ugmbbc",
+          "description": "“我在唯品会买到了‘假货’，它还给了我一张正品保证保险卡。”近日，贵州的罗先生向澎湃新闻反映，他在唯品会自营购买了两条男士牛仔裤，分别来自不同的品牌，一条为“花花公子”，一条为“爱迪·丹顿”。到货后，他发现两条裤子一模一样，他质疑这两条裤子中有假货。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1141497.htm",
+          "publishedOn": "2021-06-16T16:23:33.000Z",
+          "wordCount": 192,
+          "title": "唯品会上买到两件“孪生”裤子：除了品牌、价格不同别的都一样"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1141495.htm",
+          "author": "ugmbbc",
+          "description": "通用汽车董事长兼首席执行官玛丽-巴拉（Mary Barra）表示，该公司旨在引领电动汽车市场，击败其他主要汽车制造商以及马斯克的特斯拉。当被问及马斯克声称处于电动汽车开发的最前沿时，巴拉回答说，她表示“总是认真对待我们的每一位竞争对手”。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1141495.htm",
+          "publishedOn": "2021-06-16T16:22:26.000Z",
+          "wordCount": 195,
+          "title": "通用汽车CEO“喊话”马斯克：我们的目标是引领电动汽车市场"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1141493.htm",
+          "author": "ugmbbc",
+          "description": "辉瑞公司首席执行官Albert Bourla周三表示，他预计发达国家的生活将在今年年底前恢复正常，而世界其他地区将在2022年底前恢复正常。Bourla说，到那时，应该有足够剂量的新冠疫苗供大多数国家和地区的人群接种，以抵抗新冠病毒。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1141493.htm",
+          "publishedOn": "2021-06-16T16:22:04.000Z",
+          "wordCount": 192,
+          "title": "辉瑞CEO：预计到2022年底全球将恢复“正常”"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1141491.htm",
+          "author": "maomao",
+          "description": "作为测试和开发智能轮胎技术更广泛合作的一部分，轮胎制造巨头普利司通已经获得了Kodiak Robotics公司的少数股权，这家位于硅谷的创业公司正在开发自动驾驶卡车。虽然交易条款没有披露，但科迪亚克机器人公司的联合创始人兼首席执行官Don Burnette告诉TechCrunch，这是一项直接的财务投资。普利司通首席技术官Nizar Trigui也作为观察员加入了Kodiak Robotics董事会。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1141491.htm",
+          "publishedOn": "2021-06-16T16:21:30.000Z",
+          "wordCount": 197,
+          "title": "自动驾驶卡车初创公司Kodiak Robotics获得普利司通投资和合作"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1141489.htm",
+          "author": "ugmbbc",
+          "description": "据日本放送协会16日报道，东京奥运会相关人士透露称，东京奥运会正在以允许观众入场的方针进行最终调整。报道称，东京奥运会相关人士表示，东京奥运会和东京残奥会的观战方案，正在以允许观众入场的基本方针进行最终调整。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1141489.htm",
+          "publishedOn": "2021-06-16T16:13:29.000Z",
+          "wordCount": 193,
+          "title": "日媒：东京奥运会拟允许观众入场 已进入“最终调整阶段”"
+        },
         {
           "id": "https://www.cnbeta.com/articles/tech/1141487.htm",
           "author": "ugmbbc",
