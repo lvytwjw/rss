@@ -1682,6 +1682,114 @@
       "siteUrl": "https://www.cnbeta.com",
       "articles": [
         {
+          "id": "https://www.cnbeta.com/articles/science/1141217.htm",
+          "author": "vivian",
+          "description": "北京时间6月16日消息，许多海洋生物，例如：海龟、鲨鱼、鲑鱼，它们利用地球磁场至它们想要抵达的区域，甚至会跨越数千公里。地球表面71%是水，现在你想象自己是一条鲨鱼、一只乌龟或者其他水栖生物，在广阔的海洋中畅游，你是如何横跨数千公里在地球巨大水池中航行的呢？毕竟没有任何路标或者地图对这些生物进行提示，事实上，它们是在地球磁场相协调的体内指南针的帮助下找到路线。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/science/1141217.htm",
+          "publishedOn": "2021-06-16T03:42:13.000Z",
+          "wordCount": 190,
+          "title": "水栖动物如何实现水下导航？"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/science/1141215.htm",
+          "author": "vivian",
+          "description": "据外媒New Atlas报道，澳大利亚国立大学（ANU）的科学家们开发了一种新型的夜视技术，这在同类技术中尚属首次。它采用超薄薄膜的形式，可以直接应用在眼镜上作为过滤器，只需要一个简单的激光就可以将红外光转换为佩戴者可以看到的图像。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/science/1141215.htm",
+          "publishedOn": "2021-06-16T03:39:56.000Z",
+          "wordCount": 197,
+          "title": "科学家开发出新型夜视膜  可应用于普通眼镜上"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1141213.htm",
+          "author": "study875",
+          "description": "根据国内数码博主@数码闲聊站昨天分享的信息，小米今年第 4 季度推出新款可折叠手机。目前测试的工程机采用内折结构，内外两个屏幕都支持比较高的刷新率（90Hz和120Hz），搭载高通骁龙888芯片，5000mAh 容量电池，1.08亿像素摄像头。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1141213.htm",
+          "publishedOn": "2021-06-16T03:36:58.000Z",
+          "wordCount": 228,
+          "title": "下一代小米可折叠手机有望Q4发布：内折结构+骁龙888+1.08亿主摄"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1141211.htm",
+          "author": "teikaei",
+          "description": "加州州长加文-纽森当地时间周二在好莱坞环球影城的一次活动上向10名“疫苗大奖”得主每人发放了150万美元的奖金，标志着该州疫情限制措施的结束。加州上月底宣布退出总额达1亿1650万美元的疫苗奖励措施。年龄在12岁以上的该州居民只要接种了一剂疫苗，就有资格参加一个系列的三轮抽奖。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1141211.htm",
+          "publishedOn": "2021-06-16T03:35:51.000Z",
+          "wordCount": 194,
+          "title": "加州向10位“疫苗大奖”得主发放1500万美元奖金"
+        },
+        {
+          "id": "https://hot.cnbeta.com/articles/game/1141209.htm",
+          "author": "teikaei",
+          "description": "据1818黄金眼报道，小童今年21岁，称自己玩王者荣耀六七年了，每个赛季都可以打到王者段位一两百颗星。所以，想尝试一下当游戏主播。但在五月二十七号的时候，腾讯称自己当‘演员’，账号被封停了近三个月。\n 阅读全文",
+          "link": "https://hot.cnbeta.com/articles/game/1141209.htm",
+          "publishedOn": "2021-06-16T03:34:54.000Z",
+          "wordCount": 195,
+          "title": "腾讯回应王者荣耀打到国服前十被封号：存在违规行为 无法提前解封"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1141207.htm",
+          "author": "teikaei",
+          "description": "6月16日上午消息，中国信通院今日发布报告显示，2021年5月，国内手机市场总体出货量2300万部，同比下降32%；1-5月，国内手机市场总体出货量累计1.484亿部，同比增长19.3%。报告还显示，2021年5月，国内市场5G手机出货量1670万部，占同期手机出货量的72.9%。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1141207.htm",
+          "publishedOn": "2021-06-16T03:33:53.000Z",
+          "wordCount": 193,
+          "title": "中国信通院：国内5月手机出货量同比下降32%至2300万部"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1141205.htm",
+          "author": "teikaei",
+          "description": "6月16日消息，教育部宣布成立校外教育培训监管司，主要职责包括承担面向中小学生(含幼儿园儿童)的校外教育培训管理工作，以及组织实施校外教育培训综合治理等。校外培训监管进入专业化常态化。美股昨日收盘，多家教育中概股股价再下挫。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1141205.htm",
+          "publishedOn": "2021-06-16T03:33:08.000Z",
+          "wordCount": 197,
+          "title": "教育部成立校外教育培训监管司 K12迎最强监管 教育中概股再跳水"
+        },
+        {
+          "id": "https://hot.cnbeta.com/articles/game/1141203.htm",
+          "author": "teikaei",
+          "description": "还记得早在2019年5月公开的创意型新掌机Playdate么？其独特玩法吸引了不少玩家眼球，历经漫长的开发阶段，官方已经宣布主机定价179美元，预定今年7月下旬发售，6月16日今天公布了最新游戏实机演示，一起先睹为快。\n 阅读全文",
+          "link": "https://hot.cnbeta.com/articles/game/1141203.htm",
+          "publishedOn": "2021-06-16T03:32:31.000Z",
+          "wordCount": 208,
+          "title": "创意手摇把掌机Playdate实机游戏演示 7月正式发售"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1141201.htm",
+          "author": "raymon725",
+          "description": "WCCFTech 刚刚曝光了 AMD 新获的一项有趣专利，因为它预示了下一代锐龙 CPU / APU 产品线可能采用类似移动设备平台的“大小核”设计理念。此前多年，智能机 SoC 厂商已经对 big.LITTLE 架构展开了充分的验证，而英特尔也计划在 12 代 Alder Lake-S 桌面产品线上试水 16C / 24T 的大小核设计。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1141201.htm",
+          "publishedOn": "2021-06-16T03:32:25.000Z",
+          "wordCount": 284,
+          "title": "AMD大小核专利曝光：或用于下一代锐龙CPU与APU"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1141199.htm",
+          "author": "teikaei",
+          "description": "Jeda Products（官方网址为getjeda）是一家来自美国加州的设计及制造公司，这家公司十分擅长为特斯拉汽车制造科技配件。由于Jeda生产的配件十分接近原厂质感，这家公司也因此扬名。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1141199.htm",
+          "publishedOn": "2021-06-16T03:13:55.000Z",
+          "wordCount": 211,
+          "title": "Jeda为特斯拉推出新款USB集线器控制台 支持手机、耳机等各种设备无线充电"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1141197.htm",
+          "author": "study875",
+          "description": "今天 Linux.org 官网发出公告，表示将和 Migadu 合作在 linux.dev 域名下提供邮件托管服务。目前该服务处于 Beta 测试状态，目前仅向 MAINTAINERS 文件中的内核开发者提供。不过官方维护团队表示后续希望能够为其他所有证明对 Linux 内核有持续贡献的人（patches, git commits, mailing list discussions等）提供服务。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1141197.htm",
+          "publishedOn": "2021-06-16T03:13:12.000Z",
+          "wordCount": 228,
+          "title": "Linux.org公告：在linux.dev域名下提供邮件托管服务"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1141195.htm",
+          "author": "teikaei",
+          "description": "近日，蔚来汽车官方宣布旗下智能电动SUV全新ES8已经获得欧盟整车型式认证（European Whole Vehicle Type Approval，EWVTA）。这标志着出口欧洲的ES8将可以量产，并在欧盟境内所有国家正式上牌注册。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1141195.htm",
+          "publishedOn": "2021-06-16T03:12:29.000Z",
+          "wordCount": 201,
+          "title": "蔚来ES8获得欧盟整车型式认证：出口挪威步伐逐渐落实"
+        },
+        {
           "id": "https://hot.cnbeta.com/articles/movie/1141193.htm",
           "author": "teikaei",
           "description": "“星爵”克里斯·帕拉特主演的科幻动作片《明日之战》发布终极预告。激烈交火，过去未来的地球人联合起来，与可怕的外星人开打世界大战，7月2日上线亚马逊。讲述时间旅行者来到现在，告诉人类：未来他们将在一场全球战争中输给致命的外星物种。\n 阅读全文",
