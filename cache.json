@@ -915,15 +915,6 @@
           "publishedOn": "2021-05-19T11:40:00.000Z",
           "wordCount": 4986,
           "title": "Frustrating Design Patterns: Mega-Dropdown Hover Menus"
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/05/create-edit-animate-svg-svgator3/",
-          "author": "hello@smashingmagazine.com (Mikołaj Dobrucki)",
-          "description": "Today, we are taking a closer look at [SVGator 3.0](https://www.svgator.com/?utm_source=article&utm_medium=smashingmag&utm_campaign=svgator3_smashing), a new major release of the popular SVG application that lets you create, edit and animate SVG files and make the best out of what SVG has to offer — from start to finish.",
-          "link": "https://smashingmagazine.com/2021/05/create-edit-animate-svg-svgator3/",
-          "publishedOn": "2021-05-18T10:30:00.000Z",
-          "wordCount": 1796,
-          "title": "How To Create, Edit And Animate SVGs All In One Place With SVGator 3.0"
         }
       ]
     },
@@ -1740,6 +1731,15 @@
       "feedUrl": "https://www.cnbeta.com/backend.php",
       "siteUrl": "https://www.cnbeta.com",
       "articles": [
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1141513.htm",
+          "author": "ugmbbc",
+          "description": "2016年，徐先生和张女士购买了一份“爱情保险”，合同约定只要两人3年内持续存在婚姻关系，就可以拿到2.3万余元赔付。该保险起止日期为2016年11月4日至2019年11月3日。按照保险合同约定，徐某购买的这份爱情保险，如果在保期内主险没有出过险，而且保期内与保险合同上的“指定心上人”持续存在婚姻关系，那么徐某就可以得到2.3万余元赔付。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1141513.htm",
+          "publishedOn": "2021-06-16T23:02:40.000Z",
+          "wordCount": 194,
+          "title": "夫妻俩购买“爱情保险”到期遭拒赔"
+        },
         {
           "id": "https://www.cnbeta.com/articles/tech/1141511.htm",
           "author": "ugmbbc",
