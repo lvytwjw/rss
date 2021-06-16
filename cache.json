@@ -1682,6 +1682,24 @@
       "siteUrl": "https://www.cnbeta.com",
       "articles": [
         {
+          "id": "https://www.cnbeta.com/articles/tech/1141373.htm",
+          "author": "raymon725",
+          "description": "目前已知的是 Intel 和 AMD 两家芯片厂商都在积极为新一代平台准备配套的芯片组，而 Uniko 硬件编辑的最新爆料，又给出了对于新一代台式机主板发布日期的预测。@PJ_Lab_UH 在 Twitter 上言简意赅地表示，适合英特尔 12 代 Alder Lake 平台的高端 Z690 芯片组主板将于 2021 年 4 季度上市，而中端的 B660 / 入门级 H610 芯片组则要等到 2022 年 1 季度。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1141373.htm",
+          "publishedOn": "2021-06-16T09:18:31.000Z",
+          "wordCount": 342,
+          "title": "英特尔或于2022年3季度为Raptor Lake处理器推出Z790主板"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/science/1141371.htm",
+          "author": "ugmbbc",
+          "description": "新的研究为我们不可避免的死亡找到了新的证据。由南丹麦大学的费尔南多·科尔切罗和北卡罗来纳州杜克大学的苏珊·阿尔伯茨领导的一项研究，包括来自14个国家42个机构的研究人员，为衰老理论 \"衰老不变率假说 \"提供了新的见解，该假说指出，每个物种都有一个相对固定的衰老率。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/science/1141371.htm",
+          "publishedOn": "2021-06-16T09:08:43.000Z",
+          "wordCount": 195,
+          "title": "我们无法欺骗衰老和死亡：对 \"老龄化速率不变假说\"的新见解"
+        },
+        {
           "id": "https://www.cnbeta.com/articles/science/1141369.htm",
           "author": "ugmbbc",
           "description": "研究显示，气候预测的准确性在很大程度上取决于北大西洋的海洋环流如何被纳入气候模型。30个最先进的IPCC气候模型对北半球，特别是欧洲的气候预测有很大的不同。现在对反应范围的分析显示，这些差异主要归因于各个模型对北大西洋洋流变化的模拟，而不仅仅是如通常假设的大气变化。\n 阅读全文",
