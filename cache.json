@@ -533,24 +533,6 @@
           "publishedOn": "2021-05-17T22:38:06.000Z",
           "wordCount": 5325,
           "title": "The Humble `img` Element And Core Web Vitals"
-        },
-        {
-          "id": "https://css-tricks.com/?p=339522",
-          "author": "Ashley Kolodziej",
-          "description": "I see you. In the back there, behind JavaScript and React and PHP and all those “real” programming languages, I see you. And I appreciate you.\nThe post A Love Letter to HTML & CSS appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/a-love-letter-to-html-css/",
-          "publishedOn": "2021-05-17T14:27:22.000Z",
-          "wordCount": 2661,
-          "title": "A Love Letter to HTML & CSS"
-        },
-        {
-          "id": "https://css-tricks.com/?p=340594",
-          "author": "Chris Coyier",
-          "description": "An interactive tool for learning grid syntax from Etesam Ansari. In the Learn section, it teaches you some concepts (involving multiple bits of the grid syntax) then gives you a task to complete by filling out the right syntax. I’m …\nThe post Euismod appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://www.euismod.dev/",
-          "publishedOn": "2021-05-17T14:27:13.000Z",
-          "wordCount": 3,
-          "title": "Euismod"
         }
       ]
     },
@@ -1699,6 +1681,168 @@
       "feedUrl": "https://www.cnbeta.com/backend.php",
       "siteUrl": "https://www.cnbeta.com",
       "articles": [
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1141163.htm",
+          "author": "study875",
+          "description": "华为 \" 天才少年计划 \" 招揽，曾经靠自制迷你 Linux 电脑 、NFC 身份证和带屏幕充电宝火爆 B 站的技术大佬 \" 稚晖君 \"，近日又有新作品。这次，他通过种种先进的技术手段和设备，将一部普普通通的自行车，改造成了一台自动驾驶自行车。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1141163.htm",
+          "publishedOn": "2021-06-16T02:28:40.000Z",
+          "wordCount": 216,
+          "title": "华为天才少年爆红，制作自动驾驶自行车"
+        },
+        {
+          "id": "https://hot.cnbeta.com/articles/game/1141161.htm",
+          "author": "study875",
+          "description": "由 IGN、GameSpot、PC Gamer 和 Games Radar +编辑评出的 E3 2021 大奖名单现已公布，这次的奖项专注于各个厂商和媒体 E3 活动“最受期待游戏”，《光环：无限》、《极限竞速：地平线 5》、《 马里奥+疯狂兔子：星耀之愿》等受到青睐。\n 阅读全文",
+          "link": "https://hot.cnbeta.com/articles/game/1141161.htm",
+          "publishedOn": "2021-06-16T02:27:32.000Z",
+          "wordCount": 245,
+          "title": "E3 2021 大奖公布：《极限竞速：地平线 5》 成最受期待游戏"
+        },
+        {
+          "id": "https://hot.cnbeta.com/articles/game/1141159.htm",
+          "author": "study875",
+          "description": "在今日 （6 月 16 日）凌晨的 E3 发布会上，世嘉公开了“超级猴子球”系列 20 周年纪念作《现尝好滋味！超级猴子球 1&2 重制版》，该作将于 2021 年 10 月 7 日发售，登陆 PS4/PS5/Steam/Switch 平台发售。\n 阅读全文",
+          "link": "https://hot.cnbeta.com/articles/game/1141159.htm",
+          "publishedOn": "2021-06-16T02:26:51.000Z",
+          "wordCount": 252,
+          "title": "《现尝好滋味！超级猴子球 1&2 重制版 》10 月 7 日发售"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1141157.htm",
+          "author": "study875",
+          "description": "从提升账号安全到定时信息发送，Google不断向全球 30 亿台活跃的 Android 设备发出更新。在今天更新的官方博文中，Google介绍了即将引入到 Android 系统中的 6 个安全功能，确保能够为用户提供妥善的安全保护。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1141157.htm",
+          "publishedOn": "2021-06-16T02:25:36.000Z",
+          "wordCount": 269,
+          "title": "[图]Android将获6项新功能：地震预警、标星信息等等"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/science/1141155.htm",
+          "author": "teikaei",
+          "description": "据外媒报道，一项新研究指出，全球一半以上的心血管疾病死亡发生在亚洲。该项研究论文敦促识别亚洲国家心血管疾病的流行病学特征以抗击流行病。报告指出，亚洲死于心血管疾病(CVD)的人数正在迅速增加，2019年全球超一半的心血管疾病死亡发生在亚洲国家。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/science/1141155.htm",
+          "publishedOn": "2021-06-16T02:25:27.000Z",
+          "wordCount": 192,
+          "title": "研究：亚洲心血管疾病死亡人数急速增加，占全球一半多"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1141153.htm",
+          "author": "raymon725",
+          "description": "参考近期的传闻，我们距离 Zen 4 CPU 的发布还有一年多的时间。但作为一款流行的 PC 硬件检测与诊断软件，HWiNFO 已经在新版预告中提到了对 AMD 下一代 Zen 4 CPU 的早期增强支持。对此，我们并不感到意外，因为此类工具软件总能提前做好针对即将推出的硬件更新的支持准备。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1141153.htm",
+          "publishedOn": "2021-06-16T02:24:01.000Z",
+          "wordCount": 370,
+          "title": "HWiNFO已添加对AMD下一代Zen 4处理器的早期支持"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/science/1141151.htm",
+          "author": "vivian",
+          "description": "据外媒报道，一项新研究发现，食用甲烷的微生物在海底碳酸盐岩石中以惊人的高代谢率帮助调节地球的温度。甲烷是一种危害性较大的温室气体，在地球的气候中起着关键作用。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/science/1141151.htm",
+          "publishedOn": "2021-06-16T02:22:53.000Z",
+          "wordCount": 195,
+          "title": "海洋中食用甲烷的微生物在调节地球温度方面发挥重要作用"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1141149.htm",
+          "author": "ugmbbc",
+          "description": "一年一度的6·18消费盛宴，亦是一场没有硝烟的战事。商家置于其中，早已摆出各自应战的姿态。6月12日下午，义乌商家张琳（化名）的淘宝店铺新订单通知声音此起彼伏，后台提示“喝杯茶吧，让精神抖擞起来”。她随手录下小视频并发在朋友圈，配文，“我认为这‘音乐’很动听，不用喝茶精神也很好”。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1141149.htm",
+          "publishedOn": "2021-06-16T02:11:58.000Z",
+          "wordCount": 200,
+          "title": "商家的6·18战事：“烧钱”参与一元秒杀 备百万亏损预算"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1141147.htm",
+          "author": "ugmbbc",
+          "description": "自去年反垄断战役打响，这场6·18电商角逐中“二选一”无疑走向聚光灯下。《关于平台经济领域的反垄断指南》公开征求意见约三个月后，2021年正式落地。随着一年一度的年度促销战事拉开帷幕，新京报记者调查发现，反垄断进入监管时代，商家被迫进行“二选一”的现象正在悄然生变，强势平台对商家呈现出逐步松绑态势。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1141147.htm",
+          "publishedOn": "2021-06-16T02:08:37.000Z",
+          "wordCount": 203,
+          "title": "反垄断之下电商平台“二选一”解绑 “独家”优惠政策下架"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/science/1141145.htm",
+          "author": "vivian",
+          "description": "据外媒报道，约2.519亿年前的古生代末期发生了地质记录中最严重的大灭绝。这一事件被称为第三次物种大灭绝(The Great Dying)，当时高达96%的海洋生物消失，约70%的陆地物种消失，包括植物和昆虫。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/science/1141145.htm",
+          "publishedOn": "2021-06-16T02:05:32.000Z",
+          "wordCount": 193,
+          "title": "第三次物种大灭绝：快速变暖导致森林-沼泽生态系统的突然崩溃"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1141143.htm",
+          "author": "teikaei",
+          "description": "有诸多迹象表明，特斯拉公司在美国德克萨斯州的电动汽车超级工厂接近投产，如人们在这个新工厂已经发现了一辆Model Y完整的铸件车身。特斯拉在美国德州和德国柏林的这两个电动汽车超级工厂投入生产，将是该公司在今年实现增长的最重要事件。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1141143.htm",
+          "publishedOn": "2021-06-16T02:03:40.000Z",
+          "wordCount": 212,
+          "title": "特斯拉美国德州工厂接近投产 Model Y车身铸件现厂区"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/science/1141141.htm",
+          "author": "vivian",
+          "description": "蓝色起源创始人贝索斯和SpaceX创始人马斯克就建造登月飞船产生了不小争执，美国国家航空航天局（NASA）开发登月飞船的项目也不得不暂停。这一切都源于美国国会一开始并未向NASA拨付足够资金，反而加大了太空探索的难度和成本。上周美国参议院通过的一项提案将在五年内向NASA拨款100亿美元，用于开发两个新的登月飞船。这项拨款相当于NASA总预算的43%。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/science/1141141.htm",
+          "publishedOn": "2021-06-16T02:03:38.000Z",
+          "wordCount": 202,
+          "title": "贝索斯马斯克登月飞船之争凸显美太空政策问题太多"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1141139.htm",
+          "author": "raymon725",
+          "description": "亚马逊前副总裁大卫·尼柯克（David Niekerk）向《纽约时报》曝料称，公司许多政策的初衷都是防止员工变懒。尼柯克帮助设计了亚马逊仓库管理系统。尼柯克表示，CEO杰夫·贝佐斯（Jeff Bezos）认为人天性懒惰的观点，对公司政策有很大影响。贝佐斯认为，员工好好工作的想法会随时间减弱，“他经常挂在嘴边的一句话是，用最少的努力获得自己所需是人的天性”。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1141139.htm",
+          "publishedOn": "2021-06-16T02:03:13.000Z",
+          "wordCount": 198,
+          "title": "亚马逊前高管曝料：贝佐斯认为懒惰是天性 监视仓库员工一举一动"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1141137.htm",
+          "author": "teikaei",
+          "description": "华尔街见闻此前提及，比特币昨日意外大涨，重返4万美元。市场普遍认为，是马斯克的一条推文又“点了一把火”。马斯克真是唯一的推手吗？一家曾经主营业务为商业智能（Business Intelligence），现如今拥有价值46亿美元比特币的公司，正打算大手笔加注比特币。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1141137.htm",
+          "publishedOn": "2021-06-16T02:02:43.000Z",
+          "wordCount": 198,
+          "title": "比特币重回4万美元与赌徒的“翻倍下注”模式"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1141135.htm",
+          "author": "study875",
+          "description": "在日前的 WWDC 2021 大会上，苹果宣布了 iOS/iPadOS 15 等更新，并放出了全新的壁纸。只是遗憾的是，目前放出的壁纸只有一张，提供了浅色和深色两种风格。事实上，iOS 15 中的 CarPlay 收录了 8 张新的壁纸，感兴趣的用户可以根据本文下方链接进行下载。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1141135.htm",
+          "publishedOn": "2021-06-16T02:02:20.000Z",
+          "wordCount": 221,
+          "title": "[图]iOS 15 CarPlay中8张新增壁纸下载"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1141133.htm",
+          "author": "teikaei",
+          "description": "智通财经APP获悉，英伟达向欧盟反垄断监管机构提交的400亿美元收购软银旗下ARM的方案被迫延误。据悉，三位知情人士称，欧盟委员会提出的问题比英伟达预想的要多。有报道称，反垄断机构已经告诉英伟达，如果他们不在本月底前提交文件，他们就要等到9月份，因欧洲工作人员夏季休假。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1141133.htm",
+          "publishedOn": "2021-06-16T02:01:27.000Z",
+          "wordCount": 201,
+          "title": "传遭到对手和客户方反对 英伟达收购ARM可能延误"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1141131.htm",
+          "author": "raymon725",
+          "description": "MSPU 报道称：如果您的手机正接受 Microsoft Defender for Endpoint 的统一管理，那 IT 管理员将很快能够检测到您的 iPhone 是否已经越狱。微软高级项目经理 Shravan Thota 解释称：“在被 Microsoft 365 Defender 检测到异常之后，安全团队将会收到相关警报，并将特定终端视作高风险设备”。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1141131.htm",
+          "publishedOn": "2021-06-16T02:01:12.000Z",
+          "wordCount": 238,
+          "title": "Microsoft Defender ATP将很快能够检测iPhone是否越狱"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/science/1141129.htm",
+          "author": "vivian",
+          "description": "英国《自然·衰老》杂志14日发表的一项医学最新研究：2期临床试验结果显示，全球首个用于治疗阿尔茨海默病的tau蛋白疫苗（AADvac1）安全性良好，而且能在轻度阿尔茨海默病患者体内诱导免疫应答。不过现阶段研究人员还无法检测到AADvac1疫苗对患者认知功能衰退的具体影响。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/science/1141129.htm",
+          "publishedOn": "2021-06-16T02:00:29.000Z",
+          "wordCount": 194,
+          "title": "阿尔茨海默病疫苗显示出安全性和免疫应答"
+        },
         {
           "id": "https://www.cnbeta.com/articles/tech/1141127.htm",
           "author": "ugmbbc",
