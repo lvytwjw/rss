@@ -524,15 +524,6 @@
           "publishedOn": "2021-05-18T14:31:25.000Z",
           "wordCount": 2401,
           "title": "How to Create Neon Text With CSS"
-        },
-        {
-          "id": "https://css-tricks.com/?p=340716",
-          "author": "Chris Coyier",
-          "description": "Addy Osmani on images in HTML:\nThe humble <img> element has gained some superpowers over the years. Given how central it is to image optimization on the web, let’s catch up on what it can do and how it can \n…\nThe post The Humble `img` Element And Core Web Vitals appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://www.smashingmagazine.com/2021/04/humble-img-element-core-web-vitals/",
-          "publishedOn": "2021-05-17T22:38:06.000Z",
-          "wordCount": 5325,
-          "title": "The Humble `img` Element And Core Web Vitals"
         }
       ]
     },
@@ -541,6 +532,20 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2021/06/complete-guide-accessibility-tooling/",
+          "author": "hello@smashingmagazine.com (Nic Chan)",
+          "description": "In a new short series of posts, we highlight some of the useful tools and techniques for developers and designers. Recently we’ve covered HTML Emails and SVG Generators. This time we look into different kinds of tools to help you streamline your accessibility testing process. Don’t miss the next one.",
+          "link": "https://smashingmagazine.com/2021/06/complete-guide-accessibility-tooling/",
+          "publishedOn": "2021-06-16T10:30:00.000Z",
+          "wordCount": 4099,
+          "title": "A Complete Guide To Accessibility Tooling",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/0e0ea8e6-a4ad-489c-b062-749a22d5e38e/complete-guide-accessibility-tooling.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          }
+        },
         {
           "id": "https://smashingmagazine.com/2021/06/multiple-wordpress-sites-locally-devkinsta/",
           "author": "hello@smashingmagazine.com (Leonardo Losoviz)",
@@ -1681,6 +1686,114 @@
       "feedUrl": "https://www.cnbeta.com/backend.php",
       "siteUrl": "https://www.cnbeta.com",
       "articles": [
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1141397.htm",
+          "author": "ugmbbc",
+          "description": "沃尔沃汽车集团的独立电动性能品牌Polestar将在美国生产其首款全电动SUV。该汽车制造商周三表示，Polestar 3将在南卡罗来纳州Ridgeville的一家工厂与沃尔沃汽车共享的工厂进行组装。Polestar 3是继纯电动的Polestar 2轿车和混合动力的大旅行车Polestar 1之后的又一款车型。Polestar 3的生产预计将于2022年在全球开始。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1141397.htm",
+          "publishedOn": "2021-06-16T11:01:22.000Z",
+          "wordCount": 209,
+          "title": "Polestar将在美国生产其首款全电动SUV Polestar 3"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/science/1141395.htm",
+          "author": "ugmbbc",
+          "description": "NASA宣布，国际空间站上的宇航员，也就是第65远征队的成员，将进行一组太空行走行动。第一次太空行走将于6月16日星期三进行，另一次将于6月20日星期日进行。这次太空行走将是为了安装新的太阳能电池板，以帮助国际空间站提高供电能力。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/science/1141395.htm",
+          "publishedOn": "2021-06-16T10:58:49.000Z",
+          "wordCount": 198,
+          "title": "NASA将安排一组太空行走计划 为国际空间站安装太阳能电池组"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/science/1141393.htm",
+          "author": "ugmbbc",
+          "description": "美国国家航空航天局（NASA）从6月16日星期三开始，为即将到来的绕月飞行任务中的人体模型举办命名投票活动。美国宇航局正在为Artemis I绕月飞行任务做准备，该任务将为把第一位女性和第一位有色人种送上月球表面铺平道路。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/science/1141393.htm",
+          "publishedOn": "2021-06-16T10:54:02.000Z",
+          "wordCount": 203,
+          "title": "NASA正为Artemis I任务中绕月飞行的假人命名发起投票"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1141391.htm",
+          "author": "ugmbbc",
+          "description": "据报道，印度科技部长拉维·尚卡尔·普拉萨德（Ravi Shankar Prasad）周二警告称，Twitter故意违背印度5月下旬生效的新法规。今年2月，印度科技部针对社交平台公布了一项名为《中介媒体准则和数字媒体道德规范》（Intermediary Guidelines and Digital Media Ethics Code）的新法规，旨在对Facebook和Twitter等社交媒体平台上的内容进行监管。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1141391.htm",
+          "publishedOn": "2021-06-16T10:44:11.000Z",
+          "wordCount": 205,
+          "title": "印度科技部警告Twitter违反新法规 Twitter或失去豁免权"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1141389.htm",
+          "author": "ugmbbc",
+          "description": "根据华尔街日报消息，苹果公司曾在 2016 年考虑过一个 \"大胆 \"的计划，推出基于订阅的医疗保健服务，这项服务称为 \"苹果医生（Apple doctors）\"。该项目因内部问题而搁置不前，目的是为客户提供全方位的医疗保健服务，整合从 iPhone 和 Apple Watch 收集的数据。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1141389.htm",
+          "publishedOn": "2021-06-16T10:40:32.000Z",
+          "wordCount": 239,
+          "title": "苹果曾考虑推出 Apple Doctors 医保服务"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1141387.htm",
+          "author": "ugmbbc",
+          "description": "昨天，Windows 11的一个早期版本泄露了，除了网络上到处流传的截图外，这一新版操作系统中有很多新的玩法没有立即显现出来，例如Windows 11现在包括一个非常方便的窗口收纳整理功能，无论是资源管理器还是任何Windows应用程序都可以用，如图所示。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1141387.htm",
+          "publishedOn": "2021-06-16T10:38:30.000Z",
+          "wordCount": 209,
+          "title": "Windows 11 窗口标题栏最大化按钮引入全新收纳整理功能"
+        },
+        {
+          "id": "https://hot.cnbeta.com/articles/comic/1141385.htm",
+          "author": "ugmbbc",
+          "description": "娱乐巨头福克斯在其新成立的NFT公司Blockchain Creative Labs的支持下，为NFT推出一只1亿美元的创意基金。福克斯表示，他将用1亿美元的资金支持“内容创造者、知识产权所有者和广告合作伙伴端到端区块链计算机生态系统解决方案，以建立、推出、管理和销售 NFT 的内容和体验，以及数字商品和资产。”\n 阅读全文",
+          "link": "https://hot.cnbeta.com/articles/comic/1141385.htm",
+          "publishedOn": "2021-06-16T10:32:47.000Z",
+          "wordCount": 207,
+          "title": "福克斯宣布为NFT内容创作成立1亿美元数字艺术基金"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1141383.htm",
+          "author": "ugmbbc",
+          "description": "苏宁易购公告称，本公司收到公司实际控制人、控股股东张近东先生以及股东苏宁电器集团有限公司的通知，其拟筹划本公司股份转让事宜，预计转让比例20％-25％，股权受让方属于基础设施等行业。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1141383.htm",
+          "publishedOn": "2021-06-16T10:30:53.000Z",
+          "wordCount": 193,
+          "title": "苏宁易购：控股股东张近东等拟筹划公司股份转让事宜"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1141381.htm",
+          "author": "ugmbbc",
+          "description": "与其它品牌汽车争相提升车辆的售价，提高品牌溢价率不同，特斯拉的发展逻辑是，通过不断降低电动车的成本，来与燃油车形成更大的竞争优势，加速汽车电动化的到来。而在国内的国产特斯拉车型中，一个极为重要的降价途径，就是换装国产版磷酸铁锂电池，电池成本的大幅下探，将会带动整车价格下降。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1141381.htm",
+          "publishedOn": "2021-06-16T10:29:43.000Z",
+          "wordCount": 207,
+          "title": "特斯拉又要降价？国产Model Y被曝将搭宁德时代磷酸铁锂电池"
+        },
+        {
+          "id": "https://hot.cnbeta.com/articles/movie/1141379.htm",
+          "author": "ugmbbc",
+          "description": "前段时间，字节跳动与腾讯的冲突正式公开化，字节官方已多次公开出面针对腾讯做出一系列动作，但几个月时间下来，腾讯方面似乎对此并不在意，未曾公开回应字节的针对。不过，双方的冲突却依然在继续。\n 阅读全文",
+          "link": "https://hot.cnbeta.com/articles/movie/1141379.htm",
+          "publishedOn": "2021-06-16T10:29:09.000Z",
+          "wordCount": 193,
+          "title": "字节跳动起诉腾讯视频：侵犯《亮剑》影视著作权 索赔1000万"
+        },
+        {
+          "id": "https://hot.cnbeta.com/articles/game/1141377.htm",
+          "author": "ugmbbc",
+          "description": "今年5月，国内主机玩家终于迎来期盼已久的索尼PS5国行版，与海外市场一样，提供数字、光驱两种版本，售价分别为3099元和3899元。不过由于过于抢手，每次开售都出现了一抢而空的情况，导致不少玩家至今依然无法从官方渠道购买。\n 阅读全文",
+          "link": "https://hot.cnbeta.com/articles/game/1141377.htm",
+          "publishedOn": "2021-06-16T10:27:16.000Z",
+          "wordCount": 193,
+          "title": "索尼PS5国行手柄新配色发售：529元起"
+        },
+        {
+          "id": "https://www.cnbeta.com/articles/tech/1141375.htm",
+          "author": "ugmbbc",
+          "description": "近日，一则“清华毕业生”求职家政管家的消息引发热议，简历照片被指涉嫌造假，一度引发广泛关注。据国内媒体报道，6月15日，上海市松江区市场监督管理局表示，目前已对涉事家政公司以涉嫌虚假宣传立案查处，目前正在调查过程中，后续将有调查结果。\n 阅读全文",
+          "link": "https://www.cnbeta.com/articles/tech/1141375.htm",
+          "publishedOn": "2021-06-16T10:26:16.000Z",
+          "wordCount": 193,
+          "title": "“清华毕业应聘保姆”引热议：照片系PS 涉事公司被查"
+        },
         {
           "id": "https://www.cnbeta.com/articles/tech/1141373.htm",
           "author": "raymon725",
